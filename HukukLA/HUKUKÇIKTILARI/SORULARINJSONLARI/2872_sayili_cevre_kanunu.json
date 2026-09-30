@@ -1,0 +1,1372 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bu Kanunun amacı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bütün canlıların ortak varlığı olan çevrenin, sürdürülebilir çevre ve sürdürülebilir kalkınma ilkeleri doğrultusunda korunmasını sağlamak.",
+                "B": "Yalnızca ekonomik kalkınmayı hedefleyerek sanayi faaliyetlerini desteklemek.",
+                "C": "Çevresel uyuşmazlıkların çözümü için özel mahkemeler kurmak.",
+                "D": "Tarihi ve kültürel varlıkların korunmasına öncelik vermek.",
+                "E": "Uluslararası çevre anlaşmalarının iç hukuka aktarılmasını düzenlemek."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Bu Kanunun amacı, bütün canlıların ortak varlığı olan çevrenin, sürdürülebilir çevre ve sürdürülebilir kalkınma ilkeleri doğrultusunda korunmasını sağlamaktır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunun amacını daralttığı veya kanun metninde yer almayan farklı hedefler belirttiği için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, “bugünkü ve gelecek kuşakların, sağlıklı bir çevrede yaşamasını güvence altına alan çevresel, ekonomik ve sosyal hedefler arasında denge kurulması esasına dayalı kalkınma ve gelişme” olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Sürdürülebilir kalkınma",
+                "B": "Sürdürülebilir çevre",
+                "C": "Çevre korunması",
+                "D": "Ekolojik denge",
+                "E": "Çevresel etki değerlendirmesi"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Sürdürülebilir kalkınma: Bugünkü ve gelecek kuşakların, sağlıklı bir çevrede yaşamasını güvence altına alan çevresel, ekonomik ve sosyal hedefler arasında denge kurulması esasına dayalı kalkınma ve gelişmeyi' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 2'de farklı kavramları tanımladıkları için yanlıştır. Özellikle B seçeneğindeki 'Sürdürülebilir çevre' tanımı, kaynakların varlığını ve kalitesini tehlikeye atmadan çevresel değerlerin ıslahı, korunması ve geliştirilmesi sürecini ifade eder ve 'kalkınma' vurgusu taşımaz."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, faaliyetleri sırasında veya sonrasında doğrudan veya dolaylı olarak çevre kirliliğine, ekolojik dengenin ve çevrenin bozulmasına neden olan gerçek ve tüzel kişiler aşağıdaki kavramlardan hangisiyle ifade edilir?",
+            "secenekler": {
+                "A": "Çevre gönüllüsü",
+                "B": "Bakanlık",
+                "C": "Kirleten",
+                "D": "Çevre yönetim birimi",
+                "E": "Proje tanıtım dosyası"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de yer alan 'Kirleten: Faaliyetleri sırasında veya sonrasında doğrudan veya dolaylı olarak çevre kirliliğine, ekolojik dengenin ve çevrenin bozulmasına neden olan gerçek ve tüzel kişileri' tanımına dayanmaktadır.\n- Diğer seçenekler: Madde 2'de tanımlanan farklı kişi, kurum veya belgeleri ifade ettikleri için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, 'sulak alan' tanımıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Doğal veya yapay olabilir.",
+                "B": "Suları durgun veya akıntılı olabilir.",
+                "C": "Denizlerin gelgit hareketlerinin çekilme devresinde altı metreyi geçmeyen derinlikleri kapsar.",
+                "D": "Sadece tatlı su kaynaklarını içerir.",
+                "E": "Bataklık, sazlık ve turbiyeler bu tanım kapsamındadır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de yer alan 'Sulak alan' tanımında suların 'tatlı, acı veya tuzlu' olabileceğinin belirtilmesine dayanmaktadır. Bu nedenle sadece tatlı su kaynaklarını içerdiği ifadesi yanlıştır.\n- Diğer seçenekler: Madde 2'deki sulak alan tanımında açıkça belirtilen unsurlar olduğu için doğrudur."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, aşağıdakilerden hangisi 'alıcı ortam' tanımı kapsamında sayılan unsurlardan biri değildir?",
+            "secenekler": {
+                "A": "Hava ortamı",
+                "B": "Su ortamı",
+                "C": "Toprak ortamı",
+                "D": "Bu ortamlarla ilişkili ekosistemler",
+                "E": "Doğada bulunan cansız varlıklar"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 2'de 'Alıcı ortam' tanımının 'Hava, su, toprak ortamları ile bu ortamlarla ilişkili ekosistemleri' kapsadığı hükmüne dayanmaktadır. 'Doğada bulunan cansız varlıklar' ise 'Doğal kaynak' tanımının bir parçasıdır.\n- Diğer seçenekler: Madde 2'de sayılan 'Alıcı ortam' unsurları arasında yer aldığı için doğrudur."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, 'çevre' kavramı, canlıların yaşamları boyunca ilişkilerini sürdürdükleri ve karşılıklı olarak etkileşim içinde bulundukları ortamları ifade eder. Aşağıdakilerden hangisi bu tanımda sayılan ortamlardan biri değildir?",
+            "secenekler": {
+                "A": "Biyolojik ortam",
+                "B": "Fiziksel ortam",
+                "C": "Sosyal ortam",
+                "D": "Hukuki ortam",
+                "E": "Ekonomik ortam"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de yer alan 'Çevre' tanımında 'biyolojik, fiziksel, sosyal, ekonomik ve kültürel ortamı' ifadesine dayanmaktadır. Bu tanımda 'hukuki ortam' sayılmamıştır.\n- Diğer seçenekler: Kanunda açıkça sayılan çevre tanımının bileşenleri olduğu için doğrudur."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, kirlenme ve bozulmanın önlenmesi, sınırlandırılması veya giderilmesi için yapılan harcamaların karşılanmasına ilişkin temel ilke aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Harcamalar, faaliyetin niteliğine göre Bakanlık ve yerel yönetimler arasında paylaştırılır.",
+                "B": "Harcamalar, kirleten veya bozulmaya neden olan tarafından karşılanır.",
+                "C": "Harcamalar, öncelikle sivil toplum kuruluşlarının ve birliklerin bütçelerinden karşılanır.",
+                "D": "Harcamalar, taraf olunan uluslararası anlaşmalar gereği oluşturulan küresel fonlardan talep edilir.",
+                "E": "Harcamalar, proje değerlendirmesini yapan yetkili kuruluşun sorumluluğundadır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3(g)'de belirtilen 'yapılan harcamalar kirleten veya bozulmaya neden olan tarafından karşılanır' hükmüne dayanmaktadır. Bu ilke 'kirleten öder' ilkesi olarak bilinir.\n- Diğer seçenekler: Kanunda belirtilen bu temel ilkeye aykırı yorumlar içerdiği için yanlıştır. Harcamaların sorumluluğu doğrudan kirletene veya bozulmaya neden olana yüklenmiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevre politikalarının oluşmasında vatandaşların çevre hakkını kullanacakları katılım ortamını yaratma yükümlülüğü aşağıdakilerden hangilerine aittir?",
+            "secenekler": {
+                "A": "Meslek odaları ve birliklere",
+                "B": "Sadece Bakanlığa",
+                "C": "Bakanlık ve yerel yönetimlere",
+                "D": "Sivil toplum kuruluşlarına",
+                "E": "Bölgesel ve küresel çevre sorunlarıyla ilgilenen kurumlara"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3(e)'de yer alan 'Bakanlık ve yerel yönetimler; meslek odaları, birlikler, sivil toplum kuruluşları ve vatandaşların çevre hakkını kullanacakları katılım ortamını yaratmakla yükümlüdür' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun metninde bu yükümlülüğün açıkça Bakanlık ve yerel yönetimlere verildiği belirtildiğinden yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevrenin korunması ve kirliliğin önlenmesi amacıyla kullanılabilecek piyasaya dayalı mekanizmalar ile ekonomik araçlar ve teşvikler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Depozito uygulaması",
+                "B": "Emisyon ücreti",
+                "C": "Karbon ticareti",
+                "D": "Geri kazanım katılım payı",
+                "E": "Zorunlu trafik sigortası prim indirimi"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3(h)'de sayılan ekonomik araçlar ve teşvikler listesinde 'Zorunlu trafik sigortası prim indirimi' ifadesinin yer almamasına dayanmaktadır.\n- Diğer seçenekler: Depozito uygulaması, emisyon ücreti, karbon ticareti ve geri kazanım katılım payı, maddede açıkça belirtilen mekanizmalar arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, sürdürülebilir kalkınma ilkesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yalnızca uluslararası anlaşmalardan doğan yükümlülüklerin yerine getirilmesinde gözetilir.",
+                "B": "Sadece sıfır atık ve döngüsel ekonomi politikalarında uygulanması zorunludur.",
+                "C": "Arazi ve kaynak kullanım kararlarını veren yetkili kuruluşlar, karar alma süreçlerinde bu ilkeyi gözetirler.",
+                "D": "Bu ilkenin uygulanmasından doğan maliyetler her durumda gerçek ve tüzel kişilerce karşılanır.",
+                "E": "Sadece Bakanlık ve yerel yönetimlerin işbirliği yaptığı faaliyetlerde dikkate alınır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3(c)'de belirtilen 'Arazi ve kaynak kullanım kararlarını veren ve proje değerlendirmesi yapan yetkili kuruluşlar, karar alma süreçlerinde sürdürülebilir kalkınma ilkesini gözetirler' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen ilkenin kapsamını yanlış veya eksik yansıttığı için hatalıdır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevrenin korunmasına ilişkin ilkelerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Herkes, çevrenin korunması ve kirliliğin önlenmesi konusunda alınacak tedbirlere uymakla yükümlüdür.",
+                "B": "Birden fazla bakanlığı ilgilendiren çevre uyuşmazlıklarında nihai kararı Bakanlık verir.",
+                "C": "Her türlü faaliyet sırasında atık oluşumunu kaynağında azaltan teknolojilerin kullanılması esastır.",
+                "D": "Çevre politikalarının oluşum sürecinde katılım hakkının sağlanması temel bir ilkedir.",
+                "E": "Ekonomik faaliyetlerin faydası ile doğal kaynaklar üzerindeki etkisi uzun dönemli olarak değerlendirilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3'te sayılan ilkeler arasında böyle bir hüküm bulunmadığı için 'B' seçeneğidir. İlgili kural, Yüksek Çevre Kurulunun görevlerini düzenleyen Madde 5(c)'de 'Birden fazla bakanlık ve kuruluşu ilgilendiren çevre konularına ilişkin uyuşmazlıklarda nihai kararı vermek' şeklinde yer almakta ve bu görev Yüksek Çevre Kuruluna ait olduğu için ifade yanlıştır.\n- Diğer seçenekler: Madde 3'ün (a), (f), (e) ve (d) bentlerinde belirtilen doğru ilkeleri yansıttığı için elenir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, sürdürülebilir kalkınma ilkesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Arazi ve kaynak kullanım kararlarını veren yetkili kuruluşlar, karar alma süreçlerinde bu ilkeyi gözetirler.",
+                "B": "Yüksek Çevre Kurulu, ekonomik kararlara çevre boyutunun dahil edilmesine imkân veren hukukî ve idarî tedbirleri bu ilke çerçevesinde belirler.",
+                "C": "Yapılacak ekonomik faaliyetlerin faydası ile doğal kaynaklar üzerindeki etkisi bu ilke çerçevesinde değerlendirilir.",
+                "D": "Çevre politikalarının oluşmasında temel olan katılım hakkının sağlanması, bu ilkenin uygulanmasının bir parçasıdır.",
+                "E": "Yüksek Çevre Kurulu, etkin bir çevre yönetimi için hedef ve strateji belirlerken bu ilkeyi dikkate alır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3'te sürdürülebilir kalkınma ilkesi (c ve d bentleri) ile katılım hakkı ilkesinin (e bendi) ayrı ve farklı ilkeler olarak düzenlenmiş olmasına dayanmaktadır. Metinde katılım hakkı, sürdürülebilir kalkınma ilkesinin bir parçası olarak tanımlanmamıştır.\n- Diğer seçenekler: A ve C seçenekleri Madde 3'te, B ve E seçenekleri ise Madde 5'te sürdürülebilir kalkınma ilkesiyle doğrudan ilişkilendirilen doğru hükümler olduğu için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, aşağıdakilerden hangisi Yüksek Çevre Kurulunun görevleri arasında yer alır?",
+            "secenekler": {
+                "A": "Vatandaşların çevre hakkını kullanacakları katılım ortamını yaratmak.",
+                "B": "Kirlenme ve bozulmanın önlenmesi için yapılan harcamaların kirleten tarafından karşılanmasını sağlamak.",
+                "C": "Birden fazla bakanlık ve kuruluşu ilgilendiren çevre konularına ilişkin uyuşmazlıklarda nihai kararı vermek.",
+                "D": "Sıfır atığın yaygınlaştırılması için depozito uygulaması gibi ekonomik araçlar kullanmak.",
+                "E": "Taraf olunan uluslararası anlaşmalardan doğan yükümlülüklerin yerine getirilmesi için düzenlemeler yapmak."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Birden fazla bakanlık ve kuruluşu ilgilendiren çevre konularına ilişkin uyuşmazlıklarda nihai kararı vermek' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen genel ilkeler veya Bakanlık gibi diğer kurumların görevleri olup, Yüksek Çevre Kurulunun görevleri arasında sayılmadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevrenin korunması ve yönetimi ile ilgili yetki ve sorumluluklara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bakanlık ve yerel yönetimler, gerekli hallerde meslek odaları ve sivil toplum kuruluşları ile işbirliği yaparlar.",
+                "B": "Yüksek Çevre Kurulu, birden fazla bakanlık ve kuruluşu ilgilendiren çevre konularına ilişkin uyuşmazlıklarda nihai kararı verir.",
+                "C": "Kirletenin gerekli önlemleri almaması nedeniyle kamu kurumlarınca yapılan harcamalar, Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre kirletenden tahsil edilir.",
+                "D": "Meslek odaları ve birlikler, sürdürülebilir kalkınma ilkesi çerçevesinde ekonomik kararlara çevre boyutunun dahil edilmesine imkân veren hukukî tedbirleri belirler.",
+                "E": "Bakanlık, taraf olunan uluslararası anlaşmalar sonucu ortaya çıkan yükümlülüklerin yerine getirilmesi için gerekli düzenlemelerde koordinasyon görevini yürütür."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'sürdürülebilir kalkınma ilkesi çerçevesinde ekonomik kararlara çevre boyutunun dahil edilmesine imkân veren hukukî ve idarî tedbirleri belirlemek' görevinin Yüksek Çevre Kuruluna ait olmasına dayanmaktadır. Bu görev meslek odalarına verilmemiştir.\n- Diğer seçenekler: A ve C seçenekleri Madde 3'te, B seçeneği Madde 5'te, E seçeneği ise yine Madde 3'te yer alan doğru görev ve sorumluluk tanımları olduğu için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, aşağıdakilerden hangisi Yüksek Çevre Kurulunun görevleri arasında yer almaz?",
+            "secenekler": {
+                "A": "Etkin bir çevre yönetiminin sağlanması için hedef, politika ve strateji belirlemek.",
+                "B": "Sürdürülebilir kalkınma ilkesi çerçevesinde ekonomik kararlara çevre boyutunun dahil edilmesine imkân veren hukukî ve idarî tedbirleri belirlemek.",
+                "C": "Birden fazla bakanlık ve kuruluşu ilgilendiren çevre konularına ilişkin uyuşmazlıklarda nihai kararı vermek.",
+                "D": "Kirlenme ihtimalinin bulunduğu durumlarda denetimler yaparak kirlenmeyi önleyici tedbirleri almakla ilgilileri yükümlü tutmak.",
+                "E": "Ekonomik kararlara çevre boyutunun dahil edilmesini sağlayacak stratejiler geliştirmek."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 5'te Yüksek Çevre Kurulunun görevleri arasında denetim yapma veya ilgilileri doğrudan yükümlü tutma gibi bir yetkinin sayılmamış olmasına dayanmaktadır. Kurulun görevleri daha çok politika belirleme, tedbirleri tespit etme ve uyuşmazlıkları çözme niteliğindedir.\n- Diğer seçenekler: A ve E seçenekleri Madde 5(a) bendinde, B seçeneği Madde 5(b) bendinde ve C seçeneği Madde 5(c) bendinde belirtilen Yüksek Çevre Kurulunun görevleri arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bir sanayi tesisinin neden olduğu kirlenmenin etkilerini gidermek için alınacak tedbirler konusunda iki farklı bakanlık arasında uyuşmazlık çıkması durumunda, bu konudaki nihai kararı verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yüksek Çevre Kurulu",
+                "B": "Kirlenmeye neden olan tesisin yönetimi",
+                "C": "İlgili yönetmelikleri hazırlayan idari birim",
+                "D": "Uyuşmazlığın çıktığı yerdeki en büyük mülki idare amiri",
+                "E": "Konuyla ilgili uzmanlaşmış sivil toplum kuruluşları"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Birden fazla bakanlık ve kuruluşu ilgilendiren çevre konularına ilişkin uyuşmazlıklarda nihai kararı vermek' hükmüne dayanmaktadır. Bu görev Yüksek Çevre Kuruluna aittir. Sorudaki senaryo, Madde 8'de düzenlenen 'kirlenmenin etkilerini gidermek' yükümlülüğü ile Madde 5'teki uyuşmazlık çözüm mekanizmasını birleştirmektedir. \n- Diğer seçenekler: Kanunda böyle bir yetkili merci tanımlanmadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Yüksek Çevre Kurulunun görevleri ve kirletme yasağına ilişkin yükümlülükler birlikte değerlendirildiğinde aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Yüksek Çevre Kurulu, etkin bir çevre yönetiminin sağlanması amacıyla politika ve strateji belirler.",
+                "B": "Kirlenme ihtimalinin bulunduğu durumlarda ilgililer kirlenmeyi önlemekle yükümlüdür.",
+                "C": "Bakanlıklar arası çevre uyuşmazlıklarında nihai kararı, kirlenmeye neden olan taraf verir.",
+                "D": "Kirlenmenin meydana geldiği hallerde kirleten, kirlenmenin etkilerini gidermek veya azaltmak için gerekli tedbirleri alır.",
+                "E": "Sürdürülebilir kalkınma ilkesi çerçevesinde hukukî ve idarî tedbirlerin belirlenmesi Yüksek Çevre Kurulunun görevlerindendir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Birden fazla bakanlık ve kuruluşu ilgilendiren çevre konularına ilişkin uyuşmazlıklarda nihai kararı vermek' hükmü gereğince bu yetkinin Yüksek Çevre Kuruluna ait olmasıdır. Kirleten tarafın böyle bir karar verme yetkisi bulunmamaktadır.\n- Diğer seçenekler: A ve E seçenekleri Madde 5'te sayılan Yüksek Çevre Kurulunun görevlerini, B ve D seçenekleri ise Madde 8'de düzenlenen kirletme yasağı kapsamındaki yükümlülükleri doğru bir şekilde ifade etmektedir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, kirlenmenin meydana geldiği hallerde kirletenin sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kirleten, öncelikle kirlenme ihtimalini ortadan kaldırmakla yükümlüdür.",
+                "B": "Kirleten, kirlenmeyi durdurmak, etkilerini gidermek veya azaltmak için gerekli tedbirleri almakla yükümlüdür.",
+                "C": "Kirlenmenin meydana geldiği durumlarda, kirleten yerine ilgili tüm taraflar kirlenmeyi önlemekle yükümlüdür.",
+                "D": "Kirleten, sadece alıcı ortama verilen atıkları temizlemekle sorumlu olup depolama faaliyetlerinden sorumlu değildir.",
+                "E": "Kirlenme meydana geldiğinde, kirletenin tek yükümlülüğü durumu derhal yetkili makamlara bildirmektir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'kirlenmenin meydana geldiği hallerde kirleten, kirlenmeyi durdurmak, kirlenmenin etkilerini gidermek veya azaltmak için gerekli tedbirleri almakla yükümlüdürler' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen yükümlülükleri yanlış duruma veya kişiye atfettiği (A ve C), sorumluluğun kapsamını hatalı şekilde daralttığı (D) veya metinde yer almayan bir yükümlülük öngördüğü (E) için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, ülke ve dünya ölçeğinde ekolojik önemi olan, çevre kirlenmeleri ve bozulmalarına duyarlı toprak ve su alanlarını Özel Çevre Koruma Bölgesi olarak tespit ve ilan etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bakanlık",
+                "B": "Cumhurbaşkanı",
+                "C": "Tarım ve Orman Bakanlığı",
+                "D": "Radyo ve Televizyon Üst Kurulu",
+                "E": "Yerel yönetimler"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 9(d)'de belirtilen 'Özel Çevre Koruma Bölgesi olarak tespit ve ilan etmeye...Cumhurbaşkanı yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumlar, kanunun farklı bentlerinde başka görevlerle yetkilendirilmiş olsalar da Özel Çevre Koruma Bölgesi ilan etme yetkisine sahip değildirler."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, sulak alanların doldurulması veya kurutulması yoluyla hukuka aykırı olarak arazi kazanılması durumunda uygulanacak temel yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Söz konusu alan faaliyet sahibince eski haline getirilir.",
+                "B": "Faaliyet sahibine mülki amir tarafından idari para cezası verilir.",
+                "C": "Kazanılan arazi Hazine adına tescil edilir.",
+                "D": "Faaliyet sahibinin tüm izin ve ruhsatları iptal edilir.",
+                "E": "Alan, en yakın milli parka dahil edilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 9(e)'de yer alan 'Bu hükme aykırı olarak arazi kazanılması halinde söz konusu alan faaliyet sahibince eski haline getirilir.' ifadesine dayanmaktadır.\n- Diğer seçenekler, kanunun bu özel durum için öngördüğü bir sonuç olmayıp, genel hukuki yaptırımlardan türetilmiş çeldiricilerdir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, kamuoyunda çevre bilincinin geliştirilmesi amacıyla özel televizyon kanallarının programlarında ayda en az ne kadar süreyle eğitici yayın yapılması zorunludur?",
+            "secenekler": {
+                "A": "Yarım saat",
+                "B": "Bir saat",
+                "C": "İki saat",
+                "D": "Üç saat",
+                "E": "Dört saat"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9(ı)'da geçen '...özel televizyon kanallarına ait televizyon programlarında ayda en az iki saat...eğitici yayınların yapılması zorunludur.' hükmüne dayanmaktadır.\n- A seçeneğindeki 'yarım saat' süresi özel radyo kanalları için geçerlidir; diğer seçeneklerdeki süreler ise kanunda yer almamaktadır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, aşağıdakilerden hangisi denizlerde balık çiftliklerinin kurulmasının yasaklandığı yerler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Hassas alan niteliğindeki kapalı koy ve körfezler",
+                "B": "Doğal sit alanları",
+                "C": "Arkeolojik sit alanları",
+                "D": "Turizm koruma ve geliştirme bölgeleri",
+                "E": "Kapalı körfezler"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9(h)'de belirtilen 'Denizlerde yapılacak balık çiftlikleri, hassas alan niteliğindeki kapalı koy ve körfezler ile doğal ve arkeolojik sit alanlarında kurulamaz.' hükmüne dayanmaktadır.\n- D seçeneğindeki 'Turizm koruma ve geliştirme bölgeleri' bu maddede sayılan yasaklı alanlar arasında yer almadığı için doğrudur. Diğer seçenekler ise kanun metninde açıkça belirtilen yasak kapsamındaki yerlerdir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, sürdürülebilir kalkınma ilkesi doğrultusunda çevre kirliliğini önlemek amacıyla Bakanlıkça yapılan veya yaptırılan çevre düzeni plânlarının ölçeği aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "1/5.000 - 1/10.000",
+                "B": "1/25.000 - 1/50.000",
+                "C": "1/50.000 - 1/100.000",
+                "D": "1/100.000 - 1/250.000",
+                "E": "1/250.000 - 1/500.000"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9(b)'de yer alan '...bölge ve havza bazında 1/50.000-1/100.000 ölçekli çevre düzeni plânları Bakanlıkça yapılır, yaptırılır ve onaylanır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde verilen ölçek aralıkları, kanun metninde belirtilen doğru aralığı kapsamadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Çevresel Etki Değerlendirmesi süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Faaliyetleri sonucu çevre sorunlarına yol açabilecek işletmeler, Çevresel Etki Değerlendirmesi Raporu veya proje tanıtım dosyası hazırlamakla yükümlüdür.",
+                "B": "Çevresel Etki Değerlendirmesi Olumlu Kararı alınmadıkça, ilgili projeler için yatırıma başlanamaz ve bu projeler ihale edilemez.",
+                "C": "Çevresel Etki Değerlendirmesi Olumlu Kararı alınmadan projelere ilişkin teşvik, onay ve ruhsat süreçlerine başvurulması kesinlikle mümkün değildir.",
+                "D": "Çevresel Etki Değerlendirmesine tâbi projeler ile konuya ilişkin usûl ve esaslar, Bakanlıkça çıkarılacak yönetmeliklerle belirlenir.",
+                "E": "Çevresel Etki Değerlendirmesi Olumlu Kararı olmaksızın, projelere ilişkin yapı ve kullanım ruhsatı verilemez."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Ancak, bu durum söz konusu teşvik, onay, izin ve ruhsat süreçlerine başvurulmasına engel teşkil etmez.' hükmüne dayanmaktadır. Bu hüküm, Çevresel Etki Değerlendirmesi Olumlu Kararı alınmamış olsa bile, ilgili idari süreçler için başvuru yapılmasının yasaklanmadığını açıkça ifade etmektedir.\n- Diğer seçeneklerdeki ifadeler, maddede yer alan yükümlülük ve yasaklarla doğrudan uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, yapı ruhsatına, yapı kullanma iznine veya işletme ruhsatına sahip bir tesisin, arıtma ve bertaraf yükümlülüklerini yerine getirmemesi durumunda uygulanacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tesise uyarıda bulunularak ek süre verilir.",
+                "B": "Tesisin faaliyetleri geçici olarak durdurulur.",
+                "C": "Sadece idari para cezası uygulanır.",
+                "D": "Verilmiş yapı kullanma izni veya işletme izni iptal edilir.",
+                "E": "Tesisin yöneticileri hakkında adli soruşturma başlatılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'yapı ruhsatına, yapı kullanma izni veya işletme ruhsatını haiz olmakla birlikte arıtma ve bertaraf yükümlülüklerini yerine getirmemeleri halinde, verilmiş yapı kullanma izni veya işletme izni iptal edilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bu durum için belirtilen spesifik yaptırım, iznin iptalidir; diğer seçeneklerdeki yaptırımlar bu madde kapsamında doğrudan düzenlenmemiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, atıksu altyapı sistemlerinin kurulması, bakımı, onarımı ve işletilmesinden sorumlu olanlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Organize sanayi bölgelerinde organize sanayi bölgesi yönetimi",
+                "B": "Küçük sanayi sitelerinde kooperatif başkanlıkları",
+                "C": "Kültür ve turizm koruma ve gelişme bölgelerinde Kültür ve Turizm Bakanlığı",
+                "D": "Belediye ve mücavir alan sınırları dışında valiliğin denetiminde bu alanları kullananlar",
+                "E": "Bölgesel kalkınma ajansları"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 11'de atıksu altyapı sistemlerinden sorumlu olanlar arasında 'Bölgesel kalkınma ajansları'nın sayılmamış olmasına dayanmaktadır.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde belirtilen kurum ve yönetimler, maddede açıkça sorumlu olarak listelenmiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, atıksu toplama, arıtma ve bertaraf hizmetlerinden yararlananlardan alınan ücretlerin kullanımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ücretler, belediyenin genel bütçe açıklarını kapatmak için kullanılabilir.",
+                "B": "Ücretlerin kullanımı konusunda sorumlu idareler tamamen serbesttir.",
+                "C": "Ücretler, öncelikli olarak personelin özlük hakları için harcanır.",
+                "D": "Ücretler, atıksu ile ilgili hizmetler dışında kullanılamaz.",
+                "E": "Ücretlerin en az yarısı, diğer çevresel projelere aktarılmak zorundadır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 11'de yer alan 'Bu fıkra uyarınca tahsil edilen ücretler, atıksu ile ilgili hizmetler dışında kullanılamaz' şeklindeki açık hükme dayanmaktadır.\n- Diğer seçenekler: Kanun, bu ücretlerin kullanım alanını kesin bir şekilde sınırladığı için diğer seçeneklerdeki ifadeler yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, atık taşıma ve toplama işleri için lisans alma yükümlülüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece tehlikeli atık taşıyan kuruluşlar Bakanlıktan lisans almak zorundadır.",
+                "B": "Evsel atıklar hariç olmak üzere, atık taşıma veya toplama işlerini yapan kurumlar Bakanlıktan lisans almak zorundadır.",
+                "C": "Tüm atık taşıma ve toplama işleri, herhangi bir lisans veya kayda tabi olmaksızın yapılabilir.",
+                "D": "Evsel atık taşıma işlerini yapan kurumlar da diğer atıklar gibi Bakanlıktan lisans almakla yükümlüdür.",
+                "E": "Lisans alma yükümlülüğü sadece özel şirketler için geçerli olup kamu kurumları bu yükümlülükten muaftır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'deki 'Evsel atıklar hariç olmak üzere, atık taşıma ve/veya toplama işlerini yapan kurum veya kuruluşlar Bakanlıktan lisans almak zorundadır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun, evsel atıkları bu zorunluluğun dışında tuttuğu ve diğer atıklar için lisans şartı getirdiği için yanlıştır. Evsel atık taşıyanlar ise lisans yerine Bakanlıkça kayıt altına alınır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, atık yönetimi ile ilgili temel ilkeler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Atıkların üretiminin ve zararlarının önlenmesi veya azaltılması",
+                "B": "Geri kazanılabilen atıkların kaynağında ayrı toplanması",
+                "C": "Atıkların, doğal kaynak ve hammadde kullanımının azaltılması amacıyla kullanılması",
+                "D": "Atıkların bertaraf edilmeden önce menşe ülkeye iade edilmesi",
+                "E": "Sıfır atık yönetim sisteminin kurulması ve işletilmesinin zorunlu olması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 11'de atık yönetimi ilkeleri arasında 'atıkların bertaraf edilmeden önce menşe ülkeye iade edilmesi' gibi bir ilkenin yer almamasına dayanmaktadır.\n- Diğer seçenekler: Atıkların önlenmesi, kaynağında ayrı toplanması, hammadde kullanımını azaltacak şekilde kullanılması ve sıfır atık yönetim sisteminin kurulması, maddede belirtilen temel esaslar arasında yer almaktadır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, denetim, bilgi verme ve bildirim yükümlülüğü çerçevesinde, Bakanlığın denetleme yetkisini devredebileceği kurum ve kuruluşlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "İl özel idareleri",
+                "B": "Türkiye Çevre Ajansı",
+                "C": "Sahil Güvenlik Komutanlığı",
+                "D": "Çevre denetim birimlerini kuran belediye başkanlıkları",
+                "E": "Organize Sanayi Bölgesi Müdürlükleri"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Gerektiğinde bu yetki, Bakanlıkça; ... devredilir' hükmünde sayılan kurumlar arasında Organize Sanayi Bölgesi Müdürlükleri'nin yer almamasına dayanmaktadır.\n- Diğer seçenekler: Madde 12'de denetim yetkisinin devredilebileceği kurumlar arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bazı yakıtların, maddelerin, atıkların ve tehlikeli kimyasalların ithalini yasaklama veya kontrole tâbi tutma yetkisi, Bakanlığın görüşünü alarak aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Hazine Müsteşarlığı",
+                "B": "Sanayi ve Teknoloji Bakanlığı",
+                "C": "Ticaret Bakanlığı",
+                "D": "Bakanlık (Çevre, Şehircilik ve İklim Değişikliği Bakanlığı)",
+                "E": "Tarım ve Orman Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Ticaret Bakanlığı bazı yakıtların, maddelerin, atıkların, tehlikeli kimyasallar ile bu kimyasalları içeren eşyaların ithalini, Bakanlığın görüşünü alarak yasaklayabilir veya kontrole tâbi tutabilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumların bu özel yetkiye sahip olduğu kanun metninde yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, tehlikeli kimyasalların üretimi veya atıkların toplanması gibi faaliyetlerde bulunanların yaptırmak zorunda oldukları malî sorumluluk sigortası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sigorta yaptırma zorunluluğuna uymayan işletmelere bu faaliyetler için izin verilmez.",
+                "B": "Sigorta, yalnızca Hazine Müsteşarlığı tarafından oluşturulan bir havuz tarafından temin edilebilir.",
+                "C": "Sorumlular, faaliyetlerine başladıktan sonraki altı ay içinde bu sigortayı yaptırmakla yükümlüdür.",
+                "D": "Sigorta tarife ve talimatları doğrudan Bakanlık (Çevre, Şehircilik ve İklim Değişikliği Bakanlığı) tarafından tespit edilir.",
+                "E": "Bu sigorta, sadece kaza sonucu oluşan maddi zararları teminat altına alır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 13'te yer alan 'Sigorta yaptırma zorunluluğuna uymayan kurum, kuruluş ve işletmelere bu faaliyetler için izin verilmez.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Sigortanın sigorta şirketlerince de temin edilebilmesi, faaliyetlere başlamadan önce yaptırılma zorunluluğu ve tarife yetkisinin Hazine Müsteşarlığının bağlı olduğu Bakana ait olması gibi nedenlerle yanlıştır. Metinde sigortanın kapsamı sadece maddi zararlarla sınırlandırılmamıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, tehlikeli kimyasallar ve atıklar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tehlikeli atıkların ithalatı, Bakanlığın özel iznine tâbidir.",
+                "B": "Yönetmeliğe aykırı piyasaya sürülen tehlikeli kimyasallar, piyasaya sürenlere toplattırılır ve imha ettirilir.",
+                "C": "Tehlikeli kimyasal ve atık faaliyetlerinde bulunanlar, bu kanunla getirilen yükümlülükler açısından müteselsilen sorumludurlar.",
+                "D": "Tehlikeli kimyasalların ihracatına ilişkin usûl ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.",
+                "E": "Toplatma ve imha masraflarını ödemeyen işletmelerden bu alacaklar, Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil edilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 13'te yer alan 'Tehlikeli atıkların ithalatı yasaktır.' hükmüne dayanmaktadır. Kanun, bu konuda herhangi bir izne olanak tanımayan mutlak bir yasak getirmiştir.\n- Diğer seçeneklerdeki ifadeler, kanun metninde yer alan doğru düzenlemeler olduğu için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, yönetmelik hükümlerine aykırı olarak piyasaya sürüldüğü tespit edilen tehlikeli kimyasalların toplatılması ve imha edilmesi masraflarının ilgililerince karşılanmaması durumunda yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlgili işletmenin tüm faaliyetleri süresiz olarak durdurulur.",
+                "B": "Masraflar, Hazine Müsteşarlığı bütçesinden avans kullanılarak karşılanır.",
+                "C": "İşletme yöneticileri hakkında derhal adli soruşturma başlatılır.",
+                "D": "Masraflar, Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil edilir.",
+                "E": "Bakanlık tarafından re'sen en yüksek sınırdan idari para cezası uygulanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Bu yükümlülüğün yerine getirilmemesi halinde bu masraflar, ilgili kurum, kuruluş ve işletmelerden 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil edilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun metninde, masrafların karşılanmaması durumunda uygulanacak yaptırım olarak diğer seçeneklerde belirtilen işlemler (faaliyet durdurma, Hazine'den karşılama, adli soruşturma, idari para cezası) sayılmadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, gürültü ve titreşimin yönetmeliklerle belirlenen standartlara indirilmesi için faaliyet sahiplerince tedbir alınması gereken kaynaklar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Ulaşım araçları",
+                "B": "Şantiye ve fabrika",
+                "C": "Eğlence yeri ve işyeri",
+                "D": "Milli parklar ve tabiat anıtları",
+                "E": "Hizmet binaları ve konutlar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Ulaşım araçları, şantiye, fabrika, atölye, işyeri, eğlence yeri, hizmet binaları ve konutlardan kaynaklanan gürültü ve titreşimin yönetmeliklerle belirlenen standartlara indirilmesi için faaliyet sahipleri tarafından gerekli tedbirler alınır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun metninde gürültü kaynağı olarak açıkça sayılan yerler arasında yer aldığı için yanlıştır. Milli parklar ve tabiat anıtları ise bu listede sayılmamıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, faaliyetlerin durdurulmasıyla ilgili olarak, aşağıdaki durumlardan hangisinde aykırı faaliyeti düzeltmek üzere süre verilmeksizin derhal durdurma kararı alınır?",
+            "secenekler": {
+                "A": "Çevre izni veya çevre izin ve lisansı olmayan bir faaliyetin yürütülmesi",
+                "B": "Kanun uyarınca yayımlanan yönetmeliklere ilk kez aykırı davranılması",
+                "C": "Aykırılığın bir yılı aşmayacak bir sürede düzeltilebilecek nitelikte olması",
+                "D": "Denetim yetkisinin devredildiği bir kurum tarafından aykırılığın tespit edilmesi",
+                "E": "Faaliyetin durdurulmasıyla birlikte bu Kanunda öngörülen cezaların da uygulanacak olması"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Çevre ve insan sağlığı yönünden tehlike yaratan faaliyetler ile çevre izni veya çevre izin ve lisansı olmayan faaliyetler süre verilmeksizin durdurulur.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda süre verilebilecek genel durumları veya konuyla ilgisiz usulleri tanımladığı için yanlıştır. Kanuna aykırı faaliyetlerde, aykırılığın niteliği tehlike arz etmiyorsa bir yıla kadar süre verilebilmesi genel kuraldır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, proje tanıtım dosyası hazırlanmaksızın başlanan bir faaliyetin durdurulması yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bakanlık",
+                "B": "Denetim yetkisinin devredildiği kurum veya merci",
+                "C": "Mahallin en büyük mülkî amiri",
+                "D": "Büyükşehir belediyesi su ve kanalizasyon idaresi",
+                "E": "Hazine ve Maliye Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'proje tanıtım dosyası hazırlanmaksızın başlanan faaliyetler ise mahallin en büyük mülkî amiri tarafından süre verilmeksizin durdurulur.' hükmüne dayanmaktadır.\n- A seçeneğindeki Bakanlık, Çevresel Etki Değerlendirmesi incelemesi yapılmayan faaliyetleri durdurma yetkisine sahiptir. D ve E seçeneklerindeki kurumlar ise Madde 18'de düzenlenen çevre katkı payı ile ilgili olup, faaliyet durdurma yetkileri bu kapsamda bulunmamaktadır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bir işyerinin kişilerin beden ve ruh sağlığını bozacak şekilde standartlar üzerinde gürültü oluşturduğu tespit edilmiştir. Bu aykırılığın giderilmesi sürecine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Faaliyetin derhal ve süresiz olarak durdurulması zorunludur.",
+                "B": "Aykırılığın düzeltilmesi için sadece para cezası uygulanır, faaliyetin durdurulması mümkün değildir.",
+                "C": "Faaliyet sahibine aykırılığı düzeltmesi için bir yılı aşmamak üzere süre verilebilir.",
+                "D": "Verilen süre sonunda aykırılık düzeltilmezse, faaliyet sadece kısmen durdurulabilir.",
+                "E": "Çevre ve insan sağlığı yönünden tehlike yaratsa dahi, faaliyeti durdurmadan önce mutlaka süre verilmesi gerekir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Bu Kanun ve bu Kanun uyarınca yayımlanan yönetmeliklere aykırı davrananlara söz konusu aykırı faaliyeti düzeltmek üzere ... bir yılı aşmamak üzere süre verilebilir' hükmüne dayanmaktadır. Madde 14'te belirtilen gürültü yasağına aykırılık bu kapsamdadır.\n- Diğer seçenekler: Madde 15'te belirtilen usule aykırı veya eksik bilgiler içerdiği için yanlıştır. Özellikle E seçeneği, kanunda 'Çevre ve insan sağlığı yönünden tehlike yaratan faaliyetler ... süre verilmeksizin durdurulur' şeklinde belirtilen istisnanın tam tersini iddia etmektedir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, ithaline izin verilen kontrole tâbi yakıtlar ile büyükşehir belediyeleri su ve kanalizasyon idarelerince tahsil edilen bedeller üzerinden alınan çevre katkı payı oranlarını sıfıra kadar indirme veya kanunî oranına kadar yükseltme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Çevre ve Şehircilik Bakanlığı",
+                "B": "Cumhurbaşkanı",
+                "C": "Hazine ve Maliye Bakanlığı",
+                "D": "İlgili Büyükşehir Belediye Meclisi",
+                "E": "Gelir İdaresi Başkanlığı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Cumhurbaşkanı (a) ve (b) bentlerinde yer alan oranları ayrı ayrı veya topluca sıfıra kadar indirmeye veya kanunî oranına kadar yükseltmeye yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda bir yetkisi kanunda düzenlenmediği için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevre katkı payı ve diğer gelirler karşılığında Bakanlık bütçesine ödenek öngörülen faaliyetlerle ilgili olarak aşağıdakilerden hangisi bu faaliyetler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Atıksu arıtımı ve katı atık geri kazanım tesislerinin kredi veya yardım suretiyle desteklenmesi",
+                "B": "Biyolojik çeşitliliğin korunması ve çölleşme ile mücadele çalışmaları",
+                "C": "Kentsel dönüşüm projeleri kapsamında riskli yapıların yenilenmesi",
+                "D": "Uluslararası sözleşmelerden kaynaklanan yükümlülüklerin karşılanması",
+                "E": "Çevre eğitimi ve yayını ile ilgili faaliyetler"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen ve Bakanlık bütçesinden ödenek ayrılacak faaliyetler arasında 'Kentsel dönüşüm projeleri kapsamında riskli yapıların yenilenmesi'nin sayılmamış olmasına dayanmaktadır.\n- Diğer seçenekler, maddede açıkça listelenen ve bu gelirlerle desteklenmesi öngörülen faaliyetler arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, kişilerin huzur ve sükununu bozan gürültünün önlenmesi amacıyla yürütülecek projelerin desteklenmesi ve çevre katkı payı arasındaki ilişki hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Gürültünün önlenmesi projeleri, sadece gürültüye neden olan faaliyet sahiplerinden alınan cezalarla finanse edilir.",
+                "B": "Büyükşehir belediyeleri su ve kanalizasyon idarelerince tahsil edilen su bedellerinden alınan paylar, gürültünün önlenmesi ile ilgili projelerin desteklenmesinde kullanılabilir.",
+                "C": "Çevre katkı payı oranlarını belirleme yetkisi yalnızca Bakanlığa aittir ve Cumhurbaşkanının bu konuda bir yetkisi yoktur.",
+                "D": "Çevre katkı payı olarak tahsil edilen gelirlerin tamamı doğrudan gürültü kirliliği ile mücadeleye ayrılmak zorundadır.",
+                "E": "Gürültü standartlarına uymayan işletmeler, çevre katkı payı ödemekten muaf tutulur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Büyükşehir belediyeleri su ve kanalizasyon idarelerince tahsil edilen su ve kullanılmış suları uzaklaştırma bedelinin yüzde biri ... çevre katkı payı olarak tahsil edilir' hükmü ile aynı maddede bu gelirlerin 'gürültünün önlenmesi ile ilgili etüt ve projelerin desteklenmesi' için kullanılabileceği hükmünün birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yetkiler, finansman kaynakları veya kullanım alanları hakkında yanlış bilgiler içerdiği için hatalıdır. C seçeneği Cumhurbaşkanının yetkisini, D seçeneği ise fonların kullanım alanının münhasır olmadığını göz ardı etmektedir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, ithaline izin verilen kontrole tâbi yakıt ve atıklar ile büyükşehir belediyeleri su ve kanalizasyon idarelerince tahsil edilen bedeller üzerinden alınan çevre katkı payı oranlarını sıfıra kadar indirmeye veya kanunî oranına kadar yükseltmeye yetkili makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Çevre ve Şehircilik Bakanı",
+                "B": "Hazine ve Maliye Bakanı",
+                "C": "Cumhurbaşkanı",
+                "D": "İlgili Büyükşehir Belediye Meclisi",
+                "E": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Cumhurbaşkanı (a) ve (b) bentlerinde yer alan oranları ayrı ayrı veya topluca sıfıra kadar indirmeye veya kanunî oranına kadar yükseltmeye yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu oranları değiştirme yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevre katkı payı ve diğer gelirler karşılığı Bakanlık bütçesine konulan ödeneğin kullanılabileceği faaliyetler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Biyolojik çeşitliliğin korunması ve çölleşme ile mücadele çalışmaları",
+                "B": "Hava, su ve toprak kalitesinin ölçüm ve izleme ağının oluşturulması",
+                "C": "Yeni organize sanayi bölgelerinin altyapı yatırımlarının finanse edilmesi",
+                "D": "Nesli tehlikede olan bitki ve hayvan türleri ile yaşama ortamlarının korunması",
+                "E": "Uluslararası sözleşmelerden kaynaklanan yükümlülüklerin karşılanması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen ödeneklerin kullanılabileceği faaliyetler listesine dayanmaktadır.\n- C seçeneğindeki 'Yeni organize sanayi bölgelerinin altyapı yatırımlarının finanse edilmesi' bu listede sayılmamıştır; diğer seçeneklerdeki faaliyetler ise maddede açıkça belirtilen harcama kalemleri arasında yer almaktadır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, tahsil edilen çevre katkı payı tutarlarının, ilgililerce ilgili mal saymanlıkları hesaplarına aktarılması için belirlenen son tarih aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tahsil edildiği günün akşamına kadar",
+                "B": "Tahsil edildiği ayı takip eden ilk iş günü",
+                "C": "Her ayın sonuna kadar",
+                "D": "En geç ertesi ayın onbeşine kadar",
+                "E": "Üç ayda bir, takip eden ayın sonuna kadar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Tahsil edilen bu tutarlar, ilgililerce en geç ertesi ayın onbeşine kadar ilgili mal saymanlıkları hesaplarına aktarılır' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler, kanunda yer alan bu düzenlemeyle çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, motorlu taşıtların egzoz gazı emisyonu ile ilgili idari para cezalarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Egzoz gazı emisyon ölçümü yaptırmayan motorlu taşıt sahiplerine 2.500 Türk lirası idari para cezası verilir.",
+                "B": "Yönetmeliklerle belirlenen standartlara aykırı emisyona sebep olan motorlu taşıt sahibine 1.250 Türk lirası idari para cezası verilir.",
+                "C": "Taşıtın imalatında bulunan katalitik konvertör olmadan kullanılan motorlu taşıt sahibine 1.250 Türk lirası idari para cezası verilir.",
+                "D": "Emisyon ölçüm belgelerinde tahrifat yapanlara 5.000 Türk lirası idari para cezası verilir.",
+                "E": "Tekniğine aykırı ölçüm yapan yetki belgeli kişilere 1.250 Türk lirası idari para cezası verilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Taşıtın imalatında bulunan egzoz gazı emisyon kontrol sistemi olan katalitik konvertör/katalizör/dizel partikül filtresi olmadan kullanılan motorlu taşıt sahibine 1.250 Türk lirası idari para cezası verilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 20'de belirtilen fiiller için öngörülen idari para cezası miktarları yanlış verildiği için hatalıdır. Örneğin, ölçüm yaptırmamanın cezası 1.250 TL, standartlara aykırı emisyonun cezası 2.500 TL, belgede tahrifatın cezası 10.000 TL ve tekniğe aykırı ölçümün cezası 5.000 TL'dir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bir fabrikanın standartlara aykırı şekilde gürültü ve titreşime neden olması durumunda uygulanacak idarî para cezası aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Konutlar için öngörülen 400 Türk Lirası",
+                "B": "Ulaşım araçları için öngörülen 1.200 Türk Lirası",
+                "C": "İşyerleri ve atölyeler için öngörülen 4.000 Türk Lirası",
+                "D": "Fabrika, şantiye ve eğlence gürültüsü için öngörülen 12.000 Türk Lirası",
+                "E": "İzne tabi tesisler için öngörülen 24.000 Türk Lirası"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'standartlara aykırı şekilde gürültü ve titreşime neden olanlara, ... fabrika, şantiye ve eğlence gürültüsü için 12.000 Türk Lirası idarî para cezası verilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A, B ve C seçenekleri gürültü ve titreşimle ilgili olmakla birlikte farklı kategoriler (konut, ulaşım aracı, işyeri) için belirlenmiş ceza miktarlarıdır. E seçeneği ise hava kirliliği ile ilgili farklı bir düzenlemedeki ceza miktarıdır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, anız yakma fiili ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Anız yakma fiilinin orman ve sulak alanlara bitişik yerler ile meskûn mahallerde işlenmesi durumunda ceza beş kat artırılır.",
+                "B": "Anız yakanlara, fiilin işlendiği arazinin büyüklüğüne bakılmaksızın sabit bir idari para cezası uygulanır.",
+                "C": "Anız yakma fiilinin tarımsal verimi artırdığı tespit edilirse herhangi bir ceza verilmez.",
+                "D": "Anız yakma fiilinin gece vakti işlenmesi durumunda ceza iki kat artırılır.",
+                "E": "Anız yakma fiilinin tekrarı halinde ceza on kat artırılarak uygulanır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Anız yakma fiilinin orman ve sulak alanlara bitişik yerler ile meskûn mahallerde işlenmesi durumunda ceza beş kat artırılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda anız yakma cezasının dekar başına hesaplandığı, gece işlenmesi veya tekrarı halinde cezanın artırılacağına dair özel bir düzenleme bulunmadığı ve fiilin her durumda cezai yaptırıma tabi olduğu için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Çevresel Etki Değerlendirmesi süreci tamamlanmadan inşaata başlayan ya da faaliyete geçen yatırımcı hakkında uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Proje bedelinin yüzde beşi oranında idari para cezası verilir ve faaliyet süresiz olarak durdurulur.",
+                "B": "Proje bedelinin yüzde ikisi oranında idari para cezası verilir ve yatırımcı faaliyet alanını eski hale getirmekle yükümlü tutulur.",
+                "C": "Sadece faaliyet alanını eski hale getirme yükümlülüğü getirilir, para cezası uygulanmaz.",
+                "D": "Her bir ihlal için 10.000 Türk Lirası idari para cezası verilir ve yatırımcının lisansı iptal edilir.",
+                "E": "Proje bedelinin yüzde yirmisi oranında idari para cezası verilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Çevresel Etki Değerlendirmesi süreci tamamlamadan inşaata başlayan ya da faaliyete geçenlere proje bedelinin yüzde ikisi oranında idarî para cezası verilir. Cezaya konu olan durumlarda yatırımcı faaliyet alanını eski hale getirmekle yükümlüdür.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 20'de belirtilen ceza oranı ve ek yükümlülüklerle uyuşmadığı için yanlıştır. D seçeneğindeki 10.000 TL'lik ceza, ÇED sürecinde verilen taahhütnameye aykırı davranmanın yaptırımıdır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, idari nitelikteki cezalara ilişkin genel hükümlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kanunda öngörülen cezalar Özel Çevre Koruma Bölgelerinde iki kat olarak uygulanır.",
+                "B": "Cumhurbaşkanı, kanunda öngörülen ceza miktarlarını on katına kadar artırmaya yetkilidir.",
+                "C": "Belirli bentlerde öngörülen idarî para cezaları, fiili işleyen kurum, kuruluş ve işletmelere üç katı olarak verilir.",
+                "D": "Kirliliğe neden olan gemi veya deniz aracının kendi imkânları ile kirliliği gidermesi durumunda, idarî para cezası üçte bir oranında uygulanır.",
+                "E": "Kanunda belirtilen herhangi bir fiilin tekrarı halinde, verilecek idari para cezası her defasında iki kat artırılır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 20'de fiillerin tekrarı halinde cezanın katlanarak uygulanacağına dair genel bir hüküm bulunmadığı için E seçeneğidir. Bu ifade kanunda yer almamaktadır.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde yer alan ifadeler, Madde 20'nin farklı bentlerinde ve son paragraflarında açıkça düzenlenmiş doğru hükümlerdir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, idari para cezası gerektiren bir fiilin işlenmesinden itibaren üç yıl içinde ikinci kez tekrar edilmesi durumunda ceza nasıl uygulanır?",
+            "secenekler": {
+                "A": "Bir kat artırılarak verilir.",
+                "B": "Üç kat artırılarak verilir.",
+                "C": "Artırım uygulanmaksızın aynı miktarda verilir.",
+                "D": "Yarı oranında artırılarak verilir.",
+                "E": "İki kat artırılarak verilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen '...ikinci ve müteakip tekrarında iki kat artırılarak verilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen artırım oranları ve koşullarıyla uyumlu olmadığı için yanlıştır. A seçeneğinde belirtilen 'bir kat artırım' fiilin birinci tekrarı için geçerlidir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, sulak alanlar için yönetmelikle belirlenen koruma ve kullanım usul ve esaslarına aykırı davranılması nedeniyle uygulanan idari yaptırımlara karşı açılacak davalar aşağıdaki mercilerden hangisine karşı açılır?",
+            "secenekler": {
+                "A": "Bakanlığa",
+                "B": "Tarım ve Orman Bakanlığına",
+                "C": "Doğa Koruma ve Milli Parklar Genel Müdürlüğüne",
+                "D": "Çevre ve şehircilik il müdürlüklerine",
+                "E": "İdare mahkemesine"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen 'Bu fıkra hükmü uyarınca uygulanacak idari yaptırımlara karşı açılacak davalar Tarım ve Orman Bakanlığına karşı açılır.' hükmüne dayanmaktadır. Bu hüküm, sulak alanlarla ilgili ihlaller için genel kuraldan ayrılarak özel bir düzenleme getirmiştir.\n- Diğer seçenekler: A seçeneği genel kuralı belirtir ancak bu özel durumda uygulanamaz. C seçeneğindeki Genel Müdürlük yaptırımı uygulayan birimdir, ancak dava Bakanlığa karşı açılır. D seçeneğindeki il müdürlükleri taşra teşkilatında karar verme yetkisine sahip olup davanın tarafı değildir. E seçeneğindeki idare mahkemesi ise davanın açıldığı yerdir, davanın tarafı değildir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, denetim yetkisi devredilen kurum ve merciler tarafından verilen idarî para cezalarının gelir kaydına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Cezanın tamamı genel bütçeye gelir kaydedilir.",
+                "B": "Cezanın tamamı, cezayı veren kurumun bütçesine gelir kaydedilir.",
+                "C": "Cezanın yüzde ellisi kurum bütçesine, yüzde ellisi genel bütçeye gelir kaydedilir.",
+                "D": "Cezanın yüzde seksenlik kısmı kurum bütçesine, kalanı genel bütçeye gelir kaydedilir.",
+                "E": "Cezanın geliri öncelikle Bakanlık bütçesine aktarılır, daha sonra kurumlara paylaştırılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 24'te yer alan 'idarî para cezalarının yüzde ellisi, ... bu kurumların bütçesine gelir kaydedilir, yüzde ellisi ise genel bütçeye gelir kaydedilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen oran yüzde elli-yüzde elli şeklindedir. Bu nedenle cezanın tamamının tek bir bütçeye kaydedildiğini veya farklı bir oran uygulandığını belirten ifadeler yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, denetim yetkisinin devredildiği bir kurum tarafından bir işletmeye idari para cezası verilmesi durumunda, bu karara itiraz süreciyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Karara karşı otuz gün içinde, kararı veren kuruma itiraz edilmelidir.",
+                "B": "Dava, kararı veren kurumun bütçesine gelir kaydedilen ceza oranı nedeniyle doğrudan Maliye Bakanlığına karşı açılır.",
+                "C": "İdari yaptırım kararına karşı tebliğ tarihinden itibaren otuz gün içinde idare mahkemesinde dava açılabilir ve bu dava cezanın tahsilini durdurur.",
+                "D": "İdari para cezasına karşı açılacak dava, denetim yetkisini devreden Bakanlığa karşı açılır ve dava açılması tahsilat işlemlerini durdurmaz.",
+                "E": "Cezanın tahsili için Kabahatler Kanunu hükümleri uygulandığından, itirazlar da bu kanun uyarınca sulh ceza hakimliğine yapılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen 'Bu Kanun uyarınca uygulanacak idari para cezalarına karşı açılacak olan davalar Bakanlığa karşı açılır' hükmü ile Madde 25'te yer alan 'Dava açmış olmak idarece verilen cezanın tahsilini durdurmaz' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: İtiraz mercii, davanın tarafı ve davanın tahsilata etkisi konularında kanunda belirtilen usullere aykırı bilgiler içerdiği için yanlıştır. Özellikle itiraz süresi doğru olsa da, davanın açılacağı merci (idare mahkemesi), davanın tarafı (Bakanlık) ve davanın etkisi (tahsili durdurmaması) gibi unsurlar diğer seçeneklerde hatalı verilmiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, idarî yaptırım kararlarına karşı başvurulacak hukuki yollarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İdarî yaptırım kararlarına karşı idare mahkemesinde dava açılabilir.",
+                "B": "Dava açma süresi, kararın ilgiliye tebliğ tarihinden itibaren otuz gündür.",
+                "C": "Dava açılması, idarece verilen cezanın tahsilini kendiliğinden durdurur.",
+                "D": "İdarî para cezalarının tahsilinde Kabahatler Kanunu hükümleri uygulanır.",
+                "E": "İdarî yaptırım kararı, Tebligat Kanunu hükümlerine göre ilgiliye tebliğ edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Dava açmış olmak idarece verilen cezanın tahsilini durdurmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler, idari yaptırım kararlarına karşı dava açma süresi, yetkili mahkeme, kararın tebliği ve cezanın tahsil usulü hakkında Madde 25'te yer alan doğru bilgileri içermektedir. C seçeneği ise kanundaki bu hükmün tam tersini iddia ettiği için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bir denetim sırasında hem yanlış ve yanıltıcı bilgi veren hem de aynı fiili üç yıl içinde ikinci kez işleyerek idari para cezası gerektiren bir ihlalde bulunan bir işletmeyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Yanlış ve yanıltıcı bilgi vermesi nedeniyle ilgililer hakkında altı aydan bir yıla kadar hapis cezası verilebilir.",
+                "B": "İdari para cezası, fiilin ikinci tekrarı olduğu için iki kat artırılarak uygulanır.",
+                "C": "Yetkili denetleme elemanları, idari yaptırımı gerektiren fiil için bir tutanak tanzim eder.",
+                "D": "Verilen idari para cezasına karşı tebliğden itibaren otuz gün içinde idare mahkemesinde dava açılabilir.",
+                "E": "İdari para cezasına karşı dava açılması, hapis cezasını gerektiren yargılama süreci sonuna kadar idari cezanın tahsilini durdurur."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Dava açmış olmak idarece verilen cezanın tahsilini durdurmaz' hükmüne dayanmaktadır. Seçenekte, idari para cezasına karşı dava açılmasının tahsili durduracağı ve bunun adli yargılama sürecine bağlanacağı şeklinde yanlış bir bilgi verilmiştir.\n- Diğer seçenekler: Madde 26'da belirtilen adli ceza, Madde 23'te düzenlenen cezanın tekrarında artırım oranı ve Madde 25'te yer alan tutanak düzenlenmesi ile dava açma süresi ve mercii gibi usul hükümleri doğru bir şekilde ifade edildiği için elenir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bildirim ve bilgi verme yükümlülüğüne aykırı olarak yanlış ve yanıltıcı bilgi verenler veya bu Kanun'un uygulanmasında yanlış ve yanıltıcı belge düzenleyenlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bildirim ve bilgi verme yükümlülüğüne aykırı olarak yanlış ve yanıltıcı bilgi verenler, altı aydan bir yıla kadar hapis cezası ile cezalandırılır.",
+                "B": "Yanlış ve yanıltıcı belge düzenleyenler ve kullananlar hakkında bu Kanun'a özgü idari para cezaları uygulanır.",
+                "C": "Yanlış bilgi verme nedeniyle yargıya intikal eden çevresel etki değerlendirmesi ihtilaflarında, değerlendirme süreci kesintisiz olarak devam eder.",
+                "D": "Bildirim ve bilgi verme yükümlülüğüne aykırı hareket edenlere yalnızca uyarı cezası verilir, hürriyeti bağlayıcı ceza öngörülmemiştir.",
+                "E": "Çevresel etki değerlendirmesine ilişkin bir ihtilaf yargıya taşındığında, değerlendirme süreci mahkemenin ilk duruşmasına kadar durur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'yanlış ve yanıltıcı bilgi verenler, altı aydan bir yıla kadar hapis cezası ile cezalandırılır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen hükümleri yanlış yansıttığı için hatalıdır. Kanun, yanlış belge düzenleyenler için Türk Ceza Kanunu'nun belgede sahtecilik hükümlerine atıf yapmakta ve çevresel etki değerlendirmesi sürecinin yargılama sonuna kadar duracağını açıkça belirtmektedir. Sürecin devam etmesi, sadece ilk duruşmaya kadar durması veya idari para cezası uygulanması gibi ifadeler kanun metniyle çelişmektedir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, adlî nitelikteki cezalar kapsamında yargıya intikal eden bir çevresel etki değerlendirmesi ihtilafının hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlgililere altı aydan bir yıla kadar hapis cezası verilmesi.",
+                "B": "İhtilafa konu olanlar hakkında Türk Ceza Kanunu'nun belgede sahtecilik hükümlerinin uygulanması.",
+                "C": "Yargılama sürecinin hızlandırılmış usule tabi olması.",
+                "D": "İhtilafın çözümü için idari bir komisyon kurulması.",
+                "E": "Çevresel etki değerlendirmesi sürecinin yargılama sonuna kadar durması."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'yargıya intikal eden çevresel etki değerlendirmesine ilişkin ihtilaflarda çevresel etki değerlendirmesi süreci yargılama sonuna kadar durur' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve B seçenekleri kanunda belirtilen farklı suçların (yanlış bilgi verme ve belgede sahtecilik) sonuçlarıdır; C ve D seçenekleri ise kanunda yer almayan usuli düzenlemeler olduğu için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bu Kanun kapsamında verilen idari nitelikteki cezaların diğer kanunlardaki cezalarla ilişkisi hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu Kanun'da belirtilen fiiller için idari ceza verilmesi, aynı fiil için diğer kanunlarda öngörülen cezaların uygulanmasını engellemez.",
+                "B": "Bir fiil için bu Kanun uyarınca idari ceza verilmişse, aynı fiil için başka bir kanun uyarınca ceza verilemez.",
+                "C": "Diğer kanunlarda daha ağır bir ceza öngörülüyorsa, bu Kanun'daki idari ceza uygulanmaz.",
+                "D": "Fail, bu Kanun'daki idari ceza ile diğer kanunlardaki ceza arasında daha lehe olanı seçme hakkına sahiptir.",
+                "E": "Bu Kanun'da öngörülen idari cezalar, sadece fiilin adli bir suç oluşturmaması halinde uygulanabilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Bu Kanunda yazılı fiiller hakkında verilecek idari nitelikteki cezalar, bu fiiller için diğer kanunlarda yazılı cezaların uygulanmasına engel olmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen bu kuralın tam tersini veya kanunda yer almayan bir hiyerarşi, seçim hakkı ya da engelleme durumu öne sürdüğü için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevreyi kirletenlerin ve çevreye zarar verenlerin sebep oldukları kirlenme ve bozulmadan doğan zararlardan sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sorumluluk için kirletenin en azından hafif kusurunun bulunması şarttır.",
+                "B": "Kirletenin sorumluluğu için kusur şartı aranmaz.",
+                "C": "Bu Kanun'a göre sorumluluk doğduğunda, genel hükümlere göre tazminat talep etme hakkı ortadan kalkar.",
+                "D": "Tazminat talepleri, zararın meydana geldiği tarihten itibaren beş yıl sonra zamanaşımına uğrar.",
+                "E": "Çevreye verilen zararların tazmini için sadece idari para cezası uygulanır, tazminat davası açılamaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Çevreyi kirletenler ve çevreye zarar verenler sebep oldukları kirlenme ve bozulmadan doğan zararlardan dolayı kusur şartı aranmaksızın sorumludurlar.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen sorumluluk türü, genel hükümlere göre tazminat hakkının saklı tutulması ve zamanaşımının başlangıç anı gibi kurallara aykırı olduğu için yanlıştır.\n- D seçeneğindeki ifade, zamanaşımının başlangıç tarihini yanlış belirtmektedir; kanuna göre süre, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten itibaren başlar."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevreyi kirleterek zarara sebep olan bir kişiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kişinin zarardan sorumlu tutulabilmesi için mutlaka kusurlu olduğunun ispatlanması gerekir.",
+                "B": "Kişi hakkında verilecek idari nitelikteki cezalar, genel hükümlere göre tazminat sorumluluğunu ortadan kaldırır.",
+                "C": "Kirletenin sebep olduğu zararlardan dolayı kusur şartı aranmaksızın sorumluluğu bulunmakta olup, bu durum fiil için diğer kanunlarda yazılı cezaların uygulanmasına engel teşkil etmez.",
+                "D": "Çevreye verilen zararların tazminine ilişkin talepler, kirlenmenin meydana geldiği tarihten itibaren beş yıl sonra zamanaşımına uğrar.",
+                "E": "Kişi, yanlış ve yanıltıcı belge düzenlemişse, yargılama sonuna kadar sadece çevresel etki değerlendirmesi süreci durur, tazminat davası açılamaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Çevreyi kirletenler...sebep oldukları kirlenme ve bozulmadan doğan zararlardan dolayı kusur şartı aranmaksızın sorumludurlar' hükmü ile Madde 27'de yer alan 'Bu Kanunda yazılı fiiller hakkında verilecek idari nitelikteki cezalar, bu fiiller için diğer kanunlarda yazılı cezaların uygulanmasına engel olmaz' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: A seçeneği kusursuz sorumluluk ilkesine, B seçeneği cezaların birbirine engel olmaması kuralına, D seçeneği ise zamanaşımının başlangıç anına ilişkin düzenlemeye aykırıdır. E seçeneği ise farklı hukuki süreçleri hatalı bir şekilde birbirine bağladığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, arıtma tesisi kuran ve yönetmeliklerdeki yükümlülükleri yerine getiren kuruluşların kullandıkları elektrik enerjisi tarifesinde indirim uygulama ve bu oranı arıtılmış atıksuyu yeniden kullananlar için artırma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Hazine ve Maliye Bakanlığı",
+                "B": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+                "C": "Cumhurbaşkanı",
+                "D": "Belediyeler",
+                "E": "İl özel idareleri"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen '...kuruluşların arıtma tesislerinde kullandıkları elektrik enerjisi tarifesinin, sanayi tesislerinde kullanılan enerji tarifesinin yüzde ellisine kadar indirim uygulamaya ... bu oranı yüzde yüze kadar artırmaya Cumhurbaşkanı yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumlar, Kanun'un farklı teşvik mekanizmalarında veya usullerinde görevli olsalar da, elektrik enerjisi tarifesinde indirim uygulama yetkisi kendilerine verilmemiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevresel teşvik tedbirlerinden yararlanma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kanunda belirtilen cezalara neden olan fiilleri işleyenler, yükümlülüklerini yerine getirmeseler dahi mevcut teşviklerden yararlanmaya devam eder.",
+                "B": "Sıfır atık yönetim sistemini kuran ve uygulayan belediyelere Bakanlıkça teşvik uygulaması yapılır.",
+                "C": "Çevre kirliliğinin önlenmesine ilişkin faaliyetler teşvik tedbirlerinden yararlandırılır.",
+                "D": "Teşvik sistemine, Bakanlığın görüşü alınarak Hazine ve Maliye Bakanlığınca yeni esaslar getirilebilir.",
+                "E": "Teşvik tedbirleri ile ilgili esaslar yönetmelikle belirlenir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Bu Kanunda belirlenen cezalara neden olan fiilleri işleyen gerçek ve tüzelkişiler, verilen süre içinde söz konusu yükümlülüklerini yerine getirmedikleri takdirde bu maddede yazılı teşvik tedbirlerinden yararlanamazlar ve daha önce kendileri ile ilgili olarak uygulanmakta olan teşvik tedbirleri durdurulur.' hükmüne aykırı olduğu için yanlıştır.\n- Diğer seçeneklerdeki ifadeler, Madde 29'da yer alan teşvik düzenlemeleriyle uyumlu ve doğru bilgiler içermektedir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, sıfır atık yönetim sistemini kuran ve uygulayanlar arasında, Bakanlıkça yapılacak teşvik uygulamasından yararlanacaklar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Belediyeler",
+                "B": "İl özel idareleri",
+                "C": "İşletmeler",
+                "D": "Zarar gören kişiler",
+                "E": "Kurum ve kuruluşlar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen '...sıfır atık yönetim sistemini kuran ve uygulayan belediyelere, il özel idarelerine, kurum, kuruluş ve işletmelere Bakanlıkça teşvik uygulaması yapılır.' hükmüne dayanmaktadır. Bu sayımda 'zarar gören kişiler' yer almamaktadır.\n- Diğer seçenekler, kanun metninde teşvikten yararlanacağı açıkça belirtilenler arasında sayılmıştır. 'Zarar gören kişiler' ise Madde 28'de tazminat sorumluluğu bağlamında ele alınmış olup, teşvik kapsamında değildir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, atıksu arıtma tesisi işlettiği için indirimli elektrik enerjisi tarifesinden yararlanan bir kuruluşun, bildirim ve bilgi verme yükümlülüğüne aykırı hareket ederek cezai bir yaptırıma neden olan fiili işlemesi ve verilen süre içinde yükümlülüklerini yerine getirmemesi durumunda ortaya çıkacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kuruluşun yararlandığı indirim oranı Cumhurbaşkanı kararıyla yarıya düşürülür.",
+                "B": "Kuruluş hakkında sadece hapis cezasına hükmedilir ve teşvik tedbirleri devam eder.",
+                "C": "Teşvik tedbirlerinin devam edip etmeyeceğine Hazine ve Maliye Bakanlığı karar verir.",
+                "D": "Kuruluşun sadece genel hükümlere göre tazminat sorumluluğu doğar, teşvikler etkilenmez.",
+                "E": "Kuruluş teşvik tedbirlerinden yararlanamaz ve daha önce uygulanmakta olan teşvik tedbirleri durdurulur."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Bu Kanunda belirlenen cezalara neden olan fiilleri işleyen gerçek ve tüzelkişiler, verilen süre içinde söz konusu yükümlülüklerini yerine getirmedikleri takdirde bu maddede yazılı teşvik tedbirlerinden yararlanamazlar ve daha önce kendileri ile ilgili olarak uygulanmakta olan teşvik tedbirleri durdurulur' hükmüne dayanmaktadır. Soru, Madde 26'da düzenlenen bir fiilin işlenmesi durumunda Madde 29'daki teşviklerin akıbetini birleştirmektedir.\n- Diğer seçenekler: Kanunda belirtilen hukuki sonuçlarla (teşviklerin durdurulması) uyumlu olmadığı için yanlıştır. A seçeneğindeki yetki, teşvikin ilk uygulanmasıyla ilgili olup bir yaptırım değildir. B, C ve D seçenekleri ise kanundaki açık düzenlemeye aykırıdır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, arıtma tesisi kuran ve yönetmeliklerdeki yükümlülükleri yerine getiren kuruluşların elektrik enerjisi tarifesinde indirim uygulama ve arıtılmış atıksuyu yeniden kullanan kuruluşlar için bu oranı artırma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bakanlık",
+                "B": "Hazine ve Maliye Bakanlığı",
+                "C": "Cumhurbaşkanı",
+                "D": "Belediyeler",
+                "E": "İl özel idareleri"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen '...elektrik enerjisi tarifesinin, sanayi tesislerinde kullanılan enerji tarifesinin yüzde ellisine kadar indirim uygulamaya ve ... bu oranı yüzde yüze kadar artırmaya Cumhurbaşkanı yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumlar, teşvik sisteminin farklı aşamalarında (görüş bildirme, yeni esaslar getirme, teşvikten yararlanma gibi) rol alsalar da, elektrik tarifesi indirimi konusunda doğrudan yetkili kılınmamışlardır. Bu nedenle yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, teşvik tedbirlerinden yararlanma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Çevre kirliliğinin önlenmesine ilişkin faaliyetler teşvik tedbirlerinden yararlandırılır.",
+                "B": "Sıfır atık yönetim sistemini kuran ve uygulayan belediyelere Bakanlıkça teşvik uygulaması yapılır.",
+                "C": "Kanunda belirlenen cezalara neden olan fiilleri işleyenler, yükümlülüklerini yerine getirmeseler dahi mevcut teşviklerden yararlanmaya devam ederler.",
+                "D": "Teşvik sistemine, Bakanlığın görüşü alınarak Hazine ve Maliye Bakanlığınca yeni esaslar getirilebilir.",
+                "E": "Arıtma tesislerinde kullanılan elektrik enerjisi tarifesinde, sanayi tarifesinin yüzde ellisine kadar indirim uygulanabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen '...cezalara neden olan fiilleri işleyen gerçek ve tüzelkişiler, verilen süre içinde söz konusu yükümlülüklerini yerine getirmedikleri takdirde bu maddede yazılı teşvik tedbirlerinden yararlanamazlar ve daha önce kendileri ile ilgili olarak uygulanmakta olan teşvik tedbirleri durdurulur.' hükmüne aykırı olduğu için C seçeneği yanlıştır.\n- Diğer seçeneklerdeki ifadeler (A, B, D, E) Madde 29'da yer alan teşvik düzenlemeleriyle uyumlu ve doğru bilgiler içermektedir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevreyi kirleten bir faaliyeti nedeniyle hakkında ceza uygulanan ve verilen süre içinde yükümlülüklerini yerine getirmeyen bir işletmenin teşvik tedbirlerinden yararlanma durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İşletmeye uygulanan mevcut teşvik tedbirleri yarı oranında azaltılır.",
+                "B": "İşletme, sadece yeni teşvik başvurularından men edilir, mevcut teşvikleri devam eder.",
+                "C": "İşletmenin sadece arıtma tesisi için kullandığı elektrik enerjisi indirimi iptal edilir.",
+                "D": "İşletme, teşvik tedbirlerinden yararlanamaz ve uygulanmakta olan teşvik tedbirleri durdurulur.",
+                "E": "İşletmenin teşviklerden yararlanabilmesi için ilgili mercilere yeniden başvurması gerekir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Bu Kanunda belirlenen cezalara neden olan fiilleri işleyen gerçek ve tüzelkişiler, verilen süre içinde söz konusu yükümlülüklerini yerine getirmedikleri takdirde bu maddede yazılı teşvik tedbirlerinden yararlanamazlar ve daha önce kendileri ile ilgili olarak uygulanmakta olan teşvik tedbirleri durdurulur' hükmüne dayanmaktadır. Bu hüküm, hem yeni teşviklerden yararlanamamayı hem de mevcutların durdurulmasını açıkça düzenlemektedir.\n- Diğer seçenekler: Kanunda teşviklerin azaltılması, sadece yenilerden men edilmesi veya sadece belirli bir teşvikin iptali gibi durumlar düzenlenmediği için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, teşvik tedbirleri ve bilgi edinme hakkı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Teşvik sistemine ilişkin yeni esaslar getirme yetkisi, tek başına Hazine ve Maliye Bakanlığına aittir.",
+                "B": "Arıtma tesislerinde kullanılan elektrik enerjisi tarifesinde indirim uygulama yetkisi Bakanlığa verilmiştir.",
+                "C": "Çevreye ilişkin her türlü bilgiye ulaşma hakkı, herhangi bir istisna olmaksızın mutlak olarak tanınmıştır.",
+                "D": "Cumhurbaşkanı, ileri arıtma teknikleri ile arıtılmış atıksuyu yeniden kullanan kuruluşlara, kullanım oranına göre elektrik enerjisi tarifesinde yüzde yüze kadar indirim uygulama yetkisine sahiptir.",
+                "E": "Sıfır atık yönetim sistemini kuran işletmelere teşvik uygulaması yapma yetkisi yalnızca belediyelere aittir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'ileri arıtma teknikleri ile arıtılmış atıksuyu yeniden kullanan kuruluşlara, yeniden kullanım oranına göre bu oranı yüzde yüze kadar artırmaya Cumhurbaşkanı yetkilidir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği yanlıştır çünkü Hazine ve Maliye Bakanlığı bu yetkiyi Bakanlığın görüşünü alarak kullanır (Madde 29). B seçeneği yanlıştır çünkü bu yetki Cumhurbaşkanına aittir (Madde 29). C seçeneği yanlıştır çünkü çevresel değerlere zarar verecek bilgilerin açıklanması reddedilebilir (Madde 30). E seçeneği yanlıştır çünkü teşvik Bakanlıkça yapılır ve belediyeler ile il özel idareleri gibi kurumlar da bu teşvikten yararlanır (Madde 29)."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, aşağıdakilerden hangisi, çevreye ilişkin bilgi edinme taleplerinin reddedilebileceği bir gerekçe olarak açıkça belirtilmiştir?",
+            "secenekler": {
+                "A": "Talebin, teşvik tedbirlerinden yararlanan bir sanayi tesisine ait olması",
+                "B": "Bilginin, henüz yürürlüğe girmemiş bir yönetmelik hazırlığıyla ilgili olması",
+                "C": "Açıklanmasının, nadir türler gibi çevresel değerlere zarar verecek olması",
+                "D": "Bilgi talebinde bulunan kişinin, çevreyi kirleten faaliyetten doğrudan zarar görmemesi",
+                "E": "Talep edilen verilerin, bir şirketin ticari sırlarını içermesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'açıklanması halinde üreme alanları, nadir türler gibi çevresel değerlere zarar verecek bilgilere ilişkin talepler de bu Kanun kapsamında reddedilebilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bilgi edinme taleplerinin reddi için belirtilen gerekçeler arasında yer almadığı için yanlıştır. Özellikle D seçeneği, başvuru hakkı ile bilgi edinme hakkını karıştırmaya yönelik bir çeldiricidir; kanun her iki hakkı da 'herkes' için tanımıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bu Kanunun uygulanmasıyla ilgili olarak çıkarılacak yönetmeliklere ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kanunun yürürlüğe girmesinden başlayarak en geç bir yıl içinde Resmi Gazetede yayımlanarak yürürlüğe konulur.",
+                "B": "İlgili Bakanlıkların görüşü alınarak Bakanlıkça hazırlanır.",
+                "C": "Doğrudan Cumhurbaşkanı tarafından hazırlanarak yayımlanır.",
+                "D": "İlgili Bakanlıkların onayı alındıktan sonra Hazine ve Maliye Bakanlığınca hazırlanır.",
+                "E": "Bakanlığın resmi internet sitesinde yayımlanarak yürürlüğe konulur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'Bu Kanunun uygulanmasıyla ilgili olarak çıkarılacak yönetmelikler, ilgili Bakanlıkların görüşü alınarak Bakanlıkça hazırlanır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Yönetmeliklerin hazırlanma usulü, hazırlayan makam ve yürürlüğe girme süresi hakkında yanlış bilgiler içermektedir. Kanuna göre yönetmelikler, kanunun yürürlüğe girmesinden itibaren en geç beş ay içinde Resmi Gazete'de yayımlanır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bu Kanun uyarınca çıkarılacak yönetmeliklerin yayımından sonra deniz kirliliğinin önlenmesiyle ilgili olarak uygulanmayacak hükümlere ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Limanlar Kanunu'nun ilgili ceza hükümleri ile Su Ürünleri Kanunu'nun ilgili geçici madde hükümleri uygulanmaz.",
+                "B": "Limanlar Kanunu'nun tüm hükümleri ile Su Ürünleri Kanunu'nun ceza hükümleri uygulanmaz.",
+                "C": "Sadece Limanlar Kanunu'nun deniz kirliliğine ilişkin ceza hükümleri uygulanmaz, Su Ürünleri Kanunu etkilenmez.",
+                "D": "Hem Limanlar Kanunu hem de Su Ürünleri Kanunu'nun ilgili hükümleri, Çevre Kanunu hükümleriyle birlikte uygulanmaya devam eder.",
+                "E": "İlgili kanunların uygulanmayacak hükümleri, ancak Bakanlıkça çıkarılacak özel bir tebliğ ile belirlenir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'deniz kirliliğinin önlenmesi hususunda 618 sayılı Limanlar Kanununun 4 ve 11 inci maddeleri gereği yürürlükte bulunan ceza hükümleri ile 1380 sayılı Su Ürünleri Kanununun ... geçici 1 inci maddesi hükümleri uygulanmaz' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunların tamamının veya farklı bölümlerinin uygulanmayacağını belirtmesi, sadece bir kanundan bahsetmesi, hükümlerin uygulanmaya devam edeceğini iddia etmesi veya uygulanmayacak hükümlerin farklı bir usulle belirleneceğini öne sürmesi nedeniyle yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, deniz kirliliğinin önlenmesi konusunda bu Kanun uyarınca çıkarılacak yönetmeliklerin yayımından sonraki hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Limanlar Kanunu'nun ilgili ceza hükümleri ile Su Ürünleri Kanunu'nun ilgili geçici hükmünün uygulanmaz hale gelmesi",
+                "B": "Limanlar Kanunu'nun deniz kirliliği ile ilgili tüm maddelerinin yürürlükten kaldırılması",
+                "C": "Su Ürünleri Kanunu'na deniz kirliliği için yeni ceza hükümleri eklenmesi",
+                "D": "Deniz kirliliğine ilişkin tüm yetkilerin yerel yönetimlere devredilmesi",
+                "E": "Yönetmeliklerin, yayımından önceki olaylara da uygulanarak eski kanun hükümlerini geçersiz kılması"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'Bu Kanuna göre yürürlüğe konulacak yönetmeliklerin yayımından itibaren deniz kirliliğinin önlenmesi hususunda ... Limanlar Kanununun ... ceza hükümleri ile ... Su Ürünleri Kanununun ... geçici ... maddesi hükümleri uygulanmaz' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen hukuki sonucun kapsamını yanlış yansıttığı veya kanunda yer almayan farklı sonuçlar öngördüğü için hatalıdır. Kanun, ilgili kanunların tamamen yürürlükten kaldırılmasını değil, sadece belirtilen hükümlerinin uygulanmayacağını düzenlemektedir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Kanun'un yürürlüğe girmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kanun, yayımını takip eden yılın ilk günü yürürlüğe girer.",
+                "B": "Kanun'un yürürlük tarihi Cumhurbaşkanı kararıyla ayrıca belirlenir.",
+                "C": "Kanun, yayımı tarihinde yürürlüğe girer.",
+                "D": "Kanun, Resmî Gazete'de yayımlandıktan 60 gün sonra yürürlüğe girer.",
+                "E": "Kanun'un farklı bölümleri, ilgili Bakanlıkların belirleyeceği tarihlerde yürürlüğe girer."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Bu Kanun yayımı tarihinde yürürlüğe girer.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde öne sürülen yürürlüğe giriş usulleri veya tarihleri (belirli bir süre sonra, Cumhurbaşkanı kararıyla, farklı tarihlerde) Kanun metninde yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, anız yakılması, çayır ve mer’aların tahribi ve erozyona sebebiyet verecek her türlü faaliyet yasaklanmışken, hangi durumda kontrollü anız yakmaya istisnai olarak izin verilebilir?",
+            "secenekler": {
+                "A": "Bakanlıkça belirlenen ve erozyon riski taşımayan özel bölgelerde yapılması.",
+                "B": "Sadece çayır ve mer'a alanlarının ıslahı amacıyla gerçekleştirilmesi.",
+                "C": "Taşocağı faaliyetleri sonrası verimsizleşen toprağın yeniden kazanımı için yapılması.",
+                "D": "Yalnızca kuraklık yaşanan ve başka bir tarımsal yöntemin mümkün olmadığı yıllarda yapılması.",
+                "E": "İkinci ürün ekilen yörelerde, valiliklerin sorumluluğunda ve hazırlanan eylem planı çerçevesinde yapılması."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'ikinci ürün ekilen yörelerde valiliklerce hazırlanan eylem plânı çerçevesinde ve valiliklerin sorumluluğunda kontrollü anız yakmaya izin verilebilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda anız yakmaya izin verilmesi için belirtilen istisnai koşullar arasında yer almadığı için yanlıştır. Kanun, bu izni Bakanlık kararına, arazi ıslahına, taşocağı sonrası rehabilitasyona veya kuraklık gibi durumlara değil, yalnızca ikinci ürün ekilen yörelerde valilik tarafından hazırlanan eylem planı şartına bağlamıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, toprağın korunmasına ve kirliliğinin önlenmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Anız yakılması, çayır ve mer’aların tahribi ve erozyona sebebiyet verecek her türlü faaliyet yasaktır.",
+                "B": "İkinci ürün ekilen yörelerde, valiliklerin sorumluluğunda kontrollü anız yakmaya izin verilebilir.",
+                "C": "Taşocağı faaliyetleri ile bozulan doğal yapının yeniden kazanılmasına ilişkin usuller Bakanlıkça çıkarılacak yönetmelikle belirlenir.",
+                "D": "İkinci ürün ekilen yörelerde kontrollü anız yakılmasına, Bakanlıkça hazırlanan eylem planı çerçevesinde izin verilir.",
+                "E": "Ülkenin egemenlik alanlarındaki denizlerden kum ve çakıl alınması ile ilgili esaslar Bakanlıkça çıkarılacak bir yönetmelikle düzenlenir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'ikinci ürün ekilen yörelerde valiliklerce hazırlanan eylem plânı çerçevesinde ve valiliklerin sorumluluğunda kontrollü anız yakmaya izin verilebilir' hükmüne dayanmaktadır. Eylem planını hazırlama ve sorumluluk valiliğe aittir, Bakanlığa değil.\n- Diğer seçenekler: A, B, C ve E seçeneklerinde yer alan ifadeler, Ek Madde 1'de belirtilen toprağın korunmasına ilişkin hükümlerle birebir uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, aşağıdakilerden hangisi Bakanlıkça çıkarılacak bir yönetmelikle usul ve esaslarının belirlenmesi öngörülen konulardan biri değildir?",
+            "secenekler": {
+                "A": "Çevre gönüllülerinin çalışma ve eğitimleri",
+                "B": "Faaliyetleri sonucu çevreye zarar verecek işletmelerin alması gereken çevre yönetimi hizmeti",
+                "C": "İkinci ürün ekilen yörelerde kontrollü anız yakılmasına izin verilmesi",
+                "D": "Akar ve kuru dere yataklarından kum ve çakıl alınması",
+                "E": "Toprağın korunması ve kirliliğinin önlenmesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de yer alan 'ikinci ürün ekilen yörelerde valiliklerce hazırlanan eylem plânı çerçevesinde ve valiliklerin sorumluluğunda kontrollü anız yakmaya izin verilebilir' hükmüne dayanmaktadır. Bu yetki, Bakanlığın yönetmelik çıkarma görevine değil, doğrudan valiliğin eylem planı ve sorumluluğuna bırakılmıştır.\n- Diğer seçenekler: A, B, D ve E seçeneklerinde belirtilen konuların usul ve esaslarının Bakanlıkça çıkarılacak yönetmeliklerle belirleneceği Ek Madde 1, Ek Madde 2 ve Ek Madde 3'te açıkça düzenlenmiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, faaliyetleri sonucu çevre kirliliğine neden olacak veya çevreye zarar verecek kurum, kuruluş ve işletmelerin temel yükümlülüğü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Çevre yönetimi hizmeti almak.",
+                "B": "Bakanlığa yıllık faaliyet raporu sunmak.",
+                "C": "Her yıl en az bir çevre gönüllüsü istihdam etmek.",
+                "D": "Faaliyet alanında kontrollü anız yakma planı oluşturmak.",
+                "E": "Toprağın korunmasına ilişkin esasları kendileri belirlemek."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Faaliyetleri sonucu çevre kirliliğine neden olacak veya çevreye zarar verecek kurum, kuruluş ve işletmeler çevre yönetimi hizmeti almakla yükümlüdürler.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunun bu maddesinde belirtilen spesifik yükümlülük arasında yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevre gönüllüleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Görevlendirilmeleri için yönetmelikte belirtilen koşulları taşımaları gerekir.",
+                "B": "Görevlerini kötüye kullandıkları tespit edildiğinde bu görevleri sona erdirilir.",
+                "C": "Çalışma ve eğitimlerine ilişkin usûl ve esaslar Bakanlıkça çıkarılacak bir yönetmelikle düzenlenir.",
+                "D": "Bu görev için ilgililere herhangi bir ücret ödenmez.",
+                "E": "Görevlendirme yetkisi valiliklere aittir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 3'te belirtilen 'Bakanlık, yönetmelikte belirtilen koşulları taşıyanları çevre gönüllüsü olarak görevlendirebilir' hükmüne dayanmaktadır. Bu hükme göre görevlendirme yetkisi Bakanlığa aittir, valiliklere değil.\n- Diğer seçeneklerdeki ifadeler, kanunda belirtilen çevre gönüllülerine ilişkin düzenlemelerle uyumlu olduğu için sorunun doğru cevabı olamazlar."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevre gönüllüleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Görevlerini ihmal ettikleri tespit edilen çevre gönüllülerinin görevleri sona erdirilir.",
+                "B": "Çevre gönüllüsü olarak görevlendirilenlere bu görevleri için herhangi bir ücret ödenmez.",
+                "C": "Çevre gönüllülerinin çalışma ve eğitimlerine ilişkin usul ve esaslar kanunla düzenlenir.",
+                "D": "Yönetmelikte belirtilen koşulları taşıyanları çevre gönüllüsü olarak görevlendirme yetkisi valiliklere aittir.",
+                "E": "Görevleri sırasında yaptıkları masrafları karşılamak üzere kendilerine sınırlı bir ödenek tahsis edilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 3'te belirtilen 'Bu görev için ilgililere herhangi bir ücret ödenmez.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneğindeki göreve son verme sebebi kanunda 'görevini kötüye kullanma' olarak belirtilmiştir. C seçeneğinde düzenlemenin 'yönetmelikle' yapılacağı, D seçeneğinde ise yetkinin 'Bakanlık'a' ait olduğu belirtildiği için bu seçenekler yanlıştır. E seçeneği ise kanundaki ücretsiz olma ilkesiyle çelişmektedir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, motorlu taşıtların egzoz emisyonları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Motorlu taşıt üreticileri, sadece satış sonrası hizmetler kapsamında emisyon standartlarını sağlamakla yükümlüdür.",
+                "B": "Motorlu taşıt sahipleri, egzoz emisyonlarının belirlenen standartlara uygunluğunu belgelemek amacıyla egzoz emisyon ölçümü yaptırmakla yükümlüdür.",
+                "C": "Trafikte seyreden taşıtların egzoz emisyon ölçümleri ve standartları ile ilgili usul ve esaslar ilgili belediyeler tarafından belirlenir.",
+                "D": "Sadece ticari amaçla kullanılan motorlu taşıtlar için egzoz emisyon ölçümü yaptırma zorunluluğu bulunmaktadır.",
+                "E": "Egzoz emisyon ölçümünden muaf olmak için ulusal enerji kaynaklarından üretilmiş yakıt kullanmak yeterlidir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 4'te belirtilen 'Motorlu taşıt sahipleri, egzoz emisyonlarının yönetmelikle belirlenen standartlara uygunluğunu belgelemek üzere egzoz emisyon ölçümü yaptırmak zorundadırlar' hükmüne dayanmaktadır.\n- Diğer seçenekler: Üreticilerin yükümlülüğünün üretim aşamasında olması, usul ve esasların Bakanlıkça belirlenmesi ve ölçüm zorunluluğunun herhangi bir ayrım olmaksızın tüm motorlu taşıt sahiplerini kapsaması gibi nedenlerle yanlıştır. Kanunda yakıt türüne göre bir muafiyet de düzenlenmemiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Bakanlığın, Kanunla öngörülen faaliyetleri yerine getirmek üzere gerekli kurumsal altyapıyı oluşturma görevi, aşağıdaki alanlardan hangisini kapsamaktadır?",
+            "secenekler": {
+                "A": "Çevre gönüllülerinin görevlendirilmesi ve eğitimlerine ilişkin usulleri belirlemek",
+                "B": "Motorlu taşıtların egzoz emisyon standartlarına uygunluğunu belgelemelerini sağlamak",
+                "C": "Ölçme, izleme ve denetleme faaliyetleri ile çevre sorunlarının çözümüne yönelik diğer faaliyetler",
+                "D": "Standartlara uygun olmayan yakıt üretenlerin ruhsatlarını iptal etmek",
+                "E": "Temiz hava politikalarının il ve ilçe merkezlerinde uygulanmasını sağlamak"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 5'te belirtilen 'Bakanlık, bu Kanunla öngörülen ölçme, izleme ve denetleme faaliyetleri ile çevre sorunlarının çözümüne yönelik diğer faaliyetleri yerine getirmek üzere gerekli kurumsal altyapıyı oluşturur.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen hususlar, Kanun'un farklı maddelerinde düzenlenmiş olup, Bakanlığın 'gerekli kurumsal altyapıyı oluşturma' yükümlülüğünün doğrudan konusu olarak Ek Madde 5'te sayılan faaliyetler arasında yer almamaktadır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, hava kalitesinin korunması ve hava kirliliğinin önlenmesi kapsamında Bakanlıkça yürütülecek çalışmalar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Hava kalitesi sınır değerlerini belirlemek ve bu değerlerin aşılmaması için önlemler almak.",
+                "B": "Standartlara uygun olmayan yakıt ve yakma sistemlerini üretenlere verilen ruhsatları iptal etmek.",
+                "C": "Kamuoyunu bilgilendirme ve bilinçlendirme faaliyetleri yürütmek.",
+                "D": "Çevre gönüllülerini görevlendirmek ve çalışma esaslarını düzenlemek.",
+                "E": "Belirlenen temiz hava politikalarının il ve ilçe merkezlerinde uygulanmasını ve hava kalitesinin izlenmesini sağlamak."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 6'da Bakanlığın hava kalitesine yönelik görevleri arasında çevre gönüllülerine ilişkin bir düzenlemenin bulunmamasına dayanmaktadır. Bu konu, kanunun farklı bir maddesi olan Ek Madde 3'te düzenlenmiştir.\n- Diğer seçenekler, Ek Madde 6'da açıkça belirtilen 'hava kalitesi sınır değerleri', 'standartlara uygun olmayan ... ruhsatları iptal edilir', 'kamuoyunun bilgilendirilmesi' ve 'temiz hava politikalarının il ve ilçe merkezlerinde uygulanması' gibi Bakanlığın görev ve yetkileri arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Bakanlığın çevre yönetimi ve denetimi kapsamındaki görev ve yetkileriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Hava kalitesinin korunması amacıyla standartlara uygun olmayan yakıt üretenlerin ruhsatlarını iptal etmek.",
+                "B": "Motorlu taşıtların egzoz emisyon ölçüm standartlarını ve ilgili usul ve esasları yönetmelikle belirlemek.",
+                "C": "Belirlenen koşulları taşıyan kişileri herhangi bir ücret ödemeksizin çevre gönüllüsü olarak görevlendirmek.",
+                "D": "Ölçme, izleme ve denetleme faaliyetlerini yerine getirmek üzere gerekli kurumsal altyapıyı oluşturmak.",
+                "E": "Egzoz emisyon standartlarına uyan motorlu taşıt sahiplerine yıllık vergi indirimi sağlamak."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, kanunda Bakanlığa egzoz emisyon standartlarına uyan taşıt sahiplerine vergi indirimi sağlama gibi bir yetki verildiğine dair bir hüküm bulunmamasına dayanmaktadır.\n- Diğer seçeneklerde yer alan hususlar; ruhsat iptali (Ek Madde 6), egzoz emisyon standartlarını belirleme (Ek Madde 4), çevre gönüllüsü görevlendirme (Ek Madde 3) ve kurumsal altyapı oluşturma (Ek Madde 5) uyarınca Bakanlığın görevleri arasında sayılmıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevrenin korunmasına yönelik çeşitli yükümlülükler getirilmiştir. Bu kapsamda, aşağıdakilerden hangisi kanunda belirtilen bir zorunluluk veya bu zorunluluğa aykırılığın bir sonucudur?",
+            "secenekler": {
+                "A": "Görevini kötüye kullandığı tespit edilen çevre gönüllülerine idari para cezası verilir.",
+                "B": "Standartlara uygun olmayan yakıt üretenlere verilen üretim ruhsatları iptal edilir.",
+                "C": "Egzoz emisyon ölçümünü yaptırmayan motorlu taşıt sahiplerinin araçları trafikten derhal men edilir.",
+                "D": "Motorlu taşıt üreticileri, üretim aşamasında sağladıkları emisyon standartları için Bakanlıktan her yıl onay almak zorundadır.",
+                "E": "Hava kalitesinin korunması için öncelikli olarak ithal yakıtların kullanılması esastır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 6'da belirtilen 'Standartlara uygun olmayan yakma sistemi ve yakıt üretenlere ruhsat verilmez, verilenlerin ruhsatları iptal edilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Görevini kötüye kullanan çevre gönüllülerinin görevinin sona erdirileceği belirtilmiştir, para cezası değil (Ek Madde 3); egzoz ölçümü yaptırmamanın yaptırımı kanunda belirtilmemiştir (Ek Madde 4); üreticilerin yıllık onay alması gibi bir zorunluluk bulunmamaktadır (Ek Madde 4) ve ulusal enerji kaynaklarının öncelikli olduğu hükmü yer almaktadır (Ek Madde 6)."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Bakanlıkça belirlenen standartlara uygun olmayan yakma sistemi ve yakıt üretenler hakkında uygulanacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Ruhsat verilmemesi veya verilen ruhsatların iptal edilmesi",
+                "B": "Üretim faaliyetlerinin bir yıl süreyle geçici olarak durdurulması",
+                "C": "Sadece idari para cezası uygulanması",
+                "D": "Ulusal enerji kaynaklarını kullanmaya zorlanmaları",
+                "E": "Kamuoyuna duyuru yapılarak ticaretten men edilmeleri"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 6'da belirtilen 'Standartlara uygun olmayan yakma sistemi ve yakıt üretenlere ruhsat verilmez, verilenlerin ruhsatları iptal edilir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen yaptırımlar veya sonuçlar, kanunun bu özel hükmünde yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Bakanlığın çevre ile ilgili veri ve bilgi isteme yetkisine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bakanlık, bu yetkisini sadece kamu kurum ve kuruluşlarına karşı kullanabilir, özel kişilerden bilgi talep edemez.",
+                "B": "Bilgi ve veri talepleri, talep edilen kurum tarafından belirlenen makul bir hizmet bedeli karşılığında yerine getirilir.",
+                "C": "Kendilerinden bilgi istenen kamu kurumları ile gerçek ve tüzel kişiler, bu bilgileri bedelsiz olarak ve talep edilen sürede vermekle yükümlüdür.",
+                "D": "Bakanlığın doğrudan bilgi isteme yetkisi, yalnızca mahkeme kararı veya savcılık talebiyle mümkündür.",
+                "E": "Gerçek ve tüzel kişiler, ticari sır niteliğindeki bilgileri koruma hakkını ileri sürerek bilgi vermekten kaçınabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 7'de belirtilen 'Kendilerinden veri ve bilgi istenen tüm kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler bu veri ve bilgileri bedelsiz olarak ve talep edilen sürede vermekle yükümlüdür' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yükümlülüğün kapsamını (A seçeneği), bedelini (B seçeneği) veya usulünü (D ve E seçenekleri) yanlış yansıttığı için hatalıdır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bir sanayi tesisinin Bakanlıkça belirlenen standartlara uygun olmayan yakıt kullandığı ve Bakanlığın bu tesisten üretim verilerini talep ettiği bir durumda, tesisin yükümlülükleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tesis, ticari sır olduğu gerekçesiyle Bakanlığa veri vermeyi reddetme hakkına sahiptir.",
+                "B": "Tesis, talep edilen verileri sadece makul bir ücret karşılığında Bakanlığa sunabilir.",
+                "C": "Tesis, ulusal enerji kaynaklarını kullandığı için yakıt standartlarına uymaktan muaftır.",
+                "D": "Tesis, Bakanlıkça talep edilen verileri bedelsiz olarak ve istenen sürede vermekle yükümlüdür.",
+                "E": "Tesisin sadece yakma sistemlerinin standartlara uygun olması yeterlidir, yakıtın kalitesi denetlenemez."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 7'de belirtilen 'Kendilerinden veri ve bilgi istenen tüm ... gerçek ve tüzel kişiler bu veri ve bilgileri bedelsiz olarak ve talep edilen sürede vermekle yükümlüdür.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Ek Madde 6, standartlara uygun yakıt ve yakma sistemlerinin kullanılmasının zorunlu olduğunu ve ulusal kaynakların öncelikli olmasının bu zorunluluğu ortadan kaldırmadığını belirtirken; Ek Madde 7, veri verme yükümlülüğünün istisnasız, bedelsiz ve süresinde yerine getirilmesi gerektiğini açıkça düzenlediği için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, iyonlaştırıcı olmayan radyasyon yayılımından kaynaklanan elektromanyetik alanların çevre ve insan sağlığı üzerindeki olumsuz etkilerini önlemeye yönelik usûl ve esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili kurum ve kuruluşların oy birliğiyle oluşturduğu bir komisyon",
+                "B": "Bakanlık tarafından çıkarılacak bir yönetmelik",
+                "C": "Cumhurbaşkanı tarafından yayımlanacak bir kararname",
+                "D": "Üniversitelerin ilgili fakültelerinin hazırlayacağı bilimsel raporlar",
+                "E": "Yerel yönetimlerin kendi sınırları içinde alacağı meclis kararları"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 8'de belirtilen '...usûl ve esaslar, ilgili kurum ve kuruluşların görüşleri alınarak Bakanlıkça çıkarılacak yönetmelikle belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun, bu yetkiyi açıkça Bakanlığa vermiştir. İlgili kurum ve kuruluşların rolü yönetmelik çıkarmak değil, sadece görüş bildirmektir; diğer makamların ise bu özel konuda yetkili olduğu belirtilmemiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, koku emisyonlarının önlenmesine ilişkin idari ve teknik usul ve esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bakanlık",
+                "B": "İl Özel İdareleri",
+                "C": "Belediyeler",
+                "D": "Valilikler",
+                "E": "Türkiye Sağlık Enstitüleri Başkanlığı"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 9'da belirtilen 'Buna ilişkin idarî ve teknik usûl ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumların, kanunun bu maddesi kapsamında koku emisyonlarına ilişkin usul ve esasları belirleme yetkisi bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre;\n\nI. Kokuya sebep olan emisyonlar\nII. İyonlaştırıcı olmayan radyasyon yayılımı\nIII. Hava kalitesinin izlenmesi ve ölçülmesi\n\nyukarıdaki konulardan hangisi veya hangilerinde uygulanacak idari veya teknik usul ve esasların Bakanlıkça çıkarılacak bir yönetmelikle belirlenmesi hükme bağlanmıştır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, ilgili maddelerde belirtilen hükümlere dayanmaktadır. Ek Madde 9 koku emisyonları, Ek Madde 8 iyonlaştırıcı olmayan radyasyon ve Ek Madde 6 hava kalitesinin izlenmesi ve ölçülmesine yönelik çalışmaların usul ve esaslarının Bakanlıkça çıkarılacak yönetmeliklerle belirleneceğini açıkça düzenlemiştir.\n- Bu nedenle, her üç öncülde belirtilen konu da kanunda sayılanlar arasında yer aldığı için diğer seçenekler eksik bilgi içerdiğinden yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, kokuya sebep olan emisyonlara ilişkin idarî ve teknik usûl ve esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı",
+                "B": "Hazine ve Maliye Bakanlığı",
+                "C": "Yüksek Çevre Kurulu",
+                "D": "Gelir İdaresi Başkanlığı",
+                "E": "Bakanlık"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 9'da belirtilen 'Buna ilişkin idarî ve teknik usûl ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen merciler, kanunun farklı maddelerinde başka konularla ilgili olarak yetkilendirilmiş olup, koku emisyonlarına ilişkin usul ve esasları belirleme görevleri bulunmamaktadır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, mevzuatta Yüksek Çevre Kuruluna yapılmış olan atıfların hangi kurul veya mercie yapılmış sayılacağını belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bakanlık",
+                "B": "Hazine ve Maliye Bakanlığı",
+                "C": "Türkiye Büyük Millet Meclisi",
+                "D": "Cumhurbaşkanı",
+                "E": "Gelir İdaresi Başkanlığı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 10'da belirtilen 'Mevzuatta Yüksek Çevre Kuruluna yapılmış olan atıflar, Cumhurbaşkanınca belirlenen kurul veya mercie yapılmış sayılır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumların bu konuda bir belirleme yetkisi bulunmadığı için bu şıklar yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Cumhurbaşkanının geri kazanım katılım payı tutarları üzerindeki yetkisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Belirlenen tutarları herhangi bir sınırlama olmaksızın değiştirmeye yetkilidir.",
+                "B": "Belirlenen tutarları sadece yeniden değerleme oranında artırmaya yetkilidir.",
+                "C": "Belirlenen tutarları iki katına kadar artırmaya veya yarısına kadar indirmeye yetkilidir.",
+                "D": "Belirlenen tutarları üç katına kadar artırmaya veya tamamen kaldırmaya yetkilidir.",
+                "E": "Sadece poşetler için belirlenen tutarları yarısına kadar indirmeye yetkilidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 11'de belirtilen 'Cumhurbaşkanı, bu listede yer alan veya bu fıkra uyarınca yeniden değerleme oranı uygulanmak suretiyle belirlenen tutarları iki katına kadar artırmaya veya yarısına kadar indirmeye yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yetki sınırlarını (iki katına artırma, yarısına indirme) yanlış yansıttığı veya eksik bilgi içerdiği için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, geri kazanım katılım payının süresinde beyan edilmediğinin veya eksik beyan edildiğinin tespiti halinde uygulanacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlgiliye doğrudan idari para cezası uygulanır ve işletme faaliyetten men edilir.",
+                "B": "Beyan edilmeyen veya eksik beyan edilen katılım payının bir ay içinde ödenmesi gerektiği ilgiliye tebliğ edilir.",
+                "C": "Katılım payı iki kat artırılarak vergi dairesince re'sen tahakkuk ettirilir.",
+                "D": "İlgilinin gelir veya kurumlar vergisi mükellefiyeti derhal sonlandırılır.",
+                "E": "Ödeme yapılana kadar tüm ürünlerin piyasaya arzı durdurulur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 11'de belirtilen 'Katılım payının süresinde beyan edilmediğinin veya eksik beyan edildiğinin tespiti halinde beyan edilmeyen veya eksik beyan edilen katılım payının bir ay içinde ödenmesi gerektiği ilgiliye tebliğ edilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda öngörülen usul ve yaptırımlarla uyuşmadığı için yanlıştır. Kanun, öncelikle bir ay içinde ödeme yapılması için tebligat yapılmasını düzenlemiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Hazine ve Maliye Bakanlığının, geri kazanım katılım payı beyannamelerinin verilme sürelerini tespit ederken dikkate alacağı belirtilen unsurlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Kapsama girenlerin sektörleri",
+                "B": "Gayrisafi iş hasılatları",
+                "C": "İstihdam edilen işçi sayıları",
+                "D": "Tesisin neden olduğu koku emisyonu seviyesi",
+                "E": "İl ve ilçe sınırları"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 11'de Hazine ve Maliye Bakanlığının beyanname sürelerini tespit ederken dikkate alacağı unsurların 'kapsama girenlerin sektörleri, gayrisafi iş hasılatları, istihdam edilen işçi sayıları dikkate alınarak il ve ilçe sınırları itibarıyla' şeklinde sayılmasına dayanmaktadır.\n- D seçeneğinde belirtilen 'koku emisyonu seviyesi' bu unsurlar arasında yer almamaktadır. Diğer seçeneklerdeki unsurlar ise kanunda açıkça zikredilmiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, piyasaya sürenlerin veya ithalatçıların, depozitolu olarak piyasaya sürdükleri ürünler için geri kazanım katılım payından muaf tutulmasının temel şartı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Depozito sistemini en az beş yıldır kesintisiz olarak uygulamaları",
+                "B": "Depozito bedelini Hazine ve Maliye Bakanlığına bildirmeleri",
+                "C": "Sadece belirli ürün grupları için depozito sistemi kurmaları",
+                "D": "Ülkenin tamamında Bakanlıkça belirlenen esaslar doğrultusunda depozito sistemi uygulamaları",
+                "E": "Yıllık geri toplama oranlarının yüzde doksanın üzerinde olması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 11'de belirtilen 'Ülkenin tamamında Bakanlıkça belirlenen esaslar doğrultusunda depozito sistemi uygulayan, piyasaya süren/ithalatçı, depozitolu olarak piyasaya sürdükleri ürünler için bu maddenin birinci fıkrasından muaf tutulur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda muafiyet için belirtilen şartı (ülke genelinde ve Bakanlık esaslarına uygun depozito sistemi) yansıtmadığı veya kanunda yer almayan ek koşullar içerdiği için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, geri kazanım katılım payına ilişkin yetkilerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Depozito sistemi uygulayanların katılım payından muaf tutulmasına ilişkin esasları belirleme yetkisi Cumhurbaşkanına aittir.",
+                "B": "Geri kazanım katılım payı beyannamelerinin verilme dönemlerini aylık veya üç aylık olarak tespit etme yetkisi, Bakanlığın görüşünü alarak Hazine ve Maliye Bakanlığına verilmiştir.",
+                "C": "Mevzuatta Yüksek Çevre Kuruluna yapılmış atıfların hangi kurula yapılmış sayılacağını belirleme yetkisi Bakanlığa aittir.",
+                "D": "Geri kazanım katılım payı tutarlarını yeniden değerleme oranında artırma veya yarısına kadar indirme yetkisi Hazine ve Maliye Bakanlığına aittir.",
+                "E": "Kokuya sebep olan emisyonlara ilişkin idari ve teknik usulleri belirleme yetkisi Gelir İdaresi Başkanlığı tarafından kullanılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 11'de belirtilen 'geri kazanım katılım payı beyannamelerinin verilme sürelerini... aylık, üç aylık veya altı aylık dönemler halinde tespit etmeye... Bakanlığın görüşünü alarak, Hazine ve Maliye Bakanlığı yetkilidir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yetkili makamlar veya usullerle uyuşmadığı için yanlıştır. Depozito muafiyeti esaslarını belirleme yetkisi Bakanlığa, katılım payı tutarlarını iki katına kadar artırma veya yarısına kadar indirme ile Yüksek Çevre Kuruluna yapılan atıfların hangi merciiye yapılmış sayılacağını belirleme yetkisi Cumhurbaşkanına aittir. Koku emisyonlarına ilişkin usulleri belirleme yetkisi ise yine Bakanlığa aittir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, bir işletmenin çevresel yükümlülükleri ve bu yükümlülüklere ilişkin süreçler hakkında aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kokuya sebep olan emisyonları, yönetmelikle belirlenen sınır değerlerin üzerinde çevreye vermesi yasaktır.",
+                "B": "Piyasaya sürdüğü poşetler için geri kazanım katılım payını satış noktaları aracılığıyla ödemekle yükümlüdür.",
+                "C": "Bakanlıkça belirlenen esaslar doğrultusunda depozito sistemi uyguluyorsa, depozitolu ürünleri için geri kazanım katılım payından muaf tutulur.",
+                "D": "Geri kazanım katılım payını, ürünün piyasaya sürüldüğü tarihi takip eden ayın sonuna kadar beyan ederek aynı ayın yirmi dördüncü gününe kadar ödemelidir.",
+                "E": "Koku emisyonlarının önlenmesine yönelik gerekli tedbirleri almakla yükümlüdür."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 11'de belirtilen 'Geri kazanım katılım payları ürünün piyasaya sürüldüğü/ithal edildiği tarihi takip eden ayın yirmi dördüncü günü sonuna kadar... beyan edilerek aynı ayın sonuna kadar ödenir' hükmüne aykırıdır. Seçenekte beyan ve ödeme süreleri ters verilmiştir.\n- Diğer seçenekler: A ve E seçenekleri Ek Madde 9'da, B ve C seçenekleri ise Ek Madde 11'de yer alan doğru hükümlerdir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, geri kazanım katılım payının beyanı ve ödenmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Paylar, ürünün piyasaya sürüldüğü tarihi takip eden ayın yirmi dördüncü günü sonuna kadar beyan edilir.",
+                "B": "Beyan edilen paylar, beyanın yapıldığı ayın sonuna kadar ödenir.",
+                "C": "Süresinde beyan edilmeyen pay için gecikme zammı oranında faiz uygulanır.",
+                "D": "Hazine ve Maliye Bakanlığı, ödeme sürelerini kanuni süresinden itibaren bir ayı geçmeyecek şekilde yeniden belirleyebilir.",
+                "E": "Gelir veya kurumlar vergisi mükellefiyeti bulunmayanlar, geri kazanım katılım payı beyanından ve ödemesinden muaftır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 11'de belirtilen 'gelir veya kurumlar vergisi mükellefiyeti bulunmayanlar tarafından ise Gelir İdaresi Başkanlığı tarafından belirlenecek vergi dairesine beyan edilerek aynı ayın sonuna kadar ödenir' hükmüne aykırı olduğu için E seçeneğidir. Bu hüküm, mükellefiyeti olmayanların payı ödemekten muaf olmadığını, aksine belirlenecek bir vergi dairesine ödeme yapmaları gerektiğini açıkça belirtir.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde yer alan ifadeler, kanun metninde belirtilen beyan ve ödeme süreleri, gecikme faizi ve Hazine ve Maliye Bakanlığının yetkisi ile ilgili doğru bilgiler içermektedir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, geri kazanım katılım payı tutarlarını iki katına kadar artırma veya yarısına kadar indirme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı",
+                "B": "Hazine ve Maliye Bakanlığı",
+                "C": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+                "D": "Gelir İdaresi Başkanlığı",
+                "E": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 11'de yer alan 'Cumhurbaşkanı, bu listede yer alan veya bu fıkra uyarınca yeniden değerleme oranı uygulanmak suretiyle belirlenen tutarları iki katına kadar artırmaya veya yarısına kadar indirmeye yetkilidir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Metinde Hazine ve Maliye Bakanlığı ile Bakanlığa usul ve esasları belirleme gibi farklı yetkiler tanınmış olup, pay tutarlarını doğrudan değiştirme yetkisi bu kurumlara verilmemiştir. Gelir İdaresi Başkanlığı ve TBMM Plan ve Bütçe Komisyonu'nun ise kanunda bu konuda bir yetkisi düzenlenmemiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, yurt içinde piyasaya arz edilen belirli ürünler için geri kazanım katılım payı tahsil edilmesi esastır. Ancak, aşağıdaki durumlardan hangisinin varlığı halinde piyasaya sürenler veya ithalatçılar bu payı ödemekten muaf tutulur?",
+            "secenekler": {
+                "A": "Hazine ve Maliye Bakanlığınca beyan ve ödeme sürelerinin yeniden belirlenmesi",
+                "B": "Piyasaya sürenin gelir veya kurumlar vergisi mükellefi olması",
+                "C": "Bakanlıkça belirlenen esaslar doğrultusunda ülke genelinde depozito sistemi uygulanması",
+                "D": "Cumhurbaşkanının katılım payı tutarlarını indirme yetkisini kullanması",
+                "E": "Katılım payının süresinde beyan edilmediğinin tespit edilmesi üzerine bir ay içinde ödenmesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 11'de belirtilen 'Ülkenin tamamında Bakanlıkça belirlenen esaslar doğrultusunda depozito sistemi uygulayan, piyasaya süren/ithalatçı, depozitolu olarak piyasaya sürdükleri ürünler için bu maddenin birinci fıkrasından muaf tutulur.' hükmüne dayanmaktadır.\n- Diğer seçenekler, geri kazanım katılım payının ödenme usulü, tutarının değiştirilmesi veya beyanına ilişkin düzenlemeler olup, muafiyet sebebi olarak sayılmadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, geri kazanım katılım payı ve depozito sistemine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bakanlık, belirleyeceği ambalajlar ve ürünler için depozito uygulamasını zorunlu tutma yetkisine sahiptir.",
+                "B": "Depozito sistemi uygulayan bir ithalatçı, depozitolu olarak piyasaya sürdüğü ürünler için geri kazanım katılım payından muaftır.",
+                "C": "Depozito sistemine katılan satış noktaları, sattıkları tüm ürünler için geri kazanım katılım payı ödeme yükümlülüğünden kurtulur.",
+                "D": "Geri kazanım katılım payı beyan ve ödeme sürelerini bir ayı geçmeyecek şekilde yeniden belirleme yetkisi Hazine ve Maliye Bakanlığına aittir.",
+                "E": "Depozito kapsamındaki ürünlerin satışını gerçekleştiren satış noktaları, depozito uygulaması toplama sistemine katılım sağlamakla yükümlüdür."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 11'de geri kazanım katılım payı muafiyetinin 'piyasaya süren/ithalatçı' için ve sadece 'depozitolu olarak piyasaya sürdükleri ürünler' ile sınırlı olarak tanınmasına dayanmaktadır. Seçenekte ise muafiyetin 'satış noktaları' için ve 'tüm ürünler' kapsamında geçerli olduğu şeklinde hatalı bir genelleme yapılmıştır.\n- Diğer seçeneklerde yer alan ifadeler, Ek Madde 11 ve Ek Madde 12'de belirtilen depozito sisteminin zorunluluğu, muafiyetin kapsamı, yetkili makamlar ve satış noktalarının yükümlülükleri ile ilgili doğru hükümlerdir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, aşağıdakilerden hangisi zorunlu depozito sisteminin kurulması, işletilmesi ve izlenmesine yönelik idari, mali ve istem yükümlülüklerini yerine getirmek zorunda olanlar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Ürünlerin üreticileri",
+                "B": "Ürünlerin ithalatçıları",
+                "C": "Ürünleri piyasaya sürenler",
+                "D": "Ürünleri tüketicilere sunan perakende satış birimleri",
+                "E": "Nihai tüketiciler ve kullanıcılar"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 12'de belirtilen 'Zorunlu depozito uygulamasına tabi tutulan ürünlerin üreticileri, ithalatçıları ve piyasaya sürenleri ile depozito kapsamındaki ürünleri tüketicilere/kullanıcılara sunan toptan ya da perakende satış birimleri; ... yükümlülüklerini yerine getirmek zorundadırlar.' hükmüne dayanmaktadır.\n- Diğer seçenekler kanunda açıkça sayılan sorumlu taraflar arasında yer alırken, nihai tüketicilere ve kullanıcılara sistemin kurulması, işletilmesi ve izlenmesine yönelik bir yükümlülük getirilmemiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevre kirliliğinin önlenmesi amacıyla kurulan depozito sisteminin uygulanmasına yönelik usul ve esaslar ile sisteme ilişkin teminatlar ve ücretleri belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı",
+                "B": "İlgili belediyeler",
+                "C": "Üretici ve ithalatçı birlikleri",
+                "D": "Bakanlık",
+                "E": "Türkiye Büyük Millet Meclisi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 12'de belirtilen 'Depozito sisteminin uygulanmasına yönelik usul ve esaslar ile sisteme ilişkin teminatlar ve ücretler Bakanlıkça çıkarılacak yönetmelikle belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda bir yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, zorunlu depozito sisteminin kurulması, işletilmesi ve izlenmesine yönelik idari, mali ve istem yükümlülüklerini yerine getirmek zorunda olanlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Depozitoya tabi ürünlerin üreticileri",
+                "B": "Depozitoya tabi ürünlerin ithalatçıları",
+                "C": "Ürünleri tüketicilere sunan perakende satış birimleri",
+                "D": "Motor yağı değişimlerinin yapıldığı yetkili işletmeler",
+                "E": "Ürünleri piyasaya sürenler"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 12'de depozito sistemine ilişkin yükümlüler arasında 'motor yağı değişimlerinin yapıldığı yetkili işletmeler'in sayılmamış olmasına dayanmaktadır. Bu işletmelerin yükümlülükleri farklı bir maddede (Ek Madde 15) düzenlenmiştir.\n- Diğer seçeneklerde yer alan üreticiler, ithalatçılar, perakende satış birimleri ve ürünleri piyasaya sürenler, kanunda açıkça depozito sistemine yönelik yükümlülükleri olanlar arasında belirtilmiştir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, kaynakların verimli yönetimi ve plastik poşetlerden kaynaklanan çevre kirliliğinin önlenmesi amacıyla satış noktalarında ücretlendirilen plastik poşetlere ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Uygulanacak taban ücret her zaman 25 kuruş olarak sabitlenmiştir ve değiştirilemez.",
+                "B": "Plastik poşet ücretlendirmesine ilişkin tüm usul ve esasları belirleme yetkisi satış noktalarına aittir.",
+                "C": "Taban ücret, 25 kuruştan az olmamak üzere Bakanlıkça oluşturulacak komisyon aracılığı ile belirlenir ve her yıl güncellenir.",
+                "D": "Bakanlık, belirlediği taban ücreti her beş yılda bir güncellemekle yükümlüdür.",
+                "E": "Plastik poşetlerden ücret alınması uygulaması gönüllülük esasına dayanmaktadır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 13'te belirtilen 'Uygulanacak taban ücret 25 kuruştan az olmamak üzere Bakanlıkça oluşturulacak komisyon aracılığı ile belirlenir ve her yıl için güncellenir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen asgari ücret miktarı, yetkili merci, güncelleme periyodu ve uygulamanın zorunluluğuna ilişkin kurallara aykırı bilgiler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevre etiket sistemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sisteme katılım gönüllülük esasına dayanır.",
+                "B": "Belirlenen ürünler için belirli bir tarihten itibaren uygulanması zorunlu tutulmuştur.",
+                "C": "Etiket kullanımı için Bakanlıkça oluşturulan bir komisyon tarafından her yıl güncellenen bir taban ücret alınır.",
+                "D": "Bakanlık denetiminde olmak kaydıyla yetkilendirilmiş özel kuruluşlar da çevre etiketi faaliyeti yürütebilir.",
+                "E": "Sadece ürünlerin nihai tüketim aşamasındaki çevresel etkilerini azaltmayı hedefler."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 14'te belirtilen 'gönüllülük esaslı çevre etiket istemi oluşturulur' hükmüne dayanmaktadır.\n- Diğer seçenekler yanlıştır çünkü: B seçeneğindeki zorunluluk depozito sistemine, C seçeneğindeki ücret ve komisyon uygulaması plastik poşetlere aittir. D seçeneği, 'Bakanlık haricinde çevre etiketi adı altında herhangi bir faaliyet yürütülemez' hükmüyle çelişir. E seçeneği ise, etiketin 'yaşam döngüsünün bütün süreçlerini' kapsadığı belirtildiğinden hatalıdır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevre kirliliğinin önlenmesi amacıyla getirilen çeşitli uygulamalarla ilgili aşağıdakilerden hangisi, diğerlerinden farklı bir esasa dayanmaktadır?",
+            "secenekler": {
+                "A": "Belirlenen ambalajlar için depozito uygulanması",
+                "B": "Plastik poşetlerin satış noktalarında ücret karşılığı verilmesi",
+                "C": "Ürün veya hizmetler için çevre etiket sisteminin oluşturulması",
+                "D": "Motor yağı değişimlerinin Bakanlıkça yetki verilen işletmelerde yapılması",
+                "E": "Depozito kapsamındaki ürünlerin satışını yapan noktaların toplama sistemine katılım sağlaması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 14'te belirtilen 'gönüllülük esaslı çevre etiket sistemi oluşturulur' hükmüne dayanmaktadır. Bu sistemin temelinde zorunluluk değil, gönüllülük ilkesi yatmaktadır.\n- Diğer seçenekler: Depozito uygulaması (Ek Madde 12), plastik poşetlerin ücretlendirilmesi (Ek Madde 13) ve motor yağı değişimlerinin yetkili yerlerde yapılması (Ek Madde 15) kanunla getirilmiş zorunlu uygulamalar olduğu için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevre yönetimine ilişkin çeşitli düzenlemelerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bakanlık, çevre kirliliğini önlemek amacıyla belirlediği ambalajlar için depozito uygulamasını zorunlu tutar.",
+                "B": "Plastik poşetler için uygulanacak taban ücret, Bakanlıkça oluşturulacak bir komisyon aracılığıyla belirlenir.",
+                "C": "Bakanlık haricindeki kurumlar, kendi kriterlerini belirleyerek çevre etiketi adı altında faaliyet yürütebilir.",
+                "D": "Motor yağı değişimlerinin yalnızca Bakanlık tarafından yetkilendirilmiş işletmelerce yapılması veya atık yağların bu yerlere teslimi zorunludur.",
+                "E": "Depozito sisteminin uygulanmasına yönelik usul ve esasları belirleme yetkisi Bakanlığa aittir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 14'te yer alan 'Bakanlık haricinde çevre etiketi adı altında herhangi bir faaliyet yürütülemez' hükmüne dayanmaktadır. Bu hüküm, C seçeneğindeki ifadenin tam tersini belirttiği için ifade yanlıştır.\n- Diğer seçenekler: Depozito uygulamasının zorunluluğu ve usullerinin Bakanlıkça belirlenmesi (Ek Madde 12), poşet ücreti için komisyon kurulması (Ek Madde 13) ve motor yağı değişimlerinin yetkili yerlerde yapılması (Ek Madde 15) kanunda açıkça belirtilen doğru hükümlerdir."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, motor yağı değişimi yapılan yerlerin yetkilendirilmesine ve atık yağların yönetimine ilişkin usul ve esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili belediyeler",
+                "B": "Bakanlık",
+                "C": "Motor yağı üreticileri ve ithalatçıları",
+                "D": "Satış noktalarının oluşturduğu birlikler",
+                "E": "Çevre etiketi komisyonu"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 15'te belirtilen 'Motor yağı değişimi yapılan yerlerin yetkilendirilmesine ve atık yağların yönetimine ilişkin usul ve esaslar Bakanlıkça belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurum veya kişilerin bu konuda yetkili olduğuna dair bir düzenleme kanun metninde yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, motor yağı değişimi yapılan yerlerin yetkilendirilmesine ve atık yağların yönetimine ilişkin usul ve esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Büyükşehir belediyeleri",
+                "B": "İl ve ilçe belediyeleri",
+                "C": "Bakanlık",
+                "D": "Yetki verilen işletmelerin kendileri",
+                "E": "Sanayi ve Ticaret Odaları"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 15'te belirtilen 'Motor yağı değişimi yapılan yerlerin yetkilendirilmesine ve atık yağların yönetimine ilişkin usul ve esaslar Bakanlıkça belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurum ve kuruluşların bu konuda bir yetkisi kanunda düzenlenmediği için yanlıştır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, çevrenin korunmasına yönelik belirli yükümlülükler ve yetkilerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Motor yağı değişimlerinin, Bakanlıkça yetki verilen işletmeler tarafından yapılması esastır.",
+                "B": "Atık motor yağlarının yönetimine ilişkin usul ve esasları belirleme yetkisi Bakanlığa aittir.",
+                "C": "Marmara Denizi Hidrolojik Havzası'ndaki belirli belediyeler, 3 yıl sonunda ileri atıksu arıtma tesislerini kurup işletmeye almakla yükümlüdür.",
+                "D": "Motor yağı değişimi yapılan yerlerin yetkilendirilmesi, tesisin bulunduğu ilçe belediyesinin görevidir.",
+                "E": "Belirlenmiş havzadaki belediyeler, iş termin planlarını 6 ay içinde Bakanlığa sunmak zorundadır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 15'te belirtilen 'Motor yağı değişimi yapılan yerlerin yetkilendirilmesine ... ilişkin usul ve esaslar Bakanlıkça belirlenir.' hükmüne dayanmaktadır. Yetkilendirme yetkisi belediyeye değil, Bakanlığa aittir.\n- Diğer seçenekler: A ve B seçenekleri Ek Madde 15'teki, C ve E seçenekleri ise Ek Madde 16'daki yükümlülük ve sürelerle uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Marmara Denizi Hidrolojik Havzası’ndaki belirli belediyelerin atıksu arıtma tesisleriyle ilgili yükümlülükleri hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İş termin planlarını, maddenin yürürlüğe girdiği tarihten itibaren 6 ay içinde Bakanlığa sunmak zorundadırlar.",
+                "B": "3 yıl sonunda ileri atıksu arıtma tesislerini kurup işletmeye almakla yükümlüdürler.",
+                "C": "Atıksu gelirlerinin yarısını, belirtilen tesisler kurulana kadar bu tesislerin kurulması ve işletilmesi için ayırmak zorundadırlar.",
+                "D": "Ayrılan gelirleri, Bakanlığın onayıyla geçici olarak diğer acil altyapı projelerinde kullanabilirler.",
+                "E": "Yükümlülükler, Boğazlar ve Susurluk Havzası dâhil olmak üzere İstanbul, Bursa ve Kocaeli illerinin tamamını kapsar."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 16'da belirtilen 'Ayrılan bu gelirler bu maddede belirtilen amaç dışında kullanılamaz.' hükmüne dayanmaktadır. Kanun, bu gelirlerin başka bir amaçla kullanılmasına Bakanlık onayı gibi bir istisna tanımamıştır.\n- Diğer seçeneklerdeki ifadeler; iş termin planı sunma süresi (A), tesisleri kurma ve işletmeye alma süresi (B), ayrılacak gelir oranı (C) ve coğrafi kapsama ilişkin (E) kanundaki doğru düzenlemeleri yansıtmaktadır."
+        },
+        {
+            "soru": "2872 Sayılı Çevre Kanunu'na göre, Marmara Denizi Hidrolojik Havzası’nda yer alan bir büyükşehir belediyesinin atıksu yönetimi yükümlülükleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İleri atıksu arıtma tesislerini kurmak için Bakanlığa 1 yıl içinde iş termin planı sunmalıdır.",
+                "B": "Atıksu gelirlerinin tamamını ileri atıksu arıtma tesislerinin kurulumu için ayırmak zorundadır.",
+                "C": "İleri atıksu arıtma tesisleri kurulana kadar, atıksu gelirlerinin yarısını bu tesislerin kurulması ve işletilmesi için ayırmakla yükümlüdür.",
+                "D": "Ayrılan atıksu gelirlerini, tesisler kurulana kadar öncelikli olarak diğer çevre temizlik hizmetlerinde kullanabilir.",
+                "E": "İleri atıksu arıtma tesislerini 5 yıl içinde kurup işletmeye almakla yükümlüdür."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 16'da belirtilen 'atıksu gelirlerinin yarısını birinci fıkrada belirtilen ileri atıksu arıtma tesislerinin kurulması ve işletilmesinde bu tesisler kurulana kadar kullanılmak üzere ayırmak zorundadır' hükmüne dayanmaktadır.\n- Diğer seçenekler: A, B, D ve E seçeneklerinde belirtilen süreler, oranlar ve kullanım amaçları Ek Madde 16'daki düzenlemelere aykırı olduğu için yanlıştır."
+        }
+    ]
+}

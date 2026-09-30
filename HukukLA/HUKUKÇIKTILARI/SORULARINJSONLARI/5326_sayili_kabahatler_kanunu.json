@@ -1,0 +1,1493 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, aşağıdakilerden hangisi Kanun'un korumayı amaçladığı değerler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Toplum düzeni",
+                "B": "Genel ahlâk",
+                "C": "Genel sağlık",
+                "D": "Kişi dokunulmazlığı",
+                "E": "Ekonomik düzen"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 1'de Kanun'un amaçları arasında 'toplum düzenini, genel ahlâkı, genel sağlığı, çevreyi ve ekonomik düzeni korumak' sayılmış olup, 'kişi dokunulmazlığı' bu amaçlar arasında belirtilmemiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kanunun, karşılığında idarî yaptırım uygulanmasını öngördüğü haksızlık olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Suç",
+                "B": "İdarî suç",
+                "C": "Kabahat",
+                "D": "Disiplin suçu",
+                "E": "Hukuka aykırılık"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Kabahat deyiminden; kanunun, karşılığında idarî yaptırım uygulanmasını öngördüğü haksızlık anlaşılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, Kanun'un idarî yaptırım kararlarına karşı kanun yoluna ilişkin hükümlerinin uygulanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her durumda, diğer kanunlardaki hükümlere bakılmaksızın uygulanır.",
+                "B": "Sadece mülkiyetin kamuya geçirilmesi yaptırımını gerektiren fiiller hakkında uygulanır.",
+                "C": "Diğer kanunlarda aksine bir hüküm bulunmadığı takdirde uygulanır.",
+                "D": "Uygulanması için ilgili idarenin özel bir karar alması gerekir.",
+                "E": "Sadece idarî para cezası yaptırımını gerektiren fiiller hakkında uygulanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'İdarî yaptırım kararlarına karşı kanun yoluna ilişkin hükümleri, diğer kanunlarda aksine hüküm bulunmaması halinde... uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, Kanun'un genel hükümlerinin uygulanacağı fiillerin gerektirdiği yaptırımlar arasında aşağıdakilerden hangisi veya hangileri sayılmıştır?\n\nI. İdarî para cezası\nII. Mülkiyetin kamuya geçirilmesi\nIII. Adlî para cezası",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "II ve III",
+                "D": "I ve II",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Diğer genel hükümleri, idarî para cezası veya mülkiyetin kamuya geçirilmesi yaptırımını gerektiren bütün fiiller hakkında... uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bu Kanun'un genel hükümlerinin uygulanma alanı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Yalnızca idarî para cezasını gerektiren fiiller",
+                "B": "Yalnızca mülkiyetin kamuya geçirilmesi yaptırımını gerektiren fiiller",
+                "C": "Diğer kanunlarda özel hüküm bulunan tüm idarî yaptırımlar",
+                "D": "İdarî para cezası veya mülkiyetin kamuya geçirilmesi yaptırımını gerektiren bütün fiiller",
+                "E": "İdarî yaptırım kararlarına karşı kanun yoluna ilişkin tüm uyuşmazlıklar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Diğer genel hükümleri, idarî para cezası veya mülkiyetin kamuya geçirilmesi yaptırımını gerektiren bütün fiiller hakkında... uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kanunîlik ilkesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Hangi fiillerin kabahat oluşturduğu kanunda açıkça tanımlanabilir.",
+                "B": "Kanunun belirlediği çerçevenin içeriği, idarenin genel ve düzenleyici işlemleriyle doldurulabilir.",
+                "C": "Kabahat karşılığı olan yaptırımların türü, ancak kanunla belirlenebilir.",
+                "D": "Kabahat karşılığı olan yaptırımların miktarı, ancak kanunla belirlenebilir.",
+                "E": "Kabahat karşılığı olan yaptırımların süresi, idarenin genel işlemleriyle belirlenebilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Kabahat karşılığı olan yaptırımların türü, süresi ve miktarı, ancak kanunla belirlenebilir.' hükmüne dayanmaktadır. Yaptırım süresinin idari işlemle belirlenmesi bu ilkeye aykırıdır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre;\n\nI. Kabahat karşılığı olan yaptırımın türü\nII. Kanunun belirlediği çerçeve hükmün içeriği\nIII. Kabahat karşılığı olan yaptırımın miktarı\n\nyukarıdakilerden hangisi veya hangileri idarenin genel ve düzenleyici işlemleriyle belirlenebilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'e dayanmaktadır. Maddeye göre, kanunun belirlediği çerçeve hükmün içeriği idarenin genel ve düzenleyici işlemleriyle doldurulabilirken (I. öncül), yaptırımların türü ve miktarı (II. ve III. öncüller) ancak kanunla belirlenebilir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kanunun kapsam ve koşulları bakımından belirlediği çerçeve hükmün içeriğinin doldurulması yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yargıtay içtihatları",
+                "B": "İdarenin genel ve düzenleyici işlemleri",
+                "C": "Anayasa Mahkemesi kararları",
+                "D": "Sulh ceza hâkimlikleri",
+                "E": "Bakanlar Kurulu kararları"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen \"...kanunun kapsam ve koşulları bakımından belirlediği çerçeve hükmün içeriği, idarenin genel ve düzenleyici işlemleriyle de doldurulabilir.\" hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir kabahatin işlendiği zamanın belirlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kabahat, neticenin oluştuğu zaman işlenmiş sayılır.",
+                "B": "Kabahatin işlendiği zamanın belirlenmesinde hem fiilin işlendiği hem de neticenin oluştuğu an dikkate alınır.",
+                "C": "Kabahat, failin icraî veya ihmali davranışı gerçekleştirdiği zaman işlenmiş sayılır.",
+                "D": "İdarî yaptırım kararının verildiği an, kabahatin işlendiği zaman olarak kabul edilir.",
+                "E": "İdarî yaptırımlara ilişkin kararların yerine getirilmesinde geçmişe yürüme kuralı geçerlidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Kabahat, failin icraî veya ihmali davranışı gerçekleştirdiği zaman işlenmiş sayılır. Neticenin oluştuğu zaman, bu bakımdan dikkate alınmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, zaman bakımından uygulamaya ilişkin olarak aşağıdaki durumlardan hangisinde derhal uygulama kuralının geçerli olduğu belirtilmiştir?",
+            "secenekler": {
+                "A": "Kabahatin işlendiği zamanın tespitinde",
+                "B": "Failin lehine olan kanunun geçmişe yürümesinde",
+                "C": "Kabahatler karşılığında öngörülen idarî yaptırım kararlarının yerine getirilmesinde",
+                "D": "Kabahatin unsurlarının tanımlanmasında",
+                "E": "İdarî yaptırım kararlarına karşı kanun yoluna başvurulmasında"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Ancak, kabahatler karşılığında öngörülen idarî yaptırımlara ilişkin kararların yerine getirilmesi bakımından derhal uygulama kuralı geçerlidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir kabahatin işlendiği zaman aşağıdakilerden hangisine göre belirlenir?",
+            "secenekler": {
+                "A": "Neticenin oluştuğu zamana göre",
+                "B": "Failin icraî veya ihmali davranışı gerçekleştirdiği zamana göre",
+                "C": "İdarî yaptırım kararının verildiği zamana göre",
+                "D": "Fiilin hukuka aykırılığının anlaşıldığı zamana göre",
+                "E": "Yaptırım kararının yerine getirildiği zamana göre"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Kabahat, failin icraî veya ihmali davranışı gerçekleştirdiği zaman işlenmiş sayılır. Neticenin oluştuğu zaman, bu bakımdan dikkate alınmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kanunun zaman bakımından uygulanmasına ilişkin olarak Türk Ceza Kanunu hükümlerine getirilen istisna aşağıdaki durumlardan hangisi için geçerlidir?",
+            "secenekler": {
+                "A": "Kabahatin işlendiği anın tespiti",
+                "B": "Failin kusur yeteneğinin belirlenmesi",
+                "C": "İdari yaptırım kararlarının yerine getirilmesi",
+                "D": "Kabahate teşebbüsün cezalandırılması",
+                "E": "Zamanaşımı sürelerinin hesaplanması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Ancak, kabahatler karşılığında öngörülen idarî yaptırımlara ilişkin kararların yerine getirilmesi bakımından derhal uygulama kuralı geçerlidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre;\n\nI. Zaman bakımından uygulama\nII. Yer bakımından uygulama\nIII. İdarî yaptırım kararlarının yerine getirilmesi\n\nkonularından hangisi veya hangilerinde, kural olarak Türk Ceza Kanunu'nun ilgili hükümlerine atıf yapılmıştır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "II ve III",
+                "D": "I ve II",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 5'in zaman bakımından uygulama ve Madde 6'nın yer bakımından uygulama konularında Türk Ceza Kanunu'na atıf yapmasına dayanmaktadır. Madde 5, idarî yaptırım kararlarının yerine getirilmesi bakımından ise 'derhal uygulama kuralı'nı benimseyerek ayrı bir düzenleme getirmiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yer bakımından uygulama ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yer bakımından uygulama konusunda Türk Ceza Kanunu hükümleri istisnasız olarak uygulanır.",
+                "B": "Kabahatler için yer bakımından uygulamaya ilişkin tamamen özgün ve ayrı bir düzenleme getirilmiştir.",
+                "C": "Türk Ceza Kanununun ilgili hükümlerinin uygulanması kural olmakla birlikte, kanunlardaki aksi hükümler saklıdır.",
+                "D": "Yabancı ülkede bir Türk vatandaşı tarafından işlenen kabahatler bu Kanun kapsamı dışındadır.",
+                "E": "Yer bakımından uygulama, yalnızca kabahatin işlendiği yerdeki idari makamın takdirindedir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen '...Türk Ceza Kanununun yer bakımından uygulamaya ilişkin ... hükümleri, kabahatler bakımından da uygulanır. Ancak, kanunlarda aksine hüküm bulunan haller saklıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir kabahatin ihmali davranışla işlenmiş sayılabilmesi için aranan temel şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İhmali davranışın bir netice doğurmuş olması",
+                "B": "İhmali davranışın kasten gerçekleştirilmesi",
+                "C": "Mağdurun ihmalden dolayı bir zarar görmüş olması",
+                "D": "Kişinin belli bir icrai davranışta bulunma hususunda hukuki bir yükümlülüğünün varlığı",
+                "E": "İhmali davranışın bir kamu görevlisi tarafından işlenmesi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'İhmali davranışla işlenmiş kabahatin varlığı için kişi açısından belli bir icraî davranışta bulunma hususunda hukukî yükümlülüğün varlığı gereklidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, ihmali davranışla işlenmiş bir kabahatin varlığından söz edebilmek için;\n\nI. Kişi açısından belli bir icraî davranışta bulunma hususunda hukukî bir yükümlülüğün bulunması\nII. Fiil sonucunda somut bir zararın meydana gelmesi\nIII. Fiilin mutlaka kasten işlenmiş olması\n\nşartlarından hangisi veya hangilerinin varlığı gereklidir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'İhmali davranışla işlenmiş kabahatin varlığı için kişi açısından belli bir icraî davranışta bulunma hususunda hukukî yükümlülüğün varlığı gereklidir.' hükmüne dayanmaktadır. Metinde zarar veya kast şartı aranmamıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir tüzel kişi hakkında idari yaptırım uygulanabilmesi için kabahatin;\n\nI. Tüzel kişinin organı tarafından görev kapsamında işlenmesi,\nII. Tüzel kişinin temsilcisi tarafından görev kapsamında işlenmesi,\nIII. Tüzel kişinin faaliyeti çerçevesinde görev üstlenen ancak organ veya temsilci olmayan bir kişi tarafından görevi kapsamında işlenmesi\n\ndurumlarından hangisi veya hangilerinde işlenmiş olması gerekir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Organ veya temsilcilik görevi yapan ya da organ veya temsilci olmamakla birlikte, tüzel kişinin faaliyeti çerçevesinde görev üstlenen kişinin bu görevi kapsamında işlemiş bulunduğu kabahatten dolayı tüzel kişi hakkında da idarî yaptırım uygulanabilir.' hükmüne dayanmaktadır. Bu hüküm, sayılan üç durumu da kapsamaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, organ veya temsilcinin davranışından dolayı sorumlulukla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tüzel kişinin organının görevi kapsamında işlediği kabahatten dolayı tüzel kişi hakkında idari yaptırım uygulanabilir.",
+                "B": "Gerçek kişiye ait bir işte çalışanın faaliyeti çerçevesinde işlediği kabahatten dolayı iş sahibi hakkında idari yaptırım uygulanabilir.",
+                "C": "Temsilcilik ilişkisinin dayanağını oluşturan işlemin hukuken geçersiz olması, temsil edilen kişi hakkında idari yaptırım uygulanmasına engel teşkil eder.",
+                "D": "Temsilcinin bu sıfatla bağlantılı işlediği kabahatten dolayı temsil edilen gerçek kişi hakkında idari yaptırım uygulanabilir.",
+                "E": "Kanunun, organda özel nitelikler aradığı hallerde dahi, bu organın işlediği kabahatten dolayı tüzel kişi sorumlu tutulabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen '...organ veya temsilcilik ya da hizmet ilişkisinin dayanağını oluşturan işlemin hukuken geçerli olmaması halinde de uygulanır.' hükmüne dayanmaktadır. Bu hükme göre, işlemin geçersiz olması sorumluluğu ortadan kaldırmaz."
+        },
+        {
+            "soru": "Bir lokantanın sahibi olan A'nın yanında çalışan garson B, lokantanın faaliyeti çerçevesinde bir kabahat işlemiştir. 5326 Sayılı Kabahatler Kanunu'na göre, bu olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece kabahati bizzat işleyen garson B hakkında idari yaptırım uygulanabilir.",
+                "B": "Garson B ile iş sahibi A arasındaki hizmet sözleşmesi geçersiz ise iş sahibi A'nın sorumluluğu ortadan kalkar.",
+                "C": "İş sahibi A'nın sorumlu tutulabilmesi için kabahatin işlenmesine göz yummuş olması gerekir.",
+                "D": "Çalışanın bu faaliyeti çerçevesinde işlediği kabahatten dolayı iş sahibi A hakkında da idarî yaptırım uygulanabilir.",
+                "E": "Bu durumda iş sahibi A sorumlu tutulacağından, çalışan B hakkında idari yaptırım uygulanamaz."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 8(2)'de yer alan 'Gerçek kişiye ait bir işte çalışan kişinin bu faaliyeti çerçevesinde işlemiş bulunduğu kabahatten dolayı, iş sahibi kişi hakkında da idarî yaptırım uygulanabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "Bir nakliye şirketinde şoför olarak çalışan (Ş), işvereni (İ)'ye ait bir işte, taşıma faaliyeti çerçevesinde bir trafik kuralını ihlal ederek kabahat işlemiştir. 5326 Sayılı Kabahatler Kanunu'na göre, bu olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kabahatten dolayı idari yaptırım sadece iş sahibi (İ)'ye uygulanabilir.",
+                "B": "İş sahibi (İ)'nin sorumlu tutulabilmesi için kabahati bizzat şoför (Ş) ile birlikte işlemesi gerekir.",
+                "C": "Çalışan (Ş)'nin işlediği bu kabahatten dolayı iş sahibi (İ) hakkında da idarî yaptırım uygulanabilir.",
+                "D": "Şoför (Ş) ile iş sahibi (İ) arasındaki hizmet sözleşmesi geçersiz ise (İ)'nin sorumluluğu ortadan kalkar.",
+                "E": "Bu durumda sadece kabahati işleyen şoför (Ş) hakkında idari yaptırım uygulanabilir, işverenin sorumluluğu yoktur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de yer alan 'Gerçek kişiye ait bir işte çalışan kişinin bu faaliyeti çerçevesinde işlemiş bulunduğu kabahatten dolayı, iş sahibi kişi hakkında da idarî yaptırım uygulanabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir başkasının fiilinden dolayı tüzel veya gerçek kişiler hakkında idari yaptırım uygulanmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tüzel kişinin organının görevi kapsamında işlediği kabahatten dolayı tüzel kişi hakkında idari yaptırım uygulanabilir.",
+                "B": "Gerçek kişiye ait bir işte çalışanın faaliyeti çerçevesinde işlediği kabahatten dolayı iş sahibi hakkında idari yaptırım uygulanabilir.",
+                "C": "Temsilcilik ilişkisinin dayanağını oluşturan işlemin hukuken geçersiz olması, temsil edilen kişi hakkında idari yaptırım uygulanmasını engeller.",
+                "D": "Temsilci sıfatıyla hareket eden kişinin bu sıfatla bağlantılı işlediği kabahatten dolayı temsil edilen gerçek kişi hakkında idari yaptırım uygulanabilir.",
+                "E": "Organ veya temsilci olmasa da tüzel kişinin faaliyeti çerçevesinde görev üstlenen kişinin kabahatinden dolayı tüzel kişi hakkında idari yaptırım uygulanabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen '...organ veya temsilcilik ya da hizmet ilişkisinin dayanağını oluşturan işlemin hukuken geçerli olmaması halinde de uygulanır.' hükmünün zıttı bir ifade olduğu için yanlıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kabahatlerin manevi unsuru olan kast veya taksir ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kanunda aksine bir hüküm bulunmadıkça, kabahatler hem kasten hem de taksirle işlenebilir.",
+                "B": "Kabahatler sadece kasten işlenebilir, taksirle işlenmesi mümkün değildir.",
+                "C": "Kabahatlerin taksirle işlenebilmesi için kanunda bu konuda açık bir hüküm bulunması zorunludur.",
+                "D": "Bir fiilin taksirle işlenmesi her durumda kabahat oluştururken, kasten işlenmesi için kanuni düzenleme gerekir.",
+                "E": "Taksirle işlenen fiiller için idari yaptırım uygulanması öngörülmemiştir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Kabahatler, kanunda açıkça hüküm bulunmayan hallerde, hem kasten hem de taksirle işlenebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre;\n\nI. Kanunda aksine bir hüküm yoksa kabahatler taksirle de işlenebilir.\nII. Türk Ceza Kanununun hata hallerine ilişkin hükümleri, taksirle işlenen kabahatlere de uygulanır.\nIII. Bir fiilin kabahat sayılabilmesi için kasten işlenmesi genel kuraldır.\n\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 9'da kabahatlerin kanunda açık hüküm olmayan hallerde taksirle de işlenebileceğinin belirtilmesine dayanmaktadır. Madde 10'a göre hata hükümleri taksirli kabahatlere uygulanmadığından II. öncül, Madde 9'a göre genel kural hem kast hem taksir olduğundan III. öncül yanlıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, Türk Ceza Kanununun hata hallerine ilişkin hükümlerinin kabahatler bakımından uygulanabilmesi için aranan temel şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kabahatin taksirle işlenmiş olması",
+                "B": "Kabahatin teşebbüs aşamasında kalması",
+                "C": "Kabahatin kasten işlenmiş olması",
+                "D": "Kabahatin bir tüzel kişi tarafından işlenmesi",
+                "E": "Kabahatin zincirleme şekilde işlenmesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Türk Ceza Kanununun hata hallerine ilişkin hükümleri, ancak kasten işlenen kabahatler bakımından uygulanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, akıl hastalığı nedeniyle;\n\nI. işlediği fiilin hukukî anlam ve sonuçlarını algılayamayan\nII. davranışlarını yönlendirme yeteneği kısmen azalmış olan\nIII. davranışlarını yönlendirme yeteneği önemli derecede azalmış olan\n\nkişilerden hangisi veya hangileri hakkında idarî para cezası uygulanmaz?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Akıl hastalığı nedeniyle, işlediği fiilin hukukî anlam ve sonuçlarını algılayamayan veya bu fiille ilgili olarak davranışlarını yönlendirme yeteneği önemli derecede azalmış olan kişi hakkında idarî para cezası uygulanmaz.' hükmüne dayanmaktadır. Metinde 'kısmen azalmış olma' hali düzenlenmemiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, fiili işlediği sırada en az kaç yaşını doldurmamış çocuk hakkında idarî para cezası uygulanamaz?",
+            "secenekler": {
+                "A": "On iki",
+                "B": "On üç",
+                "C": "On dört",
+                "D": "On beş",
+                "E": "On sekiz"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Fiili işlediği sırada onbeş yaşını doldurmamış çocuk hakkında idarî para cezası uygulanamaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idarî para cezası uygulanamayacak kişilerle ilgili olarak;\n\nI. Fiili işlediği sırada onbeş yaşını doldurmamış çocuk\nII. Akıl hastalığı nedeniyle işlediği fiilin hukukî anlam ve sonuçlarını algılayamayan kişi\nIII. Fiili işlediği sırada onsekiz yaşını doldurmamış çocuk\n\nyukarıdakilerden hangisi veya hangileri hakkında idarî para cezası uygulanamaz?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Fiili işlediği sırada onbeş yaşını doldurmamış çocuk hakkında idarî para cezası uygulanamaz.' ve 'Akıl hastalığı nedeniyle, işlediği fiilin hukukî anlam ve sonuçlarını algılayamayan ... kişi hakkında idarî para cezası uygulanmaz.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, Türk Ceza Kanununun hukuka uygunluk nedenleri ile kusurluluğu ortadan kaldıran nedenlere ilişkin hükümlerinin kabahatler bakımından uygulanması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu hükümler kabahatler bakımından hiçbir zaman uygulanmaz.",
+                "B": "Bu hükümler sadece kasten işlenen kabahatlerde uygulanır.",
+                "C": "Bu hükümlerin uygulanabilmesi için Cumhuriyet savcısının onayı gerekir.",
+                "D": "Bu hükümler sadece idari para cezası gerektiren kabahatlerde uygulanır.",
+                "E": "Kanunda aksine bir hüküm bulunmadıkça bu hükümler kabahatler bakımından da uygulanır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Bu Kanunda aksine hüküm bulunmayan hallerde, Türk Ceza Kanununun hukuka uygunluk nedenleri ile kusurluluğu ortadan kaldıran nedenlere ilişkin hükümleri, kabahatler bakımından da uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, Kanun'da aksine hüküm bulunmayan hâllerde, Türk Ceza Kanunu'nun ilgili hükümlerinin uygulanacağı durumlar arasında;\n\nI. hukuka uygunluk nedenleri,\nII. kusurluluğu ortadan kaldıran nedenler,\nIII. gönüllü vazgeçme\n\nhangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 12'de 'hukuka uygunluk nedenleri ile kusurluluğu ortadan kaldıran nedenler' ve Madde 13'te teşebbüsün cezalandırıldığı hallerde 'gönüllü vazgeçmeye ilişkin hükümler' için Türk Ceza Kanunu'na atıf yapılmasına dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kabahate teşebbüs ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kural olarak kabahate teşebbüs cezalandırılmaz.",
+                "B": "İlgili kanunda hüküm bulunması halinde teşebbüs cezalandırılabilir.",
+                "C": "Teşebbüsün cezalandırıldığı hallerde, Türk Ceza Kanununun gönüllü vazgeçmeye ilişkin hükümleri uygulanır.",
+                "D": "Teşebbüsün cezalandırıldığı hallerde, Türk Ceza Kanununun suça teşebbüse ilişkin hükümleri uygulanır.",
+                "E": "Her durumda, kabahate teşebbüs fiili için idari para cezası yarı oranında azaltılarak uygulanır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te kabahate teşebbüsün kural olarak cezalandırılmadığı, istisnai durumlarda ise TCK hükümlerinin uygulanacağının belirtilmesi ve cezanın yarı oranında azaltılacağına dair bir hüküm bulunmaması nedeniyle yanlıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, teşebbüsün de cezalandırılabileceğine dair ilgili kanunda hüküm bulunan hâllerde, Türk Ceza Kanununun;\n\nI. suça teşebbüse,\nII. gönüllü vazgeçmeye,\nIII. iştirake\n\nilişkin hükümlerinden hangisi veya hangileri kabahatler bakımından da uygulanır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Bu durumda, Türk Ceza Kanununun suça teşebbüse ve gönüllü vazgeçmeye ilişkin hükümleri, kabahatler bakımından da uygulanır.' hükmüne dayanmaktadır. Metinde iştirake ilişkin bir düzenleme yer almamaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kabahatin işlenişine iştirak ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İştirak eden her bir kişi hakkında fail olarak idarî para cezası verilir.",
+                "B": "Özel faillik niteliği aranan bir kabahate bu niteliği taşımayan kişinin iştiraki halinde bu kişiye yaptırım uygulanmaz.",
+                "C": "İştirak için kasten ve hukuka aykırı işlenmiş bir fiilin varlığı yeterlidir.",
+                "D": "İştirak eden kişi hakkında, diğer iştirakçilerin sorumlu olup olmadığına bakılmaksızın idarî para cezası verilir.",
+                "E": "Bir fiilin özel faillik niteliği taşıyan için suç, diğerleri için kabahat olması durumunda suça iştirak hükümleri uygulanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 14(2)'de belirtilen 'Özel faillik niteliğinin arandığı durumlarda, kabahate iştirak eden ve bu niteliği taşımayan kişi hakkında da fail olarak idarî para cezası verilir.' hükmüne dayanmaktadır. Dolayısıyla B seçeneğindeki ifade yanlıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, işlenmesi için özel faillik niteliğinin arandığı bir kabahate, bu niteliği taşımayan bir kişinin iştirak etmesi durumunda aşağıdaki hukuki sonuçlardan hangisi ortaya çıkar?",
+            "secenekler": {
+                "A": "Kişi hakkında herhangi bir yaptırım uygulanmaz.",
+                "B": "Kişi sadece yardım eden olarak sorumlu tutulur.",
+                "C": "Kişi hakkında fail olarak idarî para cezası verilir.",
+                "D": "Kişiye verilecek cezada indirim yapılır.",
+                "E": "Durum, her halde suça iştirake ilişkin hükümlere göre değerlendirilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Özel faillik niteliğinin arandığı durumlarda, kabahate iştirak eden ve bu niteliği taşımayan kişi hakkında da fail olarak idarî para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kanunda özel faillik niteliğini taşıyan kişi açısından suç, diğer kişiler açısından kabahat olarak tanımlanan bir fiilin, bu niteliği taşıyan ve taşımayan kişiler tarafından ortaklaşa işlenmesi durumunda uygulanacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tüm iştirakçiler hakkında suça iştirake ilişkin hükümler uygulanır.",
+                "B": "Sadece özel faillik niteliği taşıyan kişi hakkında suça iştirak hükümleri uygulanır.",
+                "C": "Tüm iştirakçiler hakkında kabahate iştirake ilişkin hükümler uygulanır.",
+                "D": "Özel faillik niteliği taşımayan kişiler hakkında herhangi bir yaptırım uygulanmaz.",
+                "E": "Her bir iştirakçinin durumu kendi niteliğine göre ayrı ayrı değerlendirilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen '...suça iştirake ilişkin hükümler uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir kabahatin işlenişine birden fazla kişinin iştirak etmesi durumunda ortaya çıkan hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Sadece fiili bizzat işleyen kişi fail olarak cezalandırılır.",
+                "B": "İştirak eden kişilere, failin cezasının yarısı oranında ceza verilir.",
+                "C": "İştirak eden kişilerin her biri hakkında ayrı ayrı fail olarak idari para cezası verilir.",
+                "D": "Sadece azmettiren sıfatıyla katılan kişi hakkında idari para cezası verilir.",
+                "E": "İştirak edenlerden yalnızca birinin sorumlu tutulması yeterlidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Kabahatin işlenişine birden fazla kişinin iştirak etmesi halinde bu kişilerin her biri hakkında, fail olarak idarî para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir kişinin kabahate iştirakten sorumlu tutulabilmesi için;\n\nI. Kasten işlenmiş bir fiilin varlığı\nII. Hukuka aykırı işlenmiş bir fiilin varlığı\nIII. Diğer iştirak edenlerin de mutlaka sorumlu tutulmuş olması\n\nkoşullarından hangisi veya hangilerinin varlığı yeterlidir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Kabahate iştirak için kasten ve hukuka aykırı işlenmiş bir fiilin varlığı yeterlidir.' ve '...diğerlerinin sorumlu olup olmadığı göz önünde bulundurulmaksızın idarî para cezası verilir.' hükümlerine dayanmaktadır. Bu nedenle I ve II yeterli olup, III numaralı öncül gerekli değildir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir fiil ile birden fazla kabahatin işlenmesi ve bu kabahatlere ilişkin tanımlarda sadece idarî para cezası öngörülmüş olması durumunda uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Her bir kabahat için ayrı ayrı idarî para cezası verilir.",
+                "B": "Tüm idarî para cezaları toplanarak uygulanır.",
+                "C": "İşlenen kabahatlerden sadece bir tanesi için ceza verilir.",
+                "D": "En hafif idarî para cezası verilir.",
+                "E": "En ağır idarî para cezası verilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 15(1)'de belirtilen 'Bir fiil ile birden fazla kabahatin işlenmesi halinde bu kabahatlere ilişkin tanımlarda sadece idarî para cezası öngörülmüşse, en ağır idarî para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, işlenen bir fiilin hem kabahat hem de suç olarak tanımlanması durumunda ortaya çıkan hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Sadece suçtan dolayı yaptırım uygulanabilir.",
+                "B": "Sadece kabahatten dolayı yaptırım uygulanır.",
+                "C": "Hem suçtan hem de kabahatten dolayı ayrı ayrı yaptırım uygulanır.",
+                "D": "Yaptırımı daha ağır olan hüküm uygulanır.",
+                "E": "Suçtan dolayı yaptırım uygulanamayan hallerde dahi kabahatten yaptırım uygulanamaz."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 15(3)'te belirtilen 'Bir fiil hem kabahat hem de suç olarak tanımlanmış ise, sadece suçtan dolayı yaptırım uygulanabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir fiilin hem kabahat hem de suç olarak tanımlanması, ancak suçtan dolayı herhangi bir sebeple yaptırım uygulanamaması halinde yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Herhangi bir yaptırım uygulanmaz.",
+                "B": "Sadece idarî tedbirler uygulanabilir.",
+                "C": "Kabahat dolayısıyla yaptırım uygulanır.",
+                "D": "Kişiye sadece bir uyarıda bulunulur.",
+                "E": "Yargılamanın yenilenmesi talep edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te yer alan 'Bir fiil hem kabahat hem de suç olarak tanımlanmış ise, sadece suçtan dolayı yaptırım uygulanabilir. Ancak, suçtan dolayı yaptırım uygulanamayan hallerde kabahat dolayısıyla yaptırım uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir fiil ile birden fazla kabahatin işlenmesi haliyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İşlenen kabahatlerin tümü için sadece idarî para cezası öngörülmüşse, en ağır olan idarî para cezası verilir.",
+                "B": "İdarî para cezasının yanı sıra başka idarî yaptırımlar da öngörülmüşse, bu yaptırımların her birinin uygulanmasına karar verilir.",
+                "C": "Bir fiil hem kabahat hem de suç olarak tanımlanmışsa, kural olarak sadece kabahatten dolayı yaptırım uygulanır.",
+                "D": "Suçtan dolayı yaptırım uygulanamayan hallerde, kabahat dolayısıyla yaptırım uygulanması mümkündür.",
+                "E": "Aynı kabahatin birden fazla işlenmesi durumunda, her bir kabahat için ayrı ayrı idarî para cezası verilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Bir fiil hem kabahat hem de suç olarak tanımlanmış ise, sadece suçtan dolayı yaptırım uygulanabilir.' hükmüne dayanmaktadır. Seçenekte bu kuralın tersi ifade edilmiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, ekonomik durumu müsait olmayan kişiye verilen idari para cezasının taksitlendirilmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Taksitlendirme, ilk taksitin peşin ödenmesi koşuluyla en fazla altı ay içinde ve iki eşit taksitle yapılabilir.",
+                "B": "Taksitlendirme kararı verilebilmesi için cezanın yarısının peşin ödenmesi gerekir.",
+                "C": "İlk taksitin peşin ödenmesi koşuluyla, ceza bir yıl içinde ve dört eşit taksit halinde ödenebilir.",
+                "D": "Taksitlendirme süresi iki yılı geçemez ve taksit sayısı sekizi aşamaz.",
+                "E": "Ekonomik durumun müsait olmaması, taksitlendirme için yeterli olup peşin ödeme şartı aranmaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Kişinin ekonomik durumunun müsait olmaması halinde, idarî para cezasının, ilk taksitinin peşin ödenmesi koşuluyla, bir yıl içinde ve dört eşit taksit halinde ödenmesine karar verilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idari para cezasının ödeme süresi içinde ödenmesi halinde, ceza tutarı üzerinden hangi oranda indirim yapılır?",
+            "secenekler": {
+                "A": "%10",
+                "B": "%15",
+                "C": "%20",
+                "D": "%25",
+                "E": "%30"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 17'de yer alan 'İdari para cezasının ödeme süresi içinde ödenmesi halinde, cezadan %25 oranında indirim yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idarî para cezasının taksitle ödenmesine karar verilebilmesi için aşağıdaki şartlardan hangisi veya hangileri aranır?\n\nI. Kişinin ekonomik durumunun müsait olmaması\nII. İlk taksitin peşin ödenmesi\nIII. Ödemenin bir yıl içinde tamamlanması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Kişinin ekonomik durumunun müsait olmaması halinde, idarî para cezasının, ilk taksitinin peşin ödenmesi koşuluyla, bir yıl içinde ve dört eşit taksit halinde ödenmesine karar verilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idari para cezasının taksitle ödenmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kişinin ekonomik durumunun müsait olmaması halinde taksitlendirme kararı verilebilir.",
+                "B": "Taksitlendirme kararı verilebilmesi için ilk taksitin peşin ödenmesi bir koşuldur.",
+                "C": "Taksitlendirme, bir yıl içinde ve en fazla dört eşit taksit halinde yapılabilir.",
+                "D": "Taksitlerden birinin zamanında ödenmemesi, sadece o taksitin gecikme zammıyla tahsiline neden olur.",
+                "E": "Taksitlerin zamanında ve tam olarak ödenmemesi halinde, idarî para cezasının kalan kısmının tamamı tahsil edilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 17'de yer alan 'Taksitlerin zamanında ve tam olarak ödenmemesi halinde, idarî para cezasının kalan kısmının tamamı tahsil edilir.' hükmüyle çelişmektedir. Kanun, sadece ilgili taksitin değil, kalan borcun tamamının muaccel hale geleceğini düzenlemiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre;\n\nI. İdari para cezası, maktu veya nispi olabilir.\nII. Mülkiyetin kamuya geçirilmesi, idari tedbirlerden biridir.\nIII. Mahalli idareler tarafından verilen idari para cezaları, Genel Bütçeye gelir kaydedilir.\n\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "Yalnız II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 17'de idari para cezasının maktu veya nispi olabileceğinin belirtilmesi ve Madde 16'da mülkiyetin kamuya geçirilmesinin idari tedbirler arasında sayılmasına dayanmaktadır. Madde 17'ye göre mahalli idarelerin verdiği cezalar kendi bütçelerine gelir kaydedilir, bu nedenle III. öncül yanlıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, eşyanın mülkiyetinin kamuya geçirilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Karar verilebilmesi için fail hakkında mutlaka idarî para cezası kararı verilmiş olması gerekir.",
+                "B": "Mülkiyeti kamuya geçirilen eşya, başka suretle değerlendirilmesi mümkün olsa dahi imha edilir.",
+                "C": "Mülkiyetin kamuya geçirilmesine ilişkin karar, kesinleşmesi beklenmeksizin derhal yerine getirilir.",
+                "D": "Eşyanın mülkiyeti, istisnasız her durumda doğrudan Devlete geçer.",
+                "E": "Eşyanın mülkiyetinin kamuya geçirilmesine ancak kanunda açık hüküm bulunan hallerde karar verilebilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Kabahatin konusunu oluşturan veya işlenmesi suretiyle elde edilen eşyanın mülkiyetinin kamuya geçirilmesine, ancak kanunda açık hüküm bulunan hallerde karar verilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, mülkiyetin kamuya geçirilmesine ilişkin kararın belli bir süre geciktirilebilmesi için aranan koşullar arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Eşyanın kullanılmaz hale getirilmesi\nII. Eşyanın niteliğinin değiştirilmesi\nIII. Eşyanın ancak belli bir surette kullanılması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 18'de mülkiyetin kamuya geçirilmesi kararının geciktirilebileceği koşullar arasında sayılan 'Kullanılmaz hale getirilmesi', 'Niteliğinin değiştirilmesi' ve 'Ancak belli bir surette kullanılması' hükümlerinin tümüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, mülkiyeti kamuya geçirilen eşya ile ilgili olarak;\n\nI. Kanunda açık hüküm bulunmayan hallerde mülkiyet Devlete geçer.\nII. Başka suretle değerlendirilmesi mümkün olmayan eşya imha edilir.\nIII. Mülkiyetin kamuya geçirilmesine ilişkin karar, verildiği anda yerine getirilir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18(4)'te kanunda açık hüküm yoksa mülkiyetin Devlete geçeceğinin ve Madde 18(7)'de başka suretle değerlendirilemeyen eşyanın imha edileceğinin düzenlenmesine dayanmaktadır. Madde 18(8) uyarınca karar, kesinleşmesi halinde yerine getirilir, verildiği anda değil."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, diğer kanunlarda kabahat karşılığında öngörülen ve ilgili kanunlarda bu Kanun hükümlerine uygun değişiklik yapılıncaya kadar saklı tutulan yaptırımlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Bir meslek ve sanatın yerine getirilmemesi",
+                "B": "İşyerinin kapatılması",
+                "C": "Mülkiyetin kamuya geçirilmesi",
+                "D": "Ruhsat veya ehliyetin geri alınması",
+                "E": "Kara, deniz veya hava nakil aracının trafikten veya seyrüseferden alıkonulması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 19'da saklı tutulan yaptırımlar arasında 'Mülkiyetin kamuya geçirilmesi'nin sayılmamış olmasına dayanmaktadır. Maddede sayılanlar; bir meslek ve sanatın yerine getirilmemesi, işyerinin kapatılması, ruhsat veya ehliyetin geri alınması ve nakil aracının alıkonulmasıdır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, diğer kanunlarda öngörülen ve bu Kanun hükümlerine uygun değişiklik yapılıncaya kadar saklı tutulan yaptırımlara ilişkin hükümlerle ilgili olarak;\n\nI. İşyerinin kapatılması\nII. Ruhsat veya ehliyetin geri alınması\nIII. Deniz nakil aracının seyrüseferden alıkonulması\n\nyukarıdakilerden hangisi veya hangileri bu kapsamda değerlendirilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 19'da saklı tutulan yaptırımlar arasında 'İşyerinin kapatılması', 'Ruhsat veya ehliyetin geri alınması' ve 'deniz ... nakil aracının ... seyrüseferden alıkonulması' hükümlerinin açıkça sayılmış olmasına dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, nispî idarî para cezasını gerektiren kabahatlerde soruşturma zamanaşımı süresi kaç yıldır?",
+            "secenekler": {
+                "A": "Üç",
+                "B": "Dört",
+                "C": "Beş",
+                "D": "Yedi",
+                "E": "Sekiz"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Nispî idarî para cezasını gerektiren kabahatlerde zamanaşımı süresi sekiz yıldır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, soruşturma zamanaşımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Zamanaşımı süresi, kabahate ilişkin neticenin gerçekleşmesiyle işlemeye başlar.",
+                "B": "Ellibin Türk Lirası veya daha fazla idarî para cezasını gerektiren kabahatlerde zamanaşımı süresi dört yıldır.",
+                "C": "Yüzbin Türk Lirası veya daha fazla idarî para cezasını gerektiren kabahatlerde zamanaşımı süresi üç yıldır.",
+                "D": "Soruşturma zamanaşımının dolması halinde kişi hakkında idarî para cezasına karar verilemez.",
+                "E": "Kabahati oluşturan fiilin aynı zamanda suç oluşturması halinde suça ilişkin dava zamanaşımı hükümleri uygulanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Yüzbin Türk Lirası veya daha fazla idarî para cezasını gerektiren kabahatlerde beş ... yıldır.' hükmüne dayanmaktadır. Seçenekte bu süre yanlış olarak üç yıl şeklinde belirtilmiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kabahati oluşturan fiilin aynı zamanda bir suç oluşturması halinde uygulanacak zamanaşımı kuralı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kabahate ilişkin zamanaşımı süresi durur.",
+                "B": "Suça ilişkin dava zamanaşımı hükümleri uygulanır.",
+                "C": "Her iki zamanaşımı süresinden kısa olanı esas alınır.",
+                "D": "Nispî idarî para cezaları için öngörülen zamanaşımı süresi uygulanır.",
+                "E": "Zamanaşımı süreleri ayrı ayrı işlemeye devam eder."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Kabahati oluşturan fiilin aynı zamanda suç oluşturması halinde suça ilişkin dava zamanaşımı hükümleri uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idarî para cezalarına ilişkin yerine getirme zamanaşımı süreleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ellibin Türk Lirası veya daha fazla idarî para cezası için yedi yıldır.",
+                "B": "Yirmibin Türk Lirası veya daha fazla idarî para cezası için beş yıldır.",
+                "C": "Onbin Türk Lirası veya daha fazla idarî para cezası için dört yıldır.",
+                "D": "Onbin Türk Lirasından az idarî para cezası için beş yıldır.",
+                "E": "Mülkiyetin kamuya geçirilmesine ilişkin zamanaşımı süresi on yıldır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 21'de 'Onbin Türk Lirasından az idarî para cezasına karar verilmesi halinde üç' yıl olduğu belirtilmiştir. Seçenekte bu süre yanlış olarak beş yıl şeklinde ifade edilmiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yerine getirme zamanaşımı süresi ne zaman işlemeye başlar?",
+            "secenekler": {
+                "A": "Kabahate ilişkin fiilin işlendiği tarihten itibaren",
+                "B": "Kabahate ilişkin neticenin gerçekleştiği tarihten itibaren",
+                "C": "İdarî yaptırım kararının verildiği günden itibaren",
+                "D": "Kararın kesinleşmesinin rastladığı takvim yılını takip eden takvim yılı başından itibaren",
+                "E": "Kararın ilgili kişiye tebliğ edildiği tarihten itibaren"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Zamanaşımı süresi, kararın kesinleşmesinin rastladığı takvim yılını takip eden takvim yılı başından itibaren işlemeye başlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, mülkiyetin kamuya geçirilmesine ilişkin kararlar için yerine getirme zamanaşımı süresi kaç yıldır?",
+            "secenekler": {
+                "A": "Üç",
+                "B": "Beş",
+                "C": "Yedi",
+                "D": "Sekiz",
+                "E": "On"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 21(3)'te belirtilen 'Mülkiyetin kamuya geçirilmesine ilişkin zamanaşımı süresi on yıldır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kabahat dolayısıyla idarî yaptırım kararı verme yetkisi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İlgili kanunda açıkça gösterilen idarî kurul, makam veya kamu görevlileri karar vermeye yetkilidir.",
+                "B": "Kanunda açık hüküm bulunmayan hallerde ilgili kamu kurum ve kuruluşunun en üst amiri yetkili olur.",
+                "C": "Yetki, her durumda öncelikli olarak ilgili kamu kurum ve kuruluşunun en üst amirine aittir.",
+                "D": "Yetkili makamlar, ancak ilgili kamu kurum ve kuruluşunun görev alanına giren yerlerde işlenen kabahatler için karar verebilir.",
+                "E": "Ceza Muhakemesi Kanununun yer bakımından yetki kuralları kabahatler açısından da geçerlidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Kanunda açık hüküm bulunmayan hallerde ilgili kamu kurum ve kuruluşunun en üst amiri bu konuda yetkilidir.' hükmüne dayanmaktadır. Bu yetki, kanunda açık hüküm bulunmaması şartına bağlı ikincil bir yetkidir, öncelikli değildir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir kabahatle ilgili idarî yaptırım kararı verecek makamın kanunda açıkça belirtilmediği durumlarda bu yetki aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "O yerin en büyük mülkî amirine",
+                "B": "İlgili kamu kurum ve kuruluşunun en üst amirine",
+                "C": "Kabahatin işlendiği yerdeki sulh ceza hâkimliğine",
+                "D": "Kabahatin işlendiği yerdeki Cumhuriyet başsavcılığına",
+                "E": "Kanunda genel olarak yetkili kılınan idarî kurula"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Kanunda açık hüküm bulunmayan hallerde ilgili kamu kurum ve kuruluşunun en üst amiri bu konuda yetkilidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre;\n\nI. Kanunda bu konuda açıkça hüküm bulunması\nII. Bir suç dolayısıyla yürütülen soruşturma kapsamında bir kabahatin işlendiğinin öğrenilmesi\nIII. Soruşturma konusu fiilin kabahat olduğunun anlaşılması ve ilgili kurumca henüz bir karar verilmemiş olması\n\nyukarıdaki durumlardan hangisi veya hangilerinde Cumhuriyet savcısı idarî yaptırım kararı verebilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen tüm hallerde Cumhuriyet savcısının idarî yaptırım kararı verebileceğine ilişkin hükümlere dayanmaktadır. I. öncül birinci fıkrada, II. öncül ikinci fıkrada, III. öncül ise üçüncü fıkrada düzenlenmiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, soruşturma konusu fiilin kabahat oluşturduğunun anlaşılması hâlinde Cumhuriyet savcısının idarî yaptırım kararı verebilmesinin temel koşulu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlgili kamu kurum ve kuruluşunun rızasının alınmış olması",
+                "B": "Kabahatin, soruşturulan suçla bağlantılı olması",
+                "C": "İlgili kamu kurum ve kuruluşu tarafından daha önce bir karar verilmemiş olması",
+                "D": "Verilecek idari para cezasının üst sınırı aşmaması",
+                "E": "Fiilin aynı zamanda bir disiplin suçu oluşturması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Ancak, bunun için ilgili kamu kurum ve kuruluşu tarafından idarî yaptırım kararı verilmemiş olması gerekir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir suç dolayısıyla başlatılan soruşturma kapsamında bir kabahatin işlendiğini öğrenen Cumhuriyet savcısının yapabileceği işlemlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece kendisi idarî yaptırım kararı verebilir, durumu başka bir kuruma bildiremez.",
+                "B": "Sadece durumu ilgili kamu kurum ve kuruluşuna bildirebilir, kendisi karar veremez.",
+                "C": "Durumu ilgili kamu kurum ve kuruluşuna bildirebileceği gibi, kendisi de idarî yaptırım kararı verebilir.",
+                "D": "İdarî yaptırım kararı verebilmesi için mahkemeden izin alması zorunludur.",
+                "E": "Soruşturmayı derhal durdurarak dosyayı ilgili kamu kurumuna göndermekle yükümlüdür."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen '...Cumhuriyet savcısı durumu ilgili kamu kurum ve kuruluşuna bildirebileceği gibi, kendisi de idarî yaptırım kararı verebilir.' hükmüne dayanmaktadır. Bu hüküm, savcıya iki seçenek sunmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kovuşturma aşamasında incelenen bir fiilin aslında kabahat olduğunun anlaşılması durumunda idarî yaptırım kararı verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhuriyet savcısı",
+                "B": "İlgili kamu kurumunun en üst amiri",
+                "C": "Mahkeme",
+                "D": "Kolluk amiri",
+                "E": "İdarî yaptırım kurulu"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen 'Kovuşturma konusu fiilin kabahat oluşturduğunun anlaşılması halinde mahkeme tarafından idarî yaptırım kararı verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idarî yaptırım kararına ilişkin tutanakta yer alması zorunlu olan bilgiler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Hakkında idarî yaptırım kararı verilen kişinin kimlik ve adresi",
+                "B": "İdarî yaptırım kararı verilmesini gerektiren kabahat fiili",
+                "C": "Fiilin işlendiğini ispata yarayacak bütün deliller",
+                "D": "Kararı veren kamu görevlilerinin kimliği",
+                "E": "Uygulanacak idari para cezasının taksitlendirme seçenekleri"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 25'te idarî yaptırım kararına ilişkin tutanakta yer alması gereken unsurlar arasında 'uygulanacak idari para cezasının taksitlendirme seçenekleri'nin sayılmamış olmasına dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idarî yaptırım kararına ilişkin tutanakta;\n\nI. Hakkında karar verilen kişinin kimlik ve adresi\nII. Fiilin işlendiğini ispata yarayacak bütün deliller\nIII. Karara karşı başvurulabilecek kanun yolları ve süresi\n\nbilgilerinden hangisi veya hangilerinin açık bir şekilde yazılması zorunludur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te idarî yaptırım tutanağında yer alması zorunlu unsurlar arasında 'Hakkında idarî yaptırım kararı verilen kişinin kimlik ve adresi' ile 'Bu fiilin işlendiğini ispata yarayacak bütün deliller' hükümlerinin sayılmasına, ancak kanun yollarına ilişkin bir bilginin bu maddede zorunlu bir unsur olarak yer almamasına dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, elektronik ortamda yapılan idari yaptırım kararı tebligatı, muhatabın elektronik adresine ulaştığı tarihi izleyen kaçıncı günün sonunda yapılmış sayılır?",
+            "secenekler": {
+                "A": "Üçüncü",
+                "B": "Beşinci",
+                "C": "Yedinci",
+                "D": "Onuncu",
+                "E": "On beşinci"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'Elektronik ortamda yapılan tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idari yaptırım kararına karşı başvuru süresinin mücbir sebep nedeniyle geçirilmesi halinde, bu sebebin ortadan kalktığı tarihten itibaren en geç kaç gün içinde başvuruda bulunulabilir?",
+            "secenekler": {
+                "A": "Beş gün",
+                "B": "Yedi gün",
+                "C": "On gün",
+                "D": "On beş gün",
+                "E": "Otuz gün"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Mücbir sebebin varlığı dolayısıyla bu sürenin geçirilmiş olması halinde bu sebebin ortadan kalktığı tarihten itibaren en geç yedi gün içinde karara karşı başvuruda bulunulabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, soruşturma konusu fiilin suç değil de kabahat oluşturduğu gerekçesiyle idarî yaptırım kararı verilmesi ve bu işleme dayanak olan kovuşturmaya yer olmadığı kararına da itiraz edilmesi durumunda, idarî yaptırım kararına karşı başvuru aşağıdaki mercilerden hangisinde incelenir?",
+            "secenekler": {
+                "A": "Sulh ceza mahkemesinde",
+                "B": "İdarî yargı merciinde",
+                "C": "Kovuşturmaya yer olmadığı kararına yapılan itirazı inceleyen mercide",
+                "D": "Beraat kararına karşı gidilen kanun yolu merciinde",
+                "E": "İdarî yaptırım kararını veren Cumhuriyet savcılığında"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de yer alan 'kovuşturmaya yer olmadığı kararına itiraz edildiği takdirde, idarî yaptırım kararına karşı başvuru da bu itiraz merciinde incelenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idarî para cezası ve mülkiyetin kamuya geçirilmesine ilişkin idarî yaptırım kararlarına karşı, kararın tebliğinden itibaren süresi içinde yapılacak başvurularda görevli ve yetkili merci aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İdare mahkemesi",
+                "B": "Asliye ceza mahkemesi",
+                "C": "Sulh ceza mahkemesi",
+                "D": "Bölge idare mahkemesi",
+                "E": "Ağır ceza mahkemesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de yer alan 'İdarî para cezası ve mülkiyetin kamuya geçirilmesine ilişkin idarî yaptırım kararına karşı, kararın tebliği veya tefhimi tarihinden itibaren en geç onbeş gün içinde, sulh ceza mahkemesine başvurulabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idarî para cezasına ilişkin yaptırım kararına karşı, kararın tebliği veya tefhimi tarihinden itibaren kural olarak kaç gün içinde sulh ceza mahkemesine başvurulabilir?",
+            "secenekler": {
+                "A": "Yedi",
+                "B": "On beş",
+                "C": "On",
+                "D": "Yirmi",
+                "E": "Otuz"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen '...idarî yaptırım kararına karşı, kararın tebliği veya tefhimi tarihinden itibaren en geç onbeş gün içinde, sulh ceza mahkemesine başvurulabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idari yaptırım kararına karşı yapılan başvurunun usulden kabulü halinde, ilgili kamu kurum ve kuruluşunun başvuru dilekçesinin tebliğinden itibaren en geç kaç gün içinde mahkemeye cevap vermesi gerekir?",
+            "secenekler": {
+                "A": "Yedi",
+                "B": "On",
+                "C": "On beş",
+                "D": "Yirmi",
+                "E": "Otuz"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28(3)'te belirtilen 'İlgili kamu kurum ve kuruluşu, başvuru dilekçesinin tebliği tarihinden itibaren en geç onbeş gün içinde mahkemeye cevap verir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idari yaptırım kararına karşı yapılan başvuru üzerine mahkemece yapılan ön inceleme sonucunda verilebilecek kararlardan biri aşağıdakilerden hangisi değildir?",
+            "secenekler": {
+                "A": "Dosyanın yetkili sulh ceza mahkemesine gönderilmesi",
+                "B": "Başvurunun süresinde yapılmaması nedeniyle reddedilmesi",
+                "C": "Başvurunun usulden kabulü",
+                "D": "Başvuranın hakkı bulunmadığı gerekçesiyle başvurunun reddedilmesi",
+                "E": "İdari yaptırım kararının esastan kaldırılması"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 28(1)'de ön inceleme sonucunda verilebilecek kararların yetkisizlik, başvurunun reddi ve usulden kabulü olarak sayılması; idari yaptırım kararının esastan kaldırılmasının ise son karar aşamasında verilebilecek bir hüküm olması (Madde 28(8)(b)) nedeniyle bu aşamada verilemez."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, sulh ceza mahkemesi, idari yaptırım kararına karşı yapılan başvuru hakkında son karar olarak;\n\nI. Başvurunun reddine\nII. İdari yaptırım kararının kaldırılmasına\nIII. İdari para cezasının miktarında değişiklik yaparak başvurunun kabulüne\n\nkararlarından hangisini veya hangilerini verebilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 28'e dayanmaktadır. Maddenin 8. fıkrası başvurunun reddine veya idari yaptırım kararının kaldırılmasına karar verilebileceğini, 9. fıkrası ise mahkemenin idari para cezasının miktarında değişiklik yaparak da başvurunun kabulüne karar verebileceğini düzenlemektedir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idari para cezalarına karşı başvuru üzerine verilen kararların kesinliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Beşbin Türk Lirası dahil idarî para cezalarına ilişkin kararlar kesindir.",
+                "B": "Onbin Türk Lirası dahil idarî para cezalarına ilişkin kararlar kesindir.",
+                "C": "Onbeşbin Türk Lirası dahil idarî para cezalarına ilişkin kararlar kesindir.",
+                "D": "Yirmibin Türk Lirası dahil idarî para cezalarına ilişkin kararlar kesindir.",
+                "E": "Miktarına bakılmaksızın tüm idarî para cezalarına ilişkin kararlar kesindir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Onbeşbin Türk Lirası dahil idarî para cezalarına karşı başvuru üzerine verilen kararlar kesindir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idarî yaptırım kararına karşı yapılan başvuru üzerine mahkemece yapılan ön inceleme sonucunda, başvurunun süresi içinde yapılmadığının anlaşılması hâlinde verilmesi gereken karar aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dosyanın yetkili sulh ceza mahkemesine gönderilmesine karar vermek",
+                "B": "Başvurunun usulden kabulüne karar vermek",
+                "C": "İdarî yaptırım kararının kaldırılmasına karar vermek",
+                "D": "Başvurunun reddine karar vermek",
+                "E": "Yerine getirmeyi durdurmak"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 28'de yer alan 'Başvurunun süresi içinde yapılmadığının... anlaşılması halinde, bu nedenlerle başvurunun reddine... Karar verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, mahkemenin verdiği son karara karşı yapılacak itiraz, kararın tebliği tarihinden itibaren en geç ne kadar süre içinde yapılmalıdır?",
+            "secenekler": {
+                "A": "Bir hafta",
+                "B": "On gün",
+                "C": "Onbeş gün",
+                "D": "İki hafta",
+                "E": "Bir ay"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 29(1)'de belirtilen 'Bu itiraz, kararın tebliği tarihten itibaren en geç iki hafta içinde yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, mahkemenin son kararına karşı yapılan itirazın incelenme usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İtirazla ilgili karar, mutlaka duruşma açılarak verilir.",
+                "B": "İtirazla ilgili karar, dosya üzerinden inceleme yapılarak verilir.",
+                "C": "Vekil olarak avukatla temsil edilme halinde dahi karar taraflara ayrıca tebliğ edilir.",
+                "D": "Mahkeme, itirazla ilgili olarak 'kısmen kabul' kararı da verebilir.",
+                "E": "Ağır ceza mahkemesinin verdiği idarî yaptırım kararlarına karşı itiraz yolu kapalıdır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'İtirazla ilgili karar, dosya üzerinden inceleme yapılarak verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, mahkemenin idari yaptırım kararına ilişkin verdiği son karara karşı kanun yoluna başvurulması ile ilgili olarak;\n\nI. Kararın tebliğinden itibaren en geç iki hafta içinde itiraz edilebilir.\nII. Kanun yoluna başvuran kişi, karar verilinceye kadar başvurusundan vazgeçebilir.\nIII. İtirazla ilgili karar, kural olarak duruşma yapılarak verilir.\n\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da itiraz süresinin 'en geç iki hafta' olduğu ve Madde 30'da kanun yoluna başvuranın karar verilinceye kadar vazgeçebileceği belirtilmiştir. Ancak, Madde 29'a göre itirazla ilgili kararın dosya üzerinden verileceği düzenlendiğinden III. öncül yanlıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kanun yoluna başvuran kişinin bu konuda karar verilinceye kadar başvurusundan vazgeçmesinin hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Mahkeme masraflarının yarısını ödemekle yükümlü olur.",
+                "B": "Aynı konuda bir daha başvuruda bulunamaz.",
+                "C": "Vazgeçmenin geçerliliği karşı tarafın kabulüne bağlıdır.",
+                "D": "İdari yaptırım kararı kendiliğinden hükümsüz hale gelir.",
+                "E": "Sadece vekalet ücretini ödemekten kurtulur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 30(1)'de yer alan 'Vazgeçme halinde bir daha aynı konuda başvuruda bulunulamaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, ilgili kamu kurum ve kuruluşunun, aleyhine yapılan kanun yolu başvurusunu kabul ederek idari yaptırım kararını geri alabilmesi en geç hangi aşamaya kadar mümkündür?",
+            "secenekler": {
+                "A": "Başvurunun yapıldığı tarihten itibaren on beş gün içinde",
+                "B": "Duruşma için gün tayin edilinceye kadar",
+                "C": "Mahkeme tarafından bu konuda bir karar verilinceye kadar",
+                "D": "Kararın ilgili kişiye tebliğ edilinceye kadar",
+                "E": "İdari yaptırım kararının kesinleşmesinden itibaren bir ay içinde"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'İlgili kamu kurum ve kuruluşu da mahkeme tarafından karar verilinceye kadar kanun yolu başvurusunu kabul ederek idarî yaptırım kararını geri alabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, idarî yaptırım kararına karşı kanun yoluna başvurulması durumunda oluşan masraflar ve vekalet ücretinin ödenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Masraflar her durumda Hazine tarafından karşılanır.",
+                "B": "Başvurusu veya savunması reddedilen taraf, masrafları ve vekalet ücretini öder.",
+                "C": "Başvuru harca tâbi olduğundan masraflar bu harçtan karşılanır.",
+                "D": "Masraflar, başvurusu kabul edilen ve reddedilen taraflar arasında eşit olarak paylaştırılır.",
+                "E": "Vekalet ücreti idare tarafından ödenirken, diğer masrafları başvuran taraf öder."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'Kanun yoluna başvuru dolayısıyla oluşan bütün masraflar ve vekalet ücreti, başvurusu veya savunması reddedilen tarafça ödenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yetkili makamlar tarafından kamu güvenliği amacıyla hukuka uygun olarak verilen emre aykırı hareket eden kişiye idarî para cezası verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Sulh ceza hâkimliğine",
+                "B": "Cumhuriyet savcılığına",
+                "C": "İlgili valiliğe",
+                "D": "Emri veren makama",
+                "E": "Ağır ceza mahkemesine"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'Bu cezaya emri veren makam tarafından karar verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yetkili makamlar tarafından verilen bir emre aykırı hareketin kabahat oluşturabilmesi için, emrin aşağıdaki amaçlardan hangisi veya hangileriyle verilmiş olması gerekir?\n\nI. Kamu düzeninin korunması\nII. Adlî işlemlerin yürütülmesi\nIII. Vergi gelirlerinin artırılması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 32'de emrin verilebileceği amaçlar arasında 'adlî işlemler nedeniyle ya da kamu güvenliği, kamu düzeni veya genel sağlığın korunması' sayılmış olup, vergi gelirlerinin artırılması bu amaçlar arasında yer almamaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yetkili makamlarca verilen bir emre aykırı hareketin kabahat sayılabilmesi için, emrin veriliş amacı olarak aşağıdakilerden hangisi kanunda sayılmamıştır?",
+            "secenekler": {
+                "A": "Kamu güvenliğinin korunması",
+                "B": "Kamu düzeninin korunması",
+                "C": "Genel sağlığın korunması",
+                "D": "Adlî işlemlerin yürütülmesi",
+                "E": "Özel mülkiyetin korunması"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 32'de emre aykırı davranış kabahatinin oluşması için emrin 'adlî işlemler nedeniyle ya da kamu güvenliği, kamu düzeni veya genel sağlığın korunması amacıyla' verilmesi gerektiğinin belirtilmesine dayanmaktadır. Özel mülkiyetin korunması bu amaçlar arasında sayılmamıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, dilencilik kabahatiyle ilgili olarak;\n\nI. Mülkî amir\nII. Belediye encümeni\nIII. Belediye zabıta görevlileri\n\nyukarıdakilerden hangisi veya hangileri, dilencilikten elde edilen gelirin mülkiyetinin kamuya geçirilmesine karar verebilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen '...mülkiyetin kamuya geçirilmesine mülkî amir veya belediye encümeni karar verir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, dilencilik yapan kişiye verilecek idarî para cezası ile kumar oynayan kişiye verilecek idarî para cezası miktarı sırasıyla aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Yirmi Türk Lirası - Beş yüz Türk Lirası",
+                "B": "Elli Türk Lirası - Bin Türk Lirası",
+                "C": "Yüz Türk Lirası - Bin Türk Lirası",
+                "D": "Elli Türk Lirası - Beş yüz Türk Lirası",
+                "E": "Yüz Türk Lirası - İki bin Türk Lirası"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 33'te dilencilik için 'elli Türk Lirası' ve Madde 34'te kumar için 'bin Türk Lirası' idarî para cezası öngörülmüş olmasına dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre;\n\nI. Dilencilik\nII. Kumar\nIII. Gürültü\n\nkabahatlerinden hangisi veya hangilerinde idarî para cezasına karar verme yetkisi hem kolluk görevlilerine hem de belediye zabıta görevlilerine tanınmıştır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 33'te dilencilik için 'kolluk veya belediye zabıta görevlileri' ve Madde 36'da gürültü için 'kolluk veya belediye zabıta görevlileri' ifadelerinin yer almasına karşın, Madde 34'te kumar için bu yetkinin sadece 'kolluk görevlileri'ne verilmiş olmasına dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, dilencilik kabahati ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Dilencilik yapan kişiye idarî para cezası verilir.",
+                "B": "Dilencilikten elde edilen gelire elkonulmasına karar verilir.",
+                "C": "Elkonulan gelirin mülkiyeti kamuya geçirilir.",
+                "D": "İdarî para cezasının miktarı yüz Türk Lirasıdır.",
+                "E": "İdarî para cezasına belediye zabıta görevlileri karar verebilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Dilencilik yapan kişiye, elli Türk Lirası idarî para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, dilencilik yapan kişiye ilişkin olarak;\n\nI. İdarî para cezası verilmesi\nII. Dilencilikten elde edilen gelire elkonulması\nIII. Elde edilen gelirin mülkiyetinin kamuya geçirilmesi\n\nyaptırımlarından hangisi veya hangileri uygulanır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 33'te dilencilik kabahati için 'elli Türk Lirası idarî para cezası verilir. Ayrıca, dilencilikten elde edilen gelire elkonularak mülkiyetin kamuya geçirilmesine karar verilir' denilerek her üç yaptırımın da uygulanacağı belirtilmiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kumar oynama kabahati ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kumar oynayan kişiye bin Türk Lirası idarî para cezası verilir.",
+                "B": "Kumardan elde edilen gelire elkonularak mülkiyetin kamuya geçirilmesine karar verilir.",
+                "C": "İdarî para cezasına ve elkoymaya kolluk görevlileri karar verir.",
+                "D": "Mülkiyetin kamuya geçirilmesine mülkî amir karar verir.",
+                "E": "İdarî para cezasına ve elkoymaya belediye zabıta görevlileri de karar verebilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 34'te idarî para cezasına ve elkoymaya sadece kolluk görevlilerinin yetkili kılındığı, belediye zabıta görevlilerinin bu yetkiye sahip olmadığı hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kumar oynanması halinde kumardan elde edilen gelirin mülkiyetinin kamuya geçirilmesine karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Kolluk görevlileri",
+                "B": "Sulh ceza hâkimi",
+                "C": "Cumhuriyet savcısı",
+                "D": "Mülkî amir",
+                "E": "Belediye zabıtası"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 34(2)'de belirtilen '...mülkiyetin kamuya geçirilmesine mülkî amir karar verir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kumar oynayan kişiye uygulanacak yaptırımlarla ilgili olarak;\n\nI. İdarî para cezası verilir.\nII. Kumardan elde edilen gelire elkonulur.\nIII. Kumardan elde edilen gelirin mülkiyetinin kamuya geçirilmesine karar verilir.\n\nyukarıdakilerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'Kumar oynayan kişiye, bin Türk Lirası idarî para cezası verilir. Ayrıca, kumardan elde edilen gelire elkonularak mülkiyetin kamuya geçirilmesine karar verilir.' hükmüne dayanmaktadır. Bu hüküm, I, II ve III numaralı öncüllerdeki yaptırımların tamamını kapsamaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, sarhoşluk kabahati ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kabahatin oluşması için failin başkalarının huzur ve sükununu bozacak şekilde davranması gerekir.",
+                "B": "Bu kabahati işleyen kişiye kolluk görevlileri tarafından idarî para cezası verilir.",
+                "C": "İdarî para cezasına ek olarak kişi, sarhoşluğun etkisi geçinceye kadar kontrol altında tutulur.",
+                "D": "Bu kabahat dolayısıyla idarî para cezasına belediye zabıta görevlileri de karar verebilir.",
+                "E": "Kişinin sadece sarhoş olması bu kabahatin oluşması için yeterli bir sebep değildir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 35'te idarî para cezası verme yetkisinin sadece 'kolluk görevlileri' olarak belirtilmesine dayanmaktadır. Metinde belediye zabıta görevlilerine bu yetki tanınmamıştır."
+        },
+        {
+            "soru": "Sarhoş bir şekilde çevresindekilerin huzurunu bozacak davranışlarda bulunan A, kolluk görevlileri tarafından yakalanmıştır. 5326 Sayılı Kabahatler Kanunu'na göre, A hakkında uygulanacak yaptırımlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece idarî para cezası verilir, başka bir işlem yapılmaz.",
+                "B": "İdarî para cezası verilir ve ayrıca sarhoşluğun etkisi geçinceye kadar kontrol altında tutulur.",
+                "C": "Sadece sarhoşluğun etkisi geçinceye kadar kontrol altında tutulur, para cezası verilmez.",
+                "D": "İdarî para cezası mülki idare amiri tarafından verilir.",
+                "E": "Kişi hakkında adli soruşturma başlatılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 35(1)'de belirtilen 'Sarhoş olarak başkalarının huzur ve sükununu bozacak şekilde davranışlarda bulunan kişiye, kolluk görevlileri tarafından ... idarî para cezası verilir. Kişi, ayrıca sarhoşluğun etkisi geçinceye kadar kontrol altında tutulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, başkalarının huzur ve sükununu bozacak şekilde gürültüye neden olma kabahati ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu kabahat dolayısıyla idari para cezasına yalnızca kolluk görevlileri karar verebilir.",
+                "B": "Fiilin bir ticarî işletmenin faaliyeti çerçevesinde işlenmesi halinde işletme sahibine bin Türk Lirasından beşbin Türk Lirasına kadar idarî para cezası verilir.",
+                "C": "Gürültüye neden olan kişiye her durumda bin Türk Lirası idari para cezası verilir.",
+                "D": "Bu kabahat nedeniyle idari para cezası verme yetkisi mülki amire aittir.",
+                "E": "Fiilin bir ticari işletme tarafından işlenmesi halinde de verilecek ceza miktarı değişmez."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Bu fiilin bir ticarî işletmenin faaliyeti çerçevesinde işlenmesi halinde işletme sahibi gerçek veya tüzel kişiye bin Türk Lirasından beşbin Türk Lirasına kadar idarî para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir ticarî işletmenin faaliyeti çerçevesinde başkalarının huzur ve sükununu bozacak şekilde gürültüye neden olunması halinde işletme sahibine verilecek idarî para cezası miktarı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Elli Türk Lirası",
+                "B": "Bin Türk Lirası",
+                "C": "Beşyüz Türk Lirasından ikibinbeşyüz Türk Lirasına kadar",
+                "D": "Bin Türk Lirasından beşbin Türk Lirasına kadar",
+                "E": "Beşbin Türk Lirasından onbin Türk Lirasına kadar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Bu fiilin bir ticarî işletmenin faaliyeti çerçevesinde işlenmesi halinde işletme sahibi gerçek veya tüzel kişiye bin Türk Lirasından beşbin Türk Lirasına kadar idarî para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, başkalarının huzur ve sükununu bozacak şekilde gürültü yapılması halinde idarî para cezasına karar vermeye yetkili olanlar arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Kolluk görevlileri\nII. Belediye zabıta görevlileri\nIII. Sulh ceza hâkimi",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Bu kabahat dolayısıyla idarî para cezasına kolluk veya belediye zabıta görevlileri karar verir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre;\n\nI. Başkalarının huzur ve sükununu bozacak şekilde gürültüye neden olma\nII. Mal veya hizmet satmak için başkalarını rahatsız etme\nIII. Kumar oynama\n\nkabahatlerinden hangisi veya hangileri dolayısıyla idarî para cezası vermeye belediye zabıta görevlileri yetkilidir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da gürültü kabahati ve Madde 37'de rahatsız etme kabahati için 'belediye zabıta görevlileri'nin yetkili kılındığı hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, mal veya hizmet satmak için başkalarını rahatsız eden kişiye idari para cezası verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yalnızca kolluk görevlileri",
+                "B": "Yalnızca belediye zabıta görevlileri",
+                "C": "İlgili idari birim amiri",
+                "D": "Kolluk veya belediye zabıta görevlileri",
+                "E": "En yakın sulh ceza hâkimi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen 'Bu kabahat dolayısıyla idarî para cezası vermeye kolluk veya belediye zabıta görevlileri yetkilidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yetkili makamların izni olmaksızın meydan, cadde veya kaldırımların işgaliyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kaldırımları işgal eden kişiye belediye zabıta görevlileri tarafından idari para cezası verilir.",
+                "B": "Kaldırımlarda mal satışa arz eden kişiye elli Türk Lirası idari para cezası verilir.",
+                "C": "İşgalin hukuka uygun olması için yetkili makamdan açık ve yazılı izin alınması gerekir.",
+                "D": "Kaldırımlar üzerine inşaat malzemesi yığan kişiye elli Türk Lirası idari para cezası verilir.",
+                "E": "İnşaat malzemesi yığma fiilinden dolayı idari para cezası verme yetkisi belediye zabıta görevlilerine aittir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen '...kaldırımlar üzerine inşaat malzemesi yığan kişiye, belediye zabıta görevlileri tarafından yüz Türk Lirasından beşyüz Türk Lirasına kadar idarî para cezası verilir.' hükmüne dayanmaktadır. Seçenekte belirtilen ceza miktarı yanlıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yetkili makamlardan yazılı izin almaksızın bir caddenin kaldırımına inşaat malzemesi yığan kişiye, belediye zabıta görevlileri tarafından verilecek idari para cezasının miktarı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Elli Türk Lirası",
+                "B": "Yirmi Türk Lirası",
+                "C": "Yüz Türk Lirasından beşyüz Türk Lirasına kadar",
+                "D": "Beşyüz Türk Lirasından beşbin Türk Lirasına kadar",
+                "E": "İkiyüzelli Türk Lirası"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38(2)'de belirtilen '...meydan, cadde, sokak veya yayaların gelip geçtiği kaldırımlar üzerine inşaat malzemesi yığan kişiye, belediye zabıta görevlileri tarafından yüz Türk Lirasından beşyüz Türk Lirasına kadar idarî para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yetkili makamların açık ve yazılı izni olmaksızın meydan, cadde veya sokakları işgal eden ya da buralarda mal satışa arz eden kişiye idari para cezası verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Sadece kolluk görevlileri",
+                "B": "Sadece belediye zabıta görevlileri",
+                "C": "Kolluk veya belediye zabıta görevlileri",
+                "D": "Cumhuriyet savcısı",
+                "E": "Mahalli mülki amir"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 38'de yer alan '...kişiye, belediye zabıta görevlileri tarafından elli Türk Lirası idarî para cezası verilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, özel bir şirkete ait şehirler arası otobüste yolculuk yapan bir kişinin tütün mamulü tüketmesi halinde, bu kişiye idari para cezası verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Belediye zabıta görevlileri",
+                "B": "İlgili idari birim amirinin yetkili kıldığı kamu görevlileri",
+                "C": "İlk başvurulan kolluk birimi yetkilileri",
+                "D": "Otobüs şoförü veya muavini",
+                "E": "Şikâyet üzerine en yakın sulh ceza hâkimliği"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen 'Kabahatin özel hukuk kişileri tarafından işletilen toplu taşıma araçlarında işlenmesi halinde bu ceza ilk başvurulan kolluk birim yetkilileri tarafından verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, tütün mamullerinin tüketilmesi kabahatiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kamu hizmet binalarında, tütün mamulü tüketimine tahsis edilmiş alanlarda ceza uygulanmaz.",
+                "B": "Kamusal toplu taşıma araçlarında ceza verme yetkisi, idari birim amirinin yetkilendirdiği kamu görevlilerine aittir.",
+                "C": "Özel hukuk kişilerine ait ve herkesin girebileceği binalarda, yasağa aykırı tüketim halinde ceza şikâyet üzerine verilir.",
+                "D": "Özel hukuk kişilerine ait ve herkesin girebileceği binalarda, yasağa aykırı tüketim halinde cezayı belediye zabıtası verir.",
+                "E": "Toplu taşıma araçlarında tütün mamulü tüketen kişiye elli Türk Lirası idari para cezası verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen 'Bu ceza, şikâyet üzerine en yakın kolluk birimi yetkililerince verilir.' hükmüne dayanmaktadır. Cezayı belediye zabıtası değil, kolluk birimi verir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, özel hukuk kişilerine ait olan ve herkesin girebileceği binaların kapalı alanlarında, tütün mamullerinin tüketilemeyeceğini belirtir açık bir işarete yer verilmesine rağmen bu yasağa aykırı hareket eden kişiye idari para cezası verilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ceza, herhangi bir başvuruya gerek olmaksızın en yakın kolluk birimince verilir.",
+                "B": "Ceza, şikâyet üzerine en yakın kolluk birimi yetkililerince verilir.",
+                "C": "Ceza, ilgili idari birim amirinin yetkili kıldığı kamu görevlilerince verilir.",
+                "D": "Ceza, şikâyet üzerine belediye zabıta görevlileri tarafından verilir.",
+                "E": "Ceza, ilk başvurulan kolluk birimi tarafından resen verilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen 'Bu ceza, şikâyet üzerine en yakın kolluk birimi yetkililerince verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, görevle bağlantılı olarak sorulmasına rağmen kimliği hakkında bilgi vermekten kaçınması veya gerçeğe aykırı beyanda bulunması nedeniyle kimliği belirlenemeyen kişi hakkında;\n\nI. Durumdan derhal Cumhuriyet savcısının haberdar edilmesi\nII. Kimliği anlaşılıncaya kadar gözaltına alınması\nIII. Gerekmesi halinde tutuklanması\n\nişlemlerinden hangisi veya hangileri uygulanabilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 40(2)'de belirtilen '...durumdan derhal Cumhuriyet savcısı haberdar edilir. Bu kişi, kimliği açık bir şekilde anlaşılıncaya kadar gözaltına alınır ve gerekirse tutuklanır.' hükmüne dayanmaktadır. Bu hüküm, öncüllerde sayılan tüm işlemlerin uygulanabileceğini göstermektedir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, görevli kamu görevlisine kimliği hakkında gerçeğe aykırı beyanda bulunması nedeniyle kimliği belirlenemeyen kişi hakkında uygulanacak tedbirlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Durumdan derhal en yakın sulh ceza hâkimi haberdar edilir.",
+                "B": "Kişi, kimliği belirleninceye kadar en fazla 48 saat gözaltında tutulabilir.",
+                "C": "Gözaltına ve tutuklamaya karar verme yetkisi ve usulü bakımından Ceza Muhakemesi Kanunu hükümleri uygulanır.",
+                "D": "Kimliğin belirlenmesi için kişinin durumu valiliğe bildirilir ve başka bir işlem yapılamaz.",
+                "E": "Bu durumda kişiye yalnızca idari para cezası verilir, hürriyeti kısıtlayıcı tedbir uygulanamaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Gözaltına ve tutuklamaya karar verme yetkisi ve usulü bakımından Ceza Muhakemesi Kanunu hükümleri uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, kimliğini bildirmemesi nedeniyle hakkında gözaltı veya tutuklama tedbiri uygulanan kişiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Gözaltı veya tutuklama süresi hiçbir surette yirmi dört saati geçemez.",
+                "B": "Kişinin kimliğinin belirlenmesi durumunda, bu tedbirlere derhal son verilir.",
+                "C": "Tedbirin sona ermesi için Cumhuriyet savcısının yazılı emri zorunludur.",
+                "D": "Kişi, kimliği belirlendikten sonra idari para cezasını ödeyinceye kadar serbest bırakılmaz.",
+                "E": "Tedbirin kaldırılmasına yalnızca Sulh Ceza Hâkimi karar verebilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 40(3)'te yer alan 'Kişinin kimliğinin belirlenmesi durumunda, bu nedenle gözaltına alınma veya tutuklanma haline derhal son verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, çevreyi kirletme kabahatiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İnşaat atıklarını belirlenen yerler dışına atan kişiden, atıkların kaldırılmasına ilişkin masraf ayrıca tahsil edilir.",
+                "B": "Hayvan kesimine tahsis edilen yerler dışında hayvan kesen kişiye idarî para cezası verilir.",
+                "C": "Meydana gelen kirliliğin kişi tarafından derhal giderilmesi halinde idarî para cezasına karar verilmeyebilir.",
+                "D": "Kullanılamaz hale gelen ev eşyasının sokağa bırakılması için belediye tarafından yılda en az beş gün belirlenir.",
+                "E": "Fiilin yemek pişirme yerlerinde işlenmesi halinde işletme sahibi gerçek veya tüzel kişiye idarî para cezası verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen 'belediye tarafından belirli aralıklarla yılda üç günden az olmamak üzere belirlenen günler önceden uygun araçlarla ilân olunur' hükmüne dayanmaktadır. Metinde belirtilen süre 'üç günden az olmamak üzere' iken, seçenekte 'en az beş gün' olarak yanlış verilmiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, çevreyi kirletme kabahatleri dolayısıyla idarî para cezası verme yetkisi, belediye sınırları dışında aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Belediye zabıta görevlileri",
+                "B": "Kolluk görevlileri",
+                "C": "Cumhuriyet savcısı",
+                "D": "Sulh ceza hâkimi",
+                "E": "Belediye başkanı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen 'Bu kabahatler dolayısıyla idarî para cezasına belediye sınırları içerisinde belediye zabıta görevlileri, belediye sınırları dışında kolluk görevlileri karar verir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, rızası olmaksızın özel kişilere ait alanlara afiş asma kabahati dolayısıyla idarî para cezasına karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yalnızca kolluk görevlileri",
+                "B": "Yalnızca belediye zabıta görevlileri",
+                "C": "İl valisi",
+                "D": "Kolluk veya belediye zabıta görevlileri",
+                "E": "Sulh ceza hâkimi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 42(4)'te belirtilen 'Bu kabahatler dolayısıyla idarî para cezasına, kolluk veya belediye zabıta görevlileri karar verir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, 112 Acil Çağrı Merkezine asılsız ihbarda bulunulmasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İhbarın asılsız olduğu, olay yerine giden ekiplerce tutanakla tespit edilmelidir.",
+                "B": "İdarî para cezası verme yetkisi il valisine aittir.",
+                "C": "Fiilin bir yıl içinde tekrarı hâlinde ceza iki katı olarak uygulanır.",
+                "D": "Verilecek ilk idari para cezası onbeşbin Türk Lirasıdır.",
+                "E": "Fiilin üç ay içinde tekrarı hâlinde ceza iki katı olarak uygulanır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 42/A(3)'te belirtilen 'Bu maddede yazılı fiillerin bir yıl içinde tekrarı halinde idari para cezası iki katı olarak uygulanır.' hükmüne dayanmaktadır. Metinde cezanın iki katına çıkarılması için öngörülen süre 'bir yıl' olup 'üç ay' değildir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yetkili makamlardan alınan yazılı izne dayalı olarak afiş asılması durumunda;\n\nI. İzin belgesinde afişin asılacağı zaman diliminin açıkça gösterilmesi gerekir.\nII. Sürenin dolmasını takiben afişlerin derhal toplatılması yükümlülüğü izin verilen kişiye aittir.\nIII. Toplatma yükümlülüğüne aykırı hareket edilmesi halinde, izin veren makam tarafından yalnızca afişin kaldırılmasına ilişkin masraflar tahsil edilir.\n\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 42(2)'de yer alan hükümlere dayanmaktadır. I ve II numaralı öncüller metinde açıkça belirtilmiştir. Ancak III numaralı öncül yanlıştır, çünkü aynı fıkrada toplatma yükümlülüğüne aykırı hareket edilmesi halinde ayrıca idarî para cezası verileceği de düzenlenmiştir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yetkili makamlardan alınan izinle asılan afiş ve ilânlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İzin süresi dolduktan sonra toplatılması için ilgili kişiye on beş gün ek süre verilir.",
+                "B": "Afişlerin toplatılmasına ilişkin masraflar her durumda ilgili belediye tarafından karşılanır.",
+                "C": "İzin verilen gerçek veya tüzel kişi, izin süresinin dolmasını takiben afişleri derhal toplatmakla yükümlüdür.",
+                "D": "İzin belgesinde afişin asılacağı zaman diliminin belirtilmesi zorunlu değildir.",
+                "E": "İzin süresi dolduktan sonra toplatılmaması halinde sadece uyarı cezası verilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen 'Bu afiş ve ilânlar izin verilen gerçek veya tüzel kişi tarafından bu sürenin dolmasını müteakip derhal toplatılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, 112 Acil Çağrı Merkezine yapılan ihbarın asılsız olduğunun olay yerine giden ekiplerce tespit edilmesi halinde idari para cezası verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Belediye zabıta görevlileri",
+                "B": "Kolluk görevlileri",
+                "C": "Sulh ceza hâkimliği",
+                "D": "İl valileri",
+                "E": "Cumhuriyet savcısı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 42/A'da belirtilen '...kişiye, il valileri tarafından onbeşbin Türk Lirası idari para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, 112 Acil Çağrı Merkezini meşgul etme veya asılsız ihbarda bulunma fiillerinin tekrarı halinde idari para cezasının iki katı olarak uygulanabilmesi için, bu fiillerin en fazla ne kadar süre içinde yeniden işlenmesi gerekir?",
+            "secenekler": {
+                "A": "Üç ay",
+                "B": "Altı ay",
+                "C": "Bir yıl",
+                "D": "İki yıl",
+                "E": "Üç yıl"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 42/A'da belirtilen 'Bu maddede yazılı fiillerin bir yıl içinde tekrarı halinde idari para cezası iki katı olarak uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, 112 Acil Çağrı Merkezini meşgul etmek amacıyla arayarak görevlilerle konuşan bir kişiye binbeşyüz Türk Lirası idari para cezası verilmiştir. Bu kişinin, cezanın uygulanmasından yedi ay sonra aynı fiili tekrar işlemesi durumunda kendisine verilecek idari para cezası ne kadardır?",
+            "secenekler": {
+                "A": "Binbeşyüz Türk Lirası",
+                "B": "İkibin Türk Lirası",
+                "C": "Üçbin Türk Lirası",
+                "D": "Onbeşbin Türk Lirası",
+                "E": "Otuzbin Türk Lirası"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 42/A(1)'de belirtilen binbeşyüz Türk Lirası temel ceza ile Madde 42/A(3)'te yer alan 'Bu maddede yazılı fiillerin bir yıl içinde tekrarı halinde idari para cezası iki katı olarak uygulanır.' hükmünün birlikte değerlendirilmesine dayanmaktadır. Bu nedenle ceza 1.500 TL * 2 = 3.000 TL olacaktır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, afiş asma kabahati ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Aynı içerikteki afiş ve ilânların farklı yerlere asılması, ayrı fiiller olarak kabul edilir.",
+                "B": "Rızası olmaksızın özel kişilere ait alanlara afiş asmak idarî para cezasını gerektirir.",
+                "C": "Yetkili makamdan alınan izinle asılan afişler, izin süresi bitince toplatılmazsa idarî para cezası uygulanır.",
+                "D": "Afişlerin kaldırılmasına ilişkin masraflar, cezaya ek olarak ilgili kişilerden tahsil edilir.",
+                "E": "İdarî para cezasına kolluk veya belediye zabıta görevlileri karar verebilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 42(1)'de yer alan 'Aynı içerikteki afiş ve ilânlar, tek fiil sayılır.' hükmünün tersini iddia ettiği için yanlıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir tüzel kişinin yararına işlenmesi halinde, tüzel kişiye ayrıca idari para cezası verilmesini gerektiren suçlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Rüşvet suçu",
+                "B": "İhaleye fesat karıştırma suçu",
+                "C": "Zimmet suçu",
+                "D": "Görevi kötüye kullanma suçu",
+                "E": "Dolandırıcılık suçu"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 43/A'da tüzel kişilere idari para cezası verilmesini gerektiren suçlar arasında rüşvet, ihaleye fesat karıştırma, zimmet ve dolandırıcılık suçlarının sayılmasına karşın, görevi kötüye kullanma suçunun bu listede yer almamasına dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, belirli suçların bir tüzel kişinin yararına işlenmesi halinde bu tüzel kişiye idari para cezası vermeye yetkili makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Cumhuriyet savcısı",
+                "B": "Sulh ceza hâkimliği",
+                "C": "İlgili kamu kurumu",
+                "D": "Suçtan dolayı yargılama yapmakla görevli mahkeme",
+                "E": "Kolluk amiri"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 43/A'da yer alan 'Bu madde hükümlerine göre idari para cezasına karar vermeye, birinci fıkrada sayılan suçlardan dolayı yargılama yapmakla görevli mahkeme yetkilidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, belirli finansal kuruluşların kendilerine ibraz edilen paranın sahte olduğunu bildirmemeleri halinde idarî para cezası verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Sulh ceza hâkimliği",
+                "B": "Bankacılık Düzenleme ve Denetleme Kurumu",
+                "C": "Cumhuriyet savcısı",
+                "D": "Kolluk",
+                "E": "Yargılama yapmakla görevli mahkeme"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 43/B'de yer alan '...bu maddede sayılan tüzel kişilere Cumhuriyet savcısı tarafından bin Türk Lirasından beşbin Türk Lirasına kadar idarî para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yetkili makamlardan ruhsat almaksızın kanuna göre yasak olmayan bir silahı cadde veya sokaklarda görünür bir şekilde taşıyan kişiye uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kolluk tarafından yüz Türk Lirası idarî para cezası verilir.",
+                "B": "Cumhuriyet savcısı tarafından elli Türk Lirası idarî para cezası verilir.",
+                "C": "Sulh ceza hâkimi tarafından yüz Türk Lirası idarî para cezası verilir.",
+                "D": "Kolluk tarafından elli Türk Lirası idarî para cezası verilir.",
+                "E": "Silaha el konularak mülkiyetin kamuya geçirilmesine karar verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 43'te yer alan '...kanuna göre yasak olmayan silahları park, meydan, cadde veya sokaklarda görünür bir şekilde taşıyan kişiye, kolluk tarafından elli Türk Lirası idarî para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, yetkili makamlardan ruhsat almaksızın kanuna göre yasak olmayan silahları taşıma kabahatiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kabahatin oluşması için silahın görünür bir şekilde taşınması gerekir.",
+                "B": "Silahın park, meydan, cadde veya sokak gibi umuma açık yerlerde taşınması gerekir.",
+                "C": "Bu fiili işleyen kişiye kolluk tarafından idari para cezası verilir.",
+                "D": "Kabahat, kanunen taşınması yasak olan silahlar için düzenlenmiştir.",
+                "E": "İdari para cezasının miktarı elli Türk Lirasıdır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 43'te kabahatin konusunun 'kanuna göre yasak olmayan silahları' taşıma olduğunun açıkça belirtilmesidir. Kanunen yasak olan silahları taşıma ifadesi bu nedenle yanlıştır."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, bir kişiye silah taşıma kabahati nedeniyle idari para cezası verilebilmesi için;\n\nI. Silahın, kanuna göre yasak olmayan silahlardan olması\nII. Taşımanın park, meydan, cadde veya sokak gibi bir yerde gerçekleşmesi\nIII. Silahın görünür bir şekilde taşınması\n\nşartlarından hangisinin veya hangilerinin birlikte gerçekleşmesi gerekmektedir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 43'te kabahatin unsurları olarak sayılan 'kanuna göre yasak olmayan silahları', 'park, meydan, cadde veya sokaklarda' ve 'görünür bir şekilde taşıma' ifadelerinin tamamının bir arada bulunması gerektiğinden I, II ve III'ü içeren seçenektir."
+        },
+        {
+            "soru": "5326 Sayılı Kabahatler Kanunu'na göre, belirli finansal kuruluşlara ibraz edilen paranın sahte olduğunun anlaşılması halinde bildirim yükümlülüğünün yerine getirilmemesi durumunda uygulanacak idari para cezası ile ilgili olarak;\n\nI. Cezaya karar verme yetkisi Cumhuriyet savcısına aittir.\nII. Bu kabahat yalnızca bankalar tarafından işlenebilir.\nIII. Verilecek ceza bin Türk Lirasından beşbin Türk Lirasına kadardır.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 43/B'de yer alan hükümlere dayanmaktadır. I. öncül '...Cumhuriyet savcısı tarafından...' ifadesiyle, III. öncül ise '...bin Türk Lirasından beşbin Türk Lirasına kadar idarî para cezası verilir.' ifadesiyle doğrulanmaktadır. II. öncül ise yanlıştır çünkü Kanun, bankaların yanı sıra diğer finansal kuruluşları ve şirketleri de saymıştır."
+        }
+    ]
+}
+

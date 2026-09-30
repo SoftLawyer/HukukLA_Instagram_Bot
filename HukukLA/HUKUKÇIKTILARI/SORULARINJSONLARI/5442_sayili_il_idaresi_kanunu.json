@@ -1,0 +1,2632 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, Türkiye'nin merkezi idare kuruluşu bakımından coğrafya durumu, iktisadi şartlar ve kamu hizmetlerinin gereklerine göre yapılan idari bölümleme aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İllerin bölgelere bölünmesi",
+                "B": "İllerin ilçelere, ilçelerin de bucaklara bölünmesi",
+                "C": "İlçelerin mahallelere, mahallelerin de köylere bölünmesi",
+                "D": "Büyükşehirlerin metropoliten alanlara bölünmesi",
+                "E": "Bucakların kasabalara ve köylere bölünmesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Türkiye, merkezi idare kuruluşu bakımından coğrafya durumuna, iktisadi şartlara ve kamu hizmetlerinin gereklerine göre illere; iller ilçelere ve ilçeler de bucaklara bölünmüştür.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, Türkiye'nin merkezi idare kuruluşu bakımından bölünmesinde;\n\nI. Coğrafya durumu\nII. İktisadi şartlar\nIII. Kamu hizmetlerinin gerekleri\n\nölçütlerinden hangisi veya hangileri dikkate alınır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 1'de Türkiye'nin merkezi idare kuruluşu bakımından bölünmesinde 'coğrafya durumuna, iktisadi şartlara ve kamu hizmetlerinin gereklerine göre' ifadesiyle belirtilen tüm ölçütlerin dikkate alınması hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, Türkiye'nin idari bölünme yapısı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İller doğrudan bucaklara bölünmüştür.",
+                "B": "Bucaklar illere bölünmüştür.",
+                "C": "İlçeler illere bölünmüştür.",
+                "D": "İlçeler bucaklara bölünmüştür.",
+                "E": "Türkiye doğrudan ilçelere bölünmüştür."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 1'de yer alan '...iller ilçelere ve ilçeler de bucaklara bölünmüştür.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir köyün veya kasabanın başka bir il ve ilçeye bağlanması aşağıdakilerden hangisi ile yapılır?",
+            "secenekler": {
+                "A": "Kanun ile",
+                "B": "İçişleri Bakanlığının tasvibiyle",
+                "C": "Cumhurbaşkanı onayı ile",
+                "D": "Valinin teklifi üzerine",
+                "E": "İlgili bakanlıkların ortak kararıyla"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen '...bir köyün veya kasabanın veya bucağın başka bir il ve ilçeye bağlanması ... Cumhurbaşkanı onayı ile' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, köylerin birleştirilmesi ve ayrılması aşağıdaki usullerden hangisiyle yapılır?",
+            "secenekler": {
+                "A": "Kanun ile",
+                "B": "Cumhurbaşkanı onayı ile",
+                "C": "Valinin tasvibiyle",
+                "D": "İçişleri Bakanlığının tasvibiyle",
+                "E": "İlgili bakanlıkların mütalaası alınarak"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'köylerin birleştirilmesi ve ayrılması... İçişleri Bakanlığının tasvibiyle yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir ilçenin kurulması veya kaldırılması aşağıdaki usullerden hangisi ile gerçekleştirilir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı onayı ile",
+                "B": "İçişleri Bakanlığının tasvibiyle",
+                "C": "Kanun ile",
+                "D": "Valinin teklifi ve ilgili bakanlıkların mütalaası ile",
+                "E": "İlgili ilin genel meclisi kararı ile"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'İl ve ilçe kurulması, kaldırılması... kanun ile' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi veya hangileri Cumhurbaşkanı onayı ile yapılır?\n\nI. Bucak adlarının değiştirilmesi\nII. Bir köyün başka bir ilçeye bağlanması\nIII. Köy adlarının değiştirilmesi",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de bucak adlarının değiştirilmesi ve bir köyün başka bir ilçeye bağlanmasının Cumhurbaşkanı onayı ile yapılacağının belirtilmesine dayanmaktadır. Aynı maddede köy adlarının değiştirilmesi ise İçişleri Bakanlığının tasvibiyle yapılır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir köyün başka bir ilçeye bağlanması hangi makamın işlemi ile gerçekleştirilir?",
+            "secenekler": {
+                "A": "Kanun ile",
+                "B": "İçişleri Bakanlığının tasvibiyle",
+                "C": "İlgili vilayetler idare heyetlerinin mütalaasıyla",
+                "D": "Cumhurbaşkanı onayı ile",
+                "E": "Bayındırlık Bakanlığının mütalaasıyla"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen '...bir köyün veya kasabanın veya bucağın başka bir il ve ilçeye bağlanması... Cumhurbaşkanı onayı ile' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, yeniden bir köy kurulması veya yerinin değiştirilmesi sürecinde hangi bakanlıkların mütalaasının alınması zorunludur?",
+            "secenekler": {
+                "A": "İçişleri ve Maliye Bakanlıkları",
+                "B": "Tarım ve Orman Bakanlığı",
+                "C": "Sadece İçişleri Bakanlığı",
+                "D": "Bayındırlık ve Sağlık ve Sosyal Yardım Bakanlıkları",
+                "E": "Çevre ve Şehircilik Bakanlığı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Yeniden köy kurulması veya yerinin değiştirilmesi Bayındırlık ve Sağlık ve Sosyal Yardım Bakanlıklarının mütalaası alınmak suretiyle' yapılır hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir köyün adının değiştirilmesi veya köylerin birleştirilmesi hangi makamın onayı ile yapılır?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı onayı ile",
+                "B": "İlgili ilin valisinin kararı ile",
+                "C": "Kanun çıkarılması ile",
+                "D": "İçişleri Bakanlığının tasvibiyle",
+                "E": "İl genel meclisinin mütalaası ile"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'köy adlarının değiştirilmesi, köylerin birleştirilmesi ve ayrılması... İçişleri Bakanlığının tasvibiyle yapılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre;\n\nI. Bucak kurulması\nII. Bir köyün başka bir ilçeye bağlanması\nIII. Bir ilçenin başka bir ile bağlanması\n\nyukarıdaki idari işlemlerden hangisi veya hangileri Cumhurbaşkanı onayı ile yapılır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de bucak kurulmasının ve bir köyün başka bir ilçeye bağlanmasının Cumhurbaşkanı onayı ile yapılacağının belirtilmesine dayanmaktadır. Aynı maddede bir ilçenin başka bir ile bağlanmasının ise kanunla yapılacağı düzenlenmiştir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, illerin idaresi aşağıdaki esaslardan hangisine dayanır?",
+            "secenekler": {
+                "A": "Merkezi idare",
+                "B": "Yerinden yönetim",
+                "C": "Yetki genişliği",
+                "D": "Hizmette yerellik",
+                "E": "Hiyerarşik denetim"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'İllerin idaresi yetki genişliği esasına dayanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idaresinin temel esasları ve teşkilat yapısıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İllerin idaresi yetki genişliği esasına dayanır.",
+                "B": "İl genel idaresinin başı ve mercii validir.",
+                "C": "Bakanlık teşkilatının her birinin başında il idare şube başkanı bulunur.",
+                "D": "İl idare şube başkanlarının emrindekiler, ilin ikinci derecede memurlarıdır.",
+                "E": "Kamu hizmetleri için sadece birden çok ilçeyi içine alan kuruluşlar meydana getirilebilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3'te yer alan 'Belli kamu hizmetlerinin görülmesi amacı ile, birden çok ili içine alan çevrede, bu hizmetler için yetki genişliğine sahip kuruluşlar meydana getirilebilir.' hükmüne dayanmaktadır. Kanunda 'birden çok ili' ifadesi geçerken, seçenekte 'birden çok ilçeyi' ifadesi kullanılarak yanlış bir bilgi verilmiştir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il genel idaresinin başı ve mercii aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İl idare şube başkanı",
+                "B": "Bakan",
+                "C": "Vali",
+                "D": "Cumhuriyet savcısı",
+                "E": "İlin ikinci derecede memuru"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'İl genel idaresinin başı ve mercii validir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ildeki teşkilatların valinin emri altında olması kuralının istisnaları arasında;\n\nI. Askeri birlikler\nII. İl idare şube başkanları\nIII. Cumhuriyet savcıları\n\nhangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen '...askeri birlikler...Cumhuriyet savcısı...bu madde hükmünden müstesnadır.' hükmüne dayanmaktadır. İl idare şube başkanları ise valinin emri altındadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi il genel idaresi teşkilatının valinin emri altında olmasını düzenleyen hükümden müstesna tutulmuştur?",
+            "secenekler": {
+                "A": "İl idare şube başkanları",
+                "B": "İlin ikinci derecede memurları",
+                "C": "Bakanlıkların il teşkilatları",
+                "D": "Askeri birlikler",
+                "E": "Valinin emri altındaki diğer memurlar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen '...askeri birlikler, askeri fabrika ve müesseseler, askerlik daire ve şubeleri bu madde hükmünden müstesnadır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi vali muavininin görev ve sorumluluklarından biri olarak açıkça belirtilmiştir?",
+            "secenekler": {
+                "A": "İlçelerin genel idaresini denetlemek",
+                "B": "Belediye meclisi toplantılarına başkanlık etmek",
+                "C": "Valiliğin yazı işlerinin düzenlenmesinden sorumlu olmak",
+                "D": "Valinin yıllık izinlerini onaylamak",
+                "E": "İl özel idaresi bütçesini hazırlamak"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te yer alan 'Valiliğin yazı işlerinin düzenlenmesinden de vali muavini sorumludur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali muavini kural olarak hangi durumda valiye vekillik yapar?",
+            "secenekler": {
+                "A": "Vali tarafından kendisine özel bir yetki devri yapıldığında",
+                "B": "Valinin bulunmadığı zamanlarda",
+                "C": "İçişleri Bakanlığınca geçici olarak görevlendirildiğinde",
+                "D": "Valinin en az bir aydan uzun süreli rapor alması halinde",
+                "E": "Valinin başkanlık ettiği bir kurulda üye olarak bulunduğunda"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te yer alan '...valinin bulunmadığı zamanlarda vekilliğini yapmak üzere vali muavinleri bulunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin bulunmadığı zamanlarda vekilliğini yapmak ve valiliğin yazı işlerinin düzenlenmesinden sorumlu olmak hangi görevlinin yetkisindedir?",
+            "secenekler": {
+                "A": "İl idare şube başkanı",
+                "B": "Vali muavini",
+                "C": "En kıdemli kaymakam",
+                "D": "İl yazı işleri müdürü",
+                "E": "İl genel meclisi başkanı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te vali muavininin görevlerinin 'valinin bulunmadığı zamanlarda vekilliğini yapmak' ve 'Valiliğin yazı işlerinin düzenlenmesinden de vali muavini sorumludur' şeklinde tanımlanmasına dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali muavinlerinin görevleriyle ilgili olarak;\nI. Valinin bulunmadığı zamanlarda vekilliğini yapmak\nII. Valiliğin yazı işlerinin düzenlenmesinden sorumlu olmak\nIII. Valinin tayin ve tesbit ettiği işlerde yardımcılığını yapmak\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 5'te vali muavinlerinin görevleri olarak 'valinin bulunmadığı zamanlarda vekilliğini yapmak', 'Valiliğin yazı işlerinin düzenlenmesinden de vali muavini sorumludur' ve 'valilerin tayin ve tesbit ettiği işlerde yardımcılığını yapmak' şeklinde sayılan tüm hükümlere dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valiliğin yazı işlerinin düzenlenmesinden sorumlu olan görevli aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Vali",
+                "B": "İl idare şube başkanı",
+                "C": "Vali muavini",
+                "D": "İlin ikinci derecede memurları",
+                "E": "İl genel idaresi başı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te yer alan 'Valiliğin yazı işlerinin düzenlenmesinden de vali muavini sorumludur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi Bakanlıklar veya tüzel kişiliği haiz genel müdürlükler tarafından doğrudan tayin edilen görevliler arasında yer alır?",
+            "secenekler": {
+                "A": "İl merkez teşkilatına bağlı, vali tarafından atanan memurlar",
+                "B": "Valilik emrine tayin edilerek görev yeri vali tarafından belirlenen memurlar",
+                "C": "Hastaneler mütehassıs hekimleri",
+                "D": "İl genel meclisi üyeleri",
+                "E": "Belediye başkanları"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'in (A) fıkrasında, hastaneler mütehassıs hekimlerinin, Bakanlıklar veya tüzel kişiliği haiz genel müdürlükler tarafından tayin edileceğinin açıkça belirtilmesine dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, Bakanlıklarca atanan veya valilik emrine verilen memurların lüzum halinde il içindeki yer değiştirmeleri hangi usulle yapılır?",
+            "secenekler": {
+                "A": "Mensup oldukları Bakanlık veya genel müdürlük tarafından re'sen yapılır.",
+                "B": "Valinin teklifi ve İçişleri Bakanının onayı ile gerçekleştirilir.",
+                "C": "İlgili il idare şube başkanının inhası üzerine vali tarafından yapılır.",
+                "D": "Vali tarafından doğrudan yapılır ve herhangi bir makama bildirim gerekmez.",
+                "E": "Sadece bütçe yılı başında yolluk ödenekleri geldikten sonra yapılabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'in (C) fıkrasında yer alan '...bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il genel teşkilatı içinde yer alan memurların il içindeki nakil ve tahvilleri, kural olarak hangi usulle gerçekleştirilir?",
+            "secenekler": {
+                "A": "Mensup oldukları bakanlık tarafından doğrudan yapılır.",
+                "B": "Vali tarafından re'sen ve takdiren yapılır.",
+                "C": "Mensup olduğu il idare şube başkanının inhası üzerine vali tarafından yapılır.",
+                "D": "Cumhurbaşkanı yardımcısının onayı ile vali tarafından yapılır.",
+                "E": "İlgili genel müdürlüğün kararı ile doğrudan yapılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de 'bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il içinde görev yapan memurların nakil ve tahvilleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tüm memurların il içindeki nakilleri doğrudan ilgili Bakanlık tarafından yapılır.",
+                "B": "Valiler, il idare şube başkanlarının görüşünü almadan nakil yapma yetkisine sahiptir.",
+                "C": "Nakil işlemleri, mensup olunan il idare şube başkanının inhası üzerine vali tarafından yapılır.",
+                "D": "İl içindeki nakiller için gereken yolluk ödenekleri valilik bütçesinden karşılanır.",
+                "E": "Nakil işlemi yapılan memurun durumu hakkında Bakanlığa bilgi verilmesi zorunlu değildir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de yer alan '...bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bakanlıklar veya tüzel kişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilen ve kanunda sayılan üst düzey yöneticiler dışında kalan memurların il içindeki istihdam yerleri nasıl belirlenir?",
+            "secenekler": {
+                "A": "Doğrudan ilgili bakanlık tarafından belirlenir.",
+                "B": "Vali yardımcısının kararıyla belirlenir.",
+                "C": "İlgili il idare şube başkanının doğrudan tespitiyle belirlenir.",
+                "D": "Vali tarafından resen belirlenir.",
+                "E": "İlgili il idare şube başkanının inhası üzerine vali tarafından belirlenir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen '...il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali aşağıdaki hususlardan hangilerine ait işlerde, idare şube başkanlarına kendi adına imza yetkisi verebilir?",
+            "secenekler": {
+                "A": "Genel emirlerin çıkarılmasına ilişkin işlerde",
+                "B": "Bakanlıklarla yapılacak tüm yazışmalarda",
+                "C": "Hesabata ve teknik hususlara ait işlerde",
+                "D": "Kolluk kuvvetlerinin yerlerinin değiştirilmesine ait işlerde",
+                "E": "Adli ve askeri teşkilatın denetimine ait işlerde"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'valiler hesabata ve teknik hususlara ait işlerde idare şube başkanlarına vali adına imza yetkisi verebilirler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin denetim ve teftiş yetkisiyle ilgili olarak;\nI. Adli teşkilat\nII. Askeri teşkilat\nIII. Özel işyerleri\nIV. Belediye idareleri\nyukarıdakilerden hangisi veya hangileri valinin denetim ve teftiş yetkisi kapsamı dışındadır?",
+            "secenekler": {
+                "A": "Yalnız III",
+                "B": "Yalnız IV",
+                "C": "I ve II",
+                "D": "III ve IV",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da yer alan '...adli ve askeri teşkilat dışında kalan bütün Devlet daire, müessese ve işletmelerini, özel işyerlerini, özel idare, belediye köy idareleriyle bunlara bağlı tekmil müesseseleri denetler, teftiş eder.' hükmüne dayanmaktadır. Bu hükme göre adli ve askeri teşkilat denetim kapsamı dışındadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin denetleme ve teftiş yetkisi aşağıdaki teşkilatlardan hangisini kapsamaz?",
+            "secenekler": {
+                "A": "Özel işyerlerini",
+                "B": "Belediye idarelerini",
+                "C": "Adli ve askeri teşkilatı",
+                "D": "Özel idareleri",
+                "E": "Devlete bağlı müesseseleri"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da valinin denetleme yetkisinin 'adli ve askeri teşkilat dışında kalan bütün Devlet daire, müessese ve işletmelerini...' kapsadığının belirtilmesine, dolayısıyla adli ve askeri teşkilatın bu yetkinin bir istisnası olmasına dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin il içindeki idare ve müesseselerde çalışan uzman veya fen kollarına dahil memurlardan ilin genel ve mahalli hizmetlerine ilişkin bir işin görülmesini isteyebilmesinin temel şartı nedir?",
+            "secenekler": {
+                "A": "İlgili bakanlıktan önceden izin alınması",
+                "B": "Memurun rızasının alınması",
+                "C": "Yapılacak işin memurun asli vazifelerine halel getirmemesi",
+                "D": "İşin acil ve ertelenemez nitelikte olması",
+                "E": "Görevlendirme için ek yolluk ödeneğinin bulunması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da valinin bu yetkiyi kullanabilmesinin 'asli vazifelerine halel getirmemek şartiyle' mümkün olduğunun belirtilmesine dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali ilin genel idaresinden kime karşı sorumludur?",
+            "secenekler": {
+                "A": "Görevlerine ait işler için emir ve talimat veren bakanlara",
+                "B": "İçişleri Bakanı'na",
+                "C": "Cumhurbaşkanına",
+                "D": "İlgili Cumhurbaşkanı yardımcısına",
+                "E": "Doğrudan doğruya muhaberede bulunduğu genel müdürlüklere"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Valiler, ilin genel idaresinden Cumhurbaşkanına karşı sorumludur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali, ceza ve tevkif evlerindeki hükümlü ve tutukluların sağlık şartlarını hangi makam ile birlikte gözetim ve denetimi altında bulundurur?",
+            "secenekler": {
+                "A": "İl Sağlık Müdürü",
+                "B": "Cezaevi Müdürü",
+                "C": "Cumhuriyet Savcısı",
+                "D": "İl Jandarma Komutanı",
+                "E": "Adalet Komisyonu Başkanı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Cumhuriyet savcısiyle birlikte hükümlü ve tutukluların sağlık şartlarını gözetim ve denetimi altında bulundurur' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin, kamu düzeni veya güvenliğinin olağan hayatı durduracak veya kesintiye uğratacak şekilde bozulduğu ya da bozulacağına ilişkin ciddi belirtilerin bulunduğu hâllerde, ildeki belirli yerlere girişi ve çıkışı sınırlama yetkisi en fazla kaç gün süreyle kullanılabilir?",
+            "secenekler": {
+                "A": "Yedi gün",
+                "B": "On gün",
+                "C": "On beş gün",
+                "D": "Otuz gün",
+                "E": "Kırk beş gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen '...on beş günü geçmemek üzere ildeki belirli yerlere girişi ve çıkışı ... sınırlayabilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin talebi üzerine görevlendirilen askerî kuvvetin görevde kalış süresi nasıl belirlenir?",
+            "secenekler": {
+                "A": "Vali ile koordine edilerek askerî birliğin komutanı tarafından",
+                "B": "Doğrudan İçişleri Bakanı tarafından",
+                "C": "Askerî birliğin komutanı ile koordine edilerek vali tarafından",
+                "D": "Valinin tek taraflı kararıyla",
+                "E": "Cumhurbaşkanı kararıyla"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen '...görevde kalış süresi, askerî birliğin komutanı ile koordine edilerek vali tarafından belirlenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin talebi üzerine yardıma gelen askeri birliğin belirli görevleri jandarma ya da polis ile birlikte yapması halinde komuta, sevk ve idare kime aittir?",
+            "secenekler": {
+                "A": "Valiye",
+                "B": "Jandarma genel komutanına",
+                "C": "Askeri birliklerin en kıdemli komutanına",
+                "D": "İl emniyet müdürüne",
+                "E": "İçişleri Bakanı tarafından görevlendirilen bir mülki amire"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Ancak, bu askeri birliğin belirli görevleri jandarma ya da polis ile birlikte yapması halinde komuta, sevk ve idare askeri birliklerin en kıdemli komutanı tarafından üstlenilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, terörle mücadele kapsamında icra edilen operasyonlarda gecikmesinde sakınca bulunan hallerde, güvenlik kuvvetlerinden kaçan kişilerin girdiği konuta girilebilmesi için kimin yazılı emri gereklidir ve bu karar ne kadar süre içinde hâkim onayına sunulmalıdır?",
+            "secenekler": {
+                "A": "Vali - 12 saat",
+                "B": "Cumhuriyet savcısı - 24 saat",
+                "C": "Yetkili birlik komutanı - 24 saat",
+                "D": "Sulh ceza hâkimi - 48 saat",
+                "E": "İçişleri Bakanı - 12 saat"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen '...gecikmesinde sakınca bulunan hallerde güvenlik kuvvetlerinin elinden kaçmakta olan kişilerin izlenirken girdikleri konuta... yetkili birlik komutanının yazılı emriyle girilebilir. Birlik komutanının kararı yirmi dört saat içinde hâkim onayına sunulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin ilde çıkan ve emrindeki kuvvetlerle önleyemediği olaylar için askeri birliklerden yardım istemesi durumunda, halihazırda cereyan eden olaylar için istenen askeri kuvvet nerede hazır bulundurulur?",
+            "secenekler": {
+                "A": "Olay yerine en yakın askeri kışlada",
+                "B": "Valinin görüşü alınarak olaylara hızla el koymaya uygun bir yerde",
+                "C": "İl merkezinde valiliğe bağlı bir alanda",
+                "D": "Olay yerinde",
+                "E": "Askeri birliğin komutanının belirleyeceği bir toplanma merkezinde"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 11’ de belirtilen '...cereyan eden olaylar için ise olay yerinde hazır bulundurulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin kamuya açık alanlarda kurulacak güvenlik sistemlerinin altyapısı ile ilgili talebini, il özel idaresi ve belediye gibi kurumlar en geç kaç gün içinde sonuçlandırmak zorundadır?",
+            "secenekler": {
+                "A": "3",
+                "B": "5",
+                "C": "7",
+                "D": "10",
+                "E": "15"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11’de yer alan 'Bu sistemlerin altyapı, kurulumu ve işletilmesi ile ilgili olarak il özel idaresi, belediye, köy ve diğer kamu tüzelkişilikleri valiliğin talebini yedi gün içinde sonuçlandırır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, terörle mücadele kapsamında görevlendirilen Türk Silahlı Kuvvetleri birliklerinin, gecikmesinde sakınca bulunan hallerde bir konuta girmesi için yetkili birlik komutanının verdiği yazılı emir, ne kadar süre içinde hâkim onayına sunulmalıdır?",
+            "secenekler": {
+                "A": "Derhal",
+                "B": "12 saat",
+                "C": "24 saat",
+                "D": "48 saat",
+                "E": "72 saat"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Birlik komutanının kararı yirmi dört saat içinde hâkim onayına sunulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valiler; yabancıların hukuki durumlarını ve deniz, kara ve hava ticaretlerini ilgilendiren işlerde hangi mercilerle muhabere eder ve bunların müracaatlarını kabul ederler?",
+            "secenekler": {
+                "A": "Büyükelçiliklerle",
+                "B": "Fahri Konsoloslarla",
+                "C": "Dışişleri Bakanlığı Temsilcilikleriyle",
+                "D": "Konsolosluklarla",
+                "E": "Yabancı Misyon Şefleriyle"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'konsolosluklarla muhabere ve bunların müracaat ve ziyaretlerini kabul ederler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valilerin yabancıların hukuki durumlarını ve ticaretlerini ilgilendiren işlerde esas aldıkları mukavele türleri arasında;\n\nI. İkamet mukaveleleri,\nII. Seyahat mukaveleleri,\nIII. Seyrisefain mukaveleleri\n\nhususlarından hangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'ikamet, seyahat, konsolosluk, ticaret ve seyrisefain mukavelelerine göre' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin memurun savunmasını aldıktan sonra re'sen verebileceği aylıktan kesme cezasının üst sınırı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Üç günlüğe kadar",
+                "B": "Beş günlüğe kadar",
+                "C": "Yedi günlüğe kadar",
+                "D": "On günlüğe kadar",
+                "E": "On beş günlüğe kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen '...savunmasını aldıktan sonra uyarma, kınama ve beş günlüğe kadar aylıktan kesme cezaları vererek uygular.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valiler, tayinleri merkeze ait il memurlarına acele hallerde en fazla kaç güne kadar mezuniyet verebilir?",
+            "secenekler": {
+                "A": "5 güne kadar",
+                "B": "7 güne kadar",
+                "C": "10 güne kadar",
+                "D": "15 güne kadar",
+                "E": "30 güne kadar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Bu memurlara acele hallerde valilerce 15 güne kadar mezuniyet verilir ve ilgili makamlara bildirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin, memurun usulüne göre savunmasını aldıktan sonra re'sen verebileceği disiplin cezaları arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Uyarma",
+                "B": "Kınama",
+                "C": "Kademe ilerlemesinin durdurulması",
+                "D": "Üç günlük aylıktan kesme",
+                "E": "Beş günlüğe kadar aylıktan kesme"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te valinin 'uyarma, kınama ve beş günlüğe kadar aylıktan kesme cezaları vererek uygular' hükmüne dayanmaktadır. Metne göre vali, daha ağır disiplin cezaları için sadece teklif ve talepte bulunabilir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi valinin en büyük amir sıfatıyla yetkili olduğu il teşkilatı personeli kapsamı dışındadır?",
+            "secenekler": {
+                "A": "Bakanlıkların il teşkilatında çalışan memurlar",
+                "B": "Tüzel kişiliği haiz genel müdürlüklerin il teşkilatında çalışan müstahdemler",
+                "C": "Askeri dairelerde görevli personel",
+                "D": "Tayinleri merkeze ait il memurları",
+                "E": "Emir ve denetimi altındaki teşkilat memurları"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'ün başlangıcında yer alan 'Vali, (Dördüncü maddenin son fıkrasında belirtilen adli ve askeri daireler hariç) ... en büyük amiridir.' hükmüne dayanmaktadır. Bu hüküm, adli ve askeri daireleri valinin amirliği kapsamı dışında tutmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valilerce re'sen verilen disiplin cezalarının hukuki niteliği ve sicile geçme zamanı hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu cezalar kesindir ve verildiği tarihten itibaren sicile geçer.",
+                "B": "Bu cezalar kesindir ve tebliğ tarihinden itibaren sicile geçer.",
+                "C": "Bu cezalar ilgili bakanlığın onayı ile kesinleşir ve onay tarihinden itibaren sicile geçer.",
+                "D": "Bu cezaların kesinleşmesi için memurun itiraz hakkını kullanmaması gerekir.",
+                "E": "Bu cezalar tavsiye niteliğindedir ve sicile işlenmez."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Valilerce re'sen verilen cezalar, kesindir. Bu cezalar tebliğ tarihinden itibaren sicile geçer.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin ildeki en büyük amir olma sıfatı, aşağıda belirtilen dairelerden hangilerinin memurlarını kapsamaz?",
+            "secenekler": {
+                "A": "Bakanlıkların il teşkilatlarını",
+                "B": "Tüzel kişiliği haiz genel müdürlüklerin il teşkilatlarını",
+                "C": "Adli ve askeri daireleri",
+                "D": "İl özel idaresi teşkilatını",
+                "E": "Valiliğe bağlı müdürlükleri"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'ün giriş fıkrasında yer alan 'Vali, (Dördüncü maddenin son fıkrasında belirtilen adli ve askeri daireler hariç) Bakanlıklar ve tüzel kişiliği haiz genel müdürlüklerin il teşkilatında çalışan bütün memur ve müstahdemlerinin en büyük amiridir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin memurlar hakkında uygulayabileceği disiplin cezalarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Savunma almaksızın uyarma ve kınama cezası verebilir.",
+                "B": "On günlüğe kadar aylıktan kesme cezasını doğrudan uygulayabilir.",
+                "C": "Valinin re'sen verdiği disiplin cezaları kesindir.",
+                "D": "Daha ağır cezalar için yaptığı tekliflerin yetkili mercilerce incelenmesi zorunlu değildir.",
+                "E": "Verdiği cezalar, bir ay sonra memurun siciline işlenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Valilerce re'sen verilen cezalar, kesindir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali, ildeki bakanlıklar ve tüzel kişiliği haiz genel müdürlüklerin teşkilatında çalışan bütün memurların en büyük amiri olmasına rağmen, aşağıdaki dairelerden hangisi bu yetkinin kapsamı dışındadır?",
+            "secenekler": {
+                "A": "Milli eğitim müdürlükleri",
+                "B": "Adli daireler",
+                "C": "Sağlık müdürlükleri",
+                "D": "Tarım ve orman müdürlükleri",
+                "E": "Defterdarlık"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 13'ün giriş fıkrasında belirtilen 'Vali, (Dördüncü maddenin son fıkrasında belirtilen adli ve askeri daireler hariç) ... en büyük amiridir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valilerce re'sen verilen uyarma, kınama ve aylıktan kesme cezalarının hukuki niteliği hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu cezalar kesindir.",
+                "B": "Onay için İçişleri Bakanlığına sunulur.",
+                "C": "İlgili bakanlığın onayı ile yürürlüğe girer.",
+                "D": "Cezanın tebliğinden sonra yedi gün içinde itiraz edilebilir.",
+                "E": "Sicile işlenmesi için Danıştay görüşü alınır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Valilerce re'sen verilen cezalar, kesindir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, görevleri birden fazla ili kapsayan memurların, bir il sınırı içindeki işlerini gözetim ve denetim yetkisi kime aittir?",
+            "secenekler": {
+                "A": "İlgili Bakan",
+                "B": "En kıdemli kaymakam",
+                "C": "İl idare kurulu",
+                "D": "Vali",
+                "E": "Cumhurbaşkanı yardımcısı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Valiler, birkaç il'e şamil memuriyetlerin kendi illerindeki işlerini de gözetim ve denetimine yetkilidirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir valinin denetleme sırasında bir memura işten el çektirmesi durumunda, takip etmesi gereken usul aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Durumu gerekçesiyle birlikte ait olduğu makama derhal bildirmek.",
+                "B": "İl idare kurulunun onayını aldıktan sonra durumu bildirmek.",
+                "C": "Memurun savunmasını aldıktan sonra durumu bildirmek.",
+                "D": "Yedi gün içinde durumu ilgili bakanlığa yazılı olarak bildirmek.",
+                "E": "İşten el çektirilen memurun yerine derhal yeni atama yapmak."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Bu takdirde işi gerekçesiyle ait olduğu makama derhal bildirirler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valiler denetlemeleri sırasında iş başında kalmalarında sakınca gördükleri memur ve müstahdemler hakkında aşağıdakilerden hangisini yapmaya yetkilidir?",
+            "secenekler": {
+                "A": "Doğrudan görevden alabilir.",
+                "B": "Sorumluluğu altında işten el çektirebilir.",
+                "C": "Maaş kesintisi cezası verebilir.",
+                "D": "Geçici olarak başka bir göreve atayabilir.",
+                "E": "Haklarında idari soruşturma başlatabilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen '...iş başında kalmalarında mahzur gördükleri bütün memur ve müstahdemlere sorumluluğu altında işten el çektirilebilirler...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin denetlemesi sırasında iş başında kalmasında mahzur gördüğü bir memuru görevden el çektirmesi durumunda;\n\nI. Hizmetin aksamaması için gerekli tedbirleri aldırmak\nII. Durumu gerekçesiyle birlikte ilgili makama derhal bildirmek\nIII. Memur hakkında doğrudan disiplin soruşturması başlatmak\n\nyükümlülüklerinden hangisi veya hangileri doğar?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16'da yer alan valilerin, işten el çektirme durumunda 'hizmetin aksamaması için gereken tedbirleri aldırırlar' ve 'işi gerekçesiyle ait olduğu makama derhal bildirirler' şeklindeki yükümlülüklerine dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valilerin, denetim ve teftişleri altında bulunmayan daire ve müesseselerde öğrendikleri yolsuzluklarla ilgili olarak yapmaları gereken ilk işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Doğrudan soruşturma başlatmak",
+                "B": "Durumu ilgili makamlara bildirmek",
+                "C": "Konuyu derhal adli mercilere intikal ettirmek",
+                "D": "Yolsuzluğu yapan personel hakkında disiplin işlemi yapmak",
+                "E": "Kendi yetki alanı dışında olduğu için işlem yapmamak"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 17'de yer alan '... öğrendikleri yolsuzlukları ilgili makamlara bildirirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin, denetimi altında bulunmayan bir kurumdaki yolsuzluğu bildirmesi üzerine ilgili makamların görevleriyle ilgili olarak;\n\nI. Lazımgelen incelemeyi yapmak\nII. Kanuni gereğini ifa etmek\nIII. Sonucundan valiye bilgi vermek\n\nyükümlülüklerinden hangisi veya hangileri bulunmaktadır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'İlgili makamlar lazımgelen incelemeyi yaparak kanuni gereğini ifa eder ve sonucundan valiye bilgi verirler.' hükmüne dayanmaktadır. Bu hüküm, her üç öncülün de doğru olduğunu göstermektedir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin denetimi altında bulunmayan bir dairede yolsuzluk olduğunu öğrenmesi durumunda, bu durumu bildirdiği ilgili makamların temel yükümlülüğü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Durumu doğrudan Sayıştaya rapor etmek",
+                "B": "Soruşturmayı valinin yönetimine devretmek",
+                "C": "Gerekli incelemeyi yapıp kanuni gereğini yerine getirmek ve sonucundan valiye bilgi vermek",
+                "D": "Sadece valiye yazılı bir teyit göndermek",
+                "E": "Yolsuzlukla ilgili personeli derhal görevden almak"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 17'de yer alan 'İlgili makamlar lazımgelen incelemeyi yaparak kanuni gereğini ifa eder ve sonucundan valiye bilgi verirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin kendi denetim ve teftişi altında bulunmayan bir kurumdaki yolsuzluğu ilgili makamlara bildirmesi üzerine, bu makamların sorumluluğu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Konuyu doğrudan adli makamlara intikal ettirmek",
+                "B": "Gerekli incelemeyi yapıp kanuni gereğini yerine getirmek ve sonucundan valiye bilgi vermek",
+                "C": "Valinin talimatı doğrultusunda soruşturmayı yürütmek",
+                "D": "Yolsuzluk iddiasını denetlemesi için valiliğe bir müfettiş göndermek",
+                "E": "Sadece valiye yazılı olarak durumun incelendiğini bildirmek"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'İlgili makamlar lazımgelen incelemeyi yaparak kanuni gereğini ifa eder ve sonucundan valiye bilgi verirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali tarafından bir yolsuzluk ihbarı alan ilgili makamların, gerekli incelemeyi yapıp kanuni gereğini yerine getirdikten sonra valiye karşı olan yükümlülüğü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Validen ek talimat beklemek",
+                "B": "Soruşturma dosyasının bir örneğini göndermek",
+                "C": "İşlemin sonucundan valiye bilgi vermek",
+                "D": "Valinin onayını almak",
+                "E": "Personel hakkında verilen kararı bildirmek"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'İlgili makamlar lazımgelen incelemeyi yaparak kanuni gereğini ifa eder ve sonucundan valiye bilgi verirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valiler aşağıdaki görevlilerden hangisinin ikinci derecede sicil amiridir?",
+            "secenekler": {
+                "A": "Vali muavininin",
+                "B": "Kaymakamların",
+                "C": "İl idare şube başkanlarının",
+                "D": "Genel ve özel kolluk amirlerinin",
+                "E": "Diğer memurların"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen '...diğer memurların ikinci derecede sicil amiridirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali;\nI. Kaymakamlar\nII. İl ve bölge muhakemat müdürleri\nIII. Genel ve özel kolluk amirleri\nyukarıdakilerden hangisinin veya hangilerinin birinci derecede sicil amiridir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 18'de valilerin; vali muavini, kaymakamlar, il idare şube başkanları, il ve bölge muhakemat müdürleri ile genel ve özel kolluk amirlerinin birinci derecede sicil amiri olduğunun belirtilmesine dayanmaktadır. Verilen öncüllerin tamamı bu listede yer almaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali aşağıda sayılanlardan hangisinin veya hangilerinin birinci derecede sicil amiridir?\n\nI. Vali muavini\nII. Kaymakamlar\nIII. Genel ve özel kolluk amirleri\nIV. Diğer memurlar",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "III ve IV",
+                "D": "I, II ve III",
+                "E": "I, II, III ve IV"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 18'de valinin; vali muavini, kaymakamlar ve genel ve özel kolluk amirlerinin birinci derecede, 'diğer memurların' ise ikinci derecede sicil amiri olduğunun belirtilmesine dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valiler, tayinleri merkeze ait olan görevliler hakkındaki takdir ve tecziye işlemlerini nasıl yürütürler?",
+            "secenekler": {
+                "A": "Doğrudan takdirname düzenlerler",
+                "B": "İlgili makamlara bildirirler",
+                "C": "Cumhurbaşkanlığına onaya sunarlar",
+                "D": "İl idare kurulunda karara bağlarlar",
+                "E": "Kendi takdir yetkisiyle sonuca bağlarlar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Tayinleri merkeze ait olanlar hakkındaki takdir ve tecziye muamelelerini ilgili makamlara bildirirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, gereken hallerde il mensuplarına takdirname verme yetkisi kime aittir?",
+            "secenekler": {
+                "A": "İl idare şube başkanına",
+                "B": "Kaymakama",
+                "C": "Valiye",
+                "D": "İlgili bakana",
+                "E": "Cumhurbaşkanına"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Valiler, gereken hallerde il mensuplarına takdirname verirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idare şube başkanları, kendi şubelerine ilişkin işlerin yürütülmesinden öncelikli olarak kime karşı sorumludur?",
+            "secenekler": {
+                "A": "İlgili bakanlığa",
+                "B": "Vali muavinine",
+                "C": "Valiye",
+                "D": "Kaymakama",
+                "E": "Cumhurbaşkanına"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen '...işlerin yürütülmesinden... valiye karşı sorumludurlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idare şube başkanlarının valiye karşı sorumlulukları ve ödevleri arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Valinin istediği her türlü malumatı vermek\nII. Şubelerindeki memurların görevlerini süratle yapmasından sorumlu olmak\nIII. Aldıkları işler üzerinde gereken incelemeleri yaparak bilgi ve düşüncelerini zamanında bildirmek",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 21'de il idare şube başkanlarının görevlerinin; 'valinin istediği her türlü malümatı vermek', 'şubeleri memur ve müstahdemlerinin ... görevlerinin sürat ve intizamla yapılmasından valiye karşı sorumlu olmak' ve 'aldıkları işler üzerinde gereken incelemeleri yaparak bilgi ve düşüncelerini zamanında bildirmek' olarak sayılmasına dayanmaktadır. Bu nedenle her üç öncül de doğrudur."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi il idare şube başkanlarının valiye karşı yerine getirmekle yükümlü olduğu ödevlerden biri değildir?",
+            "secenekler": {
+                "A": "Valinin emirlerini yürütmek",
+                "B": "Aldıkları işler üzerinde gereken incelemeleri yapmak",
+                "C": "Bilgi ve düşüncelerini zamanında bildirmek",
+                "D": "Valinin istediği her türlü malumatı vermek",
+                "E": "Şube personelinin yıllık izinlerini onaylamak"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 21'de il idare şube başkanlarının ödevleri arasında valinin emirlerini yürütmek, inceleme yapmak, bilgi ve düşüncelerini bildirmek ve istenen malumatı vermek sayılmıştır. Metinde, şube personelinin yıllık izinlerini onaylamak gibi bir ödevden bahsedilmemektedir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idare şube başkanları veya kaymakamlar, mevzuatı uygulama sırasında danışma ihtiyacı duydukları bir konuda öncelikle kime başvurmalıdır?",
+            "secenekler": {
+                "A": "Doğrudan ilgili bakanlığa",
+                "B": "Valiye",
+                "C": "Cumhurbaşkanlığına",
+                "D": "İşin ait olduğu diğer şube başkanına",
+                "E": "Danıştaya"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'İl idare şube başkanları ve kaymakamlar, ... istizana muhtaç gördükleri cihetleri validen sorarlar...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idare şube başkanları veya kaymakamlar tarafından uygulama sırasında danışılması gereken bir konu iletildiğinde, valinin ilgili şube başkanıyla görüşüp incelemesine rağmen bir sonuca varamaması halinde atacağı adım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Konuyu doğrudan Cumhurbaşkanlığına iletir.",
+                "B": "Karar vermesi için konuyu kaymakama geri gönderir.",
+                "C": "Durumu yetkili mercie sorar ve alacağı cevaba göre hareket eder.",
+                "D": "Konunun çözümü için özel bir komisyon kurar.",
+                "E": "Kendi takdir yetkisini kullanarak nihai kararı verir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de yer alan '...vali o meseleyi ait olduğu şube başkaniyle görüşüp inceledikten sonra bir sonuca varamadığı takdirde keyfiyeti merciinden sorar ve alacağı cevaba göre gereğini yapar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idare şube başkanları veya kaymakamların, valinin verdiği bir emrin mevzuata aykırı olduğu kanaatine varmaları ve bu durumu valiye bildirmelerine rağmen valinin emrinde yazılı olarak ısrar etmesi durumunda, emir nasıl uygulanır?",
+            "secenekler": {
+                "A": "Emir, ilgili merciden cevap gelene kadar ertelenir.",
+                "B": "Emir, kaymakamın veya şube başkanının sorumluluğu altında uygulanır.",
+                "C": "Emir, valinin sorumluluğu altında uygulanır ve durum ilgili mercie bildirilir.",
+                "D": "Emir, sadece vali tarafından sözlü olarak teyit edildikten sonra uygulanır.",
+                "E": "Emir, uygulanmaz ve konu hakkında doğrudan Cumhurbaşkanlığına yazı yazılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Vali, emrin mevzuata uygun bulunduğunda israr ederse yazılı olarak emir verir ve aynı zamanda işi ilgili mercie yazar. Cevap gelinceye kadar valinin verdiği emir kendi sorumluluğu altında uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin mevzuata aykırı olduğu iddia edilen bir emrinde ısrar etmesi ve durumu ilgili mercie yazması halinde, bu merciden cevap gelinceye kadarki süreçte emrin akıbeti ne olur?",
+            "secenekler": {
+                "A": "Emir, kaymakamın sorumluluğu altında uygulanır.",
+                "B": "Emrin uygulanması askıya alınır.",
+                "C": "Emir, valinin sorumluluğu altında uygulanır.",
+                "D": "Emrin uygulanıp uygulanmayacağına ilgili merci karar verir.",
+                "E": "Emir, hem vali hem de kaymakamın müşterek sorumluluğuyla uygulanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 23'te yer alan 'Cevap gelinceye kadar valinin verdiği emir kendi sorumluluğu altında uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin başkanlığında yapılan ve idare şube başkanlarının katıldığı toplantılarla ilgili olarak, bu toplantılarda alınan kararların niteliği aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kararların yürütülmesi sadece valinin takdirine bağlıdır.",
+                "B": "Kararların yürütülmesi bütün idare şubeleri için mecburidir.",
+                "C": "Kararlar tavsiye niteliğinde olup bağlayıcılığı yoktur.",
+                "D": "Kararlar sadece toplantıya katılan şubeler için geçerlidir.",
+                "E": "Kararların uygulanması için İçişleri Bakanlığının onayı gerekir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen 'Bu toplantıda alınan kararların yürütülmesi bütün idare şubeleri için mecburidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin idare şube başkanlarıyla yaptığı ve kararlarının bütün idare şubeleri için mecburi olduğu toplantılara aşağıdakilerden hangisi çağrılabilecek kişiler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Kaymakamlar",
+                "B": "Belediye başkanları",
+                "C": "Ticaret ve ziraat odası başkanları",
+                "D": "İl genel meclisi üyeleri",
+                "E": "Diğer memur ve ilgililer"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 24'te toplantılara çağrılabilecek kişiler arasında 'kaymakamlar ve belediye ve ticaret ve ziraat odası başkanlariyle diğer memur ve ilgililer' sayılmış olup, il genel meclisi üyeleri bu listede yer almamaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valilerin kaymakamları yılda bir defa toplantıya çağırmasının temel amacı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlin yönetim, ekonomi ve sağlık gibi hizmetlerinin ahenkli yürütülmesi için tedbirler görüşmek",
+                "B": "İdare şube başkanlarının yıllık performanslarını denetlemek",
+                "C": "Cumhurbaşkanlığına sunulacak yıllık faaliyet raporunu hazırlamak",
+                "D": "Köylerin ve bucakların teftiş programını kesinleştirmek",
+                "E": "Halkın dilek ve ihtiyaçlarını doğrudan kaymakamlardan dinlemek"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Valiler, ilin yönetim, ekonomi, sağlık ve sosyal yardım, kültür ve bayındırlık işleriyle ilgili hizmetlerin ahenkli olarak yürütülmesi için alınması gereken en uygun tedbirler görüşülmek üzere kaymakamları yılda bir defa toplantıya çağırır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valilerin görevleri arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Bir önceki yılın programının uygulama neticelerini kaymakamlarla birlikte gözden geçirmek.\nII. Halkın dilek ve ihtiyaçlarını yerli yerinde gözden geçirerek gereğini yapmak.\nIII. Cumhurbaşkanınca alınan kararların halk üzerindeki etkileri hakkında rapor hazırlamak.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 25'te yer alan '...bir yıl önceki programın uygulama neticeleri gözden geçirilir.' hükmü ile Madde 26'da yer alan 'Halkın dilek ve ihtiyaçlarını yerli yerinde gözden geçirerek gereğini yaparlar.' ve '...Cumhurbaşkanınca alınmış bulunan karar ve tedbirlerin sonuçları ve bunların halk üzerindeki etkileri hakkında ... rapor verirler.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valiler, çeşitli hizmetlerin ahenkli olarak yürütülmesi için alınması gereken tedbirleri görüşmek üzere kaymakamları hangi sıklıkla toplantıya çağırır?",
+            "secenekler": {
+                "A": "Yılda bir defa",
+                "B": "Yılda iki defa",
+                "C": "Altı ayda bir defa",
+                "D": "Lüzum gördüğü her zaman",
+                "E": "Üç ayda bir defa"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Valiler, ilin yönetim, ekonomi, sağlık ve sosyal yardım, kültür ve bayındırlık işleriyle ilgili hizmetlerin ahenkli olarak yürütülmesi için alınması gereken en uygun tedbirler görüşülmek üzere kaymakamları yılda bir defa toplantıya çağırır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valilerin ilin yönetim, ekonomi, sağlık ve sosyal yardım gibi hizmetlerinin ahenkli yürütülmesi için alınacak tedbirleri görüşmek üzere kaymakamları toplantıya çağırma sıklığı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İki yılda bir defa",
+                "B": "Yılda bir defa",
+                "C": "Yılda iki defa",
+                "D": "Yılda dört defadan az olmamak üzere",
+                "E": "Valinin lüzum gördüğü sıklıkta"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Valiler, ... kaymakamları yılda bir defa toplantıya çağırır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valilerin kaymakamlarla yaptığı yıllık toplantıda aşağıdakilerden hangisi veya hangileri gerçekleştirilir?\n\nI. İşlerin, önemlerine ve mevcut imkanlara göre sıralanarak programlanması\nII. Bir önceki yıla ait programın uygulama sonuçlarının değerlendirilmesi\nIII. İlçelere düşen vazifelerin tespit edilerek ayrılması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'İşler, önemlerine ve eldeki imkanlara göre sıralanarak programlanır ve ilçeye düşen vazifeler ayrılır ve bir yıl önceki programın uygulama neticeleri gözden geçirilir.' hükmünün tamamına dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valilerin görevleriyle ilgili olarak;\nI. Her yıl uygun gördükleri zamanlarda, ilin bütün ilçe ve bucaklarını teftiş ederler.\nII. Halkın dilek ve ihtiyaçlarını yerinde inceleyerek gereğini yaparlar.\nIII. Hazırladıkları raporları sadece ilgili Bakanlıklara sunarlar.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 26'da valilerin teftiş görevlerinin her yıl uygun görülen zamanlarda ilçe ve bucakları kapsadığı ve halkın dilek ve ihtiyaçlarını yerinde gözden geçirdikleri belirtilmiştir. Ancak aynı maddede raporların 'Cumhurbaşkanlığına ve ilgili Bakanlıklara' sunulacağı ifade edildiğinden, raporların 'sadece' ilgili Bakanlıklara sunulduğunu belirten III. öncül yanlıştır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi valilerin Cumhurbaşkanlığına ve ilgili Bakanlıklara sundukları raporlarda yer alan konulardan biri değildir?",
+            "secenekler": {
+                "A": "İlin ekonomik ve mali durumu",
+                "B": "Cumhurbaşkanınca alınan tedbirlerin sonuçları",
+                "C": "Alınan tedbirlerin halk üzerindeki etkileri",
+                "D": "İl içindeki adli teşkilatın denetim sonuçları",
+                "E": "İlin kültürel ve sağlık durumu"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 26'da valilerin sunacağı raporun içeriği açıkça sayılmıştır. Bu içerikte ilin idari, mali, ekonomik, kültürel, sağlık ve sosyal durumu ile Cumhurbaşkanınca alınan kararların sonuçları ve halk üzerindeki etkileri yer alırken, il içindeki adli teşkilatın denetim sonuçları raporun konuları arasında belirtilmemiştir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valiler ilin durumu hakkındaki raporlarını aşağıdakilerden hangilerine sunarlar?",
+            "secenekler": {
+                "A": "Sadece İçişleri Bakanlığına",
+                "B": "İl Genel Meclisine ve Kaymakamlıklara",
+                "C": "Cumhurbaşkanlığına ve ilgili Bakanlıklara",
+                "D": "Sadece Cumhurbaşkanlığına",
+                "E": "Yalnızca ildeki askeri ve adli birimlere"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen '...yıl sonunda veya lüzum gördükleri sair zamanlarda Cumhurbaşkanlığına ve ilgili Bakanlıklara rapor verirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valilerin hazırlayacağı raporlarda aşağıdakilerden hangisinin veya hangilerinin yer alması gerekir?\n\nI. İlin idari, mali ve ekonomik durumu\nII. Cumhurbaşkanınca alınmış kararların halk üzerindeki etkileri\nIII. İlçelerdeki adli ve askeri faaliyetlerin denetim sonuçları",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 26'da valilerin raporlarının içeriği olarak 'İlin idari, mali, ekonomik, kültürel, sağlık ve sosyal durumu ve Cumhurbaşkanınca alınmış bulunan karar ve tedbirlerin sonuçları ve bunların halk üzerindeki etkileri' sayılmış, adli ve askeri faaliyetlerin denetim sonuçları bu kapsamda belirtilmemiştir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçede Cumhurbaşkanının idari yürütme vasıtası olan ve ilçenin genel idaresinden sorumlu tutulan makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Vali",
+                "B": "Belediye Başkanı",
+                "C": "Kaymakam",
+                "D": "İl Genel Meclisi Başkanı",
+                "E": "Bakan"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'İlçe genel idaresinin başı ve mercii kaymakamdır. Kaymakam, ilçede Cumhurbaşkanının idari yürütme vasıtasıdır. İlçenin genel idaresinden kaymakam sorumludur.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bakanlıkların ilçedeki teşkilatlarının kaymakamın emri altında olması kuralının istisnası aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Mali teşkilat",
+                "B": "Mülki idare teşkilatı",
+                "C": "Eğitim teşkilatı",
+                "D": "Adli ve askeri teşkilat",
+                "E": "Sağlık teşkilatı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Bu teşkilat (Dördüncü maddenin son fıkrasında belirtilen adli ve askeri teşkilat hariç) kaymakamın emri altındadır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi ilçede kaymakamın emri altında bulunmayan teşkilatlardandır?",
+            "secenekler": {
+                "A": "İlçe milli eğitim müdürlüğü",
+                "B": "İlçe sağlık müdürlüğü",
+                "C": "İlçe tarım ve orman müdürlüğü",
+                "D": "Adli ve askeri teşkilat",
+                "E": "İlçe nüfus müdürlüğü"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Bu teşkilat (Dördüncü maddenin son fıkrasında belirtilen adli ve askeri teşkilat hariç) kaymakamın emri altındadır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçedeki teşkilatlardan hangileri kaymakamın emri altında değildir?",
+            "secenekler": {
+                "A": "Sağlık ve sosyal teşkilat",
+                "B": "Mali ve ekonomik teşkilat",
+                "C": "Adli ve askeri teşkilat",
+                "D": "İlçe idare şube başkanlıkları",
+                "E": "Kültürel ve idari teşkilat"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Bu teşkilat (Dördüncü maddenin son fıkrasında belirtilen adli ve askeri teşkilat hariç) kaymakamın emri altındadır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakam ilçede hangi makamın idari yürütme vasıtasıdır?",
+            "secenekler": {
+                "A": "Valinin",
+                "B": "İçişleri Bakanının",
+                "C": "Cumhurbaşkanının",
+                "D": "Bakanlıkların",
+                "E": "İl genel meclisinin"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Kaymakam, ilçede Cumhurbaşkanının idari yürütme vasıtasıdır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçe genel idaresinin başı olan kaymakamın yetki ve sorumlulukları ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kaymakam, ilçede valinin idari yürütme vasıtasıdır.",
+                "B": "İlçedeki adli ve askeri teşkilatlar da kaymakamın emri altındadır.",
+                "C": "Kaymakam, ilçede Cumhurbaşkanının idari yürütme vasıtası olup adli ve askeri teşkilat dışındaki teşkilat onun emrindedir.",
+                "D": "Bakanlıkların ilçedeki tüm teşkilatları doğrudan valiye karşı sorumludur.",
+                "E": "Kaymakam, ilçenin genel idaresinden valiye karşı sorumludur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Kaymakam, ilçede Cumhurbaşkanının idari yürütme vasıtasıdır' ve 'Bu teşkilat (Dördüncü maddenin son fıkrasında belirtilen adli ve askeri teşkilat hariç) kaymakamın emri altındadır.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın ilçedeki konumu ve statüsü aşağıdakilerden hangisinde doğru olarak ifade edilmiştir?",
+            "secenekler": {
+                "A": "İlçede valinin temsilcisi ve yürütme vasıtasıdır.",
+                "B": "İlçede Cumhurbaşkanının idari yürütme vasıtasıdır.",
+                "C": "İlçede İçişleri Bakanının en yetkili amiridir.",
+                "D": "İlçe genel idaresinin mali denetçisidir.",
+                "E": "Bakanlıkların ilçe teşkilatlarının başıdır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Kaymakam, ilçede Cumhurbaşkanının idari yürütme vasıtasıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçedeki genel idare teşkilatının başında bulunanlara verilen unvan aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlçenin ikinci derecede memurları",
+                "B": "İlçe genel idare amirleri",
+                "C": "İlçe idare şube başkanları",
+                "D": "Kaymakamlık birim müdürleri",
+                "E": "İlçe özel idare başkanları"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'İlçedeki genel idare teşkilatının başında bulunanlar ilçe idare şube başkanlarıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçedeki genel idare teşkilatının başında bulunan görevlilere ne ad verilir?",
+            "secenekler": {
+                "A": "İlçenin ikinci derecede memurları",
+                "B": "İlçe idare şube başkanları",
+                "C": "İlçe yürütme vasıtaları",
+                "D": "Kaymakamlık özel kalem müdürleri",
+                "E": "İlçe genel idare amirleri"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'İlçedeki genel idare teşkilatının başında bulunanlar ilçe idare şube başkanlarıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçe idare şube başkanlarının atanması ve nakledilmesi hangi usule göre yapılır?",
+            "secenekler": {
+                "A": "Kaymakamın inhası üzerine vali tarafından",
+                "B": "Valinin inhası üzerine ilgili bakan tarafından",
+                "C": "İl idare şube başkanlarının inhası üzerine vali tarafından",
+                "D": "Kaymakamın doğrudan atamasıyla",
+                "E": "İlgili bakanın inhası üzerine Cumhurbaşkanı tarafından"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'ilçe idare şube başkanları il idare şube başkanlarının inhası üzerine valilerce tayin ve aynı usule göre nakil ve tahvil edilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçe idare şube başkanlarının teklifi üzerine kaymakamlarca atanan ilçe memurlarının memuriyetlerini tasdik etme yetkisi kime aittir?",
+            "secenekler": {
+                "A": "İl idare şube başkanına",
+                "B": "Valiye",
+                "C": "Vali muavinine",
+                "D": "İl idare kuruluna",
+                "E": "İlgili bakanlığa"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 30'da yer alan '...ilçe idare şube başkanlarının inhası üzerine kaymakamlarca tayin ve memuriyetleri valilerce tasdik...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bu kanunun sekizinci maddesinin (B) fıkrası dışındaki ilçe memurlarının atanması sürecinde, atamayı yapan ve bu atamayı tasdik eden makamlar sırasıyla aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Vali - İçişleri Bakanı",
+                "B": "Kaymakam - Vali",
+                "C": "Vali - Kaymakam",
+                "D": "İlçe idare şube başkanı - Kaymakam",
+                "E": "İl idare şube başkanı - Vali"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen '...memurları ...kaymakamlarca tayin ve memuriyetleri valilerce tasdik...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, belirli istisnalar haricinde ilçe idare şube başkanlarının atanması sürecinde, sırasıyla kimler inha (teklif) ve tayin (atama) yetkisine sahiptir?",
+            "secenekler": {
+                "A": "Kaymakam - Vali",
+                "B": "İl idare şube başkanı - Vali",
+                "C": "Vali - Kaymakam",
+                "D": "Kaymakam - Cumhurbaşkanı",
+                "E": "İl idare şube başkanı - Kaymakam"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen '...ilçe idare şube başkanları il idare şube başkanlarının inhası üzerine valilerce tayin... edilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, belirli istisnalar haricindeki ilçe idare şube başkanlarının atanması ve nakli hangi makamlar tarafından ve ne şekilde gerçekleştirilir?",
+            "secenekler": {
+                "A": "Kaymakamın inhası üzerine vali tarafından",
+                "B": "Valinin inhası üzerine kaymakam tarafından",
+                "C": "İl idare şube başkanlarının inhası üzerine valilerce",
+                "D": "İlçe idare şube başkanının inhası üzerine kaymakam tarafından",
+                "E": "Doğrudan vali tarafından, herhangi bir inhaya gerek olmaksızın"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'ilçe idare şube başkanları il idare şube başkanlarının inhası üzerine valilerce tayin' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın denetimi sırasında iş başında kalmalarında mahzur gördüğü görevlileri işten el çektirmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlçe idare şube başkanlarını re'sen işten el çektirebilir.",
+                "B": "Tüm memur ve müstahdemleri valinin muvafakatiyle işten el çektirebilir.",
+                "C": "İlçe idare şube başkanları dışındaki memur ve müstahdemleri re'sen işten el çektirebilir.",
+                "D": "İşten el çektirme yetkisini kullanmadan önce İçişleri Bakanlığından onay almalıdır.",
+                "E": "Sadece özel idare ve belediye personelini işten el çektirebilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'Kaymakam, denetlemesi sırasında iş başında kalmalarında mahzur gördüğü ilçe idare şube başkanlarını valinin muvafakatiyle, diğer memur ve müstahdemleri re'sen sorumluluğu altında işten el çektirebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamların bakanlıklarla doğrudan yazışma yapabilmesi hangi durumda ve hangi koşulla mümkündür?",
+            "secenekler": {
+                "A": "Acele hallerde, valiye sonradan bilgi vermek şartıyla mümkündür.",
+                "B": "Olağanüstü hallerde, bu yazışmalardan valiye bilgi vermek şartıyla mümkündür.",
+                "C": "Valinin yazılı emri olması halinde, bilgi verme zorunluluğu olmaksızın mümkündür.",
+                "D": "Mali konularda, Sayıştay'a da bilgi vermek şartıyla mümkündür.",
+                "E": "Kaymakamların bakanlıklarla doğrudan yazışma yapması hiçbir surette mümkün değildir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'Ancak olağanüstü hallerde kaymakamlar İçişleri Bakanlığı ve diğer Bakanlıklarla muhabere edebilirler ve bu muhaberelerden valiye bilgi verirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın ilçe idare şube başkanlarına acele hallerde verebileceği izin süresi en fazla kaç gündür?",
+            "secenekler": {
+                "A": "3 gün",
+                "B": "5 gün",
+                "C": "8 gün",
+                "D": "10 gün",
+                "E": "15 gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'Kaymakam, ilçe idare şube başkanlarına acele hallerde (8 güne kadar) ... izin verebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamların İçişleri Bakanlığı ve diğer bakanlıklarla doğrudan muhaberede bulunabilmesi hangi duruma bağlıdır ve bu durumda kime bilgi vermesi gerekir?",
+            "secenekler": {
+                "A": "Acele hallerde - İçişleri Bakanlığına",
+                "B": "Valinin yazılı emri üzerine - Cumhurbaşkanlığına",
+                "C": "Olağanüstü hallerde - valiye",
+                "D": "Milli güvenlik hallerinde - Genelkurmay Başkanlığına",
+                "E": "Valinin sözlü izniyle - ilgili bakanlık müsteşarına"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 31'in (B) bendinde belirtilen 'Ancak olağanüstü hallerde kaymakamlar İçişleri Bakanlığı ve diğer Bakanlıklarla muhabere edebilirler ve bu muhaberelerden valiye bilgi verirler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın ilçe genel ve özel kolluk kuvvetleri mensuplarının geçici veya sürekli olarak yerlerini değiştirebilmesi aşağıdakilerden hangisinin gerçekleşmesine bağlıdır?",
+            "secenekler": {
+                "A": "İçişleri Bakanının onayı",
+                "B": "Valinin tasvibi",
+                "C": "En yakın askeri komutanın bilgilendirilmesi",
+                "D": "Cumhurbaşkanlığı kararnamesiyle yetki verilmesi",
+                "E": "İlçe idare şube başkanlarının görüşünün alınması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'Kaymakam, valinin tasvibiyle ilçe genel ve özel kolluk kuvvetleri mensuplarının geçici veya sürekli olarak yerlerini değiştirebilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, emrindeki kolluk kuvvetleriyle önlenemeyecek olağanüstü ve ani bir olayla karşılaşan kaymakamın, yardım istemek için derhal bilgi vermesi gereken makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İçişleri Bakanı",
+                "B": "Jandarma Genel Komutanı",
+                "C": "Vali",
+                "D": "En yakın ilin valisi",
+                "E": "Cumhurbaşkanı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen '...ilçe içindeki kolluk kuvetleriyle önlenemeyecek olağanüstü ve ani olaylar karşısında kalırsa hemen valiye bilgi vererek yardım ister...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın gözetim ve denetimi altında bulunan yerler arasında aşağıdakilerden hangisi veya hangileri sayılmıştır?\n\nI. Devlete ait mali ve ticari müesseseler\nII. Gerçek kişiler tarafından işletilen sınai ve iktisadi işletmeler\nIII. Belediyelere bağlı bulunan daire ve müesseseler",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'Devlete, Özel İdareye, belediye ve köylere ait olan ve bunlara bağlı bulunan ... daire ve müesseselerle diğer bütün gerçek ve tüzelkişiler tarafından işletilen mali, ticari, sınai ve iktisadi müesseseler, işletmeler ... kaymakamın gözetim ve denetimi altındadır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın emrindeki kolluk kuvvetleriyle önlenemeyecek olağanüstü ve ani bir olayla karşılaşması durumunda yapması gerekenler arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Derhal valiye bilgi vererek yardım istemek\nII. En yakın askeri komutanlara haber vermek\nIII. Doğrudan İçişleri Bakanlığından takviye kuvvet talep etmek",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen '...hemen valiye bilgi vererek yardım ister ve en yakın askeri (Kara, Deniz ve Hava) komutanlara da haber verir.' hükmüne dayanmaktadır. Metinde İçişleri Bakanlığından doğrudan talepte bulunma yetkisi bu durum için belirtilmemiştir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakam ceza ve tevkifevlerinin muhafazasını ve hükümlü ile tutukluların sağlık şartlarını aşağıdaki görevlilerden hangisiyle birlikte gözetim ve denetimi altında bulundurur?",
+            "secenekler": {
+                "A": "Vali",
+                "B": "İlçe sağlık müdürü",
+                "C": "Belediye başkanı",
+                "D": "Cumhuriyet savcısı",
+                "E": "İlçe jandarma komutanı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Kaymakam, ceza ve tevkifevlerinin muhafazasını ve Cumhuriyet savcısı ile birlikte hükümlü ve tutukluların sağlık şartlarını gözetim ve denetimi altında bulundurur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın ceza ve tevkifevlerine ilişkin gözetim ve denetim görevleri arasında;\n\nI. Ceza ve tevkifevlerinin muhafazası\nII. Hükümlü ve tutukluların sağlık şartları\nIII. Personelin disiplin işlemleri\n\nverilenlerden hangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Kaymakam, ceza ve tevkifevlerinin muhafazasını ve ... hükümlü ve tutukluların sağlık şartlarını gözetim ve denetimi altında bulundurur.' hükmüne dayanmaktadır. Personelin disiplin işlemleri metinde yer almamaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamların sicil amirliği ile ilgili olarak;\n\nI. İlçe idare şube başkanlarının birinci derecede sicil amiridir.\nII. Kolluk amirlerinin ikinci derecede sicil amiridir.\nIII. İlçe idare şube başkanları ile genel, özel ve kolluk amirleri dışındaki diğer memurların ikinci derecede sicil amiridir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'Kaymakamlar, ilçe idare şube başkanlarının genel, özel ve kolluk amirlerinin birinci derecede, diğer memurların ikinci derecede sicil amiridirler.' hükmüne dayanmaktadır. Bu hükme göre I. ve III. öncüller doğru, II. öncül ise yanlıştır çünkü kolluk amirleri birinci derecede sicil amirliği kapsamındadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçe çevresindeki belediye başkanları ile köy muhtarları, kendi idarelerinin iş ve ihtiyaçlarıyla ilgili olarak üst makamlarla yapacakları yazışmaları hangi makam aracılığıyla gerçekleştirirler?",
+            "secenekler": {
+                "A": "Valilik",
+                "B": "İl Özel İdaresi",
+                "C": "Kaymakamlık",
+                "D": "İçişleri Bakanlığı",
+                "E": "Belediye Meclisi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen '...yazışmalarını kaymakamlık vasıtasiyle yaparlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangileri, üst makamlara kendi idarelerinin iş ve ihtiyaçlarıyla ilgili yazışmalarını kaymakamlık vasıtasıyla yapmakla yükümlüdür?",
+            "secenekler": {
+                "A": "Sadece ilçe merkezindeki belediye başkanları",
+                "B": "İl genel meclisi üyeleri",
+                "C": "Bakanlıkların il müdürleri",
+                "D": "İlçe çevresindeki belediye başkanları ve köy muhtarları",
+                "E": "Sadece köy muhtarları ve ihtiyar heyeti üyeleri"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen 'İlçe çevresindeki belediyelerin başkanlariyle köy muhtarları, üst makamlara kendi idarelerinin iş ve ihtiyaçlariyle ilgili yazışmalarını kaymakamlık vasıtasiyle yaparlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın yıllık teftiş yükümlülüğü kapsamında aşağıdakilerden hangisi yer almaktadır?",
+            "secenekler": {
+                "A": "İlçenin bütün bucaklarıyla köylerinin tamamını teftiş etmek.",
+                "B": "İlçenin bütün bucaklarıyla köylerinin en az üçte birini teftiş etmek.",
+                "C": "İlçenin bütün bucaklarıyla köylerinin en az yarısını teftiş etmek.",
+                "D": "Teftişe çıkacağı zaman İçişleri Bakanlığını haberdar etmek.",
+                "E": "Teftiş sonucunu bir raporla doğrudan ilçe idare kuruluna bildirmek."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Kaymakam, her yıl ilçenin bütün bucaklariyle köylerinin en az yarısını ve ilçe içindeki teşkilatı teftiş eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın her yıl teftiş etmesi gereken bucak ve köylerin asgari oranı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Her ikisinin de tamamını",
+                "B": "Bucakların az üçte birini - Köylerin tamamını",
+                "C": "Bucakların tamamını - Köylerin en az yarısını",
+                "D": "Bucakların tamamını - Köylerin az dörtte birini",
+                "E": "Valinin belirleyeceği bir oran"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Kaymakam, her yıl ilçenin bütün bucaklariyle köylerinin en az yarısını... teftiş eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın devir ve teftiş süreciyle ilgili olarak bildirim yükümlülükleri aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Teftişe çıkmadan önce valiyi haberdar eder, sonuçları ise sözlü olarak iletir.",
+                "B": "Sadece teftiş sonucunu bir raporla valiye bildirir.",
+                "C": "Teftişe çıkmadan önce ve sonra durumu İçişleri Bakanlığına raporlar.",
+                "D": "Teftişe çıkmadan önce valiyi haberdar eder ve teftiş sonucunu bir raporla valiye bildirir.",
+                "E": "Teftişe çıkmadan önce ve sonra durumu ilçe belediye başkanına bildirir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Devir ve teftişe çıkacağı zaman valiyi haberdar eder. Devir ve teftiş sonucunu bir raporla valiye bildirir.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın yıllık teftiş görevi kapsamında, ilçenin bucak ve köylerinin en az ne kadarını teftiş etmesi gerekmektedir?",
+            "secenekler": {
+                "A": "Tamamını",
+                "B": "En az üçte birini",
+                "C": "En az yarısını",
+                "D": "En az dörtte birini",
+                "E": "Valinin belirleyeceği kadarını"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Kaymakam, her yıl ilçenin bütün bucaklariyle köylerinin en az yarısını... teftiş eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın devir ve teftiş göreviyle ilgili bilgilendirme ve raporlama yükümlülükleri hangi makama karşıdır?",
+            "secenekler": {
+                "A": "Teftiş öncesi valiyi haberdar eder, sonuçları İçişleri Bakanlığına raporlar.",
+                "B": "Hem teftiş öncesi bilgilendirmeyi hem de sonuç raporunu ilçe idare kuruluna yapar.",
+                "C": "Teftiş öncesi valiyi haberdar eder, teftiş sonucunu da bir raporla valiye bildirir.",
+                "D": "Sadece teftiş sonuçlarını bir raporla valiye bildirir.",
+                "E": "Sadece teftişe çıkacağı zaman valiyi haberdar eder."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Devir ve teftişe çıkacağı zaman valiyi haberdar eder.' ve 'Devir ve teftiş sonucunu bir raporla valiye bildirir.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın devir ve teftiş süreçleriyle ilgili olarak;\n\nI. Teftişe çıkmadan önce valiyi haberdar etmesi\nII. Teftiş sonucunu bir raporla doğrudan İçişleri Bakanlığına bildirmesi\nIII. Teftiş sırasında halkın dilek ve ihtiyaçlarını yerinde gözden geçirmesi\n\nyükümlülüklerinden hangisi veya hangileri bulunmaktadır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 36'ya dayanmaktadır. Maddeye göre kaymakam, teftişe çıkmadan valiyi haberdar eder (I) ve halkın dilek ve ihtiyaçlarını gözden geçirir (III). Ancak teftiş sonucunu valiye bildirir, İçişleri Bakanlığına değil. Bu nedenle II. öncül yanlıştır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakam her yıl ilçenin bütün bucaklarıyla köylerinin en az ne kadarını teftiş etmekle yükümlüdür?",
+            "secenekler": {
+                "A": "Dörtte birini",
+                "B": "Üçte birini",
+                "C": "Yarısını",
+                "D": "Dörtte üçünü",
+                "E": "Tamamını"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Kaymakam, her yıl ilçenin bütün bucaklariyle köylerinin en az yarısını ve ilçe içindeki teşkilatı teftiş eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçe idare şube başkanları, kendi dairelerine tevdi edilmiş olan görevlerin sürat ve intizam dahilinde görülmesinden doğrudan doğruya kime karşı sorumludur?",
+            "secenekler": {
+                "A": "Valiye",
+                "B": "İçişleri Bakanına",
+                "C": "İl genel meclisine",
+                "D": "Kaymakama",
+                "E": "Vali yardımcısına"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen 'İlçe idare şube başkanları...görevlerin sürat ve intizam dahilinde görülmesinden doğrudan doğruya kaymakama karşı sorumludur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçe idare şube başkanlarının kaymakama karşı mükellefiyetleri ile ilgili olarak;\n\nI. Verilen emirleri yerine getirmek\nII. Tevdi edilen işler hakkında mütalaalarını zamanında bildirmek\nIII. Kendi şubesinin bütçesini hazırlayıp doğrudan valiliğe sunmak\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 37'de ilçe idare şube başkanlarının mükellefiyetleri olarak 'kaymakam tarafından verilen emirleri yerine getirmek' ve 'tevdi edilen işler hakkında gereken tetkikleri yaparak mütalaalarını zamanında bildirmek' sayılmıştır. Bütçe hazırlayıp valiliğe sunma görevi bu maddede belirtilmemiştir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir idare şube başkanının, kaymakam tarafından verilen bir emri mevzuata aykırı bulması ve kaymakamın bu emrinde ısrar etmesi durumunda, kaymakamın atması gereken adımlar aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Emri sözlü olarak tekrarlamak ve durumu İçişleri Bakanlığına bildirmek.",
+                "B": "Konuyu görüşülmek üzere il idare kuruluna sevk etmek.",
+                "C": "Emrin uygulanmasını valilikten cevap gelinceye kadar durdurmak.",
+                "D": "Emri yazılı olarak vermek ve durumu valiye bildirmek.",
+                "E": "Emri geri çekerek durumu valiye bir raporla sunmak."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Kaymakam, işin mevzuata uygun bulunduğunda ısrar ederse yazılı olarak emir verir ve aynı zamanda keyfiyeti valiye de bildirir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir idare şube başkanının mevzuata aykırı bulduğu bir emirde kaymakamın yazılı olarak ısrar etmesi ve durumu valiye bildirmesi halinde, valilikten cevap gelinceye kadar söz konusu emirle ilgili nasıl bir işlem yapılır?",
+            "secenekler": {
+                "A": "Emrin uygulanması derhal durdurulur.",
+                "B": "Emir, idare şube başkanının sorumluluğu altında uygulanır.",
+                "C": "Emir, kaymakamın sorumluluğu altında uygulanır.",
+                "D": "Konu hakkında müfettiş görevlendirilmesi istenir.",
+                "E": "Emrin uygulanması için il idare kurulunun kararı beklenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Cevap gelinceye kadar kaymakamın emri sorumluluğu altında uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın mevzuata aykırı olduğu iddia edilen bir emrinde ısrar etmesi ve durumu valiye bildirmesi halinde, validen cevap gelinceye kadar bu emrin uygulanmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Emir, validen cevap gelinceye kadar uygulanmaz.",
+                "B": "Emir, sorumluluk idare şube başkanına ait olmak üzere uygulanır.",
+                "C": "Emir, sorumluluk valiye ait olmak üzere uygulanır.",
+                "D": "Emir, sorumluluk kaymakama ait olmak üzere uygulanır.",
+                "E": "Emir, müşterek sorumlulukla derhal uygulanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Cevap gelinceye kadar kaymakamın emri sorumluluğu altında uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın mevzuata uygunluğunda ısrar ederek yazılı olarak verdiği ve valiye de bildirdiği bir emir, validen cevap gelinceye kadar nasıl bir işleme tabi tutulur?",
+            "secenekler": {
+                "A": "Valinin onayı beklendiği için uygulanması durdurulur.",
+                "B": "İdare şube başkanının sorumluluğu altında uygulanır.",
+                "C": "Kaymakamın sorumluluğu altında uygulanır.",
+                "D": "Uygulanır ancak hukuki sonuçları askıya alınır.",
+                "E": "Sorumluluk, kaymakam ve idare şube başkanı arasında paylaştırılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Cevap gelinceye kadar kaymakamın emri sorumluluğu altında uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın, mevzuatın uygulanmasından doğan şikayetler karşısındaki görevi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Şikayetleri yalnızca dinleyerek valiliğe rapor etmek.",
+                "B": "Şikayetleri dinleyip gerekli tedbirleri almak ve emirleri vermek.",
+                "C": "Sadece kanunların uygulanmasından doğan şikayetleri incelemek.",
+                "D": "Şikayetleri çözüm için il idare kuruluna sevk etmek.",
+                "E": "Şikayet sahiplerini adli makamlara yönlendirmek."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen 'Kaymakam, ... şikayetleri dinler, gerekli tedbirleri alır ve emirleri verir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın çeşitli işler ve kanunların tatbikatı üzerinde görüşmek üzere heyet halinde yaptığı toplantı çağrısına gelinmemesinin sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kınama cezası ile tecziye edilme",
+                "B": "Bir sonraki toplantıya katılımın zorunlu tutulması",
+                "C": "Durumun valiliğe bildirilerek soruşturma açılması",
+                "D": "Vazifeden kaçınma sayılma",
+                "E": "Mazeretsiz bir günlük devamsızlık olarak işlem görme"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Toplantılar için yapılan çağrıya gelmemek vazifeden kaçınma sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın lüzum görmesi üzerine düzenlediği toplantılar için yapılan çağrıya uyulmamasının sonucu nedir?",
+            "secenekler": {
+                "A": "İdari para cezası uygulanması",
+                "B": "Görevin askıya alınması",
+                "C": "Vazifeden kaçınma sayılması",
+                "D": "Valiye şikayet edilmesi",
+                "E": "Disiplin soruşturması açılması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Toplantılar için yapılan çağrıya gelmemek vazifeden kaçınma sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın başkanlığında yapılan toplantılarda alınan kararlar hangi makama bildirilir?",
+            "secenekler": {
+                "A": "İçişleri Bakanlığına",
+                "B": "Belediye Başkanına",
+                "C": "İlgili idare şube başkanlarına",
+                "D": "Valiye",
+                "E": "Bucak Müdürüne"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Toplantıda alınan kararlar valiye bildirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın lüzum görmesi üzerine topladığı heyetin aldığı kararlar aşağıdakilerden hangisine bildirilir?",
+            "secenekler": {
+                "A": "İçişleri Bakanına",
+                "B": "Belediye Başkanına",
+                "C": "Valiye",
+                "D": "Bucak Müdürüne",
+                "E": "Cumhuriyet Savcısına"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 40'ta yer alan 'Toplantıda alınan kararlar valiye bildirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakamın lüzum görmesi halinde ilçe idare şube başkanları ve diğer memurlarla yaptığı toplantıda alınan kararlar hangi makama bildirilir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanlığına",
+                "B": "Valiye",
+                "C": "İçişleri Bakanlığına",
+                "D": "Belediye başkanına",
+                "E": "Ticaret odası başkanına"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Toplantıda alınan kararlar valiye bildirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kaymakam lüzum gördüğü zamanlarda kanunların tatbikatı üzerinde görüşmek üzere;\nI. İlçe idare şube başkanları\nII. Belediye başkanları\nIII. Ziraat odaları başkanları\n\nverilenlerden hangisini veya hangilerini heyet halinde toplayabilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Kaymakam, lüzum gördüğü zamanlarda ilçe idare şube başkanlariyle diğer memurları ve belediye ve ticaret ve ziraat odaları başkanlarını çeşitli işler ve kanunların tatbikatı üzerinde görüşmek üzere heyet halinde toplar.' hükmüne dayanmaktadır. Bu hüküm, listedeki tüm başkanları kapsamaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak idaresi ile ilgili olarak aşağıda verilen bilgilerden hangisi veya hangileri doğrudur?\n\nI. Bucak, coğrafya ve ekonomi gibi unsurlar bakımından aralarında ilişki bulunan kasaba ve köylerden oluşur.\nII. Bucak müdürü, bucaktaki Cumhuriyet Bayramı törenlerine başkanlık yapar ve tebrikleri kabul eder.\nIII. Kaymakamlar, bucağa ait tüm işleri doğrudan doğruya valiliğe yazarak bildirir.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 41'deki bucak tanımı (I. öncül) ve Madde 42'deki bucak müdürünün Cumhuriyet Bayramı'ndaki görevi (II. öncül) hükümlerine dayanmaktadır. III. öncül yanlıştır çünkü Madde 42'ye göre kaymakamlar bucağa ait işleri doğrudan bucak müdürüne yazarlar."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir idare bölümü olan bucağın oluşturulmasında, onu meydana getiren kasaba ve köyler arasında aşağıdaki hususlardan hangisi veya hangileri bakımından bir münasebet bulunması aranır?\n\nI. Coğrafya\nII. Güvenlik\nIII. Nüfus yoğunluğu",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen 'Bucak; coğrafya, ekonomi, güvenlik ve mahalli hizmet bakımlarından aralarında münasebet bulunan kasaba ve köylerden meydana gelen bir idare bölümüdür.' hükmüne dayanmaktadır. Metinde coğrafya ve güvenlik şartları yer alırken, nüfus yoğunluğu belirtilmemiştir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir idare bölümü olan bucağın meydana gelmesinde aralarında ilişki aranan unsurlar aşağıdakilerden hangisinde tam olarak verilmiştir?",
+            "secenekler": {
+                "A": "Coğrafya, ekonomi ve güvenlik",
+                "B": "Coğrafya, ekonomi, güvenlik ve mahalli hizmetler",
+                "C": "Ekonomi, güvenlik ve idari hizmetler",
+                "D": "Coğrafya, nüfus, güvenlik ve mahalli hizmetler",
+                "E": "Güvenlik, mahalli hizmetler ve siyasi yapı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 41'de yer alan 'Bucak; coğrafya, ekonomi, güvenlik ve mahalli hizmet bakımlarından aralarında münasebet bulunan kasaba ve köylerden meydana gelen bir idare bölümüdür.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir idare bölümü olan bucağın meydana gelmesinde, ilgili kasaba ve köyler arasında aranan münasebetin dayandığı unsurlardan biri aşağıdakilerden hangisi değildir?",
+            "secenekler": {
+                "A": "Coğrafya",
+                "B": "Ekonomi",
+                "C": "Güvenlik",
+                "D": "Siyasi",
+                "E": "Mahalli hizmet"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 41'de bucağın tanımı yapılırken sayılan 'coğrafya, ekonomi, güvenlik ve mahalli hizmet' unsurları arasında 'siyasi' unsurun yer almamasına dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak aşağıdaki idari birimlerden hangilerinin bir araya gelmesiyle oluşan bir idare bölümüdür?",
+            "secenekler": {
+                "A": "İl ve ilçelerden",
+                "B": "Sadece köylerden",
+                "C": "Kasaba ve köylerden",
+                "D": "Mahalle ve mezralardan",
+                "E": "Büyükşehir ve beldelerden"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 41'de yer alan 'Bucak; ... kasaba ve köylerden meydana gelen bir idare bölümüdür.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir bucağı oluşturan kasaba ve köyler arasındaki münasebetin dayandığı unsurlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Coğrafya",
+                "B": "Ekonomi",
+                "C": "Güvenlik",
+                "D": "Siyasi",
+                "E": "Mahalli hizmet"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 41'de bucağın oluşumundaki münasebet unsurları 'coğrafya, ekonomi, güvenlik ve mahalli hizmet' olarak sayılmış olup, bu tanımda 'siyasi' bir unsur bulunmamaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürünün disiplin amiri olarak yetkileriyle ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Gözetimi altındaki memurlara savunma almaksızın uyarma cezası verebilir.",
+                "B": "Adli ve askeri teşkilat memurlarına da uyarma cezası verebilir.",
+                "C": "Verdiği uyarma cezası kesindir ve tebliğ tarihinden itibaren sicile geçer.",
+                "D": "Memurlara uyarma cezasından daha ağır disiplin cezalarını doğrudan verebilir.",
+                "E": "Takdirname verme yetkisi doğrudan kendisine aittir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen '...savunmalarını aldıktan sonra uyarma cezası verir ve uygular. Bu ceza kesindir ve tebliğ tarihinden itibaren sicile geçer.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi bucak müdürünün gözetim ve teftişi altında bulunan idarelerden biri değildir?",
+            "secenekler": {
+                "A": "Bucaktaki belediye idareleri",
+                "B": "Bucaktaki askeri teşkilat",
+                "C": "Bucaktaki köy idareleri",
+                "D": "Bucak teşkilatına dahil daireler",
+                "E": "Bucak teşkilatına dahil müesseseler"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen '...adli ve askeri teşkilat dışında kalan bucak teşkilatına dahil daire ve müesseseler, belediye ve köy idareleri bucak müdürünün gözetim ve teftişi altındadır' hükmüne dayanmaktadır. Bu hüküm, askeri teşkilatın bucak müdürünün gözetimi dışında olduğunu açıkça belirtir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürünün, gözetim ve teftişi altında bulunan daire ve müesseselerdeki memurlara, usulüne göre savunmalarını aldıktan sonra doğrudan verebileceği disiplin cezası aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Aylıktan kesme",
+                "B": "Kınama",
+                "C": "Uyarma",
+                "D": "Kademe ilerlemesinin durdurulması",
+                "E": "Görevden uzaklaştırma"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen '...savunmalarını aldıktan sonra uyarma cezası verir ve uygular. Bu ceza kesindir...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürünün, bucaktaki genel ve özel kolluk kuvvetleri üzerindeki yetkisi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Sadece idari işlerini denetlemek",
+                "B": "Yalnızca kaymakam aracılığıyla emir verebilmek",
+                "C": "Bu kuvvetler müdürün emri altındadır ve emri yerine getirmekle yükümlüdürler",
+                "D": "Sadece olağanüstü hallerde emir verebilmek",
+                "E": "İşbirliği ve koordinasyon talebinde bulunmak"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen 'Genel ve özel kolluk kuvvetleri bucak müdürünün emri altındadır. Bunlar müdürden aldıkları emri yerine getirmeye mecburdurlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, genel ve özel kolluk kuvvetleri bucakta kime karşı sorumludur ve emirlerini yerine getirmekle yükümlüdür?",
+            "secenekler": {
+                "A": "Vali",
+                "B": "Kaymakam",
+                "C": "Bucak müdürü",
+                "D": "Belediye başkanı",
+                "E": "İlçe jandarma komutanı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen 'Genel ve özel kolluk kuvvetleri bucak müdürünün emri altındadır. Bunlar müdürden aldıkları emri yerine getirmeye mecburdurlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürünün silahlı ayaklanma gibi kamu düzenini bozan olaylar karşısında alması gereken tedbirler arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Kolluk kuvvetlerini harekete geçirmek\nII. Kaymakamı haberdar ederek yardım istemek\nIII. Kaymakamdan onay almadan hiçbir tedbir almamak",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen '...bucak müdürü lüzumlu tedbirleri almak ve kolluk kuvvetlerini harekete getirmekle beraber kaymakamı haberdar eder ve yardım ister.' hükmüne dayanmaktadır. Bu hüküm, I ve II numaralı öncüllerin doğru olduğunu, III numaralı öncülün ise yanlış olduğunu göstermektedir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürünün görevleriyle ilgili olarak;\n\nI. Su baskını gibi bir afette durumu kaymakama bildirmekle beraber gerekli tedbirleri alır.\nII. Kanunların uygulanmasına karşı koyma gibi durumlarda kolluk kuvvetlerini harekete geçirir ve kaymakamdan yardım ister.\nIII. Deprem gibi bir afette, sadece durumu kaymakama bildirmekle yetinir, tedbir alma yetkisi yoktur.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 44'e dayanmaktadır. I. öncül 'su baskını...afetlerde keyfiyeti kaymakama bildirmekle beraber...bütün tedbirleri alır' hükmüyle, II. öncül ise '...karşı koymak gibi hallerde...lüzumlu tedbirleri almak ve kolluk kuvvetlerini harekete getirmekle beraber kaymakamı haberdar eder ve yardım ister' hükmüyle doğrudur. III. öncül ise 'deprem gibi afetlerde...bütün tedbirleri alır' hükmü gereği yanlıştır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürü; su baskını, kıtlık veya yangın gibi bir afet durumunda nasıl hareket etmelidir?",
+            "secenekler": {
+                "A": "Durumu derhal valiliğe bildirerek talimat bekler.",
+                "B": "Sadece durumun gerektirdiği tedbirleri alır ve sonrasında kaymakama bilgi verir.",
+                "C": "Keyfiyeti kaymakama bildirmekle birlikte, hal ve vaziyetin gerektirdiği bütün tedbirleri alır ve uygular.",
+                "D": "En yakın idare amirinden yardım talep eder.",
+                "E": "Kolluk kuvvetlerini harekete geçirerek İçişleri Bakanlığı'nı haberdar eder."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Bucak müdürü, su baskını, kıtlık, yangın deprem gibi afetlerde keyfiyeti kaymakama bildirmekle beraber hal ve vaziyetin icabettirdiği bütün tedbirleri alır ve uygular.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürünün bucağın bütün köy ve kasabalarını dolaşma zorunluluğunun asgari sıklığı nedir?",
+            "secenekler": {
+                "A": "Altı ayda bir",
+                "B": "İki yılda bir",
+                "C": "Her yıl en az bir kere",
+                "D": "Üç ayda bir",
+                "E": "Kaymakamın talimatıyla"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'Bucak müdürü, her yıl bucağın bütün köy ve kasabalarını en az birer kere dolaşarak...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürü, yıllık gezileri sırasında halktan aldığı ve kendi yetkisi dışında kalan müracaat ve şikayetlerle ilgili olarak nasıl bir yol izlemelidir?",
+            "secenekler": {
+                "A": "Doğrudan valiliğe rapor etmelidir",
+                "B": "İlgili bakanlığa yazı yazmalıdır",
+                "C": "Kaymakama bildirmelidir",
+                "D": "Bir sonraki yılın gündemine almalıdır",
+                "E": "Çözümü için halk oylaması yapmalıdır"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen '...yetkileri içindeki işleri yapar ve yapamadıklarını kaymakama bildirir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürünün görevleriyle ilgili olarak, halkın şikayetlerini dinledikten sonra yetkisi dışındaki işleri bildirmekle yükümlü olduğu makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Vali",
+                "B": "Kaymakam",
+                "C": "İçişleri Bakanı",
+                "D": "Belediye Başkanı",
+                "E": "İl Genel Meclisi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen '...yetkileri içindeki işleri yapar ve yapamadıklarını kaymakama bildirir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, nahiye müdürleri hangi makam tarafından valilikler emrine tayin olunurlar?",
+            "secenekler": {
+                "A": "Cumhurbaşkanınca",
+                "B": "Valilikçe",
+                "C": "İçişleri Vekaletince",
+                "D": "Kaymakamlıkça",
+                "E": "Adalet Bakanlığınca"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'Nahiye müdürleri İçişleri Vekaletince ... valilikler emrine tayin olunurlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, nahiye müdürlerinin atanması hangi makam tarafından ve nereye yapılır?",
+            "secenekler": {
+                "A": "Vali tarafından kaymakamlıklar emrine",
+                "B": "Kaymakam tarafından valilikler emrine",
+                "C": "İçişleri Bakanlığınca valilikler emrine",
+                "D": "Cumhurbaşkanınca doğrudan bucaklara",
+                "E": "İçişleri Bakanlığınca kaymakamlıklar emrine"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'Nahiye müdürleri İçişleri Vekaletince ... valilikler emrine tayin olunurlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilk defa bucak müdürü olabilmek için aranan yaş ve askerlik durumuyla ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bilfiil askerlik hizmetini bitirmiş ve yaşı 35'i geçmemiş olmak",
+                "B": "Askerlik hizmetinden muaf olmak ve yaşı 30'u geçmemiş olmak",
+                "C": "Askerlik hizmetini tecil ettirmiş olmak ve yaşı 25'ten büyük olmak",
+                "D": "Bilfiil askerlik hizmetini bitirmiş ve yaşı 30'u geçmemiş olmak",
+                "E": "Askerlik durumu aranmamakla birlikte yaşının 30'u geçmemiş olması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen 'Bilfiil askerlik hizmetini bitirmiş ve yaşı 30 u geçmemiş olmak' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilk defa bucak müdürü olacak bir adayın sağlık durumunun uygunluğu hangi kurum tarafından ve ne şekilde tasdik edilmelidir?",
+            "secenekler": {
+                "A": "Aile hekimince, genel sağlık durumunun iyi olduğunun belgelenmesiyle",
+                "B": "İl sağlık müdürlüğünce, bulaşıcı bir hastalığı olmadığının raporlanmasıyla",
+                "C": "Hastaneler sağlık kurullarınca,vücutça sağlam olmakla beraber memleketin her ikliminde vazife görmeye ve her vasıta ile dolaşmaya kabiliyetli olduğunun tasdik edilmesiyle",
+                "D": "Tam teşekküllü bir devlet hastanesi başhekimince, seyahat engelinin bulunmadığının onaylanmasıyla",
+                "E": "Sağlık Bakanlığı tarafından, akıl sağlığının yerinde olduğunun tespit edilmesiyle"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen 'vücutça sağlam olmakla beraber memleketin her ikliminde vazife görmeye ve her vasıta ile dolaşmaya kabiliyetli oldukları hastaneler sağlık kurullarınca tasdik edilmiş bulunmak' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilk defa bucak müdürü olabilmek için aranan şartlarla ilgili olarak aşağıdakilerden hangisi veya hangileri doğrudur?\n\nI. Yaşının 30'u geçmemiş olması\nII. En az lise veya bu dereceli okul mezunu olmak\nIII. En az üç yıl kamu hizmetinde bulunmuş olmak",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 48'de ilk defa bucak müdürü olabilmek için aranan şartlar arasında 'En az lise veya bu dereceli okul mezunu olmak' ve 'yaşı 30 u geçmemiş olmak' hükümlerinin yer almasına dayanmaktadır. Metinde kamu hizmeti süresine ilişkin bir şart belirtilmemiştir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilk defa bucak müdürü olabilmek için aranan şartlar arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. En az lise veya bu dereceli okul mezunu olmak\nII. Bilfiil askerlik hizmetini bitirmiş olmak\nIII. Vücutça sağlam olduğunu ve her iklimde görev yapabileceğini hastaneler sağlık kurullarından alınacak raporla belgelemek",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen tüm şartların (En az lise mezunu olmak, askerliği bitirmiş olmak ve sağlık kurulu raporu) doğru olarak sıralandığı hükümlere dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilk defa bucak müdürü olacak bir kişinin yaşının en fazla kaçı geçmemiş olması gerekmektedir?",
+            "secenekler": {
+                "A": "25",
+                "B": "30",
+                "C": "35",
+                "D": "40",
+                "E": "45"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen '...yaşı 30 u geçmemiş olmak...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilk defa bucak müdürü olacakların, memleketin her ikliminde görev yapmaya ve her vasıta ile dolaşmaya kabiliyetli olduklarının hangi merci tarafından tasdik edilmesi gerekmektedir?",
+            "secenekler": {
+                "A": "İl sağlık müdürlüğü",
+                "B": "İçişleri Bakanlığı sağlık dairesi",
+                "C": "Hastaneler sağlık kurulları",
+                "D": "Aile hekimi",
+                "E": "Valilikçe görevlendirilen tek hekim"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 48'de yer alan '...kabiliyetli oldukları hastaneler sağlık kurullarınca tasdik edilmiş bulunmak lazımdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilk defa bucak müdürü olabilmek için;\n\nI. En az lise veya bu dereceli okul mezunu olmak\nII. Bilfiil askerlik hizmetini bitirmiş olmak\nIII. Yaşı 35'i geçmemiş olmak\n\nşartlarından hangisini veya hangilerinin taşınması gerekmektedir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 48'de ilk defa bucak müdürü olma şartları arasında 'En az lise veya bu dereceli okul mezunu olmak' ve 'Bilfiil askerlik hizmetini bitirmiş olmak' sayılmış, yaş şartı ise 'yaşı 30 u geçmemiş olmak' şeklinde belirtilmiştir. Bu nedenle III. öncül yanlıştır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, nahiye müdürlüğü adaylığına tayin edilenlerin, meslek kursuna katılmadan önce bakanlığın merkez veya vilayetler teşkilatında istihdam edilecekleri süre ne kadardır?",
+            "secenekler": {
+                "A": "3 ay",
+                "B": "6 ay",
+                "C": "9 ay",
+                "D": "1 yıl",
+                "E": "2 yıl"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen '...İçişleri Vekaletince nahiye müdürlüğü adaylığına tayin olunarak Vekaletin merkez ve vilayetler teşkilatında 6 ay süre ile istihdam olunurlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, adaylık devresinde kifayeti tasdik edilmeyen veya katıldığı meslek kursunda başarı gösteremeyen nahiye müdürü adayları hakkında uygulanacak işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Adaylık süreleri bir defaya mahsus uzatılır.",
+                "B": "Bakanlıkta başka bir göreve atanırlar.",
+                "C": "Vazifelerine son verilir.",
+                "D": "Meslek kursunu tekrar etmeleri istenir.",
+                "E": "Daha düşük dereceli bir memuriyete atanırlar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen 'Gerek adaylık devresinde kifayeti tasdik edilmiyenler, gerek adaylığını bitirip de kursta başarı gösteremiyenler nahiye müdürlüğüne tayin edilmiyerek vazifelerine son verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, nahiye müdürlüğü adaylarından yeterlilikleri tasdik edilenlerin katıldığı meslek kursunun süresi ne kadardır?",
+            "secenekler": {
+                "A": "3 ay",
+                "B": "6 ay",
+                "C": "9 ay",
+                "D": "Bir yıldır",
+                "E": "İki yıldır"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen 'Kurs süresi bir yıldır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, gerekli vasıfları taşıyanları nahiye müdürlüğü adaylığına tayin etme yetkisi hangi makama aittir?",
+            "secenekler": {
+                "A": "Vali",
+                "B": "Kaymakam",
+                "C": "İçişleri Vekaleti",
+                "D": "Bucak Meclisi",
+                "E": "İlgili Bakanlıklar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen '...vasıfları ve Memurlar Kanununun tesbit ettiği diğer şartları haiz olanlar İçişleri Vekaletince nahiye müdürlüğü adaylığına tayin olunurlar...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, adaylık devresinde kifayetleri tasdik edilenlerin katıldığı İçişleri Vekaleti Meslek Kursu'nun süresi ne kadardır?",
+            "secenekler": {
+                "A": "3 ay",
+                "B": "6 ay",
+                "C": "9 ay",
+                "D": "Bir yıl",
+                "E": "İki yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen '...İçişleri Vekaleti Meslek Kursuna iştirak ettirilir. ... Kurs süresi bir yıldır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi bucak müdürlüğü için belirlenmiş aylık sınıflarından biri değildir?",
+            "secenekler": {
+                "A": "30 lira aylıklı",
+                "B": "40 lira aylıklı",
+                "C": "45 lira aylıklı",
+                "D": "50 lira aylıklı",
+                "E": "60 lira aylıklı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 50'de bucak müdürlüğü aylık sınıflarının 25, 30, 35, 40, 50, 60 lira aylıklı olarak sayıldığı, 45 lira aylıklının bu sınıflar arasında yer almadığı hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürlüğü kaç sınıftan oluşmaktadır?",
+            "secenekler": {
+                "A": "Dört",
+                "B": "Beş",
+                "C": "Altı",
+                "D": "Yedi",
+                "E": "Sekiz"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 50'de belirtilen 'Bucak müdürlüğü ... altı sınıftır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucaklarda ihtiyaca göre görevlendirilen çeşitli memurlar, hangi makam tarafından ve kimin emrine gönderilir?",
+            "secenekler": {
+                "A": "Valilikler tarafından kaymakamlıklar emrine",
+                "B": "Bakanlıklar tarafından valilikler emrine",
+                "C": "Kaymakamlıklar tarafından bucak müdürlükleri emrine",
+                "D": "Bakanlıklar tarafından doğrudan bucak müdürlükleri emrine",
+                "E": "İçişleri Bakanlığı tarafından kaymakamlıklar emrine"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 51'de belirtilen 'Bucaklarda, Bakanlıklar tarafından ihtiyaca göre valilikler emrine gönderilen...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucaklarda görevlendirilecek tarım memurunun, en az hangi nitelikte bir teknisyen olması gerektiği hükme bağlanmıştır?",
+            "secenekler": {
+                "A": "Meslek yüksekokulu mezunu",
+                "B": "Teknik lise mezunu",
+                "C": "Ziraat fakültesi mezunu",
+                "D": "Sanat enstitüsü veya yapı usta okulu mezunu",
+                "E": "Üniversitelerin ilgili mühendislik bölümü mezunu"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 51'de tarım memuru için belirtilen '(en az sanat enstitüsü veya yapı usta okulu mezunu teknisyen)' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucaklarda ihtiyaca göre bulundurulabilecek görevliler arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Veteriner\nII. Fen memuru\nIII. Nüfus katibi",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 51'de bucaklarda bulunacak görevliler arasında 'veteriner', 'fen memuru' ve 'nüfus katibi' sayıldığı için 'I, II ve III' seçeneğidir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucaklarda görevlendirilebilecek tarım memurlarının sahip olması gereken en az eğitim düzeyi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Ziraat fakültesi mezunu",
+                "B": "Tarım meslek lisesi mezunu",
+                "C": "Sanat enstitüsü veya yapı usta okulu mezunu teknisyen",
+                "D": "Meslek yüksekokulu mezunu",
+                "E": "Lise veya dengi okul mezunu"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 51'de belirtilen 'tarım memuru (en az sanat enstitüsü veya yapı usta okulu mezunu teknisyen)' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucaklarda ihtiyaca göre valilikler emrine gönderilebilecek görevliler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Gezici doktor",
+                "B": "Fen memuru",
+                "C": "Sağlık memuru",
+                "D": "Nüfus katibi",
+                "E": "Maliye memuru"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 51'de bucaklarda bulunabilecek görevliler listesinde gezici doktor, fen memuru, sağlık memuru ve nüfus katibinin sayılmasına karşın maliye memurunun yer almamasına dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak meclisine seçilen üyelerin görev süresi kaç yıldır ve yeniden seçilebilirler mi?",
+            "secenekler": {
+                "A": "2 yıl olup yeniden seçilmeleri mümkün değildir.",
+                "B": "4 yıl olup yeniden seçilmeleri mümkün değildir.",
+                "C": "4 yıl olup yeniden seçilmeleri mümkündür.",
+                "D": "5 yıl olup yeniden seçilmeleri mümkündür.",
+                "E": "5 yıl olup yeniden seçilmeleri mümkün değildir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen 'Meclise seçilen üyelerin görevleri dört yıl sürer, yeniden seçilmeleri caizdir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi veya hangileri bucak meclisinin tabii üyelerindendir?\n\nI. Bucağın sabit veya gezici doktoru\nII. Bucak müdürü\nIII. Sabit ve gezici başöğretmenler",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen 'Bucağın sabit veya gezici doktoru... sabit ve gezici başöğretmenleri meclisin tabii üyeleridirler.' hükmüne dayanmaktadır. Aynı maddede bucak müdürünün meclise başkanlık edeceği belirtilmiş olup, tabii üye olarak sayılmamıştır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre;\nI. Bucağın veterineri\nII. Bucak müdürü\nIII. Bucağın sabit veya gezici başöğretmenleri\nyukarıdakilerden hangisi veya hangileri bucak meclisinin tabii üyeleri arasında sayılmıştır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen '...veterineri, ...sabit ve gezici başöğretmenleri meclisin tabii üyeleridirler.' hükmüne dayanmaktadır. Aynı maddede bucak müdürü, meclisin başkanı olarak belirtilmiş olup tabii üyeler arasında sayılmamıştır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi bucak meclisinin tabii üyeleri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Bucağın veterineri",
+                "B": "Ziraat muallimi",
+                "C": "Bucak müdürü",
+                "D": "Sabit ve gezici başöğretmenler",
+                "E": "Doktoru olmayan yerlerde sağlık memurları"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen 'bucak müdürünün başkanlığında bir bucak meclisi ... bulunur' hükmüne dayanmaktadır. Bucak müdürü meclisin başkanıdır, tabii üyesi değildir. Tabii üyeler metinde ayrıca sayılmıştır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir bucakta kasaba ve köy adedi 12'den az olduğunda, meclise seçilen üye sayısıyla ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Üye sayısı kasaba ve köy adedine eşit olur.",
+                "B": "Meclis o yıl için toplanamaz.",
+                "C": "Üye sayısı vali tarafından belirlenir.",
+                "D": "Her kasaba ve köy ikişer üye seçer.",
+                "E": "Meclise seçilen üye adedi 12'den az olamaz."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 52'de yer alan 'Kasaba ve köy adedi 12 den aşağı olursa meclise seçilen üye adedi 12 den az olmamak üzere kasaba ve köylerce eşit sayıda üye seçilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak müdürünün yanı sıra, lüzum görmeleri halinde bucak meclis ve komisyonlarına başkanlık edebilecek yetkililer aşağıdakilerden hangisinde tam ve doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Sadece Vali",
+                "B": "Sadece Kaymakam",
+                "C": "Vali ve Kaymakam",
+                "D": "Kaymakam ve Belediye Başkanı",
+                "E": "Vali ve İçişleri Bakanlığı Temsilcisi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 52'de yer alan 'Vali ve kaymakamlar, il ve ilçe merkez bucağının meclis ve komisyonlarına başkanlık edecekleri gibi ilçeye bağlı bucakların meclis ve komisyonlarına da lüzum gördükleri hallerde başkanlık edebilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak meclisinin olağan toplantı zamanı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Yılda bir defa Ocak ayının başında",
+                "B": "Yılda iki defa Mart ve Eylül aylarında",
+                "C": "Yılda bir defa Ekim ayının başında",
+                "D": "Altı ayda bir Nisan ve Ekim aylarında",
+                "E": "Yılda bir defa Temmuz ayının sonunda"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 53'te belirtilen 'Bucak meclisi yılda bir defa Ekim ayının başında toplanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak meclisi toplantılarının süresini belirleme yetkisi kime aittir?",
+            "secenekler": {
+                "A": "Valiye",
+                "B": "Kaymakama",
+                "C": "Bucak meclisine",
+                "D": "Bucak müdürüne",
+                "E": "İl idare kuruluna"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 53'te belirtilen 'Toplantı süresini meclis belirtir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak meclisi yıllık olağan toplantısını hangi ayda yapar?",
+            "secenekler": {
+                "A": "Ocak ayının başında",
+                "B": "Nisan ayının başında",
+                "C": "Temmuz ayının başında",
+                "D": "Ekim ayının başında",
+                "E": "Aralık ayının başında"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 53'te belirtilen 'Bucak meclisi yılda bir defa Ekim ayının başında toplanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak komisyonu ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bucak meclisi tarafından iki yıllığına seçilen beş üyeden oluşur.",
+                "B": "Başkanı kaymakamdır ve en az iki ayda bir toplanır.",
+                "C": "Bucak meclisi tarafından bir yıl süre ile kendi üyeleri arasından seçilen dört üyeden oluşur.",
+                "D": "Üyeleri valilik tarafından atanır ve yılda bir kez toplanır.",
+                "E": "Başkanı bucak doktorudur ve toplantı zamanını kendisi belirler."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 54'te belirtilen 'Bucak meclisi, bir yıl süre ile kendi üyeleri arasından dört üyeden müteşekkil bir bucak komisyonu seçer.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak komisyonu kaç üyeden oluşur ve ne kadar süreliğine seçilir?",
+            "secenekler": {
+                "A": "Beş üyeden oluşur ve iki yıl süreyle seçilir.",
+                "B": "Dört üyeden oluşur ve bir yıl süreyle seçilir.",
+                "C": "Dört üyeden oluşur ve dört yıl süreyle seçilir.",
+                "D": "Beş üyeden oluşur ve bir yıl süreyle seçilir.",
+                "E": "Yedi üyeden oluşur ve iki yıl süreyle seçilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 54'te belirtilen 'Bucak meclisi, bir yıl süre ile kendi üyeleri arasından dört üyeden müteşekkil bir bucak komisyonu seçer.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak meclisi tarafından bir yıl süre ile seçilen bucak komisyonunun başkanı kimdir?",
+            "secenekler": {
+                "A": "Bucak meclisi başkanı",
+                "B": "Kaymakam",
+                "C": "Komisyonun kendi içinden seçtiği üye",
+                "D": "Bucak müdürü",
+                "E": "Vali tarafından atanan bir memur"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 54'te belirtilen 'Bu komisyonun başkanı bucak müdürüdür.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak komisyonu, bucak meclisinin toplantı halinde olmadığı zamanlarda meclis görevini yapmak üzere en az ne kadar sürede bir toplanır?",
+            "secenekler": {
+                "A": "On beş günde bir",
+                "B": "Ayda bir",
+                "C": "İki ayda bir",
+                "D": "Üç ayda bir",
+                "E": "Altı ayda bir"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 54'te belirtilen 'Bucak komisyonu, en az ayda bir kere toplanarak bucak meclisinin toplantı halinde olmadığı zamanlarda meclis görevini yapar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, fen ve ihtisaslarından faydalanmak üzere bucak meclislerinin talebiyle gönderilen Devlet veya özel idare memurlarının masrafları nereden karşılanır?",
+            "secenekler": {
+                "A": "İlgili bucak bütçesinden",
+                "B": "İlgili ilçe özel idare bütçesinden",
+                "C": "Devlet veya özel idare bütçesinden",
+                "D": "İçişleri Bakanlığı bütçesinden",
+                "E": "Büyükşehir belediyesi bütçesinden"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 55'te belirtilen '...gönderilecek Devlet, özel idare memurlarının her türlü masrafları Devlet veya özel idare bütçesinden ödenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak çevresindeki köy ve belediyelerin kendi aralarında kurdukları birliğin kuruluşu, aşağıdakilerden hangisinin onayıyla tamamlanır?",
+            "secenekler": {
+                "A": "Kaymakam",
+                "B": "Vali",
+                "C": "Bucak Müdürü",
+                "D": "Belediye Başkanı",
+                "E": "İçişleri Bakanı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 56'da belirtilen 'Bu suretle birliğin kuruluşu valinin tasdikıyla tamamlanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak çevresindeki köy ve belediyelerin mahalli müşterek işler için kurdukları birliklerde icra vasıtası görevini aşağıdakilerden hangisi yapar?",
+            "secenekler": {
+                "A": "Vali",
+                "B": "Bucak meclisi",
+                "C": "Bucak müdürü",
+                "D": "Belediye başkanı",
+                "E": "Bucak komisyonu"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 56'da belirtilen '...bucak müdürleri de icra vasıtası görevini yaparlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bucak çevresindeki köylerle belediyeler arasında kurulan birliklerde, bucak meclis ve komisyonu hangi görevi üstlenir?",
+            "secenekler": {
+                "A": "İcra vasıtası görevini",
+                "B": "Birliğin bütçesini hazırlama görevini",
+                "C": "Birliğin tasdik makamı görevini",
+                "D": "Karar ve murakabe heyetleri görevini",
+                "E": "Üyelik seçimlerini yapma görevini"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 56'da belirtilen 'bucak meclis ve komisyonu bu birliğin karar ve murakabe heyetleri (...) görevini yaparlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valinin il idare kuruluna başkanlık etmek üzere görevlendirebileceği kişi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Vali muavini",
+                "B": "Hukuk işleri müdürü",
+                "C": "Defterdar",
+                "D": "Kurulun en kıdemli üyesi",
+                "E": "İl genel meclisi başkanı"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 57'de yer alan 'Vali, idare kuruluna başkanlık etmek üzere vali muavinini görevlendirebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali, il idare kuruluna başkanlık etmek üzere aşağıdaki görevlilerden hangisini görevlendirebilir?",
+            "secenekler": {
+                "A": "Hukuk işleri müdürünü",
+                "B": "Defterdarı",
+                "C": "Kurulun en yaşlı üyesini",
+                "D": "Vali muavinini",
+                "E": "Milli eğitim müdürünü"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 57'de yer alan 'Vali, idare kuruluna başkanlık etmek üzere vali muavinini görevlendirebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçe idare kuruluna kim başkanlık eder?",
+            "secenekler": {
+                "A": "Vali",
+                "B": "Kaymakam",
+                "C": "Malmüdürü",
+                "D": "Hükümet hekimi",
+                "E": "Belediye Başkanı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 58'de yer alan 'İlçe idare kurulu, kaymakamın başkanlığı altında ... teşekkül eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, aşağıdakilerden hangisi ilçe idare kurulunu oluşturan daimi üyeler arasında yer almaz?",
+            "secenekler": {
+                "A": "Tahrirat katibi",
+                "B": "Malmüdürü",
+                "C": "Nüfus müdürü",
+                "D": "Milli eğitim memuru",
+                "E": "Veteriner"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 58'de ilçe idare kurulunu oluşturan üyeler arasında 'Nüfus müdürü'nün sayılmamış olmasına dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, ilçe idare kurulu ile ilgili olarak;\nI. Kurulun başkanı kaymakamdır.\nII. Hükümet hekimi kurulun üyelerindendir.\nIII. Defterdar, kurulun üyelerindendir.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 58'de ilçe idare kurulunun kaymakamın başkanlığında toplandığı ve Hükümet hekiminin kurul üyesi olduğu belirtilmiştir. Defterdar ise Madde 57'ye göre il idare kurulu üyesidir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il veya ilçe idare kurullarına dahil olmayan idare şubelerinin başkanları, kendi idarelerine ait idari ve istişari işlerin görüşülmesi sırasındaki yetkileri ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece izleyici olarak katılırlar, söz hakları yoktur.",
+                "B": "Sadece gerekli izahatı verirler ancak oya katılamazlar.",
+                "C": "Görüşlerini yazılı olarak bildirirler, toplantıya katılmazlar.",
+                "D": "Üye sıfatıyla çağrılırlar, izahat verirler ve oya katılırlar.",
+                "E": "Danışman sıfatıyla katılırlar, oy hakları saklıdır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 59'da belirtilen 'üye sıfatiyle çağrılarak o iş hakkında gerekli izahatı verir ve oya katılırlar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, idare kurulları;\nI. İdari\nII. İstişari\nIII. Kazai\ntürlerinden hangisinde veya hangilerinde kararlar alabilirler?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 60'ta belirtilen 'İdare kurulları, idari, istişari ve kazai olmak üzere türlü karar alırlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, idare kurullarının idari yetkilerinin kaynağı aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Sadece kanunlar ve yönetmelikler",
+                "B": "Sadece Cumhurbaşkanlığı kararnameleri",
+                "C": "Vali ve kaymakamların talimatları",
+                "D": "Kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat",
+                "E": "Yalnızca Anayasa ve kanunlar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 60'ta belirtilen 'İdare kurullarının idari yetkileri kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuatla kendilerine verilen vazifelerdir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, idare kurullarının idari yetkileri hangi kaynaklar tarafından kendilerine verilen vazifelerden oluşur?",
+            "secenekler": {
+                "A": "Yalnızca kanunlar ve yönetmelikler",
+                "B": "Yalnızca Cumhurbaşkanlığı kararnameleri",
+                "C": "Kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat",
+                "D": "Yalnızca kanunlar",
+                "E": "Genelgeler ve tebliğler"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 60'ta belirtilen 'İdare kurullarının idari yetkileri kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuatla kendilerine verilen vazifelerdir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, idare kurullarının görüşme yapabilmesi için gereken asgari toplantı yeter sayısı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Mürettep üyenin beşte dördü",
+                "B": "Mürettep üyenin üçte ikisi",
+                "C": "Mürettep üyenin yarısından bir fazlası",
+                "D": "Mürettep üyenin tamamının katılımı",
+                "E": "Mürettep üyenin üçte biri"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 61'de belirtilen '...görüşmeleri mürettep üyenin yarısından bir fazlası hazır olmadıkça yapılamaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, idare kurulu görüşmelerinde oyların eşit çıkması durumunda hangi tarafın görüşü kabul edilmiş sayılır?",
+            "secenekler": {
+                "A": "Teklifin reddedildiği kabul edilir",
+                "B": "Başkanın bulunduğu taraf",
+                "C": "En kıdemli üyenin bulunduğu taraf",
+                "D": "Konu bir üst kurula havale edilir",
+                "E": "Oylama yenilenir"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 61'de yer alan 'Oyların eşitliği halinde başkanın bulunduğu taraf çokluk sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, idare kurulu toplantılarında oyların eşit çıkması durumunda nasıl bir usul izlenir?",
+            "secenekler": {
+                "A": "Konu bir sonraki toplantıya bırakılır.",
+                "B": "Başkanın bulunduğu tarafın görüşü kabul edilmiş sayılır.",
+                "C": "En kıdemli üyenin oyu çift sayılarak sonuç belirlenir.",
+                "D": "Oylama, tüm üyeler hazır olana kadar ertelenir.",
+                "E": "Konu, bir üst merci olan Danıştaya gönderilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 61'de belirtilen 'Oyların eşitliği halinde başkanın bulunduğu taraf çokluk sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idare kurullarında görülecek iptal davaları, kararların ilgiliye tebliği veya icrasından haberdar olma tarihinden itibaren en geç ne kadar süre içinde açılmalıdır?",
+            "secenekler": {
+                "A": "30 gün",
+                "B": "60 gün",
+                "C": "75 gün",
+                "D": "91 gün",
+                "E": "120 gün"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 62'de belirtilen 'Bu davalar, kararların hak veya menfaati haleldar olanlara tebliğ veya bunların icraya ıttılaı tarihinden itibaren 91 gün içinde açılmalıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, birinci derecede il idare kurulunda görülmesi gereken bir iptal davasının doğrudan Danıştayda açılması halinde yapılacak işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dava evrakının görevsizlik kararı ile ilgili il idare kuruluna gönderilmesi",
+                "B": "Davanın Danıştay tarafından esastan incelenerek karara bağlanması",
+                "C": "Davanın usulden reddedilerek davacıya iade edilmesi",
+                "D": "Davacıya davayı doğru mercide açması için kesin süre verilmesi",
+                "E": "Dava dosyasının yetkisizlik nedeniyle işlemden kaldırılması"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 62'de belirtilen 'Merci tecavüzü ile Danıştaya dava açıldığı takdirde dava evrakı vasifesizlik kararı ile ilgili il idare kuruluna tevdi olunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idare kurulunun görev alanına giren bir iptal davasının merci tecavüzü ile doğrudan Danıştayda açılması durumunda yapılacak işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dava Danıştay tarafından esastan incelenir.",
+                "B": "Dava usulden reddedilir.",
+                "C": "Dava evrakı vasifesizlik kararı ile ilgili il idare kuruluna tevdi olunur.",
+                "D": "Dava evrakı görevsizlik kararı ile ilgili idare mahkemesine gönderilir.",
+                "E": "Davanın açılmamış sayılmasına karar verilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 62'de belirtilen 'Merci tecavüzü ile Danıştaya dava açıldığı takdirde dava evrakı vasifesizlik kararı ile ilgili il idare kuruluna tevdi olunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idare kurullarının idari kaza işlerinde kanun sözcüsü görevini kim yürütür?",
+            "secenekler": {
+                "A": "Vali yardımcısı",
+                "B": "Yazı işleri müdürü",
+                "C": "Hukuk işleri müdürleri",
+                "D": "İl emniyet müdürü",
+                "E": "Vali"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 63'te belirtilen 'İl idare kurullarının idari kaza işlerinde hukuk işleri müdürleri kanun sözcüsü vazifesini görürler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, idare kurullarının kazai görevle yaptıkları toplantılarda, idari davaya konu olan kararı vermiş olan idare amiri hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Toplantıya üye olarak katılabilir ancak oy kullanamaz.",
+                "B": "Üye sıfatıyla toplantıda bulunamaz ve oya katılamaz.",
+                "C": "Üye sıfatıyla toplantıda bulunamaz ama oya katılabilir.",
+                "D": "Toplantıya başkanlık etmek zorundadır.",
+                "E": "Kurulun diğer üyeleriyle aynı haklara sahiptir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 64'te belirtilen 'idari davaya esas olan kararı vermiş bulunan idare amiri üye sıfatiyle bulunamaz ve oya katılamaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, bir idare amirinin, daha önce verdiği bir kararla ilgili olarak idare kurulu toplantısına üye sıfatıyla katılamaması ve oy kullanamaması için toplantının hangi nitelikte olması gerekir?",
+            "secenekler": {
+                "A": "Kurulun disiplin cezası vermek üzere toplanması",
+                "B": "Kurulun bütçe görüşmeleri yapmak üzere toplanması",
+                "C": "Kurulun kazai bir vazife görmek üzere toplanması",
+                "D": "Kurulun idari bir vesayet denetimi yapmak üzere toplanması",
+                "E": "Kurulun olağanüstü bir gündemle toplanması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 64'te yer alan 'İdare kurullarının kazai vazife görmek üzere toplantılarında...' ifadesine dayanmaktadır. Bu kısıtlama sadece kurulun kazai vazife gördüğü toplantılar için geçerlidir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, idare kurullarının kazai vazife görmek üzere yaptıkları toplantılarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Davaya konu kararı veren idare amiri toplantıya başkanlık eder.",
+                "B": "Davaya konu kararı veren idare amiri toplantıda bulunabilir ancak oy kullanamaz.",
+                "C": "Davaya konu kararı veren idare amiri, üye sıfatıyla toplantıda bulunamaz ve oya katılamaz.",
+                "D": "Davaya konu kararı veren idare amiri, sadece görüş bildirmek üzere toplantıya katılabilir.",
+                "E": "Davaya konu kararı veren idare amirinin toplantıya katılımı kurulun takdirindedir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 64'te belirtilen 'idari davaya esas olan kararı vermiş bulunan idare amiri üye sıfatiyle bulunamaz ve oya katılamaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idare kurullarının birinci veya ikinci derecede verdikleri kararlara karşı ilgililer tarafından hangi mercie itiraz edilebilir?",
+            "secenekler": {
+                "A": "İçişleri Bakanlığı",
+                "B": "Bölge İdare Mahkemesi",
+                "C": "Valilik Makamı",
+                "D": "Danıştay",
+                "E": "İlçe İdare Kurulu"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 65'te belirtilen 'il idare kurullarının gerek birinci ve gerek ikinci derecede verdikleri kararlar aleyhine Danıştayda ilgililer tarafından ... itiraz olunabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il idare kurullarının verdikleri kararlar aleyhine, ilgililer tarafından aşağıdaki mercilerden hangisine itiraz edilebilir?",
+            "secenekler": {
+                "A": "Valilik",
+                "B": "İçişleri Bakanlığı",
+                "C": "Danıştay",
+                "D": "Bölge idare mahkemesi",
+                "E": "İlçe idare kurulu"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 65'te belirtilen 'il idare kurullarının gerek birinci ve gerek ikinci derecede verdikleri kararlar aleyhine Danıştayda ilgililer tarafından ... itiraz olunabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kamu düzenini ve güvenliğini tehlikeye düşürecek toplumsal olayların baş göstermesi hâlinde, vali tarafından alınan ve ilan olunan tedbirlere aykırı davrananlara verilecek ceza nedir?",
+            "secenekler": {
+                "A": "Kabahatler Kanunu uyarınca idari para cezası",
+                "B": "Bir aydan altı aya kadar hapis cezası",
+                "C": "Üç aydan bir yıla kadar hapis cezası",
+                "D": "Altı aydan iki yıla kadar hapis cezası",
+                "E": "Sadece adli para cezası"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 66'da belirtilen '...vali tarafından kamu düzenini sağlamak amacıyla alınan ve usulüne göre ilan olunan karar ve tedbirlere aykırı davrananlar, üç aydan bir yıla kadar hapis cezasıyla cezalandırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kanunların verdiği yetkiye dayanarak il idare kurulları tarafından alınan ve usulüne uygun tebliğ edilen kararlara riayet etmeyenler hakkında cezai işlemi kim uygular?",
+            "secenekler": {
+                "A": "Vali",
+                "B": "İl idare kurulu başkanı",
+                "C": "Mahalli mülkî amir",
+                "D": "İl genel kurulu",
+                "E": "Sulh ceza hâkimi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 66'da belirtilen '...karar ve tedbirlerin tatbik ve icrasına muhalefet eden veya müşkülat gösterenler veya riayet etmeyenler, mahalli mülkî amir tarafından Kabahatler Kanununun 32 nci maddesi hükmü uyarınca cezalandırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, vali tarafından alınan kararlara aykırı davranılması durumunda hapis cezası uygulanabilmesi için aşağıdakilerden hangisinin gerçekleşmesi öncelikli şarttır?",
+            "secenekler": {
+                "A": "Kararların il genel kurulunca onaylanması",
+                "B": "Kararların İçişleri Bakanlığına bildirilmesi",
+                "C": "Genel sağlığı tehdit eden bir salgın hastalığın ortaya çıkması",
+                "D": "Kamu düzenini tehlikeye düşürecek toplumsal olayların baş göstermesi",
+                "E": "Karara muhalefet edenlerin daha önce de suç işlemiş olması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 66'da belirtilen '...kamu düzenini ve güvenliğini veya kişilerin can ve mal emniyetini tehlikeye düşürecek toplumsal olayların baş göstermesi hâlinde vali tarafından kamu düzenini sağlamak amacıyla alınan...' hükmüne dayanmaktadır. Hapis cezası bu özel şartın varlığına bağlanmıştır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, il genel kurulu veya idare kurulları tarafından alınan kararlara riayet etmeyenler, Kabahatlar Kanunu 32. Madde hükmüne göre kim tarafından cezalandırılır?",
+            "secenekler": {
+                "A": "Vali",
+                "B": "İl idare kurulu",
+                "C": "Mahalli mülkî amir",
+                "D": "Sulh ceza hâkimi",
+                "E": "İl genel meclisi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 66'da belirtilen '...karar ve tedbirlerin tatbik ve icrasına muhalefet eden veya müşkülat gösterenler veya riayet etmeyenler, mahalli mülkî amir tarafından Kabahatler Kanununun 32 nci maddesi hükmü uyarınca cezalandırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kanunların verdiği yetkiye istinaden ittihaz ve usulen tebliğ veya ilan olunan karar ve tedbirlerin tatbik ve icrasına muhalefet eden veya riayet etmeyenler, hangi makam tarafından cezalandırılır?",
+            "secenekler": {
+                "A": "Vali veya kaymakam",
+                "B": "Mahalli mülkî amir",
+                "C": "Cumhuriyet savcısı",
+                "D": "İl idare kurulu",
+                "E": "Sulh ceza hâkimi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 66'da belirtilen '...riayet etmeyenler, mahalli mülkî amir tarafından Kabahatler Kanununun 32 nci maddesi hükmü uyarınca cezalandırılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kanunların verdiği yetkiye istinaden il genel kurulu veya idare kurulları yahut en büyük mülkiye amirleri tarafından alınan ve usulünce tebliğ edilen karar ve tedbirlere riayet etmeyenler hakkında kim tarafından ve hangi kanun uyarınca işlem yapılır?",
+            "secenekler": {
+                "A": "Vali tarafından Ceza Muhakemesi Kanunu uyarınca",
+                "B": "Mahalli mülkî amir tarafından Kabahatler Kanunu uyarınca",
+                "C": "İl idare kurulu tarafından Devlet Memurları Kanunu uyarınca",
+                "D": "Cumhuriyet savcısı tarafından Türk Ceza Kanunu uyarınca",
+                "E": "Belediye başkanı tarafından Belediye Kanunu uyarınca"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 66'da belirtilen '...karar ve tedbirlerin tatbik ve icrasına muhalefet eden veya müşkülat gösterenler veya riayet etmeyenler, mahalli mülkî amir tarafından Kabahatler Kanununun 32 nci maddesi hükmü uyarınca cezalandırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, kadroların bir cetvelden kaldırılıp başka bir cetvele ilave edilmesi şeklindeki düzenleme, aşağıdaki bakanlıklardan hangisinin kadroları için yapılmıştır?",
+            "secenekler": {
+                "A": "Maliye Bakanlığı",
+                "B": "Adalet Bakanlığı",
+                "C": "Dışişleri Bakanlığı",
+                "D": "Milli Savunma Bakanlığı",
+                "E": "İçişleri Bakanlığı"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 67'de belirtilen düzenlemenin '...İçişleri Bakanlığı kısmından...' yapıldığını ifade eden hükme dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, sivil hava meydanları, limanlar ve sınır kapılarında görevli kuruluşların, görevlendirilen mülki idare amirine aracılık ettirmeden, kendi kuruluşları ile doğrudan yazışma yapabilecekleri konular arasında aşağıdakilerden hangisi yer almaktadır?",
+            "secenekler": {
+                "A": "Personelin yıllık izin talepleri",
+                "B": "Disiplin kovuşturması sonuçları",
+                "C": "Teknik konular",
+                "D": "Genel güvenlik ve asayiş raporları",
+                "E": "Kuruluşlar arası personel yardımlaşması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de yer alan 'Ancak kuruluşlar teknik konularda, istatistiki bilgileri içeren konularda va mali konularda kendi kuruluşları ile doğrudan yazışma yaparlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, sivil hava meydanları, limanlar ve sınır kapılarında görevlendirilen mülki idare amirinin, bu yerlerde hizmet veren personel hakkında doğrudan verebileceği disiplin cezaları aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Aylıktan kesme",
+                "B": "Kademe ilerlemesinin durdurulması",
+                "C": "Devlet memurluğundan çıkarma",
+                "D": "Uyarma ve kınama",
+                "E": "Görevden uzaklaştırma"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen '...gerekirse uyarma ve kınama cezası verebilir. Diğer cezalar için öneride bulunabilir...' hükmüne dayanmaktadır. Bu hüküm, mülki idare amirinin sadece uyarma ve kınama cezalarını doğrudan verebildiğini göstermektedir."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, mülki idare amirinin görev, yetki ve sorumluluklarına ilişkin uygulama düzenini belirleyen yönetmelik, İçişleri Bakanlığınca hazırlanırken aşağıdakilerden hangisinin görüşünün alınması zorunlu değildir?",
+            "secenekler": {
+                "A": "Maliye Bakanlığı",
+                "B": "Sağlık Bakanlığı",
+                "C": "Adalet Bakanlığı",
+                "D": "Ulaştırma Bakanlığı",
+                "E": "Turizm Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de yönetmeliğin hazırlanması sürecinde görüş alınacak kurumların 'Maliye, Sağlık, Ulaştırma, Turizm bakanlıkları ile Gümrük Müsteşarlığının bağlı olduğu bakan' olarak sayılmasına dayanmaktadır. Bu listede Adalet Bakanlığı yer almamaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, sivil hava meydanları, limanlar ve sınır kapılarında hizmet veren kuruluşlar, aşağıdaki konulardan hangisinde kendi kuruluşları ile doğrudan yazışma yapabilir?",
+            "secenekler": {
+                "A": "Personel hakkında değerlendirme raporu düzenlenmesi",
+                "B": "Disiplin kovuşturması yapılması",
+                "C": "Mali konular",
+                "D": "Personel için mazeret izni verilmesi",
+                "E": "Diğer kuruluşlardan personel yardımı istenmesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Ancak kuruluşlar teknik konularda, istatistiki bilgileri içeren konularda ve mali konularda kendi kuruluşları ile doğrudan yazışma yaparlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, afet ve acil durum hallerinde, arama, kurtarma ve müdahale faaliyetleri kapsamında ihtiyaç duyulan telefon abone ve konum bilgilerini Bilgi Teknolojileri ve İletişim Kurumundan aşağıdakilerden hangisi talep edebilir?",
+            "secenekler": {
+                "A": "Sadece İçişleri Bakanlığı",
+                "B": "Sadece 112 acil çağrı merkezleri",
+                "C": "Afet ve Acil Durum Yönetimi Başkanlığı veya ilgili valilik",
+                "D": "Jandarma Genel Komutanlığı veya ilgili kaymakamlık",
+                "E": "Sadece Sağlık Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Afet ve acil durum hallerinde ... Afet ve Acil Durum Yönetimi Başkanlığının veya ilgili valiliğin ... ihtiyaç duyduğu telefon abone ve konum bilgileri gecikmeksizin karşılanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, 112 acil çağrı merkezlerine yapılan çağrılar kapsamında, arayan kişiye ulaşılması amacıyla talep edilen telefon abone ve konum bilgilerinin teminine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bilgiler, arama sonlandıktan sonraki 24 saat içinde temin edilir.",
+                "B": "Bu bilgiler sadece arayan kişinin kimlik tespiti için kullanılabilir.",
+                "C": "Bilgi talebi, arama zamanıyla sınırlı olmak üzere yapılabilir.",
+                "D": "Sadece konum bilgisi verilir, abone bilgisi verilmez.",
+                "E": "Bilgi talebi yalnızca ilgili valilik tarafından yapılabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen '112 acil çağrı merkezlerine yapılan çağrılar kapsamında, arayan kişilere ulaşılması amacıyla arama zamanıyla sınırlı olmak üzere... ihtiyaç duyduğu telefon abone ve konum bilgileri... karşılanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5442 Sayılı İl İdaresi Kanunu'na göre, valiliğin Bilgi Teknolojileri ve İletişim Kurumundan telefon abone ve konum bilgisi talep edebileceği durumlar arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Afet ve acil durum hallerinde arama ve kurtarma faaliyetleri\nII. 112 acil çağrı merkezlerine yapılan çağrılarda arayan kişiye ulaşılması amacı\nIII. Genel asayişin sağlanmasına yönelik önleyici istihbarat faaliyetleri",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 2'de valiliğin bilgi talep edebileceği durumların 'Afet ve acil durum hallerinde arama, kurtarma ve müdahale faaliyetleri' ile '112 acil çağrı merkezlerine yapılan çağrılar kapsamında, arayan kişilere ulaşılması amacıyla' olarak belirtilmesine dayanmaktadır. Metinde genel asayişe yönelik bir hüküm bulunmamaktadır."
+        }
+    ]
+}

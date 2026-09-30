@@ -1,0 +1,1312 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, bu Kanunun amacı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Türk vatandaşlığının kazanılması ve kaybına dair iş ve işlemlerin yürütülmesine ilişkin usul ve esasları belirlemek.",
+                "B": "Yabancıların Türkiye'deki seyahat ve ikametlerine ilişkin kuralları düzenlemek.",
+                "C": "Türkiye Cumhuriyeti Devletine vatandaşlık bağı ile bağlı olan kişilerin hak ve sorumluluklarını tanımlamak.",
+                "D": "Çok vatandaşlığa sahip kişilerin hukuki statüsünü özel olarak belirlemek.",
+                "E": "Vatandaşlık hizmetlerini yürüten kurumların idari yapısını ve personel rejimini oluşturmak."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Bu Kanunun amacı; Türk vatandaşlığının kazanılması ve kaybına dair iş ve işlemlerin yürütülmesine ilişkin usul ve esasları belirlemektir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunun dolaylı olarak ilgili olabileceği konuları içerse de, Madde 1'de açıkça ve özel olarak belirtilen temel amacı yansıtmadığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, aşağıdakilerden hangisi bu Kanun'un kapsamını en doğru şekilde tanımlamaktadır?",
+            "secenekler": {
+                "A": "Sadece Türk vatandaşlığının kazanılmasına ilişkin usul ve esasları düzenler.",
+                "B": "Yalnızca Türk vatandaşlığının kaybına yol açan durumları ve sonuçlarını belirler.",
+                "C": "Türk vatandaşlığının kazanılması ve kaybına ilişkin esasların düzenlenmesi ile vatandaşlık hizmetlerinin yürütülmesine ilişkin usulleri kapsar.",
+                "D": "Vatandaşlık hizmetlerinin yalnızca yurt dışındaki temsilcilikler tarafından nasıl yürütüleceğini belirler.",
+                "E": "Türkiye'de bulunan yabancıların hak ve yükümlülüklerini düzenler."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Bu Kanun, Türk vatandaşlığının kazanılması ve kaybına ilişkin esasların düzenlenmesine ve vatandaşlık hizmetlerinin yürütülmesine ilişkin usulleri kapsar.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunun kapsamını eksik (sadece kazanma veya kaybetme gibi) veya yanlış (yabancıların genel hakları, sadece yurt dışı hizmetler gibi) tanımladığı için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, kanunun uygulanmasındaki tanımlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bakanlık, Dışişleri Bakanlığını ifade eder.",
+                "B": "Çok vatandaşlık, bir yabancının Türk vatandaşlığını kazanması durumunu ifade eder.",
+                "C": "Genel Müdürlük, Göç İdaresi Genel Müdürlüğünü ifade eder.",
+                "D": "Türk vatandaşı, Türkiye Cumhuriyeti Devletine vatandaşlık bağı ile bağlı olan kişiyi ifade eder.",
+                "E": "Yabancı, Türkiye'de ikamet eden ancak seçme hakkı olmayan kişiyi ifade eder."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Türk vatandaşı: Türkiye Cumhuriyeti Devletine vatandaşlık bağı ile bağlı olan kişiyi ifade eder.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde yer alan tanımlar kanunda belirtilen tanımlarla uyuşmadığı için yanlıştır. Kanuna göre Bakanlık İçişleri Bakanlığını, çok vatandaşlık Türk vatandaşının aynı anda birden çok vatandaşlığa sahip olmasını, Genel Müdürlük Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünü, yabancı ise Türkiye Cumhuriyeti Devleti ile vatandaşlık bağı bulunmayan kişiyi ifade eder."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, kanunda yer alan tanımlar ve hizmetlerin yürütülmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yurt dışındaki vatandaşlık hizmetlerini yürütme görevi Bakanlığa verilmiştir.",
+                "B": "Türkiye Cumhuriyeti Devleti ile vatandaşlık bağı bulunmayan kişi 'Türk vatandaşı' olarak tanımlanmıştır.",
+                "C": "Kanun, yalnızca Türk vatandaşlığının kazanılmasına dair iş ve işlemleri düzenlemektedir.",
+                "D": "Bir Türk vatandaşının aynı anda birden fazla vatandaşlığa sahip olması durumu 'çok vatandaşlık' olarak adlandırılır.",
+                "E": "Vatandaşlık hizmetleri yurt içinde Genel Müdürlük tarafından yürütülür."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Çok vatandaşlık: Türk vatandaşının aynı anda birden çok vatandaşlığa sahip olmasını (...) ifade eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği yanlıştır çünkü Madde 4'e göre bu görev dış temsilciliklere aittir. B seçeneği 'yabancı' tanımıdır. C seçeneği eksiktir çünkü Madde 1'e göre kanun vatandaşlığın kaybını da kapsar. E seçeneği ise yanlıştır çünkü Madde 4'e göre hizmetleri yurt içinde Bakanlık yürütür."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kazanılmasına ve kaybına ilişkin hizmetleri yurt dışında yürütme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bakanlık",
+                "B": "Genel Müdürlük",
+                "C": "Dış temsilcilikler",
+                "D": "Valilikler",
+                "E": "Kaymakamlıklar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Türk vatandaşlığının kazanılmasına ve kaybına ilişkin hizmetler ... yurt dışında ise dış temsilcilikler tarafından yürütülür.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda yurt dışı hizmetler için belirtilen yetkili makam olmadıkları için yanlıştır. A seçeneğindeki Bakanlık ise bu hizmetleri yurt içinde yürütmekle görevlidir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kazanılmasına ve kaybına ilişkin hizmetleri yurt içinde yürütme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü",
+                "B": "Dış temsilcilikler",
+                "C": "İçişleri Bakanlığı",
+                "D": "Adalet Bakanlığı",
+                "E": "Dışişleri Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Türk vatandaşlığının kazanılmasına ve kaybına ilişkin hizmetler yurt içinde Bakanlık (...) tarafından yürütülür.' hükmü ile Madde 3'te yer alan 'Bakanlık: İçişleri Bakanlığını (...) ifade eder.' tanımının birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: A seçeneği kanunda 'Genel Müdürlük' olarak tanımlanmıştır ve yetkili kılınmamıştır. B seçeneği ise hizmetleri yurt dışında yürüten makamdır. D ve E seçenekleri ise kanunda bu konuda yetkili olarak sayılmamıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kazanılmasına ve kaybına ilişkin hizmetleri yurt içinde ve yurt dışında yürütmekle görevli kurumlar sırasıyla aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Bakanlık - Dış temsilcilikler",
+                "B": "Dış temsilcilikler - Bakanlık",
+                "C": "Valilikler - Konsolosluklar",
+                "D": "Bakanlık - Valilikler",
+                "E": "Nüfus Müdürlükleri - Büyükelçilikler"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Türk vatandaşlığının kazanılmasına ve kaybına ilişkin hizmetler yurt içinde Bakanlık, yurt dışında ise dış temsilcilikler tarafından yürütülür.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yetkili kurumları yanlış sırada veya yanlış kurumlarla eşleştirdiği için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kazanılması halleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Türk vatandaşlığı, doğumla veya sonradan kazanılır.",
+                "B": "Türk vatandaşlığı yalnızca doğumla kazanılabilir.",
+                "C": "Türk vatandaşlığı yalnızca sonradan yapılan başvuru ile kazanılır.",
+                "D": "Türk vatandaşlığı, sadece soy bağı esasına göre kendiliğinden kazanılır.",
+                "E": "Türk vatandaşlığı, sadece doğum yeri esasına göre hüküm ifade eder."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Türk vatandaşlığı, doğumla veya sonradan kazanılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen kazanma yollarını eksik veya yanlış bir şekilde tek bir yolla sınırlandırdığı için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, doğumla kazanılan Türk vatandaşlığı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece soy bağı esasına göre kazanılır.",
+                "B": "Sadece doğum yeri esasına göre kazanılır.",
+                "C": "İlgili kişinin başvurusu üzerine Bakanlık onayı ile kazanılır.",
+                "D": "Kişinin erginliğe ulaşmasıyla hüküm ifade etmeye başlar.",
+                "E": "Doğum anından itibaren hüküm ifade eder."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Doğumla kazanılan vatandaşlık doğum anından itibaren hüküm ifade eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanuna göre doğumla vatandaşlık, 'soy bağı veya doğum yeri' esasına göre ve herhangi bir makamın onayına gerek olmaksızın 'kendiliğinden' kazanıldığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşı bir baba ile yabancı bir anadan evlilik birliği dışında doğan bir çocuğun durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Çocuk, doğum anında kendiliğinden Türk vatandaşı olur.",
+                "B": "Çocuk, sadece Türkiye'de doğması halinde Türk vatandaşlığını kazanabilir.",
+                "C": "Çocuğun Türk vatandaşlığını kazanması, soy bağı kurulmasını sağlayan usul ve esasların yerine getirilmesine bağlıdır.",
+                "D": "Çocuğun Türk vatandaşı olabilmesi için annesinin de sonradan Türk vatandaşlığını kazanması şarttır.",
+                "E": "Türk vatandaşı anadan doğmadığı için çocuğun soy bağıyla Türk vatandaşlığını kazanması mümkün değildir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Türk vatandaşı baba ve yabancı anadan evlilik birliği dışında doğan çocuk ise soy bağı kurulmasını sağlayan usul ve esasların yerine getirilmesi halinde Türk vatandaşlığını kazanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen şartlarla (örneğin, ananın Türk vatandaşı olması durumu veya evlilik birliği içinde doğum gibi) çeliştiği veya kanunda yer almayan ek koşullar öne sürdüğü için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, evlilik birliği dışında doğan bir çocuğun soy bağı esasına göre Türk vatandaşlığını kazanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Çocuk, sadece Türk vatandaşı anadan doğması halinde vatandaşlığı kazanabilir.",
+                "B": "Çocuk, sadece Türk vatandaşı babadan doğması halinde vatandaşlığı kazanabilir.",
+                "C": "Türk vatandaşı anadan doğan çocuk doğrudan Türk vatandaşı olurken, Türk vatandaşı babadan doğan çocuğun vatandaşlığı soy bağının kurulmasını sağlayan usul ve esasların yerine getirilmesine bağlıdır.",
+                "D": "Çocuğun vatandaşlık kazanabilmesi için hem ananın hem de babanın Türk vatandaşı olması zorunludur.",
+                "E": "Evlilik birliği dışında doğan çocuk, nerede doğduğuna bakılmaksızın her durumda doğumla Türk vatandaşı sayılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Türk vatandaşı ana ve yabancı babadan evlilik birliği dışında doğan çocuk Türk vatandaşıdır' ve 'Türk vatandaşı baba ve yabancı anadan evlilik birliği dışında doğan çocuk ise soy bağı kurulmasını sağlayan usul ve esasların yerine getirilmesi halinde Türk vatandaşlığını kazanır' hükümlerinin birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen, evlilik birliği dışında doğan çocukların vatandaşlık kazanma koşullarını yanlış veya eksik yansıttığı için hatalıdır. Seçenekler, Türk vatandaşı ana ile Türk vatandaşı baba arasında kanunun getirdiği ayrımı göz ardı etmektedir."
+        },
+        {
+            "soru": "Türkiye dışında, evlilik birliği içinde Türk vatandaşı bir baba ve yabancı bir anneden dünyaya gelen bir çocuk hakkında 5901 Türk Vatandaşlığı Kanunu'na göre, aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Çocuğun vatandaşlık kazanması, yurt dışındaki dış temsilciliklerin takdirine bağlıdır.",
+                "B": "Çocuk, doğumla Türk vatandaşlığını soy bağı esasına göre doğum anından itibaren kazanır.",
+                "C": "Çocuk, ancak Türkiye'ye giriş yaptıktan sonra vatandaşlık başvurusunda bulunabilir.",
+                "D": "Çocuğun vatandaşlığı, doğum yeri esasına göre belirleneceği için Türk vatandaşı olamaz.",
+                "E": "Çocuk, Türk vatandaşlığını sonradan kazanma usullerine tabi olur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'deki 'Türkiye içinde veya dışında Türk vatandaşı ana veya babadan evlilik birliği içinde doğan çocuk Türk vatandaşıdır' ve Madde 6'daki 'Doğumla kazanılan vatandaşlık doğum anından itibaren hüküm ifade eder' hükümlerinin sentezine dayanmaktadır.\n- Diğer seçenekler: Madde 5, 6 ve 7'de düzenlenen doğumla vatandaşlığın kendiliğinden ve soy bağı esasına göre kazanılması ilkesine aykırıdır. A seçeneği Madde 4'teki yetkiyi yanlış yorumlamakta, diğerleri ise sonradan kazanma, doğum yeri esası veya Türkiye'de bulunma gibi olayla ilgisiz şartlar öne sürmektedir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, soy bağı yoluyla Türk vatandaşlığının kazanılmasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Türk vatandaşı baba ve yabancı anadan evlilik birliği dışında doğan çocuğun vatandaşlığı, soy bağının kurulmasını sağlayan usul ve esasların yerine getirilmesine bağlıdır.",
+                "B": "Türk vatandaşı ana ve yabancı babadan evlilik birliği dışında doğan çocuğun vatandaşlık kazanması için de soy bağının kurulmasını sağlayan usul ve esasların yerine getirilmesi şarttır.",
+                "C": "Soy bağı ile vatandaşlık kazanımı, sadece çocuğun Türkiye sınırları içinde doğması halinde mümkündür.",
+                "D": "Evlilik birliği içinde doğan bir çocuğun Türk vatandaşlığını kazanabilmesi için hem ananın hem de babanın Türk vatandaşı olması zorunludur.",
+                "E": "Türkiye'de bulunmuş bir çocuk, ana ve babası yabancı olsa dahi her durumda soy bağı esasına göre Türk vatandaşı sayılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Türk vatandaşı baba ve yabancı anadan evlilik birliği dışında doğan çocuk ise soy bağı kurulmasını sağlayan usul ve esasların yerine getirilmesi halinde Türk vatandaşlığını kazanır' hükmüne dayanmaktadır. - Diğer seçenekler hatalıdır çünkü; B seçeneği Türk anadan doğan çocuğun doğrudan vatandaş olacağı kuralıyla, C seçeneği doğum yerini hatalı şekilde sınırlamasıyla, D seçeneği ise ana veya babadan birinin Türk vatandaşı olmasının yeterli olduğu kuralıyla çelişmektedir. E seçeneği ise soy bağı değil, doğum yeri esasına ilişkin farklı bir durumu ifade etmektedir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, bir çocuğun doğumla Türk vatandaşı sayıldığı durumlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Türkiye içinde veya dışında Türk vatandaşı ana veya babadan evlilik birliği içinde doğan çocuk Türk vatandaşıdır.",
+                "B": "Türk vatandaşı baba ve yabancı anadan evlilik birliği dışında doğan çocuk, herhangi bir ek usul aranmaksızın doğrudan Türk vatandaşı olur.",
+                "C": "Türk vatandaşı ana ve yabancı babadan evlilik birliği dışında doğan çocuk Türk vatandaşıdır.",
+                "D": "Türkiye'de doğan ve yabancı ana ve babasından dolayı doğumla herhangi bir ülkenin vatandaşlığını kazanamayan çocuk, doğumdan itibaren Türk vatandaşıdır.",
+                "E": "Türkiye'de bulunmuş bir çocuğun, aksi sabit olmadıkça Türkiye'de doğmuş olduğu kabul edilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Türk vatandaşı baba ve yabancı anadan evlilik birliği dışında doğan çocuk ise soy bağı kurulmasını sağlayan usul ve esasların yerine getirilmesi halinde Türk vatandaşlığını kazanır' hükmüne dayanmaktadır. Bu nedenle, ek usul aranmaksızın doğrudan vatandaş olunacağı ifadesi yanlıştır.\n- Diğer seçenekler: Madde 7 ve Madde 8'de yer alan doğumla vatandaşlık kazanma hallerini doğru bir şekilde yansıttığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türkiye'de doğan ve yabancı anne-babadan olan bir çocuğun, doğum yeri esasına göre Türk vatandaşı sayılabilmesinin temel koşulu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Doğumla herhangi bir başka ülkenin vatandaşlığını kazanamamış olması",
+                "B": "Anne veya babasından birinin Türkiye'de en az beş yıl ikamet etmiş olması",
+                "C": "Doğumdan sonraki bir yıl içinde İçişleri Bakanlığına başvurulması",
+                "D": "Çocuğun Türkiye'de bulunmuş bir çocuk olarak kayıtlara geçmesi",
+                "E": "Anne ve babasının vatansız olduğunun mahkeme kararıyla tespit edilmesi"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Türkiye'de doğan ve yabancı ana ve babasından dolayı doğumla herhangi bir ülkenin vatandaşlığını kazanamayan çocuk, doğumdan itibaren Türk vatandaşıdır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen bu özel şart arasında yer almadığı için yanlıştır. Kanun, çocuğun başka bir vatandaşlık kazanamamasını yeterli görmektedir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türkiye'de bulunmuş bir çocukla ilgili olarak geçerli olan hukuki karine aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Aksi sabit olmadıkça Türkiye'de doğmuş sayılır.",
+                "B": "Soy bağı kurulana kadar devlet koruması altına alınır.",
+                "C": "Yetkili makam kararı ile doğrudan Türk vatandaşlığını kazanır.",
+                "D": "Evlat edinilme yoluyla vatandaşlık kazanma hakkına sahip olur.",
+                "E": "Türk vatandaşı bir babadan evlilik birliği dışında doğmuş kabul edilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Türkiye'de bulunmuş çocuk aksi sabit olmadıkça Türkiye'de doğmuş sayılır' hükmüne dayanmaktadır.\n- Diğer seçenekler, vatandaşlığın soy bağı veya sonradan kazanılması gibi farklı hukuki durumları ifade ettiği için yanlıştır. Kanun, bulunmuş çocuk için aksi ispatlanana kadar Türkiye'de doğduğu yönünde bir karine kabul etmiştir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının sonradan kazanılması;\n\nİ. Yetkili makam kararı\nIİ. Evlat edinilme\nIİİ. Seçme hakkının kullanılması\n\nyollarından hangisi veya hangileri ile gerçekleşir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Sonradan kazanılan Türk vatandaşlığı, yetkili makam kararı veya evlat edinilme ya da seçme hakkının kullanılması ile gerçekleşir.' hükmüne dayanmaktadır. Bu hüküm uyarınca, metinde verilen öncüllerin üçü de sonradan vatandaşlık kazanma yollarıdır.\n- Diğer seçenekler, kanunda sayılan tüm yolları kapsamadığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, sonradan Türk vatandaşlığının kazanılması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sonradan Türk vatandaşlığı, yalnızca yetkili makam kararı ile gerçekleşen bir durumdur.",
+                "B": "Kanunda aranan şartları taşıyan bir yabancıya vatandaşlık verilmesi, idare için mutlak bir zorunluluktur.",
+                "C": "Evlat edinilme veya seçme hakkının kullanılması, sonradan Türk vatandaşlığının kazanılması yolları arasında yer alır.",
+                "D": "Vatandaşlığın kazanılmasına ilişkin temel ilke ve esaslar, başka kurumların görüşü alınmadan doğrudan Bakanlıkça belirlenir.",
+                "E": "Soy bağı kurulması, Türk vatandaşlığının sonradan kazanılma yollarından biridir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Sonradan kazanılan Türk vatandaşlığı, yetkili makam kararı veya evlat edinilme ya da seçme hakkının kullanılması ile gerçekleşir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği eksik bilgi içerir; B seçeneği Madde 10'daki takdir yetkisine aykırıdır; D seçeneği Madde 10'daki 'ilgili kamu kurum ve kuruluşlarının görüşleri alınmak suretiyle' şartına aykırıdır; E seçeneği ise Madde 7'de düzenlenen doğumla kazanma halidir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, yetkili makam kararı ile Türk vatandaşlığının kazanılmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kanunda belirtilen şartları taşıyan her yabancı, başvurduğu anda Türk vatandaşlığını doğrudan kazanır.",
+                "B": "Kanunda aranan şartları taşıyor olmak, kişiye vatandaşlığın kazanılması konusunda mutlak bir hak sağlamaz.",
+                "C": "Vatandaşlığın kazanılmasına ilişkin temel ilke ve esaslar, başvuruyu alan yetkili makam tarafından münferiden belirlenir.",
+                "D": "İlgili kamu kurum ve kuruluşlarının onayı olmadan Bakanlık, vatandaşlık kazanımına ilişkin esasları belirleyemez.",
+                "E": "Yabancının vatandaşlık talebi, yalnızca ilgili kamu kurumlarının oybirliği ile kabul edilebilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'aranan şartları taşımak vatandaşlığın kazanılmasında kişiye mutlak bir hak sağlamaz' hükmüne dayanmaktadır. Bu, idarenin takdir yetkisi olduğunu gösterir.\n- Diğer seçenekler hatalıdır çünkü; temel ilke ve esasları belirleme yetkisi Bakanlığa aittir, ilgili kurumların onayı değil görüşü alınır ve kanunda belirtilen şartları taşımak vatandaşlığı kazanmak için yeterli olmayıp kişiye mutlak bir hak vermez."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, yetkili makam kararı ile Türk vatandaşlığının kazanılmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kanunda belirtilen şartları taşıyan her yabancı, başvurduğu anda otomatik olarak Türk vatandaşlığını kazanır.",
+                "B": "Vatandaşlık kazanımına ilişkin temel ilke ve esasları belirleme yetkisi, ilgili kamu kurum ve kuruluşlarına aittir.",
+                "C": "Kanunda aranan şartları taşıyor olmak, kişiye vatandaşlığı kazanma konusunda mutlak bir hak sağlamaz.",
+                "D": "Yabancıların vatandaşlık başvuruları, herhangi bir şarta bağlı olmaksızın tamamen yetkili makamın takdirindedir.",
+                "E": "Vatandaşlık kazanımında uygulanacak esaslar, ilgili kamu kurumlarının görüşü alınmaksızın doğrudan Bakanlıkça belirlenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'aranan şartları taşımak vatandaşlığın kazanılmasında kişiye mutlak bir hak sağlamaz' hükmüne dayanmaktadır. Bu hüküm, idarenin takdir yetkisine sahip olduğunu ve şartların sağlanmasının tek başına vatandaşlık için yeterli olmadığını ifade eder.\n- Diğer seçenekler, kanunda belirtilen ilkelerle çeliştiği için yanlıştır. Vatandaşlık kazanımı otomatik değildir, şartların taşınması zorunludur ve temel ilkeler belirlenirken ilgili kamu kurumlarının görüşlerinin alınması gerekmektedir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının yetkili makam kararıyla kazanılmasına ilişkin genel ve istisnai durumlar bir arada değerlendirildiğinde aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Genel yolla vatandaşlığa başvuran bir yabancının, Türkiye'de yerleşmeye karar verdiğini davranışları ile teyit etmesi gerekir.",
+                "B": "Çıkma izni alarak Türk vatandaşlığını kaybeden bir kişi, millî güvenlik engeli bulunmaması halinde ikamet süresine bakılmaksızın vatandaşlığı yeniden kazanabilir.",
+                "C": "Vatandaşlığa alınması zaruri görülen bir kişi, diğer şartlar aranmaksızın Cumhurbaşkanı kararıyla Türk vatandaşlığını kazanabilir.",
+                "D": "Vatandaşlık başvurusunda aranan şartları eksiksiz taşıyan her yabancıya, bu durum vatandaşlığın kazanılmasında mutlak bir hak sağlar.",
+                "E": "Turkuaz Kart sahibi bir yabancının, millî güvenlik engeli bulunmaması halinde Cumhurbaşkanı kararıyla vatandaşlık kazanması mümkündür."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'aranan şartları taşımak vatandaşlığın kazanılmasında kişiye mutlak bir hak sağlamaz' hükmüne aykırı olduğu için yanlıştır.\n- Diğer seçenekler: Genel başvuru için yerleşme niyetini teyit şartı (A), çıkma izniyle kaybedenlerin ikamet şartı olmaksızın yeniden kazanımı (B) ve istisnai hallerde Cumhurbaşkanı kararıyla vatandaşlık kazanılması (C, E) kanunda yer alan doğru düzenlemelerdir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığını kazanmak isteyen bir yabancıda aranan şartlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Yeteri kadar Türkçe konuşabilmek",
+                "B": "İyi ahlak sahibi olmak",
+                "C": "Türkiye'de yerleşmeye karar verdiğini davranışları ile teyit etmek",
+                "D": "Türkiye'de bir taşınmaz mülk edinmiş olmak",
+                "E": "Genel sağlık bakımından tehlike teşkil eden bir hastalığı bulunmamak"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Türk vatandaşlığını kazanmak isteyen yabancılarda aranan şartlar' arasında bir mülk edinme zorunluluğunun sayılmamış olmasına dayanmaktadır.\n- Diğer seçeneklerde belirtilen; yeteri kadar Türkçe konuşabilmek, iyi ahlak sahibi olmak, Türkiye'de yerleşmeye karar verdiğini davranışlarla teyit etmek ve genel sağlık bakımından tehlikeli bir hastalığı bulunmamak, kanunda açıkça listelenen şartlardır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığına başvurmak isteyen bir yabancının, başvuru tarihinden geriye doğru Türkiye'de ne kadar süreyle kesintisiz ikamet etmiş olması gerekmektedir?",
+            "secenekler": {
+                "A": "Bir yıl",
+                "B": "Üç yıl",
+                "C": "Beş yıl",
+                "D": "Yedi yıl",
+                "E": "On yıl"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Başvuru tarihinden geriye doğru Türkiye'de kesintisiz beş yıl ikamet etmek' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler, kanunda yer alan bu özel şart için doğru değildir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığını kazanmak isteyen ve vatansız olan bir kişinin erginlik ve ayırt etme gücü açısından hangi kanunlara tabi olacağı düzenlenmiştir?",
+            "secenekler": {
+                "A": "Doğduğu ülke kanunlarına",
+                "B": "Avrupa İnsan Hakları Sözleşmesi hükümlerine",
+                "C": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği düzenlemelerine",
+                "D": "Türk kanunlarına",
+                "E": "Son ikamet ettiği ülke kanunlarına"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'vatansız ise Türk kanunlarına göre ergin ve ayırt etme gücüne sahip olmak' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda bu özel durum için belirtilen hukuki dayanağı yansıtmamaktadır. Kanun, vatansız kişiler için açıkça Türk kanunlarına atıf yapmıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali bulunmamak şartıyla, aşağıdakilerden hangisi Cumhurbaşkanı kararı ile istisnai olarak Türk vatandaşlığını kazanabilecek kişiler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Türkiye'ye sanayi tesisleri getiren veya bilimsel, teknolojik, ekonomik, sosyal, sportif, kültürel, sanatsal alanlarda olağanüstü hizmeti geçen kişiler.",
+                "B": "Turkuaz Kart sahibi yabancılar ve bunların yabancı eşi, kendisinin ve eşinin ergin olmayan veya bağımlı yabancı çocuğu.",
+                "C": "Başvuru tarihinden geriye doğru Türkiye'de kesintisiz beş yıl ikamet eden ve yeteri kadar Türkçe konuşabilen kişiler.",
+                "D": "Vatandaşlığa alınması zaruri görülen kişiler.",
+                "E": "Göçmen olarak kabul edilen kişiler."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Türk vatandaşlığının kazanılmasında istisnai haller' hükmüne dayanmaktadır. Bu istisnai haller arasında 'kesintisiz beş yıl ikamet etmek' ve 'yeteri kadar Türkçe konuşabilmek' gibi genel başvuru şartları sayılmamıştır.\n- Diğer seçeneklerde belirtilen kişiler, kanunda Cumhurbaşkanı kararı ile istisnai olarak Türk vatandaşlığını kazanabilecekler arasında açıkça listelenmiştir.\n- C seçeneğindeki durumlar, kanunun genel vatandaşlık başvurusu için aradığı şartlardandır, istisnai bir hal değildir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türkiye'ye bilimsel ve teknolojik alanlarda olağanüstü hizmeti geçeceği düşünülen bir yabancının istisnai yolla Türk vatandaşlığını kazanmasına karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili bakanlığın tek başına kararına",
+                "B": "Bakanlık kararına",
+                "C": "Cumhurbaşkanı kararına",
+                "D": "Yabancılar ve Uluslararası Koruma Kurumu kararına",
+                "E": "Göç İdaresi Başkanlığı kararına"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen '...Cumhurbaşkanı kararı ile aşağıda belirtilen yabancılar Türk vatandaşlığını kazanabilirler.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun, istisnai hallerde vatandaşlığın kazanılması için nihai karar yetkisini açıkça Cumhurbaşkanına vermiştir. İlgili bakanlıklar sadece gerekçeli teklifte bulunabilir, Bakanlık ise milli güvenlik ve kamu düzeni engeli olanların taleplerini reddeder, ancak kazanma kararını vermez."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türkiye'ye bilimsel alanda olağanüstü hizmeti geçeceği düşünülen ve ilgili bakanlıkça hakkında gerekçeli teklifte bulunulan bir yabancının istisnai yolla vatandaşlık kazanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu kişinin vatandaşlığı kazanması, millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir halinin bulunmaması şartına bağlıdır.",
+                "B": "Vatandaşlığı kazanması, ilgili bakanlığın teklifi üzerine Bakanlık kararıyla gerçekleşir.",
+                "C": "Başvuru sahibinin iyi ahlak sahibi olması ve yeteri kadar Türkçe konuşabilmesi zorunludur.",
+                "D": "Aranan şartları taşıması, bu kişiye vatandaşlığın kazanılmasında mutlak bir hak sağlar.",
+                "E": "Başvuru tarihinden geriye doğru Türkiye'de kesintisiz beş yıl ikamet etmiş olması gerekir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali bulunmamak şartıyla Cumhurbaşkanı kararı ile ... yabancılar Türk vatandaşlığını kazanabilirler.' hükmüne dayanmaktadır. \n- Diğer seçenekler: İstisnai vatandaşlık kazanma usulünde, Madde 11'de sayılan genel başvuru şartlarının (beş yıl ikamet, Türkçe konuşma vb.) aranmaması (C, E), kararın Cumhurbaşkanınca verilmesi (B) ve Madde 10 uyarınca aranan şartları taşımanın mutlak bir hak sağlamaması (D) nedeniyle yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, aşağıdakilerden hangisi, millî güvenlik bakımından engel bir hali olmamak kaydıyla, Türkiye'de ikamet etme süresine bakılmaksızın Bakanlık kararıyla Türk vatandaşlığını yeniden kazanabilecek kişiler arasında yer alır?",
+            "secenekler": {
+                "A": "Çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler.",
+                "B": "Türkiye'ye sanayi tesisleri getiren veya sportif alanlarda olağanüstü hizmeti geçen yabancılar.",
+                "C": "Başvuru tarihinden geriye doğru Türkiye'de kesintisiz beş yıl ikamet eden ve iyi ahlak sahibi olan yabancılar.",
+                "D": "Vatandaşlığa alınması zaruri görülen yabancılar.",
+                "E": "Göçmen olarak kabul edilen kişiler."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler'in, Türkiye'de ikamet etme süresine bakılmaksızın vatandaşlığı yeniden kazanabileceği hükmüne dayanmaktadır.\n- Diğer seçenekler, Türk vatandaşlığının genel yolla (Madde 11) veya istisnai hallerde (Madde 12) ilk defa kazanılmasına ilişkin durumları içerdiği için yanlıştır; bu haller, vatandaşlığın 'yeniden kazanılması' ile ilgili değildir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının ikamet şartı aranmaksızın yeniden kazanılmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Seçme hakkını süresi içinde kullananlar da ikamet şartı olmaksızın vatandaşlığı yeniden kazanabilir.",
+                "B": "Ana veya babalarına bağlı olarak vatandaşlığını kaybeden herkes, ergin olduktan sonra bu hakkı koşulsuz kullanabilir.",
+                "C": "Bu yolla vatandaşlığın yeniden kazanılması için her durumda Cumhurbaşkanı kararı gereklidir.",
+                "D": "Kişinin Türkiye'de en az bir yıl ikamet etmiş olması, bu hakkın kullanımı için ön koşuldur.",
+                "E": "Çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler, milli güvenlik bakımından bir engel bulunmuyorsa bu haktan yararlanabilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler... Millî güvenlik bakımından engel teşkil edecek bir hali bulunmamak şartıyla... Türkiye'de ikamet etme süresine bakılmaksızın, Türk vatandaşlığını Bakanlık kararıyla yeniden kazanabilirler' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen yetkili makam (Bakanlık yerine Cumhurbaşkanı), ikamet şartı (şart aranmazken aranır denmesi) ve seçme hakkını kullanma durumu (sadece 'kullanmayanlar' için geçerliyken farklı yorumlanması) gibi konularda Madde 13'teki düzenlemelere aykırı veya yanlış bilgiler içerdiği için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının yeniden kazanılması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Çıkma izni alarak vatandaşlığını kaybedenler, Türkiye'de üç yıl ikamet etmeleri halinde Cumhurbaşkanı kararıyla vatandaşlığı yeniden kazanabilirler.",
+                "B": "Ana veya babalarına bağlı olarak vatandaşlığını kaybedip kanunda öngörülen süre içinde seçme hakkını kullanmayanlar, millî güvenlik engeli olmamak kaydıyla ikamet süresine bakılmaksızın Bakanlık kararıyla vatandaşlığı yeniden kazanabilirler.",
+                "C": "Vatandaşlığı kaybettirilen herkes, millî güvenlik engeli bulunmaması şartıyla ikamet şartı aranmaksızın Bakanlık kararıyla vatandaşlığı yeniden kazanabilir.",
+                "D": "Türk vatandaşlığını kaybeden herkes, Türkiye'de kesintisiz üç yıl ikamet etme şartını yerine getirdiğinde vatandaşlığı yeniden kazanma hakkına otomatik olarak sahip olur.",
+                "E": "Millî güvenlik bakımından engel teşkil eden bir hali bulunan kişiler, Cumhurbaşkanının özel izniyle ve beş yıl Türkiye'de ikamet ederek vatandaşlığı yeniden kazanabilirler."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Ana veya babalarına bağlı olarak Türk vatandaşlığını kaybedenlerden ... seçme hakkını kullanmayanlar ... Türkiye'de ikamet etme süresine bakılmaksızın, Türk vatandaşlığını Bakanlık kararıyla yeniden kazanabilirler' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 13 ve Madde 14'teki farklı yeniden kazanma yollarına ilişkin şartları (ikamet süresi, karar mercii, vatandaşlığı kaybetme sebebi) yanlış bir şekilde birleştirdiği veya kanunda yer almayan koşullar (beş yıl ikamet, otomatik kazanım gibi) içerdiği için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığı kaybettirilen bir kişinin, millî güvenlik bakımından engel teşkil edecek bir halinin bulunmaması ve Türkiye'de üç yıl ikamet etmesi şartıyla vatandaşlığı yeniden kazanmasına karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı",
+                "B": "Bakanlık",
+                "C": "İçişleri Bakanı",
+                "D": "Yargıtay",
+                "E": "Başvurulan yer valiliği"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen '29 uncu madde uyarınca Türk vatandaşlığı kaybettirilenler Cumhurbaşkanı kararıyla ... Türk vatandaşlığını yeniden kazanabilirler' hükmüne dayanmaktadır.\n- Diğer seçenekler kanunda bu yetkinin verildiği makamlar arasında sayılmadığı için yanlıştır. B seçeneğindeki Bakanlık kararı ise, kanunun farklı bir hükmü uyarınca Türk vatandaşlığını kaybedenler için geçerli olup, vatandaşlığı kaybettirilenler için yetkili makam değildir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığını kazanma talebinde bulunan bir yabancının ikamet süresinin hesaplanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yabancının, başvuru için aranan ikamet süresi içinde Türkiye dışında bulunması halinde ikamet süresi kesintiye uğrar ve yeniden başlar.",
+                "B": "Yabancı, aranan ikamet süresi içinde toplam oniki ayı geçmemek üzere Türkiye dışında bulunabilir ve bu süreler ikamet süresi içinde değerlendirilir.",
+                "C": "Türkiye dışında geçirilen her türlü süre, ikamet süresinin hesabında dikkate alınmaz ve toplam süreden düşülür.",
+                "D": "Yabancının Türkiye dışında en fazla altı ay kalmasına izin verilir ve bu sürenin aşılması başvurunun reddine sebep olur.",
+                "E": "İkamet, bir yabancının yalnızca kesintisiz olarak Türkiye'de oturması anlamına geldiğinden, ülke dışına çıkış yapılamaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Türk vatandaşlığını kazanma talebinde bulunan bir yabancı başvuru için aranan ikamet süresi içinde toplam oniki ayı geçmemek üzere Türkiye dışında bulunabilir. Türkiye dışında geçirilen süreler bu Kanunda öngörülen ikamet süreleri içinde değerlendirilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen oniki aylık süreyi yanlış belirttiği, Türkiye dışında geçirilen sürelerin ikamet süresinden sayılmayacağını iddia ettiği veya kanunda yer almayan (kesintiye uğrama gibi) şartlar öne sürdüğü için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığı kaybettirilen ve yeniden vatandaşlık kazanmak için başvuran Bay (X), aranan üç yıllık ikamet süresi boyunca farklı zamanlarda toplam on ay yurt dışında bulunmuştur. Bay (X)'in durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yurt dışında geçirdiği süre oniki ayı aşmadığı için ikamet şartını yerine getirmiş sayılır.",
+                "B": "Yurt dışında altı aydan fazla kaldığı için ikamet süresi kesintiye uğramış sayılır ve başvurusu reddedilir.",
+                "C": "Yurt dışında geçirdiği on aylık süreyi, mevcut ikamet süresine ekleyerek toplam kırk altı ay Türkiye'de kalması gerekir.",
+                "D": "Sadece kesintisiz üç yıl Türkiye'de ikamet edenler vatandaşlığı yeniden kazanabileceğinden başvurusu kabul edilmez.",
+                "E": "İkamet süresi içinde yurt dışına çıktığı için, yeniden vatandaşlık kazanma hakkını tamamen kaybetmiştir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'başvuru için aranan ikamet süresi içinde toplam oniki ayı geçmemek üzere Türkiye dışında bulunabilir. Türkiye dışında geçirilen süreler bu Kanunda öngörülen ikamet süreleri içinde değerlendirilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen on iki aylık sınırı yanlış yorumladığı (altı ay gibi), yurt dışında geçirilen sürenin ikamet süresine ekleneceğini belirttiği veya ikametin kesintisiz olması gerektiğini ileri sürdüğü için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, bir Türk vatandaşı ile dört yıldır evli olan bir yabancı, vatandaşlık başvurusunda bulunduktan kısa bir süre sonra Türk vatandaşı eşi vefat etmiştir. Bu durumda, başvurunun değerlendirilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Başvuru sahibinde aile birliği içinde yaşama şartı aranmaz.",
+                "B": "Evlilik ölümle sona erdiği için başvuru kendiliğinden geçersiz hale gelir.",
+                "C": "Yabancı, bekleme süresi olmaksızın doğrudan Türk vatandaşlığını kazanır.",
+                "D": "Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali bulunmama şartı aranmaz.",
+                "E": "Vatandaşlığı kazanabilmesi için evliliğin en az beş yıl sürmüş olması gerekirdi."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Başvurudan sonra Türk vatandaşı eşin ölümü nedeniyle evliliğin sona ermesi halinde birinci fıkranın (a) bendindeki şart aranmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen istisnanın kapsamını yanlış yorumlamakta veya kanunda yer almayan şartlar öne sürmektedir. Kanun, eşin vefatı durumunda sadece aile birliği içinde yaşama şartının aranmayacağını, diğer şartların (millî güvenlik gibi) geçerliliğini koruduğunu belirtir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, evlenme yoluyla Türk vatandaşlığının kazanılmasına ilişkin başvuru sahiplerinde aranan şartlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Aile birliği içinde yaşama",
+                "B": "Evlilik birliği ile bağdaşmayacak bir faaliyette bulunmama",
+                "C": "Türkiye'de en az üç yıl ikamet etmiş olma",
+                "D": "Millî güvenlik bakımından engel teşkil edecek bir hali bulunmama",
+                "E": "Kamu düzeni bakımından engel teşkil edecek bir hali bulunmama"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16'da evlenme yoluyla vatandaşlık kazanma başvurusunda aranan şartlar arasında 'Türkiye'de ikamet etme' gibi bir zorunluluğun sayılmamış olmasına dayanmaktadır.\n- Diğer seçenekler (A, B, D, E), Madde 16'da açıkça belirtilen 'Aile birliği içinde yaşama', 'Evlilik birliği ile bağdaşmayacak bir faaliyette bulunmama' ve 'Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali bulunmama' şartlarıdır ve bu nedenle yanlıştır. C seçeneğindeki ikamet şartı ise başka bir vatandaşlık kazanma türü için (Madde 14) geçerlidir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, evlenme yoluyla Türk vatandaşlığını kazanan bir yabancının evliliğinin butlanına karar verilmesi, ancak bu kişinin evlenmede iyiniyetli olması durumunda ortaya çıkacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Türk vatandaşlığını muhafaza eder.",
+                "B": "Vatandaşlığı derhal ve geriye dönük olarak iptal edilir.",
+                "C": "Vatandaşlığının devamı için yeniden başvuru yapması gerekir.",
+                "D": "Beş yıl süreyle kamu hizmetlerinden men edilir.",
+                "E": "Sadece evlilikten doğan çocukları vatandaşlığı korur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Evlenme ile Türk vatandaşlığını kazanan yabancılar evlenmenin butlanına karar verilmesi halinde evlenmede iyiniyetli iseler Türk vatandaşlığını muhafaza ederler.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda yer almayan varsayımsal ve yanlış sonuçlar içerdiği için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, bir Türk vatandaşı ile evli olan yabancının, evlenme yoluyla vatandaşlık kazanmak üzere yapacağı başvuruda aranan şartlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Aile birliği içinde yaşama",
+                "B": "Evlilik birliği ile bağdaşmayacak bir faaliyette bulunmama",
+                "C": "Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali bulunmama",
+                "D": "Bir Türk vatandaşı tarafından evlat edinilmiş olma",
+                "E": "Türk vatandaşı eşiyle en az üç yıldan beri evli olma"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 16'da evlenme yoluyla vatandaşlık kazanma şartları arasında 'bir Türk vatandaşı tarafından evlat edinilmiş olma' koşulunun sayılmamış olmasına dayanmaktadır. Bu şart, Madde 17'de düzenlenen farklı bir vatandaşlık kazanma yolu olan evlat edinilme için geçerlidir.\n- Diğer seçenekler, Madde 16'da evlenme yoluyla vatandaşlık kazanmak için aranan şartlar arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, bir Türk vatandaşı ile dört yıldır evli olan ve vatandaşlık başvurusunda bulunan bir yabancı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Başvurudan sonra Türk eşinin vefat etmesi, vatandaşlık kazanmasına mutlak olarak engel teşkil eder.",
+                "B": "Evliliğin butlanına karar verilmesi durumunda, yabancı eş iyiniyetli olsa dahi kazandığı vatandaşlığı kaybeder.",
+                "C": "Başvurudan sonra Türk eşin ölümü halinde, aile birliği içinde yaşama şartı aranmaksızın süreç devam eder.",
+                "D": "Vatandaşlık başvurusu, evliliğin ikinci yılını doldurur doldurmaz yapılabilir.",
+                "E": "Vatandaşlık başvurusu, doğrudan Bakanlığa yapılarak karara bağlanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Başvurudan sonra Türk vatandaşı eşin ölümü nedeniyle evliliğin sona ermesi halinde birinci fıkranın (a) bendindeki [Aile birliği içinde yaşama] şart aranmaz' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 16'da belirtilen en az üç yıllık evlilik süresi, butlan halinde iyiniyetin korunması gibi kurallara aykırı olduğu için yanlıştır. Ayrıca Madde 18 uyarınca bu başvurular illerdeki komisyonlarca tespit edilir, doğrudan Bakanlıkça karara bağlanmaz."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, hem bir Türk vatandaşı ile evlenme yoluyla hem de bir Türk vatandaşı tarafından evlat edinilme yoluyla Türk vatandaşlığının kazanılmasında aranan ortak şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Başvuru sahibinin ergin olmaması.",
+                "B": "En az üç yıllık bir hukuki bağın bulunması.",
+                "C": "Aile birliği içinde yaşanması.",
+                "D": "Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir halin bulunmaması.",
+                "E": "Başvurunun illerde oluşturulan vatandaşlık başvuru inceleme komisyonu tarafından incelenmesi."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, hem Madde 16'da evlenme yoluyla kazanım için hem de Madde 17'de evlat edinilme yoluyla kazanım için ortak olarak aranan 'Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali bulunmama' şartına dayanmaktadır.\n- Diğer seçenekler: Ergin olmama şartı sadece evlat edinilmede, en az üç yıllık bağ ve aile birliği içinde yaşama şartları ise sadece evlenme yoluyla kazanımda arandığı için yanlıştır; komisyon tarafından tespit usulü de metinde sadece evlenme yolu için belirtilmiştir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, bir Türk vatandaşı tarafından evlat edinilme yoluyla Türk vatandaşlığının kazanılmasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Evlat edinilen kişinin ergin olup olmaması vatandaşlık kazanımını etkilemez.",
+                "B": "Vatandaşlık, evlat edinme başvurusunun yapıldığı tarihten itibaren kazanılır.",
+                "C": "Evlat edinme yoluyla vatandaşlık kazanmak için en az üç yıl bekleme süresi aranır.",
+                "D": "Evlat edinen Türk vatandaşının en az beş yıldır Türkiye'de ikamet etmesi şarttır.",
+                "E": "Evlat edinilen ergin olmayan kişinin, millî güvenlik ve kamu düzeni açısından engel bir hali bulunmaması gerekir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali bulunmamak şartıyla' Türk vatandaşlığının kazanılabileceği hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen şartlara (ergin olmama, vatandaşlığın karar tarihinden itibaren kazanılması) aykırıdır veya evlat edinme yoluyla vatandaşlık kazanımına ilişkin düzenlenmemiş (bekleme süresi, ikamet şartı gibi) unsurlar içermektedir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, genel hükümlere veya evlenme yoluna dayanarak Türk vatandaşlığını kazanmak isteyen yabancıların başvuru için gerekli şartları taşıyıp taşımadıklarını tespit etme görevi aşağıdaki mercilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İllerde oluşturulan vatandaşlık başvuru inceleme komisyonu",
+                "B": "Doğrudan Bakanlık tarafından görevlendirilen merkez teşkilatı",
+                "C": "İlgili yabancının vatandaşı olduğu ülkenin Türkiye'deki konsolosluğu",
+                "D": "Valiliklere bağlı il göç idaresi müdürlükleri",
+                "E": "İlçe nüfus müdürlükleri"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen '...başvuru için gerekli şartları taşıyıp taşımadıklarının tespiti, illerde oluşturulan vatandaşlık başvuru inceleme komisyonu tarafından yapılır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamlar, kanunda bu özel tespit görevi için yetkilendirilmemiştir. Bakanlık, dosya kendisine gönderildikten sonra nihai karar mercii olarak görev yapsa da ilk tespiti komisyon yapar."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, yetkili makam kararı ile Türk vatandaşlığını kazanma sürecinde, başvuru dosyasını inceleyerek durumu uygun bulunanların vatandaşlığı kazanmasına veya uygun görülmeyenlerin taleplerinin reddedilmesine karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Vatandaşlık başvuru inceleme komisyonu",
+                "B": "Başvurunun yapıldığı ilin valiliği",
+                "C": "Cumhurbaşkanı",
+                "D": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü",
+                "E": "Bakanlık"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Bakanlıkça yapılacak inceleme ve araştırma sonucunda durumu uygun bulunanlar Bakanlık kararı ile Türk vatandaşlığını kazanabilirler, uygun görülmeyenlerin talepleri ise Bakanlıkça reddedilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen nihai karar mercii olmadıkları için yanlıştır. Vatandaşlık başvuru inceleme komisyonu, nihai kararı vermeyip yalnızca başvuru şartlarının taşınıp taşınmadığını tespit etmekle görevlidir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, yetkili makam kararı ile Türk vatandaşlığını kazanmak amacıyla başvuruda bulunan ve gerekli şartları taşıyan bir yabancı hakkında, yapılacak inceleme ve araştırma sonucunda vatandaşlığa kabul veya ret yönünde nihai kararı verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Vatandaşlık dosyasını ilk düzenleyen yetkili makama",
+                "B": "Bakanlığa",
+                "C": "Cumhurbaşkanına",
+                "D": "Yabancının mutad meskeninin bulunduğu yerdeki hakime",
+                "E": "İnceleme ve araştırmayı yürüten uzmanlar kuruluna"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen '...durumu uygun bulunanlar Bakanlık kararı ile Türk vatandaşlığını kazanabilirler, uygun görülmeyenlerin talepleri ise Bakanlıkça reddedilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen usul ve yetki dağılımına aykırıdır. Vatandaşlık dosyasını düzenleyen ilk yetkili makam sadece hazırlık aşamasında rol alırken, nihai karar verme yetkisi münhasıran Bakanlığa verilmiştir. Metinde Cumhurbaşkanı, hakim veya özel bir kurula bu konuda bir yetki tanınmamıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, yetkili makam kararı ile bir yabancının Türk vatandaşlığını kazanması durumunda, bu kişinin ailesi üzerindeki hukuki sonuçlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vatandaşlığı kazanan kişinin eşinin vatandaşlığı bu durumdan etkilenmez.",
+                "B": "Ana veya babanın velayetindeki çocukları, diğer eşin rızası olmasa bile otomatik olarak Türk vatandaşı olur.",
+                "C": "Türk vatandaşlığını birlikte kazanan ana ve babanın çocukları, ergin olduktan sonra ayrı bir başvuru yapmalıdır.",
+                "D": "Diğer eşin muvafakat vermemesi halinde, çocuğun vatandaşlık durumu hakkında karar verme yetkisi Bakanlığa aittir.",
+                "E": "Ana veya babasıyla birlikte işlem görmeyen çocuklar, ergin olduktan sonra herhangi bir şart aranmaksızın Türk vatandaşı sayılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Yetkili makam kararı ile Türk vatandaşlığının kazanılması eşin vatandaşlığına tesir etmez.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen çocukların vatandaşlık kazanma usullerine (diğer eşin muvafakati, birlikte kazanma, ergin olduktan sonra başvuru şartları) aykırı veya yanlış bilgiler içerdiği için hatalıdır. Örneğin, diğer eşin muvafakati gerekir ve muvafakat yoksa karar yetkisi Bakanlığa değil, hakime aittir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kazanılmasının hüküm ifade etme ani ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bakanlık kararı ile kazanılan vatandaşlık, vatandaşlık dosyasının düzenlendiği tarihten itibaren hüküm ifade eder.",
+                "B": "Seçme hakkı ile kazanılan vatandaşlık, kişinin ergin olduğu tarihten itibaren hüküm ifade eder.",
+                "C": "Bakanlık kararı ile kazanılan vatandaşlık, kararın verildiği tarihten itibaren hüküm ifade eder.",
+                "D": "Tüm kazanma yollarında vatandaşlık, başvurunun yapıldığı tarihten itibaren hüküm ifade eder.",
+                "E": "Seçme hakkı ile kazanılan vatandaşlık, başvurunun Bakanlığa gönderildiği tarihten itibaren hüküm ifade eder."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Türk vatandaşlığının kazanılmasına ilişkin kararlar, karar tarihinden itibaren hüküm ifade eder.' hükmüne dayanmaktadır. Bu kural, Bakanlık kararıyla kazanım için geçerlidir.\n- Diğer seçenekler: A ve D seçenekleri, kanunda belirtilen 'karar tarihi' esasını yanlış yansıtmaktadır. B ve E seçenekleri ise Madde 22'de seçme hakkı için belirtilen 'bu hakkın kullanılmasına dair şartların tespitine ilişkin karar tarihi' kuralına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, yetkili makam kararı ile Türk vatandaşlığının kazanılmasının geçerliliği ve sonuçları hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Vatandaşlığın kazanılmasına ilişkin kararlar, karar tarihinden itibaren hüküm ifade eder.",
+                "B": "Türk vatandaşlığını birlikte kazanan ana ve babanın çocukları da Türk vatandaşlığını kazanır.",
+                "C": "Ana veya babalarına bağlı olarak vatandaşlığı kaybeden çocuklar, ergin olmalarından itibaren beş yıl içinde seçme hakkını kullanabilir.",
+                "D": "Eşlerden birinin vatandaşlığı kazanması, diğer eşin vatandaşlık durumunu doğrudan etkilemez.",
+                "E": "Velayet altındaki çocuğun vatandaşlığı kazanması için diğer eş muvafakat etmezse, ana veya babanın mutad meskeninin bulunduğu ülkedeki hâkim kararına göre işlem yapılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'ana veya babalarına bağlı olarak Türk vatandaşlığını kaybeden çocuklar ergin olmalarından itibaren üç yıl içinde seçme hakkını kullanmak suretiyle Türk vatandaşlığını kazanabilirler' hükmüne aykırıdır; kanunda bu süre üç yıl olarak belirtilmiştir, beş yıl değil.\n- Diğer seçenekler, Madde 20'de yer alan vatandaşlığın kazanılmasının geçerliliği ve sonuçlarına ilişkin doğru hükümlerdir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, ana veya babalarına bağlı olarak Türk vatandaşlığını kaybeden çocukların, seçme hakkını kullanarak yeniden Türk vatandaşlığını kazanabilmeleri için bu hakkı kullanmaları gereken süre aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Ergin olmalarından itibaren üç yıl içinde",
+                "B": "Vatandaşlığı kaybettikleri tarihten itibaren beş yıl içinde",
+                "C": "Ergin olmalarından itibaren bir yıl içinde",
+                "D": "Vatandaşlığı kaybettikleri tarihten itibaren on yıl içinde",
+                "E": "Herhangi bir süre sınırı olmaksızın, ergin olduktan sonra diledikleri zaman"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'ana veya babalarına bağlı olarak Türk vatandaşlığını kaybeden çocuklar ergin olmalarından itibaren üç yıl içinde seçme hakkını kullanmak suretiyle Türk vatandaşlığını kazanabilirler.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler veya sürenin başlangıcına ilişkin ifadeler kanuni düzenlemeyle uyuşmadığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, seçme hakkı ile Türk vatandaşlığının kazanılmasının geçerliliği ve sonuçları hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vatandaşlığın kazanılması, bu hakkın kullanılmasına dair şartların tespitine ilişkin karar tarihinden itibaren hüküm ifade eder.",
+                "B": "Seçme hakkını kullanan kişinin eşi ve çocukları da herhangi bir ek işleme gerek kalmaksızın otomatik olarak Türk vatandaşı olur.",
+                "C": "Vatandaşlığın kazanılması, kişinin ergin olduğu tarihten itibaren geriye dönük olarak hüküm ifade eder.",
+                "D": "Bu yolla vatandaşlık kazanan kişinin sadece çocukları için özel hükümler uygulanır, eşinin vatandaşlık durumu etkilenmez.",
+                "E": "Vatandaşlığın kazanılmasına ilişkin karar, Resmi Gazete'de yayımlandığı tarihten itibaren hüküm ve sonuçlarını doğurur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Seçme hakkı ile Türk vatandaşlığının kazanılması, bu hakkın kullanılmasına dair şartların tespitine ilişkin karar tarihinden itibaren hüküm ifade eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen hüküm ifade etme anını veya aile üyeleri üzerindeki sonuçları yanlış yansıttığı için hatalıdır. Kanun, eş ve çocukların otomatik olarak vatandaş olacağını değil, haklarında başka hükümlerin (20. madde hükümleri) uygulanacağını belirtir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, ana veya babasına bağlı olarak Türk vatandaşlığını kaybeden ve ergin olduktan sonra seçme hakkını kullanarak yeniden Türk vatandaşlığını kazanan bir kişinin, yabancı eşi ve velayeti kendisinde bulunan çocuğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kişinin Türk vatandaşlığını kazanmasıyla birlikte eşi de kendiliğinden Türk vatandaşı olur.",
+                "B": "Velayeti altındaki çocuğu, diğer eşin muvafakati olmaksızın doğrudan Türk vatandaşlığını kazanır.",
+                "C": "Velayeti altındaki çocuğunun Türk vatandaşlığını kazanabilmesi için diğer eşin muvafakati gerekir.",
+                "D": "Çocuğu, ancak ergin olduktan sonra Türk vatandaşlığı için başvuruda bulunabilir.",
+                "E": "Eşinin ve çocuğunun vatandaşlık durumu, Bakanlık tarafından re'sen belirlenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'nin yaptığı atıf uyarınca uygulanacak olan Madde 20'de belirtilen 'Ana veya babanın velayeti kendisinde bulunan çocukları, diğer eşin muvafakat etmesi halinde Türk vatandaşlığını kazanır.' hükmüne dayanmaktadır. Seçme hakkıyla vatandaşlık kazananların eş ve çocukları hakkında Madde 20 hükümleri uygulanır.\n- Diğer seçenekler: A seçeneği, Madde 20'de yer alan 'Türk vatandaşlığının kazanılması eşin vatandaşlığına tesir etmez' kuralına aykırıdır. B seçeneği, muvafakat şartını göz ardı ettiği için yanlıştır. D seçeneği, ana veya babasıyla birlikte işlem görmeyen çocukların durumunu düzenleyen farklı bir kuraldır. E seçeneği ise kanunda yer almayan bir usuldür."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, seçme hakkı ile Türk vatandaşlığının kazanılması hangi andan itibaren hüküm ifade eder?",
+            "secenekler": {
+                "A": "Başvurunun ilgili makama ulaştığı tarihten itibaren",
+                "B": "Kişinin seçme hakkını kullanma iradesini beyan ettiği tarihten itibaren",
+                "C": "Bu hakkın kullanılmasına dair şartların tespitine ilişkin karar tarihinden itibaren",
+                "D": "Kişinin diğer devlet vatandaşlığından çıktığına dair belgenin sunulduğu tarihten itibaren",
+                "E": "Bakanlıkça vatandaşlığa kabul belgesinin düzenlendiği tarihten itibaren"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Seçme hakkı ile Türk vatandaşlığının kazanılması, bu hakkın kullanılmasına dair şartların tespitine ilişkin karar tarihinden itibaren hüküm ifade eder.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen anlar, kanunda seçme hakkı ile vatandaşlığın kazanılmasının hüküm ifade etmeye başladığı an olarak tanımlanmadığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının 'seçme hakkı'nın kullanılması yoluyla kazanılması veya kaybedilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Seçme hakkı, hem Türk vatandaşlığının kazanılmasına hem de kaybedilmesine yol açabilen bir yoldur.",
+                "B": "Seçme hakkı ile vatandaşlığın kazanılması, bu yöndeki talebin yapıldığı tarihten itibaren hüküm ifade eder.",
+                "C": "Seçme hakkının kullanılması, yetkili makam kararı ile vatandaşlığın kaybedilmesi yollarından bir alt kategoridir.",
+                "D": "Seçme hakkını kullanarak Türk vatandaşlığını kazanan kişilerin eşleri ve çocukları bu haktan etkilenmez.",
+                "E": "Vatandaşlığı seçme hakkı ile kaybeden bir kişinin, yeniden vatandaşlık kazanması mümkün değildir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 22'de seçme hakkının vatandaşlığı kazanma yolu olarak, Madde 23'te ise bir kayıp hali olarak ayrı ayrı düzenlenmiş olmasına dayanmaktadır. Bu durum, seçme hakkının çift yönlü bir hukuki müessese olduğunu gösterir.\n- Diğer seçenekler: B seçeneği, Madde 22'deki 'karar tarihinden itibaren' hükmüyle çelişir; C seçeneği, Madde 23'te bu iki yolun ayrı ve eşdeğer yollar olarak sayılması nedeniyle yanlıştır; D seçeneği, Madde 22'de eş ve çocuklar hakkında özel hüküm uygulanacağının belirtilmesiyle çelişir; E seçeneğinde belirtilen husus ise kanunda yer almamaktadır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kaybı hangi temel yollarla gerçekleşir?",
+            "secenekler": {
+                "A": "Yetkili makam kararı veya seçme hakkının kullanılması",
+                "B": "Vatandaşlığa alınmanın iptali veya askerlik hizmetinden kaçınma",
+                "C": "Çıkma izni alınması veya yurt dışında sürekli ikamet etme",
+                "D": "Kaybettirme kararı veya yabancı bir devlet vatandaşlığını kazanma",
+                "E": "Bakanlıkça verilen çıkma belgesi veya ergin olmama"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Türk vatandaşlığı, yetkili makam kararı veya seçme hakkının kullanılması ile kaybedilir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde yer alan 'vatandaşlığa alınmanın iptali', 'çıkma' ve 'kaybettirme' gibi yollar, 'yetkili makam kararı'nın alt türleridir. Diğer ifadeler ise ya vatandaşlıktan çıkma şartları ya da kanunda belirtilen temel kayıp yolları arasında yer almayan durumlardır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, yetkili makam kararı ile Türk vatandaşlığının kaybı aşağıdaki yollardan hangisi veya hangileri ile gerçekleşir?\n\nİ. Çıkma\nIİ. Kaybettirme\nIİİ. Vatandaşlığa alınmanın iptali",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen 'Yetkili makam kararı ile Türk vatandaşlığının kaybı, çıkma veya kaybettirme ya da vatandaşlığa alınmanın iptali ile gerçekleşir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda sayılan tüm yolları kapsamadığı için eksiktir ve bu nedenle yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığından çıkmak için izin isteyen bir kişiye çıkma izni veya çıkma belgesi verilebilmesi için aranan şartlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Ergin ve ayırt etme gücüne sahip olmak.",
+                "B": "Yabancı bir devlet vatandaşlığını kazanmış olmak veya kazanacağına ilişkin inandırıcı belirtiler bulunmak.",
+                "C": "Herhangi bir suç veya askerlik hizmeti nedeniyle aranan kişilerden olmamak.",
+                "D": "Hakkında herhangi bir mali ve cezai tahdit bulunmamak.",
+                "E": "Türkiye'de en az beş yıl kesintisiz ikamet etmiş olmak."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen Türk vatandaşlığından çıkma şartları arasında 'Türkiye'de belirli bir süre ikamet etmiş olmak' şeklinde bir hükmün bulunmamasına dayanmaktadır.\n- Diğer seçeneklerde yer alan hususlar, kanunda çıkma izni için aranan şartlar olarak açıkça sayılmıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığından çıkmak için izin isteyen ancak hakkında bir suç nedeniyle arama kararı bulunan bir kişiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hakkındaki arama kararı, vatandaşlıktan çıkma talebini etkilemez ve kişiye derhal çıkma belgesi verilir.",
+                "B": "Bu durum, vatandaşlığın 'kaybettirme' yoluyla sona erdirilmesini gerektiren bir haldir.",
+                "C": "Bu kişiye, aranan kişilerden olmama şartını taşımadığı için Bakanlıkça çıkma izni verilmeyebilir.",
+                "D": "Kişinin yabancı bir devlet vatandaşlığını kazanmış olması, arama kararına rağmen çıkma izni verilmesi için yeterlidir.",
+                "E": "Vatandaşlıktan çıkma talebi, seçme hakkının kullanılması olarak kabul edilir ve işlem bu şekilde tamamlanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te Türk vatandaşlığından çıkma izni verilebilmesi için aranan şartlardan birinin 'Herhangi bir suç veya askerlik hizmeti nedeniyle aranan kişilerden olmamak' şeklinde belirtilmiş olmasına dayanmaktadır.\n- Diğer seçenekler: B ve E seçenekleri, vatandaşlıktan çıkma (çıkma) usulünü, kanunda düzenlenen farklı kayıp yolları olan kaybettirme ve seçme hakkı ile karıştırdığı için; A ve D seçenekleri ise Madde 25'te sayılan şartların bir bütün olarak aranması gerekliliğiyle çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığından çıkmak için izin isteyen bir kişide aranan şartlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Ergin ve ayırt etme gücüne sahip olmak.",
+                "B": "Yabancı bir devlet vatandaşlığını kazanmış olmak veya kazanacağına ilişkin inandırıcı belirtiler bulunmak.",
+                "C": "Hakkında herhangi bir mali ve cezai tahdit bulunmamak.",
+                "D": "Herhangi bir suç veya askerlik hizmeti nedeniyle aranan kişilerden olmamak.",
+                "E": "Türkiye'de kesintisiz olarak en az iki yıl ikamet etmiş olmak."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen Türk vatandaşlığından çıkma izni verilebilmesi için aranan şartlar arasında 'belirli bir süre ikamet etme' zorunluluğunun yer almamasına dayanmaktadır.\n- Diğer seçenekler, kanunda açıkça sayılan; ergin ve ayırt etme gücüne sahip olma, yabancı bir devlet vatandaşlığını kazanmış veya kazanacak olma, aranan kişilerden olmama ve hakkında mali veya cezai tahdit bulunmama gibi geçerli şartları içerdiği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, doğumla Türk vatandaşı olup çıkma izni almak suretiyle Türk vatandaşlığını kaybeden kişilere tanınan haklardan aşağıdakilerden hangisi yararlanma koşulları arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Altsoyun, üstsoyu ile soy bağını belgelendirmesi",
+                "B": "Millî güvenliğe ve kamu düzenine ilişkin hükümlerin saklı tutulması",
+                "C": "Yabancı bir devlet vatandaşlığını kazanmış olmak veya kazanacağına ilişkin inandırıcı belirtiler bulunmak",
+                "D": "Bakanlığın tespit edeceği esaslar çerçevesinde kimlik numarası verilmesi",
+                "E": "Sosyal güvenliğe ilişkin kazanılmış hakların kullanımında ilgili kanunlara tabi olunması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Yabancı bir devlet vatandaşlığını kazanmış olmak veya kazanacağına ilişkin inandırıcı belirtiler bulunmak' hükmüne dayanmaktadır. Bu, Türk vatandaşlığından çıkmak için aranan bir şart olup, çıkma sonrası tanınan haklardan yararlanma koşulu değildir.\n- Diğer seçenekler: Madde 28'de, çıkma izniyle vatandaşlığı kaybeden kişilere tanınan hakların kullanımıyla ilgili şartlar veya sonuçlar arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, yabancı bir devlet vatandaşlığını kazanmak üzere verilen Türk vatandaşlığından çıkma izin belgesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Karar tarihinden itibaren bir yıl geçerlidir ve süresi sonunda kendiliğinden yenilenir.",
+                "B": "Süresiz geçerlidir ancak yabancı devlet vatandaşlığının kazanıldığı derhal Bakanlığa bildirilmelidir.",
+                "C": "Karar tarihinden itibaren üç yıl geçerlidir ve bu süre içinde yabancı devlet vatandaşlığı kazanılamazsa kişiye idari para cezası verilir.",
+                "D": "Yalnızca yurt dışındaki dış temsilciliklere ibraz edilmek üzere verilir ve geçerlilik süresi bulunmamaktadır.",
+                "E": "Karar tarihinden itibaren iki yıl geçerlidir ve bu süre içinde yabancı devlet vatandaşlığı kazanılamazsa geçersiz hale gelir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'Çıkma izin belgesi, karar tarihinden itibaren iki yıl geçerlidir. ... Süresi içinde yabancı devlet vatandaşlığının kazanılamaması durumunda çıkma izin belgesi geçersiz hale gelir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, belgenin geçerlilik süresini (bir yıl, üç yıl, süresiz) veya sürenin sonunda ortaya çıkan hukuki sonucu (yenilenme, para cezası) yanlış belirttiği için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, yabancı bir devlet vatandaşlığını kazanmak amacıyla Türk vatandaşlığından çıkma izin belgesi alan ancak bu belgeyi aldığı tarihten itibaren iki yıl içinde yabancı devlet vatandaşlığını kazandığını belgeleyemeyen bir kişiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kişi, iki yıllık sürenin sonunda Bakanlık kararıyla otomatik olarak Türk vatandaşlığını kaybeder.",
+                "B": "Türk vatandaşlığından çıkma izin belgesi geçersiz hale gelir ve kişi Türk vatandaşı olarak kalmaya devam eder.",
+                "C": "Kişiye, yabancı devlet vatandaşlığını kazanamamış olsa dahi imza karşılığı çıkma belgesi teslim edilir.",
+                "D": "Kişinin nüfus aile kütüğündeki kaydı kapatılır ve hakkında yabancı muamelesi uygulanmaya başlanır.",
+                "E": "Bakanlık, bu kişiye yabancı vatandaşlık kazanması için iki yıllık ek bir süre tanımak zorundadır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'Süresi içinde yabancı devlet vatandaşlığının kazanılamaması durumunda çıkma izin belgesi geçersiz hale gelir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 26 ve 27'de düzenlenen vatandaşlığın kaybedilme anının ancak 'çıkma belgesi'nin teslimi ile gerçekleşeceği ve izin belgesinin geçersiz hale gelmesine ilişkin kurallarla çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, eşlerden birinin çıkma izni almak suretiyle Türk vatandaşlığını kaybetmesinin sonuçları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vatandaşlığını kaybeden eşin bu durumu, diğer eşin vatandaşlığını doğrudan etkiler ve onun da vatandaşlığı son bulur.",
+                "B": "Eşlerden birinin vatandaşlığı kaybetmesi, diğer eşin muvafakati olmasa dahi çocukların da otomatik olarak vatandaşlığı kaybetmesine neden olur.",
+                "C": "Türk vatandaşlığını kaybeden ana ya da babanın talebinin bulunması ve diğer ebeveynin de muvafakat etmesi halinde, çocukları da kendileri ile birlikte Türk vatandaşlığını kaybedebilirler.",
+                "D": "Diğer ebeveynin muvafakat vermemesi, çocukların vatandaşlığı kaybetmesini kesin olarak engeller ve bu durumda hâkim kararına başvurulamaz.",
+                "E": "Çocukların vatansız kalma ihtimali olsa bile, ebeveynlerin ortak talebiyle vatandaşlık kaybı gerçekleşir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Türk vatandaşlığını kaybeden ana ya da babanın talebinin bulunması ve diğer ebeveynin de muvafakat etmesi halinde çocukları da kendileri ile birlikte Türk vatandaşlığını kaybederler' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilenin aksine diğer eşin vatandaşlığının etkilenmeyeceğini, çocukların vatandaşlık kaybı için talep ve muvafakat (veya hâkim kararı) gerektiğini ve çocukların vatansız kalmasına yol açacak bir işlemin yapılamayacağını düzenleyen hükümlere aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybeden kişilerin sahip olduğu hak ve yükümlülüklerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Seçme ve seçilme hakları bulunmamaktadır.",
+                "B": "Sosyal güvenliğe ilişkin kazanılmış hakları saklıdır.",
+                "C": "Askerlik hizmetini yapma yükümlülükleri devam eder.",
+                "D": "Muafen araç veya ev eşyası ithal etme hakları yoktur.",
+                "E": "Kamu kurumlarında sözleşmeli personel olarak çalıştırılabilirler."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'askerlik hizmetini yapma yükümlülüğü yoktur' hükmüne dayanmaktadır. Bu hüküm uyarınca, bu kişilerin askerlik yükümlülüğü bulunmamaktadır.\n- Diğer seçenekler: Madde 28'de bu kişiler için tanınan haklar veya getirilen istisnalar arasında doğru bir şekilde sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, doğumla Türk vatandaşı olup çıkma izniyle vatandaşlığını kaybeden kişilerin kamu hizmetine girmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kamu kurum ve kuruluşlarında işçi, geçici veya sözleşmeli personel olarak çalıştırılabilirler.",
+                "B": "Bir kadroya dayalı asli ve sürekli kamu hizmeti görevlerinde bulunabilirler.",
+                "C": "Kamu hizmetine girmeleri her ne suretle olursa olsun yasaklanmıştır.",
+                "D": "Yalnızca işçi statüsünde kamu kurumlarında görev alabilirler.",
+                "E": "Kamu hukuku rejimine tabi tüm görevlerde bulunma hakları saklıdır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Ancak kamu kurum ve kuruluşlarında işçi, geçici veya sözleşmeli personel olarak çalıştırılabilirler' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun, bu kişilerin bir kadroya dayalı asli ve sürekli kamu hizmeti görevlerinde bulunamayacağını açıkça belirttiği ve sadece belirli statülerde çalışmaya izin verdiği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, doğumla Türk vatandaşı olup çıkma izniyle vatandaşlığını kaybedenlerin altsoylarına tanınan hakların kapsamının üçüncü dereceden itibaren genişletilmesine karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bakanlık",
+                "B": "Cumhurbaşkanı",
+                "C": "İlgili valilik",
+                "D": "Dış temsilcilikler",
+                "E": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Cumhurbaşkanı gerekli görmesi halinde üçüncü dereceden itibaren hangi dereceye kadar olan altsoyların bu maddede tanınan haklardan faydalanabileceğini belirleyebilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun bu yetkiyi açıkça Cumhurbaşkanına verdiği için diğer idari makamları belirten seçenekler yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Mavi Kart sahibi bir kişinin, bu kartı ibraz edememesi durumunda haklarından faydalanabilmesi için aşağıdaki yöntemlerden hangisi uygulanır?",
+            "secenekler": {
+                "A": "Bakanlığa başvurarak yeni bir kart düzenlenmesini beklemesi gerekir.",
+                "B": "Yalnızca uyruğunda bulunduğu devletin kimlik belgesini göstermesi yeterlidir.",
+                "C": "Kimlik Paylaşımı Sistemi aracılığıyla Mavi Kartlılar Kütüğünden alınacak kayıt örneği ve yabancı kimlik belgesi ile işlem yapılır.",
+                "D": "İşlemin yapılabilmesi için kartın aslının ibrazı mutlak zorunlu olduğundan hiçbir işlem yapılamaz.",
+                "E": "Türkiye Cumhuriyeti kimlik numarasını sözlü olarak beyan etmesi yeterli kabul edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Kartın ibraz edilememesi durumunda Kimlik Paylaşımı Sistemi aracılığıyla Mavi Kartlılar Kütüğünden alınacak kayıt örneği ve uyruğunda bulunulan devlet makamlarınca verilmiş kimlik bilgilerini gösteren belge ile işlem yapılır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen alternatif ispat yöntemine aykırı oldukları için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybeden bir kişi ve üçüncü dereceye kadar olan altsoyları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Sosyal güvenliğe ilişkin kazanılmış hakları saklıdır ve bu hakların kullanımında ilgili kanunlara tabidirler.",
+                "B": "Bir kadroya dayalı, asli ve sürekli kamu hizmeti görevlerinde bulunabilirler.",
+                "C": "Milli güvenliğe ve kamu düzenine ilişkin hükümler saklı kalmak kaydıyla Türk vatandaşlarına tanınan haklardan aynen yararlanmaya devam ederler.",
+                "D": "Askerlik hizmetini yapma yükümlülükleri bulunmamaktadır.",
+                "E": "Kamu kurum ve kuruluşlarında işçi, geçici veya sözleşmeli personel olarak çalıştırılabilirler."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'bir kadroya dayalı ve kamu hukuku rejimine tabi olarak asli ve sürekli kamu hizmeti görevlerinde bulunamazlar' hükmüne dayanmaktadır. Bu ifade, seçenekte belirtilenin tam tersidir.\n- Diğer seçenekler: Madde 28'de bu kişilere tanınan haklar (sosyal güvenlik, genel haklardan yararlanma, sözleşmeli çalışma) veya kaldırılan yükümlülükler (askerlik) arasında açıkça sayıldığı için doğrudur."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybeden kişilerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bu kişilerin sosyal güvenliğe ilişkin kazanılmış hakları saklıdır.",
+                "B": "Askerlik hizmetini yapma yükümlülükleri bulunmamaktadır.",
+                "C": "Kamu kurumlarında sadece işçi veya geçici personel olarak çalışabilirler, sözleşmeli personel olamazlar.",
+                "D": "Bu haklardan yararlanacak altsoyun, üstsoyu ile soy bağını belgelendirmesi şarttır.",
+                "E": "Talepleri halinde, haklardan faydalanabileceklerini gösteren Mavi Kart düzenlenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28'de yer alan 'Ancak kamu kurum ve kuruluşlarında işçi, geçici veya sözleşmeli personel olarak çalıştırılabilirler.' hükmüne dayanmaktadır. Kanun, bu kişilerin sözleşmeli personel olarak da çalışabileceğini açıkça belirtmektedir.\n- Diğer seçeneklerdeki ifadeler (kazanılmış sosyal güvenlik haklarının saklı olması, askerlik yükümlülüğünün bulunmaması, altsoyun soy bağını belgeleme şartı ve Mavi Kart düzenlenmesi) kanun metninde doğru bir şekilde yer almaktadır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybeden kişilerin sahip olmadığı hak veya yükümlülükler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Seçme ve seçilme hakkı",
+                "B": "Askerlik hizmetini yapma yükümlülüğü",
+                "C": "Muafen ev eşyası ithal etme hakkı",
+                "D": "Bir kadroya dayalı asli ve sürekli kamu hizmeti görevlerinde bulunma",
+                "E": "Yabancı bir devletin, Türkiye'nin menfaatlerine uymayan bir hizmetinde bulunmama yükümlülüğü"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 28'de doğumla Türk vatandaşı olup çıkma izniyle vatandaşlığını kaybedenlerin sahip olmadığı hak ve yükümlülüklerin sınırlı sayıda sayılmış olmasına dayanmaktadır. Bu istisnalar arasında 'seçme ve seçilme hakkı', 'askerlik yükümlülüğü', 'muafen eşya ithal etme hakkı' ve 'asli ve sürekli kamu hizmetinde bulunma' yer almaktadır.\n- E seçeneğindeki durum ise vatandaşlığın kaybettirilmesi sebeplerinden biri olup, bu madde kapsamında sayılan bir istisna değildir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, çıkma izni alarak Türk vatandaşlığını kaybedenlerin üçüncü dereceden itibaren hangi dereceye kadar olan altsoylarının tanınan haklardan faydalanabileceğini belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İçişleri Bakanlığı",
+                "B": "Dış Temsilcilikler",
+                "C": "Cumhurbaşkanı",
+                "D": "Mülki İdare Amirleri",
+                "E": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Cumhurbaşkanı gerekli görmesi halinde üçüncü dereceden itibaren hangi dereceye kadar olan altsoyların bu maddede tanınan haklardan faydalanabileceğini belirleyebilir.' hükmüne dayanmaktadır. Yetki açıkça Cumhurbaşkanına verilmiştir.\n- Diğer seçeneklerde belirtilen makamların bu konuda bir belirleme yetkisi bulunmamaktadır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Cumhurbaşkanının Türk vatandaşlığının kaybı ve buna bağlı haklara ilişkin yetkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Çıkma izniyle vatandaşlığını kaybedenlerin Mavi Kart alıp alamayacağına karar verir.",
+                "B": "Yabancı bir devletin Türkiye menfaatlerine uymayan hizmetinde bulunan kişilerin vatandaşlığını, herhangi bir süre vermeden doğrudan kaybettirebilir.",
+                "C": "Gerekli görmesi halinde, çıkma izniyle vatandaşlığını kaybedenlerin üçüncü dereceden daha uzak altsoylarının da belirli haklardan faydalanabileceğini belirleyebilir.",
+                "D": "Çıkma izniyle vatandaşlığını kaybedenlerin askerlik hizmetini yapıp yapmayacağını takdir eder.",
+                "E": "Belirli suçlardan hakkında soruşturma yürütülen ve yurda dön ilanına uymayan kişilerin vatandaşlığının kaybettirilmesi için mahkemeye talepte bulunur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28(4)'te belirtilen 'Cumhurbaşkanı gerekli görmesi halinde üçüncü dereceden itibaren hangi dereceye kadar olan altsoyların bu maddede tanınan haklardan faydalanabileceğini belirleyebilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda Cumhurbaşkanına böyle bir yetki verilmediği için yanlıştır. Mavi Kart talep halinde düzenlenir (Madde 28), menfaate aykırı hizmette bulunanlara süre verilmesi zorunludur (Madde 29), askerlik yükümlülüğü yoktur (Madde 28) ve vatandaşlığı kaybettirme kararını doğrudan kendisi verir, talepte bulunmaz (Madde 29)."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, aşağıdakilerden hangisi Cumhurbaşkanı kararı ile Türk vatandaşlığının kaybettirilebileceği eylemler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Türkiye ile savaş hâlinde bulunan bir devletin hizmetinde Cumhurbaşkanının izni olmaksızın kendi isteğiyle çalışmaya devam etmek.",
+                "B": "Yabancı bir devletin, Türkiye'nin menfaatlerine uymayan bir hizmetinde, yapılan bildirime rağmen verilen süre içinde görevi bırakmamak.",
+                "C": "İzin almaksızın yabancı bir devlet hizmetinde gönüllü olarak askerlik yapmak.",
+                "D": "Doğumla Türk vatandaşı olup başka bir devlet vatandaşlığına geçmek için çıkma izni almak.",
+                "E": "Belirli suçlardan dolayı hakkında soruşturma yürütülürken yurt dışında bulunup, Resmî Gazetedeki yurda dön ilânına rağmen üç ay içinde yurda dönmemek."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 29'da vatandaşlığın kaybettirilmesi sebepleri arasında sayılmayan bir durumu ifade etmektedir. Çıkma izni almak suretiyle vatandaşlığın kaybı, kişinin kendi iradesiyle başvurduğu bir yol olup, devletin bir eylem nedeniyle cezai nitelikte vatandaşlığı kaybettirmesi durumu değildir.\n- Diğer seçenekler, Madde 29'da açıkça Cumhurbaşkanı kararıyla Türk vatandaşlığının kaybettirilebileceği eylemler olarak belirtildiği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, belirli suçlar nedeniyle hakkında soruşturma veya kovuşturma yürütülen ve yabancı ülkede bulunması sebebiyle kendisine ulaşılamayan vatandaşların, Resmî Gazetede yapılan yurda don ilanına rağmen geri gelmemeleri halinde vatandaşlıklarının kaybettirilebilmesi için tanınan süre ne kadardır?",
+            "secenekler": {
+                "A": "Bir ay",
+                "B": "Üç ay",
+                "C": "Altı ay",
+                "D": "Bir yıl",
+                "E": "Süre sınırı yoktur, makul bir süre beklenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Bakanlıkça Resmî Gazetede yapılan yurda dön ilanına rağmen üç ay içinde yurda dönmemeleri halinde, bu kişilerin Türk vatandaşlıkları Cumhurbaşkanı kararıyla kaybettirilebilir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler, ilgili maddede yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kaybı ve buna bağlı sonuçlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Doğumla Türk vatandaşı olup çıkma izniyle vatandaşlığını kaybedenler, seçme ve seçilme hakkından yararlanamazlar.",
+                "B": "Yabancı bir devletin Türkiye'nin menfaatlerine uymayan hizmetinde bulunan ve yapılan bildirime rağmen bu görevi bırakmayanların vatandaşlığı Cumhurbaşkanı kararı ile kaybettirilebilir.",
+                "C": "Türkiye ile savaş halinde bulunan bir devletin hizmetinde Cumhurbaşkanı izni olmaksızın çalışanların vatandaşlığı, yurda dönmeleri için yapılan ilana uymamaları halinde kaybettirilebilir.",
+                "D": "İzin almaksızın yabancı bir devlet hizmetinde gönüllü olarak askerlik yapanların Türk vatandaşlığı kaybettirilebilir.",
+                "E": "Çıkma izniyle vatandaşlığını kaybedenler, bir kadroya dayalı ve kamu hukuku rejimine tabi olarak asli ve sürekli kamu hizmeti görevlerinde bulunamazlar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen vatandaşlığın kaybettirilmesi hallerine dayanmaktadır. Türkiye ile savaş halinde bulunan bir devletin hizmetinde çalışmaya devam edenlerin vatandaşlığının kaybettirilmesi için yurda dön ilanı şartı aranmaz; bu durum, belirli suçlar nedeniyle haklarında soruşturma veya kovuşturma yürütülenler için öngörülmüş bir usuldür.\n- Diğer seçenekler: Madde 28'de çıkma izniyle vatandaşlığı kaybedenlerin yararlanamayacağı haklar (A ve E seçenekleri) ile Madde 29'da vatandaşlığın kaybettirileceği diğer haller (B ve D seçenekleri) doğru bir şekilde ifade edildiği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, aşağıdakilerden hangisi Cumhurbaşkanı kararı ile Türk vatandaşlığının kaybettirilebileceği eylemlerden biri değildir?",
+            "secenekler": {
+                "A": "Türkiye ile savaş halinde bulunan bir devletin hizmetinde Cumhurbaşkanının izni olmaksızın kendi isteğiyle çalışmaya devam etmek.",
+                "B": "İzin almaksızın yabancı bir devlet hizmetinde gönüllü olarak askerlik yapmak.",
+                "C": "Yabancı bir devletin, Türkiye'nin menfaatlerine uymayan bir hizmetinde bulunup, yapılan bildirime rağmen verilen süre içinde görevi bırakmamak.",
+                "D": "Yurt dışında ticari bir şirket kurarak Türkiye aleyhine lobi faaliyetlerinde bulunmak.",
+                "E": "Belirli suçlar nedeniyle hakkında soruşturma yürütülürken yapılan yurda dön ilanına rağmen üç ay içinde yurda dönmemek."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen Türk vatandaşlığının kaybettirilmesi sebepleri arasında 'yurt dışında ticari bir şirket kurarak Türkiye aleyhine lobi faaliyetlerinde bulunmak' şeklinde bir eylemin sayılmamış olmasına dayanmaktadır.\n- Diğer seçeneklerde belirtilen eylemler (Türkiye ile savaş halindeki devlet hizmetinde izinsiz çalışmak, yabancı devlette gönüllü askerlik yapmak, menfaatlere aykırı görevi uyarıya rağmen bırakmamak ve belirli suçlardan dolayı yurda dön çağrısına uymamak) kanunda açıkça vatandaşlığın kaybettirilmesi sebepleri olarak düzenlenmiştir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, belirli suçlar nedeniyle hakkında soruşturma veya kovuşturma yürütülen ve yabancı ülkede bulunması nedeniyle kendisine ulaşılamayan bir vatandaşın, Resmî Gazetede yapılan yurda don ilanına rağmen üç ay içinde yurda dönmemesi halinde uygulanacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Türk vatandaşlığının Cumhurbaşkanı kararıyla kaybettirilebilmesi.",
+                "B": "Vatandaşlığı kazanma kararının, ilgilinin yalan beyanı gerekçesiyle iptal edilmesi.",
+                "C": "Kaybettirme kararının ilgilinin eş ve çocuklarına da tesir etmesi.",
+                "D": "İptal kararının sadece ilgili kişiye uygulanması, eş ve çocuklarını etkilememesi.",
+                "E": "Kaybettirme kararının Resmi Gazetede yayımlandığı tarihten bir yıl sonra hüküm ifade etmesi."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Bakanlıkça Resmî Gazetede yapılan yurda dön ilanına rağmen üç ay içinde yurda dönmemeleri halinde, bu kişilerin Türk vatandaşlıkları Cumhurbaşkanı kararıyla kaybettirilebilir' hükmüne dayanmaktadır.\n- Diğer seçenekler, vatandaşlığın iptali (Madde 31), kaybettirme ve iptal kararlarının farklı sonuçları (Madde 30 ve 32) gibi başka hukuki durumları yanlış bir şekilde yansıttığı için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kaybettirilmesi kararının hukuki sonuçlarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Karar, Cumhurbaşkanı tarafından imzalandığı anda hüküm ifade eder.",
+                "B": "Bu kararlar şahsi olup, karardan etkilenen kişinin eş ve çocuklarına etki etmez.",
+                "C": "Karar, ilgilinin reşit olmayan çocuklarına da otomatik olarak uygulanır.",
+                "D": "Karar, ilgiliye tebliğ edildiği tarihten itibaren hüküm ifade eder.",
+                "E": "Karar, ilgilinin eşinin de vatandaşlığını otomatik olarak sona erdirir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Kaybettirme kararları şahsidir, ilgilinin eş ve çocuklarına tesir etmez.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kararın hüküm ifade etme zamanı veya şahsiliği ilkesi açısından kanundaki düzenlemeye aykırı olduğu için yanlıştır. Karar, Resmi Gazetede yayımlandığı tarihte hüküm ifade eder ve sadece ilgili kişi hakkında sonuç doğurur."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının yalan beyan veya önemli hususları gizleme nedeniyle 'iptal edilmesi' ile belirli eylemler nedeniyle Cumhurbaşkanı kararıyla 'kaybettirilmesi' hallerinin sonuçları karşılaştırıldığında, aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hem iptal hem de kaybettirme kararları, ilgilinin eş ve çocuklarına hiçbir şekilde tesir etmez.",
+                "B": "Kaybettirme kararı ilgilinin eş ve çocuklarına tesir etmezken, iptal kararı ilgiliye bağlı olarak vatandaşlığı kazanan eş ve çocuklar hakkında da uygulanır.",
+                "C": "Her iki karar da verildiği tarihten itibaren hüküm ifade eder ve ilgilinin sadece çocuklarını etkiler, eşini etkilemez.",
+                "D": "İptal kararı şahsi olup kimseyi etkilemezken, kaybettirme kararı ilgilinin tüm alt soyunu vatandaşlıktan çıkarır.",
+                "E": "Hem iptal hem de kaybettirme kararları, Resmi Gazetede yayımlandıkları tarihten itibaren hüküm ifade eder ve ilgilinin eş ve çocuklarını da kapsar."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Kaybettirme kararları şahsidir, ilgilinin eş ve çocuklarına tesir etmez' hükmü ile Madde 32'de yer alan 'İptal kararı ilgili kişiye bağlı olarak Türk vatandaşlığını kazanan eş ve çocuklar hakkında da uygulanır' hükmünün birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: Bu iki farklı hukuki durumun sonuçlarını (şahsilik ve aileye etki) yanlış bir şekilde birleştirdiği veya karıştırdığı için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığını kazanma kararının iptali ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vatandaşlığı kazanma kararı, ilgilinin yalan beyanı veya önemli hususları gizlemesi durumunda, kararı veren makam tarafından iptal edilir.",
+                "B": "İptal kararı, vatandaşlığın kazanılmasından itibaren on yıllık bir zamanaşımı süresine tabidir.",
+                "C": "İptal kararı verme yetkisi her durumda ve münhasıran Cumhurbaşkanına aittir.",
+                "D": "İptal işleminin yapılabilmesi için ilgilinin bu fiillerden dolayı kesinleşmiş bir mahkeme kararıyla mahkûm olması şarttır.",
+                "E": "Yalan beyan tespit edilse dahi, bu durumun ülke güvenliğine bir tehdit oluşturmadığı anlaşılırsa iptal kararı verilemez."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'Türk vatandaşlığını kazanma kararı; ilgilinin yalan beyanı veya vatandaşlığı kazanmaya esas teşkil eden önemli hususları gizlemesi sonucunda vuku bulmuş ise kararı veren makam tarafından iptal edilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda iptal için bir zamanaşımı süresi, Cumhurbaşkanının münhasır yetkisi, mahkûmiyet şartı veya ülke güvenliğine tehdit gibi ek koşullar belirtilmediği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kaybına yol açan durumlar ve bu kararların geçerlilik ani ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Vatandaşlığı kazanma kararının iptali, kararın verildiği tarihten itibaren hüküm ifade eder.",
+                "B": "Yabancı bir devletin Türkiye menfaatlerine uymayan hizmetinde, yapılan bildirime rağmen ısrarla kalmak vatandaşlığın kaybettirilmesi sebebidir.",
+                "C": "Vatandaşlığın kaybettirilmesi kararı, Cumhurbaşkanı kararının Resmi Gazetede yayımlandığı tarihten itibaren hüküm ifade eder.",
+                "D": "Vatandaşlığı kazanırken yalan beyanda bulunduğu tespit edilen kişilerin Türk vatandaşlığı Cumhurbaşkanı kararı ile kaybettirilebilir.",
+                "E": "Türkiye ile savaş halinde olan bir devletin hizmetinde izinsiz olarak çalışmaya devam etmek, vatandaşlığın kaybettirilmesi nedenlerinden biridir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, yalan beyanın Madde 31 uyarınca vatandaşlığın 'iptali' sebebi olmasına rağmen, seçenekte 'kaybettirilmesi' sebebi olarak yanlış bir şekilde sunulmasına dayanmaktadır. Kaybettirme sebepleri Madde 29'da ayrı olarak sayılmıştır.\n- Diğer seçenekler: A, C, B ve E seçenekleri sırasıyla Madde 32, Madde 30 ve Madde 29'da yer alan iptal kararının geçerlilik anı ve kaybettirme sebeplerine ilişkin doğru bilgiler içermektedir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığını kazanma kararının iptal edilmesinin sonuçlarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İptal kararı, Resmî Gazetede yayımlandığı tarihten itibaren hüküm ifade eder.",
+                "B": "İptal kararları şahsidir ve ilgilinin eş ve çocuklarına tesir etmez.",
+                "C": "İptal kararı, karar tarihinden itibaren hüküm ifade eder ve ilgiliye bağlı vatandaşlık kazanan eş ve çocuklara da uygulanır.",
+                "D": "İptal kararı geriye dönük olarak, vatandaşlığın kazanıldığı andan itibaren sonuç doğurur.",
+                "E": "İptal kararı yalnızca ilgili kişinin çocukları hakkında uygulanır, eşi hakkında uygulanmaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'İptal kararı, karar tarihinden itibaren hüküm ifade eder. İptal kararı ilgili kişiye bağlı olarak Türk vatandaşlığını kazanan eş ve çocuklar hakkında da uygulanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kararın yürürlüğe girme anını veya etkilediği kişilerin kapsamını hatalı bir şekilde belirtmektedir. Özellikle B seçeneğindeki 'kararın şahsi olması' kuralı, vatandaşlığın kaybettirilmesi durumu için geçerli olup, iptal hali için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının iptali kararının geçerliliği ve sonuçları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İptal kararı, ilgili kişiye bağlı olarak Türk vatandaşlığını kazanan eş ve çocuklar hakkında da uygulanır.",
+                "B": "İptal kararı, ilgili kişiye tebliğ edildiği tarihten itibaren hüküm ifade eder.",
+                "C": "İptal kararı, sadece vatandaşlığı iptal edilen kişinin kendisi için sonuç doğurur, aile üyelerini etkilemez.",
+                "D": "İptal kararının eş ve çocuklara uygulanabilmesi için haklarında ayrı bir karar alınması zorunludur.",
+                "E": "İptal kararı, kararın kesinleştiği tarihten itibaren hüküm ifade eder."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'İptal kararı ilgili kişiye bağlı olarak Türk vatandaşlığını kazanan eş ve çocuklar hakkında da uygulanır.' hükmüne dayanmaktadır. - Diğer seçenekler: Kararın hüküm ifade etme anını yanlış belirtmekte (tebliğ veya kesinleşme tarihi değil, karar tarihi) veya kararın kapsamını hatalı olarak sadece ilgili kişiyle sınırladığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığı iptal edilen ve iptal kararında mallarının tasfiyesi gerektiği belirtilen bir kişi, bu karara karşı yargı yoluna başvurmamıştır. Bu kişinin Türkiye'deki mallarını tasfiye etmesi için tanınan süre ve bu süreye uymaması hâlinde uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "En geç altı ay içinde tasfiye etmelidir; aksi halde malları Hazinece satılarak bedeli bir kamu bankasına yatırılır.",
+                "B": "En geç bir yıl içinde tasfiye etmelidir; aksi halde malları doğrudan Hazineye devredilir.",
+                "C": "En geç iki yıl içinde tasfiye etmelidir; aksi halde mallarına mahkeme kararıyla el konulur.",
+                "D": "En geç bir yıl içinde tasfiye etmelidir; aksi halde malları İçişleri Bakanlığınca satılarak bedeli kendisine ödenir.",
+                "E": "En geç bir yıl içinde tasfiye etmelidir; aksi halde malları Hazinece satılarak bedeli bir kamu bankasına yatırılır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Bu kişiler en geç bir yıl içinde Türkiye'deki mallarını tasfiye etmek zorundadır. Aksi halde, malları Hazinece satılarak bedelleri nam ve hesaplarına kamu haznedarlığı sistemine dahil bir kamu bankasına yatırılır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler veya yaptırımlar (doğrudan Hazineye devir, mahkeme kararıyla el konulması, İçişleri Bakanlığınca satış) kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kaybı ve sonuçlarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Seçme hakkını kullanarak vatandaşlıktan ayrılan kişilerin, Türkiye'deki mallarını en geç bir yıl içinde tasfiye etmeleri zorunludur.",
+                "B": "Vatandaşlığın iptali kararı, ilgili kişinin ergin olmasından itibaren üç yıl içinde uygulanır.",
+                "C": "Vatandaşlığın iptali kararında belirtilmesi hâlinde, ilgili kişinin Türkiye'deki mallarını tasfiye etmesi gerekir ve bu kişi yargı yoluna başvurursa malların tasfiyesi dava sonuna bırakılır.",
+                "D": "Ana ya da babadan dolayı soy bağı nedeniyle Türk vatandaşı olanlar, vatansız kalacak olsalar dahi seçme hakkını kullanabilirler.",
+                "E": "Vatandaşlığın iptali kararı, kararın ilgiliye tebliğ edildiği tarihten itibaren hüküm ifade eder."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Bunlardan mallarının tasfiyesi gerekli görülen hallerde bu husus iptal kararında belirtilir. Bu kişiler en geç bir yıl içinde Türkiye'deki mallarını tasfiye etmek zorundadır.' ve 'iptal kararı aleyhine yargı yoluna başvurdukları takdirde malların tasfiyesi dava sonuna bırakılır.' hükümlerine dayanmaktadır.\n- Diğer seçenekler: A seçeneği, iptal durumuna özgü olan malların tasfiyesi kuralını yanlışlıkla seçme hakkına atfetmektedir. B seçeneği, seçme hakkı için geçerli olan üç yıllık süreyi iptal kararına uygulamaktadır. D seçeneği, Madde 34'teki 'vatandaşlığın kaybı ilgiliyi vatansız kılacak ise seçme hakkı kullanılamaz' hükmüne aykırıdır. E seçeneği ise Madde 32'de kararın 'karar tarihinden itibaren' hüküm ifade edeceği belirtilirken, bunu 'tebliğ tarihi' olarak yanlış ifade etmektedir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının seçme hakkı ile kaybına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu hak, ergin olmaktan itibaren beş yıl içinde kullanılmalıdır.",
+                "B": "Sadece evlat edinilme yoluyla Türk vatandaşlığını kazananlar bu haktan yararlanabilir.",
+                "C": "Vatandaşlığın kaybı ilgiliyi vatansız kılacak ise seçme hakkı kullanılamaz.",
+                "D": "Ergin olmayanlar da yasal temsilcilerinin izniyle bu hakkı kullanabilir.",
+                "E": "Bu haktan yararlanmak için kişinin Türkiye'de ikamet etmesi zorunludur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'vatandaşlığın kaybı ilgiliyi vatansız kılacak ise seçme hakkı kullanılamaz' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği süreyi yanlış belirtmektedir (doğrusu üç yıldır), B seçeneği hakkın kapsamını hatalı şekilde daraltmaktadır, D seçeneği hakkın erginlikten itibaren kullanılabileceği kuralına aykırıdır ve E seçeneğinde belirtilen ikamet şartı kanunda yer almamaktadır."
+        },
+        {
+            "soru": "Yabancı bir babadan ve Türk bir anneden doğan ve doğumla hem Türk hem de babasının vatandaşlığını kazanan (A), ergin olduktan bir yıl sonra Türk vatandaşlığından ayrılmak istemektedir. 5901 Türk Vatandaşlığı Kanunu'na göre, (A)'nın durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Türk vatandaşlığından ayrılması durumunda, Türkiye'deki mallarını tasfiye etmesi için kendisine bir yıllık süre verilir.",
+                "B": "Ergin olmasından itibaren üç yıllık süre içinde, vatansız kalmaması koşuluyla Türk vatandaşlığından ayrılma hakkını kullanabilir.",
+                "C": "Sadece doğum yeri esasına göre başka bir vatandaşlık kazanmış olsaydı bu hakkı kullanabilirdi.",
+                "D": "Bu hakkını kullanabilmesi için ergin olmasını beklemesine gerek yoktur.",
+                "E": "Türk vatandaşlığından ayrılma kararı, verildiği tarihten itibaren değil, üç yıllık sürenin dolduğu tarihten itibaren hüküm ifade eder."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'Ana ya da babadan dolayı soy bağı nedeniyle doğumla Türk vatandaşı olanlardan yabancı ana veya babanın vatandaşlığını doğumla veya sonradan kazananlar' ergin olmalarından itibaren üç yıl içinde Türk vatandaşlığından ayrılabilirler ve 'vatandaşlığın kaybı ilgiliyi vatansız kılacak ise seçme hakkı kullanılamaz' hükümlerinin birleşimine dayanmaktadır.\n- Diğer seçenekler: A seçeneği, vatandaşlığın iptali halinde uygulanan malların tasfiyesi kuralını (Madde 33) yanlışlıkla seçme hakkı durumuna atfetmektedir. C seçeneği, Madde 34'te sayılan diğer ayrılma sebeplerini yok saymaktadır. D seçeneği, 'ergin olmalarından itibaren' şartına aykırıdır. E seçeneği ise Madde 35'teki 'karar tarihinden itibaren hüküm ifade eder' kuralıyla çelişmektedir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, seçme hakkı ile Türk vatandaşlığını kaybetmenin geçerlilik ani ve sonuçları hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vatandaşlık kaybı, bu hakkın kullanılmasına dair şartların varlığının tespitine ilişkin karar tarihinden itibaren hüküm ifade eder.",
+                "B": "Seçme hakkını kullanan kişinin eşi ve çocukları da kendiliğinden Türk vatandaşlığını kaybeder.",
+                "C": "Vatandaşlık kaybı, kişinin ergin olmasından itibaren üç yıllık sürenin dolduğu tarihte hüküm ifade eder.",
+                "D": "Vatandaşlıktan ayrılan kişinin mallarının tasfiyesi, vatandaşlığın iptali kararı ile aynı usullere tabidir.",
+                "E": "Seçme hakkının kullanılmasına dair karar, ilgiliye tebliğ edildiği tarihten itibaren hüküm ve sonuçlarını doğurur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen 'Seçme hakkı ile Türk vatandaşlığının kaybı, bu hakkın kullanılmasına dair şartların varlığının tespitine ilişkin karar tarihinden itibaren hüküm ifade eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler kanundaki düzenlemelerle çelişmektedir. B seçeneği yanlıştır çünkü eş ve çocuklar hakkında otomatik bir sonuç doğmaz, ayrı bir madde hükmü uygulanır. C ve E seçenekleri, hüküm ifade etme anını yanlış belirtmektedir. D seçeneği ise başka bir vatandaşlık kaybı türü olan iptal kararına ilişkin bir sonucu ifade ettiği için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, seçme hakkının kullanılmasıyla Türk vatandaşlığının kaybedilmesinin geçerliliği ve sonuçları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vatandaşlık kaybı, bu hakkın kullanılmasına dair şartların varlığının tespitine ilişkin karar tarihinden itibaren hüküm ifade eder.",
+                "B": "Vatandaşlık kaybı, kişinin yurt dışındaki temsilciliğe başvuru yaptığı tarihten itibaren hüküm ifade eder.",
+                "C": "Seçme hakkını kullanarak vatandaşlıktan ayrılan kişinin eşi ve çocukları da her durumda otomatik olarak vatandaşlığı kaybeder.",
+                "D": "Vatandaşlık kaybının geçerli olması için ilgili kararın Resmi Gazete'de yayımlanması şarttır.",
+                "E": "Vatandaşlık kaybı, kişinin seçme hakkını kullanma talebinin Bakanlık tarafından onaylandığı tarihten bir yıl sonra hüküm ifade eder."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen 'Seçme hakkı ile Türk vatandaşlığının kaybı, bu hakkın kullanılmasına dair şartların varlığının tespitine ilişkin karar tarihinden itibaren hüküm ifade eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilmeyen farklı başlangıç tarihleri (başvuru, yayım, bir yıl sonra) veya sonuçlar (otomatik kayıp) ileri sürdüğü için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, bir kişinin Türk vatandaşı olup olmadığı konusunda herhangi bir tereddüde düşüldüğü takdirde, bu hususun sorulacağı yetkili makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İkamet edilen yer valiliği",
+                "B": "Bakanlık",
+                "C": "Dış temsilcilikler",
+                "D": "Nüfus müdürlüğü",
+                "E": "Anayasa Mahkemesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Bir kişinin Türk vatandaşı olup olmadığı konusunda herhangi bir tereddüde düşüldüğü takdirde bu husus Bakanlıktan sorulur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Valilik ve dış temsilcilikler vatandaşlık başvurularının yapıldığı müracaat makamlarıdır; ancak vatandaşlık durumundaki bir tereddüdü giderme ve bu konuda sorgu mercii olma yetkisi kanunla özel olarak Bakanlığa verildiği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, seçme hakkını kullanarak Türk vatandaşlığından ayrılmak için yurt içinde başvuru yapan bir kişi ve bu başvuru süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Başvurusunu ikamet ettiği yer valiliğine yapmalıdır.",
+                "B": "Başvuruyu bizzat veya bu hakkın kullanılmasına ilişkin vekâletname ile yapabilir.",
+                "C": "Vatandaşlığının kaybı, şartların varlığının tespitine ilişkin karar tarihinden itibaren hüküm ifade edecektir.",
+                "D": "Başvuru sürecinde vatandaşlık durumu hakkında tereddüt oluşursa, bu tereddüdü giderme yetkisi valiliğe aittir.",
+                "E": "İnceleme için gerekli belgelerin diğer kamu kurumlarından istenmesi halinde, bu kurumlar belgeleri gecikmeksizin vermekle yükümlüdür."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Bir kişinin Türk vatandaşı olup olmadığı konusunda herhangi bir tereddüde düşüldüğü takdirde bu husus Bakanlıktan sorulur.' hükmüne dayanmaktadır. Bu nedenle vatandaşlık durumu hakkındaki tereddüdü giderme yetkisi valiliğe değil, Bakanlığa aittir.\n- Diğer seçenekler: A ve B seçenekleri Madde 37'deki başvuru makamı ve usulüne, C seçeneği Madde 35'teki vatandaşlık kaybının geçerlilik anına, E seçeneği ise Madde 38'deki bilgi ve belge isteme usulüne uygun olduğu için doğrudur."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının ispatı ve buna ilişkin usullerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Türk vatandaşlığı sadece nüfus cüzdanı veya pasaport ile ispat edilebilir.",
+                "B": "Yurt dışında yaşayan bir kişi, vatandaşlık işlemlerine ilişkin başvurusunu sadece bizzat yapmak zorundadır.",
+                "C": "Nüfus kayıtları, ilgilinin Türk vatandaşı olduğunu kesin olarak kanıtlayan belgelerdir.",
+                "D": "Pasaport gibi belgeler, aksi ispat edilene kadar kişinin Türk vatandaşı olduğuna dair bir karine teşkil eder.",
+                "E": "Vatandaşlık işlemlerinde müracaat makamları, ihtiyaç duydukları belgeleri sadece başvuru sahibinden talep edebilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Aşağıdaki resmi kayıt ve belgeler, aksi sabit oluncaya kadar ilgilinin Türk vatandaşı olduğuna karine teşkil eder.' hükmüne dayanmaktadır. Pasaport da bu belgelerden biridir.\n- Diğer seçenekler: A ve C seçenekleri Madde 36'daki ispatın herhangi bir şekle tabi olmaması ve belgelerin kesin delil değil karine niteliği taşımasıyla çeliştiği, B seçeneği Madde 37'de vekâletname ile başvuru imkânı tanındığı, E seçeneği ise Madde 38'de diğer kamu kurumlarından da belge istenebileceği belirtildiği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kazanılması veya kaybına ilişkin başvurusunu yurt dışında yapmak isteyen bir kişi, bu işlemini aşağıdaki mercilerden hangisine yapmalıdır?",
+            "secenekler": {
+                "A": "İkamet edilen yer valiliğine",
+                "B": "Dış temsilciliklere",
+                "C": "Doğrudan İçişleri Bakanlığına",
+                "D": "Türkiye'deki son ikametgâhının bulunduğu nüfus müdürlüğüne",
+                "E": "Adalet Bakanlığına"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen 'Türk vatandaşlığının kazanılması ve kaybına ilişkin başvurular (...) yurt dışında ise dış temsilciliklere (...) yapılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda yurt dışı başvuruları için belirtilen yetkili müracaat makamı olmadığından yanlıştır. Valilikler, yurt içi başvurular için yetkilidir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, vatandaşlık işlemlerine ilişkin inceleme ve araştırmalar için gerekli bilgi ve belgelerin teminiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bilgi ve belgeler sadece İçişleri Bakanlığı'nın ilgili birimlerinden talep edilebilir.",
+                "B": "Kamu kurumları, talep edilen bilgi ve belgeleri en geç otuz gün içinde vermek zorundadır.",
+                "C": "Sadece nüfus kayıtları ve pasaport bilgileri gibi temel kimlik belgeleri istenebilir.",
+                "D": "Kamu kurumlarının bilgi ve belge verme yükümlülüğü, kurumun kendi iç işleyişindeki takdir yetkisine bağlıdır.",
+                "E": "Kamu kurum ve kuruluşları, istenen bilgi ve belgeleri herhangi bir gecikmeye yer vermeden sağlamakla yükümlüdür."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Vatandaşlık işlemlerine ilişkin inceleme ve araştırmalarla ilgili bilgi ve belgeler, kamu kurum ve kuruluşlarınca herhangi bir gecikmeye mahal bırakılmaksızın verilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, bilgi verecek kurumları, verilecek belgenin türünü veya verilme süresini kanunda belirtilmeyen şekilde sınırladığı ya da yükümlülüğü takdire bağladığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, vatandaşlık işlemlerine ilişkin inceleme ve araştırmalar kapsamında kamu kurum ve kuruluşlarının bilgi ve belge sağlama yükümlülüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bilgi ve belgeleri herhangi bir gecikmeye mahal bırakmaksızın vermekle yükümlüdürler.",
+                "B": "Bilgi ve belgeleri, talep tarihinden itibaren en geç otuz gün içinde vermek zorundadırlar.",
+                "C": "Bilgi ve belgeleri, yalnızca idarenin takdir yetkisi çerçevesinde uygun görmesi halinde verirler.",
+                "D": "Sadece adli makamların yürüttüğü soruşturmalarla ilgili bilgi ve belgeleri vermekle yükümlüdürler.",
+                "E": "Bu bilgi ve belgelerin verilmesi için mutlaka bir mahkeme kararı ibraz edilmesi gerekmektedir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen 'bilgi ve belgeler, kamu kurum ve kuruluşlarınca herhangi bir gecikmeye mahal bırakılmaksızın verilir' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilmeyen bir süre şartı (otuz gün), takdir yetkisi, kapsam sınırlaması (sadece adli makamlar) veya mahkeme kararı gibi ek koşullar öne sürdüğü için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, kanun uyarınca alınan kararlarda maddi bir hata veya eksiklik olduğunun sonradan anlaşılması durumunda, bu hatayı düzeltme veya tamamlama kararı alma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Başvuru makamları",
+                "B": "İlgili idare mahkemesi",
+                "C": "Cumhurbaşkanı",
+                "D": "Kararın yayımlandığı Resmi Gazete idaresi",
+                "E": "Genel Müdürlük"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen '...dayanağına uygun şekilde Genel Müdürlükçe düzeltme veya tamamlama kararı alınır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların, kanunda maddi hataları düzeltme veya tamamlama yetkisi bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının kazanılması veya kaybına ilişkin kararların geri alınmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kararlar, yalnızca hukuki şartlar oluşmadan verildiği anlaşıldığında geri alınır.",
+                "B": "Kararlar, sadece mükerrer olarak verildiği tespit edilirse geri alınır.",
+                "C": "Kararların geri alınması için hatanın kararın verildiği anda tespit edilmesi gerekir.",
+                "D": "Sadece vatandaşlığın kazanılmasına ilişkin kararlar geri alınabilir, kayba ilişkin kararlar bu kapsamda değildir.",
+                "E": "Hukuki şartlar oluşmadan veya mükerrer olarak verildiğinin sonradan anlaşılması hâlinde bu kararlar geri alınır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Türk vatandaşlığının kazanılması veya kaybına ilişkin kararlar, hukuki şartlar oluşmadan veya mükerrer olarak verildiği sonradan anlaşıldığı takdirde geri alınır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen geri alma şartlarını eksik veya yanlış yansıttığı için hatalıdır. Kanun, geri almayı hem 'hukuki şartların oluşmaması' hem de 'mükerrer olma' durumuna bağlamış, bu durumun 'sonradan anlaşılması' gerektiğini belirtmiş ve hem kazanma hem de kayıp kararlarını kapsama almıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığını kazanma kararının, aslında hukuki şartlar oluşmadan verildiğinin sonradan anlaşılması durumunda uygulanacak işlem ve bu işlemin sonucuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Karardaki eksiklik, dayanağına uygun şekilde Genel Müdürlükçe bir tamamlama kararı alınarak giderilir.",
+                "B": "Karar, verildiği andan itibaren geçerli olmak üzere geri alınır ve bu durum ilgiliye ve başvuru makamlarına tebliğ olunur.",
+                "C": "Karar, Resmi Gazete’de yayımlanarak iptal edilir ve yayımlandığı tarihte ilgiliye tebliğ edilmiş sayılır.",
+                "D": "İlgili kamu kurum ve kuruluşlarından gecikmeye mahal bırakılmaksızın ek bilgi ve belge talep edilerek karar yeniden değerlendirilir.",
+                "E": "Karardaki maddi hata, başvuru makamlarınca düzeltilir ve düzeltme kararı ilgiliye bildirilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Türk vatandaşlığının kazanılması veya kaybına ilişkin kararlar, hukuki şartlar oluşmadan ... verildiği sonradan anlaşıldığı takdirde geri alınır' ve Madde 41'de yer alan 'Türk vatandaşlığının kazanılmasına ve kaybına ilişkin kararlar ilgiliye ve başvuru makamlarına tebliğ olunur' hükümlerinin birleşimine dayanmaktadır.\n- Diğer seçenekler: A ve E seçenekleri, hukuki şartların oluşmaması durumunu değil, maddi hata veya eksiklik halini (Madde 39) ve yanlış yetkili makamı belirtmektedir. C seçeneği, yalnızca belirli kaybettirme kararlarına özgü bir tebligat usulünü (Madde 41) genelleştirdiği için yanlıştır. D seçeneği ise karar sonrası bir düzeltme değil, karar öncesi inceleme ve araştırma sürecine (Madde 38) aittir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, vatandaşlığın kaybettirilmesine ilişkin kararların tebliği hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece ilgili kişiye şahsen tebliğ edilir.",
+                "B": "Hem ilgiliye hem de başvuru makamlarına ayrı ayrı posta yoluyla tebliğ edilir.",
+                "C": "Resmi Gazete’de yayımlanır ve yayımlandığı tarihte tebliğ edilmiş sayılır.",
+                "D": "Yalnızca kararı veren başvuru makamına bildirilir, ilgiliye tebliğ zorunluluğu yoktur.",
+                "E": "Kararın verildiği tarihten itibaren on beş gün içinde tebliğ edilmezse hükümsüz kalır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen 'kaybettirme kararları Resmi Gazete’de yayımlanır ve yayımlandığı tarihte tebliğ edilmiş sayılır' hükmüne dayanmaktadır.\n- Diğer seçenekler, vatandaşlığın kazanılması ve kaybına ilişkin genel tebligat usulünü yanlış yansıtmakta veya kanunda yer almayan süre ve usul şartları içerdiği için hatalıdır. Kaybettirme kararları bu genel kuralın bir istisnasıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, vatandaşlık işlemleriyle ilgili alınan kararlar ve sonrasındaki usullere ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Vatandaşlık işlemlerine dair incelemeler için kamu kurumları, istenen bilgi ve belgeleri gecikmeksizin vermekle yükümlüdür.",
+                "B": "Alınan bir kararda sonradan maddi bir hata saptanırsa, bu hata Genel Müdürlük tarafından bir düzeltme kararı ile giderilir.",
+                "C": "Mükerrer olarak verildiği anlaşılan bir vatandaşlık kazanma kararı geri alınır.",
+                "D": "Vatandaşlığın kaybına ilişkin tüm kararlar, Resmi Gazete'de yayımlandığı tarihte ilgiliye tebliğ edilmiş sayılır.",
+                "E": "Vatandaşlığın kazanılmasına ilişkin kararlar, hem ilgili kişiye hem de başvurunun yapıldığı makama tebliğ edilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen '29 uncu madde uyarınca verilen kaybettirme kararları Resmi Gazete’de yayımlanır ve yayımlandığı tarihte tebliğ edilmiş sayılır' hükmüne dayanmaktadır. Bu hüküm, Resmi Gazete'de yayımlanarak tebliğ usulünün sadece belirli kaybettirme kararları için geçerli olduğunu, tüm kayıp kararlarını kapsamadığını göstermektedir.\n- Diğer seçenekler: A seçeneği Madde 38, B seçeneği Madde 39, C seçeneği Madde 40 ve E seçeneği Madde 41'de yer alan hükümleri doğru bir şekilde yansıttığı için doğrudur."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, kanunda belirtilen özel bir duruma istinaden verilen vatandaşlığı kaybettirme kararlarının tebliğ usulü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Sadece ilgili kişiye şahsen tebliğ edilir.",
+                "B": "İlgiliye ve başvuru makamlarına ayrı ayrı iadeli taahhütlü mektupla bildirilir.",
+                "C": "Yayımlandıktan sonra on beş gün içinde ilgiliye ayrıca tebliğ edilir.",
+                "D": "Yabancı ülke temsilcilikleri aracılığıyla tebliğ olunur.",
+                "E": "Resmi Gazete’de yayımlanır ve yayımlandığı tarihte tebliğ edilmiş sayılır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen '29 uncu madde uyarınca verilen kaybettirme kararları Resmi Gazete’de yayımlanır ve yayımlandığı tarihte tebliğ edilmiş sayılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen özel tebliğ usulüne aykırı veya metinde yer almayan yöntemler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Kuzey Kıbrıs Türk Cumhuriyeti vatandaşlarının Türk vatandaşlığını kazanması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Türk vatandaşı olmak istediklerini yazılı olarak beyan ettikleri takdirde Türk vatandaşlığını kazanırlar.",
+                "B": "Vatandaşlık kazanımları ancak Cumhurbaşkanı kararı ile mümkün olmaktadır.",
+                "C": "Başvuru yapabilmeleri için Türkiye'de belirli bir süre ikamet etme şartı aranır.",
+                "D": "Kuzey Kıbrıs Türk Cumhuriyeti vatandaşlığını sonradan kazanmış olanlar için de istisnasız aynı beyan usulü geçerlidir.",
+                "E": "Başvurularının kabulü için millî güvenlik bakımından engel teşkil edecek bir hallerinin bulunmadığının tespit edilmesi gerekir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen 'Türk vatandaşlığını kazanmak üzere başvuruda bulunan Kuzey Kıbrıs Türk Cumhuriyeti vatandaşları, Türk vatandaşı olmak istediklerini yazılı olarak beyan ettikleri takdirde Türk vatandaşlığını kazanırlar.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bu özel durum için Cumhurbaşkanı kararı, ikamet şartı veya millî güvenlik soruşturması gibi ek şartlar öngörülmemiştir. Ayrıca, Kuzey Kıbrıs Türk Cumhuriyeti vatandaşlığını sonradan kazananlar için farklı hükümlerin uygulanacağı belirtildiğinden, D seçeneğindeki ifade de yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığını mülga kanunlar uyarınca kaybetmiş kişiler ile Kuzey Kıbrıs Türk Cumhuriyeti vatandaşlarının Türk vatandaşlığını kazanma usulleri karşılaştırıldığında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Mülga bir kanun uyarınca vatandaşlıktan ıskat edilmiş kişiler, milli güvenlik engeli bulunmaması kaydıyla yeniden vatandaşlığa alınabilir.",
+                "B": "Kuzey Kıbrıs Türk Cumhuriyeti vatandaşları, Türk vatandaşı olmak istediklerini yazılı olarak beyan ettiklerinde Türk vatandaşlığını kazanırlar.",
+                "C": "Mülga bir kanunun belirli bentleri uyarınca Türk vatandaşlığını kaybetmiş kişilerin yeniden vatandaşlığa alınmasında Türkiye’de ikamet etme şartı aranmaz.",
+                "D": "Kuzey Kıbrıs Türk Cumhuriyeti vatandaşlığını sonradan kazanmış olanlar da, diğerleri gibi sadece yazılı beyanda bulunarak doğrudan Türk vatandaşlığını kazanır.",
+                "E": "Yeniden vatandaşlığa alınma talebinde bulunan kişide millî güvenlik bakımından engel teşkil edecek bir halin bulunması durumunda talep Bakanlıkça reddedilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen 'Kuzey Kıbrıs Türk Cumhuriyeti vatandaşlığını sonradan kazanmış olanlar hakkında 11 inci maddede belirtilen hükümler uygulanır.' hükmüne dayanmaktadır. Bu hüküm, bu kişilerin sadece yazılı beyanla değil, farklı bir usule tabi olduklarını gösterir.\n- Diğer seçenekler: Madde 42 ve 43'te yer alan, Kuzey Kıbrıs Türk Cumhuriyeti vatandaşlarının ve mülga kanunlar uyarınca vatandaşlığı kaybedenlerin vatandaşlığı kazanma veya yeniden kazanma koşullarını doğru bir şekilde yansıtmaktadır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, mülga kanunlar uyarınca Türk vatandaşlığını kaybetmiş veya vatandaşlıktan iskat edilmiş kişilerin yeniden vatandaşlığa alınmalarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yeniden vatandaşlığa alınmaları için en az beş yıl Türkiye'de kesintisiz ikamet etmeleri zorunludur.",
+                "B": "Vatandaşlığa yeniden alınma kararı, ilgili kişinin başvurduğu valilik tarafından verilir.",
+                "C": "Bu kişilerin başvuruları, millî güvenlik bakımından engel bir hâlleri bulunmaması kaydıyla, Türkiye’de ikamet etme şartı aranmaksızın Bakanlık kararıyla kabul edilebilir.",
+                "D": "Millî güvenlik bakımından sakıncalı bulunsalar dahi, Bakanlığın takdiriyle istisnai olarak vatandaşlığa alınabilirler.",
+                "E": "Bu durumdaki kişiler, herhangi bir başvuruya gerek kalmaksızın, nüfus kayıtlarının güncellenmesiyle otomatik olarak vatandaşlığı geri kazanırlar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen '...millî güvenlik bakımından engel teşkil edecek bir hali bulunmamak kaydıyla, Türkiye’de ikamet etme şartı aranmaksızın Bakanlık kararı ile yeniden Türk vatandaşlığına alınabilirler.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen şartlara aykırı olduğu için yanlıştır. Kanun, bu kişiler için ikamet şartı aramamaktadır, karar yetkisi Bakanlığa aittir, başvuru zorunludur ve millî güvenlik engeli olanların taleplerinin reddedileceği açıkça belirtilmiştir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, herhangi bir nedenle yabancı bir devlet vatandaşlığını kazanan bir kişinin bu durumunun nüfus kayıtlarına işlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kişinin, çok vatandaşlık için İçişleri Bakanlığından özel izin alması zorunludur.",
+                "B": "Bu durumun tescili için yabancı devlet vatandaşlığını kazandığına dair bir mahkeme kararı sunulması gerekir.",
+                "C": "İlgili belgelerin ibrazı ve kimliğin tespiti üzerine nüfus aile kütüğüne çok vatandaşlığa sahip olunduğuna dair açıklama yapılır.",
+                "D": "Çok vatandaşlık durumu, kişinin Türk vatandaşlığını otomatik olarak sona erdirir.",
+                "E": "Kayıt işleminin geçerli olması için durumun Resmi Gazete'de yayımlanması şarttır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen 'yabancı bir devlet vatandaşlığını kazanan kişilerin, bu durumlarına ilişkin belgeleri ibraz etmeleri ve yapılacak inceleme sonucunda kayden aynı kişiler olduklarının tespiti halinde, nüfus aile kütüklerindeki kayıtlarına çok vatandaşlığa sahip olduklarına dair açıklama yapılır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilmeyen özel izin, mahkeme kararı, vatandaşlığın sona ermesi veya Resmi Gazete'de yayım gibi yanlış usul ve sonuçları içerdiği için hatalıdır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, vatandaşlık işlemlerinin sonuçlarının bildirilmesi ve çok vatandaşlık durumunun kaydıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vatandaşlığın kazanılmasına ilişkin tüm kararların, Resmi Gazete’de yayımlanarak ilgiliye tebliğ edilmiş sayılması zorunludur.",
+                "B": "Yabancı bir devlet vatandaşlığını kazanan kişilerin bu durumu nüfus kütüğüne işlenirken, Türk vatandaşlıkları askıya alınır.",
+                "C": "Vatandaşlığın kaybına ilişkin kararların hiçbiri Resmi Gazete'de yayımlanmaz, sadece ilgiliye ve başvuru makamlarına tebliğ edilir.",
+                "D": "Herhangi bir nedenle yabancı bir devlet vatandaşlığını kazanan ve bu durumu belgelerle ispatlayan kişinin nüfus kaydına çok vatandaşlığa sahip olduğuna dair açıklama yapılır.",
+                "E": "Vatandaşlık kararları sadece ilgili kişiye tebliğ edilir, başvuru makamlarına ayrıca bir bildirim yapılması gerekmez."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen '...yapılacak inceleme sonucunda kayden aynı kişiler olduklarının tespiti halinde, nüfus aile kütüklerindeki kayıtlarına çok vatandaşlığa sahip olduklarına dair açıklama yapılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 41'de belirtilen tebligat usullerini ve hangi kararların Resmi Gazete'de yayımlanacağını hatalı bir şekilde yorumlamakta veya Madde 44'te yer almayan 'vatandaşlığın askıya alınması' gibi bir sonuç öngörmektedir."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, herhangi bir nedenle yabancı bir devlet vatandaşlığını kazanan bir kişinin, bu durumunu ilgili belgelerle ibraz etmesi ve yapılan incelemede kayden aynı kişi olduğunun tespit edilmesi halinde uygulanacak işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Türk vatandaşlığının askıya alınması ve kişiye tercih yapması için süre tanınması",
+                "B": "Yabancı devlet vatandaşlığını kazandığı tarihten itibaren Türk vatandaşlığının sona erdirilmesi",
+                "C": "Kişi adına yeni bir nüfus kaydı oluşturulması",
+                "D": "Durumun incelenmesi için Bakanlığa rapor sunulması",
+                "E": "Nüfus aile kütüğündeki kaydına çok vatandaşlığa sahip olduğuna dair açıklama yapılması"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen '...yapılacak inceleme sonucunda kayden aynı kişiler olduklarının tespiti halinde, nüfus aile kütüklerindeki kayıtlarına çok vatandaşlığa sahip olduklarına dair açıklama yapılır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen işlemler, ilgili maddede yer almadığı ve çok vatandaşlık durumunda uygulanacak usule aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, Türk vatandaşlığının sonradan kazanılmasına ilişkin hizmet bedeli ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hizmet bedeli yalnızca Bakanlık tarafından tek başına belirlenir.",
+                "B": "Tahsil edilen hizmet bedeli tutarları, işlemleri yürüten valilik bütçesine gelir kaydedilir.",
+                "C": "Sadece geliri olmayan kişilerin kendileri için hizmet bedeli alınmaz, ergin olmayan çocukları bu muafiyetten yararlanamaz.",
+                "D": "Hizmet bedelinden muafiyet, ilgili idarenin takdirine bağlıdır.",
+                "E": "Gelir Vergisi Kanununa göre geliri olmayanlar ve kendileri ile birlikte işlem gören ergin olmayan çocukları için hizmet bedeli alınmaz."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 45'te belirtilen 'Gelir Vergisi Kanununa göre geliri olmayanlar ve kendileri ile birlikte işlem gören ergin olmayan çocukları için ... hizmet bedeli alınmaz.' hükmüne dayanmaktadır. - Diğer seçenekler: Madde 45'e göre hizmet bedeli Bakanlık ve Maliye Bakanlığınca birlikte belirlendiği, genel bütçeye gelir kaydedildiği ve muafiyetin ergin olmayan çocukları da kapsadığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, bu Kanunun uygulanmasına ilişkin usul ve esasları düzenleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bakanlık ve Maliye Bakanlığına birlikte",
+                "B": "Türkiye Büyük Millet Meclisine",
+                "C": "Cumhurbaşkanına",
+                "D": "İçişleri Bakanlığına",
+                "E": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğüne"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'Bu Kanunun uygulanmasına ilişkin usul ve esaslar Cumhurbaşkanı tarafından çıkarılacak yönetmelikle düzenlenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamlar, kanunun uygulanmasına ilişkin genel usul ve esasları bir yönetmelikle düzenleme yetkisine sahip olmadığından yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, yabancı bir devlet vatandaşlığını kazanan bir kişinin, bu durumunu belgelendirmesi sonrası yapılacak inceleme ve nüfus kütüğüne çok vatandaşlığa sahip olduğuna dair açıklama yapılması gibi işlemlerin detaylı usul ve esaslarını belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bakanlık ve Maliye Bakanlığına",
+                "B": "Cumhurbaşkanına",
+                "C": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğüne",
+                "D": "Belgelerin ibraz edildiği dış temsilciliğe",
+                "E": "İlgili kişinin kayıtlı olduğu yerel mahkemeye"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'Bu Kanunun uygulanmasına ilişkin usul ve esaslar Cumhurbaşkanı tarafından çıkarılacak yönetmelikle düzenlenir' hükmüne dayanmaktadır. Madde 44'te açıklanan çok vatandaşlık işlemlerinin uygulanmasına ilişkin detaylar da bu kapsamdadır.\n- Diğer seçenekler: A seçeneğindeki makamlar hizmet bedelini belirler. Diğer seçeneklerde belirtilen kurum veya mercilerin kanunun uygulanmasına yönelik genel bir yönetmelik çıkarma yetkisi bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, on sekiz yaşını tamamlayıncaya kadar herhangi bir nedenle aile kütüklerine kaydedilmemiş (saklı nüfus) ve yabancı bir devletle vatandaşlık bağı bulunmayan bir kişinin Türk vatandaşlığını kazanmasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kişinin, ana veya babası ile hısımlığını gösterir bir tıbbî rapor ibraz etmesi gerekir.",
+                "B": "Ana veya babanın ölmüş olması halinde, varsa kardeşleri ile hısımlığını kanıtlaması yeterlidir.",
+                "C": "Bu yolla vatandaşlık kazanabilmesi için kişinin yabancı bir devletle vatandaşlık bağının olmaması şarttır.",
+                "D": "Kişinin başvuru yapabilmesi için Türkiye'de en az bir yıl ikamet etmiş olması zorunludur.",
+                "E": "Bu hüküm, on sekiz yaşını tamamlayana kadar nüfusa kaydedilmemiş kişiler için uygulanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen saklı nüfusun vatandaşlık kazanma şartları arasında 'Türkiye'de ikamet etme' gibi bir zorunluluk bulunmamaktadır.\n- Diğer seçenekler, maddede açıkça sayılan; yabancı bir devletle vatandaşlık bağının olmaması (C), on sekiz yaşına kadar kaydedilmemiş olma durumu (E) ve ana, baba veya onların ölümü halinde kardeşlerle hısımlığın tıbbî raporla kanıtlanması (A, B) gibi doğru koşulları belirttiği için yanlıştır."
+        },
+        {
+            "soru": "5901 Türk Vatandaşlığı Kanunu'na göre, on yedi yaşında olan, herhangi bir nedenle aile kütüklerine kaydedilmemiş ve yabancı bir devletle vatandaşlık bağı bulunmayan bir kişi, hışımlığını tıbbî raporla ispatlayarak Türk vatandaşlığını kazanma sürecine girmiştir. Bu kişinin vatandaşlık işlemleri hizmet bedeli ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hizmet bedeli, Bakanlık ve Maliye Bakanlığı tarafından belirlenir ancak bu kişi ergin olmadığı için kendisinden bu bedel alınmaz.",
+                "B": "Hizmet bedelinin ödenip ödenmeyeceğine, hısımlığı gösteren tıbbî raporu düzenleyen kurum karar verir.",
+                "C": "Vatandaşlık kazanma işlemi saklı nüfus kapsamında olduğu için hizmet bedelinden tamamen muaftır.",
+                "D": "Tahsil edilecek hizmet bedeli tutarı, doğrudan başvurulan nüfus müdürlüğü bütçesine aktarılır.",
+                "E": "Hizmet bedelinin belirlenmesi ve tahsilatına ilişkin usul ve esaslar Cumhurbaşkanı tarafından çıkarılacak yönetmelikle düzenlenir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 1'de tanımlanan kişinin durumu ile Madde 45'te yer alan 'kendileri ile birlikte işlem gören ergin olmayan çocukları için ... hizmet bedeli alınmaz' hükmünün birleştirilmesine dayanmaktadır. Kişi on yedi yaşında olduğu için ergin değildir ve bu nedenle hizmet bedelinden muaftır.\n- Diğer seçenekler: B seçeneğindeki kurumun yetkisi yoktur. D seçeneği, bedelin 'bütçeye gelir kaydedilir' hükmüne aykırıdır. E seçeneği, hizmet bedelinin belirlenmesini yanlış makama atfederken, C seçeneği muafiyetin nedenini yanlış belirtmektedir; muafiyet saklı nüfus olmasından değil, ergin olmamasından kaynaklanır."
+        }
+    ]
+}

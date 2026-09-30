@@ -1,0 +1,2116 @@
+{
+  "KLASIKSORULAR": [
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, nüfusu iki binden aşağı olmasına rağmen hangi niteliklere sahip bir yerleşim yeri 'kasaba' olarak kabul edilir?",
+      "secenekler": {
+        "A": "Belediye teşkilatı bulunan bir nahiye, kaza veya vilayet merkezi olması",
+        "B": "Nüfusunun bin beş yüzden fazla olması ve ticaretle uğraşılması",
+        "C": "Cami, mektep ve otlak gibi orta mallarına sahip olması",
+        "D": "Sınırlarının idare meclisince tasdik edilmiş olması",
+        "E": "Nüfusunun son on yılda sürekli artış göstermesi"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Nüfusu iki binden aşağı olsa dahi belediye teşkilatı mevcut olan nahiye, kaza ve vilayet merkezleri kasaba itibar olunur.' hükmüne dayanmaktadır. - Diğer seçeneklerde belirtilen nüfus alt sınırı, orta mallarına sahip olma, sınırların tasdiki veya nüfus artış trendi gibi koşullar, kanunda bu istisnai durum için aranan şartlar arasında yer almadığından yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyü teşkil eden unsurlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Köy, cami ve mektep gibi orta mallarını içerir.",
+        "B": "İnsanların toplu veya dağınık evlerde oturması köyün bir özelliğidir.",
+        "C": "Köyü oluşturan insanların sahip olduğu bağ, bahçe ve tarlalar da köyün bir parçasıdır.",
+        "D": "Bir yerin köy sayılabilmesi için nüfusunun belirli bir sayının üzerinde olması zorunludur.",
+        "E": "Otlak, yaylak ve baltalık gibi ortak alanlar köyü oluşturan unsurlardandır."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 2'de belirtilen bir köyü teşkil eden unsurlar tanımına dayanmaktadır. Bu tanımda orta mallar, insanlar ve bu insanların özel mülkleri sayılırken, nüfusun belirli bir sayıda olması gibi kurucu bir şarttan bahsedilmemektedir.\n- A, B, C ve E seçenekleri Madde 2'de sayılan köyün unsurlarını doğru bir şekilde yansıtmaktadır. D seçeneğindeki nüfus şartı ise köyün teşkiline ilişkin bu maddede yer almadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy sınırının belirlenmesi sürecinde, ihtiyar meclisi tarafından hazırlanan ve mühürlenen sınır kağıdının ilk olarak gönderilmesi gereken makam aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Kaza idare meclisi",
+        "B": "Tapu idaresi",
+        "C": "Vilayet idare meclisi",
+        "D": "Nahiye müdürü",
+        "E": "Komşu köy ihtiyar meclisi"
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 3'te belirtilen 'yazılan sınır kağıdı ihtiyar meclisince mühürlenerek nahiye müdürüne gönderilir' hükmüne dayanmaktadır. Süreçteki ilk idari makam nahiye müdürüdür.\n- Diğer seçenekler, sürecin sonraki aşamalarında yer alan (kaza/vilayet idare meclisi, tapu idaresi) veya süreçte bu şekilde bir görevi bulunmayan (komşu köy ihtiyar meclisi) merciler olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyler arasındaki sınır anlaşmazlıklarının çözümü ve sınır kayıtlarının hukuki niteliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Sınır kağıdı, ihtiyar meclisince mühürlendikten sonra tasdik için doğrudan tapu idaresine gönderilir.",
+        "B": "İdare meclislerinin, uzlaşılamayan sınırlar hakkında tahkikat yaparak verdiği karar katidir.",
+        "C": "Devlet daireleri ve mahkemeler, sınır işlerinde öncelikle köylülerin beyanlarını esas alır.",
+        "D": "Tapuca tutulan tasdikli defterlerin bir sureti, yalnızca ilgili köyün ihtiyar meclisinde saklanır.",
+        "E": "İki köy arasında uzlaşılamayan sınırlar, her iki köyün ortak kararıyla çizilir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 3'te yer alan 'İki köy arasında uzlaşılamıyan sınırlar için idare meclisleri tahkikat ve tetkikat yaparak sınırı ... çizip ... ve bu katidir' hükmüne dayanmaktadır.\n- Diğer seçenekler kanunda belirtilen usule aykırıdır: Sınır kağıdı önce nahiye müdürüne gönderilir (A), mahkemeler tasdikli defterleri esas alır (C), defterin bir sureti idare meclisinde saklanır (D) ve uzlaşılamayan sınırları idare meclisleri çizer (E)."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köy ahalisinden bir kişinin başka bir köyün arazisi içinde kalan dağınık tarlası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Arazinin bulunduğu öteki köyün sınırında gösterilmelidir.",
+        "B": "Sahibinin ikamet ettiği köyün sınırları içine dahil edilmelidir.",
+        "C": "Sınır haricinde bırakılmalı, ancak adı sınır kağıdının altına yazılmalıdır.",
+        "D": "İki köyün sınırı arasında kalan sahipsiz arazi olarak kabul edilmelidir.",
+        "E": "Köy ihtiyar meclisi tarafından ayrıca bir sınır çizilerek asıl sınıra eklenmelidir."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 4'te belirtilen '...başka bir köy arazisi içinde kalan dağınık tarla, bağ, bahçe gibi yerleri sahibinin bulunduğu köyün sınırında değil öteki köyün sınırında gösterilmeli' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 4'te yer alan farklı durumlar için geçerli olan (C, D, E seçenekleri) veya kanuna tamamen aykırı olan (B seçeneği) hatalı bilgiler içermektedir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyün malı olan yaylaların sınırını çizme yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Nahiye müdürüne",
+        "B": "Köy ihtiyar meclisine",
+        "C": "Vilayet idare meclisine",
+        "D": "Tapu idaresine",
+        "E": "Belediye meclisine"
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Bir köyün malı olan yaylaların o köy ihtiyar meclisi tarafından ayrıca sınırı çizilmekle beraber...' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunun farklı maddelerinde sınır belirleme sürecinin diğer aşamalarında görevli olan (A, C, D) veya konuyla ilgisi bulunmayan (E) mercileri belirttiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyün sınırı çizilirken izlenecek usullerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Sınırların mutlaka komşu köyün sınırıyla birleşmesi ve arada boşluk bırakılmaması gerekir.",
+        "B": "Sınırın mümkün olduğunca dereler, tepeler veya yollar gibi kolay anlaşılacak yerlerden geçirilmesi gerekir.",
+        "C": "Sınır olarak kullanılan dere ve tepelerin köylüler tarafından bilinen adları sınır kağıdına yazılmalıdır.",
+        "D": "Doğal işaretler kullanılamıyorsa, sınırın mümkün mertebe düz yapılması ve büyük taşlarla işaretlenmesi gerekir.",
+        "E": "Dağlık alandaki dağınık evler ve tarlalar en yakın köye bağlı sayılsa da köy sınırı haricinde bırakılmalıdır."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 4'te yer alan 'Bir köyün sınırı mutlaka diğer köyün sınıriyle birleşmek lazım gelmez' hükmüyle açıkça çelişmektedir. Kanun, iki köy sınırı arasında sahipsiz boş arazi, dağ veya ormanların kalabileceğini belirtmiştir.\n- Diğer seçenekler: Madde 4'te sınır çizimi için belirtilen doğru usul ve esasları yansıttığı için doğrudur, ancak soru yanlış olan ifadeyi sorduğundan elenirler."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, iki köy arasında sınır belirlenirken bir köylüye ait olan ancak coğrafi olarak diğer köyün arazisi içinde kalan dağınık bir tarla ile ilgili uyuşmazlık çıkması durumunda, bu tarlanın aidiyeti ve uyuşmazlığın çözüm mercii hakkında aşağıdakilerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Tarla, sahibinin bulunduğu köyün sınırına dahil edilir ve uyuşmazlığı köy ihtiyar meclisleri ortak bir kararla çözer.",
+        "B": "Tarla, coğrafi olarak içinde bulunduğu köyün sınırında gösterilir ve uyuşmazlık hakkında nihai kararı idare meclisi verir.",
+        "C": "Uyuşmazlık çözülene kadar tarla iki köyün de sınırı dışında bırakılır ve karar tapu idaresi tarafından verilir.",
+        "D": "Tarla, sahibinin bulunduğu köyün sınırına dahil edilir ve uyuşmazlık nahiye müdürü tarafından çözülür.",
+        "E": "Tarla, her iki köyün ortak malı sayılarak sınır kağıdına işlenir ve uyuşmazlık mahkemelerce karara bağlanır."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Bir köy ahalisinden bazı kimselerin başka bir köy arazisi içinde kalan dağınık tarla... öteki köyün sınırında gösterilmeli' hükmü ile Madde 3'teki 'İki köy arasında uzlaşılamıyan sınırlar için idare meclisleri tahkikat ve tetkikat yaparak sınırı... çizer... ve bu katidir' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Tarlanın aidiyetini yanlış belirttikleri veya uyuşmazlık çözüm merciini hatalı olarak ihtiyar meclisi, tapu idaresi ya da nahiye müdürü olarak gösterdikleri için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyün sınırlarının çizilmesi ve bu sınırlara dahil edilecek unsurlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Sınırların belirlenmesinde mümkün olduğunca dere, tepe gibi değişmeyen doğal işaretler esas alınır.",
+        "B": "Bir köye ait olan yaylaların sınırı ayrıca çizilir ve bu sınır kağıdı asıl köyün sınır kağıdı ile birleştirilir.",
+        "C": "İki köy sınırı arasında kalan ve eskiden beri hiçbir köye ait sayılmayan boş araziler, nüfusu daha az olan köye bağlanır.",
+        "D": "Dağlık bölgelerdeki dağınık evler ve tarlalar en yakın köye bağlı sayılmakla beraber, bunlar köyün ana sınırı haricinde bırakılabilir.",
+        "E": "Doğal işaretlerin kullanılamadığı durumlarda sınırın mümkün olduğunca düz yapılması ve taşlarla işaretlenmesi gerekir."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 4'te belirtilen 'İki köyün sınırları arasında eskidenberi hiçbir köyün malı sayılmıyan boş arazi... gene sınırın dışında bırakılmalı' hükmüne aykırı olduğu için C seçeneğidir. Kanun, bu arazilerin herhangi bir köye bağlanmasını değil, sınır dışında bırakılmasını öngörmektedir.\n- Diğer seçenekler: Madde 4'te yer alan sınır çizim usullerini (doğal işaretler, yaylaların durumu, dağınık araziler ve taş dikilmesi) doğru bir şekilde yansıttığı için doğrudur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy sınırlarının çizilmesine ilişkin usullerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Sınırın, mümkün olduğunca dere, tepe veya yol gibi değişmeyen ve kolay anlaşılır işaretli yerlerden geçirilmesi gerekir.",
+        "B": "Bir köylünün başka bir köy arazisi içindeki tarlası, sahibinin köyünün değil, arazinin bulunduğu diğer köyün sınırında gösterilir.",
+        "C": "Doğal işaretlerle sınır çizilemiyorsa, sınırın mümkün olduğu kadar düz yapılması ve büyük taşlarla gösterilmesi gerekir.",
+        "D": "İki köy arasında kalan ve eskiden beri hiçbir köye ait olmayan boş araziler, coğrafi yakınlığa göre köylerden birinin sınırına dahil edilir.",
+        "E": "Bir köye ait yaylaların sınırı, o köyün ihtiyar meclisi tarafından ayrıca çizilir ve bu belge asıl köyün sınır kağıdı ile birleştirilir."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 4'te belirtilen 'İki köyün sınırları arasında eskidenberi hiçbir köyün malı sayılmıyan boş arazi, dağlar, ormanlar, yaylaklar varsa bunlar gene sınırın dışında bırakılmalı' hükmüne dayanmaktadır. Bu hükme göre, sahipsiz araziler herhangi bir köyün sınırına dahil edilmez.\n- Diğer seçeneklerde yer alan ifadeler, köy sınırlarının çizilmesine ilişkin kanunda belirtilen doğru usulleri yansıttığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, iki köy arasında nizalı bir sınırın çizilmesi sürecinde, köy heyetlerinin kendi aralarında uzlaşamaması durumunda izlenecek usul aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Hükümet, doğrudan bir sınır çizerek anlaşmazlığı nihai olarak çözer.",
+        "B": "İdare meclisi, tetkikat ve tahkikat yaparak altı ay içinde sınırı çizer ve bu karar kati olur.",
+        "C": "Konu, vilayet idare meclisine havale edilir ve kararı on sene boyunca değiştirilemez.",
+        "D": "İki köyün ihtiyar meclisleri birleşerek oy çokluğu ile sınırı belirler.",
+        "E": "Anlaşmazlık çözülene kadar mevcut sınırlar geçici olarak kabul edilir ve süreç beş sene ertelenir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Gene uzlaşamadıkları halde idare meclisi tetkikat ve tahkikat yaparak altı ay içinde doğrudan doğruya sınırı çizer ve bu kati olur' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen usule, süreye veya karar merciine aykırı bilgiler içerdiği için yanlıştır. Hükümet sadece süreci başlatma emri verir, sınırı doğrudan çizmez; kararın değiştirilememe süresi on değil, beş senedir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, usulüne uygun olarak çizilmiş bir köy sınırının sonradan değiştirilmesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Sınırın çizilmesinden en az beş sene geçtikten sonra değiştirilmesi için müracaat edilebilir.",
+        "B": "Sınırın büyütülmesi veya küçültülmesi talebi, lüzum ve ihtiyaç üzerine ihtiyar meclisi tarafından yapılır.",
+        "C": "Talep edilen değişiklik başka bir köyün sınırını etkilemiyorsa, vilayet veya kaza idare meclisleri kararıyla sınır düzeltilebilir.",
+        "D": "Talep edilen değişiklik başka bir köyün sınırını etkiliyorsa, konu doğrudan valiliğin nihai kararına sunulur.",
+        "E": "İdare meclisince çizilen nizalı bir sınır, çizildikten sonra beş sene müddetle değiştirilemez."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Sınırın büyültülmesi veya küçültülmesi başka bir köye dokunuyorsa bu maddenin birinci fıkrasına göre mesele halledilir' hükmüne dayanmaktadır. Bu hüküm, sürecin valiliğin doğrudan kararıyla değil, önce köy heyetlerinin uzlaşma çabası ve anlaşmazlık halinde idare meclisinin kararıyla çözüleceğini ifade eder.\n- Diğer seçenekler: Maddede yer alan sınır değişikliği usul ve şartlarını doğru bir şekilde yansıttığı için elenir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyün sınırı çizildikten yedi yıl sonra, komşu köyün arazisini de etkileyecek şekilde büyütülmesi ihtiyacı doğmuştur. Bu durumda izlenmesi gereken usul aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Sınır değişikliği talebi, üzerinden beş yıldan fazla zaman geçtiği için vilayet idare meclisi tarafından doğrudan karara bağlanır.",
+        "B": "İki köyün ihtiyar meclisleri bir araya gelerek anlaşmaya çalışır, anlaşamazlarsa idare meclisi altı ay içinde sınırı çizer ve bu karar kati olur.",
+        "C": "Sınır değişikliği yapılamaz, çünkü çizilen sınırlar beş sene müddetle değiştirilemez.",
+        "D": "Etkilenen köyün rızası alındıktan sonra, talepte bulunan köyün ihtiyar meclisi sınırı yeniden çizer ve idare meclisine tasdik ettirir.",
+        "E": "Sınırın büyütülmesi talebi, komşu köyü etkilediği için yetkili asliye hukuk mahkemesinde dava yoluyla çözülür."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 5'te yer alan 'Sınırın büyültülmesi veya küçültülmesi başka bir köye dokunuyorsa bu maddenin birinci fıkrasına göre mesele halledilir.' hükmüne dayanmaktadır. Birinci fıkra ise iki köy heyetinin uzlaşmaya çalışmasını, uzlaşamazlarsa idare meclisinin altı ay içinde sınırı çizip kararın kati olmasını öngörmektedir.\n- Diğer seçenekler: Kanunda belirtilen usule aykırı olduğu için yanlıştır. A seçeneği, değişikliğin başka bir köye dokunmadığı duruma ilişkin kuralı; C seçeneği ise sorudaki yedi yıllık süreyi göz ardı ederek beş yıllık değiştirme yasağını hatalı bir şekilde uyguladığı için çeldiricidir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, birkaç köy arasında müşterek olan sıvat, sulak ve pınar gibi yerlerin hukuki durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Müşterek yerler, hiçbir köyün sınırı içinde kalmıyorsa, idari bir kararla en yakın köye bağlanır.",
+        "B": "Bir köyün sınırı içinde kalan müşterek bir yerin mülkiyeti o köye geçtiğinde, diğer köylerin bu yerden yararlanma hakkı sona erer.",
+        "C": "Eğer müşterek bir yer bir köyün sınırı içinde kalıyorsa, o köyün malı sayılır ancak diğer köyler de eskisi gibi istifade etmeye devam eder.",
+        "D": "Müşterek yerlerin statüsü hakkındaki anlaşmazlıkları çözme yetkisi, doğrudan doğruya vilayet veya kaza idare meclislerine aittir.",
+        "E": "Müşterek yerler, her durumda, buralardan istifade eden tüm köylerin ortak malı kabul edilir ve sınır kağıtlarına bu şekilde işlenir."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Birkaç köy arasında müşterek olan ... yerler eğer bir köy sınırı içinde kalıyorsa o köyün malı olmakla beraber diğer köyler de eskisi gibi istifade ederler' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen mülkiyet ve istifade hakkı kurallarını yanlış yorumladığı veya bu madde kapsamında düzenlenmeyen usulleri içerdiği için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, iki köy arasında müşterek olarak kullanılan bir baltalık, sınırlar çizilirken bir köyün sınırı içinde kalmıştır. Bu durumda, baltalığın mülkiyeti ve diğer köyün kullanım hakkı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Baltalık, sınırı içinde kaldığı köyün malı olur ve diğer köyün bu yer üzerindeki tüm istifade hakkı sona erer.",
+        "B": "Baltalık, sınırı içinde kaldığı köyün malı sayılmakla birlikte, diğer köy de eskiden olduğu gibi istifade etmeye devam eder.",
+        "C": "Baltalık, her iki köyün müşterek malı sayılır ve bu durum her köyün sınır kağıdına ayrı ayrı işlenir.",
+        "D": "Sınır, müşterek yeri dışarıda bırakacak şekilde yeniden çizilmeli ve bu alan hiçbir köye ait sayılmamalıdır.",
+        "E": "Baltalığın mülkiyeti Hazine'ye geçer ve köylerin kullanım hakkı idare meclisi kararıyla yeniden düzenlenir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Birkaç köy arasında müşterek olan ... yerler eğer bir köy sınırı içinde kalıyorsa o köyün malı olmakla beraber diğer köyler de eskisi gibi istifade ederler.' hükmüne dayanmaktadır. Bu kural, mülkiyetin kime ait olduğunu ve diğer köyün kazanılmış hakkının devam ettiğini açıkça düzenlemektedir.\n- Diğer seçenekler: Madde 6'da belirtilen bu özel duruma aykırı yorumlar içerdiği için yanlıştır. C seçeneği, müşterek yerin bir köy sınırı içinde kalmadığı duruma ilişkin kuralı yansıttığı için çeldiricidir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir yerden bir yere götürülebilen veya götürülemeyen mallara sahip olan ve kanunla kendisine verilen işleri yapan başlı başına bir varlık olarak tanımlanan hukuki yapıya ne ad verilir?",
+      "secenekler": {
+        "A": "Şahsı manevi",
+        "B": "İhtiyar meclisi",
+        "C": "Müşterek mal",
+        "D": "İdare meclisi",
+        "E": "Nizalı sınır"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Köy ... başlı başına bir varlıktır. Buna (şahsı manevi) denir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, köyün hukuki kişiliğini değil, köy yönetimiyle ilgili organları (ihtiyar meclisi), mülkiyet türünü (müşterek mal), üst idari birimi (idare meclisi) veya coğrafi bir durumu (nizalı sınır) ifade ettiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, taşınır ve taşınmaz mallara sahip olabilen, kanunla kendisine verilen işleri yapan ve başlı başına bir varlık olarak tanımlanan köy, hukuki olarak ne şekilde nitelendirilir?",
+      "secenekler": {
+        "A": "Devletin memuru",
+        "B": "Orta malı",
+        "C": "İhtiyar meclisi",
+        "D": "Devlet malı",
+        "E": "Şahsı manevi"
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Köy ... başlı başına bir varlıktır. Buna (şahsı manevi) denir.' hükmüne dayanmaktadır. - Diğer seçenekler: A seçeneği muhtarın statüsünü, B ve D seçenekleri köyün malının niteliğini, C seçeneği ise köyün bir organını ifade ettiği için yanlıştır ve köyün hukuki statüsünü tanımlamaz."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyün tüzel kişiliği, görevleri ve yönetimi hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köyün tüzel kişiliği bulunmamakla birlikte, işlerini ihtiyar meclisi yürütür.",
+        "B": "Köy, tüzel kişiliğe sahip bir varlık olup kanunla verilen işleri görme görevi köy muhtarı ve ihtiyar meclisine aittir.",
+        "C": "Köy muhtarı yalnızca Devletin memuru olduğu için köyün tüzel kişiliğini temsil edemez.",
+        "D": "Köyün işlerini görme vazifesi sadece köyün başı olan muhtara verilmiştir.",
+        "E": "Köy, mallara sahip olabilen bir varlık olmasına rağmen bu mallar özel mülk statüsündedir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 7'de köyün 'şahsı manevi' yani tüzel kişiliğe sahip bir varlık olarak tanımlanması ve Madde 9'da kanunla verilen işleri görmenin 'Köy muhtarının ve İhtiyar meclisinin vazifesi' olduğunun belirtilmesi hükümlerine dayanmaktadır.\n- Diğer seçenekler: Köyün tüzel kişiliğini reddettiği, görevli organları eksik belirttiği, muhtarın statüsünü yanlış yorumladığı veya köy malının niteliğini hatalı ifade ettiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyün orta malının hukuki statüsü ve korunmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy muhtarının şahsi malı sayılır ve onun tarafından korunur.",
+        "B": "Kanun karşısında Devlet malı gibi korunur ve bu mallara el uzatanlar Devlet malına el uzatanlar gibi cezalandırılır.",
+        "C": "Sadece köy ihtiyar meclisinin kararıyla özel mülkiyete devredilebilir.",
+        "D": "Köyün tüzel kişiliğine ait özel hukuk malı statüsündedir ve genel hükümlere tabidir.",
+        "E": "Korunması için özel bir ceza kanunu çıkarılması gerekir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Köyün orta malı kanun karşısında Devlet malı gibi korunur. Bu türlü mallara el uzatanlar Devlet malına el uzatanlar gibi ceza görürler.' hükmüne dayanmaktadır.\n- Diğer seçenekler, köyün orta malına kanunda belirtilenin dışında farklı bir hukuki statü atfettiği veya yanlış bir koruma usulü öngördüğü için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyün orta malına el uzatan bir kişiye karşı uygulanacak ceza hukuku koruması ve bu durumda köy işlerinde emir verme yetkisine sahip olan kişiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "El uzatanlar Devlet malına el uzatanlar gibi ceza görürler ve köy işlerinde emir verme hakkı köy muhtarına aittir.",
+        "B": "El uzatanlar özel mülke müdahale etmiş sayılır ve emir verme yetkisi ihtiyar meclisindedir.",
+        "C": "Köyün orta malı korumasızdır ve bu konuda sadece ihtiyar meclisi tavsiye kararı alabilir.",
+        "D": "El uzatanlar Devlet malına el uzatanlar gibi ceza görürler ancak köyde emir verme yetkisi hem muhtara hem de ihtiyar meclisine aittir.",
+        "E": "Köyün orta malına el uzatanlara ceza verilmez, yalnızca tazminat davası açılabilir ve bu süreci muhtar yönetir."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 8'de köyün orta malına el uzatanların 'Devlet malına el uzatanlar gibi ceza görecekleri' ve Madde 10'da 'emir vermek ve emrini yaptırmanın muhtarın hakkı' olduğu hükümlerinin birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: Köy malının hukuki korumasını yanlış belirttiği veya emir verme yetkisini yanlış makama atfettiği için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, kanun ile köye verilen işleri görme vazifesi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Köy muhtarı ve ihtiyar meclisi",
+        "B": "Yalnızca köy muhtarı",
+        "C": "Yalnızca ihtiyar meclisi",
+        "D": "Köyün şahsı manevisi",
+        "E": "Devlet memurları"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 9'da belirtilen 'İşbu kanun ile köye verilen işleri görmek (Köy muhtarının) ve (İhtiyar meclisinin) vazifesidir' hükmüne dayanmaktadır. Bu görev her iki organa birlikte verilmiştir.\n- Diğer seçenekler, görevin sadece birine ait olduğunu belirttikleri veya kanunda bu görevi yerine getirmekle yetkilendirilmemiş varlıkları ifade ettikleri için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, muhtarın hukuki durumu ve yetkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Muhtar, Devletin bir temsilcisi olarak kabul edilir ancak memur statüsünde değildir.",
+        "B": "Muhtarın emir verme yetkisi, sadece Devlet işleriyle sınırlıdır.",
+        "C": "Köy işlerinde söz söylemek, emir vermek ve emrini yaptırmak muhtarın hakkıdır.",
+        "D": "Muhtar, köyün başı olmasına rağmen emirlerini ancak ihtiyar meclisi onayıyla yaptırabilir.",
+        "E": "Muhtar, köy işlerinde yalnızca söz söyleme hakkına sahip olup, emrini yaptırma yetkisi bulunmamaktadır."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 10'da belirtilen 'köy işlerinde söz söylemek, emir vermek ve emrini yaptırmak muhtarın hakkıdır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Muhtarın statüsünü 'Devletin memurudur' hükmüne aykırı olarak tanımladığı veya kanunda belirtilen haklarını (köy işlerinde emir verme ve yaptırma) eksik ya da hatalı koşullara bağladığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, muhtarın statüsü ve yetkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Muhtar, hem köyün başı olarak köy işlerinde yetkili hem de Devletin memuru olarak Devlet işlerinde görevlidir.",
+        "B": "Muhtarın köy işlerindeki yetkisi, sadece söz söylemekle sınırlı olup emir verme hakkı bulunmamaktadır.",
+        "C": "Muhtar, Devletin memuru sayıldığı için köy işlerine karışma yetkisi yoktur.",
+        "D": "Muhtar, köyün başı olmasına rağmen verdiği emirleri yaptırma hakkına sahip değildir.",
+        "E": "Muhtar, sadece Devlet işlerini yürüten bir memurdur ve köyün başı olarak kabul edilmez."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Muhtar, köyün başıdır. İşbu kanuna göre köy işlerinde söz söylemek, emir vermek ve emrini yaptırmak muhtarın hakkıdır. Muhtar Devletin memurudur.' hükmüne dayanmaktadır. Bu hüküm, muhtarın ikili statüsünü ve yetkilerini açıkça ortaya koymaktadır.\n- Diğer seçenekler, kanunda belirtilen muhtarın statüsünü veya köy işlerindeki yetkilerini (söz söyleme, emir verme, emrini yaptırma) eksik ya da yanlış yansıttığı için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy işlerinde fenalıkları anlaşılan köy muhtarı ve onunla iş birliği yapanlar hakkında uygulanacak temel hukuki sonuç aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Sadece görevden alınarak haklarında idari soruşturma açılmasıdır.",
+        "B": "Köy derneği tarafından yargılanarak para cezasına çarptırılmalarıdır.",
+        "C": "Doğrudan valilik veya kaymakamlık tarafından meslekten men edilmeleridir.",
+        "D": "Köylüye verdikleri zararı tazmin etmelerinin istenmesidir.",
+        "E": "Devlet memuru gibi muhakeme edilerek ceza görmeleridir."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 11'de belirtilen 'köy işlerinde fenalıkları anlaşılırsa Devlet memuru gibi muhakeme edilirler ve ceza görürler' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen hukuki sonucun yerine idari yaptırımlar, köy derneği kararı veya tazminat gibi farklı ve yanlış usulleri belirttiği için hatalıdır. Kanun, bu kişiler için Devlet memurlarına uygulanan yargılama usulünü öngörmektedir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyün başı olan ve emir verme yetkisini haiz bulunan bir muhtarın, köye ait işlerde bir fenalık yaptığı anlaşıldığında uygulanacak hukuki süreçle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Sadece köy derneği tarafından uyarılır ve görevine devam eder.",
+        "B": "Köy işlerindeki yetkisi nedeniyle herhangi bir cezai sorumluluğu bulunmaz.",
+        "C": "Yaptığı fenalık nedeniyle Devlet memuru gibi muhakeme edilir ve ceza görür.",
+        "D": "Yalnızca valinin veya kaymakamın vereceği idari para cezası ile sorumlu tutulur.",
+        "E": "Sorumluluğu, sadece köylüye verdiği zararı tazmin etmekle sınırlıdır."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Köy muhtarının ... köy işlerinde fenalıkları anlaşılırsa Devlet memuru gibi muhakeme edilirler ve ceza görürler.' hükmüne dayanmaktadır. Bu hüküm, Madde 10'da muhtarın 'Devletin memuru' olarak tanımlanmasıyla birlikte değerlendirilmelidir.\n- Diğer seçenekler, kanunda belirtilen bu açık yargılama ve cezalandırma usulüne aykırı olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köylünün isteğine bağlı olan bir işin, bütün köylü için mecburi hale gelmesi ve yapmayanın ceza görmesi için aşağıdaki koşullardan hangisinin birlikte gerçekleşmesi zorunludur?",
+      "secenekler": {
+        "A": "Köy muhtarının tek başına karar vermesi ve ihtiyar meclisinin bu kararı onaylaması",
+        "B": "Köy derneğinin oy birliği ile karar alması ve bu kararın valilikçe ilan edilmesi",
+        "C": "Köy derneğinin yarısından çoğunun hükmetmesi ve yetkili mülki amirin rızasının alınması",
+        "D": "Sadece köy derneğinin üçte ikisinin oyuyla işin mecburi sayılması",
+        "E": "Vali veya kaymakamın köyün menfaatine gördüğü bir işi doğrudan mecburi kılması"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 12'de belirtilen '...köylünün isteğine bağlı bu gibi işlerde köy derneğinin yarısından çoğu hükmederler ve vilayete bağlı olan yerlerde vali ve kazaya bağlı olan köylerde kaymakamın rızasını alırlarsa o iş bütün köylü için mecburi olur' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen karar yeter sayısı (yarısından çoğu), karar alacak organ (köy derneği) ve mülki amir onayı şartlarını yanlış yansıttığı veya eksik belirttiği için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, normalde yapılıp yapılmaması köylünün isteğine bağlı olan bir işin, bütün köylü için mecburi hale getirilmesi ve yapmayanların cezalandırılabilmesi için hangi şartların birlikte gerçekleşmesi gerekmektedir?",
+      "secenekler": {
+        "A": "Muhtarın tek başına karar vermesi ve bu kararı ilan etmesi",
+        "B": "Köy derneğinin oybirliğiyle karar alması",
+        "C": "Sadece valinin veya kaymakamın bu işin yapılması yönünde emir vermesi",
+        "D": "Köy derneğinin yarısından çoğunun bu yönde hükmetmesi ve ilgili valinin veya kaymakamın rızasının alınması",
+        "E": "Köy derneğinin karar alması yeterli olup, herhangi bir mülki amirin onayı gerekmemesi"
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 12'de yer alan '...köy derneğinin yarısından çoğu hükmederler ve vilayete bağlı olan yerlerde vali ve kazaya bağlı olan köylerde kaymakamın rızasını alırlarsa o iş bütün köylü için mecburi olur.' hükmüne dayanmaktadır. Bu hüküm, iki şartın (dernek kararı ve mülki amir rızası) bir arada bulunmasını zorunlu kılmaktadır.\n- Diğer seçenekler: Kanunda belirtilen bu ikili şartı eksik veya yanlış ifade ettikleri için (örneğin oybirliği veya tek başına yetki gibi) hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köylünün mecburi işleri arasında yer alan ağaç dikme yükümlülüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köylü her sene hane başına en az on ağaç dikmekle yükümlüdür.",
+        "B": "Dikilen ağaçların bakımı, kuruyana kadar ihtiyar meclisi tarafından yapılır.",
+        "C": "Ağaçlar sadece köy mezarlıklarına dikilebilir.",
+        "D": "Köylü her sene adam başına en az bir ağaç dikecek ve bu ağaç yeşilleninceye kadar ona bakacaktır.",
+        "E": "Yeni dikilmiş ağaçların korunması için etrafının duvarla çevrilmesi zorunludur."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 13'te belirtilen '(Köylü her sene adam başına en az bir ağaç dikecek ve bu ağaç tamamen tutup yeşilleninciye kadar ağaca bakacak...)' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen ağaç dikme sayısı, bakım sorumluluğu, dikim yerleri ve koruma yöntemine ilişkin yanlış bilgiler içerdiği için hatalıdır. Örneğin, koruma için çalı çırpı sarılması öngörülmüştür, duvar değil."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi köylünün sağlık ve temizlikle ilgili mecburi işleri arasında sayılmamıştır?",
+      "secenekler": {
+        "A": "Köy sınırı dahilindeki su birikintilerini kurutmak",
+        "B": "Evlerde odalarla ahırları bir duvarla birbirinden ayırmak",
+        "C": "Yılda bir kez evleri zorunlu olarak ilaçlatmak",
+        "D": "Her evde üstü kapalı ve kuyulu veya lağımlı bir hela yapmak",
+        "E": "İnsanlarda salgın bir hastalık çıkarsa Hükümete haber vermek"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 13'te köylünün mecburi işleri arasında 'evleri zorunlu olarak ilaçlatmak' gibi bir yükümlülüğün sayılmamış olmasına dayanmaktadır. Bu seçenek, kanun metninde yer almayan bir hükümdür.\n- Diğer seçenekler: A, B, D ve E seçeneklerinde belirtilen hususlar, Madde 13'te açıkça köylünün sağlık ve temizlikle ilgili mecburi işleri arasında listelenmiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyde ekine ve mahsule zarar veren böcek ve tırtıllarla mücadele konusunda izlenmesi gereken usul aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "İhtiyar meclisinin belirleyeceği yöntemler uygulanır.",
+        "B": "Köy muhtarı, kendi tecrübelerine dayanarak mücadele yöntemini belirler.",
+        "C": "Hangi böceklerin nasıl öldürüleceği Hükümetten sorulur ve öğretildiği şekilde yapılır.",
+        "D": "Komşu köylerde uygulanan geleneksel yöntemler esas alınır.",
+        "E": "Her köylü kendi tarlası için en uygun gördüğü mücadeleyi serbestçe yapar."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Bunun için hangi türlü kuşların ve böceklerin hangi zamanlarda ve nasıl öldürülmesi lazım geldiği Hükümetten sorulacak ve nasıl öğretilirse öyle yapılacaktır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun, bu konuda yetkiyi veya usulü ihtiyar meclisine, muhtara, geleneksel yöntemlere veya köylünün kendi inisiyatifine bırakmamış, doğrudan Hükümetin talimatlarına uyulmasını zorunlu kılmıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köylünün sosyal yardımlaşma ve toplumsal düzenle ilgili mecburi işleri kapsamında;\n\nI. Askere gitmiş olanların tarlalarını imece usulüyle ekip biçmek\nII. Bir felaket anında elinde imkan varken yardıma muhtaç olanı kurtarmak\nIII. İhtiyar meclisi tarafından şahitlik için çağrılınca geçerli bir mazeret olmadıkça gitmek\n\nverilenlerden hangisi veya hangileri yer almaktadır?",
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "I ve II",
+        "C": "II ve III",
+        "D": "Yalnız III",
+        "E": "I, II ve III"
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 13'te belirtilen hükümlere dayanmaktadır. Öncüllerin tamamı kanunda sayılan mecburi işlerdendir.\n- I. öncül 'askerde bulunanların...tarlalarını...imece yoliyle sürüp ekmek', II. öncül 'başına bir felaket gelince onu kurtarmak elinde iken yardım etmek' ve III. öncül 'İhtiyar meclisleri tarafından şahitlik için çağrılınca herhalde gelmek' hükümleriyle doğrudan örtüşmektedir. Bu nedenle tüm öncüller doğrudur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, yapılması köylünün isteğine bağlı olan köy işleri arasında aşağıdakilerden hangisi yer almaz?",
+      "secenekler": {
+        "A": "Köyde bir çamaşırlık veya hamam yapmak.",
+        "B": "Köyde güreş, cirit, nişan talimleri gibi köy oyunlarını yaptırmak.",
+        "C": "Köy namına iyi cinsten boğa, aygır, teke, koç satın almak.",
+        "D": "Hükümet tarafından sağlık işlerinde kullanılmak üzere verilecek ilaçları korumak.",
+        "E": "Köy bütçesini hazırlamak ve köy salmasını tarh etmek."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 14'te belirtilen 'yapılması köylünün isteğine bağlı olan şeyler' hükmüne dayanmaktadır. Bu maddede sayılan işler arasında köy bütçesinin hazırlanması ve salma tarh edilmesi gibi zorunlu idari görevler yer almamaktadır. \n- Diğer seçeneklerde yer alan faaliyetler, kanunda açıkça listelenen isteğe bağlı işler arasında sayıldığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyde yaşayanlar, köylerine ortak bir hamam yapmaya karar vermiş ancak köy gelirlerinin bu iş için yetersiz olduğu anlaşılmıştır. Bu durumda, köy işlerinin finansmanıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy ihtiyar meclisi, yirmi lirayı aşmamak kaydıyla her haneye salma salarak hamam inşaatını finanse edebilir.",
+        "B": "Hamam yapımı, köylünün isteğine bağlı bir iş olduğundan, bu işin öncelikle imece yoluyla yapılması esastır.",
+        "C": "Köy gelirleri yetersiz kaldığı için, hamam yapımından vazgeçilmesi ve bu kararın ihtiyar meclisi tarafından onaylanması zorunludur.",
+        "D": "Hamam yapımı için gerekli para, doğrudan köy sandığından ödünç alınarak karşılanır ve daha sonra köylüden toplanır.",
+        "E": "Köy muhtarı, tek başına karar alarak herkesin hal ve vaktine göre bir katılım payı belirleyebilir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 14'te hamam yapımının 'köylünün isteğine bağlı olan şeyler' arasında sayılmasına ve Madde 15'te köy işlerinin birçoğunun 'imece ile' yapıldığının belirtilmesine dayanmaktadır. Madde 16'da düzenlenen salma ise sadece mecburi köy işleri için gelirlerin yetmemesi durumunda uygulanabilir.\n- Diğer seçenekler: İsteğe bağlı bir iş olan hamam yapımı için salma salınması (A), projeden vazgeçmenin zorunlu olması (C), belirli bir usul olmaksızın köy sandığından borçlanılması (D) veya muhtarın tek başına pay belirlemesi (E) kanunda öngörülen usullere aykırıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy işlerinin birçoğunun bütün köylünün birleşmesiyle gerçekleştirilme usulü aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Herkesin hal ve vaktine göre salma salınması",
+        "B": "İhtiyar meclisi kararıyla belirli kişilerin görevlendirilmesi",
+        "C": "Köy sandığı aracılığıyla hizmet satın alınması",
+        "D": "Gönüllülük esasına dayalı bireysel katkı sağlanması",
+        "E": "İmece"
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Köy işlerinin bir çoğu bütün köylü birleşerek imece ile yapılır.' hükmüne dayanmaktadır. Bu hüküm, köy işlerinin temel gerçekleştirilme usulünün imece olduğunu açıkça ifade eder.\n- Diğer seçenekler: Salma, kanunda belirtilen bir gelir toplama yöntemidir; ihtiyar meclisi kararı ise bir usulden ziyade karar alma mekanizmasıdır. Hizmet satın alınması veya bireysel gönüllülük gibi usuller ise kanunun bu maddesinde belirtilen temel yöntem değildir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy gelirlerinin köyün mecburi işlerine ve görevlilerin aylıklarına yetmemesi durumunda salınacak salma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Salma, köy ihtiyar meclisi kararıyla salınır.",
+        "B": "Miktarı belirlenirken herkesin hal ve vakti dikkate alınır.",
+        "C": "Sadece köyde oturanlar için değil, köyde maddi alakası bulunanlar için de salınır.",
+        "D": "Salınacak salmanın en yüksek haddi yirmi liradır.",
+        "E": "Salma miktarının alt sınırı kanunla belirlenmiş olup, bu miktarın altına düşülemez."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 16'da belirtilen 'En yüksek haddi yirmi lirayı aşmamak üzere ... salma salınır' hükmüne dayanmaktadır. Kanun metni, salma için sadece bir üst sınır (yirmi lira) belirlemiş, herhangi bir alt sınır öngörmemiştir. Bu nedenle alt sınırın kanunla belirlendiği ifadesi yanlıştır.\n- Diğer seçenekler: Salmanın köy ihtiyar meclisi kararıyla alınacağı, kişilerin durumuna göre belirleneceği, köyde oturanlar ile maddi alakası bulunanları kapsayacağı ve üst sınırının yirmi lira olduğu bilgileri madde metniyle birebir uyumlu olduğu için doğrudur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy ihtiyar meclisinin salma salma yetkisiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Salma, köy gelirlerinin köyün aylıklı adamlarının aylıkları ile mecburi köy işlerine yetmemesi durumunda salınabilir.",
+        "B": "Salma, sadece köyde oturanlara değil, köyde maddi alakası bulunanlara da salınabilir.",
+        "C": "Salınacak salmanın miktarı, kişilerin hal ve vaktine göre ihtiyar meclisi kararıyla belirlenir.",
+        "D": "Köyde güreş ve cirit gibi köy oyunlarını yaptırmak amacıyla köy gelirleri yetersiz kalırsa salma salınabilir.",
+        "E": "Salma salınırken belirlenecek en yüksek had yirmi lirayı aşamaz."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 16'da salmanın 'mecburi köy işleri' için gelirlerin yetersiz kalması durumunda salınacağının belirtilmesine dayanmaktadır. Madde 14'te ise köy oyunları yaptırmak 'yapılması köylünün isteğine bağlı olan şeyler' arasında sayılmıştır. Bu nedenle, isteğe bağlı bir iş için salma salınamaz.\n- Diğer seçenekler: A, B, C ve E seçeneklerinde belirtilen hususlar, Madde 16'da düzenlenen salma salma yetkisinin şartları ve usulü olarak doğru bir şekilde ifade edilmiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy gelirlerinin aylıklar ve mecburi köy işleri için yetersiz kalması durumunda, köylülere salma salınmasına karar verme yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Köy muhtarı",
+        "B": "Köy derneği",
+        "C": "Köy ihtiyar meclisi",
+        "D": "Kaymakam",
+        "E": "Vilayet idaresi"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 16'da belirtilen '...herkesin hal ve vaktine göre köy ihtiyar meclisi karariyle... salma salınır' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların veya kurulların, kanunda bu özel durumda salma kararı alma yetkisi bulunmamaktadır; bu yetki açıkça köy ihtiyar meclisine tanınmıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyün mevcut gelirlerinin, köyün mecburi işlerine ve köy işine bakacak adamların aylıklarına yetmemesi durumunda, köy ihtiyar meclisinin alacağı kararla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köyde oturan herkesten, mali durumlarına bakılmaksızın eşit miktarda para toplanır.",
+        "B": "Yalnızca köyde arazisi bulunanlardan, arazilerinin büyüklüğüne göre salma salınır.",
+        "C": "Köyde oturanların ve maddi alakası bulunanların hal ve vaktine göre, üst sınırı yirmi lirayı geçmeyecek şekilde salma salınır.",
+        "D": "Köy gelirleri yetersiz kaldığında, eksik kalan miktar valilik tarafından doğrudan karşılanır.",
+        "E": "Salma miktarının üst sınırı köy derneği tarafından serbestçe belirlenir ve kaymakam onayıyla uygulanır."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 16'da belirtilen 'En yüksek haddi yirmi lirayı aşmamak üzere herkesin hal ve vaktine göre köy ihtiyar meclisi karariyle köyde oturanlara ve köyde maddi alakası bulunanlara salma salınır' hükmüne dayanmaktadır. Bu hüküm, köy gelirlerinin Madde 19'da sayılan mecburi harcamalara yetmemesi durumunda uygulanacak usulü açıklamaktadır.\n- Diğer seçenekler: Kanunda belirtilen salma usulüne, yetkili makama, miktara veya yükümlülere ilişkin şartlara aykırı bilgiler içerdiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi köy parası olarak kabul edilen gelir kaynakları arasında sayılmamıştır?",
+      "secenekler": {
+        "A": "İhtiyar meclisi tarafından köylüye salınacak para",
+        "B": "Köy sınırı içinde sahipsiz ağaçların ve yemişlerin geliri",
+        "C": "Hediye ve bağışlanmış paralar ve mallar",
+        "D": "Köy namına ekilen tarla geliri",
+        "E": "Köy tüzel kişiliğine ait tarım arazilerinin satışından elde edilen gelirler"
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 17'de köy parası kaynakları arasında 'tarım arazilerinin satışından elde edilen gelirler' şeklinde bir kalem belirtilmediği için C seçeneğidir.\n- Diğer seçenekler, Madde 17'de açıkça köy parası olarak sayılan gelirler arasında yer aldığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy parası kaynaklarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Mühürlenecek ilmühaberlerden alınacak para, doğrudan muhtar tarafından belirlenen bir cetvele göre tahsil edilir.",
+        "B": "Köy sınırı içindeki tüm taş ve kireç ocaklarından, büyüklüklerine bakılmaksızın elde edilen gelirler köy parasına dahildir.",
+        "C": "Çay ve nehirler üzerindeki kayık ve sallardan elde edilecek gelir, bu araçların senenin altı ayından fazla çalışması durumunda vilayet idarelerine ait olur.",
+        "D": "Köy sınırı içindeki tüm kaplıcalar ve maden sularının geliri, önceden kim tarafından işletildiğine bakılmaksızın köy parası sayılır.",
+        "E": "Geliri yetişmeyen köylerde, sadece muhtar ve korucunun aylıkları için halktan ek para veya mahsul salınabilir."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Çay ve nehirler üzerindeki kayık ve sallardan alınacak para, (senenin altı ayı işliyenlere mahsustur. Bundan fazla işliyenler vilayet idarelerinindir)' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği yetkili makamı (ihtiyar meclisi kararı ve mülki amir onayı) yanlış belirttiği, B ve D seçenekleri kanundaki sınırlama ve istisnaları göz ardı ettiği, E seçeneği ise aylık salınabilecek köy adamlarını (imam, katip, sığırtmaç vb.) eksik saydığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi köylünün isteğine bağlı olmayan ve köy bütçesinden karşılanması zorunlu olan bir harcama kalemi değildir?",
+      "secenekler": {
+        "A": "Köy muhtarının köy derneğince kesilen aylığı",
+        "B": "Köy sınırı içindeki otlaklardan ve meralardan fazlasının kira paraları",
+        "C": "Köy namına yazılı veya vakıf emlak ve arazinin vergisi",
+        "D": "Köyün mecburi işlerine lazım olacak paralar",
+        "E": "Varsa köy katibinin aylığı"
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 17'de bir köy geliri olarak sayılan 'Köy sınırı içindeki otlaklardan ve meralardan fazlasının kira paraları' hükmüne dayanmaktadır. Bu bir gelir kalemidir, harcama kalemi değildir.\n- Diğer seçenekler: Madde 19'da köylünün isteğine bağlı olmayan, zorunlu harcama kalemleri arasında açıkça sayıldığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy namına harcanacak paranın sınıflandırılması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Para, harcamanın köylünün isteğine bağlı olup olmamasına göre ikiye ayrılır.",
+        "B": "Para, köy gelirlerinin türüne göre (salma, ceza, kira) sınıflandırılır.",
+        "C": "Para, harcamanın ihtiyar meclisi kararıyla mı yoksa köy derneği kararıyla mı yapıldığına göre sınıflandırılır.",
+        "D": "Tüm harcamalar köylünün isteğine bağlıdır ve salma yoluyla karşılanır.",
+        "E": "Para, sadece köyün mecburi işlerine ve aylıklı adamlarına harcanmak üzere toplanır."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Köy namına harcanacak para iki türlüdür. Biri köylünün isteğine bağlı olmıyan, diğeri köylünün isteğine bağlı olandır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen temel sınıflandırma ilkesiyle çeliştiği veya harcama yerine gelir türleri gibi farklı konulara odaklandığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köylünün isteğine bağlı olmaksızın harcanacak paralar arasında aşağıdakilerden hangisi yer almaz?",
+      "secenekler": {
+        "A": "Köy muhtarının köy derneğince kesilen aylığı veya seneliği",
+        "B": "Köyün mecburi işlerine lazım olacak paralar",
+        "C": "Köy namına yazılı veya vakıf emlak ve arazinin vergi ve diğer masrafları",
+        "D": "Kanun uyarınca tahsil edilen ceza paralarının köy hizmetlerinde kullanılması",
+        "E": "İsteğe bağlı iken sonradan mecburi hale getirilen işler için gerekli olan paralar"
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Köylünün isteğine bağlı olmıyarak harcanacak paralar' listesinde ceza paralarına ilişkin bir harcama kaleminin sayılmamış olmasına dayanmaktadır. Kanun, bu tür harcamaları sınırlı olarak listelemiştir.\n- Diğer seçenekler (A, B, C ve E), Madde 19'da köylünün isteğine bağlı olmayan zorunlu harcama kalemleri olarak açıkça sayılmıştır.\n- D seçeneğindeki ceza paraları ise, Madde 17 uyarınca köyün harcamaları değil, gelirleri arasında yer alan bir kalemdir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi köylünün isteğine bağlı olmaksızın harcanacak paralar arasında sayılmamıştır?",
+      "secenekler": {
+        "A": "Köy muhtarının köy derneğince kesilen aylık veya seneliği",
+        "B": "Köy namına yazılı veya vakıf emlak ve arazinin vergi ve başka masrafı",
+        "C": "Köyün mecburi işlerine lazım olacak paralar",
+        "D": "Köydeki özel işletmelerin tanıtım ve reklam giderleri",
+        "E": "İsteğe bağlı iken mecburi yapılan işlere lazım olacak paralar"
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Köylünün isteğine bağlı olmıyarak harcanacak paralar' listesinde böyle bir harcama kaleminin yer almamasına dayanmaktadır.\n- Diğer seçenekler, kanunda köy muhtarının aylığı, köy mülklerinin vergileri ve mecburi işler için gereken paralar gibi zorunlu harcamalar arasında açıkça sayıldığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy muhtarı ve ihtiyar meclisi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Köy muhtarı, ihtiyar meclisinin başı olarak görev yapar.",
+        "B": "İhtiyar meclisi azaları, köy derneği tarafından doğrudan seçilir.",
+        "C": "Köy muhtarı, ihtiyar meclisi üyeleri arasından ve onlar tarafından seçilir.",
+        "D": "Köy muhtarını ve ihtiyar meclisi azalarını seçme hakkına sahip köylülerin toplanmasına köy derneği denir.",
+        "E": "Seçilecek kişiler, köylü kadın ve erkekler arasından belirlenir."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Köy muhtarı ve ihtiyar meclisi azaları doğrudan doğruya köy derneği tarafından ... seçilir.' hükmüne dayanmaktadır. Bu hükme göre köy muhtarı, ihtiyar meclisi tarafından değil, doğrudan köy derneği tarafından seçilir.\n- Diğer seçenekler: Madde 20'de yer alan köy organlarının oluşumu ve görevleriyle ilgili doğru ifadeler içerdiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy derneğinin yetkileri ve bu yetkilerin sonuçları hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy muhtarını ve ihtiyar meclisi azalarını seçer ancak muhtarın aylığını belirleme yetkisi yoktur.",
+        "B": "Belirlediği köy muhtarı aylığı, köylünün isteğine bağlı olmayan mecburi köy harcamaları arasında yer alır.",
+        "C": "Sadece kadın ve erkek köylülerden oluşur ve köyün isteğe bağlı işlerine harcanacak parayı belirler.",
+        "D": "Köy muhtarını seçer fakat ihtiyar meclisinin doğal üyeleri olan imam ve muallimi de oylama ile belirler.",
+        "E": "Köyün mecburi işlerine lazım olacak paraların tamamını tek başına belirleme yetkisine sahiptir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 20'de köy derneğinin köy muhtarını seçtiği ve Madde 19'da 'Köy muhtarının köy derneğince kesilen aylık veya seneliği'nin köylünün isteğine bağlı olmayan mecburi harcamalardan sayıldığı hükümlerinin birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: Köy derneğinin yetkilerini yanlış tanımladığı (A, E), doğal üyelerin statüsünü hatalı belirttiği (D) veya mecburi harcamanın niteliğini yanlış ifade ettiği (C) için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisinin üyeliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köyün imamı ile muallimi veya başmuallimi, ihtiyar meclisinin her zaman üyesidir.",
+        "B": "İhtiyar meclisinin tüm üyeleri doğrudan köy derneği tarafından seçilir.",
+        "C": "Sadece köyün imamı seçim olmaksızın ihtiyar meclisi üyesi sayılır.",
+        "D": "Köy muhtarı, ihtiyar meclisinin doğal üyesi değil, sadece başkanıdır ve seçime tabi değildir.",
+        "E": "Köyün muallimi, ancak köy derneğinin onayı ile ihtiyar meclisine katılabilir."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Köyün imamı ile muallimi veya başmuallimi ihtiyar meclisinin her zaman azasıdırlar.' hükmüne dayanmaktadır. Bu kişiler, görevleri gereği meclisin doğal üyesidir ve seçime tabi değildirler.\n- Diğer seçenekler, bu kişilerin seçime tabi olduğunu veya sadece birinin bu hakka sahip olduğunu belirterek ya da meclisin tüm üyelerinin seçildiğini iddia ederek kanundaki açık düzenlemeye aykırı olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyün imamı ile aynı köyde görev yapan başmuallimin kardeş olmaları durumunda, bu kişilerin ihtiyar meclisindeki üyelikleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Her ikisi de ihtiyar meclisinin doğal üyesi olduklarından mecliste birlikte görev yapabilirler.",
+        "B": "Aralarında akrabalık bağı bulunduğu için sadece yaşı büyük olan üye olabilir.",
+        "C": "Kardeşlerin bir arada bulunması yasak olduğundan, hangisinin üye olacağına köy derneği karar verir.",
+        "D": "Üye olup olamayacakları ihtiyar meclisinin diğer seçilmiş üyelerinin oylamasıyla belirlenir.",
+        "E": "Durumun çözümü için aralarında kur'a çekilmesi zorunludur."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Köyün imamı ile muallimi veya başmuallimi ihtiyar meclisinin her zaman azasıdırlar.' hükmü ile Madde 30'daki akrabalık yasağının kapsamının birlikte değerlendirilmesine dayanmaktadır. Madde 30'daki yasak, 'seçilmiş olduğu görülür ise' ifadesi uyarınca seçilen üyeler için geçerlidir. İmam ve muallim seçime tabi olmadıkları, doğal üye oldukları için bu yasak onlara uygulanmaz ve mecliste birlikte yer alabilirler.\n- Diğer seçenekler: Madde 30'da belirtilen yaş veya kur'a gibi çözüm yollarını doğal üyelere yanlış bir şekilde uygulamakta veya kanunda yer almayan usuller öngördüğü için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, yapılan seçimlerde iki kardeş ihtiyar meclisi azalığına eşit sayıda oyla seçilmiştir. Her ikisinin de evli ve aynı yaşta olduğu tespit edilmiştir. Bu durumda, hangi adayın azalıkta kalacağını belirlemek için başvurulacak bir sonraki ölçüt aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Köy muhtarının takdir hakkını kullanması",
+        "B": "Doğrudan kur'a çekilmesi",
+        "C": "Çocuğu çok olanın tercih edilmesi",
+        "D": "Köy derneğinin yeniden oylama yapması",
+        "E": "Daha önce azalık yapmış olanın öncelik kazanması"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 30'da belirtilen '...Sayıları beraber olur ise evli olan, ikisi de evli ise yaşı büyük olan, yaşları da beraber ise çocuğu çok olan tercih olunur.' hükmüne dayanmaktadır. Soruda adayların eşit oy aldığı, evli ve aynı yaşta olduğu belirtildiğinden, bir sonraki aşama çocuk sayısının karşılaştırılmasıdır.\n- Diğer seçenekler: Kanunda belirtilen öncelik sırasına uymadığı veya böyle bir usul öngörülmediği için yanlıştır. Kur'a çekilmesi, ancak çocuk sayısının da eşit olması durumunda başvurulacak son çaredir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisi üyeliği seçimlerinde akraba olan iki kişinin eşit sayıda oy alarak seçildiği ve her ikisinin de evli olduğu bir durumda, hangisinin aza olarak kalacağını belirlemek için bir sonraki aşamada hangi kritere bakılır?",
+      "secenekler": {
+        "A": "Çocuğu çok olan tercih edilir.",
+        "B": "Yaşı büyük olan tercih edilir.",
+        "C": "Kur'a çekilerek adı önce çıkan azalığa alınır.",
+        "D": "En çok sayı kazanmış olan azalıkta bırakılır.",
+        "E": "Gelin veya güvey olan tercih edilir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Sayıları beraber olur ise evli olan, ikisi de evli ise yaşı büyük olan... tercih olunur' hükmüne dayanmaktadır. Olayda her iki kişi de eşit oy aldığı ve evli olduğu için bir sonraki kriter olan yaş büyüklüğüne bakılır.\n- Diğer seçenekler: Kanunda belirtilen tercih sıralamasında daha sonraki aşamalarda yer aldığı (çocuk sayısı, kur'a), olayda uygulama imkanı kalmadığı (en çok sayı kazanma) veya kanunda böyle bir öncelik tanınmadığı (gelin/güvey) için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy muhtarlığına veya ihtiyar meclisi üyeliğine seçildikten sonra ortaya çıkan durumlardan hangisi, bu görevlerden çıkarılma sebepleri arasında sayılmamıştır?",
+      "secenekler": {
+        "A": "Kısıtlı veya kamu hizmetlerinden yasaklı olmak.",
+        "B": "Zimmet veya rüşvet gibi yüz kızartıcı bir suçtan kesin olarak hüküm giymek.",
+        "C": "İzinsiz olarak yabancı bir devletin resmi hizmetinde bulunmak.",
+        "D": "Köy işlerinin müteahhidi veya bu işlerle ilgili birinin kefili olmak.",
+        "E": "Bir sendikaya yönetici olarak atanmak."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 33'te belirtilen görevden çıkarma sebepleri arasında böyle bir durumun yer almamasına dayanmaktadır. Kanun, muhtar ve ihtiyar meclisi üyelerinin görevden çıkarılma hallerini sınırlı sayıda saymıştır.\n- Diğer seçenekler: A, B, C ve D şıklarında belirtilen durumlar, Madde 33'te açıkça görevden çıkarılma sebepleri olarak listelendiği için yanlıştır.\n- E seçeneği: Kanunda bir sendikaya yönetici olmak görevden çıkarılma nedeni olarak düzenlenmemiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, muhtar veya ihtiyar meclisi üyeliğinden çıkarılmayı gerektiren bir durumun ortaya çıkması halinde, bu kişileri görevden çıkarma yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Köy derneği",
+        "B": "Belediye meclisi",
+        "C": "İl veya ilçe idare kurulu",
+        "D": "Vali veya kaymakam",
+        "E": "Cumhuriyet savcısı"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Muhtar ve ihtiyar meclisi üyeliğinden, il veya ilçe idare kurulunca çıkarılırlar.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yetkili merci il veya ilçe idare kurulu olduğundan, köy derneği, belediye meclisi, vali/kaymakam veya cumhuriyet savcısı gibi makamların bu yetkisi bulunmadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köy muhtarının köy tüzel kişiliği ile davacı veya davalı olması durumunda, bu davada köyü temsil edecek yetkiliyi belirleme görevi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "İhtiyar meclisi",
+        "B": "İl idare kurulu",
+        "C": "En yaşlı ihtiyar meclisi üyesi",
+        "D": "Köy derneği",
+        "E": "Kaymakam"
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Yetkili temsilciyi köy derneği seçer.' hükmüne dayanmaktadır. Bu kural, muhtar veya ihtiyar meclisi üyelerinin taraf olduğu davalarda menfaat çatışmasını önlemeyi amaçlar.\n- Diğer seçenekler: Kanun bu özel durumda yetkiyi açıkça köy derneğine verdiği için diğer makam ve kişileri belirten şıklar yanlıştır."
+    },
+    {
+      "soru": "Köy muhtarı olarak seçilen bir kişi, görevi sırasında işlediği taksirli bir suçtan dolayı 6 yıl hapis cezası almış ve bu ceza kesinleşmiştir. 442 Sayılı Köy Kanunu'na göre, bu durumla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Ceza 5 yılı aştığı için il idare kurulunca görevden çıkarılır.",
+        "B": "Köy derneği tarafından görevden alınır.",
+        "C": "Eşi ihtiyar meclisi üyesi ise her ikisinin de görevi sona erer.",
+        "D": "Taksirli suçtan alınan ceza, görevden çıkarılma sebebi oluşturmaz.",
+        "E": "Görevden çıkarılması için cezanın ağır hapis cezası olması şarttır."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Taksirli suçlar hariç olmak üzere 5 yıldan fazla hapis cezasiyle kesin olarak hüküm giyenler' görevden çıkarılır hükmüne dayanmaktadır. Bu hüküm, taksirli suçları açıkça istisna tuttuğundan, ceza süresi ne olursa olsun bu maddeye dayanılarak görevden çıkarma işlemi yapılamaz.\n- Diğer seçenekler: A seçeneği, taksirli suç istisnasını göz ardı ettiği için; B seçeneği, yetkili makamı yanlış belirttiği için; C seçeneği, konuyla ilgisiz ve farklı bir maddeye ait bir durumu belirttiği için; E seçeneği ise 5 yılı aşan hapis cezası için 'ağır hapis' şartı aramadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyde yapılan seçimlerde iki kardeş ihtiyar meclisi üyeliğine seçilmiştir. Kardeşlerden yaşı büyük olan daha fazla oy almıştır. Ancak, yaşı küçük olan kardeşin aynı zamanda belediye meclisi üyesi olduğu anlaşılmıştır. Bu durumda ortaya çıkacak hukuki sonuç aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Yaşı büyük olan ve daha fazla oy alan kardeşin üyeliği devam eder, diğeri ise akrabalık yasağı nedeniyle üyelikten çıkarılır.",
+        "B": "Her iki kardeşin de oyları eşit kabul edilerek aralarında kur'a çekilir ve kur'ada adı çıkan üye olarak kalır.",
+        "C": "Köy derneği, kardeşlerden hangisinin üye olarak kalacağına karar vermek üzere toplanır.",
+        "D": "Her iki kardeşin de üyeliği, akrabalık ilişkisi nedeniyle il idare kurulu tarafından düşürülür.",
+        "E": "Belediye meclisi üyesi olan kardeş, bu görevi nedeniyle il veya ilçe idare kurulunca ihtiyar meclisi üyeliğinden çıkarılır."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Cumhuriyet Senatosu üyesi, milletvekili, il genel meclisi üyesi, belediye meclisi üyesi, belediye başkanı olanlar, Muhtar ve ihtiyar meclisi üyeliğinden, il veya ilçe idare kurulunca çıkarılırlar' hükmüne dayanmaktadır. Olayda, küçük kardeşin belediye meclisi üyesi olması doğrudan bir çıkarma sebebidir. Madde 30'daki akrabalık durumuna ilişkin sıralama (en çok oy alanın kalması) bu özel çıkarma sebebi karşısında ikincil kalmaktadır.\n- Diğer seçenekler: A seçeneği çıkarma sebebini yanlış belirtmekte, B, C ve D seçenekleri ise kanunda yer almayan usuller veya sonuçlar öngördüğü için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy ihtiyar meclisinin oluşumu ve üyeliğin sona ermesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Aynı mecliste aza olarak seçilen baba ve oğuldan, en çok oyu alanın üyeliği devam eder.",
+        "B": "Zimmet suçundan kesin olarak hüküm giyen bir üye, il veya ilçe idare kurulunca üyelikten çıkarılır.",
+        "C": "Köy içlerindeki işlerin müteahhidi olan bir üyenin, ihtiyar meclisindeki görevi sona erdirilir.",
+        "D": "Oyları, evlilik durumları ve yaşları eşit olan iki kardeşten, çocuğu daha çok olan üyelikte tercih edilir.",
+        "E": "Köy tüzel kişiliği ile davalı olan bir üyenin görevden alınıp alınmayacağına köy derneği karar verir."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Köy tüzel kişiliği ile davacı ve davalı olan muhtar ve ihtiyar meclisi üyeleri bu davalarda köy tüzel kişiliğini temsil edemezler. Yetkili temsilciyi köy derneği seçer' hükmüne dayanmaktadır. Bu hüküm, üyenin görevden alınmasını değil, sadece o davada köyü temsil edemeyeceğini ve temsilcinin köy derneğince seçileceğini düzenler.\n- Diğer seçenekler: A ve D seçenekleri Madde 30'daki akrabalık durumunda uygulanacak usullere, B ve C seçenekleri ise Madde 33'te sayılan üyelikten çıkarma sebeplerine uygun olduğu için doğrudur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyün sınırı içinde köylüye ait işleri yapmak ve yaptırma vazifesi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Muhtara ve onun başında bulunduğu ihtiyar meclisine",
+        "B": "Yalnızca köy muhtarına",
+        "C": "Yalnızca ihtiyar meclisine",
+        "D": "Köy derneğine",
+        "E": "İl veya ilçe idare kuruluna"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 34'te belirtilen 'Köyün sınırı içinde köylüye ait işleri yapmak ve yaptırmak muhtarla onun başında bulunduğu ihtiyar meclisinin vazifesidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamlar bu vazife için yetkilendirilmemiştir; kanun bu görevi muhtar ve ihtiyar meclisine birlikte vermiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, muhtarın göreceği işler temel olarak hangi iki kategoriye ayrılmıştır?",
+      "secenekler": {
+        "A": "Devlet işleri ve Köy işleri",
+        "B": "Adli işler ve İdari işler",
+        "C": "Mali işler ve Zabıta işleri",
+        "D": "Seçim işleri ve Dernek işleri",
+        "E": "Merkezi idare işleri ve Mahalli idare işleri"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 35'te belirtilen 'Muhtarın göreceği işler ikiye ayrılır: 1 - Devlet işleri; 2 - Köy işleri' hükmüne dayanmaktadır.\n- Diğer seçeneklerde yer alan sınıflandırmalar kanunda bu şekilde belirtilmediği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi muhtarın göreceği Devlet işleri arasında sayılmamıştır?",
+      "secenekler": {
+        "A": "Salgın ve bulaşık hastalıkları günü gününe Hükümete haber vermek",
+        "B": "Hekim olmayanların ve üfürükçülerin hastalara ilaç yapmasını menetmek",
+        "C": "Köyün imar planını hazırlayarak belediyeye sunmak",
+        "D": "Asker toplamak ve bakaya ve kaçakları Hükümete haber vermek",
+        "E": "Vergi toplamak için gelen tahsildarlara yol göstermek ve yardım etmek"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 36'da muhtarın Devlet işleri arasında 'köyün imar planını hazırlamak' gibi bir görevin sayılmamış olmasına dayanmaktadır.\n- Diğer seçeneklerde belirtilen görevler, Madde 36'da açıkça muhtarın Devlet işleri olarak listelenmiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, muhtarın her ay köyde gerçekleşen doğum, ölüm, nikahlanma ve boşanmaları içeren defteri nüfus memuruna vermesi için belirlenen süre aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "İlgili ayın son iş gününe kadar",
+        "B": "Olayın gerçekleştiği tarihten itibaren on beş gün içinde",
+        "C": "Her üç ayda bir, dönemi takip eden ilk hafta içinde",
+        "D": "Ertesi ayın onuncu gününden evvel",
+        "E": "Yıl sonunda toplu olarak"
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Her ay içinde köyde doğan, ölen, nikahlanan ve boşananların defterini yapıp ertesi ayın onuncu gününden evvel nüfus memuruna vermek' hükmüne dayanmaktadır.\n- Diğer seçeneklerde yer alan süreler kanunda düzenlenmemiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, muhtarın adli makamlarla ilgili Devlet işleri kapsamında, mahkemelerden gelen 'ihzar ve tevkif müzekkereleri' gösterildiğinde yapması gereken işlem aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Aranılan kimseleri kağıdı getirenlere tutturmak",
+        "B": "Müzekkereyi ihtiyar meclisinin onayına sunmak",
+        "C": "Aranılan kişiye köyü terk etmesi için süre tanımak",
+        "D": "Durumu sadece Hükümete rapor etmekle yetinmek",
+        "E": "Kişinin ifadesini alıp mahkemeye göndermek"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 36'da belirtilen 'İhzar ve tevkif müzekkereleri gösterildikte aranılan kimseleri kağıdı getirenlere tutturmak' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen işlemler, kanunda yer alan bu özel göreve aykırıdır veya bu görev kapsamında sayılmamıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi muhtarın göreceği köy işleri arasında sayılmamıştır?",
+      "secenekler": {
+        "A": "İhtiyar meclisi ile görüşerek köylüyü işe çağırmak.",
+        "B": "Köy işlerinde davacı veya hasım olarak mahkemede bulunmak.",
+        "C": "Salgın ve bulaşık hastalıkları günü gününe Hükümete haber vermek.",
+        "D": "İhtiyar meclisi kararı ile köy işlerine harcanacak parayı toplamak.",
+        "E": "Köy işlerinin yapılabilmesi için köylülere öğüt vermek."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Salgın ve bulaşık hastalıkları günü gününe Hükümete haber vermek' hükmüne dayanmaktadır. Bu görev, muhtarın köy işleri değil, Devlet işleri kapsamında yer alır.\n- Diğer seçenekler: Madde 37'de muhtarın göreceği köy işleri arasında açıkça sayıldığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, muhtarın görevleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Hükümet tarafından bildirilecek kanunları köy içinde ilan etmek, muhtarın göreceği Devlet işlerindendir.",
+        "B": "Köy işlerine harcanacak parayı toplamak, muhtarın ihtiyar meclisi kararıyla yapacağı köy işlerindendir.",
+        "C": "Köyün sınırı içinde dirlik ve düzenliği korumak, muhtarın göreceği köy işleri arasında yer alır.",
+        "D": "Köy işlerinde davacı olarak mahkemede bulunmak, muhtarın göreceği köy işlerindendir.",
+        "E": "Salgın ve bulaşık hastalıkları Hükümete haber vermek, muhtarın göreceği Devlet işlerindendir."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Köyün sınırı içinde dirlik ve düzenliği korumak (asayişi korumak)' hükmünün Devlet işleri arasında sayılmasına dayanmaktadır. Soruda bu görevin köy işi olduğu iddia edilerek yanlış bilgi verilmiştir.\n- Diğer seçenekler: A ve E seçenekleri Madde 36'da sayılan Devlet işlerine, B ve D seçenekleri ise Madde 37'de sayılan köy işlerine ilişkin doğru ifadelerdir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, muhtarın köy işlerine ilişkin mali süreçlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy işlerine harcanacak parayı topladıktan sonra, harcama emri vermeden önce ihtiyar meclisinden tekrar onay almalıdır.",
+        "B": "Bir ay içinde yaptığı harcamaların hesabını, gelecek ay başında ihtiyar meclisine vermekle yükümlüdür.",
+        "C": "Köy işleri için para toplama yetkisi, ihtiyar meclisi kararı olmaksızın doğrudan muhtara aittir.",
+        "D": "Toplanan paranın harcanması için verilen emirlerin kaydını nüfus memuruna bildirmelidir.",
+        "E": "Mahkemede köyü temsil ederken yaptığı masrafları doğrudan köy bütçesinden karşılayabilir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 37'de belirtilen 'Bir ay içinde nerelere ve ne kadar para harcamış ise gelecek ay başında hesabatını ihtiyar meclisine vermek' hükmüne dayanmaktadır. Bu, muhtarın mali şeffaflık ve denetim sorumluluğunu açıkça düzenler.\n- Diğer seçenekler: Madde 37'de yer alan mali sürece aykırı veya kanunda belirtilmeyen ek şartlar içerdiği için yanlıştır. Örneğin, para toplamak için ihtiyar meclisi kararı şarttır ve harcama emri vermek için tekrar onay alınması gerektiği belirtilmemiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köy muhtarına karşı gelinmesi veya kötü söz söylenmesi durumunda, bu eylemi gerçekleştiren kişinin Devlet memuruna karşı koyanlar gibi cezalandırılması hangi şarta bağlanmıştır?",
+      "secenekler": {
+        "A": "Eylemin, muhtarın köy işlerini gördüğü sırada gerçekleşmiş olması",
+        "B": "Eylemin, muhtarın Devlet işlerini gördüğü sırada gerçekleşmiş olması",
+        "C": "Eylemin, ihtiyar meclisi üyelerinin tanıklığında gerçekleşmiş olması",
+        "D": "Eylemin, köy halkının ortak kullanım alanlarında gerçekleşmiş olması",
+        "E": "Eylemin, muhtarın kişisel bir meselesiyle ilgili olarak gerçekleşmiş olması"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Köy muhtarına köy işlerini gördükleri zaman karşı gelen ve kötü söyliyenler Devlet memuruna karşı koyanlar gibi ceza görürler.' hükmüne dayanmaktadır. Bu hüküm, ağırlaştırılmış cezanın uygulanmasını açıkça muhtarın 'köy işlerini' görmesi şartına bağlamıştır.\n- Diğer seçenekler: Kanunda belirtilen bu özel şartı (köy işleri) karşılamadığı veya kanunda yer almayan (Devlet işleri, tanıklık, mekan gibi) ek koşullar öne sürdüğü için yanlıştır."
+    },
+    {
+      "soru": "Köy muhtarı, ihtiyar meclisinin kararıyla köy çeşmesinin onarımı için köylüleri işe çağırmıştır. Ancak köylülerden biri bu çağrıya uymayarak muhtara karşı gelmiş ve hakaret etmiştir. 442 Sayılı Köy Kanunu'na göre, muhtara karşı gelen bu köylünün eyleminin hukuki sonucu aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Eylemi köy işleriyle ilgili olduğu için herhangi bir ceza görmez.",
+        "B": "Sadece ihtiyar meclisi tarafından belirlenen bir para cezasını öder.",
+        "C": "Devlet memuruna karşı koyanlar gibi ceza görür.",
+        "D": "Muhtar tarafından doğrudan tutuklanarak en yakın karakola teslim edilir.",
+        "E": "Yalnızca köy işlerinden men edilir."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Köy muhtarına köy işlerini gördükleri zaman karşı gelen ve kötü söyliyenler Devlet memuruna karşı koyanlar gibi ceza görürler.' hükmüne dayanmaktadır. Olaydaki durum, muhtarın bir köy işini (Madde 37) yerine getirirken meydana gelmiştir.\n- Diğer seçenekler: Kanunda, karşı gelme eylemi için ihtiyar meclisinin para cezası vermesi, muhtarın tutuklama yetkisi veya köy işlerinden men gibi yaptırımlar düzenlenmediği için yanlıştır. A seçeneği ise kanun hükmünün tam tersini iddia etmektedir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy muhtarının köy işlerini yürüttüğü sırada kendisine karşı gelinmesi veya kötü söz söylenmesi durumunda uygulanacak yaptırımla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Bu fiiller, muhtarın kişisel işlerini gördüğü sırada işlense dahi aynı cezai yaptırıma tabidir.",
+        "B": "Bu durumda ceza verme yetkisi doğrudan köy ihtiyar heyetine aittir.",
+        "C": "Sadece kötü söz söyleyenler için para cezası, karşı gelenler için ise daha ağır bir ceza öngörülmüştür.",
+        "D": "Muhtara karşı gelenler hakkında işlem yapılması için kaymakamdan izin alınması zorunludur.",
+        "E": "Bu fiilleri işleyenler, Devlet memuruna karşı koyanlar gibi ceza görürler."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Köy muhtarına köy işlerini gördükleri zaman karşı gelen ve kötü söyliyenler Devlet memuruna karşı koyanlar gibi ceza görürler.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen cezanın koşullarını, niteliğini veya usulünü yanlış yansıttığı için hatalıdır. Kanun, bu fiillerin sadece köy işleri sırasında işlenmesi halinde ve fiiller arasında bir ayrım yapmaksızın, Devlet memuruna karşı gelenler gibi cezalandırılacağını belirtmekte, özel bir usul veya yetkili makam öngörmemektedir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyde katip bulunmadığı bir durumda muhtarın yazılarını yazdırma görevi öncelikli olarak kime aittir?",
+      "secenekler": {
+        "A": "Köyün imamına",
+        "B": "Köyün muallimine",
+        "C": "İhtiyar meclisi azalarından birine",
+        "D": "Kaymakam tarafından görevlendirilen bir memura",
+        "E": "Muhtarın kendisi tarafından seçilen okuryazar bir köylüye"
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 39'da belirtilen 'Köyde katip bulunmazsa bu işi köyün muallimine ve yoksa imamına yaptırır.' hükmüne dayanmaktadır. Bu hüküm, katibin yokluğunda görevin öncelikle muallime ait olduğunu açıkça düzenlemektedir.\n- Diğer seçenekler, kanunda belirtilen sıralamaya aykırı olduğu veya bu maddede hiç sayılmadığı için yanlıştır. Köy imamı, ancak muallimin de bulunmaması halinde bu görevi üstlenir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy muhtarının köylü faydasına olmayan bir kararının kaymakam tarafından denetlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Kaymakam, muhtarın kararını bozduktan sonra yerine geçerek kendisi yeni bir karar alır.",
+        "B": "Köylü faydasına olmayan kararları bozma yetkisi yalnızca valiye aittir.",
+        "C": "Kaymakamın kararı bozması üzerine, yeni karar yine köylü tarafından verilir.",
+        "D": "Köy muhtarının aldığı tüm kararlar, yürürlüğe girmeden önce kaymakamın onayına sunulmak zorundadır.",
+        "E": "Kaymakam, muhtarın kararını uygun bulmazsa konuyu doğrudan ihtiyar meclisine havale eder."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Fakat, onun yerine kaymakam kendiliğinden karar veremez. Karar, gene köylü tarafından verilir.' hükmüne dayanmaktadır. Kaymakamın kararı bozma yetkisi vardır ancak yeni kararı kendisi alamaz; bu yetki köylüye aittir.\n- Diğer seçenekler, kanunda belirtilen yetkili makamı (kaymakam yerine vali), kararı alacak olanı (köylü yerine kaymakam veya ihtiyar meclisi) yanlış belirttiği veya kanunda olmayan bir genel onay zorunluluğu getirdiği için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir ilçeye bağlı köyün muhtarının hem köylü faydasına olmayan bir karar alması hem de kanunlarla verilen diğer görevlerini sürekli olarak yapmaması durumunda, kaymakamın yetkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Kaymakam, muhtarın kararını bozarak yerine kendisi yeni bir karar alabilir ve muhtarı doğrudan görevden uzaklaştırabilir.",
+        "B": "Kaymakam, köylü faydasına olmayan kararı bozabilir ve görevlerini yapmayan muhtara yazılı ihtarda bulunabilir.",
+        "C": "Kaymakam, muhtarı görevden uzaklaştırmak için idare kuruluna başvurmadan önce köy ihtiyar heyetinin görüşünü almalıdır.",
+        "D": "Kaymakam, muhtarın görevini yapmadığını tespit ettiğinde, muhtarın yazılarını yazması için köy imamını doğrudan görevlendirir.",
+        "E": "Kaymakam, muhtarın kararını bozamaz ancak görevini yapmadığı için doğrudan görevden alabilir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Köy muhtarının köylü faydasına olmıyan kararlarını kaymakam bozabilir' hükmü ile Madde 41'deki 'ilçelere bağlı köylerde kaymakamlar, muhtarın köy işlerini ve kanunlarla verilen diğer görevlerini yapmadığını görürlerse muhtara yazılı ihtarda bulunurlar' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Kaymakamın bozulan kararın yerine kendiliğinden karar vermesi (Madde 40) veya muhtarı doğrudan görevden uzaklaştırması (Madde 41) mümkün değildir; bu yetki idare kuruluna aittir. Diğer yetkiler ise kanunda düzenlenmemiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, görevini yapmadığı için yazılı olarak ihtar edilmesine rağmen iş görmeyen bir muhtarın görevinden uzaklaştırılması süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "İl merkezine bağlı köylerde muhtara yazılı ihtarda bulunma yetkisi valiye aittir.",
+        "B": "İlçelere bağlı köylerde muhtara yazılı ihtarda bulunma yetkisi kaymakamlara aittir.",
+        "C": "Muhtarın görevden uzaklaştırılması kararı yetkili idare kurulu tarafından verilir.",
+        "D": "Yazılı ihtara rağmen görevini yapmayan muhtar görevinden uzaklaştırılabilir.",
+        "E": "Vali veya kaymakam, ihtar sürecine gerek duymadan muhtarı doğrudan görevden uzaklaştırabilir."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 41'de belirtilen '...muhtara yazılı ihtarda bulunurlar. Buna rağmen iş görmiyen muhtar, yetkili idare kurulu karariyle görevinden uzaklaştırılır.' hükmüne dayanmaktadır. Bu hüküm, görevden uzaklaştırmadan önce yazılı ihtarın zorunlu bir aşama olduğunu göstermektedir, bu nedenle ihtar olmaksızın doğrudan görevden uzaklaştırma yapılamaz.\n- Diğer seçeneklerde yer alan ifadeler, kanun metnindeki usul ve yetki dağılımını doğru bir şekilde yansıttığı için doğrudur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy muhtarının görevleri ve korunması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Köy işlerini gördüğü sırada muhtara karşı gelenler, Devlet memuruna karşı koyanlar gibi cezalandırılır.",
+        "B": "Muhtar, köyde katip bulunmaması halinde yazılarını köyün imamına yazdırabilir.",
+        "C": "Görevini yapmayan muhtar, yetkili idare kurulu kararıyla görevinden uzaklaştırılabilir.",
+        "D": "Kaymakam, muhtarın köylü faydasına olmayan kararını bozduktan sonra, kararın yeniden köylü tarafından verilmesini sağlar.",
+        "E": "İl merkezine bağlı bir köyde görevini yapmayan muhtar, valinin tek taraflı kararıyla görevinden uzaklaştırılır."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 41'de belirtilen 'iş görmiyen muhtar, yetkili idare kurulu karariyle görevinden uzaklaştırılır' hükmüne aykırıdır. Uzaklaştırma işlemi valinin tek taraflı kararıyla değil, idare kurulu kararıyla yapılır.\n- Diğer seçenekler: A seçeneği Madde 38'e, B seçeneği Madde 39'a, C seçeneği Madde 41'e ve D seçeneği Madde 40'a göre doğru ifadelerdir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, görevini yapmayan muhtar hakkında izlenecek usul ve yetkili makamlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "İlçeye bağlı bir köyde görevini yapmayan muhtara ilk olarak vali tarafından yazılı ihtarda bulunulur.",
+        "B": "Görevini yapmayan muhtar, ihtara gerek olmaksızın doğrudan kaymakam kararıyla görevden uzaklaştırılır.",
+        "C": "İl merkezine bağlı bir köyde görevini yapmayan muhtara kaymakam tarafından sözlü uyarı yapılır.",
+        "D": "Yazılı ihtara rağmen görevini yapmaya devam etmeyen muhtar, yetkili idare kurulu kararıyla görevinden uzaklaştırılır.",
+        "E": "Yazılı ihtara rağmen görevini yapmayan muhtarı görevden uzaklaştırma yetkisi doğrudan valiye aittir."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 41'de belirtilen 'Buna rağmen iş görmiyen muhtar, yetkili idare kurulu karariyle görevinden uzaklaştırılır' hükmüne dayanmaktadır.\n- Diğer seçenekler, yetkili makamları (ilçelerde kaymakam, il merkezlerinde vali), ihtarın şeklini (yazılı) ve görevden uzaklaştırma kararını veren mercii (yetkili idare kurulu) yanlış belirttiği için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köy muhtarının görevlerini ihmal ettiği ve ihtiyar meclisini düzenli olarak toplantıya çağırmadığı bir durumda, aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "İhtiyar meclisi, muhtarın çağrısı olmasa bile ona haber vererek kendi isteğiyle toplanabilir.",
+        "B": "Vali veya kaymakam, görevini yapmayan muhtara yazılı bir ihtarda bulunma yetkisine sahiptir.",
+        "C": "Sağlık ve mektep gibi öncelikli işlerin ihmal edildiği şikayet edilirse, vali veya kaymakam bu işlerin nasıl yapılacağını gösterebilir.",
+        "D": "Yazılı ihtara rağmen görevini yapmaya devam etmeyen muhtar, yetkili idare kurulu kararıyla görevinden uzaklaştırılabilir.",
+        "E": "İhtiyar meclisi, görevini yapmayan muhtarı görevden uzaklaştırma ve yerine bir vekil atama kararı alabilir."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 41'de belirtilen 'muhtar, yetkili idare kurulu karariyle görevinden uzaklaştırılır' hükmüne dayanmaktadır. Muhtarı görevden uzaklaştırma yetkisi ihtiyar meclisine değil, yetkili idare kuruluna aittir.\n- Diğer seçenekler: Madde 41, 42 ve 43'te belirtilen usul ve yetkilere uygun olduğu için doğrudur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisinin toplanması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "İhtiyar meclisi, olağan gündemle en az ayda bir defa toplanmak zorundadır.",
+        "B": "İhtiyar meclisini toplantıya çağırma yetkisi, istisnasız olarak yalnızca köy muhtarına aittir.",
+        "C": "İhtiyar meclisi, muhtarın çağrısı olmasa bile, muhtara haber vererek kendi isteğiyle toplanabilir.",
+        "D": "Meclisin toplanma günü dışında bir vakitte toplanabilmesi için köyün bağlı olduğu kaymakamdan izin alınması gerekir.",
+        "E": "Muhtarın çağırmadığı toplantılar, ancak meclisin önceden belirlenmiş olağan toplanma gününde yapılabilir."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 42'de belirtilen 'İhtiyar meclisi köy muhtarının çağırmadığı ve meclisin toplanma günü olmadığı vakitlerde dahi köy muhtarına haber vererek kendi isteği ile toplanabilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen toplanma usulü ve sıklığına aykırı bilgiler içerdiği için yanlıştır. Meclis en az haftada bir toplanır ve muhtarın çağrısı olmaksızın da toplanma yetkisine sahiptir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisinin öncelikli olarak yapması gereken sağlık, yol ve mektep işlerini geri bıraktığı şikayet edildiğinde, bu işlerin yapılmasını sağlama yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Köyün bağlı olduğu kaymakam veya valiye",
+        "B": "Yalnızca ihtiyar meclisine",
+        "C": "Doğrudan köy muhtarına",
+        "D": "Köy ahalisinin oy çokluğuna",
+        "E": "Muhtar ve ihtiyar meclisinin ortak kararına"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 43'te belirtilen 'Evvel yapılması lazım gelen sağlık, yol, mektep işlerinin geri bırakıldığı haber alınır veya şikayet edilirse köyün bağlı olduğu kaymakam veya vali tarafından gösterilen yolda yapılır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kişi veya kurullar, kanunun bu özel durumda yetki verdiği merciler arasında sayılmadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisinin mecburi veya ihtiyari işler için bir gayrimenkulü değer pahasıyla satın almak istemesi ve mal sahibinin bu duruma razı olmaması halinde, uyuşmazlığı nihai olarak karara bağlama yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Köy muhtarı",
+        "B": "İhtiyar meclisinin kendisi",
+        "C": "Köyün bağlı bulunduğu kaza veya vilayet idare heyeti",
+        "D": "Köy derneği",
+        "E": "Malsandığı"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Mal sahibi razı olmazsa köyün bağlı bulunduğu kaza veya vilayet idare heyeti işi gözden geçirir. İdare heyetinin kararına söz yoktur.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kişi veya kurumların bu konuda nihai karar verme yetkisi bulunmadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi ihtiyar meclisinin göreceği işler arasında sayılmamıştır?",
+      "secenekler": {
+        "A": "Tarlası olmayan veya yetişmeyen köylüye köy sınırı içinden boz haliden bir parça ayırıp vermek",
+        "B": "Görevini yapmayan muhtar hakkında yazılı ihtarda bulunmak",
+        "C": "Köylünün kaçar gün çalışacağını kestirmek",
+        "D": "Köy işi için her köylüye haline göre salınacak paranın miktarını belirlemek",
+        "E": "İmece ile yapılacak işleri köylünün çift ve çubukla uğraşmadığı boş zamanlara bırakmak"
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 44'te ihtiyar meclisinin görevleri arasında sayılmamıştır. Bu yetki, Madde 41 uyarınca il merkezine bağlı köylerde valiye, ilçelere bağlı köylerde ise kaymakamlara aittir.\n- Diğer seçeneklerin tamamı, Madde 44'te açıkça ihtiyar meclisinin görevleri olarak belirtilmiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisinin köy sınırı içindeki arazilerle ilgili yetkileri kapsamında aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Tarlası olmayan veya yetmeyen köylüye, köyün sınırı içindeki boz haliden bir parça ayırıp vermekle yükümlüdür.",
+        "B": "Mülkiyeti başka dairelere geçmiş bir araziyi köy adına satın alarak, bedelini taksitle köy sandığına ödetmek suretiyle arazisi olmayanlara verebilir.",
+        "C": "Köy işleri için gerekli bir gayrimenkulün sahibi mülkünü satmaya razı olmazsa, konuyu kaza veya vilayet idare heyetinin incelemesine sunar.",
+        "D": "Bir gayrimenkulün değer pahasıyla satın alınması konusunda mal sahibi ile anlaşmazlık çıkması halinde nihai kararı ihtiyar meclisi kendi başına verir.",
+        "E": "Köy işleri için gerekli bir gayrimenkulü değer pahasıyla satın alma kararı alabilir."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Mal sahibi razı olmazsa köyün bağlı bulunduğu kaza veya vilayet idare heyeti işi gözden geçirir. İdare heyetinin kararına söz yoktur.' hükmüne dayanmaktadır. Anlaşmazlık durumunda nihai kararı ihtiyar meclisi değil, idare heyeti verir.\n- Diğer seçenekler: Madde 44'te ihtiyar meclisine tanınan araziye ilişkin görev ve yetkiler arasında yer aldığı için doğrudur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisinin, köy işlerinin görülme usulüne ilişkin yetkisi aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Tüm işlerin sadece imece usulüyle yapılmasına karar vermek.",
+        "B": "Hangi işlerin köylü tarafından doğrudan, hangilerinin para ile veya ırgat ile görülebileceğine karar vermek.",
+        "C": "İşlerin sadece köylünün çift ve çubuğu ile uğraşmadıkları boş zamanlarda yapılmasına hükmetmek.",
+        "D": "Tüm işler için köylüden salınacak paranın miktarını belirlemek.",
+        "E": "İşlerin görülmesi için gerekli gayrimenkulleri doğrudan kamulaştırmak."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 44'te belirtilen 'İhtiyar meclisi köylüye ait işleri konuşur ve hangi işleri köylü tarafından kendileri çalışarak doğrudan doğruya ve hangi işlerin para ile veya ırgat ile görülebileceğine karar verir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, ihtiyar meclisinin görevlerini yanlış veya eksik yansıttığı için hatalıdır. Örneğin, işlerin köylünün boş zamanlarına bırakılması kararı, tüm işleri değil, sadece imece ile yapılacak işleri kapsar."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisinin köy işleri için bir gayrimenkulü satın almak istemesi ve mal sahibinin bu işleme razı olmaması durumunda, nihai kararı verme yetkisi kime aittir?",
+      "secenekler": {
+        "A": "Köy muhtarına",
+        "B": "İhtiyar meclisine",
+        "C": "Köyün bağlı bulunduğu kaza veya vilayet idare heyetine",
+        "D": "Köy derneğine",
+        "E": "Malsandığına"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Mal sahibi razı olmazsa köyün bağlı bulunduğu kaza veya vilayet idare heyeti işi gözden geçirir. İdare heyetinin kararına söz yoktur.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kişi veya kurumların bu konuda nihai karar verme yetkisi bulunmadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi ihtiyar meclisinin göreceği işler arasında yer almaz?",
+      "secenekler": {
+        "A": "Köylünün kaçar gün çalışacağını kestirmek.",
+        "B": "Tarlası olmayan köylüye köy sınırı içinden boz haliden bir parça ayırıp vermek.",
+        "C": "Köy işi için her köylüye haline göre salınacak paranın miktarını belirlemek.",
+        "D": "Köy sınırları içinde işlenen suçlarla ilgili soruşturma yapmak.",
+        "E": "Köy namına arazi satın alıp bedelini taksitle köy sandığına ödetmek."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 44'te ihtiyar meclisinin görevleri arasında böyle bir yetki sayılmadığı için D seçeneğidir. Soruşturma yapmak adli bir görev olup ihtiyar meclisinin yetki alanında değildir.\n- Diğer seçeneklerde yer alan A, B, C ve E şıklarındaki görevler, Madde 44'te açıkça ihtiyar meclisinin göreceği işler arasında listelenmiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy parasının harcanmasında fenalık ve yolsuzluk olduğunun Hükümetçe anlaşılması üzerine, köy muhtarı ve ihtiyar meclisi azasının mallarının satılarak köylünün parasının ödenmesine hükmeden yetkili merci aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Kaza idare meclisi",
+        "B": "Vilayet idare heyeti",
+        "C": "Hükümet",
+        "D": "İdare kurulu",
+        "E": "Maliye"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 45'te belirtilen '...kaza idare meclisinin hükmü ile ... köy muhtarı ve ihtiyar meclisi azasının malları satılarak köylünün parası ödenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen bu özel durumda hüküm verme yetkisi diğer mercilere tanınmamıştır. Vilayet idare heyeti gayrimenkul alımında, idare kurulu ise para cezalarında yetkili olup, Hükümet durumu anlayan, Maliye ise cezayı tahsil eden mercidir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy muhtarı ve ihtiyar meclisi üyelerinin mali konulardaki görevlerini ihmal etmeleri veya kötüye kullanmaları durumunda karşılaşacakları yaptırımlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Paranın harcanmasında yolsuzluk yapmaları durumunda idare kurulunca para cezasına çarptırılırlar.",
+        "B": "Mecburi işler için toplanması gereken paraları toplamamaları halinde, malları satılarak köylünün zararı karşılanır.",
+        "C": "Paranın harcanmasında yolsuzluk tespit edilirse, kaza idare meclisinin hükmü ile malları satılarak köylünün parası ödenir.",
+        "D": "Hem yolsuzluk yapmaları hem de parayı toplamamaları halinde tek bir ceza olarak yalnızca malları satılır.",
+        "E": "Mecburi paraları toplamayan üyelere verilen para cezası doğrudan Hazine'ye gelir kaydedilir."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 45'te belirtilen 'paranın harcanmasında fenalık ve yolsuzluk olduğu Hükümetçe anlaşılırsa kaza idare meclisinin hükmü ile ... köy muhtarı ve ihtiyar meclisi azasının malları satılarak köylünün parası ödenir' hükmüne dayanmaktadır. Bu hüküm, yolsuzluk durumunda uygulanacak yaptırımı net bir şekilde tanımlamaktadır.\n- Diğer seçenekler: Madde 46'ya göre mecburi paraları toplamamanın yaptırımı idare kurulunca verilen para cezasıdır; malların satılması değildir. Ayrıca bu ceza köy sandığına teslim edilir, Hazine'ye değil. Dolayısıyla diğer seçeneklerdeki yaptırım-fiil eşleştirmeleri kanuna aykırıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, mecburi işleri gördürmeyen ve toplanması isteğe bağlı olmayan paraları toplamayan köy muhtarı ve ihtiyar meclisi üyelerine para cezası hükmetme yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Köyün bağlı bulunduğu idare kurulu",
+        "B": "Kaza idare meclisi",
+        "C": "Maliye",
+        "D": "Köy sandığı",
+        "E": "İhtiyar meclisi"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 46'da belirtilen '...köyün bağlı bulunduğu idare kurulunca ... para cezası hükmolunur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 46'da Maliye'nin cezayı sadece tahsil ettiği, köy sandığının ise cezanın teslim edildiği yer olduğu belirtilmiştir; ihtiyar meclisi ise cezanın muhataplarından biridir. B seçeneğindeki kaza idare meclisi ise Madde 45'te farklı bir konuda yetkili kılındığından yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, iki veya daha fazla köyü ilgilendiren ortak bir işe başlamadan önce, ilgili köy muhtar ve ihtiyar meclislerinin alacağı kararların ardından yapması gereken işlem aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Toplantının hangi köyde yapılacağını kendi aralarında belirlemek.",
+        "B": "İşin ne türlü yapılacağını kararlaştırmak.",
+        "C": "Her köyün o işte ne türlü yardım edeceğini tespit etmek.",
+        "D": "İşin maliyetini köy sandığına bildirmek.",
+        "E": "Hükümete haber vererek işe başlamak için izin almak."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 47'de belirtilen '...ondan sonra Hükümete haber vererek alacakları izne göre işe başlarlar.' hükmüne dayanmaktadır. Bu, ortak işe başlamadan önceki son ve zorunlu adımdır.\n- Diğer seçenekler: A, B ve C seçeneklerinde belirtilen hususlar, Hükümetten izin alınmasından önce muhtar ve ihtiyar meclislerinin kendi aralarında karar vermesi gereken ön aşamalardır. D seçeneğindeki maliyet bildirimi ise kanunda bu usul için belirtilmemiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisinin veya birden fazla köy meclisinin aldığı kararların yürürlüğe girmesi sürecinde üst makamların denetim ve izin yetkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "İhtiyar meclisinin, köylünün imece ile kaçar gün çalışacağına dair kararları, Hükümetin onayından sonra uygulanabilir.",
+        "B": "İki veya daha fazla köyü ilgilendiren ortak işlerde, ilgili köy meclisleri anlaştıktan sonra Hükümetten izin alarak işe başlayabilirler.",
+        "C": "Köy sınırı içindeki bir gayrimenkulün satın alınmasında mal sahibi razı olmazsa, ihtiyar meclisinin kararı kesindir ve üst makam müdahalesi olamaz.",
+        "D": "Tarlası olmayan köylüye arazi tahsis etme kararları, köyün bağlı olduğu kaza idare heyetinin nihai onayına tabidir.",
+        "E": "Birden fazla köyü ilgilendiren işlerde, muhtarların ortak kararı yeterli olup Hükümete sadece işe başlandıktan sonra bilgi verilir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 47'de yer alan 'o köylerin muhtar ve ihtiyar meclisleri ... kararlaştırırlar ve ondan sonra Hükümete haber vererek alacakları izne göre işe başlarlar' hükmüne dayanmaktadır. Bu, birden fazla köyü ilgilendiren işlerde Hükümet izninin bir ön şart olduğunu göstermektedir.\n- Diğer seçenekler: Madde 44'e göre, gayrimenkul alımında anlaşmazlık çıkması durumunda kaza veya vilayet idare heyeti işi gözden geçirir, yani meclis kararı kesin değildir. İmece gün sayısı veya arazi tahsisi gibi diğer kararlar için metinde bir üst makam onayı şartı belirtilmemiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, iki veya daha fazla köyü ilgilendiren ortak işlerde, ilgili köylerin muhtar ve ihtiyar meclisleri kendi aralarında anlaştıktan sonra işe başlamadan önce yapmaları gereken son işlem aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Anlaşmazlık durumunda konuyu köyün bağlı olduğu Hükümet reisine götürmek.",
+        "B": "İşin niteliğine göre taraflar arasında sulh sağlamak.",
+        "C": "İşe katılmayan köylüler hakkında para cezası kararı almak.",
+        "D": "Yapılacak işin maliyetini belirleyip köyler arasında doğrudan paylaştırmak.",
+        "E": "Hükümete haber vererek işe başlamak için izin almak."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 47'de belirtilen '...Hükümete haber vererek alacakları izne göre işe başlarlar' hükmüne dayanmaktadır. Bu hüküm, ortak işlere başlamadan önceki son zorunlu adımı Hükümetten izin almak olarak açıkça belirlemiştir.\n- Diğer seçenekler: A seçeneği anlaşmazlık halinde başvurulacak yolu (Madde 48), B seçeneği ihtiyar meclisinin sulh görevini (Madde 53), C seçeneği ise ceza yetkisini (Madde 56) düzenlemekte olup bu sorunun bağlamı dışındadır. D seçeneği ise izin almadan önceki bir müzakere aşamasını ifade ettiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, iki veya daha fazla köye düşen işler konusunda ihtiyar meclisleri arasında anlaşmazlık çıkması ve taraflardan birinin talepte bulunması halinde, anlaşmazlığı çözmek üzere yetkili olan makam ve bu makamın yapacağı işlem aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Köyün bağlı olduğu Hükümet reisi, ihtiyar meclislerini toplayarak işi bitirir.",
+        "B": "Köy muhtarları, aralarından birini hakem seçerek konuyu karara bağlar.",
+        "C": "İhtiyar meclisleri, konuyu doğrudan Hükümete havale ederek yeni bir karar alınmasını bekler.",
+        "D": "Köyün bağlı olduğu Hükümet reisi, ihtiyar meclislerini feshederek yeni bir seçim yapılmasını sağlar.",
+        "E": "Anlaşmazlığa düşen köylerin muhtarları, bir araya gelerek Hükümetin izniyle işe başlarlar."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 48'de belirtilen '...köylerin ihtiyar meclisleri kendi aralarında anlaşamazlarsa bunlardan bir tarafın dilemesi üzerine köyün bağlı olduğu Hükümet reisi işe karışır ve o köylerin ihtiyar meclislerini toplıyarak işi bitirir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen usuller veya yetkili makamlar, kanunda öngörülen anlaşmazlık çözüm yöntemine aykırıdır. Anlaşmazlık durumunda yetki, muhtarlarda veya meclislerin kendi inisiyatifinde değil, Hükümet reisine aittir ve yapılacak işlem meclisleri toplayarak işi bitirmektir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, iki veya daha fazla köyün ortak bir işi yürütme sürecinde ortaya çıkabilecek durumlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Ortak işin nasıl yapılacağı, ilgili köylerin muhtar ve ihtiyar meclislerinin ortak toplantısında kararlaştırılır.",
+        "B": "Köyler kendi aralarında anlaştıktan sonra, işe başlamadan önce Hükümetten izin almaları gerekir.",
+        "C": "Köylerin ihtiyar meclisleri ortak iş konusunda anlaşamazsa, taraflardan birinin talebi üzerine Hükümet reisi konuya müdahil olur.",
+        "D": "Köyler arası anlaşmazlıklarda, ihtiyar meclisleri öncelikle kendi aralarında sulh yoluyla çözüm aramakla yükümlüdür.",
+        "E": "Mecburi bir işi yapmayan köylüye, ihtiyar meclisi kararıyla para cezası verilebilir ve cezanın tekrarı halinde miktar iki katına çıkarılır."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 48'de belirtilen 'İki veya daha ziyade köylere düşen işler için köylerin ihtiyar meclisleri kendi aralarında anlaşamazlarsa bunlardan bir tarafın dilemesi üzerine köyün bağlı olduğu Hükümet reisi işe karışır' hükmüne dayanmaktadır. Bu özel bir usul olup, Madde 53'teki genel sulh yetkisinin bu durumda uygulanmasını engeller.\n- Diğer seçenekler: A ve B seçenekleri Madde 47'de, C seçeneği Madde 48'de, E seçeneği ise Madde 56'da yer alan doğru ifadelerdir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclislerinin köylüler arasındaki uyuşmazlıkları görebilmesinin temel şartı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Uyuşmazlığın tarafların uzlaşmasıyla bitirilebilecek nitelikte olması",
+        "B": "Uyuşmazlığın yalnızca mecburi işlerin yapılmamasından kaynaklanması",
+        "C": "Uyuşmazlık hakkında köyün bağlı olduğu Hükümet reisinden izin alınması",
+        "D": "Uyuşmazlığa konu olan değerin yüz kuruşu geçmemesi",
+        "E": "Uyuşmazlığın çözümü için önce muhtara başvurulmuş olması"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 53'te belirtilen 'ihtiyar meclisleri köylünün iki tarafın uzlaşmasiyle bitirilebilen her türlü işlerini görürler' hükmüne dayanmaktadır. Bu hüküm, meclisin görev alanını tarafların sulh olabileceği işlerle sınırlamaktadır.\n- Diğer seçeneklerde belirtilen mecburi işlere özgü olma, Hükümetten izin alma, parasal bir sınır veya muhtara öncelik tanınması gibi şartlar, kanunun ilgili maddesinde yer almadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, mecburi işleri yapmadığı için cezaya mahkûm edilen bir köylü, bu işten tekrar kaçarsa hakkında uygulanacak işlem aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Haline göre yeniden bir kuruştan yüz kuruşa kadar bir ceza daha takdir edilir.",
+        "B": "Ceza parası üç katına çıkarılarak tahsil edilir.",
+        "C": "İhtiyar meclisince salınan parayı ödemediği kabul edilerek iki katı tahsil edilir.",
+        "D": "Ceza parasını vermediği kabul edilerek hakkında ilgili maddeye göre muamele yapılır.",
+        "E": "Evvelki ceza iki kat olarak alınır."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 56'da belirtilen 'Cezaya mahküm olan adam o işten gene kaçarsa evvelki ceza iki kat olarak alınır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen farklı durumlara (ilk ceza, cezanın veya salınan paranın ödenmemesi) ilişkin yaptırımları yanlış yansıttığı veya ceza miktarını hatalı belirttiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisi tarafından mecburi bir işi yapmadığı için 50 kuruş para cezasına çarptırılan bir köylü, cezayı ödedikten sonra aynı işten tekrar kaçarsa hakkında uygulanacak yaptırım aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Önceki cezanın iki katı olarak yeni bir ceza alınır.",
+        "B": "Ceza miktarı değiştirilmeden yeniden 50 kuruş ceza verilir.",
+        "C": "Ceza, en üst sınır olan yüz kuruşa çıkarılır.",
+        "D": "Artık para cezası verilemez, hakkında doğrudan haciz işlemi başlatılır.",
+        "E": "Köy korucuları tarafından zorla işe götürülür."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 56'da belirtilen 'Cezaya mahküm olan adam o işten gene kaçarsa evvelki ceza iki kat olarak alınır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen yaptırım usulüne aykırı olduğu için yanlıştır. Kanun, cezanın tekrarında miktarın ikiye katlanmasını öngörmekte olup, cezanın aynı kalması, en üst sınıra çıkarılması, doğrudan haciz başlatılması veya köy korucuları tarafından zorla işe götürülmesi gibi yaptırımlar düzenlememiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyce salınan parayı ödemeyen borçlunun mallarının haczi ve satışı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Borçlunun çift hayvanlarının satılması yasaktır.",
+        "B": "Borçlunun oturduğu evin satılmasına izin verilmez.",
+        "C": "Dört senelik mahsulü veya kirası borcu karşılayan taşınmaz mallar satılamaz.",
+        "D": "Köy ihtiyar meclisi azaları, başkaları vasıtasıyla satılan malları satın alabilirler.",
+        "E": "Haczedilen ev eşyası, haciz gününden başlayarak üç gün içinde sattırılır."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 66'da belirtilen 'Satılan şeylere köy ihtiyar meclisi azaları doğrudan doğruya kendileri veya başkaları vasıtasiyle pey süremezler ve satın alamazlar.' hükmüne dayanmaktadır. Bu hüküm, meclis azalarının dolaylı yollarla dahi alım yapmasını açıkça yasaklamaktadır.\n- Diğer seçenekler: Madde 66'da belirtilen haczedilemeyecek mallar (çift hayvanları, oturulan ev, dört senelik mahsulü borca yeten taşınmaz) ve haczedilen ev eşyasının satış süresine ilişkin doğru kuralları yansıttığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyce salınan parayı yirmi bir günlük süre sonunda ödemeyen borçlu hakkında, ihtiyar meclisi mazbatasının gönderilmesiyle tahsilat sürecini yürüten yetkililer arasında aşağıdakilerden hangisi sayılmamıştır?",
+      "secenekler": {
+        "A": "Vali",
+        "B": "Kaymakam",
+        "C": "Nahiye müdürü",
+        "D": "Köy korucusu",
+        "E": "Belediye"
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 66'da belirtilen 'Vali veya kaymakam veya nahiye müdürü aşağıdaki usule göre parayı tahsil eder' hükmüne dayanmaktadır. Bu hükümde tahsilat yetkisi verilen makamlar arasında köy korucusu sayılmamıştır.\n- Diğer seçenekler: Vali, kaymakam ve nahiye müdürü kanunda borcu tahsil etme yetkisine sahip olarak açıkça zikredilmiştir. Belediye ise kasabada satış işlemini gerçekleştiren bir vasıta olarak belirtilmiştir. Köy korucusunun görevleri ise bu süreçte yer almamaktadır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyce salınan parayı ödemeyen bir borçlunun haczedilen ve bir yerden diğer yere götürülemeyen mallarının satışı için belirlenen müzayede ve bu müzayede sonrası peylerin yeterli görülmesi durumunda askı süreleri sırasıyla ne kadardır?",
+      "secenekler": {
+        "A": "3 gün müzayede, 10 gün askı",
+        "B": "21 gün müzayede, 3 gün askı",
+        "C": "20 gün müzayede, 10 gün askı",
+        "D": "10 gün müzayede, 20 gün askı",
+        "E": "21 gün müzayede, 10 gün askı"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 66'da belirtilen 'Haczolunan ve bir yerden diğer yere götürülemiyen mallar yirmi gün müddetle müzayedeye çıkarılır. Bu müddet bittikte sürülen peyler kafi görülürse on gün müddetle askıya alınır...' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen sürelerle uyumlu olmadığı için yanlıştır. 3 günlük süre taşınabilir malların satışı, 21 günlük süre ise borcun ödenmesi için verilen ilk mehil ile ilgilidir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ihtiyar meclisince salınan parayı ödemeyen bir köylü hakkında uygulanacak usul ve yaptırımla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy muhtarı, borçluya 21 günlük bir ödeme süresi tanıdıktan sonra borcun iki katı tutarında tahsilatı bizzat yapar.",
+        "B": "Borcun tahsili için Hükümet tarafından yapılan satışta, köy ihtiyar meclisi azaları alacaklarını karşılamak amacıyla borçlunun mallarını satın alabilir.",
+        "C": "Borçlunun çift hayvanları ve oturduğu ev, borcun miktarına bakılmaksızın satılamayacak mallar arasında yer alır.",
+        "D": "Borçluya ait taşınır mallar, haciz gününden itibaren yirmi gün içinde ihtiyar meclisi gözetiminde sattırılır.",
+        "E": "İhtiyar meclisinin kararıyla borç iki katına çıkarılır ve tahsilat için doğrudan köy korucuları görevlendirilir."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 66'da belirtilen '[Oturduğu ev ile]...Çift ve çubuğu ve çift hayvanatı satılamaz' hükmüne dayanmaktadır. Madde 56, ihtiyar meclisince salınan parayı ödemeyenlerden bu paranın iki katının Madde 66'ya göre tahsil edileceğini belirtir. Madde 66 ise bu tahsilat usulünü düzenlerken, borçlunun çift hayvanlarının ve oturduğu evin satılmasının yasak olduğunu açıkça hükme bağlamıştır.\n- Diğer seçenekler: A seçeneğinde muhtarın tahsilat yapması, B seçeneğinde ihtiyar meclisi üyelerinin mal satın alabilmesi, D seçeneğinde taşınır mallar için verilen 20 günlük süre (doğrusu 3 gündür) ve E seçeneğinde köy korucularının görevlendirilmesi kanunda belirtilen usule aykırı olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, mecburi bir işi yapmadığı için ihtiyar meclisi tarafından para cezasına çarptırılan ancak bu cezayı ödemeyen bir köylüye karşı köy muhtarının atması gereken ilk adım aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Cezayı derhal iki katına çıkararak durumu Hükümete bildirmek.",
+        "B": "Borçluya borcunu ödemesi için yirmi bir gün süre tanıyan bir haber göndermek.",
+        "C": "İhtiyar meclisini toplayarak borçlunun mallarının haczine karar vermek.",
+        "D": "Köy korucuları aracılığıyla borçlunun ev eşyalarına el koymak.",
+        "E": "Durumu doğrudan valiye veya kaymakama bir mazbata ile bildirerek tahsilat talep etmek."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 66'da belirtilen 'vermiyenlere yirmi bir gün zarfında borcunu vermesi için köy muhtarı tarafından haber gönderilir' hükmüne dayanmaktadır. Madde 56, mecburi işleri yapmayanlara verilen para cezasının ödenmemesi halinde Madde 66'ya göre işlem yapılacağını düzenlemiştir. Madde 66'ya göre ise bu süreçteki ilk adım, köy muhtarının borçluya yirmi bir günlük ödeme süresi tanımasıdır.\n- Diğer seçenekler: E seçeneğindeki Hükümete bildirim, 21 günlük sürenin sonuçsuz kalmasından sonraki aşamadır. Diğer adımlar ise kanunda belirtilen usule aykırı olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy korucularının bulundurulma amacı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Köy sınırı içinde herkesin ırzını, canını ve malını korumak.",
+        "B": "Nüfusu binden yukarı köylerde asayişi temin etmek.",
+        "C": "İhtiyar meclisince hükmedilen para cezalarının tahsilatını yapmak.",
+        "D": "Köyün mecburi işlerini yapmayanları zorla çalıştırmak.",
+        "E": "Köy sandığına ait paraların güvenliğini sağlamak."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 68'de belirtilen 'Köy sınırı içinde herkesin ırzını, canını ve malını korumak için köy korucuları bulundurulur.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen görevler, kanunda köy korucularının temel bulundurulma amacı olarak tanımlanmadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, nüfusu binden yukarı olan köylerde ek korucu görevlendirilmesine ilişkin kural aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Nüfusuna bakılmaksızın her köye sadece bir korucu tutulur.",
+        "B": "Her bin kişiye bir korucu daha tutulur.",
+        "C": "Her beş yüz kişiye iki korucu daha tutulur.",
+        "D": "Her köyde nüfusun binde biri oranında korucu bulundurulur.",
+        "E": "Her beş yüz kişiye bir korucu daha tutulur."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 69'da belirtilen 'Nüfusu binden yukarı köylerde her beş yüz kişiye bir korucu daha tutulur' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen nüfus ve korucu sayılarına ilişkin oranları yanlış yansıttığı için hatalıdır. Kanun, binden fazla nüfuslu köyler için her beş yüz kişiye bir ek korucu atanmasını öngörmekte, diğer seçeneklerdeki gibi farklı oranlar veya sabit sayılar belirtmemektedir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy korucularının göreve başlaması süreciyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Kaymakam tarafından seçilir ve ihtiyar meclisinin onayı ile işe başlarlar.",
+        "B": "Köy muhtarı tarafından tutulur ve ihtiyar meclisinin vereceği haber üzerine işe başlarlar.",
+        "C": "İhtiyar meclisi tarafından tutulur ve doğrudan muhtarın emriyle işe başlarlar.",
+        "D": "İhtiyar meclisi tarafından tutulur ve köy muhtarının vereceği haber üzerine kaymakamın buyurultusu ile işe başlarlar.",
+        "E": "Doğrudan kaymakam tarafından tutulur ve köy muhtarının onayıyla işe başlarlar."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 70'de belirtilen 'Korucular ihtiyar meclisi tarafından tutulur ve köy muhtarının vereceği haber üzerine kaymakamın buyurultusu ile işe başlar.' hükmüne dayanmaktadır.\n- Diğer seçenekler, korucuları tutma, haber verme ve işe başlatma buyruğunu verme yetkilerini farklı makamlara atadığı veya süreçteki sıralamayı yanlış belirttiği için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyde korucu olarak işe başlayacak kişi ve bu süreçle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "İhtiyar meclisi tarafından tutulan 20 yaşındaki bir kişi, muhtarın onayıyla işe başlayabilir.",
+        "B": "Muhtar tarafından doğrudan tutulan 65 yaşındaki bir kişi, kaymakamın buyurultusu ile işe başlayabilir.",
+        "C": "İhtiyar meclisince tutulan, iyi huylu tanınan ve 25 yaşında olan bir kişi, köy muhtarının vereceği haber üzerine kaymakamın buyurultusu ile göreve başlar.",
+        "D": "Kaymakam tarafından seçilen ve 22 yaşından büyük olan herkes, ihtiyar meclisinin onayıyla korucu olabilir.",
+        "E": "İhtiyar meclisinin tuttuğu korucu, muhtarın emriyle doğrudan işe başlar, kaymakam onayı gerekmez."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 70'te belirtilen 'Korucular ihtiyar meclisi tarafından tutulur ve köy muhtarının vereceği haber üzerine kaymakamın buyurultusu ile işe başlar' hükmü ile Madde 71'deki yaş ve nitelik şartlarının bir arada değerlendirilmesine dayanmaktadır. C seçeneği bu süreci ve şartları doğru bir şekilde özetlemektedir.\n- Diğer seçenekler: Korucu tutma yetkisini (muhtar veya kaymakam), işe başlama usulünü (kaymakam buyrultusu) veya yaş şartlarını (22-60 yaş arası) hatalı belirttiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy korucularında aranan niteliklerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Adayın yirmi iki yaşından küçük olmaması gerekir.",
+        "B": "Adayın altmış yaşından büyük olmaması şarttır.",
+        "C": "Bir cürüm ile cezalandırılmamış olması aranır.",
+        "D": "İyi huylu olarak tanınması ve serhoşluk gibi huysuzluklarının olmaması gerekir.",
+        "E": "En az ilkokul mezunu olması zorunludur."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 71'de korucular için aranan şartlar arasında eğitim durumuna ilişkin bir düzenleme bulunmamasına dayanmaktadır. Kanunda böyle bir şart sayılmamıştır. - Diğer seçeneklerde belirtilen 22 yaşından küçük ve 60 yaşından büyük olmama, bir cürümle cezalandırılmama ve iyi huylu tanınma gibi şartlar ise maddede açıkça belirtilen doğru koşullardır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy korucularının hiyerarşik olarak bağlı olduğu ve resmi işlerde emirlerini yerine getirmekle yükümlü olduğu kişi aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Köy muhtarı",
+        "B": "İhtiyar meclisi",
+        "C": "Kaymakam",
+        "D": "Vali",
+        "E": "Belediye Başkanı"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 72'de belirtilen 'Korucular köy muhtarının emri altındadır. Resmi işlerde onun her emrini tutmağa mecburdur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda korucuların hiyerarşik olarak doğrudan köy muhtarına bağlı olduğu açıkça düzenlenmiştir. İhtiyar meclisi korucuları işe alır (Madde 70), kaymakam ise işe başlama buyruğunu verir (Madde 70), ancak korucuların günlük ve resmi işlerdeki amiri köy muhtarıdır. Vali ve belediye başkanı ise bu konuda yetkili olarak sayılmamıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy korucularının resmi işlerdeki hiyerarşik konumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Korucular, doğrudan en yakın jandarma karakol komutanının emri altındadır.",
+        "B": "Korucular, köy muhtarının emri altındadır ve resmi işlerde onun her emrini tutmakla mecburdur.",
+        "C": "Korucular, görevlerini köy ihtiyar meclisinin oy çokluğuyla aldığı kararlara göre yürütür.",
+        "D": "Köy muhtarı ve korucular, resmi işlerde eşit statüde olup birbirlerine emir veremezler.",
+        "E": "Korucular, sadece köyün güvenliğini ilgilendiren konularda muhtardan, diğer konularda kaymakamlıktan emir alırlar."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 72'de belirtilen 'Korucular köy muhtarının emri altındadır. Resmi işlerde onun her emrini tutmağa mecburdur.' hükmüne dayanmaktadır. - Diğer seçenekler, kanunda belirtilen bu hiyerarşik yapıya aykırı olduğu veya metinde yer almayan farklı makamları yetkili kıldığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy korucularının hukuki durumu ve görevleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Resmi işlerde köy muhtarının verdiği her emri yerine getirmekle yükümlüdürler.",
+        "B": "Görevlerini yerine getirirken silahlıdırlar.",
+        "C": "Kendilerine karşı gelen bir kişi, jandarmaya karşı gelmiş gibi cezalandırılır.",
+        "D": "Köy muhtarının emri altında görev yaparlar.",
+        "E": "Resmi görevlerde öncelikli olarak jandarmanın emirlerine tabidirler."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 72'de belirtilen 'Korucular köy muhtarının emri altındadır.' hükmüne dayanmaktadır. Kanun, korucuların jandarmanın değil, köy muhtarının emrinde olduğunu açıkça düzenlemiştir.\n- Diğer seçenekler: Madde 72 ve Madde 73'te yer alan korucuların muhtarın emrinde olduğu, resmi emirleri tutma zorunluluğu, silahlı olmaları ve kendilerine karşı gelenlerin jandarmaya karşı gelmiş gibi ceza göreceği yönündeki hükümlerle uyumlu olduğu için doğrudur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, görevini ifa eden bir köy korucusuna karşı gelen kişi hakkında uygulanacak ceza bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy muhtarına karşı gelmiş gibi ceza görür.",
+        "B": "Jandarmaya karşı gelmiş gibi ceza görür.",
+        "C": "Polise karşı gelmiş gibi ceza görür.",
+        "D": "Sadece idari para cezası ile cezalandırılır.",
+        "E": "Ceza uygulanması köy ihtiyar heyetinin takdirindedir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 73'te belirtilen 'Kendilerine karşı gelenler jandarmaya karşı gelmiş gibi ceza görürler.' hükmüne dayanmaktadır. Bu hüküm, köy korucusuna karşı gelmenin cezasını jandarmaya karşı gelme suçuyla eşdeğer tutmaktadır.\n- Diğer seçenekler, kanunda belirtilen bu özel ceza denklik kuralına aykırı veya kanunda yer almayan varsayımlar olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, Cumhurbaşkanınca tespit edilecek illerde güvenlik korucusu görevlendirilmesi kararı hangi makamların usulüne uygun katılımıyla alınır?",
+      "secenekler": {
+        "A": "Valinin teklifi ve İçişleri Bakanının onayı ile",
+        "B": "Köy muhtarının teklifi ve kaymakamın onayı ile",
+        "C": "İçişleri Bakanının teklifi ve Cumhurbaşkanının onayı ile",
+        "D": "Kaymakamın teklifi ve valinin onayı ile",
+        "E": "İhtiyar meclisinin teklifi ve valinin onayı ile"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 74'te belirtilen '...valinin teklifi ve İçişleri Bakanının onayı ile yeteri kadar güvenlik korucusu görevlendirilmesi kararlaştırılabilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamlar ve usuller, kanunda öngörülen görevlendirme usulüyle uyumlu olmadığı için yanlıştır. Özellikle E seçeneğindeki usul, mahsul zamanlarında görevlendirilecek gönüllü güvenlik korucuları için geçerlidir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, güvenlik korucularının görevleriyle ilişiklerinin kesilmesi için belirlenen yaş sınırı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "50 yaşını dolduranların",
+        "B": "55 yaşını dolduranların",
+        "C": "60 yaşını dolduranların",
+        "D": "65 yaşını dolduranların",
+        "E": "Emeklilik hakkını kazananların"
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 74'te yer alan 'Güvenlik korucularından 55 yaşını dolduranların görevleriyle ilişikleri kesilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen yaş sınırları veya şartlar, kanunda belirtilen açık hükme aykırı olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, görevlerinde büyük yararlılık gösteren güvenlik korucularına verilebilecek ödül ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Yılda en fazla iki defa, aylık ücretlerinin yarısı kadar ödül verilebilir.",
+        "B": "Her mali yılda, o ildeki korucu sayısının yüzde beşini geçmeyecek şekilde ödül verilir.",
+        "C": "Kaymakamın teklifi ve valinin onayı ile aylık ücretlerinin üç katına kadar ödül verilebilir.",
+        "D": "Yılda bir defa olmak üzere, aylık ücretlerinin iki katına kadar ödül verilebilir.",
+        "E": "Ödül miktarı, İçişleri Bakanlığı tarafından her yıl bütçe kanunu ile belirlenir."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 74'teki '...valinin teklifi ve İçişleri Bakanının onayı ile yılda bir defa aylık ücretlerinin iki katına kadar ödül verilebilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, ödülün sıklığı, miktarı, yetkili makam veya sınırlama oranı bakımından kanundaki düzenlemeye aykırı bilgiler içerdiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi güvenlik korucusu görevlendirilmesini gerektiren haller arasında sayılmamıştır?",
+      "secenekler": {
+        "A": "Olağanüstü hal ilanını gerektiren sebeplere ait ciddi belirtilerin köyde ortaya çıkması",
+        "B": "Şiddet hareketlerine ait ciddi belirtilerin çevrede ortaya çıkması",
+        "C": "Köylünün canına ve malına tecavüz hareketlerinin artması",
+        "D": "Komşu köyler arasında mera kullanımıyla ilgili anlaşmazlık çıkması",
+        "E": "Her ne sebeple olursa olsun köylünün canına tecavüz hareketlerinin artması"
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 74'te güvenlik korucusu görevlendirilmesini gerektiren haller arasında sayılmadığı için D seçeneğidir. Kanunda sayılan sebepler; olağanüstü hal sebepleri, şiddet hareketleri belirtileri ve köylünün canına ve malına tecavüz hareketlerinin artmasıdır.\n- A, B, C ve E seçenekleri, kanunda açıkça belirtilen veya bu kapsama giren haller olduğu için doğru cevap olamaz. D seçeneğindeki 'mera anlaşmazlığı' ise kanunda yer almayan bir durumdur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, teröristle mücadelede görev alan ve bu görevin ifasından doğduğu iddia edilen bir suçtan dolayı hakkında soruşturma veya kovuşturma yapılan bir güvenlik korucusunun, müdafi olarak belirlediği en fazla kaç avukatın ücreti İçişleri Bakanlığı bütçesinden karşılanır?",
+      "secenekler": {
+        "A": "Bir",
+        "B": "İki",
+        "C": "Üç",
+        "D": "Dört",
+        "E": "Beş"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 74'te yer alan '...müdafi olarak belirlediği en fazla üç avukatın ücreti İçişleri Bakanlığı bütçesine konulacak ödenekten valilikler tarafından karşılanır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen avukat sayıları, kanunda belirtilen üst sınıra uymadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi güvenlik korucularına kınama cezasını gerektiren fiil ve hallerden biridir?",
+      "secenekler": {
+        "A": "Özürsüz veya izinsiz olarak göreve geç gelmek veya görevi erken terk etmek",
+        "B": "Belirlenen kılık ve kıyafet hükümlerine aykırı davranmak",
+        "C": "Amirinden izin almaksızın görevli bulunduğu il sınırları dışına çıkmak",
+        "D": "Göreve sarhoş veya alkollü içki içtiği belli olacak biçimde gelmek",
+        "E": "Kumar oynamak veya oynattırmak"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 74/A'nın (b) bendinde belirtilen 'Amirinden izin almaksızın görevli bulunduğu il sınırları dışına çıkmak' hükmüne dayanmaktadır; bu fiil kınama cezasını gerektirir.\n- Diğer seçenekler: A ve B seçenekleri uyarma cezasını, D ve E seçenekleri ise ücretten kesme cezasını gerektiren fiiller arasında sayıldığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, izinsiz veya özürsüz olarak iki günden fazla ve dokuz güne kadar (dokuzuncu gün dâhil) göreve gelmeyen bir güvenlik korucusuna uygulanacak disiplin cezası aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Uyarma",
+        "B": "Kınama",
+        "C": "Aylıksız izne sevk etme",
+        "D": "Görevden Çıkarma",
+        "E": "Ücretten Kesme"
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 74/A'nın (c) bendinde belirtilen 'İzinsiz veya özürsüz olarak iki günden fazla ve dokuz güne kadar (dokuzuncu gün dâhil) göreve gelmemek' fiilinin karşılığının ücretten kesme cezası olduğu hükmüne dayanmaktadır.\n- Diğer seçenekler: Kınama cezası iki güne kadar göreve gelmemeyi kapsar, görevden çıkarma ise bir yılda toplam on gün göreve gelmemeyi gerektirir. Uyarma ve aylıksız izne sevk etme ise bu fiil için öngörülen cezalar arasında yer almaz."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, kendisine teslim edilen silahın ihmali sonucu bir başkasının eline geçmesine neden olan bir güvenlik korucusu hakkında uygulanacak disiplin cezası aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Uyarma",
+        "B": "Kınama",
+        "C": "Ücretten Kesme",
+        "D": "Görevden Çıkarma",
+        "E": "Rütbe tenzili"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 74/A'nın (c) bendinde belirtilen 'Kendisine teslim edilen silah ve teçhizatın, ihmali sonucu bir başkasının eline geçmesine neden olmak' fiilinin ücretten kesme cezasını gerektirdiği hükmüne dayanmaktadır.\n- D seçeneği: Bu fiilin 'kasıt sonucu' işlenmesi halinde görevden çıkarma cezası verileceği için güçlü bir çeldiricidir. Diğer seçenekler ise kanunda bu fiil için belirtilen yaptırımlar arasında yer almamaktadır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi güvenlik korucularının görevden çıkarılmasını gerektiren fiil ve hallerden biri değildir?",
+      "secenekler": {
+        "A": "Siyasi partiye üye olmak",
+        "B": "Kaçakçılık yapmak",
+        "C": "Amirlerine sözle saygısızlık etmek",
+        "D": "Görev yerinde alkol kullanmak",
+        "E": "Sendika kurmak veya üyesi olmak"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 74/A'nın (c) bendinde 'Amirlerine sözle saygısızlık etmek' fiilinin ücretten kesme cezasını gerektirdiği hükmüne dayanmaktadır; bu fiil görevden çıkarma sebebi değildir.\n- Diğer seçenekler: A, B, D ve E seçeneklerinde belirtilen fiillerin tamamı, aynı maddenin (ç) bendinde açıkça görevden çıkarma cezasını gerektiren haller arasında sayılmıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi güvenlik korucularına görevden çıkarma cezasını gerektiren fiil ve haller arasında sayılmamıştır?",
+      "secenekler": {
+        "A": "Terör örgütleriyle eylem birliği içerisinde olmak",
+        "B": "Uyuşturucu veya uyarıcı madde kullanmak",
+        "C": "Göçmen kaçakçılığı ve insan ticareti yapmak",
+        "D": "Savaş veya olağanüstü hâl durumunda amirlerin verdiği görevleri yapmamak",
+        "E": "Kasıtlı olarak trafik kurallarını ihlal ederek ölümlü kazaya sebebiyet vermek"
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 74/A'nın (ç) bendinde görevden çıkarma cezasını gerektiren fiiller arasında 'trafik kurallarını ihlal ederek ölümlü kazaya sebebiyet vermek' şeklinde bir düzenleme bulunmamasına dayanmaktadır.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde yer alan fiillerin tümü, ilgili maddede açıkça görevden çıkarma nedenleri olarak listelenmiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, güvenlik korucuları hakkında bir derece hafif olan disiplin cezasının uygulanabilmesi için aranan şart aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Geçmiş hizmetleri sırasındaki çalışmalarının olumlu olması veya ödül almış bulunması",
+        "B": "İşlediği fiilin Devlet veya kişiler üzerinde bir zarara yol açmamış olması",
+        "C": "Verilen emir ve görevleri kasıtlı olmaksızın yerine getirmemiş olması",
+        "D": "Disiplin cezası gerektiren fiili ilk kez işlemiş olması",
+        "E": "Görevle ilgili teçhizatı koruyamamasına rağmen durumu amirlerine derhal bildirmiş olması"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 74/B'de belirtilen 'Geçmiş hizmetleri sırasındaki çalışmaları olumlu olan veya ödül alan güvenlik korucuları hakkında bir derece hafif olan disiplin cezası uygulanabilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda bir derece hafif ceza uygulanması için belirtilen şartlar arasında yer almadığı için yanlıştır. Bu seçeneklerde belirtilen durumlar, daha çok ağırlaştırıcı nedenlerin bulunmaması hallerini ifade etmekte olup, kanunda özel olarak bir hafifletici neden olarak düzenlenmemiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aynı derecede cezayı gerektiren fakat ayrı fiil veya haller nedeniyle verilen disiplin cezalarında bir derece ağır ceza uygulanması için bu durumun belirli bir süre içinde kaçıncı kez gerçekleşmesi gerekir?",
+      "secenekler": {
+        "A": "Bir yıl içerisinde ikinci uygulamasında",
+        "B": "İki yıl içerisinde ikinci uygulamasında",
+        "C": "Bir yıl içerisinde üçüncü uygulamasında",
+        "D": "İki yıl içerisinde üçüncü uygulamasında",
+        "E": "Altı ay içerisinde ikinci uygulamasında"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 74/B'de belirtilen 'Aynı derecede cezayı gerektiren fakat ayrı fiil veya haller nedeniyle verilen disiplin cezalarının bir yıl içerisinde üçüncü uygulamasında bir derece ağır ceza verilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen tekerrür süresi ve tekrar sayısı ile uyumlu olmadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, güvenlik korucularının disiplin işlemlerine ilişkin bu Kanunda hüküm bulunmayan hâllerde aşağıdaki kanunlardan hangisinin hükümleri uygulanır?",
+      "secenekler": {
+        "A": "Devlet Memurları Kanunu",
+        "B": "Türk Ceza Kanunu",
+        "C": "İl İdaresi Kanunu",
+        "D": "Jandarma Teşkilat, Görev ve Yetkileri Kanunu",
+        "E": "Polis Vazife ve Salâhiyet Kanunu"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 74/C'de belirtilen 'Güvenlik korucularının disiplin işlemlerine ilişkin olarak bu Kanunda hüküm bulunmayan hallerde Devlet Memurları Kanununun hükümleri uygulanır' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kanunlar, Köy Kanunu'nda bu özel durum için atıf yapılan kanunlar arasında yer almadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, geçmiş hizmetleri sırasında çalışmaları olumlu olan bir güvenlik korucusunun, silahla dikkatsizlik sonucu yaralamaya sebebiyet vermesi ve durumun ağır olarak nitelendirilmesi halinde, disiplin cezası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Durumun ağırlığı nedeniyle geçmiş hizmetleri dikkate alınmaksızın doğrudan görevden çıkarma cezası verilir.",
+        "B": "Geçmiş hizmetleri olumlu olduğu için hakkında bir derece hafif olan disiplin cezası uygulanması bir ihtimaldir.",
+        "C": "Bu fiil için özel bir ceza öngörülmediğinden Devlet Memurları Kanunu hükümleri uygulanır.",
+        "D": "Korucuya silahı veren ihtiyar meclisi sorumlu tutulur.",
+        "E": "Silahı başkasına emanet etmediği için herhangi bir disiplin cezası verilemez."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 74/B'de belirtilen 'Geçmiş hizmetleri sırasındaki çalışmaları olumlu olan veya ödül alan güvenlik korucuları hakkında bir derece hafif olan disiplin cezası uygulanabilir' hükmüne dayanmaktadır. Kanun, ağır bir fiil işlense dahi, olumlu geçmiş hizmetlerin cezayı hafifletebileceğini bir ihtimal olarak düzenlemiştir.\n- Diğer seçenekler: A seçeneği 'dikkate alınmaksızın' ifadesi nedeniyle, C seçeneği bu fiilin kanunda özel olarak düzenlenmesi nedeniyle, D ve E seçenekleri ise konuyla ilgisiz başka maddelerdeki kuralları yanlış bir şekilde olaya dahil ettiği için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, koruculara verilecek silah ve cephanelerin teslim süreciyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Hükümet tarafından ihtiyar meclisine, mazbata karşılığında demirbaş olarak verilir.",
+        "B": "Valilik tarafından doğrudan koruculara bir tutanak ile teslim edilir.",
+        "C": "İhtiyar meclisi tarafından satın alınarak koruculara zimmetlenir.",
+        "D": "Hükümet tarafından koruculara şahsi mülkiyetleri olması için hibe edilir.",
+        "E": "Korucuların kendi imkanlarıyla temin ettikleri silahlar Hükümet tarafından kayıt altına alınır."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 75'te belirtilen 'Koruculara verilecek silahlar ve cephaneler Hükümet tarafından ihtiyar meclisine mazbata mukabilinde demirbaş olarak verilir' hükmüne dayanmaktadır.\n- Diğer seçenekler, silah ve cephanelerin teslim usulünü, teslim eden veya alan makamı ya da statüsünü yanlış belirttiği için hatalıdır. Kanunda silahların korucular tarafından temin edilmesi veya hibe edilmesi gibi bir düzenleme bulunmamaktadır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, korucuların kendilerine verilen resmi silah ve cephaneleri kullanmaları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "İhtiyar meclisi kararıyla aile üyelerine devredilebilir.",
+        "B": "Sadece görev sırasında kullanılabilir, görev dışında taşınamaz.",
+        "C": "Hükümetin onayıyla başka bir korucuya geçici olarak verilebilir.",
+        "D": "Başkalarına emanet olarak verilemez.",
+        "E": "Kullanılmadığı zamanlarda köy muhtarına teslim edilmesi zorunludur."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 76'da belirtilen 'Başkalarına emanet veremezler' hükmüne dayanmaktadır. Bu kural, korucuların kendilerine tahsis edilen resmi silah ve cephaneleri başka hiç kimseye veremeyeceğini açıkça ifade eder.\n- Diğer seçenekler: Kanunda yer almayan veya kanundaki hükme aykırı olan (devretme, geçici verme, sadece görevde kullanma gibi) şartlar ve usuller içerdiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, koruculara verilen resmi silah ve cephanelerin kullanımıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Korucular, kendilerine verilen resmi silah ve cephaneleri yalnızca kendileri kullanabilirler.",
+        "B": "Korucular, köy muhtarının onayıyla silahlarını başka bir korucuya emanet edebilirler.",
+        "C": "Acil durumlarda, korucunun silahını en yakınındaki bir vatandaş kullanabilir.",
+        "D": "Silahın kullanımı korucuya aitken, cephaneler ortak kullanım için köyde muhafaza edilir.",
+        "E": "Korucular, silahlarını görev dışında ailelerinin güvenliği için bir yakınlarına bırakabilirler."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 76'da belirtilen 'Korucular kendilerine verilen resmi silah ve cephaneleri ancak kendileri kullanırlar. Başkalarına emanet veremezler.' hükmüne dayanmaktadır.\n- Diğer seçenekler, silah ve cephanenin başkalarına emanet verilebileceği veya başkaları tarafından kullanılabileceği yönünde yanlış bilgiler içerdiğinden, kanunun açık hükmüne aykırıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, korucuların teçhizatı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Elbiselerinin parası köy gelirinden senede bir defa verilir.",
+        "B": "İki senede bir kendilerine gocuk veya kepenek temin edilir.",
+        "C": "Taşıyacakları silahların cinsi harb silahlarındandır.",
+        "D": "Köy muhtarının onayıyla silahlarını başkalarına emanet verebilirler.",
+        "E": "Göğüslerinin sol tarafına pirinçten bir levha asmaları mecburidir."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 76'da yer alan 'Korucular kendilerine verilen resmi silah ve cephaneleri ancak kendileri kullanırlar. Başkalarına emanet veremezler.' hükmüne aykırıdır. Bu hüküm, silahların hiçbir surette başkalarına emanet verilemeyeceğini belirtir.\n- Diğer seçeneklerde yer alan ifadeler, Madde 78'de korucuların teçhizatıyla ilgili belirtilen doğru hükümlerdir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi korucuların silah kullanabileceği haller arasında sayılmamıştır?",
+      "secenekler": {
+        "A": "Vazifesini yaparken kendisine saldıran ve hayatını tehlikeye sokan kişilere karşı hayatını korumak için mecburi olması",
+        "B": "Ahaliden birinin can veya ırz tehlikesi altında olduğunu görüp onu kurtarmak için başka çare bulamaması",
+        "C": "Köy muhtarının emri üzerine, köyün ortak malına zarar veren bir kişiyi durdurmak amacıyla havaya ateş açması",
+        "D": "Yakalanmış bir caninin kaçması ve 'dur' emrini dinlememesi durumunda, onu yakalamak için başka çare bulunmaması",
+        "E": "Eşkıya takibi sırasında şüpheli bir kişinin 'dur' emrine uymayıp kaçması"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 77'de korucuların silah kullanabileceği hallerin sınırlı sayıda sayılmış olmasına dayanmaktadır. Kanunda köy muhtarının emriyle veya köy malını korumak amacıyla silah kullanılabileceğine dair bir hüküm bulunmamaktadır.\n- Diğer seçenekler (A, B, D, E): Madde 77'de açıkça belirtilen ve korucunun silah kullanmasına izin veren meşru durumlar olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, korucunun silah kullanmaya mecbur olduğu bir durumda dahi uyması gereken temel ilke aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Mümkün mertebe öldürmekten kaçınarak, şahsı yaralayıp yakalamaya dikkat etmesi",
+        "B": "Silahını sadece kendisinin kullanması ve hiçbir surette başkasına emanet vermemesi",
+        "C": "Silah kullanma yetkisinin yalnızca cürmü meşhut halleriyle sınırlı olduğunu bilmesi",
+        "D": "Görevden ayrıldığında silahını derhal yerini alacak kişiye teslim etmesi",
+        "E": "Kıyafetinin ve silahının şeklinin İçişleri Bakanlığınca belirlenen kurallara uygun olması"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 77'de belirtilen 'Korucu silah kullanmağa mecbur olduğu zaman bile mümkün mertebe öldürmeksizin yaralıyarak tutmağa dikkat eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda yer alan başka kuralları (silahın emanet edilememesi, görevden ayrılma usulü vb.) ifade etseler de, silahın kullanıldığı andaki temel ilkeyi açıklamadıkları için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir korucunun vazifesini yaparken kendisine saldıran ve hayatını tehlikeye koyan bir kişiye karşı silah kullanmak zorunda kalması durumunda uyması gereken temel ilke aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Tehdidi kesin olarak ortadan kaldırmak için doğrudan öldürmeyi hedeflemelidir.",
+        "B": "Mümkün mertebe öldürmeksizin, yaralayarak yakalamaya dikkat etmelidir.",
+        "C": "Silah kullanmadan önce mutlaka köy muhtarından izin almalıdır.",
+        "D": "Sadece uyarı ateşi açabilir, doğrudan kişiyi hedef alamaz.",
+        "E": "Silahını kullanabilmesi için saldırganın da silahla karşı koyması zorunludur."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 77'de belirtilen 'Korucu silah kullanmağa mecbur olduğu zaman bile mümkün mertebe öldürmeksizin yaralıyarak tutmağa dikkat eder' hükmüne dayanmaktadır. Bu ilke, silah kullanma yetkisinin sınırını çizmektedir.\n- Diğer seçenekler: Kanunda, öldürmeyi hedefleme, muhtardan izin alma veya sadece uyarı ateşi açma gibi zorunluluklar yer almamaktadır. Saldırganın silahla karşı koyması ise silah kullanma hallerinden sadece bir tanesi olup genel bir zorunluluk değildir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, korucuların kıyafetleri ve silahlarının şeklini belirleme yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Köy muhtarlığı",
+        "B": "İçişleri Bakanlığı",
+        "C": "Valilik",
+        "D": "Jandarma Genel Komutanlığı",
+        "E": "Kaymakamlık"
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 78'de belirtilen 'Korucuların kıyafetleri ve silahlarının şekli İçişleri Bakanlığınca tayin olunur.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda bir yetkisi kanunda düzenlenmemiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ölen, koruculuğu bırakan veya görevden çıkarılan bir korucunun silah, fişek, tezkere ve levha gibi zimmetli eşyalarını, yerine gelecek kişiye verilmek üzere alıp saklama görevi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Köy muhtarı",
+        "B": "İhtiyar heyeti",
+        "C": "Kaymakamlık",
+        "D": "Jandarma Komutanlığı",
+        "E": "İçişleri Bakanlığı"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 79'da belirtilen 'Ölen veya koruculuğu bırakan veyahut çıkarılan korucuların silah, fişek, tezkere ve levhaları... köy muhtarı tarafından alınıp saklanır' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu görevi üstlendiğine dair kanunda bir düzenleme bulunmamaktadır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, görevi sona eren bir korucunun kendisine verilen resmi silahla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Silahı, yerine gelecek olan yeni korucuya doğrudan emanet edebilir.",
+        "B": "Silah, fişek ve diğer teçhizatla birlikte, yerlerine geleceklere verilmek üzere köy muhtarı tarafından alınarak saklanır.",
+        "C": "Görevi bittikten sonra hayatını korumak amacıyla silahı kullanmaya devam edebilir.",
+        "D": "Silahın şekli köy ihtiyar heyeti tarafından belirlendiği için, heyetin kararıyla kendisinde kalabilir.",
+        "E": "Silah, İçişleri Bakanlığı tarafından tayin edildiği için doğrudan Bakanlığa iade edilmelidir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 79'da belirtilen 'Ölen veya koruculuğu bırakan veyahut çıkarılan korucuların silah, fişek... yerlerine geleceklere verilmek üzere köy muhtarı tarafından alınıp saklanır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Silahın yeni korucuya emanet edilmesi (Madde 76 ve 79), görev sonrası kullanılması (Madde 77) veya İçişleri Bakanlığına iadesi (Madde 79) gibi durumlar kanunda belirtilen usule aykırıdır. Silahın şeklini belirleme yetkisi de köy heyetine değil, İçişleri Bakanlığına aittir (Madde 78)."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, vazifesinde kayıtsızlık veya tembellik gösteren bir korucuya, ihtiyar meclisi tarafından ikinci defa ceza verilmesi durumunda uygulanacak yaptırım aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Tekdir",
+        "B": "Köy muhtarı tarafından uyarılma",
+        "C": "İşten çıkarılma",
+        "D": "Silah ve cephane parasının ödettirilmesi",
+        "E": "Tevbih"
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 80'de belirtilen '...ikincisinde tevbih olunur...' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneğindeki 'tekdir' ilk defasında, C seçeneğindeki 'işten çıkarılma' ise üçüncü defasında uygulanan cezalardır. D seçeneğindeki yaptırım ve B seçeneğindeki usul ise bu madde kapsamında yer almadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy korucularına uygulanan yaptırımlar ve görevden çıkarma halleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Vazifesinde tembellik gösteren korucuya ihtiyar meclisi tarafından ilk seferinde tekdir cezası verilir.",
+        "B": "İzinsiz olarak görevini terk eden bir korucu, bu eylemini üçüncü kez tekrarlarsa görevden çıkarılır.",
+        "C": "Görevden çıkarılan korucunun silahı, yerine gelecek kişiye verilmek üzere köy muhtarı tarafından muhafaza edilir.",
+        "D": "Silahını üzerinde taşımayan bir korucu, bu fiili ilk kez gerçekleştirmiş olsa dahi derhal görevden çıkarılır.",
+        "E": "Silahını isteyerek başka birinin eline geçmesine sebep olan korucudan silahın bedeli tahsil edilir."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 80 ve 81'in birlikte değerlendirilmesine dayanmaktadır. Madde 81'de 'silahını üzerinde taşımamak' yasak bir iş olarak sayılmış, Madde 80'de ise bu tür yasak işleri yapanlara ilk defasında 'tekdir', ikincisinde 'tevbih' verileceği ve ancak üçüncü defasında işten çıkarılacağı belirtilmiştir. Dolayısıyla ilk eylemde derhal çıkarma söz konusu değildir.\n- Diğer seçenekler: A ve B seçenekleri Madde 80'deki aşamalı disiplin sürecine; C seçeneği Madde 79'daki usule; E seçeneği ise Madde 82'deki mali sorumluluğa uygun olduğu için doğrudur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi koruculara yasak olan işlerden biri değildir?",
+      "secenekler": {
+        "A": "Koruculuk görevinden başka bir iş olarak dükkan veya kahvehane işletmek.",
+        "B": "İzin almaksızın kendi özel hizmetinde bulunmak için görevini terk etmek.",
+        "C": "Köy muhtarının yazılı emriyle köyün posta işlerini yürütmek.",
+        "D": "Koruduğu bağ, bahçe ve ekinlerden fuzuli olarak faydalanmak.",
+        "E": "Kendisine verilen levha, elbise, silah ve cüzdanı üzerinde taşımamak."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 81'de belirtilen 'Koruculara yasak olan işler' arasında böyle bir hüküm bulunmamasına dayanmaktadır.\n- Diğer seçenekler: Madde 81'de koruculuktan başka iş yapmak, izinsiz vazifesini terk etmek, korunan yerden fuzuli faydalanmak ve teçhizatı üzerinde taşımamak açıkça yasaklanan eylemler arasında sayıldığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, silahını ve cephanesini kayıtsızlığı yüzünden kaybeden veya isteğiyle başkasının eline geçmesine sebep olan korucu hakkında aşağıdaki işlemlerden hangisi yapılır?",
+      "secenekler": {
+        "A": "İhtiyar meclisi tarafından ilk defasında tekdir, ikincisinde tevbih olunur.",
+        "B": "Hemen görevden çıkarılır, durum Hükümete bildirilir ve silah ile cephane parası ödettirilir.",
+        "C": "Köy muhtarı tarafından silahı alınıp saklanır ve görevine devam etmesi sağlanır.",
+        "D": "Üçüncü defasında bu fiili işlerse görevden çıkarılır.",
+        "E": "Sadece silah ve cephane parasını ödemesi istenir, görevine devam eder."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 82'de belirtilen 'Silahını ve cephanesini kayıtsızlığı yüzünden kaybeden veya isteğiyle aharın eline geçmesine sebep olan korucu hemen çıkarılarak hakkında ayrıca ceza yapılmak üzere Hükümete haber verilir ve silah ve cephane parası ödettirilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen yaptırımları eksik veya yanlış yansıttığı ya da başka disiplin suçları için öngörülen cezaları (örneğin Madde 80'deki tekdir, tevbih) içerdiği için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ilk defa koruduğu bahçeden izinsiz faydalandığı için ihtiyar meclisince tekdir cezası alan bir korucu, bu olaydan bir süre sonra kayıtsızlığı yüzünden silahını kaybetmiştir. Bu durumda korucu hakkında uygulanacak işlem aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "İhtiyar meclisi tarafından ikinci ceza olarak tevbih edilir ve bu durum tezkeresine işlenir.",
+        "B": "Yaptığı yasak iş üçüncü defa tekrarlandığında görevden çıkarılır.",
+        "C": "Köy muhtarı tarafından silahı alınıp saklanır ve görevine devam eder.",
+        "D": "Derhal görevden çıkarılır, hakkında ceza işlemi yapılması için Hükümete haber verilir ve silah parası ödettirilir.",
+        "E": "Sadece kaybettiği silah ve cephanenin parasını ödemekle yükümlü tutulur."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Madde 82'de belirtilen 'Silahını ve cephanesini kayıtsızlığı yüzünden kaybeden ... korucu hemen çıkarılarak hakkında ayrıca ceza yapılmak üzere Hükümete haber verilir ve silah ve cephane parası ödettirilir.' hükmüne dayanmaktadır. Korucunun daha önce Madde 80 ve 81 kapsamında bir disiplin cezası almış olması, Madde 82'de düzenlenen ve derhal görevden çıkarmayı gerektiren özel durumu ortadan kaldırmaz.\n- Diğer seçenekler: Madde 80'deki aşamalı disiplin cezaları (tekdir, tevbih), silahın kaybedilmesi gibi daha ağır ve özel olarak düzenlenen bir fiil karşısında uygulanmaz; bu fiil, doğrudan ve derhal görevden çıkarma sebebidir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, silahını ve cephanesini kayıtsızlığı yüzünden kaybeden bir korucu hakkında uygulanacak yaptırımlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Görevden derhal çıkarılır ancak silah ve cephane bedelini ödemekten muaf tutulur.",
+        "B": "Silah ve cephane bedelini öder ancak görevine devam etmesine izin verilir.",
+        "C": "Durumun Hükümete bildirilmesi yeterlidir, görevden çıkarma veya para ödetme işlemi yapılmaz.",
+        "D": "Sadece görevden çıkarılır, Hükümete haber verilmesine veya para ödetilmesine gerek yoktur.",
+        "E": "Hakkında ceza işlemi yapılması için Hükümete haber verilir, görevden derhal çıkarılır ve silah ile cephane bedeli kendisine ödettirilir."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 82'de belirtilen 'Silahını ve cephanesini kayıtsızlığı yüzünden kaybeden... korucu hemen çıkarılarak hakkında ayrıca ceza yapılmak üzere Hükümete haber verilir ve silah ve cephane parası ödettirilir' hükmüne dayanmaktadır. Bu hüküm, görevden çıkarma, Hükümete haber verme ve bedeli ödetme olmak üzere üç yaptırımı bir arada düzenlemektedir.\n- Diğer seçenekler, kanunda belirtilen bu yaptırımlardan bazılarını eksik veya hatalı bir şekilde içerdiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy imamlarının atanma usulü aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Köy derneğinin seçimi ve müftünün buyrultusu ile tayin edilirler.",
+        "B": "Doğrudan ihtiyar meclisinin kararı ile atanırlar.",
+        "C": "Sadece müftünün tek taraflı buyrultusu ile göreve başlarlar.",
+        "D": "Kaymakam tarafından seçilir ve köy derneğince onaylanırlar.",
+        "E": "Köy muhtarının teklifi ve Hükümetin onayıyla göreve başlarlar."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 83'te belirtilen 'Köy imamları köy derneğinin intihabı ve müftünün buyurultusiyle tayin olunurlar' hükmüne dayanmaktadır. Bu hüküm, atama sürecinde hem köy derneğinin seçiminin (intihap) hem de müftünün onayının (buyrultu) zorunlu olduğunu açıkça ifade eder.\n- Diğer seçenekler, kanunda belirtilen atama usulündeki yetkili makamları veya süreçleri yanlış yansıttığı için hatalıdır. Kanun, ihtiyar meclisi, kaymakam veya Hükümet'e bu konuda doğrudan bir atama yetkisi vermemiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy imamlarının atanması ve ihtiyar meclisindeki rolleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy imamları, müftünün doğrudan seçimi ve kaymakamın onayı ile göreve başlarlar.",
+        "B": "Bir köyde birden fazla imam bulunması halinde, ihtiyar meclisinde görev alacak imamı köy derneği seçer.",
+        "C": "Köy imamının atanması için köy derneği tarafından seçilmesi ve müftü tarafından bir buyrultu verilmesi şarttır.",
+        "D": "İhtiyar meclisi, köyde görev yapacak imamı seçme ve atama yetkisine sahiptir.",
+        "E": "Köydeki tüm imamlar, herhangi bir seçime tabi olmaksızın ihtiyar meclisinin doğal üyesi sayılırlar."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 83'te belirtilen 'Köy imamları köy derneğinin intihabı ve müftünün buyurultusiyle tayin olunurlar.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 86 uyarınca birden fazla imam olması durumunda ihtiyar meclisi azasını kaymakamın seçmesi ve atama usulünün Madde 83'te farklı düzenlenmiş olması nedeniyle yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy imamlarına köyce verilecek olan şeylerin toplanması ve verilmesi işlemi aşağıdaki mercilerden hangisi vasıtasıyla yapılır?",
+      "secenekler": {
+        "A": "Köy derneği",
+        "B": "İhtiyar meclisi",
+        "C": "Müftü",
+        "D": "Kaymakam",
+        "E": "Doğrudan köy halkı"
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 85'te belirtilen 'verilen şeyler, ihtiyar meclisi vasıtasiyle toplanır ve verilir' hükmüne dayanmaktadır. \n- Diğer seçeneklerde belirtilen makamlar (Köy derneği, Müftü, Kaymakam) kanunda imamların seçimi, atanması veya temsili gibi farklı görevler için belirtilmiş olup, ödemelerin toplanması ve dağıtılması görevi ihtiyar meclisine aittir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyde birden fazla imam bulunması durumunda, ihtiyar meclisinde aza olarak bulunacak imamı seçme yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Kaymakam",
+        "B": "Müftü",
+        "C": "Köy derneği",
+        "D": "İhtiyar meclisi",
+        "E": "Vali"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Madde 86'da belirtilen 'Bir köyde birden fazla imam bulunursa ihtiyar meclisinde aza olarak bulunacak imamı kaymakam seçer.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen mercilerin bu özel durumda seçim yapma yetkisi kanunda düzenlenmemiştir. Müftü ve köy derneği imamın genel atanma sürecinde rol alsa da, ihtiyar meclisi üyesini seçme yetkisine sahip değildir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bir köyde birden fazla imam bulunması durumunda ihtiyar meclisinde görev alacak imamı seçme yetkisi ile ecnebi tebaasının köylerde ikamet etmesi için resmi tezkere verme yetkisi sırasıyla aşağıdaki makamlardan hangilerine aittir?",
+      "secenekler": {
+        "A": "Vali - Kaymakam",
+        "B": "İhtiyar Meclisi - Vali",
+        "C": "Kaymakam - Dahiliye Vekaleti",
+        "D": "Muhtar - Vali",
+        "E": "Vali - Dahiliye Vekaleti"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 86'da belirtilen 'ihtiyar meclisinde aza olarak bulunacak imamı kaymakam seçer' hükmü ile Madde 88'de yer alan 'Ecnebi tebaası köylerde ikamet etmek için Dahiliye Vekaletinden resmi tezkere alacaklardır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Yetkili makamları yanlış eşleştirdiği veya kanunda belirtilmeyen makamlara yetki atfettiği için hatalıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, nüfusu yüz elliden aşağı olan bir köy, başka bir köye bağlanmaz ve vali veya kaymakam da bu kanunun hangi maddelerinin uygulanacağına dair bir emir vermezse, köy işlerinin yürütülmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köyün yönetimi doğrudan en yakın ilçe kaymakamlığına geçer.",
+        "B": "Köy ahalisinden seçim hakkı olanların yarısından çoğunun alacağı kararlar uygulanır.",
+        "C": "En fazla bir saat mesafedeki komşu köyün ihtiyar meclisi tarafından yönetilir.",
+        "D": "Nüfusu yüz elliyi aşana kadar köy tüzel kişiliği askıya alınır.",
+        "E": "Köy, eski göreneklerine göre işlerini yapar."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 89'da belirtilen 'Bu kabil köyler hiçbir köye bağlanmaz ve vali veya kaymakam da hiçbir emir vermezse eski göreneklerine göre işlerini yaparlar.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen bu özel durumda köyün eski göreneklere göre yönetileceği açıkça ifade edilmiş olup, diğer seçeneklerdeki gibi bir yönetim devri, karar alma usulü veya tüzel kişiliğin askıya alınması gibi durumlar düzenlenmemiştir. B ve C seçeneklerindeki unsurlar, köyün başka bir köye bağlanma sürecine ilişkin şartlardır, varsayılan yönetim usulü değildir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, nüfusu yüz elliden aşağı olan köylerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Seçim hakkı olanların yarısından fazlasının istemesiyle etrafındaki köylerden birine bağlanabilirler.",
+        "B": "Vali veya kaymakam, bu kanunun hangi maddelerinin uygulanacağını ayrıca emredebilir.",
+        "C": "Hiçbir köye bağlanmaz ve haklarında bir emir verilmezse eski göreneklerine göre işlerini yaparlar.",
+        "D": "Çevrelerindeki nüfusu yüz elliden aşağı birkaç köy, seçim hakkı olanların çoğunluğunun isteğiyle birleşerek yeni bir köy olabilirler.",
+        "E": "İhtiyar meclisinin kararı ile doğrudan bağlı bulundukları ilçe merkezine mahalle olarak katılırlar."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, kanunda böyle bir düzenleme bulunmadığı için E seçeneğidir. Kanun, nüfusu yüz elliden az olan köylerin başka bir 'köye' bağlanmasını düzenlerken, bu kararın 'ihtiyar meclisi' tarafından değil, 'seçim hakkı olanların yarısından çoğunun istemesiyle' alınacağını belirtir. Ayrıca ilçe merkezine mahalle olarak katılma gibi bir usul öngörülmemiştir.\n- Diğer seçenekler: Madde 89 ve Madde 90'da nüfusu yüz elliden aşağı olan köyler için öngörülen hukuki durumları doğru bir şekilde yansıtmaktadır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, nüfusları yüz elliden aşağı olan ve bir arada bulunan birkaç köyün birleşerek tek bir köy haline gelebilmesi için gereken temel şart aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Tüm köylerin birleşme sonrası toplam nüfusunun yüz elliyi geçmesi.",
+        "B": "Her köydeki seçim hakkına sahip olanların yarısından çoğunun bu yönde bir istekte bulunması.",
+        "C": "İlgili köylerin ihtiyar meclislerinin ortak bir karar alması.",
+        "D": "Birleşme talebinin Dahiliye Vekaletine sunulması ve izin alınması.",
+        "E": "Kaymakamın birleşmeyi kamu yararına uygun bularak onaylaması."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Madde 90'da belirtilen 'her köydeki seçim hakkı onların yarısından çoğunun isteğiyle birleşerek bu kanuna göre bir köy olurlar' hükmüne dayanmaktadır. - Diğer seçeneklerde belirtilen kaymakam onayı, ihtiyar meclisi kararı, Dahiliye Vekaleti izni veya belirli bir nüfus şartı gibi koşullar, söz konusu birleşme için kanunda öngörülmemiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, nüfusu yüz elliden aşağı olan birkaç köyün birleşerek tek bir köy haline gelebilmesi için aşağıdakilerden hangisi gereklidir?",
+      "secenekler": {
+        "A": "Köylerin ihtiyar meclislerinin oybirliği ile karar alması",
+        "B": "Köylerin toplam nüfusunun salt çoğunluğunun talepte bulunması",
+        "C": "Her köydeki seçim hakkı olanların yarısından çoğunun isteği",
+        "D": "Köy muhtarlarının birleşme konusunda anlaşması",
+        "E": "Kaymakamın birleşmeyi uygun görmesi ve onaylaması"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 90'da belirtilen 'her köydeki seçim hakkı onların yarısından çoğunun isteğiyle birleşerek bu kanuna göre bir köy olurlar' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen ihtiyar meclisi kararı, toplam nüfusun çoğunluğu, muhtarların anlaşması veya kaymakam onayı gibi şartlar, kanunda yer almadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, kanunun bir nüshasını kanunda belirtilen yerlerde bulundurma yükümlülüğünü ihlal eden köy muhtarına verilen para cezasının ödenmesi emrini verme yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Köy ihtiyar meclisine",
+        "B": "Köy sandığı idaresine",
+        "C": "Kaymakama",
+        "D": "Köy muhtarına",
+        "E": "Vilayete"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 91'de belirtilen '...köy muhtarı kaymakamın emriyle köy sandığına beş lira ceza parası verir.' hükmüne dayanmaktadır. Bu hüküm, para cezasının verilmesi emrini verme yetkisini açıkça kaymakama tanımıştır.\n- Diğer seçenekler: Kanunda ceza emrini verme yetkisi olarak sayılmadığı için yanlıştır. Köy muhtarı cezaya tabi olan kişidir, köy sandığı ise cezanın ödendiği yerdir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, kanunda belirtilen para cezaları (cezayinakdiler) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Doğrudan Hazine'ye irat kaydedilir.",
+        "B": "Vilayet özel idaresine gelir olarak aktarılır.",
+        "C": "Köy sandığının gelirleri arasında sayılır.",
+        "D": "Cezayı kesen kaymakamın emriyle özel bir fonda toplanır.",
+        "E": "İhtiyar meclisi üyeleri arasında paylaştırılır."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 92'de belirtilen 'İşbu kanundaki cezayinakdiler köy sandığının varidatıdır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumlar veya usuller, kanunda bu cezaların geliri olarak tanımlanmadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy mühürlerinin muhafazası ve kullanımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy mühürleri, kaymakamlıklar tarafından standart bir örnekle yaptırılarak köye gönderilir.",
+        "B": "Köy mühürünün bulunduğu kutu, ihtiyar meclisinin tüm üyeleri tarafından mühürlenmelidir.",
+        "C": "Köy mühürü, muhtarın kişisel sorumluluğunda kilitli bir dolapta saklanır.",
+        "D": "Mühür kutusunun açılması için ihtiyar meclisi azalarından en az birinin hazır bulunması yeterlidir.",
+        "E": "Köy mühürünün bulunduğu kutu, ihtiyar meclisi önünde açılır."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 93'te belirtilen '...ihtiyar meclisi önünde açılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen usullere aykırıdır. Mühürler vilayetlerce yaptırılır ve bulunduğu kutunun üzeri ihtiyar meclisinin en az iki azası tarafından mühürlenir, tüm üyeleri tarafından değil."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy mühürünün muhafazası ve kullanılması usulüyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Mühür, vilayet tarafından gönderilen özel bir zarf içinde saklanır.",
+        "B": "Kutunun üzeri ihtiyar meclisinin tüm üyeleri tarafından mühürlenir.",
+        "C": "Mühür, sadece köy muhtarının huzurunda açılabilir.",
+        "D": "Kutunun mühürlenmesi için ihtiyar meclisinden en az üç aza gereklidir.",
+        "E": "Mühür, bir kutu içinde bulundurulur ve ihtiyar meclisi önünde açılır."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Madde 93'te belirtilen 'Köy mühürü bir kutu içinde bulundurulur ... ve ihtiyar meclisi önünde açılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen usule aykırı bilgiler içerdiği için yanlıştır. Mühür kutu içinde bulundurulur, en az iki aza tarafından mühürlenir ve ihtiyar meclisi önünde açılır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, bu kanunun öğretilmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "İhtiyar meclisi üyelerine görevlerine başlamadan önce okutulması zorunludur.",
+        "B": "Vilayetlerce hazırlanan özet metinler köy kahvehanelerine asılır.",
+        "C": "Köy mekteplerinde çocuklara belletilir.",
+        "D": "Köy muhtarı tarafından her hane reisine şahsen tebliğ edilir.",
+        "E": "Sadece salma toplanması ile ilgili maddeleri halka duyurulur."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Madde 94'te belirtilen 'İşbu Köy Kanunu köy mekteplerinde çocuklara belletilir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen öğretim veya duyuru yöntemleri kanunda yer almadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, salmanın tevzi edilmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Bir hanede oturanların kendilerine ait gelirleri olduğu takdirde, bu kişiler de ayrı hane sahibi sayılırlar.",
+        "B": "Köy haricinde oturup köyde maddi alakası bulunanların vergi miktarı, bu alakalarının derecesine göre tayin olunur.",
+        "C": "Salma, köyde oturanlar için temel olarak hane başına tevzi edilir.",
+        "D": "Salma, her hanenin ödeme gücüne bakılmaksızın tüm hanelere eşit miktarda dağıtılır.",
+        "E": "Salma tevzi edilirken her hanenin tediye kudreti esas olarak göz önünde tutulur."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Salma tevzi edilirken her hanenin tediye kudreti esas olarak gözönünde tutulur.' hükmüne dayanmaktadır. Bu hüküm, salmanın her hanenin ödeme gücüne göre farklılaştırılması gerektiğini açıkça ifade eder.\n- D seçeneğindeki ifade, salmanın tüm hanelere eşit dağıtıldığını belirterek bu temel ilkeyle doğrudan çelişir. Diğer seçeneklerdeki ifadeler ise kanun metninde yer alan kuralların doğru bir yansımasıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, salmanın tevzi edilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Salma, köyde oturan her birey için ayrı ayrı hesaplanır.",
+        "B": "Bir hanede oturanların kendilerine ait gelirleri olsa dahi tek bir hane olarak kabul edilirler.",
+        "C": "Her hanenin ödeme gücü, salma dağıtımında esas olarak dikkate alınır.",
+        "D": "Köy haricinde oturup köyde maddi alakası bulunanlar salmadan tamamen muaftır.",
+        "E": "Köy dışında oturanların vergi miktarı, köydeki mülklerinin sayısına göre sabit olarak belirlenir."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Salma tevzi edilirken her hanenin tediye kudreti esas olarak gözönünde tutulur.' hükmüne dayanmaktadır.\n- Diğer seçenekler, aynı maddede yer alan salmanın hane başına tevzi edilmesi, gelir sahibi kişilerin ayrı hane sayılması ve köy dışında maddi alakası olanların durumuna ilişkin kurallara aykırı olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, aşağıdakilerden hangisi salma salınabilecek amaçlar arasında yer almaz?",
+      "secenekler": {
+        "A": "Köyün aylıklı adamlarının ücretlerinin ödenmesi",
+        "B": "Mecburi işlerin görülmesi",
+        "C": "Kanunen zorunlu tutulan hizmetlerin yerine getirilmesi",
+        "D": "Köy personelinin maaşlarının finansmanı",
+        "E": "Köydeki geleneksel şenliklerin masraflarının karşılanması"
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Köyün aylıklı adamlarının ücretleriyle mecburi işlerden başka hiç bir iş için ve hiç bir nam ve maksatla salma salınamaz' hükmüne dayanmaktadır. Bu hüküm, salmanın sadece iki amaçla sınırlı olduğunu açıkça belirtir.\n- Diğer seçenekler, kanunda sayılan bu iki istisnai amacı (aylıklıların ücretleri ve mecburi işler) doğrudan veya dolaylı olarak ifade ettiği için yanlıştır. Şenlik masrafları ise bu kapsamda değildir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy salması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Salma, sadece köyde oturan hanelere, gelir durumuna bakılmaksızın eşit olarak dağıtılır.",
+        "B": "Köy dışında oturup köyde maddi alakası bulunanlardan, köyde oturanlarla aynı miktarda salma alınır.",
+        "C": "Salma, köyün aylıklı çalışanlarının ücretlerini karşılamak amacıyla toplanabilir ve dağıtımında hanelerin ödeme gücü esas alınır.",
+        "D": "Köy ihtiyar meclisi, köyün okul ve cami gibi genel ihtiyaçları için her zaman salma salabilir.",
+        "E": "Bir hanede birden fazla gelir sahibi olsa dahi, o hane tek bir birim olarak kabul edilir ve salma miktarı değişmez."
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Köyün aylıklı adamlarının ücretleri' için salma salınabilmesi hükmü ile Ek Madde 1'deki 'her hanenin tediye kudreti esas olarak gözönünde tutulur' hükmünün birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: A, B ve E seçenekleri Ek Madde 1'de belirtilen ödeme gücü, menfaat derecesi ve ayrı hane sayılma kurallarına aykırıdır. D seçeneği ise Ek Madde 2'de yer alan salmanın sadece aylıklı çalışanların ücretleri ve mecburi işler için salınabileceği yönündeki kısıtlamaya aykırı olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy ihtiyar meclisinin salma ile ilgili hazırladığı tevzi cetvellerinin ilanı ve bu ilana itiraz süreciyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Tevzi cetvelleri, tanzim edildikten sonra on gün müddetle ilan edilir.",
+        "B": "Salmanın nispetine ilişkin itirazlar, ilan süresi bitiminden itibaren on beş gün içinde doğrudan kaymakama yapılır.",
+        "C": "Köy ihtiyar meclisi, yapılan itirazları bir ay içinde inceleyerek kararını vermekle yükümlüdür.",
+        "D": "Salınan salmalarda kanun hükümlerine uygunsuzluk olduğunu iddia edenler, ilan müddetinin bitiminden itibaren on gün içinde itirazlarını köy muhtarına bildirebilir.",
+        "E": "Hariçte bulunanlara tebligat yapılması zorunlu olmayıp, sadece ilan yeterli sayılır."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Ek Madde 3'te belirtilen 'Salınan salmalarda kanun hükümlerine uygunsuzluk veya nisbetsizlik olduğunu iddia edenler ilan veya tebliğ müddetinin hitamından itibaren on gün içinde itirazlarını köy muhtarına söylerler veya yazı ile bildirirler' hükmüne dayanmaktadır.\n- Diğer seçenekler: A, B ve C seçeneklerinde belirtilen süreler (on gün ilan, on beş gün itiraz, bir ayda karar) ve itiraz mercii (kaymakam) kanunda belirtilen süre ve mercilerden farklı olduğu için yanlıştır. E seçeneği ise kanundaki 'hariçte bulunanlara tebliğ eder' hükmüne aykırıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, salma kararları ve bu kararlardaki değişikliklerle ilgili yapılması zorunlu olan işlem aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Köy karar defterine geçirilmesi ve değişikliklerin bu deftere işaret edilmesi.",
+        "B": "On beş gün süreyle köyün herkesin görebileceği bir yerine asılarak ilan edilmesi.",
+        "C": "Kararlara itirazların doğrudan valiye veya kaymakama bildirilmesi.",
+        "D": "Her hanenin ödeme gücü dikkate alınarak yeniden düzenlenmesi.",
+        "E": "Sadece köyün aylıklı görevlilerinin ücretlerinin ödenmesinde kullanılması."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Ek Madde 4'te belirtilen 'Salma kararlarının köy karar defterine geçirilmesi ve tadilatının işaret olunması mecburidir' hükmüne dayanmaktadır.\n- Diğer seçenekler, salma sürecinin farklı aşamaları olan tevzi cetvellerinin ilanı (Ek Madde 3), itiraz usulü (Ek Madde 3), salmanın dağıtım esası (Ek Madde 1) ve toplanan paranın harcama amacı (Ek Madde 2) ile ilgili olup, kararların kaydedilmesine ilişkin zorunluluğu ifade etmediği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, salma kararları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Bu kararların ve tadilatlarının köy karar defterine işlenmesi zorunludur.",
+        "B": "Kararların geçerli olması için kaymakam tarafından onaylanması gerekir.",
+        "C": "Kararların köy meydanında bir hafta süreyle ilan edilmesi yeterlidir.",
+        "D": "Kararlarda yapılan tadilatların sadece sözlü olarak duyurulması esastır.",
+        "E": "Salma kararlarının muhtar tarafından kişisel bir deftere yazılması yeterlidir."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Ek Madde 4'te belirtilen 'Salma kararlarının köy karar defterine geçirilmesi ve tadilatının işaret olunması mecburidir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kaymakam onayı, köy meydanında ilan, sözlü duyuru veya kişisel deftere kayıt gibi usuller ilgili maddede düzenlenmediği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, salma mükellefiyetini aynen veya nakden ifa edemeyen bir kişiye uygulanabilecek yaptırım aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Köy karar defterine borçlu olarak kaydedilmeleri",
+        "B": "Bedenen çalıştırılmaları",
+        "C": "İlçe seçim kuruluna bildirilmeleri",
+        "D": "Mükellefiyetlerinin bir sonraki yıla ertelenmesi",
+        "E": "Vali veya kaymakam tarafından haklarında idari para cezası uygulanması"
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Ek Madde 5'te belirtilen 'Salma mükellefiyetini aynen veya nakden ifa edemiyenler bedenen çalıştırılabilirler.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen sonuçlar, salma mükellefiyetini yerine getiremeyenler için kanunda öngörülmüş bir yaptırım olmadığından yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köyde alınan bir salma kararı ve bu karara uymayan bir mükellef ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Salma kararlarının köy karar defterine geçirilmesi ihtiyari bir işlemdir.",
+        "B": "Salma mükellefiyetini yerine getiremeyenler için bedenen çalıştırma yaptırımı uygulanması yasaklanmıştır.",
+        "C": "Salma kararında sonradan yapılacak bir değişikliğin karar defterine işlenmesi zorunlu değildir.",
+        "D": "Salma mükellefiyetini aynen veya nakden ifa edemeyenler bedenen çalıştırılabilirler.",
+        "E": "Salma kararlarının geçerliliği için ilçe seçim kurulunun onayı gerekir."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Ek Madde 5'te belirtilen 'Salma mükellefiyetini aynen veya nakden ifa edemiyenler bedenen çalıştırılabilirler' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve C seçenekleri, Ek Madde 4'te salma kararlarının ve tadilatının deftere geçirilmesinin 'mecburi' olduğunun belirtilmesi nedeniyle yanlıştır. B seçeneği, Ek Madde 5'in tam tersini iddia etmektedir. E seçeneğinde belirtilen onay şartı ise kanunda yer almamaktadır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, ilçe seçim kurulu başkanı, köy muhtarlığına ve ihtiyar meclisi üyeliğine seçilenleri gösteren tutanağın bir suretini ilçe seçim kurulu kapısına ne kadar süre ile astırır?",
+      "secenekler": {
+        "A": "On beş gün",
+        "B": "Bir ay",
+        "C": "Bir hafta",
+        "D": "Geciktirmeksizin",
+        "E": "Derhal"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Ek Madde 6'da belirtilen 'Diğer bir suretini de bir hafta süre ile ilçe seçim kurulu kapısına astırır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen süreler arasında yer almadığı için yanlıştır. 'Geciktirmeksizin' ve 'derhal' ifadeleri, tutanakların kazananlara verilmesi ve seçim çevresinde ilan edilmesi gibi farklı işlemler için kullanıldığından, bu soru için doğru cevap değildir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy yerleşme planının yapılmasına ilişkin talep süreci ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy muhtarı, köy ihtiyar meclisinin olumlu kararını aldıktan sonra planın yapılmasını bağlı bulunduğu mülki amirinden talep edebilir.",
+        "B": "Köy ihtiyar meclisi, muhtarın görüşünü alarak talebi doğrudan valiliğe yapar.",
+        "C": "Köy muhtarı, ihtiyar meclisinin kararına ihtiyaç duymaksızın re'sen mülki amirden talepte bulunabilir.",
+        "D": "Köy yerleşme planı talebi, köy muhtarı tarafından doğrudan Köy Yerleşme Alanı Tespit Komisyonuna yapılır.",
+        "E": "Köy yerleşme planı, sadece köyün mevcut yerleşik alanını kapsar ve gelişme alanını içermez."
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Ek Madde 9'da belirtilen 'Köy muhtarı, köy ihtiyar meclisinin olumlu kararını aldıktan sonra, köy yerleşme planının yapılmasını bağlı bulunduğu mülki amirinden talep edebilir' hükmüne dayanmaktadır. Aynı maddede planın 'köy yerleşik ve gelişme alanını ihtiva edeceği' de açıkça düzenlenmiştir.\n- Diğer seçenekler, talepte bulunan makamı, talebin yöneltildiği mercii, ihtiyar meclisi kararının gerekliliğini veya planın kapsamını hatalı belirttiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, Köy Yerleşme Alanı Tespit Komisyonu tarafından düzenlenen köy yerleşme planını onaylayarak kesinleştiren ve yürürlüğe koyan makam aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Köy muhtarı",
+        "B": "Köy Yerleşme Alanı Tespit Komisyonu Başkanı",
+        "C": "Tarım Orman ve Köyişleri Bakanlığı",
+        "D": "Valilik",
+        "E": "Tapu Kadastro Genel Müdürlüğü"
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Ek Madde 10'da belirtilen 'Bu plan valilikçe onaylanarak kesinleştirilir ve yürürlüğe girer.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamlar planın hazırlanma sürecinde yer alsalar da, nihai onay ve yürürlüğe koyma yetkisine sahip olmadıkları için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy yerleşme planının yapılmasına ilişkin usul ve yetkilerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy yerleşme planının yapılması süreci, yalnızca köy muhtarının talebi üzerine başlayabilir.",
+        "B": "Köy Yerleşme Alanı Tespit Komisyonu kararına karşı yapılacak itirazları karara bağlama yetkisi, komisyon başkanlığını yürüten Vali Yardımcısına aittir.",
+        "C": "Kesinleşen köy yerleşme planlarının uygulanmasından valilik sorumludur.",
+        "D": "Valilik, köy muhtarının talebini beklemeksizin resen de köy yerleşme planının yapılması için süreci başlatabilir.",
+        "E": "Komisyon kararı köy muhtarlığına tebliğ edildikten sonra itiraz süresi 15 gündür."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Ek Madde 10'da belirtilen 'Valilikçe resen veya köy muhtarının talebi uygun bulunduğu takdirde, köy yerleşme planının yapılması için Köy Yerleşme Alanı Tespit Komisyonuna gönderilir.' hükmüne dayanmaktadır. Bu hüküm, valiliğin resen harekete geçme yetkisini açıkça düzenlemektedir.\n- Diğer seçenekler: A seçeneği valiliğin resen yetkisini göz ardı ettiği, B seçeneği itiraz merciini yanlış belirttiği (doğrusu valilik), C seçeneği uygulama makamını yanlış belirttiği (doğrusu Tarım Orman ve Köyişleri Bakanlığı) ve E seçeneği itiraz süresini yanlış belirttiği (doğrusu 30 gün) için Ek Madde 10 ve 11'e göre yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, Köy Yerleşme Alanı Tespit Komisyonu kararının köy muhtarlığına tebliğinden sonraki itiraz sürecine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Köy muhtarı, itiraz hakkını kullanmak için köy ihtiyar meclisinin kararına dayanmak zorundadır.",
+        "B": "Komisyon kararına karşı yapılacak itirazlar valiliğe yöneltilir.",
+        "C": "Valiliğin itiraz üzerine verdiği karar, hukuken kesin niteliktedir.",
+        "D": "Köy muhtarının itiraz etme süresi, tebliğden itibaren en geç 15 gündür.",
+        "E": "İtiraz edilmemesi durumunda komisyon kararı, valinin onayı ile kesinleşir."
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Ek Madde 11'de belirtilen 'köy muhtarı köy ihtiyar meclisinin kararına dayanarak komisyon kararına karşı en geç 30 gün içinde valiliğe itiraz edebilir' hükmüne dayanmaktadır. Kanunda itiraz süresi açıkça 30 gün olarak düzenlenmiştir.\n- Diğer seçenekler: Maddede belirtilen itirazın şartı, mercii, valilik kararının kesinliği ve itirazsız kesinleşme usulü ile ilgili hükümlerle uyumlu olduğu için doğrudur.\n- D seçeneği: Kanunda belirtilen 15 günlük süre, muhtarın itiraz süresi değil, valiliğin itirazı karara bağlama süresidir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, komisyon kararı ve köy yerleşme planına karşı yapılacak itiraz süreciyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köy muhtarı, komisyon kararına karşı en geç 15 gün içinde doğrudan valiliğe itiraz edebilir.",
+        "B": "Valilik, kendisine yapılan itirazı 15 gün içinde karara bağlar ve bu karar kesindir.",
+        "C": "İtiraz edilmeyen komisyon kararları, Tarım Orman ve Köyişleri Bakanlığının onayı ile kesinleşir.",
+        "D": "Valiliğin itiraz üzerine verdiği karara karşı köy muhtarlığı tarafından Tarım Orman ve Köyişleri Bakanlığına başvurulabilir.",
+        "E": "Köy ihtiyar meclisi, köy muhtarının onayı olmaksızın komisyon kararına doğrudan itiraz etme yetkisine sahiptir."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Ek Madde 11'de belirtilen 'itiraz valilikçe 15 gün içinde karara bağlanır. Bu karar kesindir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen itiraz süresi (30 gün), kararları kesinleştiren makam (vali) ve itiraz usulü (muhtarın ihtiyar meclisi kararına dayanması) gibi hükümlere aykırı bilgiler içerdiği için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy yerleşme plânı kapsamında Hazinenin mülkiyetinde olup kamu hizmetine tahsis edilmemiş bir taşınmazın devri ve tescili ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Devir işlemi için valiliğin görüşü alınır ve tescil Maliye Bakanlığınca yapılır.",
+        "B": "Tescil işlemi için köy ihtiyar meclisinin kararı yeterlidir, ayrıca bir kurum görüşüne gerek yoktur.",
+        "C": "Devir işlemi doğrudan valilik tarafından yapılır ve Maliye Bakanlığına sadece bilgi verilir.",
+        "D": "Taşınmazın devri ve tescili, köy yerleşme plânının onayı ile kendiliğinden gerçekleşir.",
+        "E": "Devir işlemi için Maliye Bakanlığının görüşü alınır ve tescil valilikçe yapılır."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Ek Madde 12'de belirtilen '...Hazinenin mülkiyetinde olup kamu hizmetine tahsis edilmemiş taşınmazların devri Maliye Bakanlığının görüşü alınmak suretiyle yapılır ve valilikçe köy tüzel kişiliği adına tapuya tescil edilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Yetkili makamları ve usulü yanlış belirttiği veya kanunda yer almayan şartlar içerdiği için hatalıdır. Özellikle D seçeneği, kanunda belirtilen 'vasfın kendiliğinden kaybedilmesi' durumunu, ayrı bir usule tabi olan 'devir ve tescil' işlemiyle karıştırdığı için yanıltıcıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy tüzelkişiliği adına tescil edilen parsellerin satılacağı ihtiyaç sahiplerinde aranan şartlar arasında aşağıdakilerden hangisi yer almaz?",
+      "secenekler": {
+        "A": "Köyde ikamet etmek",
+        "B": "Köy nüfusuna kayıtlı olmak",
+        "C": "Evi bulunmamak",
+        "D": "En az beş yıldır köyde yaşıyor olmak",
+        "E": "İhtiyaç sahibi olmak"
+      },
+      "dogru_cevap": "D",
+      "gerekce": "Doğru cevap, Ek Madde 13'te belirtilen 'köyde ikamet eden ve köy nüfusuna kayıtlı olup evi bulunmayan ihtiyaç sahiplerine' satış yapılacağı hükmüne dayanmaktadır. Kanun, köyde ikamet etmeyi şart koşmuş ancak bunun için belirli bir asgari süre şartı getirmemiştir.\n- Diğer seçenekler, kanun metninde açıkça sayılan veya ifade edilen şartlar olduğu için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy ihtiyar meclisince ihtiyaç sahiplerine satılan parsellerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Satış bedeli peşin olarak ödenebilir.",
+        "B": "Satıştan elde edilen gelir, o köyün imar işlerinde kullanılmak üzere köy sandığına yatırılır.",
+        "C": "Hak sahipleri bu yerleri 10 yıl süreyle başkalarına devir ve temlik edemezler.",
+        "D": "Satış tarihinden itibaren en geç 5 yıl içinde parsel üzerine bina yapılması zorunludur.",
+        "E": "Satış bedeli en çok 10 yıl ve 10 eşit taksitle tahsil edilebilir."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Ek Madde 13'te yer alan 'Satış bedeli peşin veya en çok 5 yılda ve 5 eşit taksitle tahsil edilerek' hükmüne dayanmaktadır. Kanun, taksitlendirme için en fazla 5 yıl ve 5 eşit taksit sınırı getirmiştir.\n- Diğer seçeneklerde yer alan ifadeler, ilgili maddede belirtilen hükümlerle uyumlu olduğu için doğrudur."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy tüzelkişiliği adına tescil edilen ve köy yerleşme planına göre en çok 2000 m2 olan parsellerin ihtiyaç sahiplerine satılmasına karar verme yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "Köy muhtarı",
+        "B": "Valilik",
+        "C": "Köy ihtiyar meclisi",
+        "D": "Tarım Orman ve Köyişleri Bakanlığı",
+        "E": "Maliye Bakanlığı"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Ek Madde 13'te belirtilen 'ihtiyaç sahiplerine ihtiyar meclisi kararı ile rayiç bedel üzerinden satılır' hükmüne dayanmaktadır. Bu hüküm uyarınca satış kararını verme yetkisi doğrudan köy ihtiyar meclisine aittir.\n- Diğer seçeneklerde belirtilen makamların kanunun farklı maddelerinde başka görevleri (onay, itiraz, uygulama gibi) bulunmakla birlikte, doğrudan satış kararını verme yetkileri bulunmadığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy yerleşme planının valinin onayı ile kesinleşmesi ve köy tüzelkişiliği adına tescil edilen parsellerin ihtiyaç sahiplerine satılması süreciyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Satış kararı, köy muhtarı tarafından tek başına alınır ve valilikçe onaylanır.",
+        "B": "Parseller, köyde ikamet eden herhangi bir kişiye rayiç bedelin yarısı üzerinden satılabilir.",
+        "C": "Satıştan elde edilen gelir, doğrudan Maliye Bakanlığı bütçesine aktarılır.",
+        "D": "Hak sahiplerinin, satın aldıkları parseller üzerine 2 yıl içinde bina yapma zorunluluğu vardır.",
+        "E": "İhtiyaç sahiplerine satılan parsellerin, satış tarihinden itibaren 10 yıl süreyle başkalarına devredilmesi yasaktır."
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Ek Madde 13'te belirtilen 'Hak sahipleri bu yerleri 10 yıl müddetle başkalarına devir ve temlik edemezler.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Satış kararını ihtiyar meclisinin vermesi (A), satışın rayiç bedelden yapılması ve alıcının evi olmaması şartı (B), gelirin köy sandığına gitmesi (C) ve bina yapma süresinin 5 yıl olması (D) nedenleriyle Ek Madde 13'e aykırıdır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, köy yerleşme planlarına ilişkin süreçler ve yetkili makamlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "secenekler": {
+        "A": "Köy muhtarı, köy ihtiyar meclisinin kararına dayanarak komisyon kararına karşı valiliğe itiraz edebilir.",
+        "B": "Köy yerleşme planına göre köy tüzelkişiliği adına tescil edilen parsellerin ihtiyaç sahiplerine satılmasına ilişkin karar, vali tarafından verilir.",
+        "C": "Kesinleşen köy yerleşme planı kararları Tarım Orman ve Köyişleri Bakanlığı tarafından uygulanır.",
+        "D": "Hazinenin mülkiyetindeki bir taşınmazın köy tüzel kişiliğine devri için Maliye Bakanlığının görüşünün alınması gerekir.",
+        "E": "İhtiyaç sahiplerine satılan parseller üzerine en geç beş yıl içinde bina yapılması zorunludur."
+      },
+      "dogru_cevap": "B",
+      "gerekce": "Doğru cevap, Ek Madde 13'te belirtilen parsellerin satış kararının 'ihtiyar meclisi kararı ile' verileceği hükmüne aykırı olmasıdır. Valinin bu süreçte satış kararı verme yetkisi yoktur.\n- Diğer seçenekler: A ve C seçenekleri Ek Madde 11'de, D seçeneği Ek Madde 12'de ve E seçeneği Ek Madde 13'te yer alan doğru hükümlerdir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, çeşitli usul ve esasları belirlemek üzere çıkarılacak yönetmeliğin kapsamı ile ilgili olarak aşağıdakilerden hangisi bu yönetmelikle belirlenecek hususlar arasında yer almaz?",
+      "secenekler": {
+        "A": "İhtiyaç sahiplerinde aranacak vasıflar",
+        "B": "Taşınmaz malların amaca uygun kullanılma esasları",
+        "C": "Komisyon kararlarına karşı yapılacak itirazların süresi ve usulü",
+        "D": "Rayiç bedel tayini ve satış esasları",
+        "E": "Komisyonun teşkili ile çalışma ve karar verme usulleri"
+      },
+      "dogru_cevap": "C",
+      "gerekce": "Doğru cevap, Ek Madde 15'te yönetmelikle belirleneceği belirtilen hususlar arasında komisyon kararlarına karşı yapılacak itirazların süresi ve usulünün sayılmamış olmasına dayanmaktadır. Bu konu kanunda doğrudan düzenlenmiştir.\n- Diğer seçeneklerde yer alan konuların tamamı, Ek Madde 15'te açıkça 'bir yönetmelikle belirlenir' hükmü kapsamında sayıldığı için yanlıştır."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, komisyonun teşkili, köy yerleşme planı ve satış esasları gibi çeşitli hususları düzenlemek üzere çıkarılacak yönetmelikte aşağıdakilerden hangisinin yer alması öngörülmemiştir?",
+      "secenekler": {
+        "A": "İhtiyaç sahiplerinde aranan vasıflar",
+        "B": "Taşınmaz malların amaca uygun kullanılma esasları",
+        "C": "Köy tüzelkişiliği adına yapılacak tesciller",
+        "D": "Rayiç bedel tayini ve satış esasları",
+        "E": "Köy muhtarı ve ihtiyar meclisi üyelerinin disiplin cezaları"
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Ek Madde 15'te yönetmelikle düzenleneceği belirtilen hususlar arasında 'köy muhtarı ve ihtiyar meclisi üyelerinin disiplin cezaları'nın yer almamasına dayanmaktadır.\n- Diğer seçeneklerde belirtilen konular; ihtiyaç sahiplerinin vasıfları, taşınmazların kullanımı, tesciller ve rayiç bedel tayini gibi hususlar, maddede açıkça yönetmeliğin kapsamına dahil edilmiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, güvenlik korucuları ile korucu başlarının görevlendirme şekilleri, görevleri ve disiplin cezaları gibi hususlara ilişkin uygulamaları düzenleyen yönetmeliği çıkarma yetkisi aşağıdakilerden hangisine aittir?",
+      "secenekler": {
+        "A": "İçişleri Bakanlığı",
+        "B": "Tarım Orman ve Köyişleri Bakanlığı",
+        "C": "Milli Savunma Bakanlığı",
+        "D": "Tapu ve Kadastro Genel Müdürlüğü",
+        "E": "Cumhurbaşkanı"
+      },
+      "dogru_cevap": "E",
+      "gerekce": "Doğru cevap, Ek Madde 18'de belirtilen '...uygulamalar Cumhurbaşkanınca çıkarılacak bir yönetmelikle düzenlenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen bakanlıklar veya kurumların bu özel yönetmeliği çıkarma yetkisi bulunmamaktadır. Tarım Orman ve Köyişleri Bakanlığı ile Tapu ve Kadastro Genel Müdürlüğü'nün yönetmelik hazırlama görevi, kanunun başka maddelerinde farklı konular için düzenlenmiştir."
+    },
+    {
+      "soru": "442 Sayılı Köy Kanunu'na göre, diğer mevzuatta geçen “geçici köy korucusu” ibaresinden anlaşılması gereken kavram aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "güvenlik korucusu",
+        "B": "gönüllü güvenlik korucusu",
+        "C": "korucu başı",
+        "D": "köy muhafızı",
+        "E": "silahlı köy bekçisi"
+      },
+      "dogru_cevap": "A",
+      "gerekce": "Doğru cevap, Ek Madde 19'da belirtilen 'Diğer mevzuatta geçen “geçici köy korucusu” ibarelerinden “güvenlik korucusu” ... anlaşılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda \"geçici köy korucusu\" ibaresinin karşılığı olarak tanımlanmadığı için yanlıştır. B seçeneğindeki \"gönüllü güvenlik korucusu\" ise \"gönüllü köy korucusu\" ibaresinin karşılığıdır."
+    }
+  ]
+}

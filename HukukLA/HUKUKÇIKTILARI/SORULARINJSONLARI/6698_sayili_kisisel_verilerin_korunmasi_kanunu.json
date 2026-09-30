@@ -1,0 +1,1264 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, veri sorumlusu, ilgili kişinin başvurusunda yer alan talepleri, talebin niteliğine göre en geç ne kadar süre içinde sonuçlandırmak zorundadır?",
+            "secenekler": {
+                "A": "15 gün",
+                "B": "30 gün",
+                "C": "45 gün",
+                "D": "60 gün",
+                "E": "90 gün"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, 'Veri sorumlusuna başvuru' başlıklı 13. maddede yer alan '...talepleri, talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde ücretsiz olarak sonuçlandırır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kanunda belirtilen kabahatlerin kamu kurum ve kuruluşları bünyesinde işlenmesi hâlinde uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlgili kamu kurumuna doğrudan idari para cezası verilir.",
+                "B": "Kurulun bildirimi üzerine ilgili görevliler hakkında disiplin hükümlerine göre işlem yapılır.",
+                "C": "Sorumlu kamu görevlisine 25.000 Türk lirasından 1.000.000 Türk lirasına kadar idari para cezası verilir.",
+                "D": "Kurul tarafından ilgili kamu görevlisinin görevine son verilir.",
+                "E": "İlgili kamu kurumunun üst yöneticisi hakkında soruşturma başlatılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, 'Kabahatler' başlıklı 18. maddede yer alan '...eylemlerin kamu kurum ve kuruluşları ... bünyesinde işlenmesi hâlinde, Kurulun yapacağı bildirim üzerine, ilgili kamu kurum ve kuruluşunda görev yapan memurlar ve diğer kamu görevlileri ... hakkında disiplin hükümlerine göre işlem yapılır...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, ilgili kişinin başvurusuna istinaden veri sorumlusu tarafından alınan ücretin iade edilmesi hangi durumda söz konusu olur?",
+            "secenekler": {
+                "A": "Başvurunun reddedilmesi hâlinde.",
+                "B": "Başvurunun elektronik ortamda yapılması hâlinde.",
+                "C": "Başvurunun veri sorumlusunun hatasından kaynaklanması hâlinde.",
+                "D": "Başvurunun otuz gün içinde sonuçlandırılamaması hâlinde.",
+                "E": "Başvuruya konu işlemin maliyet gerektirmemesi hâlinde."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Veri sorumlusuna başvuru' başlıklı 13. maddede yer alan 'Başvurunun veri sorumlusunun hatasından kaynaklanması hâlinde alınan ücret ilgiliye iade edilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, veri güvenliğine ilişkin yükümlülükleri yerine getirmeyenler hakkında uygulanacak idari para cezası tutarı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "5.000 Türk lirasından 100.000 Türk lirasına kadar",
+                "B": "15.000 Türk lirasından 1.000.000 Türk lirasına kadar",
+                "C": "20.000 Türk lirasından 1.000.000 Türk lirasına kadar",
+                "D": "25.000 Türk lirasından 1.000.000 Türk lirasına kadar",
+                "E": "50.000 Türk lirasından 1.000.000 Türk lirasına kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, 'Kabahatler' başlıklı 18. maddede yer alan '...veri güvenliğine ilişkin yükümlülükleri yerine getirmeyenler hakkında 15.000 Türk lirasından 1.000.000 Türk lirasına kadar... idari para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, aşağıdakilerden hangisi ilgili kişinin açık rızası aranmaksızın kişisel verilerinin işlenmesinin mümkün olduğu durumlardan biri değildir?",
+            "secenekler": {
+                "A": "Veri sorumlusunun hukuki bir yükümlülüğünü yerine getirmesi için zorunlu olması.",
+                "B": "Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması.",
+                "C": "İlgili kişinin kendisi tarafından verilerin alenileştirilmiş olması.",
+                "D": "Veri sorumlusunun ticari çıkarlarını korumak amacıyla veri işlenmesinin gerekli olması.",
+                "E": "Bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, MADDE 5'te sayılan açık rıza aranmaksızın veri işleme şartları arasında 'veri sorumlusunun ticari çıkarları' gibi bir durum yer almamaktadır. İlgili hüküm, 'ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması' şeklindedir."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan bir kişinin kişisel verilerinin, açık rızası olmaksızın işlenebilmesi için aşağıdaki şartlardan hangisinin birlikte gerçekleşmesi zorunludur?",
+            "secenekler": {
+                "A": "Veri işlemenin kanunlarda açıkça öngörülmüş olması.",
+                "B": "Veri işlemenin, kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması.",
+                "C": "Verilerin, ilgili kişinin kendisi tarafından daha önce alenileştirilmiş olması.",
+                "D": "Veri işlemenin, veri sorumlusunun meşru menfaatleri için gerekli olması.",
+                "E": "Veri işlemenin, bir hakkın tesisi veya korunması için zorunlu olması."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, MADDE 5'te belirtilen 'Fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan ... kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması' hükmüne dayanmaktadır. Bu hüküm, fiili imkânsızlık halini doğrudan hayat veya beden bütünlüğünün korunması zorunluluğuna bağlamaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Başkanlık bünyesinde kurulabilecek daire başkanlıklarının sayısı en fazla kaç olabilir?",
+            "secenekler": {
+                "A": "5",
+                "B": "6",
+                "C": "7",
+                "D": "8",
+                "E": "10"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Başkanlığın oluşumu ve görevleri başlıklı maddede belirtilen 'Daire başkanlıklarının sayısı yediyi geçemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, aşağıdakilerden hangisi veya hangileri Başkanlığın görevleri arasında yer alır?\n\nI. Veri Sorumluları Sicilini tutmak.\nII. Kurumun stratejik plan taslağını hazırlamak.\nIII. Kuruma ait taşınır ve taşınmazların kayıtlarını tutmak.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Başkanlığın oluşumu ve görevleri başlıklı maddede sayılan görevlerden olan 'Veri Sorumluları Sicilini tutmak', 'Kurumun stratejik plan taslağını hazırlamak' ve 'Kuruma ait taşınır ve taşınmazların kayıtlarını tutmak' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Veri işleyen",
+                "B": "İlgili kişi",
+                "C": "Veri sorumlusu",
+                "D": "Kurul",
+                "E": "Başkan"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3'teki 'Tanımlar'da belirtilen 'Veri sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işlenmesiyle ilgili olarak;\n\nI. verilerin elde edilmesi,\nII. verilerin sınıflandırılması,\nIII. verilerin kullanılmasının engellenmesi\n\neylemlerinden hangisi veya hangileri 'kişisel verilerin işlenmesi' tanımı kapsamındadır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3'teki 'Tanımlar'da yer alan 'Kişisel verilerin işlenmesi' tanımında belirtilen 'elde edilmesi, ... sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemi' ifadesine dayanmaktadır. Sayılan tüm öncüller bu tanım kapsamında yer almaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, aşağıdakilerden hangisi Kurum Başkanının atama yetkisi kapsamında yer alır?",
+            "secenekler": {
+                "A": "Sadece daire başkanlarını ve Kurul üyelerini atamak",
+                "B": "İkinci Başkanı ve daire başkanlarını atamak",
+                "C": "Başkan Yardımcısını, daire başkanlarını ve Kurum personelini atamak",
+                "D": "Sadece Kurum personelini ve Kurul üyelerini atamak",
+                "E": "Başkan Yardımcısını ve Kurul üyelerini atamak"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Başkanlığın oluşumu ve görevleri başlıklı maddede Başkanın görevleri arasında sayılan 'Başkan Yardımcısını, daire başkanlarını ve Kurum personelini atamak.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurum Başkanının görev ve sorumlulukları ile ilgili olarak;\nI. Kurul toplantılarını idare etmek\nII. Kurumun yıllık bütçesi ile mali tablolarını hazırlamak\n⁠⁠III. Yokluğunda yerine vekalet edecek kişiyi belirlemek.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Başkanlığın oluşumu ve görevleri başlıklı maddede Başkanın görevleri arasında 'Kurul toplantılarını idare etmek' ve 'Kurumun yıllık bütçesi ile mali tablolarını hazırlamak' sayılmıştır. Başkana vekalet etme görevi ise metne göre İkinci Başkana aittir."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurul tarafından verilen kararları yerine getirmeyenler hakkında uygulanacak idari para cezasının alt ve üst limitleri aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "5.000 Türk lirasından 100.000 Türk lirasına kadar",
+                "B": "15.000 Türk lirasından 1.000.000 Türk lirasına kadar",
+                "C": "25.000 Türk lirasından 1.000.000 Türk lirasına kadar",
+                "D": "20.000 Türk lirasından 1.000.000 Türk lirasına kadar",
+                "E": "50.000 Türk lirasından 1.000.000 Türk lirasına kadar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kabahatler başlıklı maddede, Kurul tarafından verilen kararları yerine getirmeyenler hakkında '25.000 Türk lirasından 1.000.000 Türk lirasına kadar' idari para cezası verileceğinin belirtilmesine dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kişisel Verileri Koruma Kurumu ile ilgili aşağıdakilerden hangisi veya hangileri doğrudur?\n\nI. İdari ve mali özerkliğe sahiptir.\nII. Kurumun merkezi İstanbul’dadır.\nIII. Kurumun karar organı Başkanlıktır.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Kişisel Verileri Koruma Kurumu başlıklı maddede Kurumun 'idari ve mali özerkliğe sahip' olduğunun belirtilmesine dayanmaktadır. Aynı maddede Kurumun merkezinin Ankara'da olduğu ve karar organının Kurul olduğu belirtildiği için II ve III numaralı öncüller yanlıştır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kişisel verileri silme veya anonim hâle getirme yükümlülüğüne aykırı davrananlar hakkında hangi kanun uyarınca işlem yapılır?",
+            "secenekler": {
+                "A": "Kabahatler Kanunu",
+                "B": "Devlet Memurları Kanunu",
+                "C": "Borçlar Kanunu",
+                "D": "Türk Ceza Kanunu",
+                "E": "İdari Yargılama Usulü Kanunu"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Suçlar başlıklı maddede yer alan '...kişisel verileri silmeyen veya anonim hâle getirmeyenler 5237 sayılı Kanunun 138 inci maddesine göre cezalandırılır.' hükmüne dayanmaktadır. Metinde referans verilen kanun Türk Ceza Kanunu'dur."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, özel nitelikli kişisel verilerin işlenmesinde, kanunda sayılan işleme şartlarından birinin varlığına ek olarak yerine getirilmesi gereken zorunlu şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Veri sorumlusunun Kurul'a yıllık rapor sunması",
+                "B": "Verilerin yurt içindeki sunucularda saklanması",
+                "C": "Kurul tarafından belirlenen yeterli önlemlerin alınması",
+                "D": "İşleme faaliyetinin bir avukat gözetiminde yapılması",
+                "E": "İlgili kişiye işleme sonrası yazılı bilgi verilmesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Özel nitelikli kişisel veriler' başlıklı Madde 6'da yer alan 'Özel nitelikli kişisel verilerin işlenmesinde, ayrıca Kurul tarafından belirlenen yeterli önlemlerin alınması şarttır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, siyasi, felsefi, dini veya sendikal amaçlarla kurulan vakıf ve dernek gibi kâr amacı gütmeyen kuruluşların, üyelerine veya mensuplarına yönelik özel nitelikli kişisel verileri işleyebilmesi için aşağıdakilerden hangisi veya hangileri gereklidir?\n\nI. Faaliyet alanlarıyla sınırlı olması\nII. Üçüncü kişilere açıklanmaması\nIII. Verilerin işlenmesi için Kurul'dan ön izin alınması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Özel nitelikli kişisel veriler' başlıklı Madde 6'da, kâr amacı gütmeyen kuruluşların veri işleme istisnası için '...tâbi oldukları mevzuata ve amaçlarına uygun olmak, faaliyet alanlarıyla sınırlı olmak ve üçüncü kişilere açıklanmamak kaydıyla...' şartlarının getirilmiş olmasına dayanmaktadır. Kurul'dan ön izin alınması bu şartlar arasında sayılmamıştır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kişisel verilere ilişkin suçlar bakımından hangi kanun hükümleri uygulanır?",
+            "secenekler": {
+                "A": "Türk Ticaret Kanunu",
+                "B": "Borçlar Kanunu",
+                "C": "Türk Ceza Kanunu",
+                "D": "Kabahatler Kanunu",
+                "E": "İcra ve İflas Kanunu"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, MADDE 17'de yer alan 'Kişisel verilere ilişkin suçlar bakımından ... Türk Ceza Kanununun ... madde hükümleri uygulanır.' ifadesine dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kişisel Verileri Koruma Kurulu üyelerinin görev süresi ve yeniden seçilme durumuyla ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Görev süresi dört yıldır ve süresi biten üye yeniden seçilemez.",
+                "B": "Görev süresi beş yıldır ve süresi biten üye yeniden seçilebilir.",
+                "C": "Görev süresi dört yıldır ve süresi biten üye yeniden seçilebilir.",
+                "D": "Görev süresi beş yıldır ve süresi biten üye yeniden seçilemez.",
+                "E": "Görev süresi altı yıldır ve sadece bir defalığına yeniden seçilebilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kişisel Verileri Koruma Kurulu başlıklı maddede belirtilen 'Kurul üyelerinin görev süresi dört yıldır. Süresi biten üye yeniden seçilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, üyeliği sona erdiren hallerden biri olan Kurul toplantılarına katılmama durumu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bir ay içinde izinsiz ve mazeretsiz olarak toplam beş toplantıya katılmamak.",
+                "B": "Bir yıl içinde toplam on beş Kurul toplantısına katılmamak.",
+                "C": "Kesintisiz olarak on gün süreyle toplantılara katılmamak.",
+                "D": " Bir ay içinde toplam üç, bir yıl içinde toplam on Kurul toplantısına izinsiz ve mazeretsiz olarak katılmamak. ",
+                "E": "Bir ay içinde izinsiz ve mazeretsiz olarak toplam iki toplantıya katılmamak."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Kişisel Verileri Koruma Kurulu başlıklı maddede belirtilen 'Bir ay içinde izinsiz ve mazeretsiz olarak toplam üç, bir yıl içinde toplam on Kurul toplantısına katılmadıklarının tespit edilmesi, hâllerinde Kurul kararıyla üyelikleri sona erer.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kişisel Verileri Koruma Kurumu, hazırladığı yıllık faaliyet raporunu hangi makamlara sunmakla görevlidir?",
+            "secenekler": {
+                "A": "Yalnızca Cumhurbaşkanlığına",
+                "B": "Cumhurbaşkanlığına ve Adalet Bakanlığına",
+                "C": "Türkiye Büyük Millet Meclisi Başkanlığına ve Yargıtay Başkanlığına",
+                "D": "Yalnızca Türkiye Büyük Millet Meclisi İnsan Haklarını İnceleme Komisyonuna",
+                "E": "Cumhurbaşkanlığına ve Türkiye Büyük Millet Meclisi İnsan Haklarını İnceleme Komisyonuna"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Kurumun görevleri başlıklı maddede belirtilen 'Yıllık faaliyet raporunu Cumhurbaşkanlığına, Türkiye Büyük Millet Meclisi İnsan Haklarını İnceleme Komisyonuna (...) sunmak.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, bir Kurul üyesinin, kendisini veya belirli derecedeki bir hısımını ilgilendiren konularda toplantı ve oylamaya katılması yasaklanmıştır. Aşağıdakilerden hangisi bu yasak kapsamına giren hısımlardan biri değildir?",
+            "secenekler": {
+                "A": "İkinci derece kan hısımı",
+                "B": "Birinci derece kayın hısımı",
+                "C": "Evlatlığı",
+                "D": "Dördüncü derece kan hısımı",
+                "E": "Aralarındaki evlilik bağı kalkmış olsa bile eşi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Kurulun çalışma esasları başlıklı maddede belirtilen 'Kurul üyeleri; kendilerini, üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımlarını, evlatlıklarını ve aralarındaki evlilik bağı kalkmış olsa bile eşlerini ilgilendiren konularla ilgili toplantı ve oylamaya katılamaz.' hükmüne dayanmaktadır. Metinde yasak kapsamı üçüncü dereceye kadar kan hısımları ile sınırlandırıldığından, dördüncü derece kan hısımları bu yasağın dışındadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, diğer kamu kurumlarından Kurumda geçici olarak görevlendirilen personelle ilgili olarak;\nI. Görevlendirme süresi en fazla iki yıldır.\nII. İhtiyaç hâlinde bu süre ikişer yıllık dönemler hâlinde uzatılabilir.\nIII. Bu şekilde görevlendirilenlerin sayısı, Kişisel Verileri Koruma Uzmanı ve Uzman Yardımcısı toplam kadro sayısının yüzde onunu aşamaz.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Personele ve özlük haklarına ilişkin hükümler başlıklı maddede belirtilen 'görevlendirme süresi iki yılı geçemez', 'ihtiyaç hâlinde bu süre bir yıllık dönemler hâlinde uzatılabilir' ve 'görevlendirilenlerin sayısı Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma Uzman Yardımcısı toplam kadro sayısının yüzde onunu aşamaz' hükümlerine dayanmaktadır. Bu nedenle I ve III numaralı öncüller doğru, II numaralı öncül ise yanlıştır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre;\nI. Veri sorumlusu ve varsa temsilcisinin kimlik ve adres bilgileri\nII. Kişisel verilerin işlendikleri amaç için gerekli olan azami süre\nIII. Veri işlemenin kanundan kaynaklandığına dair hukuki gerekçe\nIV. Kişisel veri güvenliğine ilişkin alınan tedbirler\nyukarıdakilerden hangileri Veri Sorumluları Siciline kayıt başvurusunda bulunulurken yapılan bildirimde yer alması gereken hususlardandır?",
+            "secenekler": {
+                "A": "I ve II",
+                "B": "II ve III",
+                "C": "I, II ve IV",
+                "D": "I, III ve IV",
+                "E": "I, II, III ve IV"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Veri Sorumluları Sicili' başlıklı maddede, sicile kayıt başvurusunun 'Veri sorumlusu ve varsa temsilcisinin kimlik ve adres bilgileri', 'Kişisel verilerin işlendikleri amaç için gerekli olan azami süre' ve 'Kişisel veri güvenliğine ilişkin alınan tedbirler' gibi hususları içeren bir bildirimle yapılacağının belirtilmesine dayanmaktadır. Veri işlemenin kanundan kaynaklanması, kayıt zorunluluğuna istisna getirilmesinde bir kriter olup, başvuru içeriğinde sayılmamıştır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Veri Sorumluları Siciline kayıt için sunulan bilgilerde bir değişiklik olması durumunda izlenmesi gereken yol aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Değişiklikler, her takvim yılı sonunda Kurula toplu olarak bildirilir.",
+                "B": "Değişiklikler, meydana geldikten sonra makul bir süre içinde Başkanlığa bildirilir.",
+                "C": "Değişiklikler, meydana geldikten sonraki 30 gün içinde Kurula bildirilir.",
+                "D": "Değişiklikler, derhâl Başkanlığa bildirilir.",
+                "E": "Değişikliklerin bildirilmesi için ilgili yönetmeliğin yayımlanması beklenir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, 'Veri Sorumluları Sicili' başlıklı maddede yer alan 'verilen bilgilerde meydana gelen değişiklikler derhâl Başkanlığa bildirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre;\nI. Genel bütçeden yapılacak hazine yardımları\nII. Alınan bağış ve yardımlar\nIII. Kuruma ait taşınır ve taşınmazlardan elde edilen gelirler\nyukarıdakilerden hangisi veya hangileri Kurumun gelirleri arasında yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, 'Kurumun bütçesi ve gelirleri' başlığı altındaki maddede Kurumun gelirleri arasında 'Genel bütçeden yapılacak hazine yardımları', 'Alınan bağış ve yardımlar' ve 'Kuruma ait taşınır ve taşınmazlardan elde edilen gelirler' hükümlerinin tümünün sayılmış olmasına dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, veri sorumlusuna yaptığı başvurusu reddedilen veya cevabı yetersiz bulan ilgili kişi, veri sorumlusunun cevabını öğrendiği tarihten itibaren ve her hâlde başvuru tarihinden itibaren en geç kaçar gün içinde Kurula şikâyette bulunabilir?",
+            "secenekler": {
+                "A": "15 gün / 30 gün",
+                "B": "30 gün / 90 gün",
+                "C": "30 gün / 60 gün",
+                "D": "60 gün / 90 gün",
+                "E": "15 gün / 60 gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Kurula şikâyet' başlıklı maddede belirtilen '...ilgili kişi, veri sorumlusunun cevabını öğrendiği tarihten itibaren otuz ve her hâlde başvuru tarihinden itibaren altmış gün içinde Kurula şikâyette bulunabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurulun şikâyet üzerine veya resen yaptığı inceleme sonucunda;\nI. İhlalin varlığını tespit etmesi hâlinde, hukuka aykırılıkların giderilmesine karar verir ve bu kararın en geç otuz gün içinde yerine getirilmesini zorunlu kılar.\nII. Şikâyet tarihinden itibaren altmış gün içinde cevap vermezse şikâyet talebi reddedilmiş sayılır.\nIII. Telafisi güç zararların doğması hâlinde, veri işlenmesinin durdurulmasına karar verebilir.\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, 'Şikâyet üzerine veya resen incelemenin usul ve esasları' başlıklı maddede yer alan hükümlere dayanmaktadır. I, II ve III numaralı öncüllerde belirtilen tüm ifadeler ilgili maddede açıkça yer almaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurulun bir inceleme kapsamında istediği bilgi ve belgeleri, veri sorumlusu en geç kaç gün içinde göndermekle yükümlüdür?",
+            "secenekler": {
+                "A": "10 gün",
+                "B": "15 gün",
+                "C": "30 gün",
+                "D": "45 gün",
+                "E": "60 gün"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Şikâyet üzerine veya resen incelemenin usul ve esasları başlıklı maddede belirtilen '...veri sorumlusu, Kurulun, inceleme konusuyla ilgili istemiş olduğu bilgi ve belgeleri on beş gün içinde göndermek... zorundadır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurulun yaptığı inceleme sonucunda bir ihlalin varlığını tespit etmesi durumunda, hukuka aykırılıkların giderilmesi için verdiği kararın, veri sorumlusu tarafından tebliğden itibaren en geç ne kadar süre içinde yerine getirilmesi zorunludur?",
+            "secenekler": {
+                "A": "Derhâl ve en geç on beş gün",
+                "B": "Tebliğden itibaren altmış gün",
+                "C": "Gecikmeksizin ve en geç otuz gün",
+                "D": "Gecikmeksizin ve en geç altmış gün",
+                "E": "Tebliğden itibaren on beş gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Şikâyet üzerine veya resen incelemenin usul ve esasları başlıklı maddede belirtilen 'Bu karar, tebliğden itibaren gecikmeksizin ve en geç otuz gün içinde yerine getirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Veri Sorumluları Siciline kayıt başvurusunda bulunması gereken bildirimde aşağıdakilerden hangisinin veya hangilerinin yer alması zorunludur?\n\nI. Kişisel verilerin aktarılabileceği alıcı veya alıcı grupları\nII. Kişisel verilerin işlendikleri amaç için gerekli olan azami süre\nIII. Veri sorumlusunun son üç yıllık mali tabloları",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Veri Sorumluları Sicili' başlıklı maddede belirtilen kayıt başvurusunda bulunması gereken bildirim içeriğine dayanmaktadır. Metinde 'Kişisel verilerin aktarılabileceği alıcı veya alıcı grupları' ile 'Kişisel verilerin işlendikleri amaç için gerekli olan azami süre' sayılmışken, veri sorumlusunun mali tablolarına ilişkin bir zorunluluk belirtilmemiştir."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kişisel Verileri Koruma Kurulu üyeleri ile ilgili olarak;\n\nI. Dernek veya vakıflarda yöneticilik yapmaları\nII. Asli görevlerini aksatmamak kaydıyla bilimsel amaçlı yayın yapmaları\nIII. Ticaretle uğraşmaları\n\nifadelerinden hangisi veya hangileri, üyelere getirilen yasaklar kapsamındadır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, 'Kişisel Verileri Koruma Kurulu' başlıklı maddede yer alan 'Kurul üyeleri ... dernek, vakıf, kooperatif ve benzeri yerlerde yöneticilik yapamaz, ticaretle uğraşamaz... Ancak, Kurul üyeleri, asli görevlerini aksatmayacak şekilde bilimsel amaçlı yayın yapabilir...' hükümlerine dayanmaktadır. Bu nedenle dernekte yöneticilik ve ticaretle uğraşmak yasakken, bilimsel yayın yapmak bir istisnadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Başkan Yardımcısı ve daire başkanlarının atanabilmesi için aranan hizmet süresi ve öğrenim durumu aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "En az beş yıl kamu hizmeti, en az iki yıllık yükseköğretim kurumu mezuniyeti",
+                "B": "En az on yıl kamu hizmeti, en az dört yıllık yükseköğretim kurumu mezuniyeti",
+                "C": "En az yedi yıl kamu hizmeti, en az dört yıllık yükseköğretim kurumu mezuniyeti",
+                "D": "En az on yıl kamu hizmeti, lisansüstü eğitim mezuniyeti",
+                "E": "En az on iki yıl kamu hizmeti, en az dört yıllık yükseköğretim kurumu mezuniyeti"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Başkanlığın oluşumu ve görevleri başlıklı 25'inci maddede belirtilen 'Başkan Yardımcısı ve daire başkanları; en az dört yıllık yükseköğretim kurumu mezunu, on yıl süreyle kamu hizmetinde bulunan kişiler arasından Başkan tarafından atanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kişisel verilerin aktarılmasıyla ilgili temel kural aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Veriler, sadece kamu kurumlarına serbestçe aktarılabilir.",
+                "B": "Verilerin aktarılması için her durumda mahkeme kararı gerekir.",
+                "C": "Veriler, ilgili kişinin açık rızası olmaksızın aktarılamaz.",
+                "D": "Verilerin aktarılmasına ilişkin tüm yetki Kişisel Verileri Koruma Kurulu'ndadır.",
+                "E": "Veriler, yeterli önlemler alındığı sürece rıza aranmaksızın daima aktarılabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Kişisel veriler, ilgili kişinin açık rızası olmaksızın aktarılamaz.' hükmüne dayanmaktadır. Bu, veri aktarımının ana ilkesini ve temel kuralını oluşturur."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kişisel verilerin aktarılmasına ilişkin diğer kanunlarda yer alan hükümlerin statüsü hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu Kanun ile tamamen yürürlükten kaldırılmıştır.",
+                "B": "Uygulanabilmesi için Kurul tarafından onaylanması gerekir.",
+                "C": "Yalnızca özel nitelikli kişisel veriler için geçerliliğini korur.",
+                "D": "Bu Kanun'un hükümleriyle çelişmedikleri sürece uygulanır.",
+                "E": "Bu hükümlerin geçerliliği saklı tutulmuştur."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 8'de yer alan 'Kişisel verilerin aktarılmasına ilişkin diğer kanunlarda yer alan hükümler saklıdır.' ifadesine dayanmaktadır. Bu ifade, diğer kanunlardaki ilgili düzenlemelerin geçerliliğini koruduğunu belirtir."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, veri sorumlusuna yapılan başvurunun reddedilmesi halinde ilgili kişinin Kurula şikâyette bulunma süresiyle ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Veri sorumlusunun cevabını öğrendiği tarihten itibaren on beş gün içinde şikâyette bulunabilir.",
+                "B": "Başvuru tarihinden itibaren her hâlde otuz gün içinde şikâyette bulunabilir.",
+                "C": "Veri sorumlusunun cevabını öğrendiği tarihten itibaren otuz gün içinde şikâyette bulunabilir.",
+                "D": "Başvuru tarihinden itibaren her hâlde doksan gün içinde şikâyette bulunabilir.",
+                "E": "Veri sorumlusunun cevabını öğrendiği tarihten itibaren altmış gün içinde şikâyette bulunabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kurula şikâyet başlıklı maddede belirtilen '...ilgili kişi, veri sorumlusunun cevabını öğrendiği tarihten itibaren otuz ve her hâlde başvuru tarihinden itibaren altmış gün içinde Kurula şikâyette bulunabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, aşağıdakilerden hangisi veya hangileri Kurum Başkanının görevleri arasında yer alır?\n\nI. Kurumun yıllık bütçesi ile mali tablolarını hazırlamak.\nII. Veri Sorumluları Sicilini tutmak.\nIII. Kurul toplantılarını idare etmek.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, 'Başkan' başlıklı maddede, 'Kurumun yıllık bütçesi ile mali tablolarını hazırlamak' ve 'Kurul toplantılarını idare etmek' görevlerinin sayılmasına dayanmaktadır. 'Veri Sorumluları Sicilini tutmak' ise Başkanlığın görevleri arasında yer almaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kişisel veri işlemenin suç işlenmesinin önlenmesi veya suç soruşturması için gerekli olması durumunda, aşağıdaki yükümlülüklerden hangisi veya hangileri uygulanmaz?\n\nI. Veri sorumlusunun aydınlatma yükümlülüğü\nII. Veri Sorumluları Siciline kayıt yükümlülüğü\nIII. Zararın giderilmesini talep etme hakkı",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'veri sorumlusunun aydınlatma yükümlülüğünü düzenleyen 10 uncu, zararın giderilmesini talep etme hakkı hariç, ilgili kişinin haklarını düzenleyen 11 inci ve Veri Sorumluları Siciline kayıt yükümlülüğünü düzenleyen 16 ncı maddeleri aşağıdaki hâllerde uygulanmaz' hükmüne dayanmaktadır. Bu hükme göre zararın giderilmesini talep etme hakkı istisnanın kapsamı dışındadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kişisel verilerin sanat, tarih, edebiyat veya bilimsel amaçlarla işlenmesinin Kanun hükümleri dışında kalabilmesi için aranan şartlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Millî güvenliği ihlal etmemek",
+                "B": "Kamu düzenini ihlal etmemek",
+                "C": "Özel hayatın gizliliğini ihlal etmemek",
+                "D": "Suç teşkil etmemek",
+                "E": "Kurumdan ön izin almak"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'kişisel verilerin millî savunmayı, millî güvenliği, kamu güvenliğini, kamu düzenini, ekonomik güvenliği, özel hayatın gizliliğini veya kişilik haklarını ihlal etmemek ya da suç teşkil etmemek kaydıyla' sanat, tarih gibi amaçlarla işlenmesi hükmüne dayanmaktadır. Metinde Kurumdan ön izin alınması gibi bir şart bulunmamaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurumda geçici olarak görevlendirilenlerin sayısı, hangi kadro sayısının belirli bir oranını aşamaz?",
+            "secenekler": {
+                "A": "Toplam personel sayısının yüzde beşini",
+                "B": "Daire başkanı ve üstü kadroların toplam sayısının yüzde onunu",
+                "C": "Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma Uzman Yardımcısı toplam kadro sayısının yüzde yirmisini",
+                "D": "Tüm memur kadroları toplamının yüzde on beşini",
+                "E": "Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma Uzman Yardımcısı toplam kadro sayısının yüzde onunu"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, MADDE 27 Personele ve özlük haklarına ilişkin hükümler'de belirtilen 'Bu şekilde görevlendirilenlerin sayısı Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma Uzman Yardımcısı toplam kadro sayısının yüzde onunu aşamaz...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, bu Kanunun temel amacı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kamu kurumları arasındaki veri akışını hızlandırmak ve düzenlemek.",
+                "B": "Ticari şirketlerin müşteri verilerini daha etkin kullanmasını sağlamak.",
+                "C": "Kişilerin temel hak ve özgürlüklerini korumak ve veri işleyenlerin yükümlülüklerini düzenlemek.",
+                "D": "Yabancı uyruklu kişilerin Türkiye'deki verilerinin yurt dışına aktarılmasını engellemek.",
+                "E": "Veri işleyen gerçek ve tüzel kişilere yönelik idari yaptırımları belirlemek."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Amaç başlıklı maddede belirtilen 'Bu Kanunun amacı, kişisel verilerin işlenmesinde başta özel hayatın gizliliği olmak üzere kişilerin temel hak ve özgürlüklerini korumak ve kişisel verileri işleyen gerçek ve tüzel kişilerin yükümlülükleri ile uyacakları usul ve esasları düzenlemektir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, bu Kanun hükümleri, kişisel verileri hangi yollarla işleyen gerçek ve tüzel kişiler hakkında uygulanır?",
+            "secenekler": {
+                "A": "Sadece tam otomatik yollarla işleyenler",
+                "B": "Sadece otomatik olmayan yollarla işleyenler",
+                "C": "Sadece bir veri kayıt sisteminin parçası olmadan işleyenler",
+                "D": "Tamamen veya kısmen otomatik olan ya da bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleyenler",
+                "E": "Sadece kamuya açık verileri işleyenler"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Kapsam başlıklı maddede belirtilen '...bu verileri tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleyen gerçek ve tüzel kişiler hakkında uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, 'anonim hâle getirme'nin tanımı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kişisel verilerin yalnızca yetkili personel tarafından erişilebilir kılınmasıdır.",
+                "B": "Kişisel verilerin belirli bir süre sonunda geri döndürülemez şekilde silinmesidir.",
+                "C": "Kişisel verilerin işleme amaçları ortadan kalktığında şifrelenerek saklanmasıdır.",
+                "D": "Kişisel verilerin, başka verilerle eşleştirilse dahi kimliği belirli bir kişiyle ilişkilendirilemeyecek hâle getirilmesidir.",
+                "E": "Kişisel verilerin ilgili kişinin talebi üzerine üçüncü kişilere aktarılmasının engellenmesidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Tanımlar başlıklı maddede belirtilen 'Anonim hâle getirme: Kişisel verilerin, başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hâle getirilmesini' ifade eder hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurul üyelerinin, kendilerini veya yakınlarını ilgilendiren konulardaki toplantı ve oylamaya katılamama yasağı, aşağıda sayılan kişilerden hangisini veya hangilerini kapsar?\n\nI. Üçüncü dereceye kadar kan hısımlarını\nII. Aralarındaki evlilik bağı kalkmış olsa bile eşlerini\nIII. Üçüncü dereceye kadar kayın hısımlarını",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kurulun çalışma esasları'nı düzenleyen maddede yer alan 'Kurul üyeleri; kendilerini, üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımlarını, evlatlıklarını ve aralarındaki evlilik bağı kalkmış olsa bile eşlerini ilgilendiren konularla ilgili toplantı ve oylamaya katılamaz.' hükmüne dayanmaktadır. Metinde kayın hısımlığı için ikinci derece sınırı belirtildiğinden III. öncül yanlıştır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, ilgili kişinin veri sorumlusuna başvurarak talep edebileceği haklar arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme.\nII. Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle uğradığı zararın giderilmesini talep etme.\nIII. Veri sorumlusunun kendi kurumunda yaptığı denetimlerin sonuçlarını isteme.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, İlgili kişinin hakları başlıklı maddede sayılan haklardan 'Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme' ve 'Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme' hükümlerine dayanmaktadır. Veri sorumlusunun denetim sonuçlarını isteme hakkı bu maddede sayılmamıştır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, 'açık rıza'nın geçerli sayılabilmesi için aşağıdaki unsurlardan hangisini veya hangilerini taşıması gerekir?\n\nI. Belirli bir konuya ilişkin olması\nII. Bilgilendirilmeye dayanması\nIII. Özgür iradeyle açıklanması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, MADDE 3'te yer alan 'Açık rıza' tanımında belirtilen 'Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı' ifadesindeki tüm unsurları içermektedir."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, hâkimler ve savcıların Kurumda geçici olarak görevlendirilebilmesi için aranan temel şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Görev yaptıkları kurumlarının muvafakati",
+                "B": "Adalet Bakanlığının onayı",
+                "C": "Kişisel Verileri Koruma Kurulunun kararı",
+                "D": "Hâkimler ve Savcılar Kurulunun izni",
+                "E": "Kendilerinin muvafakati"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Personele ve özlük haklarına ilişkin hükümler başlıklı maddede belirtilen '...hâkimler ve savcılar ise kendilerinin muvafakati ile aylık, ödenek, her türlü zam ve tazminatlar ile diğer mali ve sosyal hak ve yardımları kurumlarınca ödenmek kaydıyla geçici olarak Kurumda görevlendirilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, aşağıdakilerden hangisi veya hangileri Kanun hükümlerinin bütünüyle uygulanmayacağı istisnai durumlar arasında yer alır?\n\nI. Kişisel verilerin, üçüncü kişilere verilmemek kaydıyla gerçek kişiler tarafından tamamen kendisiyle veya aynı konutta yaşayan aile fertleriyle ilgili faaliyetler kapsamında işlenmesi.\nII. Kişisel verilerin resmi istatistik ile anonim hâle getirilmek suretiyle araştırma ve planlama gibi amaçlarla işlenmesi.\nIII. Kişisel verilerin soruşturma, kovuşturma veya yargılama işlemlerine ilişkin olarak yargı makamları tarafından işlenmesi.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, İstisnalar başlıklı maddede sayılan Kanun hükümlerinin uygulanmayacağı haller arasında; kişisel verilerin gerçek kişilerce ailevi faaliyetler kapsamında işlenmesi, anonimleştirilerek istatistiki amaçlarla işlenmesi ve yargı makamlarınca soruşturma gibi işlemler için işlenmesinin yer almasına dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurumda geçici olarak görevlendirme yapılabilmesi için gereken muvafakat (onay) şartı aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Tüm kamu görevlileri için yalnızca kendi kurumlarının muvafakati gerekir.",
+                "B": "Tüm kamu görevlileri için yalnızca kendilerinin muvafakati gerekir.",
+                "C": "Memurlar için kurumlarının, hâkimler ve savcılar için ise kendilerinin muvafakati gerekir.",
+                "D": "Hâkimler ve savcılar için kurumlarının, memurlar için ise kendilerinin muvafakati gerekir.",
+                "E": "Tüm geçici görevlendirmeler için Adalet Bakanlığının onayı yeterlidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen '...diğer kamu görevlileri kurumlarının muvafakati, hâkimler ve savcılar ise kendilerinin muvafakati ile...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, gerçek kişiler tarafından tamamen kendisiyle veya aynı konutta yaşayan aile fertleriyle ilgili faaliyetler kapsamında kişisel verilerin işlenmesinin Kanun kapsamı dışında kalması için aşağıdakilerden hangisi bir arada sağlanmalıdır?",
+            "secenekler": {
+                "A": "Verilerin anonim hale getirilmesi ve istatistiki amaçla kullanılması",
+                "B": "Verilerin üçüncü kişilere verilmemesi ve veri güvenliğine ilişkin yükümlülüklere uyulması",
+                "C": "Verilerin sadece sanatsal amaçlarla işlenmesi ve kamu düzenini ihlal etmemesi",
+                "D": "İlgili kişinin açık rızasının alınması ve verilerin yurt dışına aktarılmaması",
+                "E": "Verilerin soruşturma işlemleri için gerekli olması ve yargı makamlarınca işlenmesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Kişisel verilerin, üçüncü kişilere verilmemek ve veri güvenliğine ilişkin yükümlülüklere uyulmak kaydıyla gerçek kişiler tarafından tamamen kendisiyle veya aynı konutta yaşayan aile fertleriyle ilgili faaliyetler kapsamında işlenmesi.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kanunun uygulanmasına ilişkin yönetmelikleri yürürlüğe koyma yetkisi kime aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Cumhurbaşkanı",
+                "C": "Kurum",
+                "D": "Türkiye Büyük Millet Meclisi",
+                "E": "İlgili bakanlıklar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Yönetmelik' başlıklı 31'inci maddede belirtilen 'Bu Kanunun uygulanmasına ilişkin yönetmelikler Kurum tarafından yürürlüğe konulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kanun'da yürürlüğe girişi için özel bir süre öngörülen maddeler, yayımı tarihinden ne kadar süre sonra yürürlüğe girer?",
+            "secenekler": {
+                "A": "Bir ay sonra",
+                "B": "Üç ay sonra",
+                "C": "Altı ay sonra",
+                "D": "Dokuz ay sonra",
+                "E": "Bir yıl sonra"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, ‘Yürürlük' başlıklı 32'nci maddede belirtilen '...maddeleri yayımı tarihinden altı ay sonra...yürürlüğe girer.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kanun'da özel olarak belirtilen bazı maddeler dışındaki diğer maddeler ne zaman yürürlüğe girer?",
+            "secenekler": {
+                "A": "Yayımı tarihinden üç ay sonra",
+                "B": "Yayımı tarihinden altı ay sonra",
+                "C": "Mali yılbaşında",
+                "D": "Yayımı tarihinde",
+                "E": "Cumhurbaşkanı onayıyla belirlenen tarihte"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, ‘Yürürlük’ başlıklı 32'nci maddede belirtilen 'Diğer maddeleri ise yayımı tarihinde, yürürlüğe girer.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kişisel verilerin işlenmesinde;\nI. Belirli, açık ve meşru amaçlar için işlenme\nII. İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma\nIII. İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme\nilkelerinden hangisine veya hangilerine uyulması zorunludur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Genel ilkeler başlıklı maddede kişisel verilerin işlenmesinde uyulması zorunlu ilkeler arasında 'Belirli, açık ve meşru amaçlar için işlenme', 'İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma' ve 'İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme' hükümlerinin tümünün sayılmasına dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Veri Sorumluları Siciline kayıt ve bildirim yükümlülüğüne aykırı hareket edenler hakkında uygulanacak idari para cezasının alt ve üst sınırı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "5.000 Türk lirasından 100.000 Türk lirasına kadar",
+                "B": "15.000 Türk lirasından 1.000.000 Türk lirasına kadar",
+                "C": "25.000 Türk lirasından 1.000.000 Türk lirasına kadar",
+                "D": "20.000 Türk lirasından 1.000.000 Türk lirasına kadar",
+                "E": "50.000 Türk lirasından 1.000.000 Türk lirasına kadar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Kabahatler başlıklı 18'inci maddede belirtilen '16 ncı maddesinde öngörülen Veri Sorumluları Siciline kayıt ve bildirim yükümlülüğüne aykırı hareket edenler hakkında 20.000 Türk lirasından 1.000.000 Türk lirasına kadar ... idari para cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurul tarafından verilen ve kişisel verilerin yurt dışına aktarılmasına imkân tanıyan yeterlilik kararı, en geç ne kadar sürede bir değerlendirilir?",
+            "secenekler": {
+                "A": "Her yıl",
+                "B": "İki yılda bir",
+                "C": "Üç yılda bir",
+                "D": "Dört yılda bir",
+                "E": "Beş yılda bir"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Kişisel verilerin yurt dışına aktarılması başlıklı maddede yer alan 'Yeterlilik kararı, en geç dört yılda bir değerlendirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, yurt dışına veri aktarımı için kullanılan standart sözleşmenin, imzalanmasından itibaren ne kadar süre içinde Kuruma bildirilmesi zorunludur?",
+            "secenekler": {
+                "A": "Üç iş günü",
+                "B": "Beş iş günü",
+                "C": "Yedi gün",
+                "D": "On iş günü",
+                "E": "On beş gün"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Kişisel verilerin yurt dışına aktarılması başlıklı maddede yer alan 'Standart sözleşme, imzalanmasından itibaren beş iş günü içinde veri sorumlusu veya veri işleyen tarafından Kuruma bildirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, veri sorumlusu, kişisel verilerin kendi adına başka bir gerçek veya tüzel kişi tarafından işlenmesi hâlinde, veri güvenliğine ilişkin tedbirlerin alınması hususunda bu kişilerle birlikte nasıl bir sorumluluğa sahiptir?",
+            "secenekler": {
+                "A": "Sorumluluk tamamen veri işleyene aittir",
+                "B": "Sorumluluk tamamen veri sorumlusuna aittir",
+                "C": "Müştereken sorumludur",
+                "D": "Sadece idari tedbirlerden birlikte sorumludur",
+                "E": "Kurulun belirleyeceği oranda sorumludur"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Veri güvenliğine ilişkin yükümlülükler başlıklı maddede yer alan 'Veri sorumlusu, kişisel verilerin kendi adına başka bir gerçek veya tüzel kişi tarafından işlenmesi hâlinde, birinci fıkrada belirtilen tedbirlerin alınması hususunda bu kişilerle birlikte müştereken sorumludur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurumun görev alanına giren konularda iş birliği yapabileceği belirtilenler arasında;\nI. Sivil toplum kuruluşları\nII. Üniversiteler\nIII. Uluslararası kuruluşlar\nhangisi veya hangileri yer almaktadır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Kurumun görevleri başlıklı maddede yer alan '...görev alanına giren konularda kamu kurum ve kuruluşları, sivil toplum kuruluşları, meslek örgütleri veya üniversitelerle iş birliği yapmak.' ve '...görev alanına giren konularda uluslararası kuruluşlarla iş birliği yapmak...' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu işlem yalnızca ilgili kişinin talebi üzerine gerçekleştirilir.",
+                "B": "Bu işlem yalnızca Kurulun resen kararıyla gerçekleştirilir.",
+                "C": "Veri sorumlusu tarafından resen veya ilgili kişinin talebi üzerine gerçekleştirilir.",
+                "D": "İşleme ilişkin usul ve esaslar CBK ile düzenlenir.",
+                "E": "Veriler yalnızca silinir, yok edilme veya anonimleştirme seçenekleri bulunmaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi başlıklı maddede yer alan '...işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel veriler resen veya ilgili kişinin talebi üzerine veri sorumlusu tarafından silinir, yok edilir veya anonim hâle getirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Veri Sorumluları Siciline kayıt zorunluluğuna istisna getirme yetkisi kime aittir?",
+            "secenekler": {
+                "A": "Başkanlık",
+                "B": "Kurul",
+                "C": "Adalet Bakanlığı",
+                "D": "İlgili veri sorumlusu",
+                "E": "Ulaştırma ve Altyapı Bakanlığı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Veri Sorumluları Sicili başlıklı maddede belirtilen '...Kurulca belirlenecek objektif kriterler göz önüne alınmak suretiyle, Kurul tarafından, Veri Sorumluları Siciline kayıt zorunluluğuna istisna getirilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kişisel Verileri Koruma Kurumunun yıllık faaliyet raporunu sunmakla yükümlü olduğu merciler aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanlığı ve Adalet Bakanlığı",
+                "B": "Türkiye Büyük Millet Meclisi Başkanlığı ve Anayasa Mahkemesi",
+                "C": "Cumhurbaşkanlığı ve Türkiye Büyük Millet Meclisi İnsan Haklarını İnceleme Komisyonu",
+                "D": "Adalet Bakanlığı ve Danıştay Başkanlığı",
+                "E": "İçişleri Bakanlığı ve Yargıtay Başkanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kurumun görevleri başlıklı maddede yer alan 'Yıllık faaliyet raporunu Cumhurbaşkanlığına, Türkiye Büyük Millet Meclisi İnsan Haklarını İnceleme Komisyonuna ... sunmak.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, yurt dışına veri aktarımı için verilen yeterlilik kararıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kurul tarafından verilir ve Resmî Gazete’de yayımlanır.",
+                "B": "Kurul, ihtiyaç duyması halinde ilgili kurum ve kuruluşların görüşünü alabilir.",
+                "C": "En geç dört yılda bir Kurul tarafından değerlendirilir.",
+                "D": "Kurul tarafından verilen karar, geriye etkili olmak üzere değiştirilebilir.",
+                "E": "Değerlendirme sonucunda Kurul tarafından askıya alınabilir veya kaldırılabilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, MADDE 9'da yer alan 'Kurul, değerlendirme sonucunda veya gerekli gördüğü diğer hallerde, yeterlilik kararını ileriye etkili olmak üzere değiştirebilir, askıya alabilir veya kaldırabilir.' hükmüne dayanmaktadır. Metinde kararın geriye etkili olarak değiştirilebileceğine dair bir ifade bulunmamaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, işlenen kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi hâlinde, veri sorumlusunun bu durumu bildirmekle yükümlü olduğu merciler aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Sadece ilgili kişiye",
+                "B": "Sadece Kurula",
+                "C": "İlgili kişiye ve Kurula",
+                "D": "Kurula ve Cumhuriyet Savcılığına",
+                "E": "İlgili kişiye ve yetkili mahkemeye"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Veri güvenliğine ilişkin yükümlülükler başlıklı maddede belirtilen '...veri sorumlusu bu durumu en kısa sürede ilgilisine ve Kurula bildirir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kişisel Verileri Koruma Kurumu ile ilgili olarak;\n\nI. Kurumun merkezi Ankara’dadır.\nII. Kurumun karar organı Kuruldur.\nIII. Kurum, Cumhurbaşkanının görevlendireceği bakan ile ilişkilidir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, MADDE 19'da belirtilen 'Kurumun merkezi Ankara’dadır.', 'Kurumun karar organı Kuruldur.' ve 'Kurum Cumhurbaşkanının görevlendireceği bakan ile ilişkilidir.' hükümlerinin tümünün doğru olmasına dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurul'un inceleme konusuyla ilgili istediği bilgi ve belgeleri, devlet sırrı niteliğindekiler hariç, veri sorumlusunun Kurul'a göndermesi için tanınan süre ne kadardır?",
+            "secenekler": {
+                "A": "Yedi gün",
+                "B": "On beş gün",
+                "C": "Otuz gün",
+                "D": "Kırk beş gün",
+                "E": "Altmış gün"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, \nŞikâyet üzerine veya resen incelemenin usul ve esasları başlıklı maddede yer alan 'veri sorumlusu, Kurulun, inceleme konusuyla ilgili istemiş olduğu bilgi ve belgeleri on beş gün içinde göndermek... zorundadır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, şikâyet üzerine yapılan bir başvuruya Kurul tarafından şikâyet tarihinden itibaren altmış gün içinde cevap verilmemesinin hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Talep reddedilmiş sayılır.",
+                "B": "İnceleme süresi kendiliğinden otuz gün uzar.",
+                "C": "Veri sorumlusuna resen yaptırım uygulanır.",
+                "D": "Konu hakkında ilke kararı alınması zorunlu olur.",
+                "E": "Şikâyet, incelemeye alınmamış kabul edilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, \nŞikâyet üzerine veya resen incelemenin usul ve esasları başlıklı maddede yer alan 'Şikâyet tarihinden itibaren altmış gün içinde cevap verilmezse talep reddedilmiş sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurum Başkanının yokluğunda kendisine kim vekalet eder?",
+            "secenekler": {
+                "A": "İkinci Başkan",
+                "B": "Başkan Yardımcısı",
+                "C": "En kıdemli daire başkanı",
+                "D": "Kurulun kendi içinden seçtiği bir üye",
+                "E": "En kıdemli Kurum personeli"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, 'Başkan’ başlıklı maddede yer alan 'Kurum Başkanının yokluğunda İkinci Başkan, Başkana vekalet eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, 'veri sorumlusu'nu tanımlayan temel unsur aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işlemesi",
+                "B": "Kişisel verilerin işleme amaçlarını ve vasıtalarını belirlemesi",
+                "C": "Kişisel verilerin belirli kriterlere göre yapılandırıldığı bir sistemi kullanması",
+                "D": "Kişisel verisi işlenen gerçek kişi olması",
+                "E": "Verileri, başka verilerle eşleştirilemeyecek hâle getirmesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Tanımlar başlıklı maddede yer alan 'Veri sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi' tanımına dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, bu Kanun hükümlerinin otomatik olmayan yollarla veri işleyen gerçek ve tüzel kişiler hakkında uygulanabilmesi için aranan temel şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Verilerin ilgili kişinin açık rızasıyla alınmış olması",
+                "B": "Veri işlemenin bir veri kayıt sisteminin parçası olması",
+                "C": "Veri işleyenin bir kamu kurumu olması",
+                "D": "Verilerin yurt dışına aktarılmayacak olması",
+                "E": "Veri sorumlusunun Kurul tarafından atanmış olması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Kapsam başlıklı maddede yer alan '...herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleyen gerçek ve tüzel kişiler hakkında uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, belirli şartlar altında Kişisel Verileri Koruma Uzmanı kadrosuna atananlara bir defaya mahsus olmak üzere uygulanan derece yükseltmesi ne kadardır?",
+            "secenekler": {
+                "A": "İki derece",
+                "B": "Üç derece",
+                "C": "Bir derece",
+                "D": "Dört derece",
+                "E": "Beş derece"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Kişisel Verileri Koruma Uzmanı ve uzman yardımcıları’ başlıklı maddede belirtilen '...Kişisel Verileri Koruma Uzmanı kadrosuna atananlara bir defaya mahsus olmak üzere bir derece yükseltilmesi uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurumda istihdam edilebilecek uzman ve uzman yardımcısı unvanları aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Veri Güvenliği Uzmanı ve Veri Güvenliği Uzman Yardımcısı",
+                "B": "Bilgi Teknolojileri Uzmanı ve Bilgi Teknolojileri Uzman Yardımcısı",
+                "C": "Kurum Uzmanı ve Kurum Uzman Yardımcısı",
+                "D": "Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma Uzman Yardımcısı",
+                "E": "Mevzuat Uzmanı ve Mevzuat Uzman Yardımcısı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, 'Kişisel Verileri Koruma Uzmanı ve uzman yardımcıları’ başlıklı maddede belirtilen 'Kurumda, Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma Uzman Yardımcısı istihdam edilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması durumunda aşağıdakilerden hangisinin varlığı aranmaz?",
+            "secenekler": {
+                "A": "Veri işlemenin sözleşmenin ifasıyla ilgili olması",
+                "B": "İşlenen verilerin sözleşmenin taraflarına ait olması",
+                "C": "Veri işlemenin gerekli olması",
+                "D": "İlgili kişinin açık rızasının bulunması",
+                "E": "Veri işlemenin bir sözleşmenin kurulmasıyla ilgili olması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, 'Kişisel verilerin işlenme şartları' başlıklı Madde 5'te, bir sözleşmenin kurulması veya ifasıyla ilgili veri işlemenin gerekli olmasının, 'ilgili kişinin açık rızası aranmaksızın' kişisel verilerin işlenmesini mümkün kılan istisnai hallerden biri olarak sayılmasıdır. Bu nedenle bu durumda açık rıza aranmaz."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre;\nI. Kişinin dernek veya vakıf üyeliği\nII. Kişinin ceza mahkûmiyetine ilişkin verileri\nIII. Kişinin kılık ve kıyafeti\nverilenlerden hangisi veya hangileri özel nitelikli kişisel veri olarak kabul edilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, 'Özel nitelikli kişisel verilerin işlenme şartları' başlıklı Madde 6'da özel nitelikli kişisel veriler tanımlanırken, öncüllerde yer alan 'dernek, vakıf ya da sendika üyeliği', 'ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri' ve 'kılık ve kıyafeti' ifadelerinin tümünün sayılmasıdır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, sır saklama yükümlülüğü altında bulunan kişiler veya yetkili kurum ve kuruluşlarca özel nitelikli kişisel verilerin işlenmesine, aşağıdaki amaçlardan hangisi için izin verilmemiştir?",
+            "secenekler": {
+                "A": "Kamu sağlığının korunması",
+                "B": "Koruyucu hekimlik hizmetlerinin yürütülmesi",
+                "C": "Sosyal güvenlik primlerinin toplanması",
+                "D": "Tıbbi teşhis, tedavi ve bakım hizmetlerinin yürütülmesi",
+                "E": "Sağlık hizmetlerinin planlanması ve yönetimi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Özel nitelikli kişisel verilerin işlenme şartları' başlıklı Madde 6'da, sır saklama yükümlülüğü altındakilerin veri işleyebileceği amaçlar arasında 'kamu sağlığının korunması, koruyucu hekimlik, tıbbi teşhis, tedavi ve bakım hizmetlerinin yürütülmesi ile sağlık hizmetlerinin planlanması, yönetimi ve finansmanı' sayılmıştır. 'Sosyal güvenlik primlerinin toplanması' bu istisna kapsamında yer almamaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurulda alınan kararlar ve varsa karşı oy gerekçeleri, karar tarihinden itibaren en geç ne kadar süre içinde yazılır?",
+            "secenekler": {
+                "A": "Yedi gün",
+                "B": "On gün",
+                "C": "On beş gün",
+                "D": "Otuz gün",
+                "E": "Kırk beş gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kurulun çalışma esasları başlıklı maddede yer alan 'Kararlar ve varsa karşı oy gerekçeleri karar tarihinden itibaren en geç on beş gün içinde yazılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurum tarafından yürürlüğe konulacağı belirtilen düzenleme türü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebliğler",
+                "B": "Genelgeler",
+                "C": "Tavsiye kararları",
+                "D": "Yönetmelikler",
+                "E": "Özelgeler"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, 'Yönetmelik' başlıklı maddede belirtilen 'Bu Kanunun uygulanmasına ilişkin yönetmelikler Kurum tarafından yürürlüğe konulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, ilgili kişinin veri sorumlusuna başvurarak sahip olduğu haklar arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Kişisel verilerin eksik veya yanlış işlenmesi durumunda bunların düzeltilmesini talep etme.\nII. Verilerin düzeltilmesi veya silinmesi gibi işlemlerin, bu verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme.\nIII. Münhasıran otomatik sistemler aracılığıyla verilerin analiz edilmesi sonucu kendisi aleyhine bir neticenin ortaya çıkmasına itiraz etme.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, İlgili kişinin hakları başlıklı maddede belirtilen 'Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme', '(d) ve (e) bentleri uyarınca yapılan işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme' ve 'İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme' hükümlerinin tümünün ilgili kişinin hakları arasında sayılmasına dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurumun hizmet birimlerinin çalışma usul ve esasları aşağıdakilerden hangisi tarafından yürürlüğe konulan bir yönetmelikle belirlenir?",
+            "secenekler": {
+                "A": "Kurul kararıyla",
+                "B": "Başkanın onayıyla",
+                "C": "İlgili bakanlığın teklifi üzerine Kurul tarafından",
+                "D": "Kurumun teklifi üzerine Cumhurbaşkanınca",
+                "E": "Doğrudan kanunla"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, 'Başkanlığın oluşumu ve görevleri' başlıklı maddede belirtilen 'Hizmet birimleri ile bu birimlerin çalışma usul ve esasları... Kurumun teklifi üzerine Cumhurbaşkanınca yürürlüğe konulan yönetmelikle belirlenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Türkiye’nin veya ilgili kişinin menfaatinin ciddi bir şekilde zarar göreceği durumlarda, kişisel verilerin yurt dışına aktarılabilmesi için aşağıdakilerden hangisi zorunludur?",
+            "secenekler": {
+                "A": "İlgili kişinin noter onaylı muvafakatinin alınması",
+                "B": "Aktarımın yapılacağı ülkenin büyükelçiliğinden izin alınması",
+                "C": "Cumhurbaşkanlığı kararı ile aktarım yapılması",
+                "D": "İlgili kamu kurum veya kuruluşunun görüşü alınarak Kurulun izni",
+                "E": "Veri sorumlusunun tek taraflı beyanının yeterli olması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Kişisel verilerin yurt dışına aktarılması başlıklı maddede belirtilen '...Türkiye’nin veya ilgili kişinin menfaatinin ciddi bir şekilde zarar göreceği durumlarda, ancak ilgili kamu kurum veya kuruluşunun görüşü alınarak Kurulun izniyle yurt dışına aktarılabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurulun görev ve yetkileriyle ilgili olarak;\n\nI. Kurumun stratejik planını karara bağlamak\nII. Özel nitelikli kişisel verilerin işlenmesi için aranan yeterli önlemleri belirlemek\nIII. Kanunda öngörülen idari yaptırımlara karar vermek\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen Kurulun görev ve yetkilerine dayanmaktadır. Metinde, Kurulun 'Kurumun; stratejik planını karara bağlamak', 'Özel nitelikli kişisel verilerin işlenmesi için aranan yeterli önlemleri belirlemek' ve 'Bu Kanunda öngörülen idari yaptırımlara karar vermek' görevleri açıkça sayılmıştır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, ilgili kişinin taleplerine ilişkin veri sorumlusunun başvuruya cevap verme süresi ve temel usulü hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Başvurular sadece yazılı olarak yapılır ve on beş gün içinde ücretli olarak sonuçlandırılır.",
+                "B": "Veri sorumlusu talepleri, talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde ücretsiz olarak sonuçlandırır.",
+                "C": "Başvurulara cevap verme süresi altmış gün olup, işlem maliyetli ise bu süre doksan güne uzayabilir.",
+                "D": "Taleplerin reddedilmesi durumunda gerekçe açıklama zorunluluğu yoktur, sadece ret kararı bildirilir.",
+                "E": "Tüm başvurular, maliyetine bakılmaksızın Kurul tarafından belirlenen sabit bir ücret karşılığında cevaplanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Veri sorumlusuna başvuru başlıklı maddede yer alan 'Veri sorumlusu başvuruda yer alan talepleri, talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde ücretsiz olarak sonuçlandırır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, veri sorumlusu kişisel verilerin elde edilmesi sırasında ilgili kişilere;\nI. Kişisel verilerin hangi amaçla işleneceği\nII. İşlenen kişisel verilerin kimlere ve hangi amaçla aktarılabileceği\nIII. Veri sorumlusunun yıllık mali bilançosu\nkonularından hangisi veya hangileri hakkında bilgi vermekle yükümlüdür?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Veri sorumlusunun aydınlatma yükümlülüğü' başlıklı maddede, veri sorumlusunun bilgilendirmekle yükümlü olduğu konular arasında 'Kişisel verilerin hangi amaçla işleneceği' ve 'İşlenen kişisel verilerin kimlere ve hangi amaçla aktarılabileceği' hususlarının sayılmasına dayanmaktadır. Veri sorumlusunun mali bilançosu bu yükümlülük kapsamında değildir."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel verilerle ilgili olarak;\nI. Veri sorumlusu tarafından resen silinir, yok edilir veya anonim hâle getirilir.\nII. İlgili kişinin talebi üzerine veri sorumlusu tarafından silinir, yok edilir veya anonim hâle getirilir.\nIII. Verilerin Kurul tarafından belirlenen ek bir süre boyunca saklanması zorunludur.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi' başlıklı maddede yer alan '...işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel veriler resen veya ilgili kişinin talebi üzerine veri sorumlusu tarafından silinir, yok edilir veya anonim hâle getirilir.' hükmüne dayanmaktadır. Metinde Kurul tarafından belirlenen bir ek saklama süresi zorunluluğundan bahsedilmemektedir."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, bu Kanun hükümleri kimler hakkında uygulanır?",
+            "secenekler": {
+                "A": "Sadece kişisel verileri işlenen gerçek kişiler hakkında.",
+                "B": "Sadece kişisel verileri işleyen tüzel kişiler hakkında.",
+                "C": "Sadece kamu kurum ve kuruluşları hakkında.",
+                "D": "Kişisel verileri işlenen gerçek kişiler ile bu verileri işleyen gerçek ve tüzel kişiler hakkında.",
+                "E": "Yalnızca otomatik yollarla veri işleyen yurt dışı merkezli şirketler hakkında."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Kapsam başlıklı maddede belirtilen '...kişisel verileri işlenen gerçek kişiler ile bu verileri ... işleyen gerçek ve tüzel kişiler hakkında uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kanun'un uygulanacağı veri işleme yöntemleri ile ilgili olarak;\n\nI. Tamamen veya kısmen otomatik olan yollarla işleme\nII. Herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleme\nIII. Veri kayıt sisteminden bağımsız olarak, otomatik olmayan her türlü yolla işleme\n\nifadelerinden hangisi veya hangileri Kanun kapsamındadır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kapsam başlıklı maddede belirtilen '...bu verileri tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleyen...' hükmüne dayanmaktadır. Bu hüküm, otomatik olmayan işlemenin kapsama girmesi için bir veri kayıt sisteminin parçası olması şartını getirmektedir."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurul üyelerinin toplantı ve oylamaya katılamayacağı durumlarla ilgili yasak, aşağıdaki kişilerden hangisini kapsamaz?",
+            "secenekler": {
+                "A": "Evlatlıklarını",
+                "B": "İkinci dereceye kadar kayın hısımlarını",
+                "C": "Üçüncü dereceye kadar kan hısımlarını",
+                "D": "Üçüncü dereceye kadar kayın hısımlarını",
+                "E": "Aralarındaki evlilik bağı kalkmış olsa bile eşlerini"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Kurulun çalışma esasları başlıklı maddede belirtilen 'Kurul üyeleri; kendilerini, üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımlarını... ilgilendiren konularla ilgili toplantı ve oylamaya katılamaz.' hükmüne dayanmaktadır. Metinde kayın hısımlığı için yasak sınırı ikinci derece olarak belirtilmiştir."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Veri Sorumluları Siciline kayıt başvurusunda bulunması gereken bildirimde aşağıdakilerden hangisinin yer alması zorunlu değildir?",
+            "secenekler": {
+                "A": "Kişisel verilerin hangi amaçla işleneceği",
+                "B": "Veri konusu kişi grubu ve grupları ile bu kişilere ait veri kategorileri hakkındaki açıklamalar",
+                "C": "Kişisel verilerin aktarılabileceği alıcı veya alıcı grupları",
+                "D": "Veri işleme faaliyetinin dayandığı hukuki sebep",
+                "E": "Kişisel verilerin işlendikleri amaç için gerekli olan azami süre"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Veri Sorumluları Sicili başlıklı 16. maddede, sicile kayıt başvurusunda bulunması gereken bildirim içeriği sayılırken 'Veri işleme faaliyetinin dayandığı hukuki sebep' ifadesine yer verilmemiştir. Maddede sayılan zorunlu unsurlar arasında işleme amacı, veri kategorileri, alıcı grupları ve azami süre gibi bilgiler bulunmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Türkiye’nin veya ilgili kişinin menfaatinin ciddi bir şekilde zarar göreceği durumlarda kişisel verilerin yurt dışına aktarılabilmesi için aşağıdakilerden hangilerinin birlikte gerçekleşmesi zorunludur?\n\nI. İlgili kamu kurum veya kuruluşunun görüşünün alınması\nII. Kurulun izninin alınması\nIII. İlgili kişinin aktarıma açık rıza vermesi",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Kişisel verilerin yurt dışına aktarılması' başlıklı maddede yer alan '...Türkiye’nin veya ilgili kişinin menfaatinin ciddi bir şekilde zarar göreceği durumlarda, ancak ilgili kamu kurum veya kuruluşunun görüşü alınarak Kurulun izniyle yurt dışına aktarılabilir.' hükmüne dayanmaktadır. Bu durumda açık rıza şartı aranmamaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na ekli kadro listesine göre, Kişisel Verileri Koruma Kurumu için ihdas edilen toplam kadro sayısı kaçtır?",
+            "secenekler": {
+                "A": "155",
+                "B": "175",
+                "C": "195",
+                "D": "215",
+                "E": "225"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kanun'a ekli (I) Sayılı Cetvel'in sonunda belirtilen toplam kadro sayısının '195' olmasına dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, belirli şartlar çerçevesinde Kişisel Verileri Koruma Uzmanı kadrosuna atananlara sağlanan özel hak aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bir defaya mahsus olmak üzere bir derece yükseltilmesi uygulanması.",
+                "B": "İki yılda bir kıdem ilerlemesi yapılması.",
+                "C": "Ek göstergelerinin emsallerine göre daha yüksek belirlenmesi.",
+                "D": "Bir defaya mahsus olmak üzere iki kademe ilerlemesi uygulanması.",
+                "E": "Emeklilik yaşının iki yıl öne çekilmesi."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Kişisel Verileri Koruma Uzmanı ve uzman yardımcıları başlıklı maddede yer alan '...Kişisel Verileri Koruma Uzmanı kadrosuna atananlara bir defaya mahsus olmak üzere bir derece yükseltilmesi uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, diğer kamu kurumlarından Kurumda geçici olarak görevlendirilen personelin görevlendirme süresi en fazla ne kadar olabilir?",
+            "secenekler": {
+                "A": "Altı ay",
+                "B": "Bir yıl",
+                "C": "İki yıl",
+                "D": "Üç yıl",
+                "E": "Dört yıl"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de (Personele ve özlük haklarına ilişkin hükümler) belirtilen '...ve görevlendirme süresi iki yılı geçemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurul'a yapılan bir şikâyete ilişkin olarak, şikâyet tarihinden itibaren belirli bir süre içinde cevap verilmemesi durumunda talep reddedilmiş sayılır. Bu süre ne kadardır?",
+            "secenekler": {
+                "A": "15 gün",
+                "B": "30 gün",
+                "C": "45 gün",
+                "D": "60 gün",
+                "E": "90 gün"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Kurul'un inceleme yetkisini düzenleyen maddede(Şikâyet üzerine veya resen incelemenin usul ve esasları) yer alan 'Şikâyet tarihinden itibaren altmış gün içinde cevap verilmezse talep reddedilmiş sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kişisel Verileri Koruma Kurumuna tahsis edilen toplam kadro sayısı kaçtır?",
+            "secenekler": {
+                "A": "185",
+                "B": "190",
+                "C": "195",
+                "D": "205",
+                "E": "210"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kanun'a ekli (I) Sayılı Cetvel'de yer alan Kişisel Verileri Koruma Kurumu Kadro Listesi'nin en altındaki 'TOPLAM 195' ifadesine dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kamu kurum ve kuruluşlarında 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı iken Kurul Başkanı veya üyesi olarak atanan bir kişinin, önceki kurumuyla ilişiğinin kesilmesi durumunda kıdem tazminatı hakkındaki uygulama aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Önceki kurumu tarafından kıdem tazminatı derhal ödenir.",
+                "B": "Kişinin kıdem tazminatı hakkı tamamen ortadan kalkar.",
+                "C": "Kıdem tazminatı ödenmez ve bu hizmet süreleri Kurul üyeliği hizmet süreleri ile birleştirilerek emeklilik ikramiyesi hesabında dikkate alınır.",
+                "D": "Kıdem tazminatı Kurum tarafından üstlenilir ve göreve başlarken ödenir.",
+                "E": "Önceki kurumdaki hizmet süresine ilişkin kıdem tazminatının yarısı ödenir, diğer yarısı emekliliğe esas alınır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Personel ve özlük hakları başlıklı maddede yer alan '...önceki kurum ve kuruluşları ile ilişiklerinin kesilmesi kendilerine kıdem tazminatı veya iş sonu tazminatı ödenmesini gerektirmez. Bu durumda olanların kıdem tazminatı veya iş sonu tazminatı ödenmesi gereken hizmet süreleri, Kurul Başkanı ile Kurul üyeliği olarak geçen hizmet süreleri ile birleştirilir ve emeklilik ikramiyesi ödenecek süre olarak değerlendirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kişisel Verileri Koruma Kurumu ile ilgili aşağıdaki ifadelerden hangisi veya hangileri doğrudur?\n\nI. İdari ve mali özerkliğe sahiptir.\nII. Kamu tüzel kişiliğini haizdir.\nIII. Karar organı Başkanlıktır.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Kurumun kuruluşunu düzenleyen maddede(Kişisel Verileri Koruma Kurumu başlıklı 19. Madde) belirtilen 'idari ve mali özerkliğe sahip ve kamu tüzel kişiliğini haiz' olduğu ve 'Kurumun karar organı Kuruldur' hükümlerine dayanmaktadır. III. öncül yanlıştır çünkü karar organı Başkanlık değil, Kurul'dur."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, yurt dışına veri aktarımı için yeterlilik kararı bulunmadığı durumlarda, taraflarca sağlanabilecek uygun güvenceler arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Kurul tarafından onaylanan bağlayıcı şirket kurallarının varlığı.\nII. Yeterli korumayı sağlayacak hükümlerin yer aldığı yazılı bir taahhütnamenin varlığı ve Kurul tarafından aktarıma izin verilmesi.\nIII. Kurul tarafından ilan edilen standart sözleşmenin varlığı.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, MADDE 9'un dördüncü fıkrasında, yeterlilik kararı bulunmaması halinde yurt dışına veri aktarımı için sağlanabilecek uygun güvenceler arasında sayılan 'bağlayıcı şirket kuralları', 'yazılı taahhütname ve Kurul izni' ile 'standart sözleşme' hükümlerine dayanmaktadır. Verilen öncüllerin tamamı bu güvenceler arasında yer almaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, 'açık rıza' tanımının unsurları aşağıdakilerden hangisinde tam ve doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Genel bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rıza",
+                "B": "Belirli bir konuya ilişkin, yazılı onaya dayanan ve özgür iradeyle açıklanan rıza",
+                "C": "Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rıza",
+                "D": "Herhangi bir konuya ilişkin, varsayıma dayanan ve geri alınamaz nitelikteki rıza",
+                "E": "Belirli bir konuya ilişkin, Kurul onayına dayanan ve süresiz geçerli olan rıza"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Tanımlar başlıklı maddede yer alan 'Açık rıza: Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı, ifade eder.' tanımına dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, kamu kurumlarında belirli bir sigortalılık kapsamında çalışırken Kurul Başkanı ve üyeliklerine atananların durumuyla ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Önceki kurumları ile ilişiklerinin kesilmesi, kendilerine kıdem tazminatı ödenmesini gerektirir.",
+                "B": "Kurul üyeliği olarak geçen hizmet süreleri, emeklilik ikramiyesi hesabında dikkate alınmaz.",
+                "C": "Önceki kurumlarındaki hizmet süreleri, kıdem tazminatı hesabından düşülür.",
+                "D": "Önceki kurumları ile ilişiklerinin kesilmesi, kendilerine kıdem tazminatı veya iş sonu tazminatı ödenmesini gerektirmez.",
+                "E": "Kıdem tazminatına esas hizmet süreleri yalnızca Kurul'da geçen sürelerdir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen '...Kurul Başkanı ve üyeliklerine atananların, önceki kurum ve kuruluşları ile ilişiklerinin kesilmesi kendilerine kıdem tazminatı veya iş sonu tazminatı ödenmesini gerektirmez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurulun, veri işlenmesinin veya verinin yurt dışına aktarılmasının durdurulmasına karar verebilmesi için aşağıdaki şartlardan hangilerinin bir arada bulunması gerekir?",
+            "secenekler": {
+                "A": "İhlalin yaygın olması ve veri sorumlusunun talebi",
+                "B": "Devlet sırrı niteliğinde bilgi olması ve şikâyet bulunması",
+                "C": "Kişilik haklarının ihlal edilmesi ve ihbar yapılması",
+                "D": "Telafisi güç veya imkânsız zararların doğması ve açıkça hukuka aykırılık olması",
+                "E": "Veri sorumlusunun sicile kayıtlı olmaması ve resen inceleme yapılması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Şikâyet üzerine veya resen incelemenin usul ve esasları başlıklı maddede yer alan 'Kurul, telafisi güç veya imkânsız zararların doğması ve açıkça hukuka aykırılık olması hâlinde, veri işlenmesinin veya verinin yurt dışına aktarılmasının durdurulmasına karar verebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, belirli objektif kriterleri göz önüne alarak Veri Sorumluları Siciline kayıt zorunluluğuna istisna getirme yetkisi hangi makama aittir?",
+            "secenekler": {
+                "A": "Başkanlık",
+                "B": "Kurul",
+                "C": "Adalet Bakanlığı",
+                "D": "İlgili idare mahkemesi",
+                "E": "Veri sorumlusunun kendisi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 16'nın ikinci fıkrasında yer alan '...Kurulca belirlenecek objektif kriterler göz önüne alınmak suretiyle, Kurul tarafından, Veri Sorumluları Siciline kayıt zorunluluğuna istisna getirilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Başkan Yardımcısı ve daire başkanlarının atanmasında aranan şartlarla ilgili olarak aşağıdakilerden hangisi veya hangileri doğrudur?\n\nI. En az dört yıllık yükseköğretim kurumu mezunu olmak.\nII. On yıl süreyle kamu hizmetinde bulunmuş olmak.\nIII. Kurul tarafından atanmak.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, MADDE 25'te belirtilen 'en az dört yıllık yükseköğretim kurumu mezunu, on yıl süreyle kamu hizmetinde bulunan kişiler arasından Başkan tarafından atanır.' hükmüne dayanmaktadır. Atama yetkisi Kurul'da değil, Başkan'dadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, Kurul üyelerinin görev süresi ve süresi dolmadan görevi sona eren üyenin yerine seçilen kişi hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Görev süresi beş yıldır ve yerine seçilen kişi, yeni bir beş yıllık süre için görev yapar.",
+                "B": "Görev süresi dört yıldır ve yerine seçilen kişi, yeni bir dört yıllık süre için görev yapar.",
+                "C": "Görev süresi altı yıldır ve yerine seçilen kişi, yerine seçildiği üyenin kalan süresini tamamlar.",
+                "D": "Görev süresi dört yıldır ve yerine seçilen kişi, yerine seçildiği üyenin kalan süresini tamamlar.",
+                "E": "Görev süresi beş yıldır ve yerine seçilen kişi, yerine seçildiği üyenin kalan süresini tamamlar."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, MADDE 21'de belirtilen 'Kurul üyelerinin görev süresi dört yıldır. Görev süresi dolmadan herhangi bir sebeple görevi sona eren üyenin yerine seçilen kişi, yerine seçildiği üyenin kalan süresini tamamlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, aşağıdakilerden hangileri Kurul üyeliğinin, Kurul kararıyla sona erme sebepleri arasında yer alır?\n\nI. Görevleriyle ilgili olarak işledikleri suçlardan dolayı haklarında verilen mahkûmiyet kararının kesinleşmesi.\nII. Bir ay içinde izinsiz ve mazeretsiz olarak toplam üç Kurul toplantısına katılmadıklarının tespit edilmesi.\nIII. Görevlerine izinsiz ve mazeretsiz olarak kesintisiz on gün süreyle devam etmediklerinin tespit edilmesi.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, MADDE 21'de belirtilen Kurul üyeliğinin sona erme hâllerine dayanmaktadır. Metne göre, I. öncülde belirtilen 'görevleriyle ilgili suçlardan mahkûmiyet kararının kesinleşmesi' ve II. öncülde belirtilen 'bir ay içinde izinsiz ve mazeretsiz olarak toplam üç Kurul toplantısına katılmama' üyelik sona erme sebeplerindendir. Ancak III. öncüldeki 'kesintisiz on gün' devamsızlık ifadesi yanlıştır, doğru süre 'on beş gün' olmalıdır."
+        },
+        {
+            "soru": "6698 Sayılı Kişisel Verilerin Korunması Kanunu'na göre, otomatik olmayan yollarla yapılan bir veri işleme faaliyetinin Kanun kapsamına girmesi için hangi şartın sağlanması zorunludur?",
+            "secenekler": {
+                "A": "İşlemenin bir kamu kurumu tarafından yapılması",
+                "B": "İşlemenin herhangi bir veri kayıt sisteminin parçası olması",
+                "C": "Veri sahibinin önceden bilgilendirilmiş olması",
+                "D": "Verilerin en az bir yıl süreyle saklanacak olması",
+                "E": "İşlemenin kısmen de olsa otomatik yollarla desteklenmesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Kanun'un 2. Maddesi olan 'Kapsam'da belirtilen '...herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleyen...' hükmüne dayanmaktadır."
+        }
+    ]
+}

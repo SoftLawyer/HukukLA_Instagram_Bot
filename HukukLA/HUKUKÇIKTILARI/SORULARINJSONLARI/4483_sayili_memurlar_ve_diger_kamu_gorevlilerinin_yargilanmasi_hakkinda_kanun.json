@@ -1,0 +1,652 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, soruşturma izni vermeye yetkili mercilerin saptanmasında memur veya kamu görevlisinin hangi durumdaki görevi esas alınır?",
+            "secenekler": {
+                "A": "Soruşturma izninin istendiği tarihteki görevi",
+                "B": "Suçun işlendiği tarihteki görevi",
+                "C": "Yargılamanın başladığı tarihteki görevi",
+                "D": "İhbar veya şikayetin yapıldığı tarihteki görevi",
+                "E": "Hakkında son karar verildiği tarihteki görevi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, İzin vermeye yetkili merciler başlıklı madde 3'te belirtilen 'Yetkili mercilerin saptanmasında, memur veya kamu görevlisinin suç tarihindeki görevi esas alınır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ast memur ile üst memurun aynı fiile iştiraki halinde soruşturma izni hangi merciden istenir?",
+            "secenekler": {
+                "A": "Her biri için kendi disiplin amirlerinden ayrı ayrı",
+                "B": "Ast memurun bağlı olduğu merciden",
+                "C": "Üst memurun bağlı olduğu merciden",
+                "D": "Her ikisi için de doğrudan validen",
+                "E": "Her ikisi için de doğrudan İçişleri Bakanından"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, İzin vermeye yetkili merciler başlıklı madde 3'te belirtilen 'Ast memur ile üst memurun aynı fiile iştiraki halinde izin, üst memurun bağlı olduğu merciden istenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, büyükşehir belediye başkanları hakkında soruşturma izni verme yetkisi kime aittir?",
+            "secenekler": {
+                "A": "Görev yaptıkları ilin valisi",
+                "B": "Cumhurbaşkanı",
+                "C": "İçişleri Bakanı",
+                "D": "Cumhurbaşkanlığı Genel Sekreteri",
+                "E": "Dışişleri Bakanı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, İzin vermeye yetkili merciler başlıklı madde 3'te belirtilen 'Büyükşehir belediye başkanları, il ve ilçe belediye başkanları... hakkında İçişleri Bakanı,' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, normal şartlarda işleme konulmayacak bir ihbar veya şikâyetin, dilekçe sahibinin ad, soyad, imza ve adres bilgilerinin doğruluğu şartı aranmaksızın işleme konulabilmesi hangi duruma bağlıdır?",
+            "secenekler": {
+                "A": "İddiaların birden fazla tanık tarafından doğrulanmasına",
+                "B": "İddiaların, sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuş olmasına",
+                "C": "Şikâyet edilen kamu görevlisinin daha önce de benzer bir suçtan ceza almış olmasına",
+                "D": "İhbarın doğrudan izin vermeye yetkili mercie yapılmış olmasına",
+                "E": "İddiaların basında geniş yer bulmuş olmasına"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te yer alan 'Ancak iddiaların, sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuş olması halinde ad, soyad ve imza ile iş veya ikametgâh adresinin doğruluğu şartı aranmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, bir ihbar veya şikâyetin işleme konulabilmesi için aşağıdaki şartlardan hangisinin varlığı durumunda, dilekçedeki ad, soyad, imza ve adresin doğruluğu şartı aranmaz?",
+            "secenekler": {
+                "A": "İhbarın birden fazla kişi tarafından birlikte yapılması",
+                "B": "İddiaların, sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuş olması",
+                "C": "Şikayet edilen kamu görevlisinin daha önceden disiplin cezası almış olması",
+                "D": "İhbar veya şikayetin bir kamu kurumu tarafından yapılması",
+                "E": "İddiaların basın ve yayın organlarında geniş yer bulması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Ancak iddiaların, sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuş olması halinde ad, soyad ve imza ile iş veya ikametgâh adresinin doğruluğu şartı aranmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, memurlar hakkında yapılacak ihbar ve şikâyetlerde;\n\nI. Kişi veya olayın belirtilmesi\nII. İddiaların ciddî bulgu ve belgelere dayanması\nIII. Dilekçe sahibinin doğru ad, soyad ve imzasının bulunması\n\nşartlarından hangilerinin bulunması zorunludur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'ihbar veya şikâyetlerde kişi veya olay belirtilmesi, iddiaların ciddî bulgu ve belgelere dayanması, ihbar veya şikâyet dilekçesinde dilekçe sahibinin doğru ad, soyad ve imzası ile iş veya ikametgâh adresinin bulunması zorunludur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, iddiaların sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulması durumunda, aşağıdakilerden hangisi ihbar ve şikâyet dilekçelerinde aranacak zorunlu şartlardan biri olmaya devam eder?",
+            "secenekler": {
+                "A": "Dilekçe sahibinin doğru adının bulunması",
+                "B": "Dilekçe sahibinin doğru soyadının bulunması",
+                "C": "İhbar veya şikâyette kişi veya olay belirtilmesi",
+                "D": "Dilekçede dilekçe sahibinin imzasının bulunması",
+                "E": "Dilekçede iş veya ikametgâh adresinin bulunması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'iddiaların, sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuş olması halinde ad, soyad ve imza ile iş veya ikametgâh adresinin doğruluğu şartı aranmaz.' istisnasına rağmen, 'ihbar veya şikâyetlerde kişi veya olay belirtilmesi' şartının genel bir zorunluluk olarak devam etmesine dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, gerekli şartları taşımayan soyut ve genel nitelikteki ihbar ve şikâyetler hakkında Cumhuriyet başsavcıları ve izin vermeye yetkili merciler tarafından yapılacak işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Eksikliklerin tamamlanması için ihbarcıya iade edilir",
+                "B": "İşleme konulmaz ve durum, ihbar veya şikâyette bulunana bildirilir",
+                "C": "Doğrudan reddedilir ve dosya arşive kaldırılır",
+                "D": "Ön inceleme başlatılır ve sonucuna göre karar verilir",
+                "E": "İhbarcının kimlik bilgilerinin doğruluğu araştırılır"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'şartları taşımayan ihbar ve şikâyetler Cumhuriyet başsavcıları ve izin vermeye yetkili merciler tarafından işleme konulmaz ve durum, ihbar veya şikâyette bulunana bildirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ihbar ve şikâyet dilekçelerinde ad, soyad ve imza ile iş veya ikametgâh adresinin doğruluğu şartının aranmayacağı istisnai durum aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İddiaların bir kamu görevlisi tarafından yapılması halinde",
+                "B": "İddiaların, sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuş olması halinde",
+                "C": "Şikayetçinin kimliğinin gizli tutulmasının talep edilmesi halinde",
+                "D": "Suçun iştirak halinde işlenmiş olması halinde",
+                "E": "Cumhuriyet başsavcısının durumu resen öğrenmesi halinde"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te yer alan 'Ancak iddiaların, sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuş olması halinde ad, soyad ve imza ile iş veya ikametgâh adresinin doğruluğu şartı aranmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, Cumhuriyet başsavcıları kanun kapsamına giren bir suç işlendiğini öğrendiklerinde, soruşturma izni istemeden önce aşağıdakilerden hangisini yapabilirler?",
+            "secenekler": {
+                "A": "Hakkında şikayette bulunulan memurun ifadesine başvurmak",
+                "B": "İvedilikle toplanması gerekli ve kaybolma ihtimali bulunan delilleri tespit etmek",
+                "C": "Doğrudan kamu davası açmak için iddianame hazırlamak",
+                "D": "Evrakı memurun disiplin amirine göndermek",
+                "E": "Şikayetçinin kimlik bilgilerini ilgili memura bildirmek"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Olayın yetkili mercie iletilmesi, işleme konulmayacak ihbar ve şikayetler başlıklı madde 4'te belirtilen 'ivedilikle toplanması gerekli ve kaybolma ihtimali bulunan delilleri tespitten başka hiçbir işlem yapmayarak... soruşturma izni isterler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, memurlar hakkında yapılacak ihbar ve şikâyetlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İhbar ve şikâyetlerin soyut ve genel nitelikte olmaması gerekir.",
+                "B": "İhbar veya şikâyetlerde kişi veya olayın belirtilmesi zorunludur.",
+                "C": "İddiaların sıhhati şüpheye mahal vermeyecek belgelerle ortaya konulmuşsa, dilekçe sahibinin kimlik ve adres bilgilerinin doğruluğu şartı aranmaz.",
+                "D": "Yetkili merciler, ihbarcı veya şikâyetçinin kimlik bilgilerini gizli tutmak zorundadır.",
+                "E": "Geçerli şartları taşımayan ihbar ve şikayetler, Cumhuriyet başsavcılarınca doğrudan reddedilir ve durum şikayetçiye bildirilmez."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Olayın yetkili mercie iletilmesi, işleme konulmayacak ihbar ve şikayetler başlıklı madde 4'te, şartları taşımayan ihbar ve şikayetlerin işleme konulmayacağı ve 'durum, ihbar veya şikâyette bulunana bildirilir' hükmüne dayanmaktadır. Bu nedenle durumun bildirilmeyeceği ifadesi yanlıştır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, daha önce sonuçlandırılmış bir ön inceleme konusu olan bir ihbar veya şikâyetle ilgili olarak, izin vermeye yetkili mercilerin müracaatı tekrar işleme koyabilmesinin şartı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İhbarın farklı bir kişi tarafından yapılması",
+                "B": "Önceki ön incelemede usul hatası yapıldığının anlaşılması",
+                "C": "Şikâyetçinin, önceki incelemenin sonucunu etkileyecek yeni bir belge sunması",
+                "D": "Yetkili merciin re'sen tekrar inceleme kararı alması",
+                "E": "Konu hakkında yeni tanıkların ortaya çıkması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Ancak ihbar veya şikâyet eden kişilerin konu ile ilgili olarak daha önceki ön incelemenin neticesini etkileyecek yeni belge sunması halinde müracaatı işleme koyabilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön incelemeyi yapmak üzere görevlendirilecek kişilerle ilgili temel esas aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Mutlaka denetim elemanı olmaları",
+                "B": "İzin vermeye yetkili merciin bulunduğu kamu kurumu içerisinden belirlenmeleri",
+                "C": "Hakkında inceleme yapılanın astı konumunda olmaları",
+                "D": "Her zaman tek kişi olarak görevlendirilmeleri",
+                "E": "Yargı kuruluşlarında çalışanlar arasından seçilmeleri"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'İnceleme yapacakların, izin vermeye yetkili merciin bulunduğu kamu kurum veya kuruluşunun içerisinden belirlenmesi esastır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, aşağıdakilerden hangisi başka mercilerin ön incelemelerinde görevlendirilemez?",
+            "secenekler": {
+                "A": "Denetim elemanları",
+                "B": "Hakkında inceleme yapılanın üstü konumundaki memurlar",
+                "C": "Yargı mensupları",
+                "D": "Başka bir kamu kurumunun denetim elemanları",
+                "E": "İzin vermeye yetkili merciin bulunduğu kurumdaki kamu görevlileri"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Yargı mensupları ile yargı kuruluşlarında çalışanlar ve askerler, başka mercilerin ön incelemelerinde görevlendirilemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, başka mercilerin ön incelemelerinde görevlendirilemeyecek olanlar arasında aşağıdakilerden hangileri yer alır?\n\nI. Yargı mensupları\nII. Askerler\nIII. Denetim elemanları",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Yargı mensupları ile yargı kuruluşlarında çalışanlar ve askerler, başka mercilerin ön incelemelerinde görevlendirilemez.' hükmüne dayanmaktadır. Metinde denetim elemanlarının görevlendirilebileceği açıkça belirtilmiştir."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, izin vermeye yetkili merciler, daha önce sonuçlandırılmış bir ön inceleme konusu olan bir ihbar veya şikâyetle karşılaştıklarında;\n\nI. Kural olarak müracaatı işleme koymazlar.\nII. Şikâyetçinin yeni belge sunması halinde müracaatı işleme koyabilirler.\nIII. Yeni belgenin, önceki ön incelemenin neticesini etkileyecek nitelikte olması gerekir.\n\nyukarıdaki ifadelerden hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 5'te yer alan 'Cumhuriyet başsavcılıkları ile izin vermeye yetkili merciler ihbar ve şikâyetler konusunda daha önce sonuçlandırılmış bir ön inceleme olması halinde müracaatı işleme koymazlar. Ancak ihbar veya şikâyet eden kişilerin konu ile ilgili olarak daha önceki ön incelemenin neticesini etkileyecek yeni belge sunması halinde müracaatı işleme koyabilirler.' hükmüne dayanmaktadır. Bu hüküm, her üç öncülün de doğru olduğunu göstermektedir."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön inceleme raporu ve sonrasındaki sürece ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yetkili merci, rapor üzerine vereceği kararlarda gerekçe göstermek zorunda değildir.",
+                "B": "Ön inceleme birden çok kişi tarafından yapılmışsa, raporda sadece başkanın görüşüne yer verilir.",
+                "C": "Ön inceleme ile görevlendirilenler, hakkında inceleme yapılan memurun ifadesini almadan da rapor düzenleyebilir.",
+                "D": "Yetkili merci, kendisine sunulan rapor üzerine soruşturma izni verilmesine veya verilmemesine karar verir.",
+                "E": "Rapor, sadece toplanan belgeleri içerir, incelemeyi yapanların kişisel görüşlerini içeremez."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Yetkili merci bu rapor üzerine soruşturma izni verilmesine veya verilmemesine karar verir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön incelemenin birden çok kişi tarafından yapılması ve bu kişiler arasında farklı görüşlerin ortaya çıkması durumunda düzenlenecek raporda bu durum nasıl belirtilir?",
+            "secenekler": {
+                "A": "Sadece başkan olarak belirlenen kişinin görüşü rapora yazılır.",
+                "B": "Çoğunluğun görüşü esas alınır, azınlık görüşüne yer verilmez.",
+                "C": "Farklı görüşler, gerekçeleriyle birlikte raporda ayrı ayrı belirtilir.",
+                "D": "Rapor düzenlenmez, durum izin vermeye yetkili mercie sözlü olarak bildirilir.",
+                "E": "Ortak bir görüşe varılana kadar incelemeye devam edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Ön inceleme birden çok kişi tarafından yapılmışsa, farklı görüşler raporda gerekçeleriyle ayrı ayrı belirtilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön inceleme ile görevlendirilen kişi veya kişilerin, rapor düzenlemeden önce yerine getirmesi zorunlu olan işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Şikayetçinin ifadesini almak",
+                "B": "Hakkında inceleme yapılan memur veya diğer kamu görevlisinin ifadesini almak",
+                "C": "Olay yerinde keşif yapmak",
+                "D": "Varsa tanıkların tamamını dinlemek",
+                "E": "İzin vermeye yetkili merciden ek talimat istemek"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen '...hakkında inceleme yapılan memur veya diğer kamu görevlisinin ifadesini de almak suretiyle...' ifadesiyle bu işlemin zorunlu olduğuna işaret edilmektedir."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön inceleme ile görevlendirilen kişi veya kişilerin, yetkileri dahilinde bulunan gerekli bilgi ve belgeleri toplayıp görüşlerini içeren bir rapor düzenleyerek durumu izin vermeye yetkili mercie sunma sürecinde, aşağıdakilerden hangisini yapması zorunludur?",
+            "secenekler": {
+                "A": "Hakkında inceleme yapılan memurun amirinin de ifadesini almak",
+                "B": "Hakkında inceleme yapılan memur veya diğer kamu görevlisinin ifadesini de almak",
+                "C": "Sadece bakanlık müfettişlerinin yetkilerini kullanmak",
+                "D": "Raporu, görüş belirtmeksizin sadece bulguları içerecek şekilde hazırlamak",
+                "E": "Ceza Muhakemeleri Usulü Kanununu hiçbir durumda uygulamamak"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'hakkında inceleme yapılan memur veya diğer kamu görevlisinin ifadesini de almak suretiyle yetkileri dahilinde bulunan gerekli bilgi ve belgeleri toplayıp, görüşlerini içeren bir rapor düzenleyerek durumu izin vermeye yetkili mercie sunarlar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön inceleme ile görevlendirilen kişi veya kişilerin yetki ve sorumlulukları kapsamında;\n\nI. Hakkında inceleme yapılan kamu görevlisinin ifadesini almak\nII. Bu Kanunda hüküm bulunmayan durumlarda Ceza Muhakemeleri Usulü Kanununa göre işlem yapmak\nIII. İzin vermeye yetkili merciin soruşturma izni kararına gerekçe yazmak\n\nverilenlerden hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'hakkında inceleme yapılan memur veya diğer kamu görevlisinin ifadesini de almak' ve 'bu Kanunda hüküm bulunmayan hususlarda Ceza Muhakemeleri Usulü Kanununa göre işlem yapabilirler' hükümlerine dayanmaktadır. Kararda gerekçe gösterme zorunluluğu, ön incelemeyi yapanların değil, izin vermeye yetkili merciin sorumluluğundadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön inceleme raporu üzerine yetkili merci tarafından verilecek soruşturma izni verilmesi veya verilmemesi kararıyla ilgili olarak aşağıdakilerden hangisi zorunludur?",
+            "secenekler": {
+                "A": "Kararın oy birliği ile alınması",
+                "B": "Kararda gerekçe gösterilmesi",
+                "C": "Kararın ön inceleme raporuyla birebir aynı yönde olması",
+                "D": "Kararın ilgili kamu görevlisine şahsen tebliğ edilmesi",
+                "E": "Kararın en geç on gün içinde verilmesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da yer alan 'Yetkili merci bu rapor üzerine soruşturma izni verilmesine veya verilmemesine karar verir. Bu kararlarda gerekçe gösterilmesi zorunludur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön inceleme süreciyle ilgili olarak;\nI. Ön inceleme birden çok kişi tarafından yapılmışsa, farklı görüşler raporda gerekçeleriyle ayrı ayrı belirtilir.\nII. Ön inceleme ile görevlendirilenler, hakkında inceleme yapılan memurun ifadesini almak zorundadır.\nIII. Yetkili merci, ön inceleme raporu üzerine vereceği kararda gerekçe göstermek zorunda değildir.\nifadelerinden hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da yer alan 'Ön inceleme birden çok kişi tarafından yapılmışsa, farklı görüşler raporda gerekçeleriyle ayrı ayrı belirtilir.', '...hakkında inceleme yapılan memur veya diğer kamu görevlisinin ifadesini de almak suretiyle...' ve 'Bu kararlarda gerekçe gösterilmesi zorunludur.' hükümlerine dayanmaktadır. III. öncül, metindeki hükmün tersini belirttiği için yanlıştır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, yetkili merciin soruşturma izni konusundaki kararını vermesi için belirlenen süre ve bu sürenin uzatılmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Karar en geç onbeş gün içinde verilir, bu süre zorunlu hallerde on gün uzatılabilir.",
+                "B": "Karar en geç otuz gün içinde verilir, bu süre zorunlu hallerde onbeş günü geçmemek üzere bir defa uzatılabilir.",
+                "C": "Karar en geç kırkbeş gün içinde verilir ve bu süre hiçbir şekilde uzatılamaz.",
+                "D": "Karar en geç otuz gün içinde verilir, bu süre zorunlu hallerde onbeş günü geçmemek üzere iki defa uzatılabilir.",
+                "E": "Karar en geç altmış gün içinde verilir, bu süre zorunlu hallerde otuz gün uzatılabilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Yetkili merci, soruşturma izni konusundaki kararını suçun ... öğrenilmesinden itibaren ön inceleme dahil en geç otuz gün içinde verir. Bu süre, zorunlu hallerde onbeş günü geçmemek üzere bir defa uzatılabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, yetkili merci, soruşturma izni konusundaki kararını suçun öğrenilmesinden itibaren ön inceleme dahil en geç kaç gün içinde verir ve bu süre zorunlu hallerde en fazla kaç gün uzatılabilir?",
+            "secenekler": {
+                "A": "15 gün içinde verir, bu süre 15 gün uzatılabilir.",
+                "B": "30 gün içinde verir, bu süre 30 gün uzatılabilir.",
+                "C": "30 gün içinde verir, bu süre 15 gün uzatılabilir.",
+                "D": "45 gün içinde verir, bu süre 15 gün uzatılabilir.",
+                "E": "60 gün içinde verir, bu süre 30 gün uzatılabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Yetkili merci, soruşturma izni konusundaki kararını suçun ... öğrenilmesinden itibaren ön inceleme dahil en geç otuz gün içinde verir. Bu süre, zorunlu hallerde onbeş günü geçmemek üzere bir defa uzatılabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, devam eden bir soruşturma sırasında hangi durumda yeniden soruşturma izni alınması zorunludur?",
+            "secenekler": {
+                "A": "Suçun hukuki niteliğinin değişmesi durumunda",
+                "B": "Hakkında inceleme yapılan memurun terfi etmesi durumunda",
+                "C": "Soruşturma sırasında izin verilen olaydan tamamen ayrı veya farklı bir suçun ortaya çıkması durumunda",
+                "D": "Şikayetçinin şikayetine yeni deliller eklemesi durumunda",
+                "E": "Soruşturmayı yürüten Cumhuriyet savcısının değişmesi durumunda"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Soruşturma sırasında izin verilen olay ve konudan tamamen ayrı veya farklı bir suç olarak nitelendirilebilecek bir fiil ortaya çıktığında, yeniden izin alınması zorunludur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, soruşturma sırasında izin verilen olaydan tamamen ayrı veya farklı bir suç olarak nitelendirilebilecek bir fiilin ortaya çıkması durumunda yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Mevcut soruşturma izniyle yeni suça ilişkin soruşturmaya devam edilir.",
+                "B": "Suçun hukuki niteliği değiştiği için soruşturma sonlandırılır.",
+                "C": "Yeniden izin alınması zorunludur.",
+                "D": "Durum sadece bir raporla yetkili mercie bildirilir.",
+                "E": "Soruşturmayı yürüten Cumhuriyet başsavcılığı resen karar verir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Soruşturma izninin kapsamı başlıklı 8. maddede belirtilen 'Soruşturma sırasında izin verilen olay ve konudan tamamen ayrı veya farklı bir suç olarak nitelendirilebilecek bir fiil ortaya çıktığında, yeniden izin alınması zorunludur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, itiraz üzerine yapılan incelemeler ne kadar süre içinde karara bağlanır ve bu kararın niteliği nedir?",
+            "secenekler": {
+                "A": "En geç bir ay içinde karara bağlanır ve kararlar tebliğden sonra kesinleşir.",
+                "B": "En geç iki ay içinde karara bağlanır ve kararlara karşı yeniden itiraz edilebilir.",
+                "C": "En geç üç ay içinde karara bağlanır ve verilen kararlar kesindir.",
+                "D": "En geç altı ay içinde karara bağlanır ve verilen kararlar kesindir.",
+                "E": "Derhal karara bağlanır ve kararlara karşı Danıştay'a başvurulabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'İtirazlar, öncelikle incelenir ve en geç üç ay içinde karara bağlanır. Verilen kararlar kesindir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, soruşturma izni verilmesine veya verilmemesine ilişkin kararlara karşı itiraz süresi, yetkili merciin kararının ilgiliye tebliğinden itibaren ne kadardır?",
+            "secenekler": {
+                "A": "Yedi gün",
+                "B": "On gün",
+                "C": "Onbeş gün",
+                "D": "Otuz gün",
+                "E": "Üç ay"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, İtiraz başlıklı madde 9'da belirtilen 'İtiraz süresi, yetkili merciin kararının tebliğinden itibaren on gündür.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, soruşturma izni verilmemesine ilişkin karara karşı aşağıdakilerden hangisi veya hangileri itiraz yoluna gidebilir?",
+            "secenekler": {
+                "A": "Yalnızca şikayetçi",
+                "B": "Yalnızca hakkında inceleme yapılan memur",
+                "C": "Cumhuriyet başsavcılığı veya şikayetçi",
+                "D": "Hakkında inceleme yapılan memur veya şikayetçi",
+                "E": "Yalnızca Cumhuriyet başsavcılığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, İtiraz başlıklı madde 9'da belirtilen '...soruşturma izni verilmemesine ilişkin karara karşı ise Cumhuriyet başsavcılığı veya şikayetçi... itiraz yoluna gidebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, suçun iştirak halinde işlenmesi durumunda ast memur ile üst memurun yargılanacağı mahkeme hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her biri kendi rütbesine uygun mahkemede ayrı ayrı yargılanır.",
+                "B": "Ast memur, üst memurla aynı mahkemede yargılanır.",
+                "C": "Yargılanacakları mahkemeyi izin vermeye yetkili merci belirler.",
+                "D": "Konu, görevsizlik kararı ile genel mahkemelere gönderilir.",
+                "E": "Üst memur, ast memura göre belirlenen mahkemede yargılanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen '...ast memur, üst memurla aynı mahkemede yargılanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, bu Kanun kapsamındaki bir suçun iştirak halinde işlenmesi durumunda, suça katılan memur olmayan kişi nerede yargılanır?",
+            "secenekler": {
+                "A": "Suça katıldığı memur olanla aynı mahkemede",
+                "B": "Kendi statüsüne göre yetkili asliye ceza mahkemesinde",
+                "C": "Ast memurun yargılandığı mahkemede",
+                "D": "Genel hükümlere göre belirlenen sulh ceza hakimliğinde",
+                "E": "Her zaman il ağır ceza mahkemesinde"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen '...suçların iştirak halinde işlenmesi durumunda memur olmayan, memur olanla... aynı mahkemede yargılanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, soruşturma izninin kesinleşmesi üzerine dosya derhal hangi makama gönderilir?",
+            "secenekler": {
+                "A": "İzni veren yetkili merciye",
+                "B": "Danıştaya",
+                "C": "Yargıtayın ilgili ceza dairesine",
+                "D": "İl ağır ceza mahkemesine",
+                "E": "Yetkili ve görevli Cumhuriyet başsavcılığına"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, 'Soruşturma izninin gönderileceği merci' başlıklı madde 11'de belirtilen '...soruşturma izninin... kesinleşmesi... üzerine dosya, derhal yetkili ve görevli Cumhuriyet başsavcılığına gönderilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, kaymakamlar ile ilgili hazırlık soruşturması kim tarafından yapılır?",
+            "secenekler": {
+                "A": "Yargıtay Cumhuriyet Başsavcısı veya Başsavcıvekili",
+                "B": "İl Cumhuriyet başsavcısı veya başsavcıvekili",
+                "C": "Genel hükümlere göre yetkili ve görevli Cumhuriyet Başsavcılığı",
+                "D": "İl ağır ceza mahkemesi başkanı",
+                "E": "Yetkili ve görevli sulh ceza hâkimi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen '...kaymakamlar ile ilgili hazırlık soruşturması ise il Cumhuriyet başsavcısı veya başsavcıvekili tarafından yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, kaymakamlar hakkındaki hazırlık soruşturması sırasında hâkim kararı alınmasını gerektiren hususlarda hangi adli makama başvurulur?",
+            "secenekler": {
+                "A": "İl ağır ceza mahkemesine",
+                "B": "Yargıtayın ilgili ceza dairesine",
+                "C": "Yetkili ve görevli sulh ceza hâkimine",
+                "D": "İl asliye ceza mahkemesine",
+                "E": "İl Cumhuriyet başsavcılığına"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen '...kaymakamlar için il asliye ceza mahkemesine... başvurulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, kaymakamlar hakkındaki hazırlık soruşturmasını yürüten merci ile davaya bakmaya yetkili ve görevli mahkeme aşağıdakilerden hangisinde doğru olarak eşleştirilmiştir?",
+            "secenekler": {
+                "A": "Yargıtay Cumhuriyet Başsavcısı - Yargıtayın ilgili ceza dairesi",
+                "B": "İl Cumhuriyet başsavcısı veya başsavcıvekili - İl ağır ceza mahkemesi",
+                "C": "Yetkili Cumhuriyet Başsavcılığı - İl asliye ceza mahkemesi",
+                "D": "İl Cumhuriyet başsavcısı veya başsavcıvekili - Yargıtayın ilgili ceza dairesi",
+                "E": "Yargıtay Cumhuriyet Başsavcıvekili - İl ağır ceza mahkemesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'kaymakamlar ile ilgili hazırlık soruşturması ise il Cumhuriyet başsavcısı veya başsavcıvekili tarafından yapılır' ve Madde 13'te belirtilen 'kaymakamlar için ise [yetkili ve görevli mahkeme] il ağır ceza mahkemesidir' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, haklarındaki davalara Yargıtayın ilgili ceza dairesince bakılacak görevliler arasında aşağıdakilerden hangileri yer alır?\n\nI. Valiler\nII. Kaymakamlar\nIII. Bakan yardımcıları",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 13 'Davaya bakmaya yetkili ve görevli mahkeme' başlığında yer alan '...Bakan yardımcıları ve valiler için yetkili ve görevli mahkeme Yargıtayın ilgili ceza dairesi...' hükmüne dayanmaktadır. Kaymakamlar için yetkili mahkeme il ağır ceza mahkemesidir."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, davaya bakmaya yetkili ve görevli mahkemenin Yargıtayın ilgili ceza dairesi olduğu kamu görevlileri arasında aşağıdakilerden hangileri bulunur?",
+            "secenekler": {
+                "A": "Sadece valiler",
+                "B": "Valiler ve kaymakamlar",
+                "C": "Bakan yardımcıları ve valiler",
+                "D": "Sadece kaymakamlar",
+                "E": "Bakan yardımcıları ve kaymakamlar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, 'Yetkili ve görevli mahkeme' başlıklı madde 13'te belirtilen '...Bakan yardımcıları ve valiler için yetkili ve görevli mahkeme Yargıtayın ilgili ceza dairesi...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, vekillerin tabi olduğu usul hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vekiller için asillerden farklı, özel bir soruşturma usulü uygulanır.",
+                "B": "Vekiller, asillerin tabi olduğu usule tabidir.",
+                "C": "Vekillerin yargılanması için bağlı oldukları bakanlıktan izin alınır.",
+                "D": "Vekiller, asillerden daha hafifletilmiş bir yargılama usulüne tabidir.",
+                "E": "Vekiller bu Kanun'un uygulama kapsamı dışındadır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Bu Kanunun uygulanmasında vekiller, asillerin tabi olduğu usule tabidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, bir ihbar veya şikayetin memuru mağdur etmek amacıyla uydurma bir suç isnadıyla yapıldığının soruşturma veya yargılama sonucunda anlaşılması durumunda, haksız isnatta bulunanlar hakkında re'sen soruşturmayı başlatan makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlgili memurun en üst disiplin amiri",
+                "B": "İdare Mahkemesi",
+                "C": "Yetkili ve görevli Cumhuriyet başsavcılığı",
+                "D": "Valilik veya Kaymakamlık",
+                "E": "Danıştay"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '...haksız isnatta bulunanlar hakkında yetkili ve görevli Cumhuriyet başsavcılığınca re'sen soruşturmaya geçilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, kendisine mağdur etme amacıyla ve uydurma bir suç isnadıyla haksız isnatta bulunulduğu sabit olan bir kamu görevlisinin sahip olduğu haklar arasında aşağıdakilerden hangileri yer alır?\n\nI. Haksız isnatta bulunanlar hakkında tazminat davası açma\nII. Kamu davası açılması için Cumhuriyet başsavcılığına başvurma\nIII. Haksız isnatta bulunanın görevine son verilmesini talep etme",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '...kamu davası açılması için Cumhuriyet başsavcılığına başvurma ve haksız isnatta bulunanlar hakkında (...) tazminat davası açma hakları saklıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, kendisine mağdur etme amacıyla ve uydurma bir suç isnat edildiği anlaşılan bir memurun, haksız isnatta bulunan kişiye karşı sahip olduğu haklar arasında aşağıdakilerden hangisi yer alır?",
+            "secenekler": {
+                "A": "Haksız isnatta bulunanın memuriyetten men edilmesini talep etme hakkı",
+                "B": "İsnatta bulunan hakkında doğrudan disiplin soruşturması açtırma hakkı",
+                "C": "Maddi zararının Hazine tarafından karşılanmasını isteme hakkı",
+                "D": "Tazminat davası açma hakkı",
+                "E": "İsnatta bulunanın mal varlığına tedbir konulmasını isteme hakkı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '...haksız isnatta bulunanlar hakkında (...) tazminat davası açma hakları saklıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, idarenin, hakkında tazminat davası açılan görevliye rücu edebilmesi için, görevlinin kanaatini oluştururken veya değiştirirken hangi hallerden birinin kesinleşmiş bir yargı ya da disiplin kurulu kararıyla tespit edilmesi gerekir?\n\nI. Kin veya garez\nII. Baskı veya telkin\nIII. Hatıra dayanma",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen '...kin, garez ve hatıra dayalı olarak veya baskı veya telkinle kanaat oluşturduğu ya da değiştirdiği kesinleşmiş yargı ya da disiplin kurulu kararıyla tespit edilirse, idarenin görevliye rücu hakkı saklıdır.' hükmü, belirtilen üç durumu da kapsamaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön inceleme, disiplin soruşturması veya diğer idari soruşturmaları yapmakla görevlendirilenlerin bu görevleriyle ilgili faaliyetlerinden dolayı tazminat davası kime karşı açılabilir?",
+            "secenekler": {
+                "A": "Doğrudan görevlinin şahsına",
+                "B": "Görevlinin bağlı olduğu bakanlığa",
+                "C": "Sadece idare aleyhine",
+                "D": "Hem idareye hem de görevliye birlikte",
+                "E": "Önce görevliye, sonuç alınamazsa idareye"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen '...kişisel kusur, haksız fiil veya diğer sorumluluk hâlleri de dâhil olmak üzere ancak idare aleyhine tazminat davası açılabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, idarenin, görevleri nedeniyle hakkında tazminat davası açılan personele rücu edebilmesi için, personelin suç sayılan eyleminin veya belirli bir etkiyle kanaat oluşturduğunun aşağıdakilerden hangisiyle tespit edilmesi şarttır?",
+            "secenekler": {
+                "A": "İdarenin kendi iç denetim raporuyla",
+                "B": "Kesinleşmiş yargı ya da disiplin kurulu kararıyla",
+                "C": "Mağdur olan kişinin şikayet dilekçesiyle",
+                "D": "Bakanlık teftiş kurulunun ön raporuyla",
+                "E": "Kamuoyu ve basın yoluyla"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen '...suç sayılan eylemleri ile kin, garez ve hatıra dayalı olarak veya baskı veya telkinle kanaat oluşturduğu ya da değiştirdiği kesinleşmiş yargı ya da disiplin kurulu kararıyla tespit edilirse, idarenin görevliye rücu hakkı saklıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön inceleme raporlarına dayanarak karar veren veya işlem tesis edenler hakkında, bu eylemlerinden dolayı açılacak tazminat davalarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Dava doğrudan kararı veren kişiye açılır.",
+                "B": "Dava sadece raporu hazırlayana açılabilir.",
+                "C": "Bu kişilere karşı tazminat davası açılamaz.",
+                "D": "Dava ancak idare aleyhine açılabilir.",
+                "E": "Dava hem idareye hem de kararı verene açılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 1'de yer alan '...raporlara dayanarak karar verenler veya işlem tesis edenlerle... hakkında da birinci fıkra hükmü uygulanır.' ifadesine dayanmaktadır. Birinci fıkra, davanın ancak idare aleyhine açılabileceğini düzenlemektedir."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön inceleme veya disiplin soruşturması yapmakla görevlendirilen bir kişinin bu göreviyle ilgili yürüttüğü faaliyetlerden kaynaklanan bir zarar iddiasıyla açılacak tazminat davası, kişisel kusur hâli de dâhil olmak üzere kime karşı açılabilir?",
+            "secenekler": {
+                "A": "Doğrudan görevlinin kendisine",
+                "B": "Görevlinin amirine ve idareye müştereken",
+                "C": "Sadece idare aleyhine",
+                "D": "Soruşturma iznini veren yetkili mercie",
+                "E": "İlgili bakanlığın hukuk müşavirliğine"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen '...kişisel kusur, haksız fiil veya diğer sorumluluk hâlleri de dâhil olmak üzere ancak idare aleyhine tazminat davası açılabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, idarenin, aleyhine hükmedilen tazminatı soruşturmayı yürüten görevliye rücu edebilmesi için aşağıdaki durumlardan hangisinin kesinleşmiş bir kararla tespit edilmesi şarttır?",
+            "secenekler": {
+                "A": "Görevlinin soruşturmada önemli bir usul hatası yapması.",
+                "B": "Görevlinin hazırladığı raporun mahkemece yetersiz bulunması.",
+                "C": "Görevlinin soruşturmayı makul sürede tamamlamaması.",
+                "D": "Görevlinin kin, garez veya baskı ile kanaat oluşturduğunun yargı ya da disiplin kurulu kararıyla tespit edilmesi.",
+                "E": "Görevlinin kendisine verilen yetkinin sınırlarını aşması."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen '...suç sayılan eylemleri ile kin, garez ve hatıra dayalı olarak veya baskı veya telkinle kanaat oluşturduğu ya da değiştirdiği kesinleşmiş yargı ya da disiplin kurulu kararıyla tespit edilirse, idarenin görevliye rücu hakkı saklıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, haklarında ancak idare aleyhine tazminat davası açılabileceğine ilişkin kural, ön inceleme yapmakla görevlendirilenler dışında aşağıdakilerden hangileri için de uygulanır?\n\nI. Ön inceleme raporlarına dayanarak karar verenler\nII. Bu kararları hazırlayan ve teklif edenler\nIII. Görevliler hakkında basında haber yapanlar",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de yer alan '...raporlara dayanarak karar verenler veya işlem tesis edenlerle, bu kararları ya da işlemleri hazırlayan ve inha ya da teklif edenler hakkında da birinci fıkra hükmü uygulanır.' hükmüne dayanmaktadır. III. öncül metinde yer almamaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ön inceleme yapmakla görevlendirilen bir kişinin bu göreviyle ilgili olarak düzenlediği rapor veya belirttiği kanaatlerden dolayı açılacak bir tazminat davası, kural olarak kime karşı açılabilir?",
+            "secenekler": {
+                "A": "Doğrudan görevi yapan kişinin kendisine",
+                "B": "Sadece ilgili idare aleyhine",
+                "C": "Görevi yapan kişi ile idareye müştereken",
+                "D": "Görevi yapan kişiyi görevlendiren yetkili mercie",
+                "E": "Hazine ve Maliye Bakanlığına"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen '...ancak idare aleyhine tazminat davası açılabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, Kanunun amacı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Memurların disiplin cezalarına karşı başvurabilecekleri idari ve yargısal yolları düzenlemektir.",
+                "B": "Kamu görevlilerinin özlük haklarını, mali sorumluluklarını ve terfi işlemlerini belirlemektir.",
+                "C": "Memurlar ve diğer kamu görevlilerinin görevleri sebebiyle işledikleri suçlardan dolayı yargılanabilmeleri için izin vermeye yetkili mercileri belirtmek ve izlenecek usulü düzenlemektir.",
+                "D": "Kamu görevlilerinin işledikleri şahsi suçlarda izlenecek soruşturma ve kovuşturma usullerini belirlemektir.",
+                "E": "Memurların görevden uzaklaştırılmasına karar verecek yetkili amirleri ve bu sürecin işleyişini belirlemektir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Bu Kanunun amacı, memurlar ve diğer kamu görevlilerinin görevleri sebebiyle işledikleri suçlardan dolayı yargılanabilmeleri için izin vermeye yetkili mercileri belirtmek ve izlenecek usulü düzenlemektir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, ilgili Kanun hükümleri memurlar ve diğer kamu görevlilerinin hangi nitelikteki suçları için uygulanır?",
+            "secenekler": {
+                "A": "Sadece yüz kızartıcı suçları",
+                "B": "Görevleri sebebiyle işledikleri suçları",
+                "C": "Mesai saatleri içinde işledikleri her türlü suçları",
+                "D": "Disiplin cezası gerektiren fiilleri",
+                "E": "Görev yerinde işlenen şahsi suçları"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen '...görevleri sebebiyle işledikleri suçlardan dolayı...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, bu Kanun Devletin ve diğer kamu tüzel kişilerinin genel idare esaslarına göre yürüttükleri kamu hizmetlerinin gerektirdiği hangi nitelikteki görevleri ifa eden memurlar hakkında uygulanır?",
+            "secenekler": {
+                "A": "Geçici ve süreli",
+                "B": "Teknik ve idari",
+                "C": "Asli ve sürekli",
+                "D": "Denetim ve yönetim",
+                "E": "Yardımcı ve tamamlayıcı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'kamu hizmetlerinin gerektirdiği asli ve sürekli görevleri ifa eden memurlar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre, memurlar ve diğer kamu görevlileri hakkında genel hükümlerin uygulanacağı özel durum aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Disiplin soruşturması gerektiren haller",
+                "B": "Ağır cezayı gerektiren suçüstü hali",
+                "C": "Görevden uzaklaştırmayı gerektiren durumlar",
+                "D": "İdari para cezası öngörülen kabahatler",
+                "E": "Yazılı uyarı gerektiren eylemler"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Ağır cezayı gerektiren suçüstü hali genel hükümlere tabidir.' hükmüne dayanmaktadır."
+        }
+    ]
+}

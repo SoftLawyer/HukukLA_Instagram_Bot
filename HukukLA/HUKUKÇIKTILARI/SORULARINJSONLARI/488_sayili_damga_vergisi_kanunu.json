@@ -1,0 +1,844 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, 'kağıtlar' teriminin tanımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece yazılıp imzalanmak suretiyle düzenlenen belgeleri ifade eder.",
+                "B": "Elektronik imza kullanılarak manyetik ortamda oluşturulan belgeler bu tanımın dışındadır.",
+                "C": "Bir hususu ispat veya belli etme amacı taşıması, kağıt sayılması için zorunlu bir unsur değildir.",
+                "D": "İmza yerine geçen bir işaretin konulması, belgenin kağıt olarak kabul edilmesi için yeterli değildir.",
+                "E": "Elektronik imza kullanılarak elektronik veri şeklinde oluşturulan belgeler de kağıt terimi kapsamındadır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen '...elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan belgeleri ifade eder.' hükmüne dayanmaktadır. Bu hüküm, elektronik belgelerin de 'kağıt' tanımına dahil olduğunu açıkça belirtir.\n- Diğer seçenekler: A, B ve D seçenekleri, kanundaki tanımın hem fiziki hem de elektronik belgeleri ve imza yerine geçen işaretleri kapsayan genişliğini daralttığı için; C seçeneği ise metinde açıkça belirtilen 'herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek' olma şartına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, yabancı memleketlerde düzenlenen bir kağıdın Türkiye'de damga vergisine tabi tutulması sonucunu doğuran hallerden biri aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kağıdın taraflarından en az birinin Türk vatandaşı olması.",
+                "B": "Kağıdın düzenlendiği ülkede vergiye tabi tutulmamış olması.",
+                "C": "Kağıdın Türkiye'de herhangi bir suretle hükümlerinden faydalanılması.",
+                "D": "Kağıdın düzenlenme tarihinden itibaren altı ay içinde Türkiye'ye getirilmesi.",
+                "E": "Kağıdın ticari bir sözleşmeye ilişkin olması."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Yabancı memleketlerle Türkiye'deki yabancı elçilik ve konsolosluklarda düzenlenen kağıtlar, Türkiye'de resmi dairelere ibraz edildiği, üzerine devir veya ciro işlemleri yürütüldüğü veya herhangi bir suretle hükümlerinden faydalanıldığı takdirde vergiye tabi tutulur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunun ilgili maddesinde sayılan vergilendirme şartları arasında yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, yabancı bir memlekette düzenlenen ve Türkiye'de bir kişi tarafından resmi daireye ibraz edilen bir kağıda ilişkin damga vergisi mükellefiyeti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Verginin mükellefi, kağıdı yabancı memlekette düzenleyip imzalayan kişidir.",
+                "B": "Kağıt, Türkiye'de resmi daireye ibraz edildiği anda vergiye tabi hale gelir ve vergiyi ibraz eden kişi öder.",
+                "C": "Yabancı memleketlerde düzenlenen kağıtlar, Türkiye'de hiçbir surette damga vergisine tabi tutulmaz.",
+                "D": "Verginin mükellefi, kağıdın ibraz edildiği resmi dairedir.",
+                "E": "Kağıdın vergiye tabi olması için hem Türkiye'de ibraz edilmesi hem de yurt dışında noter onayı alması gerekir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Yabancı memleketlerde düzenlenen kağıtlar, Türkiye'de resmi dairelere ibraz edildiği ... takdirde vergiye tabi tutulur' hükmü ile Madde 3'te yer alan '...vergisini, Türkiye'de bu kağıtları resmi dairelere ibraz eden ... öderler' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen mükellef tanımına veya yabancı kağıtların vergilendirilme şartlarına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, vergiye tabi bir kağıdın hükümlerine ilişkin düzenlenen aşağıdaki mektup ve şerhlerden hangisi, ayrıca Damga Vergisine tabi olanlar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Hükümlerinin yenilenmesine ilişkin olanlar",
+                "B": "Hükümlerinin uzatılmasına ilişkin olanlar",
+                "C": "Hükümlerinin devrine ilişkin olanlar",
+                "D": "Hükümlerinin bozulmasına ilişkin olanlar",
+                "E": "Hükümlerinin icrasına ilişkin olanlar"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'bu kağıtların hükümlerinin yenilenmesine, uzatılmasına, değiştirilmesine devrine veya bozulmasına ilişkin mektup ve şerhler de Damga Vergisine tabidir' hükmüne dayanmaktadır.\n- Diğer seçenekler, maddede Damga Vergisine tabi olduğu açıkça sayılan işlemler arasında yer aldığı için yanlıştır. Kanunda hükümlerin 'icrasına' ilişkin bir düzenleme bulunmamaktadır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, mevcut bir kağıdın hükümlerini uzatan ve bu kağıda atıf yapan bir şerhin tabi olacağı verginin belirlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hükümleri uzatan şerhler, asıl kağıttan bağımsız olarak her zaman sabit bir vergiye tabidir.",
+                "B": "Şerhin mahiyeti, atıf yapılan asıl kağıdın hükümlerine göre kazandığı nitelik dikkate alınarak belirlenir ve buna göre vergilendirilir.",
+                "C": "Sadece asıl kağıt vergiye tabi olup, onun hükümlerini uzatan şerhler damga vergisinden muaftır.",
+                "D": "Verginin tayini için şerhin üzerindeki imza sayısına bakılır.",
+                "E": "Atıf yapılan kağıdın mahiyeti ne olursa olsun, uzatmaya ilişkin şerhin vergisi üzerindeki yazıların uzunluğuna göre hesaplanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'bu kağıtların hükümlerinin ... uzatılmasına ... ilişkin mektup ve şerhler de Damga Vergisine tabidir' hükmü ile Madde 4'teki 'Mahiyeti tayin edilmek istenen kağıt üzerinde başka bir kağıda atıf yapılmışsa, atıf yapılan kağıdın hükümlerine nazaran iktisap ettiği mahiyete göre vergi alınır' hükmünün birlikte değerlendirilmesine dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen verginin tayini usulüne veya verginin şümulüne ilişkin kurallara aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, resmi dairelerle kişiler arasındaki işlemlere ait kağıtların Damga Vergisini kim öder?",
+            "secenekler": {
+                "A": "İşlemi onaylayan resmi daire",
+                "B": "Kağıdı düzenleyen memur",
+                "C": "Kişiler",
+                "D": "Resmi daire ve kişiler yarı yarıya",
+                "E": "Kağıdı imzalayan her iki taraf"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Resmi dairelerle kişiler arasındaki işlemlere ait kağıtların Damga Vergisini kişiler öder.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda yer alan bu özel duruma aykırı olduğu veya kanunda böyle bir düzenleme bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, yabancı memleketlerde düzenlenmiş olan ve ticari veya mütedavil kağıt mahiyetinde bulunan belgelerin vergisini kimin ödeyeceği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu kağıtları Türkiye'de resmi dairelere ibraz edenler öder.",
+                "B": "Bu kağıtlar üzerinde devir veya ciro işlemi yapanlar öder.",
+                "C": "Bu kağıtların hükümlerinden herhangi bir suretle faydalananlar öder.",
+                "D": "Bu kağıtları en evvel satan veya kabul eden kişiler öder.",
+                "E": "Bu kağıtların mahiyetini tayin eden resmi kurum öder."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen '...bunlardan ticari veya mütedavil kağıt mahiyetinde bulunanların vergisini, bunları en evvel satan veya kabul veya başka suretle kullanan kişiler öderler.' hükmüne dayanmaktadır.\n- A, B ve C seçenekleri, yabancı memleketlerde düzenlenen kağıtlar için geçerli olan genel kuralı ifade etmekle birlikte, soruda belirtilen 'ticari veya mütedavil kağıt' istisnasına uymadığı için yanlıştır. E seçeneği ise farklı bir maddenin konusudur."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, bir kağıdın tabi olacağı verginin tayini amacıyla mahiyetinin belirlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kağıdın mahiyeti ne olursa olsun, üzerindeki imza sayısı verginin temelini oluşturur.",
+                "B": "Şekli kanunlarda belirtilmemiş kağıtların mahiyeti, ibraz edildiği resmi dairenin takdirine göre belirlenir.",
+                "C": "Kağıt üzerinde başka bir kağıda atıf yapılmışsa, vergi atıf yapılan kağıdın hükümlerine göre alınır.",
+                "D": "Kağıtların mahiyetinin tayininde öncelikli olarak kağıdı düzenleyenlerin beyanı esas alınır.",
+                "E": "Bir kağıdın mahiyeti, her zaman kanunlarda belirtilen adlarına göre tayin edilir, içeriğindeki anlam dikkate alınmaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Mahiyeti tayin edilmek istenen kağıt üzerinde başka bir kağıda atıf yapılmışsa, atıf yapılan kağıdın hükümlerine nazaran iktisap ettiği mahiyete göre vergi alınır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen mahiyet tayini usullerine aykırı veya kanunda yer almayan varsayımsal kurallar içerdiği için yanlıştır. Kanun, mahiyetin tayininde öncelikle kağıdın kanunlardaki adına, bu belirtilmemişse üzerindeki yazının içerdiği hüküm ve anlama bakılacağını düzenlemiş; imza sayısı, düzenleyenin beyanı veya resmi dairenin takdiri gibi unsurlara yer vermemiştir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, bir kağıdın tabi olacağı verginin tayini için mahiyetinin belirlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bir kağıdın mahiyeti ne olursa olsun, her zaman üzerindeki başlığa göre vergi alınır.",
+                "B": "Kağıt üzerinde başka bir kağıda atıf yapılması, atıf yapılan kağıdın mahiyetinin esas alınmasını gerektirir.",
+                "C": "Kağıdın mahiyetinin tayininde öncelikli olarak tarafların beyanı esas alınır.",
+                "D": "Şekli kanunlarda belirtilmiş olsa bile, kağıdın içerdiği mana her zaman kanundaki adından daha önceliklidir.",
+                "E": "Mahiyeti tayin edilemeyen kağıtlar için vergi, tabloda yer alan en düşük miktar üzerinden alınır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Mahiyeti tayin edilmek istenen kağıt üzerinde başka bir kağıda atıf yapılmışsa, atıf yapılan kağıdın hükümlerine nazaran iktisap ettiği mahiyete göre vergi alınır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 4'te belirtilen mahiyet tayini usulüne aykırı veya kanunda yer almayan varsayımlar içerdiği için yanlıştır. Kanun, şekli kanunlarda adı belirtilen kağıtlar için o adın, belirtilmeyenler için ise içeriğin esas alınacağını düzenlemiştir; tarafların beyanına veya en düşük vergiye ilişkin bir kural bulunmamaktadır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, bir nüshadan fazla olarak düzenlenen kâgitların vergilendirilmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Maktu vergiye tabi olan kâğıtların sadece ilk nüshası damga vergisine tabidir.",
+                "B": "Nispi vergiye tabi olan kâğıtların sadece bir nüshası damga vergisine tabidir.",
+                "C": "Nispi vergiye tabi olan kâğıtların her bir nüshası ayrı ayrı vergilendirilir.",
+                "D": "Poliçe ve emre yazılı ticari senetlerin, tedavüle çıkarılıp çıkarılmadığına bakılmaksızın tüm nüshaları vergiye tabidir.",
+                "E": "Maktu vergiye tabi olan kâğıtlar ile poliçe ve emre yazılı ticari senetlerin vergilendirme usulü aynıdır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'nispi vergiye tabi olanların ise sadece bir nüshası damga vergisine tabidir' hükmüne dayanmaktadır.\n- Diğer seçenekler, Madde 5'te yer alan kurallara aykırıdır. Maktu vergiye tabi kâğıtların her bir nüshası ayrı ayrı vergilendirilirken, poliçe ve emre yazılı ticari senetlerin ise yalnızca tedavüle çıkarılan nüshaları vergiye tabi tutulur. Bu nedenle A, C, D ve E seçenekleri yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, bir kağıdın birden fazla akit ve işlem içermesi durumuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bir kağıtta birbirinden tamamen ayrı birden fazla akit ve işlem varsa, her birinden ayrı ayrı vergi alınır.",
+                "B": "Bir sözleşmenin müeyyidesi niteliğindeki cezai şart, tek başına bir sözleşme konusu değilse damga vergisine tabi değildir.",
+                "C": "Bir kağıt üzerinde birden fazla adi kefalet ve garanti taahhüdü bulunması hâlinde, ayrı ayrı olmak üzere bunlardan yalnızca birinden damga vergisi alınır.",
+                "D": "Asıl işlemin akitlerine başka bir şahsın akit ve işlemi eklenirse, bu eklenen işlem de ayrıca vergiye tabi olur.",
+                "E": "Nispi vergiye tabi ve birbirine bağlı işlemler içeren bir kağıdın birden fazla nüsha düzenlenmesi halinde her bir nüshası ayrı ayrı vergiye tabidir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'nispi vergiye tabi olanların ise sadece bir nüshası damga vergisine tabidir' hükmüyle çelişmektedir. Birbirine bağlı işlemler olması, nüshaların vergilendirilmesine ilişkin bu kuralı değiştirmez.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde yer alan ifadelerin tamamı Madde 6'da yer alan doğru hükümlerdir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, bir kağıtta toplanan akit ve işlemlerin birbirine bağlı ve bir asıldan doğma olması durumunda damga vergisi nasıl hesaplanır?",
+            "secenekler": {
+                "A": "Her bir akit ve işlemden ayrı ayrı vergi alınır.",
+                "B": "En yüksek vergi alınmasını gerektiren akit veya işlem üzerinden alınır.",
+                "C": "Sadece asıl işlem vergiye tabi tutulur, eklenen işlemler vergiden muaftır.",
+                "D": "Başlı başına bir sözleşmeye konu olmadıkça damga vergisi alınmaz.",
+                "E": "Akit ve işlemlerin toplam değeri üzerinden tek bir vergi hesaplanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Bir kağıtta toplanan akit ve işlemler birbirine bağlı ve bir asıldan doğma oldukları takdirde Damga Vergisi, en yüksek vergi alınmasını gerektiren akit veya işlem üzerinden alınır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği birbirinden tamamen ayrı işlemler için geçerlidir. D seçeneği sözleşmenin müeyyidesi niteliğindeki taahhütler için geçerlidir. C ve E seçenekleri ise kanunda yer almayan yanlış uygulamalardır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, iki nüsha olarak düzenlenen ve birbiriyle ilgisi olmayan bir adet nispı vergiye tabi satış sözleşmesi ile bir adet maktu vergiye tabi kira sözleşmesini aynı kağıt üzerinde birleştiren bir belge ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Belgedeki en yüksek vergiyi gerektiren işlem üzerinden tek bir vergi alınır ve sadece bir nüsha vergilendirilir.",
+                "B": "Satış sözleşmesi sadece bir nüsha üzerinden, kira sözleşmesi ise her iki nüsha üzerinden ayrı ayrı vergilendirilir.",
+                "C": "Her iki sözleşme de her iki nüsha üzerinden ayrı ayrı damga vergisine tabi tutulur.",
+                "D": "Tek bir kağıtta toplandığı için, sadece bir nüsha üzerinden ve tek bir maktu vergi alınır.",
+                "E": "Sadece nispi vergiye tabi olan satış sözleşmesi üzerinden tek nüsha olarak vergi alınır, maktu vergili işlem vergiden muaftır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Bir kağıtta biribirinden tamamen ayrı birden fazla akit ve işlem bulunduğu takdirde bunların herbirinden ayrı ayrı vergi alınır' hükmü ile Madde 5'teki 'nispi vergiye tabi olanların ise sadece bir nüshası damga vergisine tabidir' ve 'maktu vergiye tabi olanların her bir nüshası ayrı ayrı aynı miktarda' vergilenir hükümlerinin birleşimine dayanmaktadır.\n- Diğer seçenekler: Madde 6'daki bağlı işlem kuralını (A), Madde 5'teki nispi vergi kuralını (C), Madde 6'daki ayrı işlem kuralını (D) veya Madde 5'teki maktu vergi kuralını (E) yanlış yorumladığı için hatalıdır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, nispı vergiye tabi bir borç ikrarını içeren ve her bir borçlunun hissesinin ayrı ayrı belirtildiği bir ibra senedine, asıl işlem tarafı olmayan üçüncü bir kişinin adı kefalet şerhi eklemesi ve tüm tarafların belgeyi imzalaması durumunda damga vergisi mükellefiyeti nasıl doğar?",
+            "secenekler": {
+                "A": "Sadece en yüksek vergi alınmasını gerektiren borç ikrarı işlemi üzerinden tek bir vergi alınır.",
+                "B": "Belgedeki imza sayısına göre maktu vergi alınır.",
+                "C": "Borç ikrarı için her bir borçlunun hissesine göre ayrı ayrı ve eklenen kefalet işlemi için de ayrıca vergi alınır.",
+                "D": "Sadece üçüncü kişinin eklediği kefalet işlemi vergiye tabi tutulur, asıl işlem vergiden istisnadır.",
+                "E": "Tüm işlemler tek bir asıldan doğmuş kabul edilir ve borçluların hisselerine bakılmaksızın toplam tutar üzerinden tek bir nispi vergi alınır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'bu akit ve işlemlere asıl işlemin akitlerinden başka bir şahsın eklenen akit ve işlemi de ayrıca vergiye tabidir' hükmü ile Madde 7'deki 'Nispi vergiye tabi ... makbuz ve ibra senetlerinde her imza sahibine ait olan hisse ayrıca belli edilmiş ise, vergi, hisselere göre ayrı ayrı ödenir' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Madde 6'daki bağlı işlem kuralını (A), Madde 7'deki maktu vergi kuralını (B), kanundaki hükümleri (D) veya Madde 7'deki hisseli ödeme kuralını (E) göz ardı ettiği için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, birden fazla imza taşıyan kağıtların vergilendirilmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Maktu vergiye tabi olan ve birden çok kişinin imzasını taşıyan makbuz ve ibra senetlerinin damga vergisi, imza sayısına göre alınır.",
+                "B": "Nispi vergiye tabi makbuz ve ibra senetlerinde, imza sahiplerinin hisseleri belirtilmişse vergi bu hisselere göre ayrı ayrı ödenir.",
+                "C": "Bir gerçek veya tüzel kişi adına atılan birden fazla imza, vergilendirme açısından tek bir imza olarak kabul edilir.",
+                "D": "Bir kağıtta birden fazla imza bulunması, her durumda damga vergisinin imza sayısı kadar tekrarlanması sonucunu doğurur.",
+                "E": "Genel kural olarak, bir kağıda birden fazla imza atılması verginin tekrarlanmasını gerektirmez."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Kağıtlara konulan imzanın birden fazla olması verginin tekerrürünü gerektirmez.' hükmüne dayanmaktadır. D seçeneği, bu genel kuralın tam tersini iddia ettiği için yanlıştır. Diğer seçenekler ise Madde 7'de yer alan genel kuralı, maktu ve nispi vergiye tabi makbuz ve ibra senetlerine ilişkin istisnaları ve bir kişi adına atılan imzaların tek sayılacağı yönündeki özel hükmü doğru bir şekilde yansıtmaktadır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, bir şirketin yönetim kurulunu oluşturan beş üyenin tamamının şirket adına bir sözleşmeyi imzalaması durumunda, damga vergisi mükellefiyeti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sözleşme maktu vergiye tabi ise vergi imza adedine göre beş katı olarak alınır.",
+                "B": "Sözleşme nispi vergiye tabi ise vergi, her bir üyenin şahsi hissesine göre ayrı ayrı ödenir.",
+                "C": "Şirket bir tüzel kişi olduğundan, atılan beş imza tek bir imza hükmünde kabul edilir ve vergi buna göre hesaplanır.",
+                "D": "Kağıtlara konulan imzanın birden fazla olması her durumda verginin tekerrürünü gerektirdiğinden beş ayrı vergi doğar.",
+                "E": "Sadece resmi daireler adına atılan çoklu imzalar tek sayıldığından, şirket adına atılan imzalar için bu kural uygulanmaz ve her imza için ayrı vergi alınır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'bir gerçek veya tüzel kişi adına kağıtlara konulan birden fazla imza bir imza hükmündedir' hükmüne dayanmaktadır. Bu nedenle, şirket adına atılan tüm imzalar tek bir imza olarak değerlendirilir.\n- Diğer seçenekler, kanunun bu açık hükmüne aykırıdır veya maktu/nispi vergiye tabi makbuz ve ibra senetlerine ilişkin farklı kuralları yanlış bir şekilde bu olaya uygulamaktadır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, bir belediye ile bu belediyeye bağlı ancak ayrı tüzel kişiliği bulunan bir iktisadi işletmenin taraf olduğu bir kağıda, belediye adına üç, iktisadi işletme adına ise iki yetkili imza atıldığında, damga vergisi mükellefiyeti açısından kaç imza var sayılır?",
+            "secenekler": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "5",
+                "E": "İmza sayısına bakılmaksızın tek vergi alınır"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'bir resmi daire ... adına kağıtlara konulan birden fazla imza bir imza hükmündedir' hükmü ile Madde 8'de yer alan 'Bu dairelere bağlı olup ayrı tüzel kişiliği bulunan iktisadi işletmeler resmi daire sayılmaz' hükmünün birlikte değerlendirilmesine dayanmaktadır. Belediye, Madde 8 uyarınca resmi daire sayıldığı için üç imzası tek imza kabul edilir. Ancak iktisadi işletme resmi daire sayılmadığından, iki imzası ayrı ayrı hesaba katılır. Bu durumda toplamda (1+2=3) üç imza esas alınır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, birden fazla kişinin imzasını taşıyan kağıtlarda damga vergisi uygulaması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Nispi vergiye tabi bir ibra senedinde, her imza sahibinin hissesi belli olsa dahi vergi toplam tutar üzerinden tek olarak alınır.",
+                "B": "Maktu vergiye tabi bir makbuzda, imza sayısı ne olursa olsun vergi daima tek imza üzerinden hesaplanır.",
+                "C": "Kağıtlara konulan imzanın birden fazla olması, verginin her durumda tekerrürünü gerektirir.",
+                "D": "Maktu vergiye tabi bir ibra senedi birden fazla kişi tarafından imzalanmışsa, damga vergisi imza sayısına göre hesaplanır.",
+                "E": "Belli para içeren tüm kağıtlarda vergi, imza sahiplerinin hisselerine bakılmaksızın imza adedince alınır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'maktu vergiye tabi olup müteaddit kişilerin imzasını taşıyan makbuz ve ibra senetlerinin Damga Vergisi imza adedine göre alınır' hükmüne dayanmaktadır. Bu hüküm, maktu vergiye tabi belirli kağıtlarda imza sayısının vergiyi artırdığını açıkça düzenlemektedir.\n- Diğer seçenekler: Madde 7'de belirtilen genel kurala veya özel durumlara aykırı oldukları için yanlıştır. Örneğin, A seçeneği hisselere göre ayrı ayrı ödeme kuralına, B seçeneği ise imza adedine göre alınma kuralına aykırıdır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, aşağıdakilerden hangisi 'resmi daire' tanımı dışında tutulmuştur?",
+            "secenekler": {
+                "A": "İl özel idareleri",
+                "B": "Yatırım izleme ve koordinasyon başkanlıkları",
+                "C": "Resmi dairelere bağlı olup ayrı tüzel kişiliği bulunan iktisadi işletmeler",
+                "D": "Genel ve özel bütçeli idareler",
+                "E": "Belediyeler ve köyler"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Bu dairelere bağlı olup ayrı tüzel kişiliği bulunan iktisadi işletmeler resmi daire sayılmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda açıkça resmi daire olarak sayılan kurum ve idareler arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Kanuna ekli (2) sayılı tabloda yazılı kağıtların Damga Vergisi karşısındaki durumu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Damga Vergisinden müstesnadır.",
+                "B": "Sadece nispi vergiye tabidir.",
+                "C": "Sadece maktu vergiye tabidir.",
+                "D": "Vergi, kağıttaki imza adedine göre alınır.",
+                "E": "Vergisi, kağıtta yazılı belli paranın yarısı oranında alınır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Bu Kanuna ekli (2) sayılı tabloda yazılı kağıtlar Damga Vergisinden müstesnadır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen istisna kuralına aykırı olarak bu kağıtların çeşitli şekillerde vergiye tabi olduğunu belirttiği için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisinin vergileme ölçüleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Nispi vergide, kağıtların mahiyetleri esas alınır.",
+                "B": "Maktu vergide, kağıtlarda yazılı belli para esastır.",
+                "C": "'Belli para' terimi, kağıtların ihtiva ettiği veya bunlarda yazılı rakamların hasıl edeceği parayı ifade eder.",
+                "D": "Damga Vergisi sadece nispi olarak alınabilir, maktu vergi uygulaması kaldırılmıştır.",
+                "E": "Hem nispi hem de maktu vergide temel ölçü, kağıdı imzalayan kişilerin sayısıdır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Belli para terimi, kağıtların ihtiva ettiği veya bunlarda yazılı rakamların hasıl edeceği parayı ifade eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 10'da yer alan tanımlara aykırıdır. Kanuna göre nispi vergide 'belli para', maktu vergide ise 'kağıtların mahiyetleri' esastır ve vergi her iki şekilde de alınabilir. İmza sayısı bu maddede bir vergileme ölçüsü olarak sayılmamıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, nispı damga vergisinin hesaplanmasında esas alınan temel ölçüt aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kağıtlarda yazılı belli para",
+                "B": "Kağıtların mahiyetleri",
+                "C": "Kağıdın düzenlendiği yabancı para biriminin ilan edilen kuru",
+                "D": "Sözleşme süresinin uzatılıp uzatılmadığı",
+                "E": "Tarafların müteselsil sorumlu olup olmaması"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Nispi vergide, kağıtların nevi ve mahiyetlerine göre, bu kağıtlarda yazılı belli para... esastır.' hükmüne dayanmaktadır. Bu kurala göre nispi verginin matrahı, kağıdın içerdiği veya üzerinde yazılı olan para miktarıdır.\n- Diğer seçenekler: B seçeneğindeki 'kağıtların mahiyetleri' maktu verginin esasını oluşturur. Diğer seçeneklerde belirtilen hususlar ise vergilendirmenin farklı aşamaları veya özel durumlarıyla ilgili olup, nispi verginin temel ölçütünü teşkil etmez."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, cari hesap şeklinde açılan bir krediye ait mukavelenamede ikraz edilen para miktarının gösterilmemesi halinde, bu durumdan kaynaklanan vergi ve cezanın ödenmesinden müteselsilen sorumlu olanlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Mukriz (kredi veren)",
+                "B": "Müstakriz (kredi alan)",
+                "C": "Temlik eden",
+                "D": "Adına temlik yapılan şahıs",
+                "E": "Sözleşmeye kefil olan üçüncü kişi"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Bu vergi ve cezanın ödenmesinde mukriz ve müstakrizlerle temlik eden ve adına temlik yapılan şahıslar ve müesseseler müteselsilen sorumludurlar' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen taraflar kanunda açıkça müteselsil sorumlu olarak sayılmışken, sözleşmeye kefil olan üçüncü kişinin bu vergi ve cezadan sorumluluğuna dair bir düzenleme maddede yer almamaktadır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisine tabi kağıtlarda yazılı yabancı paraların Türk parasına çevrilmesinde esas alınacak fiyatı belirleme ve ilan etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Türkiye Cumhuriyet Merkez Bankası",
+                "B": "Cumhurbaşkanı",
+                "C": "Maliye Bakanlığı",
+                "D": "Gelir İdaresi Başkanlığı",
+                "E": "Ticaret Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Damga Vergisine tabi kağıtlarda yazılı yabancı paralar Maliye Bakanlığınca tayin ve ilan edilecek fiyat üzerinden Türk parasına çevrilerek ona göre Damga Vergisi alınır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumların, damga vergisi için yabancı paraların çevrilmesinde kullanılacak fiyatı belirleme ve ilan etme yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, yabancı para birimi üzerinden düzenlenen bir kağıdın vergilendirilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi hesaplaması için yabancı paranın, Maliye Bakanlığınca ilan edilecek fiyat üzerinden Türk parasına çevrilmesi gerekir.",
+                "B": "Yabancı memleketlerin birinden diğeri üzerine düzenlenip Türkiye'de tedavüle çıkarılan kağıtlar tam nispette vergiye tabidir.",
+                "C": "Vergi, kağıdın mahiyeti esas alınarak her durumda maktu olarak alınır.",
+                "D": "Vergi, kağıtta yazılı yabancı para tutarının sayısal değeri üzerinden, para birimine bakılmaksızın doğrudan hesaplanır.",
+                "E": "Yabancı memleketlerden Türkiye üzerine düzenlenen bu tür kağıtlar vergiden muaftır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Damga Vergisine tabi kağıtlarda yazılı yabancı paralar Maliye Bakanlığınca tayin ve ilan edilecek fiyat üzerinden Türk parasına çevrilerek ona göre Damga Vergisi alınır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen vergilendirme usullerine (Madde 10), yabancı paranın çevrilme kuralına (Madde 12) veya yabancı memleketlerle ilgili kağıtlara ilişkin özel düzenlemelere (Madde 14) aykırı bilgiler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, belli parayı ihtiva eden mukavelenameler ve akreditif mektuplarına ilişkin vergilendirme ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mukavelenamelerin müddetinin uzatılması halinde aslından alınan verginin dörtte biri alınır.",
+                "B": "Mukavelenamelerin devri halinde aslından alınan verginin dörtte biri alınır.",
+                "C": "Akreditif mektup ve telgraflarında süre uzatıldığı takdirde vergi aynı miktar veya nispette alınır.",
+                "D": "Azami tutardan vergi alınmış bir mukavelenamenin sadece bedeli artarsa, artan bedel üzerinden de aynı nispette vergi alınır.",
+                "E": "Yabancı memleketlerden Türkiye üzerine düzenlenen kağıtlar yarı nispette vergiye tabidir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Bunların devri halinde aslından alınan verginin dörtte biri alınır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 14'te yer alan kuralları yanlış yansıttığı için hatalıdır. Mukavelenamelerin süresinin uzatılması halinde aynı miktar veya nispette vergi alınır (A seçeneği yanlış). Akreditif mektuplarında süre uzatımında verginin dörtte biri alınır (C seçeneği yanlış). Azami tutardan vergi alınmış mukavelenamelerde sadece bedel artışı olması durumunda artan bedel için vergi alınmaz (D seçeneği yanlış). Yabancı memleketlerden Türkiye üzerine düzenlenen kağıtlar ise aynı miktarda vergiye tabidir (E seçeneği yanlış)."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, daha önce imzalanmış ve içerdiği bedel üzerinden hesaplanan vergisi kanunda belirtilen azami tutara ulaştığı için bu azami tutardan vergilendirilmiş bir mukavelenamenin, diğer hükümlerinde değişiklik olmaksızın sadece bedeli artırıldığında ortaya çıkan hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Mukavelenamenin devri sayılacağından, aslından alınan verginin dörtte biri alınır.",
+                "B": "Sadece bedel artışı olduğu için yeniden vergi alınması gerekmez.",
+                "C": "Artan bedel üzerinden, azami tutar sınırlaması uygulanmaksızın aynı nispette vergi alınır.",
+                "D": "Artan bedel üzerinden hesaplanacak vergi, yeniden azami tutar ile sınırlandırılır.",
+                "E": "Mukavelenamenin süresi uzatılmış kabul edilir ve aynı miktar veya nispette vergi alınır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Birinci fıkraya göre azami tutardan vergi alınan mukavelenamelerin, diğer hükümlerinde değişiklik olmaksızın sadece bedelinin artması durumunda, artan bedele ilişkin bu hüküm uygulanmaz' hükmüne dayanmaktadır. Bu durum, artan bedelin azami tutar sınırlamasına tabi olmayacağını ifade eder.\n- Diğer seçenekler: Kanunda mukavelenamelerin devri, süre uzatımı veya bedel artışı için öngörülen farklı hukuki sonuçları (Madde 14) yanlış bir şekilde olaya uyguladığı için hatalıdır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, kanunda belirtilen azami tutardan damga vergisi alınmış bir mukavelenamenin, diğer hükümlerinde değişiklik olmaksızın sadece bedelinin artması durumunda, artan bedele ilişkin uygulanacak vergiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Artan bedel üzerinden, aslından alınan verginin dörtte biri oranında vergi alınır.",
+                "B": "Artan bedele ilişkin olarak, belli parayı ihtiva eden mukavelenamelerin değiştirilmesi halinde artan miktarın vergilendirileceğine dair hüküm uygulanmaz.",
+                "C": "Sözleşme süresi uzatılmış kabul edilir ve aynı miktar veya nispette vergi alınır.",
+                "D": "Artan bedel üzerinden, yabancı memleketlerden gelen kağıtlar gibi yarı nispette vergi alınır.",
+                "E": "Sözleşme geçersiz hale gelir ve artan bedeli de kapsayacak şekilde yeniden düzenlenerek tam vergi alınır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Birinci fıkraya göre azami tutardan vergi alınan mukavelenamelerin, diğer hükümlerinde değişiklik olmaksızın sadece bedelinin artması durumunda, artan bedele ilişkin bu hüküm uygulanmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda düzenlenen mukavelenamelerin devri (A seçeneği) veya süresinin uzatılması (C seçeneği) gibi farklı durumlara ait kuralları yanlış bir şekilde bu özel duruma atfettiği veya hukuki dayanağı olmayan sonuçlar belirttiği için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisine tabi kağıtların vergilendirilmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Mukavelenamelerin müddetinin uzatılması halinde aynı miktar veya nispette vergi alınır.",
+                "B": "Akreditif mektup ve telgraflarında sürenin uzatılması durumunda verginin dörtte biri alınır.",
+                "C": "Belli parayı içeren mukavelenamelerin devri halinde aslından alınan verginin dörtte biri alınır.",
+                "D": "Her bir kağıt için hesaplanacak vergi tutarı, kanunda belirtilen azami tutarı hiçbir şekilde aşamaz.",
+                "E": "Yabancı bir memleketten diğerine düzenlenen ve Türkiye'de tedavüle çıkarılan kağıtlar yarı nispette vergiye tabidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 14'te yer alan 'her bir kağıt için hesaplanacak vergi tutarı (1) sayılı tabloda yer alan sınırlamalar saklı kalmak üzere' ifadesi nedeniyle D seçeneğinin yanlış olmasıdır. Bu ifade, tabloda belirtilen özel sınırlamaların azami tutar kuralına bir istisna teşkil edebileceğini göstermektedir.\n- Diğer seçenekler (A, B, C, E), Madde 14'te mukavelenamelerin süresinin uzatılması, devri, akreditiflerde süre uzatımı ve yabancı memleketlerde düzenlenen kağıtlar için belirtilen özel vergilendirme oranlarını doğru bir şekilde yansıttığı için doğrudur."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, mevcut bir sözleşmede değişiklik yapılması veya yabancı memleketlerde düzenlenen kağıtların vergilendirilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Belli parayı içeren bir mukavelenamenin sadece bedelinin artırılması durumunda, artan miktar üzerinden vergi alınmaz.",
+                "B": "Yabancı bir memleketten başka bir yabancı memleket üzerine düzenlenip Türkiye'de tedavüle çıkarılan kağıtlar, Türkiye üzerine düzenlenenlerle aynı miktarda vergiye tabidir.",
+                "C": "Akreditif mektuplarında sürenin uzatılması halinde, aslından alınan vergiyle aynı miktar veya nispette vergi alınır.",
+                "D": "Belli parayı içeren mukavelenamelerin devri halinde, aslından alınan verginin dörtte biri oranında vergi alınır.",
+                "E": "Mukavelenamelerin süresinin uzatılması durumunda, aslından alınan verginin yarısı oranında vergi ödenir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Bunların devri halinde aslından alınan verginin dörtte biri alınır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 14'te, bedeli artan mukavelenamelerden artan miktar üzerinden aynı nispette vergi alınacağının, yabancı memleketler arası düzenlenip Türkiye'de tedavüle çıkan kağıtlardan yarı nispette vergi alınacağının, akreditiflerde süre uzatımında verginin dörtte birinin alınacağının ve mukavele süresinin uzatılmasında aynı miktar vergi alınacağının belirtilmesi nedeniyle hatalıdır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Damga Vergisi'nin ödeme şekillerinin hangi işlemler için ne suretle uygulanacağını tespit etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı",
+                "B": "Maliye Bakanlığı",
+                "C": "Gelir İdaresi Başkanlığı",
+                "D": "Hazine Müsteşarlığı",
+                "E": "Ticaret Bakanlığı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Bu ödeme şekillerinin hangi işlemler için ne suretle uygulanacağını tespite Maliye Bakanlığı yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda bir yetkisi bulunmamaktadır. Cumhurbaşkanı'nın kanunda belirtilen yetkisi yeniden değerleme oranının tespiti ile ilgili olup, ödeme şekillerinin uygulanmasını belirleme yetkisi Maliye Bakanlığı'na verilmiştir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisinin pul yerine basılı damga konulması şekliyle ödenebileceği kağıtlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Makbuz ve ibra senetleri",
+                "B": "Faturalar",
+                "C": "Ulaştırma ile ilgili kağıtlar",
+                "D": "Elektrik ve su abonman mukavelenameleri",
+                "E": "Akreditif mektupları"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen ve damga vergisinin basılı damga ile ödenebileceği kağıtların listelendiği hükme dayanmaktadır. Bu listede akreditif mektupları yer almamaktadır.\n- Diğer seçenekler: Makbuz ve ibra senetleri, faturalar, ulaştırma ile ilgili kağıtlar ile elektrik ve su abonman mukavelenameleri, maddede açıkça sayılan belgeler olduğu için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisinin makbuz karşılığında ödenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kanunda gösterilen istisnai haller dışında, verginin ödenmesinde esas alınan temel yöntemdir.",
+                "B": "Sadece Maliye Bakanlığının özel müsaade ettiği kağıtlar için uygulanabilen bir ödeme şeklidir.",
+                "C": "İstihkaktan kesinti yapılması ve basılı damga konulması yöntemleriyle eşdeğer bir alternatiftir.",
+                "D": "Makbuz karşılığı ödemeye ilişkin usul ve esasları belirleme yetkisi Cumhurbaşkanına aittir.",
+                "E": "Yabancı memleketlerden Türkiye üzerine düzenlenen kağıtlar için zorunlu olan tek ödeme biçimidir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Bu Kanunda gösterilen haller dışında Damga Vergisi makbuz karşılığında ödenir' hükmüne dayanmaktadır. Bu hüküm, makbuzla ödemeyi istisnai değil, asli ödeme yöntemi olarak belirlemiştir.\n- Diğer seçenekler: Kanunda belirtilen temel ödeme usulünü yanlış yansıttığı veya yetkili makamı hatalı belirttiği için yanlıştır. Makbuzla ödemeye ilişkin usul ve esasları belirleme yetkisi Maliye Bakanlığı'na aittir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisinin ödeme şekilleri ve yetkili makamlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Elektrik ve su abonman mukavelenamelerinin vergisi, sadece istihkaktan kesinti yoluyla ödenebilir.",
+                "B": "Kanunda ödeme şekli özel olarak belirtilmeyen kağıtların damga vergisi, kural olarak makbuz karşılığında ödenir.",
+                "C": "Ulaştırma ile ilgili kağıtların vergisinin basılı damga şeklinde ödenebilmesi için her işlemde Cumhurbaşkanından izin alınması gerekir.",
+                "D": "Hangi işlemler için hangi ödeme şeklinin uygulanacağını tespit etme yetkisi münhasıran Cumhurbaşkanına aittir.",
+                "E": "Makbuz ve ibra senetlerinin vergisi, istisnasız olarak sadece basılı damga konulması suretiyle ödenmek zorundadır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Bu Kanunda gösterilen haller dışında Damga Vergisi makbuz karşılığında ödenir.' hükmüne dayanmaktadır. Bu hüküm, Madde 17 gibi özel düzenlemeler dışında kalan tüm kağıtlar için genel ödeme kuralını belirlemektedir.\n- Diğer seçenekler: Madde 17'de belirli kağıtlar için basılı damga usulünün öngörülmesi ve Madde 15 ile 17'de ödeme şekillerini belirleme yetkisinin Maliye Bakanlığına verilmiş olması nedenleriyle yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Damga Vergisinin makbuz karşılığı ödenmesine ilişkin usul ve esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Vergi dairesi başkanlığı",
+                "B": "Cumhurbaşkanı",
+                "C": "Maliye Bakanlığı",
+                "D": "Ödemeyi yapan ilgili kurum",
+                "E": "Hazine Müsteşarlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Maliye Bakanlığı makbuz karşılığı ödemeye ilişkin usûl ve esasları belirlemeye yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların veya kurumların, kanunda bu konuda genel bir yetkisi tanımlanmadığı için bu seçenekler yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, belirli kurum ve kuruluşların ödemelerinde kullanılan ve nispı vergiye tabi kağıtlara ait verginin istihkaktan kesinti yapılması suretiyle ödenmesine izin verme veya lüzum gördüğü hallerde bu yöntemi zorunlu kılma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili daire ve müesseselerin kendi yönetimine",
+                "B": "Gelir İdaresi Başkanlığına",
+                "C": "Maliye Bakanlığına",
+                "D": "Vergi dairesi başkanlıklarına",
+                "E": "Cumhurbaşkanlığına"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen '...istihkaklardan kesinti yapılması şekliyle ödenmesine Maliye Bakanlığınca izin verilebilir' ve 'Maliye Bakanlığı lüzum gördüğü hallerde vergiyi istihkaktan kesinti yapılması şekliyle ödetmeye yetkilidir' hükümlerine dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda izin verme veya zorunluluk getirme yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisinin ödenme usullerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Maliye Bakanlığı, belirli kurumların ödemelerinde vergiyi istihkaktan kesinti yoluyla tahsil etmeye izin verebilir.",
+                "B": "Basılı damga konulacak kağıtların vergisi, yüzde beş noksanı ile peşin olarak ödenir.",
+                "C": "Kanunda gösterilen istisnalar dışında damga vergisi kural olarak makbuz karşılığında ödenir.",
+                "D": "Genel bütçeli daireler, vergiyi her durumda istihkaktan kesinti yapmak suretiyle ödemek zorundadır.",
+                "E": "Maliye Bakanlığı, belirli işlemler için verginin beyanname verilmeksizin kağıdın düzenlenmesinden önce ödenmesi zorunluluğunu getirebilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'istihkaklardan kesinti yapılması şekliyle ödenmesine Maliye Bakanlığınca izin verilebilir' hükmüne dayanmaktadır. Bu hüküm, istihkaktan kesinti yönteminin Maliye Bakanlığının iznine tabi olduğunu veya lüzum görmesi halinde zorunlu tutulabileceğini belirtir; ancak bu kurumlar için her durumda geçerli mutlak bir zorunluluk değildir.\n- Diğer seçenekler: Madde 18'de belirtilen genel kuralı (makbuzla ödeme), Madde 21'de belirtilen basılı damga usulünü ve Madde 19 ile Madde 22'de Maliye Bakanlığına tanınan yetkileri doğru bir şekilde yansıttığı için doğrudur."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, basılı damga konulacak kağıtların vergisine ilişkin ödeme usulü hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergisi, yüzde beş noksanı ile peşin olarak ödenir.",
+                "B": "Vergisi, düzenlendiği tarihi izleyen onbeş gün içinde beyanname ile ödenir.",
+                "C": "Vergisi, yüzde on noksanı ile peşin olarak ödenir.",
+                "D": "Vergisi, yüzde beş fazlası ile peşin olarak ödenir.",
+                "E": "Vergisi, ertesi ayın yirminci günü akşamına kadar vergi dairesine bildirilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Basılı damga konulacak kağıtların vergisi, yüzde beş noksanı ile peşin olarak ödenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen yüzde oranını, ödeme şeklini (noksan/fazla) veya ödeme zamanını yanlış yansıttığı için hatalıdır. B ve E seçeneklerinde belirtilen süreler ise makbuz karşılığı ödemelere ilişkin olup basılı damga usulü için geçerli değildir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, makbuz karşılığı ödemelerde, Maliye Bakanlığınca özel olarak belirlenen mükellefler dışındaki hallerde, damga vergisinin beyan ve ödeme süresiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kâğıdın düzenlendiği tarihi izleyen yirmi gün içinde beyanname ile bildirilir.",
+                "B": "Ertesi ayın yirminci günü akşamına kadar bildirilir ve yirmialtıncı günü akşamına kadar ödenir.",
+                "C": "Kâğıdın düzenlendiği tarihi izleyen onbeş gün içinde vergi dairesine bir beyanname ile bildirilir ve aynı süre içinde ödenir.",
+                "D": "Bir ay içinde düzenlenen kağıtların vergisi, ertesi ayın yirmialtıncı günü akşamına kadar ödenir.",
+                "E": "Her ayın sonuna kadar bir beyanname ile bildirilir ve ertesi ayın onbeşinci gününe kadar ödenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen '(a) bendi dışındaki hallerde, kâğıdın düzenlendiği tarihi izleyen onbeş gün içinde vergi dairesine bir beyanname ile bildirilir ve aynı süre içinde ödenir' hükmüne dayanmaktadır.\n- Diğer seçenekler: B ve D seçenekleri Maliye Bakanlığınca belirlenen özel mükelleflere ilişkin süreyi belirttiği, diğer seçeneklerdeki süreler ise kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, makbuz karşılığı ödemelerin zamanı ile ilgili olarak Maliye Bakanlığına tanınan yetkiler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Uygulamaya ilişkin usûl ve esasları belirlemek.",
+                "B": "Verginin, beyanname aranmaksızın kâğıdın düzenlenmesinden önce ödenmesi zorunluluğunu getirmek.",
+                "C": "Verginin, noterlerce işleme tâbi tutulması sırasında ödenmesi zorunluluğunu getirmek.",
+                "D": "Vergiyi, işlem anında ilgili kamu kurum veya kuruluşuna makbuz karşılığı ödettirmek.",
+                "E": "Basılı damga konulacak kağıtların vergisini yüzde beş noksanı ile peşin olarak belirlemek."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 22'de Maliye Bakanlığına makbuz karşılığı ödemelerle ilgili tanınan yetkiler arasında sayılmamıştır. Bu ifade, basılı damga ile ödemeye ilişkin farklı bir kanun maddesinde yer alan bir kuraldır.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde belirtilen yetkiler, Madde 22'de açıkça Maliye Bakanlığına verildiği için doğrudur."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Maliye Bakanlığınca beyanname verme usulü açısından özel olarak belirlenmiş mükelleflerden olmayan bir tacir, 10 Mart tarihinde damga vergisine tabi bir kağıt düzenlemiştir. Bu tacirin, ilgili vergiyi beyan edip ödemesi için son tarih aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "20 Nisan",
+                "B": "26 Nisan",
+                "C": "25 Mart",
+                "D": "10 Mart",
+                "E": "31 Mart"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22/b'de belirtilen 'kâğıdın düzenlendiği tarihi izleyen onbeş gün içinde vergi dairesine bir beyanname ile bildirilir ve aynı süre içinde ödenir' hükmüne dayanmaktadır. Tacir, özel olarak belirlenmiş mükelleflerden olmadığı için bu genel kurala tabidir ve 10 Mart'ı izleyen 15 gün içinde, yani en son 25 Mart'ta ödeme yapmalıdır.\n- Diğer seçenekler: A ve B seçeneklerindeki tarihler, Maliye Bakanlığınca belirlenen özel mükellefler için geçerli olan ve ertesi ayın yirminci ve yirmialtıncı günlerini ifade eden sürelerdir ve bu olayda uygulanmazlar."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, makbuz karşılığı ödemelerde, Maliye Bakanlığınca özel olarak belirlenen mükellefler dışındaki hallerde, damga vergisinin beyan ve ödeme süresi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bir ay içinde düzenlenen kağıtların vergisi, ertesi ayın yirminci günü akşamına kadar beyan edilir ve yirmialtıncı günü akşamına kadar ödenir.",
+                "B": "Kâğıdın düzenlendiği tarihi izleyen onbeş gün içinde vergi dairesine bir beyanname ile bildirilir ve aynı süre içinde ödenir.",
+                "C": "Kâğıdın düzenlendiği tarihi izleyen onbeş gün içinde beyan edilir, ancak ertesi ayın yirmialtıncı günü akşamına kadar ödenir.",
+                "D": "Kâğıdın düzenlendiği tarihi izleyen otuz gün içinde vergi dairesine bir beyanname ile bildirilir ve aynı süre içinde ödenir.",
+                "E": "Beyanname aranmaksızın, kâğıdın noterlerce işleme tâbi tutulması sırasında ödenmesi zorunludur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen '(a) bendi dışındaki hallerde, kâğıdın düzenlendiği tarihi izleyen onbeş gün içinde vergi dairesine bir beyanname ile bildirilir ve aynı süre içinde ödenir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği, Maliye Bakanlığınca belirlenen özel mükellefler için geçerli olan süreyi belirtmektedir. C ve D seçenekleri kanunda yer almayan hatalı süreler içermektedir. E seçeneği ise genel kural olmayıp, Maliye Bakanlığı'nın kullanabileceği istisnai bir yetkiyi ifade ettiği için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, genel bütçeli daireler dışında kalan ve istihkaktan kesinti yapmak durumunda bulunan kurumlarca bir ay içinde kesilen damga vergisinin, ilgili vergi dairesine yatırılması için son gün aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kesintinin yapıldığı ayı takip eden ayın 20'nci günü akşamı",
+                "B": "Kağıdın düzenlendiği tarihi izleyen onbeş gün içinde",
+                "C": "Kesintinin yapıldığı günün akşamı",
+                "D": "Kesintinin yapıldığı ayı takip eden ayın son günü akşamı",
+                "E": "Kesintinin yapıldığı ayı takip eden ayın 26'ncı günü akşamı"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen '...ertesi ayın ... 26 ncı günü akşamına kadar yatırılır.' hükmüne dayanmaktadır. Bu hüküm, istihkaktan kesinti yoluyla ödenen damga vergisinin yatırılma süresini net bir şekilde tanımlamaktadır.\n- Diğer seçenekler kanunda belirtilen sürelerle uyumlu değildir. Özellikle A seçeneğindeki 'ertesi ayın 20 nci günü' beyanname verme süresini ifade ederken, B seçeneğindeki 'onbeş gün' kuralı ise makbuz karşılığı ödemenin farklı bir türü için geçerlidir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, birden fazla kişi tarafından imzalanan kağıtlara ait Damga Vergisi'nin ödenmemesi durumunda sorumlulukla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sorumluluk, sadece kağıdı ibraz eden kişiye aittir.",
+                "B": "İmza edenler, vergi ve cezanın tamamından müteselsilen sorumludurlar.",
+                "C": "Vergi mükelleflere, ceza ise sadece kağıdı düzenleyen resmi daireye aittir.",
+                "D": "Vergiden müstesna olanların bulunması, ödenecek verginin noksan hesaplanmasını gerektirir.",
+                "E": "Vergi ve ceza, rücu hakkı olmaksızın sadece kağıtları düzenleyenlerden alınır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen 'Birden fazla kişi tarafından imza edilen kağıtlara ait vergi ve cezanın tamamından imza edenler müteselsilen sorumludurlar' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen sorumluluk kurallarını yanlış yansıttığı veya tam tersini ifade ettiği için hatalıdır. Örneğin, D seçeneğinin aksine vergiden müstesna kişilerin varlığı verginin noksan ödenmesini gerektirmez ve E seçeneğinin aksine kanun rücu hakkını tanımaktadır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, resmi daireler veya noterlerce düzenlenerek kişilere verilen ve Damga Vergisi hiç alınmamış veya noksan alınmış kağıtlarla ilgili vergi ve ceza sorumluluğu nasıl paylaştırılmıştır?",
+            "secenekler": {
+                "A": "Vergi ve cezanın tamamından sadece mükellefler sorumludur.",
+                "B": "Vergi ve cezanın tamamından sadece kağıdı düzenleyenler sorumludur.",
+                "C": "Vergi ve ceza, mükellefler ile düzenleyenler arasında müteselsilen paylaştırılır.",
+                "D": "Vergi mükelleflere, ceza ise kağıdı düzenleyenlere aittir.",
+                "E": "Vergi ve ceza, rücu hakkı olmaksızın sadece kağıdı ibraz edenlerden alınır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 24'te yer alan 'Resmi daireler veya noterlerce düzenlenerek kişilere verilen ... ve Damga Vergisi hiç alınmıyan veya noksan alınan kağıtların vergisi mükelleflere, cezası düzenliyenlere aittir' hükmüne dayanmaktadır.\n- Diğer seçenekler, vergi ve ceza sorumluluğunu yanlış kişilere yüklediği veya bu durum için öngörülmemiş olan müteselsil sorumluluk gibi bir kuralı belirttiği için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Damga Vergisinden muaf kuruluşlarca kişilerin işlemleriyle ilgili olarak düzenlenen ve sadece bu kurumların imzasını taşıyan kağıtlara ilişkin sorumlulukla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kağıda ait verginin tamamı kişiler tarafından ödenir.",
+                "B": "Verginin hiç ödenmemesi halinde, kurumlar kişilerle birlikte müteselsilen sorumlu olur.",
+                "C": "Verginin noksan ödenmesi durumunda, cezanın tamamından kurumlar ve kişiler müteselsilen sorumludur.",
+                "D": "Kurumların müteselsil sorumluluğu, verginin hiç ödenmemesi veya noksan ödenmesi halinde doğar.",
+                "E": "Verginin beyan ve ödemesi, işlemi takip eden ayın yirminci günü akşamına kadar yapılmalıdır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 24'te Damga Vergisinden muaf kuruluşların sorumluluğuna ilişkin hükümler arasında ödeme sürelerine dair bir düzenleme bulunmadığı için yanlıştır. Bu ifade, kanunun verginin ödenme zamanına ilişkin diğer maddelerinde (Madde 22) yer alan genel kurallarla ilgilidir ve bu özel sorumluluk türü için belirtilmemiştir.\n- Diğer seçeneklerde belirtilen hususlar, Madde 24'te açıkça düzenlenmiş olan; verginin kişilerce ödenmesi ve eksiklik durumunda kurumların kişilerle birlikte müteselsil sorumlu olacağı yönündeki doğru kurallardır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Maliye Bakanlığınca belirlenen ve damga vergisini aylık beyanname ile ödeyen bir mükellefin taraf olduğu bir işlemde verginin noksan ödenmesi halinde, vergi ve cezanın tahsiline ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi ve cezanın tamamı, kağıdı imzalayan tüm taraflar arasında eşit olarak paylaştırılır.",
+                "B": "Vergi ve ceza, öncelikle kağıdı resmi bir makama ibraz eden kişiden tahsil edilir.",
+                "C": "Vergi, ceza ve fer'ileri, vergi için diğer işlem taraflarına rücu hakkı olmak üzere, Bakanlıkça belirlenen mükelleften alınır.",
+                "D": "Vergi mükelleflerden, ceza ise sadece kağıdı düzenleyen resmi daireden alınır.",
+                "E": "Vergi ve ceza, kağıdın düzenlendiği tarihi izleyen onbeş gün içinde ödenmediği için tüm taraflar müteselsilen sorumlu olur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen '22 nci maddenin birinci fıkrasının (a) bendi kapsamında bulunanlar, taraf oldukları işlemlere ilişkin kâğıtlara ait verginin beyan ve ödenmesinden sorumludurlar. Verginin ödenmemesi veya noksan ödenmesi durumunda vergi, ceza ve fer'ileri, vergi için diğer işlem taraflarına rücu hakkı olmak üzere, bu fıkrada belirtilen kişilerden alınır' hükmüne dayanmaktadır. Bu özel sorumluluk hali, genel sorumluluk kurallarını geçersiz kılar.\n- Diğer seçenekler: Madde 24'teki genel sorumluluk (ibraz eden, imza edenler) veya noterlere ilişkin özel sorumluluk hallerini yansıttığı ya da Madde 22'deki yanlış ödeme süresine atıf yaptığı için hatalıdır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisinden muaf bir kuruluş ile iki gerçek kişinin birlikte imzaladığı bir kağıda ait verginin hiç ödenmemesi durumunda, vergi ve cezanın tahsiliyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Verginin tamamı kişiler tarafından ödenmesi gerektiğinden, muaf kuruluşun vergi ve cezadan herhangi bir sorumluluğu bulunmaz.",
+                "B": "Vergi ve cezanın tamamından, kişilerle birlikte muaf kuruluş da müteselsilen sorumludur.",
+                "C": "Sorumluluk imza edenler arasında paylaştırılır ve muaf kuruluş bu paylaşımdan muaftır.",
+                "D": "Vergi kişilerden tahsil edilirken, cezanın tamamından sadece muaf kuruluş sorumlu tutulur.",
+                "E": "Vergi ve ceza, sadece kağıdı resmi dairelere ibraz eden kişiden talep edilebilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 24'te yer alan '...bu kağıtlara ait verginin hiç ödenmemesi veya noksan ödenmesi halinde vergi ve cezanın tamamından kişilerle birlikte kurumlar müteselsilen sorumludurlar' hükmüne dayanmaktadır. Bu hüküm, ilk ödeme yükümlülüğü ile ödenmeme halindeki sorumluluğu açıkça ayırmaktadır.\n- Diğer seçenekler: Kanunda belirtilen müteselsil sorumluluk ilkesine aykırı olduğu, sorumluluğu yanlış taraflara yüklediği veya ödenmeme halindeki özel durumu göz ardı ettiği için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Türkiye'deki bir yabancı konsoloslukta düzenlenmiş ve damga vergisi ödenmemiş ticari bir kağıdın hamili olan kişi, vergi cezasıyla karşılaşınca kağıdı terk etmiştir. Bu olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kağıdın terk edilmesi, vergi cezasının hamilden alınmasına engel teşkil eder.",
+                "B": "Vergi ve ceza, yalnızca kağıdı düzenleyen yabancı konsolosluktan talep edilebilir.",
+                "C": "Hamilin kağıdı terk etmesi cezanın alınmasına mani değildir ve vergi ile cezası hamilden alınır.",
+                "D": "Hamilin vergi ve cezayı ödedikten sonra asıl mükelleflere rücu etme hakkı bulunmamaktadır.",
+                "E": "Bu tür kağıtlarda sorumluluk yalnızca asıl mükellefe ait olduğundan hamile herhangi bir ceza kesilemez."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen yabancı konsolosluklarda düzenlenen kağıtların vergi ve cezasının 'hamillerinden alınır' hükmü ile Madde 28'de yer alan 'Vergi cezası alınması gereken kağıtların hamilleri tarafından terk edilmesi bu cezanın alınmasına mani değildir' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler hatalıdır; çünkü kağıdın terk edilmesi cezayı engellemez (A), vergi öncelikle hamilden alınır (B ve E) ve hamilin asıl mükellefe rücu hakkı kanunen saklıdır (D)."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, yabancı memleketlerle Türkiye'deki yabancı elçilik ve konsolosluklarda düzenlenen ticari ve mütedavil kağıtların damga vergisi ve cezası, mükelleflere rücu hakkı saklı kalmak kaydıyla, kimden alınır?",
+            "secenekler": {
+                "A": "Kağıtları ibraz edenlerden",
+                "B": "Hamillerinden",
+                "C": "Kağıdı imza edenlerden müteselsilen",
+                "D": "Kağıdı düzenleyenlerden",
+                "E": "Verginin beyan ve ödenmesinden sorumlu olan taraflardan"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Yabancı memleketlerle Türkiye'deki yabancı elçilik ve konsolosluklarda düzenlenen ticari ve mütedavil kağıtların Damga Vergisi ve cezası, mükelleflerine rücu hakkı saklı bulunmak üzere hamillerinden alınır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunun farklı maddelerinde düzenlenen genel sorumluluk hallerini ifade ettiği için yanlıştır. Soruda belirtilen özel durum için yetkili olanlar hamillerdir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, yabancı memleketlerde veya Türkiye'deki yabancı elçilik ve konsolosluklarda düzenlenen ticari ve mütedavil kağıtların damga vergisi ve cezasının tahsiline ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi ve ceza, mükelleflerine rücu hakkı saklı kalmak kaydıyla hamillerinden alınır.",
+                "B": "Vergi ve ceza, kağıtları tasdik eden noterlerden alınır.",
+                "C": "Vergi ve ceza, kağıtları işleme koyan bankalardan alınır.",
+                "D": "Vergi ve ceza, kağıtları tespit eden resmi daire memurlarından alınır.",
+                "E": "Vergi ve ceza, doğrudan kağıdı düzenleyen yabancı elçilik veya konsolosluktan talep edilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Yabancı memleketlerle Türkiye'deki yabancı elçilik ve konsolosluklarda düzenlenen ticari ve mütedavil kağıtların Damga Vergisi ve cezası, mükelleflerine rücu hakkı saklı bulunmak üzere hamillerinden alınır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen bu özel sorumluluk kuralına aykırıdır. Noterler, bankalar veya resmi dairelerin sorumluluğu farklı durumlarda düzenlenmiş olup, bu kağıtlar için verginin ilk tahsil edileceği kişi hamil olarak belirlenmiştir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisi ödenmemiş veya noksan ödenmiş bir kağıdın ibraz edilmesi durumunda, çeşitli kurum ve kişilerin sorumluluklarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Noterler, vergi ve cezası ödenmedikçe bu tür kağıtları tasdik edemezler veya suretlerini çıkarıp veremezler.",
+                "B": "Bankalar ve kamu iktisadi teşebbüsleri, usulüne uygun olarak vergi ve cezası ödenmedikçe bu kağıtları işleme koyamazlar.",
+                "C": "Resmi dairelerin ilgili memurları, vergisi ödenmemiş kağıtları bir tutanakla tespit etmek veya bu amaçla vergi dairesine göndermekle yükümlüdür.",
+                "D": "Yükümlülüğüne aykırı hareket eden noterlerden, tasdik ettikleri her kağıt için kanunen alınması gereken cezası ayrıca alınır.",
+                "E": "Resmi dairelerin ilgili memurları, vergisi noksan ödenmiş kağıtları tespit ettiklerinde derhal imha etmekle mecburdurlar."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'vergisi hiç ödenmemiş veya noksan ödenmiş olanları bir tutanakla tesbit etmeye veya bunları tutanağı düzenlemek üzere, vergi dairesine göndermeye mecburdurlar' hükmüne dayanmaktadır. Kanun, resmi dairelere imha etme değil, durumu tespit edip bildirme görevi vermiştir.\n- Diğer seçenekler, noterlerin (Madde 27), bankaların (Madde 27) ve resmi dairelerin (Madde 26) kanunda açıkça belirtilen yükümlülüklerini doğru bir şekilde yansıttığı için doğrudur."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, resmi dairelerin ilgili memurlarının, kendilerine ibraz edilen ve damga vergisi hiç ödenmemiş veya noksan ödenmiş kağıtlarla ilgili yükümlülüklerinden biri aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Vergi ve cezasını derhal tahsil ederek makbuz düzenlemek.",
+                "B": "Kağıtları işleme almayı reddederek sahibine iade etmek.",
+                "C": "Durumu bir tutanakla tespit etmek veya tutanak düzenlenmesi için vergi dairesine göndermek.",
+                "D": "Mükellefe vergi ve cezayı ödemesi için belirli bir süre vermek.",
+                "E": "Kağıtların geçersiz olduğuna hükmederek imha etmek."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'vergisi hiç ödenmemiş veya noksan ödenmiş olanları bir tutanakla tesbit etmeye veya bunları tutanağı düzenlemek üzere, vergi dairesine göndermeye mecburdurlar' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda resmi daire memurlarına tanınan bir yetki veya yükümlülük olmadığı için yanlıştır. Memurların görevi, eksikliği tespit etmek ve durumu vergi dairesine bildirmekle sınırlıdır; ceza kesmek, tahsilat yapmak veya kağıdı iade etmek gibi işlemler bu kapsamda yer almaz."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisi ödenmemiş veya noksan ödenmiş bir kâgidi tasdik eden notere uygulanacak yaptırımla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece mükellef hakkında Vergi Usul Kanunu hükümleri uygulanır, notere herhangi bir ceza verilmez.",
+                "B": "Mükellef hakkında Vergi Usul Kanunu hükümleri uygulanmasının yanı sıra, noterden de kanunen alınması gereken ceza ayrıca alınır.",
+                "C": "Noterden, mükellefin ödemesi gereken vergi ve cezanın tamamı rücu hakkı olmaksızın tahsil edilir.",
+                "D": "Noterin işlemi geçersiz sayılır ve sadece kâğıdı düzenleyenler sorumlu tutulur.",
+                "E": "Notere, bankalar için öngörülen ceza uygulanır ve bu ceza mükellefe rücu edilebilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'mükellef hakkında Vergi Usul Kanunu hükümleri uygulanmakla birlikte, noterlerden de tasdik ettikleri veya üzerinde işlem yaptıkları her kâğıt için kanunen alınması gereken cezası ayrıca alınır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda noterler için belirtilen yaptırımın kapsamını yanlış yansıttığı veya farklı kurumlar için öngörülen sorumlulukları notere atfettiği için hatalıdır. Noterin sorumluluğu, mükellefin sorumluluğuna ek olarak ayrıca ve bağımsız bir ceza ödemesidir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, bir kişi, hakkında vergi cezası uygulanması gereken bir kağıdı sorumluluktan kurtulmak amacıyla terk ederse, bu durumun hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kağıt terk edildiği için hamilin cezai sorumluluğu ortadan kalkar.",
+                "B": "Vergi cezası, kağıdın terk edildiği tarihten itibaren zaman aşımına uğrar.",
+                "C": "Terk etme eylemi, sadece vergi aslının ödenmesini gerektirir, ceza düşer.",
+                "D": "Sorumluluk, kağıdı düzenleyen diğer tarafa geçer ve ceza ondan tahsil edilir.",
+                "E": "Kağıdın hamil tarafından terk edilmiş olması, vergi cezasının alınmasını engellemez."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Vergi cezası alınması gereken kağıtların hamilleri tarafından terk edilmesi bu cezanın alınmasına mani değildir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunun bu açık hükmüne aykırı olarak, kağıdın terk edilmesinin vergi cezasını ortadan kaldıracağı veya sorumluluğu başka bir kişiye yönelteceği gibi yanlış sonuçlar içerdiği için hatalıdır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, vergi cezası alınması gereken bir kağıdın hamili tarafından terk edilmesi durumunda ortaya çıkacak hukuki sonuçla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kağıdın terk edilmesi, vergi cezasının alınmasına engel teşkil etmez.",
+                "B": "Vergi cezası sorumluluğu, kağıdı terk eden hamilden kağıdı düzenleyen tarafa geçer.",
+                "C": "Kağıdın terk edilmesiyle birlikte vergi cezası tamamen ortadan kalkar.",
+                "D": "Terk edilen kağıtlar için vergi cezası yarı oranında uygulanır.",
+                "E": "Vergi cezasının alınabilmesi için terk fiilinin noter aracılığıyla belgelenmesi gerekir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Vergi cezası alınması gereken kağıtların hamilleri tarafından terk edilmesi bu cezanın alınmasına mani değildir' hükmüne dayanmaktadır. Bu hüküm, kağıdın terk edilmesinin cezai sorumluluğu ortadan kaldırmadığını açıkça belirtir.\n- Diğer seçenekler, kanunda belirtilen bu temel kurala aykırı yorumlar içermekte veya kanunda yer almayan şartlar (sorumluluğun devri, cezanın kaldırılması, indirim uygulanması, noter şartı gibi) öne sürdüğü için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, makbuz karşılığı yapılacak ödemelerle istihkaktan kesinti yapılması şeklindeki ödemelerde uyulması gereken esasları belirleme ve ilgililere bildirme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Maliye Bakanlığı",
+                "B": "Cumhurbaşkanı",
+                "C": "Gelir İdaresi Başkanlığı",
+                "D": "Danıştay",
+                "E": "Bankacılık Düzenleme ve Denetleme Kurumu"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen '...makbuz karşılığı yapılacak ödemelerle istihkaktan kesinti yapılması şeklindeki ödemelerde uyulması gereken esaslar Maliye Bakanlığınca tayin edilerek ilgililere bildirilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların, kanunun bu maddesinde düzenlenen spesifik ödemelere ilişkin esasları belirleme yetkisi bulunmamaktadır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Damga Vergisi hakkında uygulanacak tamamlayıcı hükümlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yalnızca vergi cezalarına ilişkin konularda Vergi Usul Kanunu hükümleri Damga Vergisi için geçerlidir.",
+                "B": "Damga Vergisi Kanunu'nun tüm hükümleri, Vergi Usul Kanunundaki Damga Resmine de uygulanır.",
+                "C": "Damga Vergisine ilişkin konularda başka hiçbir kanun hükmü uygulanmaz, yalnızca kendi özel düzenlemeleri geçerlidir.",
+                "D": "Vergi Usul Kanununun Damga Resmine ilişkin hükümleri, Damga Vergisi hakkında da uygulanır.",
+                "E": "Makbuz karşılığı yapılacak ödemelere ilişkin esaslar, Vergi Usul Kanunu tarafından belirlenir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Vergi Usul Kanununun Damga Resmine ilişkin hükümleri Damga Vergisi hakkında da uygulanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda yer almayan veya Madde 30'daki hükmü yanlış yorumlayan ifadeler içerdiği için hatalıdır. Kanun, Damga Vergisi için Vergi Usul Kanunu'nun ilgili hükümlerine genel bir atıf yapmakta olup, bu atfı daraltan veya tersine çeviren ifadeler yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Cumhurbaşkanının kanuna ekli (1) sayılı tabloda yer alan damga vergisi oran ve tutarlarını değiştirme yetkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Maktu vergileri en fazla beş katına kadar artırmaya yetkilidir.",
+                "B": "Nispi vergileri en fazla iki katına kadar artırmaya yetkilidir.",
+                "C": "Uygulanmakta olan maktu vergileri dörtte birine kadar indirmeye yetkilidir.",
+                "D": "Vergi oranlarını sadece kağıt türlerini birlikte ele alarak değiştirebilir, ayrı ayrı değişiklik yapamaz.",
+                "E": "Nispi vergileri sıfıra kadar indirmeye yetkilidir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Mükerrer Madde 30'da belirtilen 'Cumhurbaşkanı, ... nispi vergileri ise sıfıra kadar indirmeye ... yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, Cumhurbaşkanının vergi oranlarını artırma ve indirme yetkisine ilişkin kanunda belirtilen hadlere ve usule aykırı bilgiler içerdiği için yanlıştır. Kanuna göre maktu vergiler on katına, nispi vergiler bir katına kadar artırılabilir; maktu vergiler yarısına kadar indirilebilir ve bu yetki kağıt türleri itibarıyla ayrı ayrı veya birlikte kullanılabilir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, maktu vergilerin her takvim yılı başından geçerli olmak üzere artırılmasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Maktu vergiler, her yıl Maliye Bakanlığınca belirlenen özel bir oranda artırılır.",
+                "B": "Artırım, o yıl için tespit ve ilan olunan yeniden değerleme oranında yapılır.",
+                "C": "Vergi tutarı hesaplanırken ortaya çıkan tüm küsuratlar bir üst tam sayıya yuvarlanır.",
+                "D": "Yeniden değerleme oranı sadece nispi vergilerin asgari hadlerine uygulanır, maktu vergilere uygulanmaz.",
+                "E": "Vergi artış oranı, Cumhurbaşkanı tarafından her yıl için ayrıca kararname ile ilan edilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Mükerrer Madde 30'da belirtilen 'Her takvim yılı başından geçerli olmak üzere önceki yılda uygulanan maktu vergiler ... o yıl için tespit ve ilan olunan yeniden değerleme oranında artırılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen artırım usulüne, oranına ve hesaplama kuralına aykırı olduğu için yanlıştır. Kanun, artırım için yeniden değerleme oranını esas almakta ve hesaplanan vergi tutarının 10 Yeni Kuruşa kadarki kesirlerinin dikkate alınmayacağını belirtmektedir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisi oranlarının tespiti ve bazı ödeme usullerinin belirlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Makbuz karşılığı yapılacak ödemelerde uyulması gereken esasları belirleme yetkisi Cumhurbaşkanına aittir.",
+                "B": "Cumhurbaşkanı, kanuna ekli tabloda yer alan nispi vergileri on katına kadar artırmaya yetkilidir.",
+                "C": "Maliye Bakanlığı, elektronik ortamda gönderilen kağıtların vergi nispetlerini sıfıra kadar indirmeye yetkilidir.",
+                "D": "Cumhurbaşkanı, kanuna ekli tabloda yer alan maktu vergileri yarısına kadar indirmeye yetkilidir.",
+                "E": "İstihkaktan kesinti yapılması şeklindeki ödemelerde vergi oranlarını sıfıra indirme yetkisi Maliye Bakanlığındadır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Mükerrer Madde 30'da belirtilen 'Cumhurbaşkanı, ... uygulanmakta olan maktu vergileri yarısına kadar ... indirmeye ... yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Yetkili makamları (Cumhurbaşkanı ve Maliye Bakanlığı) veya yetki sınırlarını (oran ve miktar) yanlış belirttiği için hatalıdır. A ve E seçeneklerindeki yetki Maliye Bakanlığına (Madde 29), B ve C seçeneklerindeki yetki ise Cumhurbaşkanına ait olmakla birlikte, yetkinin içeriği (oran/miktar) yanlış ifade edilmiştir (Mükerrer Madde 30)."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, maktu vergilerin yıllık artışı ve vergiye ilişkin diğer hükümlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Her takvim yılı başından geçerli olmak üzere önceki yılda uygulanan maktu vergiler, o yıl için tespit ve ilan olunan yeniden değerleme oranında artırılır.",
+                "B": "Vergi cezası alınması gereken kağıtların hamilleri tarafından terk edilmesi, bu cezanın alınmasına engel teşkil etmez.",
+                "C": "Yeniden değerleme oranıyla hesaplanan vergi tutarının 10 Yeni Kuruşa kadarki kesirleri dikkate alınmaz.",
+                "D": "Vergi Usul Kanununun Damga Resmine ilişkin hükümleri Damga Vergisi hakkında da uygulanır.",
+                "E": "Cumhurbaşkanı, yeniden değerleme oranıyla belirlenmiş olan maktu vergileri en fazla iki katına kadar daha artırmaya yetkilidir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Mükerrer Madde 30'da belirtilen 'Cumhurbaşkanı, bu Kanuna ekli (1) sayılı tabloda yer alan maktu vergileri ... on katına ... kadar artırmaya ... yetkilidir.' hükmüne aykırı olduğu için yanlıştır. Yetki sınırı iki kat değil, on kattır.\n- Diğer seçenekler: A ve C seçenekleri Mükerrer Madde 30'da, B seçeneği Madde 28'de, D seçeneği ise Madde 30'da yer alan doğru hükümlerdir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, kanuna ekli (1) sayılı tabloda yer alan vergilere ilişkin Cumhurbaşkanı yetkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı, nispi vergileri on katına kadar artırmaya yetkilidir.",
+                "B": "Cumhurbaşkanı, maktu vergileri yarısına kadar artırmaya yetkilidir.",
+                "C": "Cumhurbaşkanı, hem maktu hem de nispi vergileri sıfıra kadar indirmeye yetkilidir.",
+                "D": "Cumhurbaşkanı, maktu vergileri bir katına kadar artırmaya yetkilidir.",
+                "E": "Cumhurbaşkanı, maktu vergileri on katına kadar artırmaya yetkilidir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Mükerrer Madde 30'da belirtilen 'Cumhurbaşkanı, bu Kanuna ekli (1) sayılı tabloda yer alan maktu vergileri ... on katına ... kadar artırmaya ... yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yetki sınırlarına aykırı olduğu için yanlıştır. Nispi vergiler bir katına kadar artırılabilir, maktu vergiler yarısına kadar indirilebilir ve sadece nispi vergiler sıfıra kadar indirilebilir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Cumhurbaşkanının damga vergisi oran ve tutarlarını belirleme yetkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Nispi vergileri on katına kadar artırmaya yetkilidir.",
+                "B": "Maktu vergileri sıfıra kadar indirmeye yetkilidir.",
+                "C": "Kanuna ekli tabloda yer alan maktu vergileri on katına kadar artırmaya yetkilidir.",
+                "D": "Uygulanmakta olan nispi vergileri yalnızca yarısına kadar indirmeye yetkilidir.",
+                "E": "Elektronik ortamda gönderilen kâğıtların vergisini yalnızca kanuni seviyesinin yarısına kadar indirebilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Mükerrer Madde 30'da belirtilen 'Cumhurbaşkanı, bu Kanuna ekli (1) sayılı tabloda yer alan maktu vergileri (...) on katına (...) kadar artırmaya (...) yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yetki sınırlarını yanlış yansıttığı için hatalıdır. Nispi vergiler bir katına kadar artırılabilir, maktu vergiler yarısına kadar indirilebilir ve nispi vergiler ile elektronik ortamdaki kâğıtlara ilişkin vergiler sıfıra kadar indirilebilir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Avrupa İnsan Hakları Mahkemesi kararlarına dayanılarak veya dostane çözüm bağlamında yapılacak ödemelere ilişkin düzenlenen kâgitlar hakkındaki aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece dostane çözüm yoluyla yapılan ödemelere ilişkin kâğıtlar istisna kapsamındadır.",
+                "B": "Bu kâğıtlara uygulanacak vergi oranı her takvim yılı başında yeniden değerleme oranında artırılır.",
+                "C": "Bu kâğıtlar damga vergisinden istisnadır.",
+                "D": "Sadece Avrupa İnsan Hakları Mahkemesi'nin kesinleşmiş kararlarına dayanan ödemeler maktu vergiye tabidir.",
+                "E": "Bu kâğıtlara ilişkin vergi oranını sıfıra kadar indirme yetkisi Cumhurbaşkanına aittir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Avrupa İnsan Hakları Mahkemesi kararlarına dayanılarak yapılacak ödemeler ile dostane çözüm bağlamında yapılacak ödemelere ilişkin olarak düzenlenecek kâğıtlar damga vergisinden istisnadır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen bu açık ve koşulsuz istisna kuralıyla çelişmektedir. Kanun, bu kâğıtları herhangi bir vergiye, yeniden değerleme artışına veya Cumhurbaşkanı'nın takdir yetkisine tabi tutmamış, doğrudan istisna kabul etmiştir."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Avrupa İnsan Hakları Mahkemesi kararlarına dayanan bir dostane çözüm bağlamında yapılacak ödemeye ilişkin düzenlenen kâgit ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu kâğıda uygulanacak vergi, her takvim yılı başında yeniden değerleme oranında artırılır.",
+                "B": "Cumhurbaşkanı kararıyla bu kâğıdın vergisi yarısına kadar indirilebilir.",
+                "C": "Bu kâğıda uygulanacak maktu vergi, Cumhurbaşkanı tarafından on katına kadar artırılabilir.",
+                "D": "Bu kâğıda uygulanacak nispi vergi, Cumhurbaşkanı tarafından bir katına kadar artırılabilir.",
+                "E": "Bu kâğıt damga vergisinden istisnadır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Avrupa İnsan Hakları Mahkemesi kararlarına dayanılarak yapılacak ödemeler ile dostane çözüm bağlamında yapılacak ödemelere ilişkin olarak düzenlenecek kâğıtlar damga vergisinden istisnadır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Mükerrer Madde 30'da yer alan verginin yeniden değerleme oranında artırılması veya Cumhurbaşkanının vergi oran ve tutarlarını değiştirme yetkisi gibi genel kurallar, kanunla özel olarak istisna tutulmuş bu kâğıt için uygulanamayacağından yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, ihracat ve ihracata ilişkin olduğu tevsik edilmek kaydıyla düzenlenen kağıtlardan hangisi damga vergisinden müstesna sayılan işlemler arasında yer almaz?",
+            "secenekler": {
+                "A": "İhracattan doğan alacağın ihracatçı tarafından temliki.",
+                "B": "Transit ticarete konu malın satın alınması ve satılması.",
+                "C": "İhraç edilecek malların yurt içinde üçüncü kişilere kiralanması.",
+                "D": "Tedarik edildikleri şekliyle ihraç edilmek üzere mal alımı.",
+                "E": "Dahilde işleme izni kapsamında iznin geçerli olduğu süre içerisinde yapılan ithalat."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 2'nin 1. fıkrasında belirtilen ihracata ilişkin istisnalar arasında 'ihraç edilecek malların yurt içinde üçüncü kişilere kiralanması' hükmünün yer almamasına dayanmaktadır.\n- Diğer seçeneklerde belirtilen işlemler, fıkrada açıkça damga vergisinden müstesna tutulan faaliyetler arasında sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, Vergi, Resim, Harç İstisnası Belgesine bağlanmak kaydıyla damga vergisinden müstesna tutulan döviz kazandırıcı faaliyetler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Yurt dışına yönelik olarak gerçekleştirilecek müteahhitlik, müşavirlik, yazılım ve mühendislik hizmetleri.",
+                "B": "Yabancı uyruklulara döviz karşılığı verilecek sağlık hizmetleri.",
+                "C": "Turizm müesseselerinin yurt içindeki turizm faaliyetleri sırasında yaptıkları döviz karşılığı hizmet satışları.",
+                "D": "Yurt içinde yerleşik kişilere yabancı para cinsinden verilen bireysel krediler.",
+                "E": "Kamu özel iş birliği kapsamında tesis yapımı ve yenilenmesi işlerini üstlenen tam mükellef firmaların yapacakları hizmet ve faaliyetleri."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 2'nin 2. fıkrasında belirtilen döviz kazandırıcı faaliyetler listesinde 'yurt içinde yerleşik kişilere yabancı para cinsinden verilen bireysel krediler'in sayılmamış olmasına dayanmaktadır.\n- Diğer seçenekler, fıkrada açıkça damga vergisinden müstesna tutulan döviz kazandırıcı faaliyetler arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisi istisnasından yararlanılan bir faaliyetin kısmen veya tamamen gerçekleştirilmemesi hâlinde, gerçekleşmeyen kısma ait alınmayan damga vergisi ile ilgili uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Sadece alınmayan damga vergisi mükelleften geri alınır.",
+                "B": "Alınmayan damga vergisi, ceza ve gecikme faizi ile birlikte mükelleften geri alınır.",
+                "C": "Mükellefin Vergi, Resim, Harç İstisnası Belgesi iptal edilir.",
+                "D": "Sadece gecikme faizi uygulanır, vergi aslı talep edilmez.",
+                "E": "Mükellefe sadece vergi ziyaı cezası kesilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 2'nin 5. fıkrasında belirtilen '...gerçekleşmeyen kısma ait alınmayan damga vergisi, mükelleflerden, 213 sayılı Vergi Usul Kanunu hükümlerine göre ceza ve gecikme faizi ile birlikte geri alınır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen yaptırımla uyumlu olmadığı için yanlıştır."
+        },
+        {
+            "soru": "488 Sayılı Damga Vergisi Kanunu'na göre, damga vergisi istisnası uygulamak suretiyle işlem yapan kuruluşlar, istisnaya konu işlemin mahiyeti ile alınmayan vergi tutarını, işlemin yapıldığı tarihi takip eden hangi süre içinde ilgili vergi dairesine bildirmekle yükümlüdür?",
+            "secenekler": {
+                "A": "On beş gün",
+                "B": "Otuz gün",
+                "C": "Kırk beş gün",
+                "D": "Altmış gün",
+                "E": "İzleyen ayın sonuna kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 2'nin 5. fıkrasında belirtilen '...istisnaya konu işlemin mahiyeti ile alınmayan vergi tutarını, işlemin yapıldığı tarihi takip eden otuz gün içinde ilgililerin gelir veya kurumlar vergisi bakımından bağlı bulunduğu vergi dairesine bildirmeye mecburdurlar.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler kanunda yer almadığı için yanlıştır."
+        }
+    ]
+}

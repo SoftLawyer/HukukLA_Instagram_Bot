@@ -1,0 +1,2405 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligatı bu Kanun hükümlerine göre yapmakla yükümlü olanlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Barolar",
+                "B": "Vakıf yükseköğretim kurumları",
+                "C": "Kamuya yararlı dernekler",
+                "D": "Noterler",
+                "E": "Köy hükmî şahsiyetleri"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 1'de tebligatı bu Kanun hükümlerine göre yapmakla yükümlü olan kurum ve kuruluşlar arasında kamuya yararlı derneklerin sayılmamış olmasına dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kanunda sayılan kurumlar tarafından yapılacak tüm tebligatın, kural olarak hangi vasıtalarla yapılacağı düzenlenmiştir?",
+            "secenekler": {
+                "A": "Sadece memur vasıtasıyla",
+                "B": "Sadece Posta ve Telgraf Teşkilatı Genel Müdürlüğü vasıtasıyla",
+                "C": "Posta ve Telgraf Teşkilatı Genel Müdürlüğü veya memur vasıtasıyla",
+                "D": "Memur veya zabıta vasıtasıyla",
+                "E": "Sadece mahalli mülkiye amirinin emriyle"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 1'de yer alan '...tüm tebligat, bu Kanun hükümlerine göre Posta ve Telgraf Teşkilatı Genel Müdürlüğü veya memur vasıtasıyla yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligatın Posta ve Telgraf Teşkilatı Genel Müdürlüğü yerine, tebligatı çıkaran dairenin kendi memurları veya zabıta vasıtasıyla yaptırılabileceği durumlarla ilgili olarak;\n\nI. Diğer kanunlarda özel hüküm bulunması\nII. Tehirinde zarar umulan bir iş olması\nIII. Tebligatın aynı yerde bulunan ve kanunda sayılan daire ve müesseseler arasında yapılması\n\nifadelerinden hangisi veya hangileri kanunda sayılan gerekçelerdendir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Diğer kanunlarda özel hüküm bulunması halinde veya tehirinde zarar umulan işlerde veya aynı yerde bulunan 1 inci maddede yazılı daire ve müesseseler arasında... tebligat, kendi memurları veya mahalli mülkiye amirinin emriyle zabıta vasıtasıyla yaptırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, aşağıdakilerden hangisi tebligatın memur veya zabıta vasıtasıyla yaptırılabileceği özel durumlardan biri değildir?",
+            "secenekler": {
+                "A": "Diğer kanunlarda özel bir hüküm bulunması",
+                "B": "Tebligatın tehirinde zarar umulması",
+                "C": "Aynı yerde bulunan daire ve müesseseler arasında yapılması",
+                "D": "Tebligatın yurt dışında bulunan bir kişiye yapılması",
+                "E": "Kanunda sayılan daire ve müesseselerde bulunan şahıslara yapılması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen tebligatın memur veya zabıta vasıtasıyla yaptırılabileceği özel durumlar arasında 'tebligatın yurt dışında bulunan bir kişiye yapılması' halinin yer almamasına dayanmaktadır. Diğer seçeneklerdeki durumlar maddede açıkça sayılmıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kanunda belirtilen özel durumlarda tebligatın zabıta vasıtasıyla yapılması için emir verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhuriyet savcısı",
+                "B": "Mahalli mülkiye amiri",
+                "C": "Tebligatı çıkaran dairenin amiri",
+                "D": "İl emniyet müdürü",
+                "E": "Sulh ceza hâkimi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 2'de geçen '...tebligat, kendi memurları veya mahalli mülkiye amirinin emriyle zabıta vasıtasıyla yaptırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligatın memur veya zabıta vasıtasıyla yapılmasına ilişkin hükümler uygulanırken;\n\nI. Zor kullanılmasını gerektiren görevlerin zabıta tarafından yapılacağına dair hükümler\nII. Hazırlık tahkikatına ilişkin görevlerin zabıta tarafından yapılacağına dair hükümler\nIII. Kanunun ikinci babında yazılı hususi hükümler\n\nhangisi veya hangileri saklı tutulan hükümler arasında yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 2'de yer alan 'Zor kullanılmasını gerektiren veya hazırlık tahkikatına taallük eden vazifelerini zabıta tarafından yapılacağına dair olan hükümlerle bu kanunun ikinci babında yazılı hususi hükümler mahfuzdur.' ifadesine dayanmaktadır. Bu ifade, her üç öncülde belirtilen hükümlerin de saklı tutulduğunu göstermektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kanun uyarınca yapılacak işlerden dolayı Posta ve Telgraf Teşkilatı Genel Müdürlüğünün alacağı ücretleri tespit ve tayin etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Ulaştırma ve Altyapı Bakanlığı",
+                "C": "Posta ve Telgraf Teşkilatı Genel Müdürlüğü",
+                "D": "Hazine ve Maliye Bakanlığı",
+                "E": "Cumhurbaşkanı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Posta ve Telgraf Teşkilatı Genel Müdürlüğünin bu Kanuna göre yapacağı işlerden dolayı alacağı ücretler, bu işletme tarafından ayrı bir tarife ile tespit ve tayin edilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, memurlar vasıtasıyla yaptırılacak tebligatlar için tebligatı yapana verilecek zaruri masrafların miktarını belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "PTT Genel Müdürlüğü",
+                "C": "İl idare heyetleri",
+                "D": "Tebliği çıkaran merci",
+                "E": "Maliye Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen '...zaruri masrafların miktarı ... her mali yılbaşında il idare heyetleri tarafından ... tesbit olunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, memur vasıtasıyla yapılacak tebligatlarda zaruri masraflara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Zaruri masraf alan memurlara, yaptıkları tebliğ için ayrıca harcırah da ödenir.",
+                "B": "Miktar, tebliğ yapılacak kişinin bulunduğu yerin mesafesi dikkate alınarak belirlenir.",
+                "C": "Masrafların miktarı her mali yılbaşında tespit edilir.",
+                "D": "Tebliğin yapılmasını isteyen, bu masrafları kural olarak peşin ödemekle yükümlüdür.",
+                "E": "Zaruri sebeplerle süresinde ödenemeyen masraflar için yeni bir süre verilebilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen '...kendilerine zaruri masraf verilen memurlara yaptıkları tebliğ dolayısiyle 6245 sayılı kanun mucibince ayrıca harcırah verilmez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kendilerine zaruri masraf ödenen memurların durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yaptıkları tebliğ dolayısıyla kendilerine ayrıca harcırah verilmez.",
+                "B": "Aldıkları zaruri masraf, alacakları harcırah miktarından mahsup edilir.",
+                "C": "Yaptıkları tebliğ dolayısıyla kendilerine ayrıca harcırah da ödenir.",
+                "D": "Harcırah alıp almayacakları il idare heyetinin takdirine bırakılmıştır.",
+                "E": "Sadece il merkezi dışındaki tebligatlar için harcırah alabilirler."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'kendilerine zaruri masraf verilen memurlara yaptıkları tebliğ dolayısiyle 6245 sayılı kanun mucibince ayrıca harcırah verilmez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliği çıkaracak merci tarafından belirlenen süre içinde gerekli masrafı ödemeyen talep sahibinin durumuyla ilgili doğacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Masrafın ilgilisinden zorla tahsil edilmesi",
+                "B": "Tebligatın masrafsız yapılması",
+                "C": "Talebinden vazgeçmiş sayılması",
+                "D": "Tebligatın yapılmasından vazgeçilerek dosyanın kapatılması",
+                "E": "Talep sahibine idari para cezası uygulanması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen '...gerekli masrafı vermiyen, talebinden sarfınazar etmiş addolunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligat masrafını süresinde ödemeyen talep sahibine, tebliği çıkaracak merci tarafından yeni bir mehil verilmesi aşağıdaki hâllerden hangisinin varlığına bağlıdır?",
+            "secenekler": {
+                "A": "Karşı tarafın muvafakat etmesi",
+                "B": "Zaruri sebeplerin ortaya çıkması",
+                "C": "Tebliğ talebinin ilk kez yapılmış olması",
+                "D": "Masraf tutarının belirli bir meblağın altında kalması",
+                "E": "Tebliğin kamu düzenine ilişkin olması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Zaruri sebeplerden dolayı bu mehle riayetsizlik halinde yeni bir mehil verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligat masraflarının ödenmesi için verilen süreye uyulmaması durumunda yeni bir süre verilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yeni bir süre verilmesi hiçbir koşulda mümkün değildir.",
+                "B": "Sadece karşı tarafın rızasıyla yeni bir süre verilebilir.",
+                "C": "Talep edenin kusursuz olduğunu ispatlaması halinde yeni bir süre verilir.",
+                "D": "Zaruri sebeplerden dolayı süreye uyulmaması halinde yeni bir süre verilir.",
+                "E": "Yeni bir süre verilmesi için mutlaka mahkeme kararı gereklidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Zaruri sebeplerden dolayı bu mehle riayetsizlik halinde yeni bir mehil verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, PTT İşletmesi tarafından mücbir haller dışında bir sebeple zayi edilen tebliğ evrakı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Masrafların ödenmesinde Borçlar Kanunu genel hükümleri uygulanır.",
+                "B": "Yeniden tanzim ve tebliğ masrafları, Posta Kanununun taahhütlü gönderilere ilişkin hükümlerine göre ödenir.",
+                "C": "Tebliği isteyenin yeniden masraf yatırması zorunludur.",
+                "D": "Telgraf ve Telefon Kanunu hükümleri kıyasen tatbik olunur.",
+                "E": "Zayi olan evrak için PTT İşletmesine idari para cezası verilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen '...zıyaa uğrıyan tebliğ evrakının yeniden tanzim ve tebliği için gerekli masraflar, Posta Kanununun taahhütlü müraselata mütaallik hükümlerine göre ödenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligatın telgraf servisi aracılığıyla yapılması sırasında bir zıya veya gecikme meydana gelmesi durumunda yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Posta Kanunu hükümlerinin uygulanması",
+                "B": "Telgraf ve Telefon Kanunu hükümlerinin uygulanması",
+                "C": "Tebligat Kanunu'nun genel tazminat hükümlerinin uygulanması",
+                "D": "PTT İşletmesi iç yönetmeliği hükümlerinin uygulanması",
+                "E": "Tebliği çıkaran merciin yönetmelik hükümlerinin uygulanması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Telgraf servisinde zıya veya gecikme vukuunda Telgraf ve Telefon Kanunu hükümleri tatbik olunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ evrakının zıyaa uğraması halinde uygulanacak hükümlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "PTT İşletmesi, mücbir haller dışında zıyaa uğrayan evrakın masraflarından sorumludur.",
+                "B": "Posta yoluyla gönderilen evrakın zıyaı halinde masraflar, Posta Kanunu'nun taahhütlü gönderilere ilişkin hükümlerine göre ödenir.",
+                "C": "Telgraf servisindeki zıya veya gecikme durumunda Telgraf ve Telefon Kanunu hükümleri uygulanır.",
+                "D": "Tebliğ evrakının PTT İşletmesi tarafından herhangi bir sebeple zıyaa uğratılması halinde masraflar, daima Posta Kanunu'na göre ödenir.",
+                "E": "Sorumluluk, tebliğ evrakının yeniden tanzimi ve tebliği için gerekli masrafları kapsar."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 6'da telgraf servisindeki zıya veya gecikme vukuunda Telgraf ve Telefon Kanunu hükümlerinin tatbik olunacağının açıkça belirtilmesine dayanmaktadır. Bu nedenle, masrafların 'daima' Posta Kanunu'na göre ödeneceği ifadesi, telgraf istisnasını göz ardı ettiği için yanlıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, elektronik yolla yapılan bir tebligatın hukuken tamamlanmış sayılacağı zaman ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Muhatabın elektronik adresine ulaştığı an yapılmış sayılır.",
+                "B": "Muhatabın elektronik adresine ulaştığı günün sonunda yapılmış sayılır.",
+                "C": "Muhatabın elektronik adresine ulaştığı tarihi izleyen üçüncü günün sonunda yapılmış sayılır.",
+                "D": "Muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır.",
+                "E": "Muhatabın elektronik adresine ulaştığı tarihi izleyen yedinci günün sonunda yapılmış sayılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7/a'da yer alan 'Elektronik yolla tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, aşağıdakilerden hangisi tebligatın elektronik yolla yapılmasının zorunlu olduğu kişiler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Baro levhasına yazılı avukatlar",
+                "B": "Noterler",
+                "C": "Kanunla kurulanlar da dahil olmak üzere tüm özel hukuk tüzel kişileri",
+                "D": "Sicile kayıtlı arabulucular ve bilirkişiler",
+                "E": "Herhangi bir talepte bulunmamış olan gerçek kişiler"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7/a'da zorunluluk kapsamı dışında kalan gerçek kişilere ancak talepleri hâlinde elektronik tebligatın zorunlu hale geleceğinin belirtilmesine dayanmaktadır. Talepte bulunmayan gerçek kişiler için böyle bir zorunluluk yoktur."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, elektronik yolla yapılan tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen kaçıncı günün sonunda yapılmış sayılır?",
+            "secenekler": {
+                "A": "Üçüncü",
+                "B": "Beşinci",
+                "C": "Yedinci",
+                "D": "Onuncu",
+                "E": "On beşinci"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7/a'da yer alan 'Elektronik yolla tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, elektronik tebligat işlemlerinin yürütüldüğü Ulusal Elektronik Tebligat Sistemini kurma ve işletme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Ulaştırma ve Altyapı Bakanlığı",
+                "C": "Posta ve Telgraf Teşkilatı Anonim Şirketi",
+                "D": "Bilgi Teknolojileri ve İletişim Kurumu",
+                "E": "Türkiye Barolar Birliği"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7/a'da yer alan 'Bu Kanun uyarınca yapılan elektronik tebligat işlemleri, Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından kurulan ve işletilen Ulusal Elektronik Tebligat Sistemi üzerinden yürütülür.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğin uçak veya telgraf gibi seri vasıtalarla yapılmasına karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Posta ve Telgraf Teşkilatı Genel Müdürlüğüne",
+                "B": "Sadece tebliği talep eden ilgiliye",
+                "C": "Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğüne",
+                "D": "Mahkeme reisi, hakim veya tebliği yaptıracak diğer mercilere",
+                "E": "Sadece Cumhuriyet savcısına"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Tebliğin bu vasıtalardan hangisiyle yapılacağı alakalının talebi üzerine veya re'sen mahkeme reisi, hakim veya tebliği yaptıracak diğer merciler tarafından tensip edilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligatın uçak veya postada kullanılan diğer seri vasıtalarla yapılması durumunda ortaya çıkan ek ücrete ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ücret, tebligatı çıkaran merci tarafından re'sen karşılanır.",
+                "B": "Ücret, standart tebliğ ücretine dahil olup ayrıca bir bedel alınmaz.",
+                "C": "Ücret, PTT ücretleri tarifesine göre bu vasıtalarla tebliği isteyenden tebliğ ücretinden ayrı olarak alınır.",
+                "D": "Ücret, tebligatın muhatabı tarafından tebligatı teslim alırken ödenir.",
+                "E": "Ücret, Hazine tarafından karşılanır ve ilgiliye sonradan rücu edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'bunlara ait ücretler, PTT ücretleri tarifesine göre bu vasıtalarla tebliği istiyenden tebliğ ücretinden ayrı olarak alınır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, elektronik yolla tebligatın zorunlu bir sebeple yapılamaması hâlinde yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebliğ işlemi geçersiz sayılır ve yeniden elektronik tebligat denenir.",
+                "B": "Durum bir tutanakla tespit edilerek tebligat dosyasına geri gönderilir.",
+                "C": "Kanunda belirtilen diğer usullerle tebligat yapılır.",
+                "D": "Muhatabın en son bilinen adresine iadeli taahhütlü mektup gönderilir.",
+                "E": "Tebligat yapılmış sayılır ve sorumluluk muhataba ait olur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7/a'da yer alan '...elektronik yolla tebligatın zorunlu bir sebeple yapılamaması hâlinde bu Kanunda belirtilen diğer usullerle tebligat yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ olunacak evrakın nüshaları ve tebliğ süreci ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yetkili mercilere verilen evrakın her nüshasına, verildiği tarih yazılır ve talep edilirse makbuz verilir.",
+                "B": "Evrak nüshalarında sadece tebligatı çıkaran merciin mührünün bulunması yeterlidir.",
+                "C": "Tebliğ edilecek evrakın sadece bir nüshası hazırlanır ve bu nüsha dosyasına konulur.",
+                "D": "Tebliğe ait tebliğ mazbataları, tebliğ edilen kişiye evrakla birlikte teslim edilir.",
+                "E": "Evrakın teslimine ilişkin makbuz verilmesi, talep olmasa dahi kanuni bir zorunluluktur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8'de yer alan 'Tebliğ olunmak üzere salahiyetli mercilere verilecek evrakın her nüshasına bu mercilerce, verildiği tarih yazılır ve istenirse makbuz verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ olunacak evrak ile ilgili olarak;\n\nI. Biri dosyasına konulmak üzere yeterli sayıda nüsha hazırlanır.\nII. Nüshalarda iş sahibi veya vekilinin imzası bulunur.\nIII. Tebliğ mazbataları ilgili evrakla birlikte muhataba verilir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de tebliğ evrakının yeterli sayıda nüshadan oluşacağının ve bu nüshalarda iş sahibi veya vekilinin imzasının bulunacağının belirtilmesine dayanmaktadır. Aynı maddede tebliğ mazbatalarının ise 'dosyasına konur' hükmü yer aldığından III. öncül yanlıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ olunacak evrakın hazırlanması ve teslimi sürecine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tebliğ edilecek kişilere verilmek üzere yeterli sayıda nüsha hazırlanır.",
+                "B": "Hazırlanan nüshalarda iş sahibinin veya vekilinin imzası bulunur.",
+                "C": "Nüshalardan biri tebligat dosyasına konulur.",
+                "D": "Yetkili merciler, teslim aldıkları her nüshaya verildiği tarihi ve saati yazar.",
+                "E": "Talep edilmesi halinde, evrakı teslim alan kişiye makbuz verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 8'de yetkili mercilerin evrakın her nüshasına 'verildiği tarih' yazacağının belirtilmiş olmasıdır; metinde saat yazılacağına dair bir hüküm bulunmamaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, aşağıdakilerden hangisi davetiyede bulunması zorunlu olan kayıtlardan biri değildir?",
+            "secenekler": {
+                "A": "Tarafların ad ve soyadları ile adresleri",
+                "B": "Tebliğin konusunun anlaşılır ve kısa bir açıklaması",
+                "C": "Muhatabın hangi gün ve saatte nerede hazır bulunması gerektiği",
+                "D": "Muhatabın T.C. kimlik numarası",
+                "E": "Davetiyeyi çıkaran merciin mührü ve yetkili memurun imzası"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9'da davetiyenin ihtiva edeceği kayıtlar sayılırken, muhatabın T.C. kimlik numarasının bu kayıtlar arasında yer almamasına dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir davetiyede;\n\nI. Tarafların ve varsa kanuni temsilcilerinin ad ve soyadları ile adresleri\nII. Davetiyeyi çıkaran merciin mührü ve yetkili memurun imzası\nIII. Tebliğ konusunun ayrıntılı ve gerekçeli açıklaması\n\nunsurlarından hangisinin veya hangilerinin bulunması zorunludur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'un 1. ve 5. bentlerine dayanmaktadır. Bu bentlerde tarafların kimlik ve adres bilgileri ile merciin mühür ve imzasının davetiyede bulunması gerektiği açıkça belirtilmiştir. Ancak 2. bentte tebliğ konusunun 'Anlaşılacak şekilde kısaca' belirtilmesi yeterli görülmüş, 'ayrıntılı ve gerekçeli açıklama' şartı getirilmemiştir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, davetiyenin içeriği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tarafların ve varsa kanuni temsilcilerinin ad ve soyadlarını içermelidir.",
+                "B": "Tebliğin konusu anlaşılır bir şekilde kısaca belirtilmelidir.",
+                "C": "Davet edilen kişinin hangi mercide, hangi gün ve saatte hazır bulunması gerektiği yazılmalıdır.",
+                "D": "Davetiyeyi çıkaran merciin mührü ile yetkili memurun imzasını taşımalıdır.",
+                "E": "Tebliğ masraflarının ve olası vekalet ücretinin dökümünü içermelidir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 9'da davetiyenin ihtiva edeceği kayıtlar arasında tebliğ masrafları veya vekalet ücreti gibi mali dökümlerin yer almamasına dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bilinen en son adresin tebligata elverişli olmadığının anlaşılması veya bu adreste tebligat yapılamaması durumunda izlenecek usul aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebliğ evrakı, tebligatı çıkaran mercie iade edilir.",
+                "B": "Muhatabın adres kayıt sistemindeki yerleşim yeri adresi bilinen en son adresi kabul edilerek tebligat bu adrese yapılır.",
+                "C": "Durum bir tutanakla tespit edilir ve tebligat ilanen yapılır.",
+                "D": "Muhatabın müracaatı beklenir ve kabulü halinde yeni adresinde tebligat yapılır.",
+                "E": "Tebligat, muhatabın bilinen en yakın akrabasına yapılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Bilinen en son adresin tebligata elverişli olmadığının anlaşılması veya tebligat yapılamaması hâlinde, muhatabın adres kayıt sisteminde bulunan yerleşim yeri adresi, bilinen en son adresi olarak kabul edilir ve tebligat buraya yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligat yapılacak adresin tespitiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tebligat, her durumda öncelikli olarak muhatabın adres kayıt sistemindeki adresine yapılır.",
+                "B": "Bilinen en son adresin tebligata elverişli olmaması durumunda, muhatabın adres kayıt sistemindeki adresi esas alınır.",
+                "C": "Muhatabın açık kabulü olsa dahi, tebligat sadece bilinen en son adresinde veya iş adresinde yapılabilir.",
+                "D": "Bilinen en son adrese tebligat yapılamazsa, masrafı muhataba ait olmak üzere ilanen tebligat yoluna gidilir.",
+                "E": "Adres kayıt sisteminde adresi bulunmayan kişilere tebligat yapılması mümkün değildir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da yer alan 'Bilinen en son adresin tebligata elverişli olmadığının anlaşılması veya tebligat yapılamaması hâlinde, muhatabın adres kayıt sisteminde bulunan yerleşim yeri adresi, bilinen en son adresi olarak kabul edilir ve tebligat buraya yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligatın bilinen en son adres dışında bir yerde yapılabilmesi için;\n\nI. Muhatabın bu yönde bir müracaatının olması\nII. Muhatabın tebligatı o yerde kabul etmesi\nIII. Tebligatı çıkaran merciin bu durumu zorunlu görmesi\n\nşartlarından hangisi veya hangilerinin gerçekleşmesi gerekir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da yer alan '...kendisine tebliğ yapılacak şahsın müracaatı veya kabulü şartiyle her yerde tebligat yapılması caizdir.' hükmüne dayanmaktadır. Bu hüküm, müracaat veya kabul şartlarından birinin varlığını yeterli görmektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, aşağıdaki durumlardan hangisinde bir şahsa her yerde tebligat yapılması mümkündür?",
+            "secenekler": {
+                "A": "Tebliğin konusunun aciliyet arz etmesi hâlinde",
+                "B": "Muhatabın kamu görevlisi olması durumunda",
+                "C": "Tebligatı çıkaran merciin hâkim kararı alması şartıyla",
+                "D": "Muhatabın bizzat müracaat etmesi veya kabul etmesi şartıyla",
+                "E": "Bilinen en son adresinin yurtdışında olması hâlinde"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen '...kendisine tebliğ yapılacak şahsın müracaatı veya kabulü şartiyle her yerde tebligat yapılması caizdir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, vekil vasıtasıyla takip edilen işlerde tebligata ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Vekil birden çok ise her birine ayrı ayrı tebligat yapılması zorunludur.",
+                "B": "Tebligatın vekile yapılması esastır.",
+                "C": "Birden fazla vekile tebligat yapılmışsa, ilk tebliğ tarihi asıl tebliğ tarihi sayılır.",
+                "D": "Avukatın bürosunda yapılacak tebligatlar resmî çalışma gün ve saatleri içinde yapılır.",
+                "E": "Kanuni mümessili bulunanlara tebligat, kanunlar aksini gerektirmedikçe bu mümessillere yapılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Vekil birden çok ise bunlardan birine tebligat yapılması yeterlidir.' hükmüne dayanmaktadır. Dolayısıyla her birine tebligat yapılması zorunlu değildir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, birden fazla vekil ile takip edilen bir işte, vekillerin tamamına farklı tarihlerde tebligat yapılması durumunda ortaya çıkacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebligat geçersiz sayılır ve yeniden yapılması gerekir.",
+                "B": "Vekillerden sonuncusuna yapılan tebliğ tarihi esas alınır.",
+                "C": "Vekillerden ilkine yapılan tebliğ tarihi asıl tebliğ tarihi sayılır.",
+                "D": "Tüm tebliğ tarihlerinin ortalaması alınarak yeni bir tebliğ tarihi belirlenir.",
+                "E": "Asıl müvekkile doğrudan tebligat yapılması zorunlu hale gelir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Eğer tebligat birden fazla vekile yapılmış ise, bunlardan ilkine yapılan tebliğ tarihi asıl tebliğ tarihi sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, avukat tarafından takip edilen işlerde avukatın bürosunda yapılacak tebligatlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Avukatın rıza göstermesi şartıyla resmî tatil günlerinde de tebligat yapılabilir.",
+                "B": "Tebligatın resmî çalışma saatleri içinde yapılması esastır.",
+                "C": "Tebligatın resmî çalışma günleri içinde yapılması gerekir.",
+                "D": "Bu kural, avukat tarafından takip edilen işler için geçerlidir.",
+                "E": "Vekil vasıtasıyla takip edilen işlerde tebligatın vekile yapılması genel kuraldır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 11'de yer alan 'Avukat tarafından takip edilen işlerde, avukatın bürosunda yapılacak tebligatlar, resmî çalışma gün ve saatleri içinde yapılır.' hükmü, bu işlemin belirtilen zaman dilimi dışında yapılamayacağını amir bir şekilde düzenlediğinden, avukatın rızasının bu kuralı değiştireceğine dair bir istisna öngörmemektedir."
+        },
+        {
+            "soru": "Bir davada davalıyı avukat A ve avukat B birlikte temsil etmektedir. Mahkeme tarafından gönderilen tebligat, ilk olarak 5 Mart'ta avukat A'ya, daha sonra 7 Mart'ta avukat B'ye ulaşmıştır. 7201 Sayılı Tebligat Kanunu'na göre, bu olayla ilgili olarak asıl tebliğ tarihi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "7 Mart",
+                "B": "5 Mart",
+                "C": "Tebligat her iki vekile de yapıldığı için usulsüzdür.",
+                "D": "Her iki tarihin ortalaması olan 6 Mart",
+                "E": "Davalının tebliği öğrendiğini bildirdiği tarih"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'de yer alan 'Eğer tebligat birden fazla vekile yapılmış ise, bunlardan ilkine yapılan tebliğ tarihi asıl tebliğ tarihi sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kanuni mümessilleri bulunan kişilere yapılacak tebligata ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tebligatın hem kanuni mümessile hem de asıl muhataba birlikte yapılması zorunludur.",
+                "B": "Kanunlar gereği bizzat kendilerine tebligat yapılması gerekmedikçe, tebligat kanuni mümessile yapılır.",
+                "C": "Tebligatın geçerli olması için kanuni mümessilin tebligatı açıkça kabul etmesi şarttır.",
+                "D": "Kanuni mümessile tebligat yapılabilmesi için asıl muhatabın bilinen adresinde bulunamaması gerekir.",
+                "E": "Tebligat her durumda öncelikle asıl muhatabın kendisine yapılmaya çalışılır, mümkün olmazsa mümessile yapılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Kanuni mümessilleri bulunanlara veya bulunması gerekenlere yapılacak tebligat kanunlara göre bizzat kendilerine yapılması icabetmedikçe bu mümessillere yapılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, vekil vasıtasıyla takip edilen bir işte birden çok vekilin bulunması durumuna ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tebligatın tüm vekillere ayrı ayrı yapılması zorunludur.",
+                "B": "Tebligatın geçerli sayılması için vekillerin en kıdemlisine yapılması gerekir.",
+                "C": "Tebligat birden fazla vekile yapılmışsa, ilkine yapılan tebliğ tarihi asıl tebliğ tarihi sayılır.",
+                "D": "Tebligatın yapıldığı son vekile yapılan tebliğ tarihi esas alınır.",
+                "E": "Vekillerden herhangi birine yapılan tebligat, diğer vekillere de bildirilmedikçe geçersizdir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Eğer tebligat birden fazla vekile yapılmış ise, bunlardan ilkine yapılan tebliğ tarihi asıl tebliğ tarihi sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, birden fazla yetkili temsilcisi bulunan bir hükmi şahsa yapılacak tebligatla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tebligatın tüm yetkili temsilcilere ayrı ayrı yapılması zorunludur.",
+                "B": "Tebligatın yetkili temsilcilerden yalnızca birine yapılması yeterlidir.",
+                "C": "Tebligatın, temsilcilerin en az yarısından bir fazlasına yapılması gerekir.",
+                "D": "Tebligat, ancak temsilcilerin tamamının hazır bulunduğu bir anda yapılabilir.",
+                "E": "Tebligat, temsilciler arasından en kıdemli olanına yapılmalıdır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Hükmi şahıslara tebliğ, salahiyetli mümessillerine, bunlar birden ziyade ise, yalnız birine yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir ticarethanenin muamelelerinden doğan ihtilaflarda tebligatın aşağıdakilerden hangisine yapılması muteberdir?",
+            "secenekler": {
+                "A": "Ticari mümessiline",
+                "B": "Ticarethanenin sahibine",
+                "C": "Ticarethanenin herhangi bir çalışanına",
+                "D": "Ticaret sicili müdürlüğüne",
+                "E": "Ticarethanenin bağlı olduğu vergi dairesine"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Bir ticarethanenin muamelelerinden doğan ihtilaflarda, ticari mümessiline yapılan tebliğ muteberdir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre;\n\nI. Hükmi şahıslara yapılacak tebligatın, yetkili mümessillerinden sadece birine yapılması\nII. Bir ticarethanenin işlemlerinden doğan uyuşmazlıklarda, tebligatın ticari mümessiline yapılması\nIII. Kanuni mümessili bulunanlara yapılacak tebligatın, kanunlarca bizzat kendilerine yapılması gerekmedikçe, bu mümessile yapılması\n\nhususlarından hangisi veya hangileri geçerli bir tebligat usulüdür?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 12'deki 'Hükmi şahıslara tebliğ, salahiyetli mümessillerine, bunlar birden ziyade ise, yalnız birine yapılır.' ve 'Bir ticarethanenin muamelelerinden doğan ihtilaflarda, ticari mümessiline yapılan tebliğ muteberdir.' hükümleri ile Madde 11'deki 'Kanuni mümessilleri bulunanlara ... yapılacak tebligat kanunlara göre bizzat kendilerine yapılması icabetmedikçe bu mümessillere yapılır.' hükümlerine dayanmaktadır. Her üç öncül de kanunda belirtilen geçerli usullerdir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir ticarethanenin ticari mümessiline yapılan tebliğin geçerli sayılabilmesi için aranan temel şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Ticari mümessilin tebliği kabul ettiğini yazılı olarak beyan etmesi.",
+                "B": "Uyuşmazlığın ticarethanenin işlemlerinden doğmuş olması.",
+                "C": "Ticarethanenin diğer yetkili temsilcilerinin bulunmaması.",
+                "D": "Tebliğin mutlaka ticarethanenin merkezinde yapılması.",
+                "E": "Ticarethanenin iflas veya konkordato sürecinde olmaması."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Bir ticarethanenin muamelelerinden doğan ihtilaflarda, ticari mümessiline yapılan tebliğ muteberdir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir hükmi şahıs adına tebligatı alacak yetkili kimsenin;\n\nI. mutat iş saatlerinde iş yerinde bulunmaması,\nII. o sırada evrakı bizzat alamayacak bir halde olması,\nIII. tebligatı almayı yazılı olarak reddetmesi\n\ndurumlarından hangisi veya hangilerinde tebliğ, orada hazır bulunan memur veya müstahdemlerden birine yapılabilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Hükmi şahıslar namına kendilerine tebliğ yapılacak kimseler her hangi bir sebeple mütat iş saatlerinde iş yerinde bulunmadıkları veya o sırada evrakı bizzat alamıyacak bir halde oldukları takdirde tebliğ, orada hazır bulunan memur veya müstahdemlerinden birine yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, hükmi şahıslar adına tebliği almaya yetkili kişi, mütat iş saatlerinde iş yerinde bulunmadığı veya evrakı bizzat alamayacak durumda olduğu takdirde yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebliğ, orada hazır bulunan memur veya müstahdemlerden birine yapılır.",
+                "B": "Tebliğ evrakı kapıya asılır ve durum en yakın kolluk amirine bildirilir.",
+                "C": "Tebligat iade edilir ve daha sonraki bir tarihte yeniden çıkarılır.",
+                "D": "Tebliğ, hükmi şahsın ticari mümessiline yapılır.",
+                "E": "Tebliğ, salahiyetli mümessilin konutunda yapılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'hükmi şahıslar namına kendilerine tebliğ yapılacak kimseler...iş yerinde bulunmadıkları...takdirde tebliğ, orada hazır bulunan memur veya müstahdemlerinden birine yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, askeri şahıslara yapılacak tebligatla ilgili olarak;\n\nI. Astsubaylar hariç olmak üzere erata yapılacak tebliğler, en yakın üstlerine yapılır.\nII. Birlik veya müessesede bulunan subaylara tebliğ yapılmasını nöbetçi amiri veya subayı temin eder.\nIII. Nöbetçi amiri veya subayının muhatabı derhal bulduramaması halinde tebliğ doğrudan kıta kumandanına yapılır.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te yer alan 'Astsubaylar hariç olmak üzere erata yapılacak tebliğler, kıta kumandanı ve müessese amiri gibi en yakın üste yapılır.' ve '...askeri şahıslara birlik veya müessesede tebligat yapılması icabeden ahvalde, tebliğin yapılmasını nöbetçi amiri veya subayı temin eder.' hükümlerine dayanmaktadır. Muhatabın bulunamaması halinde tebliğ, nöbetçi amirinin veya subayının kendisine yapılır, kıta kumandanına değil."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, astsubaylar hariç olmak üzere erata yapılacak tebliğler aşağıdaki kişilerden hangisine yapılır?",
+            "secenekler": {
+                "A": "Nöbetçi subayına",
+                "B": "Kıta kumandanı gibi en yakın üste",
+                "C": "Doğrudan muhatabın kendisine",
+                "D": "Bağlı bulunulan kuvvet komutanlığına",
+                "E": "Müessese müdürüne"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'erata yapılacak tebliğler, kıta kumandanı ve müessese amiri gibi en yakın üste yapılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir askeri birlikte görevli subaya tebligat yapılması gerektiğinde, nöbetçi amiri tarafından muhatabın derhal bulundurulması mümkün olmazsa yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebliğ, nöbetçi amirinin veya subayının kendisine yapılır.",
+                "B": "Tebligat evrakı en yakın üste teslim edilir.",
+                "C": "Tebligatın yapılamadığına dair tutanak tutulur.",
+                "D": "Tebliğ işlemi muhatap bulunana kadar ertelenir.",
+                "E": "Tebliğ, sefer hali usullerine göre yapılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 14'te yer alan 'Bunlar tarafından muhatabın derhal bulundurulması veya tebliğin temini mümkün olmazsa tebliğ kendilerine yapılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğin doğrudan kıta kumandanı veya müessese amiri gibi en yakın üste yapıldığı askeri şahıslarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bu usul erata yapılacak tebliğlerde uygulanır.",
+                "B": "Astsubaylar bu usulün kapsamı dışındadır.",
+                "C": "Bu kural, rütbesi ne olursa olsun tüm askeri şahısları kapsar.",
+                "D": "Tebliğ, muhatabın en yakın amirine yapılır.",
+                "E": "Erler bu usule tabidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te yer alan 'Astsubaylar hariç olmak üzere erata yapılacak tebliğler...' hükmüne dayanmaktadır. Bu hüküm, kuralın tüm askeri şahısları değil, sadece astsubaylar hariç eratı kapsadığını açıkça belirtmektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, askeri şahıslara tebligat yapılmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Astsubaylar hariç olmak üzere erata yapılacak tebliğler, en yakın üste yapılır.",
+                "B": "Astsubaylara birlik veya müessesede tebligat yapılmasını nöbetçi amiri veya subayı temin eder.",
+                "C": "Nöbetçi amir tarafından muhatabın derhal bulundurulamaması halinde tebliğ işlemi ertelenir.",
+                "D": "Erata yapılacak tebliğlerin muhataplarından biri kıta kumandanı olabilir.",
+                "E": "Erata yapılacak tebliğlerin muhataplarından biri müessese amiri olabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Bunlar tarafından muhatabın derhal bulundurulması veya tebliğin temini mümkün olmazsa tebliğ kendilerine yapılır.' hükmüne dayanmaktadır. Bu hükme göre tebliğ ertelenmez, nöbetçi amire yapılır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, erata yapılacak tebliğlerin kıta kumandanı ve müessese amiri gibi en yakın üste yapılması kuralı, aşağıdaki askeri şahıslardan hangisi için uygulanmaz?",
+            "secenekler": {
+                "A": "Erler",
+                "B": "Onbaşılar",
+                "C": "Çavuşlar",
+                "D": "Astsubaylar",
+                "E": "Nöbetçi subayları"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 14'te yer alan 'Astsubaylar hariç olmak üzere erata yapılacak tebliğler...' ifadesine dayanmaktadır. Bu hüküm, astsubayların bu özel tebligat usulünün dışında tutulduğunu açıkça belirtmektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, sefer halinde olan bir müesseseye mensup askeri şahıslara yapılacak tebligat, aşağıdakilerden hangisi vasıtasıyla gerçekleştirilir?",
+            "secenekler": {
+                "A": "Doğrudan askeri şahsın kendisine",
+                "B": "Mensup olduğu birliğin en yakın amirine",
+                "C": "Bağlı bulunduğu kuvvet komutanlığına",
+                "D": "Milli Savunma Bakanlığı'na",
+                "E": "Garnizon Komutanlığı'na"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '...tebligat, bağlı bulundukları Kara, Deniz veya Hava kuvvetleri kumandanlıkları vasıtasiyle yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kendisine tebliğ yapılacak şahsın adresinde bulunmaması durumunda tebligat;\n\nI. kendisi ile aynı konutta oturan kişilerden birine,\nII. hizmetçilerinden birine,\nIII. apartman yöneticisine\n\nkimlerden hangisine veya hangilerine yapılabilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Kendisine tebliğ yapılacak şahıs adresinde bulunmazsa tebliğ kendisi ile aynı konutta oturan kişilere veya hizmetçilerinden birine yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kendisine tebliğ yapılacak şahsın adresinde bulunmaması halinde, tebligatın aşağıdakilerden hangisine yapılması usule uygundur?",
+            "secenekler": {
+                "A": "Muhatabın o sırada adreste bulunan bir misafirine",
+                "B": "Muhatapla aynı apartmanda oturan en yakın komşusuna",
+                "C": "Apartman yöneticisine",
+                "D": "Adresin bağlı olduğu mahalle muhtarına",
+                "E": "Muhatabın hizmetçilerinden birine"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen '...tebliğ kendisi ile aynı konutta oturan kişilere veya hizmetçilerinden birine yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, belli bir yerde devamlı olarak meslek veya sanatını icra eden bir kişiye, o yerde bulunmadığı takdirde yapılacak tebligatla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Mesleğini evinde icra ediyorsa, memur veya müstahdemi varken tebliğ doğrudan hizmetçisine yapılabilir.",
+                "B": "Tebliğ, o yerdeki daimi müstahdemlerinden birine yapılabilir.",
+                "C": "Tebliğ, o yerdeki daimi memurlarından birine yapılabilir.",
+                "D": "Mesleğini evinde icra ediyorsa ve memur veya müstahdemi yoksa, tebliğ aynı konutta oturan kişilerden birine yapılabilir.",
+                "E": "Mesleğini evinde icra ediyorsa ve memur veya müstahdemi yoksa, tebliğ hizmetçilerinden birine yapılabilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 17'de yer alan 'meslek veya sanatını evinde icra edenlerin memur ve müstahdemlerinden biri bulunmadığı takdirde aynı konutta oturan kişilere veya hizmetçilerinden birine yapılır' hükmüne dayanmaktadır. Bu hüküm, hizmetçiye tebligat yapılabilmesi için öncelikle memur veya müstahdemin bulunmaması şartını aramaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, belli bir yerde devamlı olarak meslek veya sanatını icra eden ve o an orada bulunmayan bir kişiye tebligat;\n\nI. aynı yerdeki daimi memuruna,\nII. mesleğini evinde icra etmesi ve memurunun bulunmaması halinde aynı konutta oturan bir kişiye,\nIII. iş yerinin bulunduğu binanın yöneticisine\n\nyukarıdaki kişilerden hangisine veya hangilerine veya hangisine veya hangilerine yapılabilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'o yerde bulunmadıkları takdirde tebliğ aynı yerdeki daimi memur veya müstahdemlerinden birine' ve 'meslek veya sanatını evinde icra edenlerin memur ve müstahdemlerinden biri bulunmadığı takdirde aynı konutta oturan kişilere' hükümlerine dayanmaktadır. Bina yöneticisine tebligat yapılabileceğine dair bir düzenleme metinde yer almamaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, belli bir yerde devamlı olarak sanatını icra eden bir heykeltıraşın atölyesinde bulunmadığı bir anda kendisine gelen tebligatın, aynı yerdeki daimi müstahdemine yapılması durumunda hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebligat usulsüz sayılır ve iade edilir.",
+                "B": "Tebligat geçerli sayılır.",
+                "C": "Tebligatın geçerli olması için heykeltıraşın onay vermesi gerekir.",
+                "D": "Tebligatın muhtarlığa bırakılması gerekir.",
+                "E": "Tebligatın bir gün sonra tekrar getirilmesi gerekir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Belli bir yerde devamlı olarak meslek veya sanatını icra edenler, o yerde bulunmadıkları takdirde tebliğ aynı yerdeki daimi memur veya müstahdemlerinden birine... yapılır.' hükmüne dayanmaktadır. Bu nedenle yapılan tebligat geçerlidir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, mesleğini evinde icra eden bir kimsenin o an evde bulunmaması ve tebliğ anında memur veya müstahdemlerinden birinin de bulunmaması durumunda, tebligatın yapılabileceği kişiler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Aynı konutta oturan kişilerden biri",
+                "B": "Hizmetçilerinden biri",
+                "C": "Aynı konutta oturan aile üyelerinden biri",
+                "D": "Komşularından biri",
+                "E": "Aynı konutta oturan ve reşit olan herhangi bir kişi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen '...meslek veya sanatını evinde icra edenlerin memur ve müstahdemlerinden biri bulunmadığı takdirde aynı konutta oturan kişilere veya hizmetçilerinden birine yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir terzi dükkanının sahibi olan A'ya gönderilen tebligat, kendisi dükkanda olmadığı bir sırada tebliğ memuru tarafından getirilmiştir. Bu olayda tebliğ memurunun tebligatı aşağıdakilerden hangisine yapması usule uygundur?",
+            "secenekler": {
+                "A": "Dükkanın bulunduğu iş hanının yöneticisine",
+                "B": "A'nın dükkandaki daimi kalfasına",
+                "C": "Komşu dükkanın sahibine",
+                "D": "O sırada dükkanda bulunan bir müşteriye",
+                "E": "A'nın aynı mahallede oturan eşine"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Belli bir yerde devamlı olarak meslek veya sanatını icra edenler, o yerde bulunmadıkları takdirde tebliğ aynı yerdeki daimi memur veya müstahdemlerinden birine... yapılır.' hükmüne dayanmaktadır. Daimi kalfa, müstahdem tanımına uymaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir hastanede bulunan kişiye tebligat yapılacağı sırada, o yeri idare edenler tarafından muhatabın derhal buldurulması mümkün olmazsa yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebliğ, o yeri idare eden kişilere yapılır.",
+                "B": "Tebliğ evrakı, tebliği çıkaran mercie iade edilir.",
+                "C": "Durum bir tutanakla tespit edilerek tebligat ertelenir.",
+                "D": "Muhatabın odasının kapısına ihbarname yapıştırılır.",
+                "E": "Tebligatın yapılması için ertesi gün beklenir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Bunlar tarafından muhatabın derhal buldurulması veya tebliğin temini mümkün olmazsa, tebliğ kendilerine yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, otel, hastane veya fabrika gibi serbestçe girilemeyen bir yerde bulunan kişiye tebligat yapılmasında, tebliğin yapılmasını temin etme görevi öncelikle aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "O yerin bulunduğu mahalle muhtarına",
+                "B": "Tebliğ yapılacak şahsın bir yakınına",
+                "C": "O yeri idare eden veya muhatabın bulunduğu kısmın amirine",
+                "D": "O yerdeki herhangi bir çalışana",
+                "E": "Zabıta memuruna"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen '...tebliğin yapılmasını o yeri idare eden veya muhatabın bulunduğu kısmın amiri temin eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, otel veya hastane gibi içine serbestçe girilemeyen bir yerde bulunan kişiye yapılacak tebligatla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tebliğin yapılmasını o yeri idare eden kişi temin eder.",
+                "B": "Muhatabın bulunduğu kısmın amiri tebliğin yapılmasını sağlamakla görevlidir.",
+                "C": "Muhatabın derhal buldurulması mümkün olmazsa, tebliğ o yeri idare edene yapılır.",
+                "D": "Yeri idare eden veya kısmın amiri tebliği temin edemezse, tebligat evrakı muhatabın odasının kapısına asılır.",
+                "E": "Aranan kişinin kolayca bulunmasının mümkün olmadığı yerler bu kuralın kapsamındadır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 18'de yer alan '...tebliğin temini mümkün olmazsa, tebliğ kendilerine yapılır.' hükmüne dayanmaktadır. Metinde, tebliğin temin edilememesi halinde kapıya asılacağına dair bir düzenleme bulunmamakta, aksine tebliğin yeri idare eden veya kısmın amirine yapılacağı açıkça belirtilmektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre,\n\nI. Talebe yurdunda kalan bir öğrenciye\nII. Hükümlü olarak cezaevinde bulunan bir kişiye\nIII. Bir fabrikada çalışan işçiye\n\nyapılacak tebligatlardan hangisi veya hangilerinde, tebliğin yapılmasını o yeri idare eden veya ilgili amir/memurun temin etmesi esası benimsenmiştir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 18'de talebe yurdu ve fabrika gibi yerlerde tebligatın o yeri idare eden veya ilgili amir tarafından temin edileceğinin; Madde 19'da ise mahkumlara yapılacak tebligatların müessese müdür veya memuru tarafından temin edileceğinin düzenlenmesine dayanmaktadır. Dolayısıyla her üç durumda da belirtilen esas geçerlidir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, içine serbestçe girilemeyen bir fabrika gibi bir yerde bulunan muhatabın, o yeri idare eden tarafından derhal buldurulması mümkün olmazsa yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebliğ evrakı muhtarlığa bırakılır.",
+                "B": "Tebliğ işlemi iade edilir.",
+                "C": "Tebliğ, o yeri idare edene yapılır.",
+                "D": "Tebliğ için kolluk kuvvetlerinden yardım istenir.",
+                "E": "Muhatabın bilinen en son adresine tebligat çıkarılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Bunlar tarafından muhatabın derhal buldurulması veya tebliğin temini mümkün olmazsa, tebliğ kendilerine yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğin yapılmasını o yeri idare eden veya ilgili müessese müdürünün temin etmesi gereken hallerle ilgili olarak, aşağıdaki yer veya kişilerden hangisi kanunda açıkça sayılmamıştır?",
+            "secenekler": {
+                "A": "Hastanede bulunan şahıs",
+                "B": "Mevkuf",
+                "C": "Talebe yurdunda bulunan şahıs",
+                "D": "Askeri kışlada bulunan er",
+                "E": "Fabrikada bulunan şahıs"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 18 ve 19'da tebligatın özel usulle yapılacağı yerler ve kişiler arasında hastane, mevkuf, talebe yurdu ve fabrika sayılmışken, askeri kışlada bulunan erin bu kapsamda belirtilmemiş olmasına dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, otel veya hastane gibi bir yerde bulunan muhatap adına tebligatın, o yeri idare eden kişiye yapılabilmesi için aşağıdaki şartlardan hangisinin gerçekleşmesi gerekir?",
+            "secenekler": {
+                "A": "Muhatabın tebligatı almaktan açıkça imtina etmesi",
+                "B": "İdareci tarafından muhatabın derhal buldurulmasının veya tebliğin temininin mümkün olmaması",
+                "C": "Tebliğ saatlerinin resmi tatil gününe denk gelmesi",
+                "D": "Muhatabın tebligat anında istirahat ediyor olması",
+                "E": "Tebliğ evrakının gizlilik derecesine sahip olması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Bunlar tarafından muhatabın derhal buldurulması veya tebliğin temini mümkün olmazsa, tebliğ kendilerine yapılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir mahkûma yapılacak tebligatın usulüne uygun şekilde yapılmasını temin etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Mahkûmun avukatına",
+                "B": "Mahkûmun bulunduğu müessesenin müdür veya memuruna",
+                "C": "Adalet Bakanlığı'nın ilgili birimine",
+                "D": "Tebligatı çıkaran adli merciye",
+                "E": "Mahkûmun ailesinden bir üyeye"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Mevkuf ve mahkümlara ait tebliğlerin yapılmasını, bunların bulunduğu müessese müdür veya memuru temin eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, muhatabın muvakkaten başka bir yere gittiğinin beyan edilmesi ve tebliğ evrakının kabulden çekinilmesi üzerine ihbarname kapıya yapıştırılmışsa, tebliğ bu tarihten itibaren kaç gün sonra yapılmış sayılır?",
+            "secenekler": {
+                "A": "7",
+                "B": "10",
+                "C": "15",
+                "D": "20",
+                "E": "30"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen '...ihbarname kapıya yapıştırılmışsa bu tarihten itibaren onbeş gün sonra yapılmış sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ yapılacak kimsenin muvakkaten başka bir yere gittiğinin beyan edilmesi üzerine tebliğ memurunun yapması gereken işlemlerle ilgili olarak;\n\nI. Beyanda bulunanın adını ve soyadını tebliğ mazbatasına yazmak\nII. Beyanın altını beyanda bulunana imzalatmak\nIII. Tebliğ evrakını beyanda bulunan kişiye vermek\n\nyukarıdakilerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen '...keyfiyet ve beyanda bulunanın adı ve soyadı tebliğ mazbatasına yazılarak altı beyan yapan tarafından imzalanır ve tebliğ memuru tebliğ evrakını bu kişilere verir.' hükmüne dayanmaktadır. Bu hüküm, I, II ve III numaralı öncüllerdeki tüm işlemleri kapsamaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, muhatabın muvakkaten başka bir yere gittiğini beyan eden kişinin durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Beyanını imzadan imtina etmesi halinde tebligat işlemi geçersiz olur.",
+                "B": "Tebliğ evrakını kabul edip etmemekte serbesttir.",
+                "C": "Bu kişinin beyanı üzerine tebliğ memuru, muhatabın yeni adresini araştırmakla yükümlüdür.",
+                "D": "Tebliğ evrakını kabule mecburdur.",
+                "E": "Sadece sözlü beyanı yeterli olup, tebliğ mazbatasına imza atması gerekmez."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 20'de yer alan 'Bu kişiler tebliğ evrakını kabule mecburdurlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligat yapılacak kimsenin gösterilen adreste bulunmaması veya tebellüğden imtina etmesi durumunda tebliğ memurunun yapacağı işlemlere ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tebliğ olunacak evrak, o yerin muhtarına imza karşılığında teslim edilebilir.",
+                "B": "Teslim alan zabıta memurunun adresini içeren bir ihbarname kapıya yapıştırılır.",
+                "C": "Adreste bulunmama durumu, mümkünse en yakın komşulardan birine veya yöneticiye bildirilir.",
+                "D": "İhbarnamenin kapıya yapıştırıldığı tarihten itibaren 10 gün sonra tebliğ yapılmış sayılır.",
+                "E": "Muhtar ve ihtiyar heyeti azaları, kendilerine teslim edilen evrakı kabule mecburdurlar."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'İhbarnamenin kapıya yapıştırıldığı tarih, tebliğ tarihi sayılır.' hükmüne dayanmaktadır. Tebliğ için ihbarnamenin yapıştırılmasından sonra ek bir süre öngörülmemiştir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, gösterilen adresin muhatabın adres kayıt sistemindeki adresi olduğu ancak muhatabın o adreste hiç oturmamış veya sürekli olarak ayrılmış olduğu durumlarda yapılacak tebliğ işlemiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tebliğ memuru, durumu en yakın komşulara bildirmekle yükümlüdür.",
+                "B": "Tebliğ evrakı, muhtar veya zabıta memurlarına imza karşılığında teslim edilir.",
+                "C": "Tebliğ, ihbarnamenin kapıya yapıştırılmasından sonra muhataba ulaşıldığında tamamlanmış sayılır.",
+                "D": "Bu durumda tebligat yapılamayacağından evrak, tebligatı çıkaran mercie iade edilir.",
+                "E": "Tebliğ memuru, evrakı binanın kapıcısına teslim ederek tebliği tamamlayabilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen '...tebliğ memuru tebliğ olunacak evrakı, o yerin muhtar veya ihtiyar heyeti azasından birine veyahut zabıta amir veya memurlarına imza karşılığında teslim eder...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ imkansızlığı durumunda tebliğ memuru, tebliğ olunacak evrakı aşağıda sayılanlardan hangisine veya hangilerine imza karşılığında teslim edebilir?\n\nI. O yerin muhtarı\nII. Varsa binanın yöneticisi\nIII. Zabıta amiri veya memurları",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 21'de yer alan '...tebliğ memuru tebliğ olunacak evrakı, o yerin muhtar veya ihtiyar heyeti azasından birine veyahut zabıta amir veya memurlarına imza mukabilinde teslim eder...' hükmüne dayanmaktadır. Kanunda yöneticinin, evrakı teslim alacak kişiler arasında sayılmadığı, kendisine sadece durumun bildirileceği belirtilmiştir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ imkânsızlığı veya tebellüğden imtina durumunda, tebliğ memurunun gerekli işlemleri tamamlamasının ardından tebliğin yapılmış sayıldığı an ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İhbarnamenin muhtara teslim edildiği tarih, tebliğ tarihi sayılır.",
+                "B": "Durumun en yakın komşuya bildirildiği tarih, tebliğ tarihi sayılır.",
+                "C": "İhbarnamenin kapıya yapıştırıldığı tarih, tebliğ tarihi sayılır.",
+                "D": "Tebliğ evrakının zabıta memuruna teslim edildiği tarih, tebliğ tarihi sayılır.",
+                "E": "İhbarnamenin kapıya yapıştırılmasından itibaren üç gün sonra tebliğ yapılmış sayılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 21'de yer alan 'İhbarnamenin kapıya yapıştırıldığı tarih, tebliğ tarihi sayılır.' şeklindeki açık hükme dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligat yapılacak kimsenin gösterilen adreste bulunmaması durumunda, tebliğ memurunun tebliğ evrakını imza karşılığı teslim edebileceği kişiler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "O yerin muhtarı",
+                "B": "İhtiyar heyeti azasından biri",
+                "C": "Zabıta amiri",
+                "D": "Varsa yönetici veya kapıcı",
+                "E": "Zabıta memuru"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 21'de tebliğ evrakının teslim edileceği kişiler 'o yerin muhtar veya ihtiyar heyeti azasından birine veyahut zabıta amir veya memurlarına' olarak sayılmış; yönetici veya kapıcıya ise sadece durumun bildirilmesinin öngörülmesine dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ memurunun, muhatabın adreste bulunmaması veya tebellüğden imtina etmesi üzerine tebliğ evrakını muhtar veya zabıtaya teslim edip ihbarnameyi kapıya yapıştırdığı durumlarda tebliğ, aşağıdaki anlardan hangisinde yapılmış sayılır?",
+            "secenekler": {
+                "A": "Evrakın muhtarlığa teslim edildiği tarihte",
+                "B": "İhbarnamenin kapıya yapıştırıldığı tarihte",
+                "C": "Komşulardan birine keyfiyetin haber verildiği tarihte",
+                "D": "Tebliğ mazbatasının düzenlendiği tarihte",
+                "E": "İhbarnamenin kapıya yapıştırılmasından sonraki ilk iş gününde"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'İhbarnamenin kapıya yapıştırıldığı tarih, tebliğ tarihi sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, muhatap yerine kendisine tebliğ yapılacak kişide aranan zorunlu şartlar arasında;\n\nI. Görünüşüne nazaran on sekiz yaşından aşağı olmaması\nII. Bariz bir surette ehliyetsiz bulunmaması\nIII. Muhatap ile aynı konutta ikamet etmesi\n\nhangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Muhatap yerine kendisine tebliğ yapılacak kimsenin görünüşüne nazaran onsekiz yaşından aşağı olmaması ve bariz bir surette ehliyetsiz bulunmaması lazımdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, muhatap yerine kendisine tebliğ yapılacak kimsede aranan şartlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Görünüşüne nazaran on sekiz yaşından aşağı olmaması ve bariz bir surette ehliyetsiz bulunmaması gerekir.",
+                "B": "Nüfus kaydına göre on sekiz yaşını doldurmuş olması ve okuryazar olması gerekir.",
+                "C": "Görünüşüne nazaran on beş yaşından aşağı olmaması ve kısıtlı olmaması gerekir.",
+                "D": "Muhatabın birinci derece kan veya kayın hısmı olması zorunludur.",
+                "E": "Yalnızca tam ehliyetli kişilere tebligat yapılabilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Muhatap yerine kendisine tebliğ yapılacak kimsenin görünüşüne nazaran onsekiz yaşından aşağı olmaması ve bariz bir surette ehliyetsiz bulunmaması lazımdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğin bir mazbata ile tevsik edilmesi durumunda, bu mazbatada bulunması zorunlu olan bilgiler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Tebliği çıkaran merciin adı",
+                "B": "Tebliğin konusu",
+                "C": "Tebliğ memurunun sicil numarası",
+                "D": "Tebliğin nerede ve ne zaman yapıldığı",
+                "E": "Tebliği isteyen tarafın adı, soyadı ve adresi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 23'te tebliğ mazbatasının içermesi gereken unsurlar arasında 'tebliğ memurunun sicil numarası'nın sayılmamış olmasına dayanmaktadır. Maddede sadece tebliğ memurunun adı, soyadı ve imzası aranmıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğin tevsik edildiği mazbatada aşağıdakilerden hangisinin veya hangilerinin bulunması zorunludur?\n\nI. Tebliği isteyen tarafın adı, soyadı ve adresi\nII. Tebliğin konusu\nIII. Tebliğ muhatabından başkasına yapılmış ise o kimsenin adı ve soyadı\nIV. Tebliğ memurunun T.C. kimlik numarası",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve IV",
+                "C": "II ve III",
+                "D": "I, II ve III",
+                "E": "I, II, III ve IV"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 23'te tebliğ mazbatasının içermesi gereken unsurlar arasında 'Tebliği istiyen tarafın adını, soyadını ve adresini', 'Tebliğin mevzuunu' ve 'tebliğ muhatabından başkasına yapılmış ise o kimsenin adını, soyadını' sayan hükümlere dayanmaktadır. Tebliğ memurunun T.C. kimlik numarası bu unsurlar arasında sayılmamıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğin muhataptan başka bir kimseye yapılması halinde, tebliğ mazbatasında bu kimseye ilişkin olarak;\n\nI. Adı, soyadı ve adresi\nII. Tebellüğe ehil olduğuna dair kayıt\nIII. Muhatap ile olan yakınlık derecesi\n\nbilgilerinden hangisinin veya hangilerinin yer alması zorunludur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 23'ün 5. bendinde yer alan '...tebliğ muhatabından başkasına yapılmış ise o kimsenin adını, soyadını, adresini ve 22 nci madde gereğince tebellüğe ehil olduğunu...' belirtme zorunluluğuna dayanmaktadır. Muhatap ile yakınlık derecesi bu bentte sayılmamıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ muhatabından başka bir kişiye yapılmışsa, tebliğ mazbatasında tebligatı alan o kişiyle ilgili olarak aşağıdakilerden hangisinin belirtilmesi gerektiği açıkça düzenlenmiştir?",
+            "secenekler": {
+                "A": "Adı, soyadı, adresi ve tebellüğe ehil olduğu",
+                "B": "Adı, soyadı ve muhatapla yakınlık derecesi",
+                "C": "Sadece adı, soyadı ve imzası",
+                "D": "Adı, soyadı ve telefon numarası",
+                "E": "Tebellüğe ehil olduğu ve mesleği"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 23'ün 5. bendinde belirtilen 'tebliğ muhatabından başkasına yapılmış ise o kimsenin adını, soyadını, adresini ve 22 nci madde gereğince tebellüğe ehil olduğunu' ihtiva etmesi gerektiği hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, imza edemeyecek durumda olan bir kişiye tebligat yapılırken okur yazar bir komşu bulunmaz veya bulunan komşu imzadan kaçınırsa, tebliğ memurunun tebliğ sırasında hazır bulunmak üzere davet edeceği kişiler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "O mahalle muhtarı",
+                "B": "İhtiyar heyeti azasından biri",
+                "C": "Bir zabıta memuru",
+                "D": "Belediye başkanı",
+                "E": "O köy muhtarı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 24'te bu durumda davet edilecek kişiler arasında 'o mahalle veya köyün muhtar veya ihtiyar heyeti azasından birini veyahut bir zabıta memurunu' sayıldığı, belediye başkanının ise belirtilmediği hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kendisine tebliğ yapılacak kimsenin imza edemeyecek durumda olması halinde uygulanacak usule ilişkin olarak;\n\nI. Tebliğ, komşulardan bir kişi huzurunda yapılır.\nII. Muhatabın sol elinin baş parmağı bastırılır.\nIII. Durumun tebliğ mazbatasında belirtilmesi ve hazır bulunan şahsa da imza ettirilmesi gerekir.\n\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 24'te imza edemeyecek kişiye tebligatın 'komşularından bir kişi huzurunda sol elinin baş parmağı bastırılmak suretiyle' yapılacağı ve bu durumun 'tebliğ mazbatasında tasrih edilip hazır bulunan şahsa da imza ettirileceği' hükümlerinin tümünün yer almasına dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kendisine tebliğ yapılacak kimsenin imza edemeyecek durumda olması ve sol elinin baş parmağının da bulunmaması halinde yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Aynı elinin diğer bir parmağı bastırılır.",
+                "B": "Doğrudan sağ elinin baş parmağı bastırılır.",
+                "C": "Tebliğ evrakı doğrudan kendisine verilir.",
+                "D": "Tebliğ işlemi muhtar huzurunda yapılır.",
+                "E": "Tebliğ işlemi imkansız sayılır ve merciine iade edilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 24'te yer alan 'Sol elinin baş parmağı bulunmıyan kimsenin, aynı elinin diğer bir parmağı... bastırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, imza edemeyecek durumda olan bir kimseye tebligat yapılmasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tebliğ, komşulardan bir kişi huzurunda yapılır.",
+                "B": "Muhatabın sol elinin baş parmağı bastırılmak suretiyle tebliğ gerçekleştirilir.",
+                "C": "Muhatabın iki eli de yoksa tebliğ evrakı en yakın akrabasına verilir.",
+                "D": "Okur yazar bir komşu bulunmazsa, tebliğ memuru muhtarı tebliğ sırasında hazır bulunmak üzere davet edebilir.",
+                "E": "Sol elin baş parmağı yoksa aynı elin diğer bir parmağı bastırılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 24'te yer alan 'Tebliğ yapılacak kimsenin iki eli de yoksa tebliğ evrakı kendisine verilir.' hükmüne aykırıdır. Metinde tebliğ evrakının akrabaya verileceğine dair bir düzenleme bulunmamaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, imza edemeyen kişiye tebligat yapılırken okur yazar bir komşu bulunamaması veya bulunan komşunun imzadan kaçınması durumunda, tebliğ memurunun tebligatı huzurunda yapabileceği kişiler arasında hangisi veya hangileri yer alır?\n\nI. O mahalle veya köyün muhtarı\nII. Bir zabıta memuru\nIII. Tebliği isteyen tarafın avukatı",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen 'tebliğ memuru o mahalle veya köyün muhtar veya ihtiyar heyeti azasından birini veyahut bir zabıta memurunu, tebliğ sırasında hazır bulunmak üzere davet eder' hükmüne dayanmaktadır. Tebliği isteyen tarafın avukatı bu kişiler arasında sayılmamıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı bir ülkede bulunan Türk vatandaşına Türkiye Büyükelçiliği veya Konsolosluğu aracılığıyla yapılan tebligatla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Muhataba gönderilen bildirimde, tebliğin konusu ve hangi merci tarafından çıkarıldığı bilgileri yer alır.",
+                "B": "Muhatap, tebliğ evrakını almaktan kaçınırsa, bu hususta düzenlenen tutanak tarihinde tebliğ yapılmış sayılır.",
+                "C": "Kazaî merciler tarafından çıkarılacak tebliğ evrakı, doğrudan o yerdeki Türkiye Büyükelçiliği veya Konsolosluğuna gönderilebilir.",
+                "D": "Bildirimin muhataba tebliğ edildiği belgelendirildiğinde, tebliğ tarihinden itibaren on beş gün içinde başvurulmazsa tebligat yapılmış sayılır.",
+                "E": "Tebliğ, muhatabın bulunduğu ülkenin mevzuatının izin verdiği yöntemle gönderilen bildirim yoluyla yapılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 25/a'da belirtilen '...otuz gün içinde başvurulmadığı takdirde tebliğin yapılmış sayılacağı ihtarını içeren bildirim...' ve '...tebliğ tarihinden itibaren otuz gün içinde Türkiye Büyükelçiliği veya Konsolosluğuna başvurulmadığı takdirde tebligat otuzuncu günün bitiminde yapılmış sayılır.' hükümlerine dayanmaktadır. Süre otuz gündür, on beş gün değil."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, siyasi temsilcilik aracılığıyla yabancı ülkedeki bir Türk vatandaşına yapılan bildirimde, muhatabın belirtilen süre içinde Türkiye Büyükelçiliği veya Konsolosluğuna başvurmaması halinde tebligatın yapılmış sayılacağı zaman aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bildirimin gönderildiği tarihte",
+                "B": "Bildirimin muhataba tebliğ edildiği belgelendiği tarihte",
+                "C": "Bildirimin tebliğ tarihinden itibaren otuzuncu günün bitiminde",
+                "D": "Bildirimin tebliğ tarihinden itibaren on beşinci günün bitiminde",
+                "E": "Evrakın Türkiye'deki merciine iade edildiği tarihte"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25/a'da yer alan 'tebliğ tarihinden itibaren otuz gün içinde Türkiye Büyükelçiliği veya Konsolosluğuna başvurulmadığı takdirde tebligat otuzuncu günün bitiminde yapılmış sayılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı bir ülkedeki Türk vatandaşı olan muhatap, kendisine yapılan bildirim üzerine süresi içinde Türkiye Konsolosluğuna başvurmuş ancak tebliğ evrakını almaktan kaçınmıştır. Bu durumun hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebligat geçersiz sayılır ve yeniden tebligat çıkarılır.",
+                "B": "Muhataba evrakı alması için on günlük ek süre tanınır.",
+                "C": "Tebliğ, almaktan kaçınma hususunda düzenlenen tutanak tarihinde yapılmış sayılır.",
+                "D": "Tebligat, otuz günlük başvuru süresinin sonunda yapılmış sayılır.",
+                "E": "Tebliğ işlemi ancak o ülkenin yerel mahkeme kararıyla tamamlanabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25/a'da belirtilen 'Muhatap Türkiye Büyükelçiliği veya Konsolosluğuna başvurduğu takdirde tebliğ evrakını almaktan kaçınırsa bu hususta düzenlenecek tutanak tarihinde tebliğ yapılmış sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı memleketlerde bulunan kimselere tebliğ olunacak evrak, kural olarak tebligatı çıkaran merciin bağlı bulunduğu vekalet vasıtasıyla ilk olarak aşağıdaki kurumlardan hangisine gönderilir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığına",
+                "B": "Doğrudan ilgili Türkiye Elçiliğine",
+                "C": "İçişleri Bakanlığına",
+                "D": "Dışişleri Bakanlığına",
+                "E": "Doğrudan o memleketin yetkili adli makamına"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen '...tebligatı çıkaran merciin bağlı bulunduğu vekalet vasıtasiyle Dışişleri Bakanlığıne... gönderilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı bir memlekette tebligatın o memleketin salahiyetli makamı vasıtasıyla yapılması için o yerdeki Türkiye siyasi memuru veya konsolosunun bu makamdan talepte bulunabilmesinin şartları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Muhatabın Türk vatandaşı olması zorunludur.",
+                "B": "Tebligatın kazaî bir merci tarafından çıkarılmış olması gerekir.",
+                "C": "Tebligatın Dışişleri Bakanlığı aracılığıyla gönderilmesi yeterlidir.",
+                "D": "Bu konuda bir anlaşma bulunması veya o memleket kanunlarının müsait olması gerekir.",
+                "E": "Tebliğ edilecek evrakın yeminli tercüman tarafından çevrilmiş olması şarttır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Bunun için anlaşma veya o memleket kanunları müsait ise, o yerdeki Türkiye siyasi memuru veya konsolosu tebligat yapılmasını salahiyetli makamdan ister.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı bir memlekette bulunan kişiye tebligat yapılması sürecinde, tebligat evrakının ilgili Türkiye Elçiliğine veya Konsolosluğuna ulaştırılmasında;\n\nI. Tebligatı çıkaran merciin bağlı olduğu bakanlık\nII. Dışişleri Bakanlığı\nIII. Adalet Bakanlığı\n\nmercilerinden hangisi veya hangileri kural olarak aracı rolü üstlenir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'tebligatı çıkaran merciin bağlı bulunduğu vekalet vasıtasiyle Dışişleri Bakanlığıne, oradan da... ilgili Türkiye Elçiliğine veya Konsolosluğuna gönderilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, siyasi temsilcilik aracılığıyla yabancı ülkedeki bir Türk vatandaşına gönderilecek bildirimde yer alması gereken hususlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Tebliğin konusu",
+                "B": "Tebligatı çıkaran merciin hangisi olduğu",
+                "C": "Tebliğ masraflarının tutarı",
+                "D": "Otuz gün içinde başvurulmazsa tebliğin yapılmış sayılacağı ihtarı",
+                "E": "Muhataba o ülkenin mevzuatının izin verdiği yöntemle gönderilmesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25/a'da belirtilen 'Tebliğin konusu ile hangi merci tarafından çıkarıldığı bilgilerinin yer aldığı ve otuz gün içinde başvurulmadığı takdirde tebliğin yapılmış sayılacağı ihtarını içeren bildirim...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "Almanya'da yaşayan Türk vatandaşı A'ya, Türkiye'deki bir mahkemeden gönderilen tebliğ evrakı için Türk Konsolosluğu tarafından, 30 gün içinde başvurulmazsa tebligatın yapılmış sayılacağını içeren bir bildirim usulüne uygun olarak gönderilmiştir. A, bildirimin kendisine ulaşmasından sonraki 20. günde konsolosluğa gitmiş ancak içeriğini öğrendikten sonra tebliğ evrakını almaktan kaçınmıştır. 7201 Sayılı Tebligat Kanunu'na göre, bu olayda tebligatın yapılmış sayılacağı tarih aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bildirimin A'ya ulaştığı tarih.",
+                "B": "30 günlük sürenin sonu olan 30. günün bitimi.",
+                "C": "Tebligat geçersiz sayılacağından yapılmış sayılmaz.",
+                "D": "A'nın konsolosluğa giderek evrakı almaktan kaçındığı 20. gün.",
+                "E": "Evrakın Türkiye'deki mahkemeden gönderildiği tarih."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 25/a'da yer alan 'Muhatap Türkiye Büyükelçiliği veya Konsolosluğuna başvurduğu takdirde tebliğ evrakını almaktan kaçınırsa bu hususta düzenlenecek tutanak tarihinde tebliğ yapılmış sayılır.' hükmüne dayanmaktadır. Olayda A, 20. günde başvurup evrakı almaktan kaçındığı için tebliğ o tarihte yapılmış sayılır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı memleketlerde bulunan kimselere tebliğ olunacak evrakın gönderilme usulüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Evrak, tebligatı çıkaran merciin bağlı olduğu bakanlık aracılığıyla Dışişleri Bakanlığına iletilir.",
+                "B": "Dışişleri Bakanlığı, evrakı ilgili Türkiye Elçiliğine veya Konsolosluğuna gönderir.",
+                "C": "Dışişleri Bakanlığının aracılığına lüzum görülmeyen hallerde ilgili Bakanlık, evrakı doğrudan o yerdeki Türkiye Büyükelçiliğine gönderebilir.",
+                "D": "Yabancı memlekette tebliğ, o memleketin salahiyetli makamı vasıtasıyla yapılır.",
+                "E": "Tebligatı çıkaran merci, evrakı her durumda doğrudan Dışişleri Bakanlığına gönderir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen '...tebliğ olunacak evrak, tebligatı çıkaran merciin bağlı bulunduğu vekalet vasıtasiyle Dışişleri Bakanlığıne... gönderilir.' hükmüne dayanmaktadır. Tebligatı çıkaran merciin evrakı doğrudan Dışişleri Bakanlığına göndermesi değil, bağlı olduğu bakanlık aracılığıyla göndermesi esastır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı bir ülkede bulunan Türk vatandaşına Türkiye Büyükelçiliği veya Konsolosluğu aracılığıyla yapılan tebligatta;\n\nI. Muhatabın, yapılan bildirime rağmen otuz gün içinde temsilciliğe başvurmaması\nII. Muhatabın temsilciliğe başvurup tebliğ evrakını almaktan kaçınması\nIII. Bildirimin o ülkenin mevzuatına göre muhataba tebliğ edildiğinin belgelendirilmesi\n\ndurumlarından hangisi veya hangilerinde tebliğ yapılmış sayılır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25/a'da belirtilen '...otuz gün içinde Türkiye Büyükelçiliği veya Konsolosluğuna başvurulmadığı takdirde tebligat otuzuncu günün bitiminde yapılmış sayılır.' ve 'Muhatap Türkiye Büyükelçiliği veya Konsolosluğuna başvurduğu takdirde tebliğ evrakını almaktan kaçınırsa bu hususta düzenlenecek tutanak tarihinde tebliğ yapılmış sayılır.' hükümlerine dayanmaktadır. III. öncül ise tebliğin yapılmış sayılması için bir ön şart olup, tek başına tebliğin tamamlandığı anlamına gelmez."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı memleketlerde bulunan kimselere tebliğ olunacak evrakın ilgili Türkiye Elçiliğine veya Konsolosluğuna ulaştırılmasında izlenen standart usulde, evrakın Dışişleri Bakanlığına gönderilmesinden sorumlu olan merci aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebligatı çıkaran merci",
+                "B": "Doğrudan o yerdeki Türkiye siyasi memuru",
+                "C": "Tebligatı çıkaran merciin bağlı bulunduğu vekalet",
+                "D": "İlgili Türkiye Başkonsolosluğu",
+                "E": "Adalet Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Yabancı memleketlerde bulunan kimselere tebliğ olunacak evrak, tebligatı çıkaran merciin bağlı bulunduğu vekalet vasıtasiyle Dışişleri Bakanlığıne...gönderilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı bir memleketin elçiliğinden veya konsolosluğundan Türkiye'de mukim kişilere tebliğ edilmek üzere tevdi olunan evrak, ilk olarak aşağıdaki mercilerden hangisine gönderilir?",
+            "secenekler": {
+                "A": "Dışişleri Bakanlığına",
+                "B": "Adalet Bakanlığına",
+                "C": "Doğrudan salahiyetli mercie",
+                "D": "İlgili valiliğe",
+                "E": "Posta ve Telgraf Teşkilatı Anonim Şirketine"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen '...ecnebi bir memleketin elçiliğinden veya havzasında bulunduğu valilik kanalı ile konsolosluğundan Dışişleri Bakanlığına tevdi olunan evrak...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kuzey Kıbrıs Türk Cumhuriyeti’nde konuşlu askeri birliklerden Türkiye Cumhuriyeti’nde bulunan kişi veya kurumlara yapılacak tebligatlar hangi kurumun personeli veya memuru vasıtasıyla yapılır?",
+            "secenekler": {
+                "A": "Milli Savunma Bakanlığı",
+                "B": "Posta ve Telgraf Teşkilatı Anonim Şirketi",
+                "C": "Jandarma Genel Komutanlığı",
+                "D": "Dışişleri Bakanlığı",
+                "E": "Adalet Bakanlığı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 26/A'da belirtilen '...tebligatlar, bu Kanun hükümlerine göre Posta ve Telgraf Teşkilatı Anonim Şirketinin istihdam ettiği ya da hizmet alımı suretiyle çalıştırdığı personel veya memur vasıtasıyla yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kuzey Kıbrıs Türk Cumhuriyeti’nde konuşlu askeri birliklerden Türkiye’de bulunan kişi veya kurumlara yapılacak tebligatlar ile ilgili olarak, aşağıdakilerden hangisi bu tebligatları yapmaya yetkili olanlar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Posta ve Telgraf Teşkilatı Anonim Şirketinin istihdam ettiği personel",
+                "B": "Hizmet alımı suretiyle çalıştırılan personel",
+                "C": "Askeri birlik personeli",
+                "D": "Hizmet alımı suretiyle çalıştırılan memur",
+                "E": "Posta ve Telgraf Teşkilatı Anonim Şirketi vasıtasıyla görevlendirilenler"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 26/A'da tebligatı yapacakların 'Posta ve Telgraf Teşkilatı Anonim Şirketinin istihdam ettiği ya da hizmet alımı suretiyle çalıştırdığı personel veya memur' olarak sayılması ve askeri birlik personelinin bu kapsamda yer almamasına dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı bir memlekette bulunan Türk askeri şahıslarına yapılacak tebligat aşağıdaki mercilerden hangisi vasıtasıyla yapılır?",
+            "secenekler": {
+                "A": "Dışişleri Bakanlığı",
+                "B": "O yerdeki Türkiye Büyükelçiliği veya Konsolosluğu",
+                "C": "Adalet Bakanlığı",
+                "D": "Milli Savunma Bakanlığı",
+                "E": "Bağlı bulundukları Kara, Deniz, Hava Kuvvetleri Kumandanlıkları ile Jandarma Genel Komutanlığı"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Yabancı memleketlerde bulunan askeri şahıslara yapılacak tebligat bağlı bulundukları Kara, Deniz, Hava Kuvvetleri Kumandanlıkları ile Jandarma Genel Komutanlığı vasıtasiyle yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı bir memlekette resmi bir vazife ile bulunan Türk memurlarına tebligat yapılmasına aracılık etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Bağlı bulundukları Kuvvet Komutanlıkları",
+                "C": "Posta ve Telgraf Teşkilatı Anonim Şirketi",
+                "D": "Dışişleri Bakanlığı",
+                "E": "Havzasında bulundukları valilik"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Yabancı bir memlekette resmi bir vazife ile bulunan Türk memurlarına tebligat, Dışişleri Bakanlığı vasıtasiyle yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, adresi meçhul olan bir kimseye yapılacak tebligatla ilgili olarak, tebliği çıkaran merciin görev ve yetkileri hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Muhatabın adresini zabıta vasıtasıyla tahkik ettirir.",
+                "B": "Adresin tespiti için gerekli gördüğü resmî müesseselere başvurur.",
+                "C": "Adresin meçhul olduğu keyfiyetini mahalle veya köy muhtarına şerh verdirerek tespit ettirir.",
+                "D": "Adresin tespiti için gerekli gördüğü hususi dairelerden bilgi ister.",
+                "E": "Muhatap yabancı memlekette ise, tebliğ olunacak evrakı bilinen adresine iadeli taahhütlü mektupla gönderir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28'de yer alan 'Adresin meçhul olması halinde keyfiyet tebliğ memuru tarafından mahalle veya köy muhtarına şerh verdirilmek suretiyle tesbit edilir.' hükmüne dayanmaktadır. Bu işlem tebliğ memurunun görevi olup, tebliği çıkaran merciin görevi değildir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir kimsenin adresinin meçhul olduğunun tespiti sürecinde, tebliği çıkaran merciin başvuracağı yollar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Gerekli gördüğü resmî dairelerden sormak",
+                "B": "Gerekli gördüğü hususi müesseselerden sormak",
+                "C": "Zabıta vasıtasıyla tahkik ve tespit ettirmek",
+                "D": "Tebliğ memurunun mahalle veya köy muhtarına durumu şerh verdirerek tespit etmesini sağlamak",
+                "E": "Muhatabın bilinen son adresine ihtarname göndermek"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 28'de adresin meçhul olduğunun tespiti için tebliği çıkaran merciin yapacağı işlemler arasında 'resmî veya hususi müessese ve dairelerden sorma' ve 'zabıta vasıtasıyla tahkik ve tespit ettirme' sayılmış olup, muhatabın bilinen son adresine ihtarname gönderme gibi bir usulün düzenlenmemiş olmasına dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, yabancı bir memlekette oturan kimseye ilanen tebligat yapılmasının gerekmesi halinde, tebliği çıkaran merciin ilana ek olarak yapması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dışişleri Bakanlığı aracılığıyla diplomatik tebligat yoluna başvurmak",
+                "B": "Tebliğ olunacak evrak ile ilan suretlerini kişinin bilinen adresine iadeli taahhütlü mektupla göndermek",
+                "C": "İlgili ülkedeki Türk konsolosluğuna evrakı teslim ederek tebliği sağlamasını istemek",
+                "D": "Sadece Basın İlân Kurumu İlan Portalında yayın yapmakla yetinmek",
+                "E": "İlanın o ülkede yayımlanan bir gazetede çıkmasını beklemek"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen '...tebliği çıkaran merci, tebliğ olunacak evrak ile ilan suretlerini yabancı memlekette bulunan kimsenin malüm adresine ayrıca iadeli taahhütlü mektupla gönderir...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir kimsenin adresinin meçhul olduğunun tespiti sürecinde;\n\nI. Tebliğ memurunun durumu mahalle veya köy muhtarına şerh verdirerek tespit etmesi\nII. Tebliği çıkaran merciin, muhatabın adresini zabıta vasıtasıyla tahkik ettirmesi\nIII. Tebliği çıkaran merciin, gerekli gördüğü resmî veya hususi müesseselerden adresi sorması\n\nişlemlerinden hangisi veya hangileri Kanun'da öngörülmüştür?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 28'de adresin meçhul olması halinde keyfiyetin tebliğ memuru tarafından muhtara şerh verdirilerek tespit edileceği ve bununla beraber tebliği çıkaran merciin, muhatabın adresini resmî veya hususi müesseselere sorabileceği ve zabıta vasıtasıyla tahkik ettirebileceği hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir kimsenin adresinin meçhul sayılabilmesi için;\n\nI. Diğer usullere göre tebligat yapılamamış olması\nII. İkametgâhının, meskeninin veya iş yerinin bulunamaması\nIII. Yurt dışında ikamet ettiğinin bilinmesi\n\nşartlarından hangisi veya hangilerinin birlikte gerçekleşmesi gerekir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen '...tebligat yapılamıyan ve ikametgahı, meskeni veya iş yeri de bulunamıyan kimsenin adresi meçhul sayılır.' hükmüne dayanmaktadır. Bu hüküm, her iki şartın da birlikte aranmasını gerektirir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligat yapılamayan ve adresi meçhul sayılan bir kimsenin adresinin meçhul olduğunun tespiti için tebliğ memuru tarafından yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Durumu zabıta vasıtasıyla tahkik ettirmek",
+                "B": "Keyfiyeti mahalle veya köy muhtarına şerh verdirerek tespit ettirmek",
+                "C": "İlanen tebligat kararı için doğrudan merciye başvurmak",
+                "D": "Adresi resmî ve hususi müesseselere sormak",
+                "E": "Durumu iadeli taahhütlü mektupla muhataba bildirmek"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Adresin meçhul olması halinde keyfiyet tebliğ memuru tarafından mahalle veya köy muhtarına şerh verdirilmek suretiyle tesbit edilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, ilanen tebligat usulüyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlanen tebligat, tebliği çıkaran merciin herhangi bir gerekçe göstermesine gerek olmaksızın vereceği kararla yapılır.",
+                "B": "İlanın ikinci defa yapılmasına karar verilirse, iki ilan arasındaki süre bir haftadan az olamaz.",
+                "C": "İlanın, sadece Basın İlân Kurumu İlan Portalında yapılması yeterlidir.",
+                "D": "Tebliğ olunacak evrakın merciin görülebilecek bir yerine asılması, merciin takdirine bağlıdır.",
+                "E": "İkinci ilanın yabancı memleket gazeteleriyle yaptırılmasına kanunen imkân tanınmamıştır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 29'da yer alan 'Merci, icabına göre ikinci defa ilan yapılmasına karar verebilir. İki ilan arasındaki müddet bir haftadan aşağı olamaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, ilan suretiyle tebliğde ilanın yapılması gereken yerler arasında;\n\nI. Basın İlân Kurumu İlan Portalı,\nII. Tebliği çıkaran merciin bulunduğu yerde yayımlanan bir internet haber sitesi,\nIII. Tebliği çıkaran merciin herkesin kolayca görebileceği bir yeri\n\nhangisi veya hangileri sayılmıştır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 29'da ilanın '...bir gazete ve bir internet haber sitesi ve ayrıca Basın İlân Kurumu İlan Portalında' yapılacağı ile 'Tebliğ olunacak evrak ve ilan sureti, tebliği çıkaran merciin herkesin kolayca görebileceği bir yerine de asılır' hükümlerinin her üç unsuru da içermesine dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, ilanen tebligat usulünde merciin ikinci defa ilan yapılmasına karar vermesi halinde, iki ilan arasındaki müddet en az ne kadar olmalıdır?",
+            "secenekler": {
+                "A": "Üç gün",
+                "B": "Beş gün",
+                "C": "Bir hafta",
+                "D": "On beş gün",
+                "E": "Bir ay"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'İki ilan arasındaki müddet bir haftadan aşağı olamaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, ilanen tebligat yapılmasına karar verildiğinde, aşağıdakilerden hangisi ilanın yapılacağı yerler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Tebliği çıkaran merciin bulunduğu yerde yayımlanan bir gazete",
+                "B": "Basın İlân Kurumu İlan Portalı",
+                "C": "Muhatabın Türkiye'deki son yerleşim yeri muhtarlığı",
+                "D": "Tebliği çıkaran merciin herkesin kolayca görebileceği bir yeri",
+                "E": "Bir internet haber sitesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'a dayanmaktadır. İlgili maddede ilan yapılacak yerler; merciin bulunduğu yerdeki bir gazete, bir internet haber sitesi, Basın İlân Kurumu İlan Portalı ve merciin herkesin görebileceği bir yer olarak sayılmış, ancak muhatabın son yerleşim yeri muhtarlığı bu yerler arasında belirtilmemiştir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, ilanen tebligatta kullanılacak ilanda bulunması zorunlu olan bilgiler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Alakalıların ad ve soyadları",
+                "B": "Tebliğ olunacak evrak muhteviyatının hulasası",
+                "C": "İlanın hangi merciden verildiği",
+                "D": "Muhatabın tebligatı almaktan kaçınma sebebi",
+                "E": "İlan daveti içeriyorsa nerede ve ne zaman hazır bulunulacağı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 30'da ilanda bulunması gerekenler arasında 'muhatabın tebligatı almaktan kaçınma sebebi'nin sayılmamış olmasına dayanmaktadır. Maddede alakalıların ad ve soyadları, işleri, ikametgahları, tebliğ olunacak evrakın özeti, tebliğin konusu, sebebi, ilanı veren merci ve davet varsa yeri ve zamanı gibi hususların yazılması gerektiği belirtilmiştir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, ilanen tebligat amacıyla yapılan ilanda;\n\nI. Alakalıların ikametgah veya mesken yahut iş yerleri\nII. İlan bir daveti içeriyorsa nerede ve hangi gün hazır bulunulacağı\nIII. Tebliğ masraflarının ayrıntılı dökümü\n\nbilgilerinden hangisinin veya hangilerinin bulunması zorunludur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'alakalıların ... ikametgah veya mesken yahut iş yerleri' ile 'ilan daveti tazammun ediyorsa nerede ve ne için, hangi gün ve saatte hazır bulunulacağı' hükümlerine dayanmaktadır. Maddede tebliğ masraflarının dökümünün ilanda yer alacağına dair bir düzenleme bulunmamaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, ilanen tebligatta bulunması gereken kayıtlara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İlanda alakalıların ad ve soyadları ile işleri yer almalıdır.",
+                "B": "Tebliğ olunacak evrak muhteviyatının tam metni ilanda yayımlanmalıdır.",
+                "C": "İlanın hangi merciden verildiği belirtilmelidir.",
+                "D": "İlan bir daveti içeriyorsa nerede ve ne zaman hazır bulunulacağı yazılmalıdır.",
+                "E": "Tebliğin anlaşılabilecek şekilde konusu ve sebebi ilanda yer almalıdır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'tebliğ olunacak evrak muhteviyatının hulasası' hükmüne dayanmaktadır. Bu hüküm, evrakın tam metninin değil, özetinin ilanda yer alacağını ifade etmektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, ilanen tebliğ, son ilan tarihinden itibaren kural olarak kaç gün sonra yapılmış sayılır?",
+            "secenekler": {
+                "A": "3",
+                "B": "5",
+                "C": "7",
+                "D": "10",
+                "E": "15"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 31'de yer alan 'İlanen tebliğ, son ilan tarihinden itibaren yedi gün sonra yapılmış sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, ilanen tebliğe karar veren merciin, tebliğin yapılmış sayılacağı tarihi uzatmak istemesi durumunda bu süre en fazla kaç gün olabilir?",
+            "secenekler": {
+                "A": "7",
+                "B": "10",
+                "C": "15",
+                "D": "20",
+                "E": "30"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 31'de yer alan 'İlanen tebliğe karar veren merci, icabına göre daha uzun bir müddet tayin edebilir. Ancak, bu süre 15 günü geçemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, ilanen tebliğde tebliğin yapılmış sayılacağı süre ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tebliğ, kural olarak son ilan tarihinden itibaren yedi gün sonra tamamlanmış sayılır.",
+                "B": "İlanen tebliğe karar veren merci, bu süreyi uzatma yetkisine sahiptir.",
+                "C": "Merci tarafından belirlenebilecek daha uzun süre on beş günü geçemez.",
+                "D": "Merci, tebliğ süresini kısaltma yetkisine de sahiptir.",
+                "E": "Merci, süreyi uzatma kararını durumun gereğine göre verir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 31'de ilanen tebliğe karar veren merciye sadece 'daha uzun bir müddet tayin etme' yetkisi tanındığı, süreyi kısaltma yönünde bir yetki düzenlenmediği için yanlıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, usulüne aykırı yapılmış bir tebliğ ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tebliğ her durumda geçersiz sayılır ve yeniden yapılması gerekir.",
+                "B": "Muhatap tebliğe muttali olmuşsa, tebliğ tarihi ilanın yapıldığı tarih kabul edilir.",
+                "C": "Muhatabın tebliğden haberdar olması durumunda tebliğ geçerli sayılır ve muhatabın beyan ettiği tarih tebliğ tarihi olarak kabul edilir.",
+                "D": "Tebliğin geçerli sayılması için muhatabın bunu on beş gün içinde yazılı olarak bildirmesi şarttır.",
+                "E": "Usulsüz tebliğ, sadece mahkeme kararıyla geçerli hale getirilebilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 32'de yer alan 'Tebliğ usulüne aykırı yapılmış olsa bile, muhatabı tebliğe muttali olmuş ise muteber sayılır. Muhatabın beyan ettiği tarih, tebliğ tarihi addolunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, usulüne aykırı yapılmış bir tebligatın muhatap tarafından öğrenilmesi durumunda tebliğ tarihi nasıl belirlenir?",
+            "secenekler": {
+                "A": "Tebliğ evrakının düzenlendiği tarih esas alınır.",
+                "B": "Tebligatın postaya verildiği tarih esas alınır.",
+                "C": "Muhatabın tebliği öğrendiğini beyan ettiği tarih esas alınır.",
+                "D": "Tebligatı çıkaran merciin belirleyeceği bir tarih esas alınır.",
+                "E": "Usulsüz tebligatın yapıldığı tarih esas alınır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'Muhatabın beyan ettiği tarih, tebliğ tarihi addolunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, usulüne aykırı yapılmış bir tebliğin geçerli sayılmasının temel şartı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebligatı çıkaran merciin onayı",
+                "B": "Muhatabın tebliğe muttali olması",
+                "C": "Usulsüzlüğün bir ay içinde düzeltilmesi",
+                "D": "Tebligatın postaya verildiği tarihin belli olması",
+                "E": "Muhatabın tebligatı almaktan imtina etmemesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'Tebliğ usulüne aykırı yapılmış olsa bile, muhatabı tebliğe muttali olmuş ise muteber sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligatın yapılabileceği zamanlara ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tebligat işlemleri sadece iş günlerinde ve mesai saatleri içinde yapılabilir.",
+                "B": "Resmi tatil günlerinde tebligat yapılması yasaklanmıştır.",
+                "C": "Adli tatil günlerinde tebligat yapılmasına kanunen izin verilmemektedir.",
+                "D": "Resmi ve adli tatil günlerinde tebligat yapılması mümkündür.",
+                "E": "Sadece muhatabın talebi olması halinde tatil günlerinde tebligat yapılabilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Resmi ve adli tatil günlerinde de tebligat caizdir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, resmi ve adli tatil günlerinde tebligat yapılmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece resmi tatillerde tebligat yapılabilir, adli tatilde yapılamaz.",
+                "B": "Sadece adli tatilde tebligat yapılabilir, resmi tatillerde yapılamaz.",
+                "C": "Hem resmi hem de adli tatil günlerinde tebligat yapılması caizdir.",
+                "D": "Tatil günlerinde tebligat yapılması kural olarak yasaktır.",
+                "E": "Tatil günlerinde tebligat ancak tebliği çıkaran merciin özel izniyle yapılabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 33'te yer alan 'Resmi ve adli tatil günlerinde de tebligat caizdir.' şeklindeki açık hükme dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, adli ve idari kaza mercilerince yapılacak tebligatlarda, dava dilekçesinin tebliği dışındaki bir talebe ilişkin tebligat giderinin verilen sürede ödenmemesinin hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Gider ödenene kadar tebligat işleminin durdurulması.",
+                "B": "Giderin ilgili kişiden icra yoluyla tahsil edilmesi.",
+                "C": "Tebligat konusu talepten vazgeçilmiş sayılması.",
+                "D": "İlgili kişiye idari para cezası uygulanması.",
+                "E": "Davanın usulden reddedilmesi."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'Diğer hallerde tebligat konusu talepten vazgeçilmiş sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kazai tebligata ilişkin fasıl hükümleri;\n\nI. Adli kaza mercileri\nII. İdari kaza mercileri\nIII. Noterlikler\n\ntarafından yapılacak tebligat işlerinden hangisi veya hangilerinde tatbik olunur?",
+            "secenekler": {
+                "A": "I ve II",
+                "B": "Yalnız II",
+                "C": "Yalnız I",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'Bu fasıl hükümleri adli ve idari kaza mercilerince yapılacak tebligat işlerinde tatbik olunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, adli ve idari kaza mercilerince yapılacak tebligatlarda, giderlerin verilen süreye rağmen ödenmemesi durumunda tebligat konusu talepten vazgeçilmiş sayılacağı kuralının istisnası aşağıdaki durumlardan hangisidir?",
+            "secenekler": {
+                "A": "Ödenmeyen giderin bir tüzel kişiye yapılacak tebligata ilişkin olması",
+                "B": "Ödenmeyen giderin yurt dışındaki bir adrese yapılacak tebligata ilişkin olması",
+                "C": "Ödenmeyen giderin bir tanık davetiyesinin tebliğine ilişkin olması",
+                "D": "Ödenmeyen giderin dava dilekçesinin tebliğine ilişkin olması",
+                "E": "Ödenmeyen giderin bilirkişi raporunun tebliğine ilişkin olması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'Verilen süreye rağmen ödenmeyen tebligat gideri dava dilekçesinin tebliğine ilişkin ise Hukuk Usulü Muhakemeleri Kanununun 409 uncu maddesi uyarınca işlem yapılır. Diğer hallerde tebligat konusu talepten vazgeçilmiş sayılır.' hükmüne dayanmaktadır. Bu hüküm, dava dilekçesinin tebliğ giderinin ödenmemesini genel kuraldan ayırmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kendisine daha önce usulüne uygun tebliğ yapılmış bir kimsenin adresini değiştirmesi ve yeni adresini bildirmemesi durumunda uygulanacak usule ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tebliğ olunacak evrakın bir nüshası eski adrese ait binanın kapısına asılır.",
+                "B": "Evrakın kapıya asıldığı tarih, tebliğ tarihi olarak kabul edilir.",
+                "C": "Bu usulün uygulanabilmesi için kişinin adres kayıt sisteminde de yerleşim yeri adresinin tespit edilememesi gerekir.",
+                "D": "Bu işlemden sonra eski adrese çıkarılan tebligatlar muhataba yapılmış sayılır.",
+                "E": "Bu usulün uygulanabilmesi için muhataba daha önce en az iki farklı konuda tebligat yapılmış olması şarttır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 35'te, adresini değiştiren kimsenin yeni adresini bildirmediği durumlarda uygulanacak usulün şartları arasında 'daha önce en az iki farklı konuda tebligat yapılmış olması' gibi bir koşul belirtilmemesine dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, daha önce yurt dışındaki adresine tebligat yapılmış bir Türk vatandaşı, yurt dışı adresini değiştirip bunu tebliği çıkaran mercie bildirmez ve adres kayıt sisteminden de yerleşim yeri adresi tespit edilemezse, Türkiye Büyükelçiliği veya Konsolosluğunca eski adrese gönderilen bildirimin adrese ulaştığının belgelendiği tarihten itibaren kaç gün sonra tebligat yapılmış sayılır?",
+            "secenekler": {
+                "A": "15",
+                "B": "30",
+                "C": "45",
+                "D": "60",
+                "E": "90"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen '...bildirimin adrese ulaştığının belgelendiği tarihten itibaren otuz gün sonra tebligat yapılmış sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kendisine daha önce tebligat yapılmış bir kimse adresini değiştirir, yeni adresini bildirmez ve adres kayıt sisteminde de adresi tespit edilemezse, tebliğ tarihi olarak aşağıdakilerden hangisi kabul edilir?",
+            "secenekler": {
+                "A": "Tebliğ evrakının eski adrese son kez gönderildiği tarih",
+                "B": "Tebliğ evrakının bir nüshasının eski adresteki binanın kapısına asıldığı tarih",
+                "C": "Tebliğ çıkaran kaza merciinin adresin değiştirildiğini öğrendiği tarih",
+                "D": "Adres değişikliğinin yapıldığı tarihten itibaren on beş gün sonrası",
+                "E": "Tebliğ evrakının ilgili mahalle muhtarlığına bırakıldığı tarih"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen '...tebliğ olunacak evrakın bir nüshası eski adrese ait binanın kapısına asılır ve asılma tarihi tebliğ tarihi sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, adli bir yargılama sırasında celsede veya kalemde, taraflara ya da vekillerine evrakın imza karşılığında tevdii ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu işlem tebliğ hükmünde sayılsa da ayrıca tebliğ mazbatası düzenlenmesi zorunludur.",
+                "B": "Bu tür tebliğlerde standart tebligat masrafının yarısı alınır.",
+                "C": "Bu usul yalnızca davanın taraflarına uygulanabilir, ilgili üçüncü kişilere uygulanamaz.",
+                "D": "Yapılan bu işlem tebliğ hükmündedir ve bu işlem için ayrıca masraf alınmaz.",
+                "E": "Tebliğin geçerli olması için evrakın tevdi edildiğinin duruşma tutanağına ek olarak yeminli bir katip tarafından da onaylanması gerekir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 36'da yer alan '...tevdii, tebliğ hükmündedir. Bu durumda ayrıca tebliğ mazbatası düzenlenmesi gerekmez ve masraf da alınmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, celse esnasında veya kalemde yapılan tebligata ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu usulle tebligat yapılması durumunda tam tebligat masrafı alınır.",
+                "B": "Tebligatın geçerliliği için her durumda ayrıca tebliğ mazbatası düzenlenmesi zorunludur.",
+                "C": "Bu yolla tebligat sadece davanın taraflarına yapılabilir, vekillerine yapılamaz.",
+                "D": "Sadece duruşma gün ve saatinin bildirilmesi bu usulle tebliğ edilebilir.",
+                "E": "Evrakın imza karşılığında tevdii, tebliğ hükmündedir ve ayrıca masraf alınmaz."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 36'da yer alan '...imza karşılığında, tebliğ konusu belirtilerek tevdii, tebliğ hükmündedir. Bu durumda ayrıca tebliğ mazbatası düzenlenmesi gerekmez ve masraf da alınmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, celse esnasında veya kalemde yapılan tevdinin tebliğ hükmünde sayılabilmesi için;\n\nI. işlemin tutanağa geçirilmesi veya imza karşılığında yapılması,\nII. tebliğ konusunun belirtilmesi,\nIII. ayrı bir tebliğ mazbatası düzenlenmesi\n\nşartlarından hangisi veya hangileri gereklidir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da yer alan '...tutanağa geçirilmek suretiyle veya imza karşılığında, tebliğ konusu belirtilerek tevdii, tebliğ hükmündedir. Bu durumda ayrıca tebliğ mazbatası düzenlenmesi gerekmez...' hükmüne dayanmaktadır. Bu nedenle I ve II numaralı öncüller gerekli iken, III numaralı öncül gerekli değildir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, celse esnasında veya kalemde, bir davaya ait evrakın imza karşılığında tevdii suretiyle tebligat yapılabilecek kişiler arasında;\n\nI. Taraflar\nII. Katılan\nIII. İlgili üçüncü kişiler\n\nyukarıdakilerden hangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 36'da celse esnasında veya kalemde tebligat yapılabilecek kişiler arasında 'taraflara, ilgili üçüncü kişilere, katılana veya vekillerine' denilerek tüm öncüllerde belirtilen kişilerin sayılmış olmasına dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir duruşma esnasında kazai merci tarafından sıfatları tespit edilen avukat stajyerine bir sonraki duruşma gün ve saatinin bildirilmesinin hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebliğ geçersiz sayılır.",
+                "B": "Tebliğin avukata ayrıca yapılması gerekir.",
+                "C": "Avukata tebliğ edilmiş sayılır.",
+                "D": "Tebliğ, ancak avukatın onayıyla geçerli olur.",
+                "E": "Sadece stajyere tebliğ yapılmış sayılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen '...avukat katiplerine ve stajyerlerine mütaakip celse gün ve saatinin bildirilmesi avukata tebliğ hükmündedir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, celse esnasında avukat katiplerine veya stajyerlerine yapılan bildirimle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bildirimin geçerli olması için avukatın yazılı onayı gereklidir.",
+                "B": "Bu bildirim yalnızca bilgilendirme niteliğinde olup tebliğ yerine geçmez.",
+                "C": "Kazai merci tarafından sıfatları tespit edilmişse, yapılan bildirim avukata tebliğ hükmündedir.",
+                "D": "Bu usul sadece avukat katipleri için geçerlidir, stajyerleri kapsamaz.",
+                "E": "Bildirimin duruşma zaptına geçirilmesi, tebliğ hükmünde sayılması için yeterlidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen 'Celse esnasında kazai merci tarafından sıfatları tesbit edilen avukat katiplerine ve stajyerlerine mütaakip celse gün ve saatinin bildirilmesi avukata tebliğ hükmündedir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, celse esnasında avukat katibi veya stajyerine yapılan bildirimin, avukatın kendisine tebliğ edilmiş sayılması için;\n\nI. Bildirimin bir sonraki celsenin gün ve saatine ilişkin olması\nII. Bildirimin yapıldığı katip veya stajyerin sıfatının kazai merci tarafından tespit edilmiş olması\nIII. Bildirimin celse arasında, kalemde yapılması\n\nşartlarından hangisi veya hangilerinin gerçekleşmesi gerekmektedir?",
+            "secenekler": {
+                "A": "I ve II",
+                "B": "Yalnız II",
+                "C": "Yalnız I",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen 'Celse esnasında kazai merci tarafından sıfatları tesbit edilen avukat katiplerine ve stajyerlerine mütaakip celse gün ve saatinin bildirilmesi avukata tebliğ hükmündedir.' hükmüne dayanmaktadır. Bu hükme göre bildirimin celse esnasında yapılması (III. öncülü eler) ve hem katip/stajyerin sıfatının tespiti hem de bildirimin sonraki celseye ilişkin olması (I ve II. öncüller) gerekmektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, vekil aracılığıyla takip edilen davalarda vekillerin birbirlerine tebligat yapabilmesi aşağıdaki şartlardan hangisine bağlanmıştır?",
+            "secenekler": {
+                "A": "Tebligatın mahkeme kaleminin gözetiminde yapılmasına",
+                "B": "Tebligatın makbuz karşılığında yapılmasına",
+                "C": "Tebligatın sadece duruşma esnasında yapılmasına",
+                "D": "Tarafların bu usule önceden rıza göstermiş olmasına",
+                "E": "Tebligatın elektronik posta yoluyla yapılmasına"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen 'vekiller makbuz mukabilinde yekdiğerine tebligat yapabilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kazai tebligata ilişkin olarak;\n\nI. Vekillerin, takip ettikleri davalarda birbirlerine makbuz karşılığında tebligat yapması mümkündür.\nII. Celse sırasında sıfatı kazai merci tarafından tespit edilen avukat stajyerine bir sonraki celsenin bildirilmesi, avukata tebliğ sayılır.\nIII. Tebligatı alabilecek kişinin o davada hasım olması, tebligatın yapılmasına engel teşkil etmez.\n\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38'de vekillerin makbuz karşılığı birbirlerine tebligat yapabileceğinin ve Madde 37'de celsede sıfatı tespit edilen stajyere yapılan bildirimin avukata tebliğ hükmünde olduğunun belirtilmesine dayanmaktadır. Madde 39 ise tebellüğ edecek şahsın hasım olmasının tebligata engel olduğunu düzenlediğinden III. öncül yanlıştır."
+        },
+        {
+            "soru": "Davalı K'ye yapılacak bir tebligat için adresine gidildiğinde, kendisi evde bulunamamıştır. Tebligat, K ile birlikte yaşayan ve tebligatı almaya kanunen ehil olan babası L'ye yapılmak istenmiştir. Ancak, L'nin aynı davada davacı olduğu anlaşılmıştır. 7201 Sayılı Tebligat Kanunu'na göre, bu olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "L, davada hasım olduğundan kendisine muhatap adına tebligat yapılamaz.",
+                "B": "L, muhatabın babası olduğu için tebligatı her durumda almak zorundadır.",
+                "C": "Tebligat L'ye yapılır ancak geçerliliği K'nin onayına bağlıdır.",
+                "D": "L'nin davacı olması tebligatın yapılmasına engel teşkil etmez.",
+                "E": "Tebligatın L'ye yapılabilmesi için mahkemeden özel izin alınmalıdır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen 'kendilerine tebliğ yapılması caiz olan kimselerin o davada hasım olarak alakaları varsa muhatap namına kendilerine tebliğ yapılamaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligata ilişkin kararların verilme zamanı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kararlar, yalnızca duruşmanın yapıldığı celsede verilebilir.",
+                "B": "Kararlar, belirli bir celse beklenmeksizin verilir.",
+                "C": "Kararlar, tarafların talebi üzerine belirlenecek özel bir celsede verilir.",
+                "D": "Kararlar, bir sonraki celseye ertelenerek karara bağlanır.",
+                "E": "Kararlar, dosyanın tekemmül etmesinden sonraki ilk celsede verilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Tebligata ait kararlar, muayyen celse beklenmeden verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kazai tebligata ilişkin kararların verilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kararlar, mutlaka bir sonraki celsede verilir.",
+                "B": "Kararların verilebilmesi için tarafların talebi şarttır.",
+                "C": "Kararlar, belirli bir celse beklenmeksizin verilir.",
+                "D": "Kararlar, sadece duruşma esnasında verilebilir.",
+                "E": "Kararların verilmesi için dosyanın tekemmül etmesi gerekir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Tebligata ait kararlar, muayyen celse beklenmeden verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, işin mahiyetine göre dairelerde çalışan memurlar vasıtasıyla tebligat yapılmasına karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Sadece adli kaza mercilerine",
+                "B": "Sadece idari kaza mercilerine",
+                "C": "Adli ve idari kaza mercileri ile diğer adalet dairelerine",
+                "D": "Sadece Cumhuriyet Başsavcılığına",
+                "E": "Sadece tebligatı talep eden tarafa"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen 'Adli ve idari kaza mercileri ile diğer adalet daireleri re'sen veya talep halinde ... tebligat yapılmasına karar verebilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, adli ve idari kaza mercilerinin, dairelerinde çalışan memurlar vasıtasıyla tebligat yapılmasına karar vermesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bu kararı re'sen alabilirler.",
+                "B": "Karar verilirken işin mahiyeti dikkate alınır.",
+                "C": "Bu kararı talep üzerine alabilirler.",
+                "D": "Bu yetki sadece adli kaza mercilerine tanınmıştır.",
+                "E": "Diğer adalet daireleri de bu yetkiye sahiptir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen 'Adli ve idari kaza mercileri ile diğer adalet daireleri...' ifadesine dayanmaktadır. Bu yetki sadece adli kaza mercilerine değil, idari kaza mercileri ile diğer adalet dairelerine de tanınmıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre;\n\nI. Adli kaza mercileri\nII. İdari kaza mercileri\nIII. Diğer adalet daireleri\n\nyukarıdakilerden hangisi veya hangileri, işin mahiyetine göre re'sen veya talep üzerine kendi memurları vasıtasıyla tebligat yapılmasına karar verebilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen 'Adli ve idari kaza mercileri ile diğer adalet daireleri re'sen veya talep halinde... tebligat yapılmasına karar verebilirler.' hükmüne dayanmaktadır. Bu hüküm, sayılan mercilerin tümünü kapsamaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Cumhuriyet Başsavcılığına yapılacak tebligatın usulüne ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tebliğ olunacak varakanın bir sureti Cumhuriyet Başsavcılığı kalemine teslim edilir.",
+                "B": "Tebliğ olunacak varaka aslı, Cumhuriyet Başsavcısına gösterilmek suretiyle tebliğ tamamlanır.",
+                "C": "Tebliğ, elektronik posta yoluyla Cumhuriyet Başsavcılığının resmi adresine gönderilir.",
+                "D": "Tebliğ mazbatası düzenlenerek Cumhuriyet Başsavcısı tarafından imzalanması zorunludur.",
+                "E": "Tebliğ, adliyede görevli bir mübaşir aracılığıyla sözlü olarak bildirilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen 'Cumhuriyet Başsavcılığına yapılacak tebligat, tebliğ olunacak varaka aslının kendisine gösterilmesiyle olur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Cumhuriyet Başsavcılığına yapılan tebligatın bir mehilin başlangıcı olması durumunda, Cumhuriyet Müddeiumumisi tarafından varakanın aslına yapılması gereken işlemler arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Gösterildiği günü işaret etmek\nII. İmza atmak\nIII. Tebliğ mazbatası düzenlemek",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen 'Bu tebliğ bir mehile başlangıç olacaksa, Cumhuriyet Müddeiumumisi gösterildiği günü varakanın aslına işaret ve imza eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, idari tebligatın kapsamı belirlenirken;\n\nI. Kazai tebligat\nII. Mali tebligat\nIII. Cezai tebligat\n\ntürlerinden hangisi veya hangileri bu kapsamın dışında tutulmuştur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 45'te idari tebligatın 'Kazai ve mali tebligatın dışında kalan tebligat' olarak tanımlanmasıyla, bu iki türün kapsam dışında bırakıldığının açıkça belirtilmesine dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, aşağıdakilerden hangisi idari tebligatın kapsamında değerlendirilir?",
+            "secenekler": {
+                "A": "Mahkemeler tarafından yapılan tebligatlar",
+                "B": "Vergi daireleri tarafından yapılan tebligatlar",
+                "C": "Sadece kamu kurumları arasında yapılan tebligatlar",
+                "D": "Kazai ve mali tebligatların dışında kalan tebligatlar",
+                "E": "İcra daireleri tarafından yapılan tebligatlar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 45'te belirtilen 'Kazai ve mali tebligatın dışında kalan tebligat, idari tebligattır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, birden fazla kişiyi temsil eden bir kimseye yapılacak tebligatla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kural olarak, temsilciye tebliğ edilecek evrakın tek bir nüshası verilir.",
+                "B": "Temsilcinin yetkisi sadece evrakı teslim almakla sınırlıysa, temsil ettiği kişi sayısı kadar nüsha verilmesi gerekir.",
+                "C": "Verilecek evrak nüshası sayısı, temsilcinin yetkisinin kapsamına göre farklılık gösterebilir.",
+                "D": "Temsilciye her durumda, temsil ettiği kişi sayısından bağımsız olarak daima tek bir nüsha verilir.",
+                "E": "Yalnızca evrakı teslim almakla yetkilendirilen temsilciye, temsil ettiği her bir şahıs için ayrı nüsha verilmesi bir zorunluluktur."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'Şu kadar ki, yalnız evrakı tebellüğ için tevkil olunan kimseyi temsil ettiği şahısların adedi kadar nüsha verilmek lazımdır.' hükmüne dayanmaktadır. Bu hüküm, tebligatın her durumda tek nüsha ile yapılacağı iddiasını çürütmektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir temsilcinin yetkisinin yalnızca tebliğ evrakını teslim almak üzere verildiği durumlarda, yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Temsilciye yine de sadece tek bir nüsha evrak verilir.",
+                "B": "Temsilciye, temsil ettiği kişilerin sayısı kadar evrak nüshası verilir.",
+                "C": "Tebligat geçersiz sayılır ve her bir kişiye ayrı tebligat yapılır.",
+                "D": "Temsilciye iki nüsha verilir, biri kendisi diğeri temsil ettikleri içindir.",
+                "E": "Nüsha sayısı, temsilcinin talebine göre belirlenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen '...yalnız evrakı tebellüğ için tevkil olunan kimseyi temsil ettiği şahısların adedi kadar nüsha verilmek lazımdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, birden fazla kişiyi temsil eden bir kimseye yapılacak tebligatta, aşağıdaki durumlardan hangisinde temsil ettiği kişi sayısı kadar evrak nüshası verilmesi gerekir?",
+            "secenekler": {
+                "A": "Temsilcinin aynı zamanda bir kamu görevlisi olması halinde",
+                "B": "Temsilcinin yalnızca evrakı teslim almak üzere yetkilendirilmiş olması halinde",
+                "C": "Tebliğ edilecek evrakın bir mahkeme kararı olması halinde",
+                "D": "Temsil edilen kişilerin sayısının onu geçmesi halinde",
+                "E": "Temsilcinin yazılı olarak talepte bulunması halinde"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'Şu kadar ki, yalnız evrakı tebellüğ için tevkil olunan kimseyi temsil ettiği şahısların adedi kadar nüsha verilmek lazımdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, gümrük ve inhisar işlerinde tebligat yapılmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tebligat, yalnızca ilgili kişinin kayıtlı adresine posta yoluyla yapılabilir.",
+                "B": "İlgili kanunlar izin verse dahi, işlemin yapıldığı yerde hazır bulunan kişiye tebligat yapılamaz.",
+                "C": "İlgili kanunların imkan verdiği durumlarda, işlemin yapıldığı yerde hazır bulunan ilgiliye tebligat memuru vasıtasıyla tebligat yapılabilir.",
+                "D": "Tebligatın geçerli olması için gümrük müdürünün onayı şarttır.",
+                "E": "Bu tür işlerde tebligatlar her zaman ilanen yapılmak zorundadır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen 'Gümrük ve inhisar işlerinde, kendi kanunlarının imkan verdiği hallerde muamelenin cereyan ettiği yerde hazır bulunan alakalıya tebligat memur vasıtasiyle yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, gümrük ve inhisar işlerinde tebligatın memur vasıtasıyla muamelenin yapıldığı yerde yapılabilmesi için;\n\nI. İlgili kişinin muamelenin yapıldığı yerde hazır bulunması\nII. İlgili özel kanunların bu usule imkan vermesi\nIII. Tebligatın mahalli mülkiye amirince onaylanması\n\nşartlarından hangisi veya hangilerinin birlikte gerçekleşmesi gerekir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen 'kendi kanunlarının imkan verdiği hallerde muamelenin cereyan ettiği yerde hazır bulunan alakalıya tebligat memur vasıtasiyle yapılır.' hükmüne dayanmaktadır. Bu hüküm, I ve II numaralı öncülleri zorunlu kılmakta, III numaralı öncüle ise yer vermemektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tapuda kayıtlı taşınmazların hak sahiplerinin tapu idaresine adres bildirmemesi durumunda uygulanacak usul aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebligat işlemi durdurulur ve yeni adresin tespiti beklenir.",
+                "B": "Tebligat, hak sahibinin bilinen en son iş yeri adresine yapılır.",
+                "C": "Tebligat ilanen yapılmak üzere mahkemeye başvurulur.",
+                "D": "Adres kayıt sistemindeki adresleri tebligat adresi olarak kabul edilir.",
+                "E": "Tebligat, ilgili muhtarlığa bırakılmak suretiyle tamamlanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen 'Hak sahiplerinin adres bildirmemeleri hâlinde adres kayıt sistemindeki adresleri tebligat adresleri olarak kabul edilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tapuda kayıtlı taşınmazlara ilişkin yapılacak tebligatlar hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Hak sahipleri, adreslerini bulundukları yerin tapu idaresine bildirmekle yükümlüdür.",
+                "B": "Adres değişikliği olması durumunda yeni adresin de bildirilmesi zorunludur.",
+                "C": "Tebliğ evrakı, hak sahiplerince bildirilmiş olan son adrese gönderilir.",
+                "D": "Hak sahipleri, adreslerini taşınmazın bulunduğu yerdeki asliye hukuk mahkemesine bildirmelidir.",
+                "E": "Hak sahipleri adres bildirmezse, adres kayıt sistemindeki adresleri esas alınır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 49'da yer alan '...adreslerini ve değiştirdikleri takdirde yenisini, bulundukları yerin tapu idaresine bildirmeye mecburdur.' hükmüne aykırıdır. Bildirim mahkemeye değil, tapu idaresine yapılır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tapu idarelerine adres bildirme mecburiyeti ile ilgili olarak;\n\nI. Tapuda kayıtlı taşınmazların hak sahipleri\nII. Miras yoluyla hak iktisap edenler\nIII. Cebrî icra yoluyla hak iktisap edenler\n\nyukarıdakilerden hangisi veya hangileri adreslerini ve değişiklikleri tapu idaresine bildirmekle yükümlüdür?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen 'Tapuda kayıtlı taşınmazların veya miras, istimlak, cebrî icra veya mahkeme ilâmı ile iktisapta bulunan hak sahipleri, adreslerini ve değiştirdikleri takdirde yenisini, bulundukları yerin tapu idaresine bildirmeye mecburdur.' hükmüne dayanmaktadır. Bu hüküm, öncüllerde sayılan tüm grupları kapsamaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Sayıştay tarafından merkez teşkilatı dışında görevli bir kişiye yapılacak tebligat, aşağıdaki mercilerden hangisi vasıtasıyla yaptırılır?",
+            "secenekler": {
+                "A": "Bağlı olduğu daire",
+                "B": "Mahalli mülkiye amiri",
+                "C": "En yakın adliye",
+                "D": "İlgili vergi dairesi",
+                "E": "Posta ve Telgraf Teşkilatı memuru"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 50'de belirtilen '...bunların haricinde kalanlara mahalli mülkiye amiri vasıtasıyla yaptırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Sayıştay tarafından yapılacak tebligatlarda;\n\nI. Adresin tespit olunamaması\nII. Tebellüğden imtina edilmesi\nIII. Muhatabın merkez teşkilatında görevli olması\n\ndurumlarından hangisi veya hangilerinde tebligatın Kanun'un umumi hükümleri dairesinde yapılması gerekir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 50'de belirtilen 'Adresin tesbit olunamaması veya tebellüğden imtina hallerinde tebligat, bu kanunun umumi hükümleri dairesinde yapılır.' hükmüne dayanmaktadır. III. öncülde belirtilen durum ise özel bir tebligat usulüne tabidir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Sayıştay (Divanı Muhasebat) tarafından yapılacak tebligatlarda, tebliğ yapılacak şahsın tebellüğden imtina etmesi durumunda yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebligat işlemi sonlandırılarak durum tutanakla tespit edilir.",
+                "B": "Tebligat mahalli mülkiye amirine bırakılır.",
+                "C": "Kanunun genel hükümlerine göre tebligat yapılır.",
+                "D": "Tebligat bağlı olduğu daireye iade edilir.",
+                "E": "İmtina eden kişi hakkında idari para cezası uygulanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 50'de belirtilen 'Adresin tesbit olunamaması veya tebellüğden imtina hallerinde tebligat, bu kanunun umumi hükümleri dairesinde yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Sayıştay tarafından yapılacak tebligatlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Merkez teşkilatında görevli olanlara tebligat, bağlı oldukları daireler aracılığıyla yaptırılır.",
+                "B": "Merkez teşkilatı dışında kalanlara tebligat, mahalli mülkiye amiri vasıtasıyla yaptırılır.",
+                "C": "Tebellüğden imtina edilmesi hâlinde Kanun'un umumi hükümleri uygulanır.",
+                "D": "Adresin tespit edilememesi durumunda tebligat doğrudan ilanen yapılır.",
+                "E": "Adresin tespit olunamaması hâlinde tebligat, Kanun'un umumi hükümleri dairesinde yapılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 50'de belirtilen 'Adresin tesbit olunamaması veya tebellüğden imtina hallerinde tebligat, bu kanunun umumi hükümleri dairesinde yapılır.' hükmüne dayanmaktadır. Doğrudan ilanen yapılacağına dair bir düzenleme bulunmamaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, mali tebliğler ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her durumda mahalli mülkiye amiri vasıtasıyla yapılır.",
+                "B": "Yalnızca ilanen tebligat usulü ile yapılabilir.",
+                "C": "Kendi kanunlarında açık hüküm bulunmayan hallerde, Kanun'un umumi hükümlerine göre yapılır.",
+                "D": "Daima muhatabın bağlı olduğu daireler aracılığıyla gerçekleştirilir.",
+                "E": "Sadece tapu idareleri tarafından yapılabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 51'de belirtilen 'Mali tebliğler, kendi kanunlarında sarahat bulunmıyan hallerde, bu kanunun umumi hükümlerine tevfikan yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kanun'un uygulanmasında görevli olup işledikleri veya kendilerine karşı işlenen suçlardan dolayı Türk Ceza Kanunu'nun kamu görevlisine ilişkin hükümlerine göre cezalandırılacaklar arasında;\n\nI. Mahalle muhtarları\nII. Köy ihtiyar meclisi üyeleri\nIII. Kanun'un uygulanmasında görevli hizmetliler\n\nhangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 52'de yer alan 'Bu Kanunun tatbikinde vazifeli bulunan memur ve hizmetliler ile mahalle, köy muhtar ve ihtiyar heyeti ve meclisi azaları işledikleri suçlar ile kendilerine karşı işlenen suçlardan dolayı, Türk Ceza Kanununun kamu görevlisine ilişkin hükümlerine göre cezalandırılır.' hükmüne dayanmaktadır. Bu hükümde sayılanların tümü öncüllerde yer almaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kanun'un uygulanmasında görevli olanlar hakkında cezai hükümlerin uygulanması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu kişiler hakkında cezai takibat başlatılması, disiplin cezası verilmesini engeller.",
+                "B": "Bu kişilere yalnızca disiplin cezası verilebilir, cezai takibat yapılamaz.",
+                "C": "Cezai takibat yapılması, aynı fiil nedeniyle ayrıca disiplin cezası uygulanmasına bir engel teşkil etmez.",
+                "D": "Bu kişiler, yalnızca kendilerine karşı işlenen suçlardan dolayı kamu görevlisi sayılır.",
+                "E": "Bu kişiler hakkında yalnızca Türk Ceza Kanunu hükümleri uygulanır, disiplin hükümleri uygulanmaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen 'Yukardaki fıkra hükmüne göre yapılacak takibat inzıbati ceza tatbikına mani değildir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kanun'un uygulanmasında görevli köy muhtarları ve ihtiyar meclisi üyelerinin, görevleriyle bağlantılı olarak işledikleri suçlar bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ceza takibatı yapılması, haklarında inzibati ceza uygulanmasına engel teşkil etmez.",
+                "B": "Kendilerine karşı işlenen suçlardan dolayı özel bir soruşturma usulü uygulanır.",
+                "C": "Sadece idari para cezası ile cezalandırılırlar.",
+                "D": "Yargılamaları doğrudan Yargıtay'da yapılır.",
+                "E": "Türk Ceza Kanunu'nun genel hükümlerine göre değil, özel kanun hükümlerine göre cezalandırılırlar."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 52'de yer alan 'Yukardaki fıkra hükmüne göre yapılacak takibat inzıbati ceza tatbikına mani değildir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bu Kanun'un uygulanmasında görevli olan memur ve hizmetliler ile muhtar ve ihtiyar heyeti üyelerinin hukuki sorumluluğuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İşledikleri suçlardan dolayı Türk Ceza Kanunu'nun kamu görevlisine ilişkin hükümlerine göre cezalandırılırlar.",
+                "B": "Kendilerine karşı işlenen suçlardan dolayı Türk Ceza Kanunu'nun kamu görevlisine ilişkin hükümlerine göre cezalandırılırlar.",
+                "C": "Haklarında cezai takibat yapılması, disiplin cezası uygulanmasına engel değildir.",
+                "D": "Sadece kendilerine karşı işlenen suçlardan dolayı kamu görevlisi sayılırlar.",
+                "E": "Kanun'un tatbikinde vazifeli bulunan mahalle muhtarları da bu kapsama dahildir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen '...işledikleri suçlar ile kendilerine karşı işlenen suçlardan dolayı, Türk Ceza Kanununun kamu görevlisine ilişkin hükümlerine göre cezalandırılır.' hükmü, hem işledikleri hem de kendilerine karşı işlenen suçları kapsadığından, sorumluluğun sadece kendilerine karşı işlenen suçlarla sınırlı olduğu ifadesi yanlıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kanun'un uygulanmasında görevli bir memurun görevine ilişkin bir suç işlemesi durumunda;\n\nI. Türk Ceza Kanunu'nun kamu görevlisine ilişkin hükümlerine göre cezalandırılır.\nII. Hakkında inzıbati ceza uygulanabilir.\nIII. Cezai takibat yapılması, inzıbati ceza uygulanmasına engel teşkil etmez.\n\nyukarıdaki sonuçlardan hangisi veya hangileri meydana gelebilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 52'de hem görevlilerin Türk Ceza Kanunu'nun ilgili hükümlerine göre cezalandırılacağının belirtilmesi hem de 'Yukardaki fıkra hükmüne göre yapılacak takibat inzıbati ceza tatbikına mani değildir' hükmüyle cezai takibatın disiplin cezasını engellemediğinin açıkça düzenlenmiş olmasına dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligat yapılması gereken hallerde kendisine veya başkasına ait isim veya adresi yanlış olarak bildiren fail hakkında ne kadar süreyle hapis cezasına hükmolunur?",
+            "secenekler": {
+                "A": "Üç aydan bir yıla kadar",
+                "B": "Altı aydan iki yıla kadar",
+                "C": "Bir yıldan üç yıla kadar",
+                "D": "İki yıldan beş yıla kadar",
+                "E": "Beş yıla kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 53'te belirtilen '...bir kimse kendisine veya başkasına ait isim veya adresi yanlış olarak bildirir ise fail hakkında altı aydan iki yıla kadar hapis cezasına hükmolunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligat yapılması gereken hallerde yanlış adres bildirme suçuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bu fiili işleyen fail hakkında hapis cezasına hükmolunur.",
+                "B": "Kişinin sadece başkasına ait adresi yanlış bildirmesi bu suçu oluşturmaz.",
+                "C": "Kişinin kendisine ait adresi yanlış bildirmesi bu suçun kapsamındadır.",
+                "D": "Verilecek hapis cezasının alt sınırı altı aydır.",
+                "E": "Verilecek hapis cezasının üst sınırı iki yıldır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 53'te belirtilen '...bir kimse kendisine veya başkasına ait isim veya adresi yanlış olarak bildirir ise...' hükmüne dayanmaktadır. Bu hüküm, suçun hem kişinin kendisine hem de başkasına ait adresi yanlış bildirmesiyle oluşabileceğini açıkça belirttiğinden, sadece başkasına ait adresin yanlış bildirilmesinin suçu oluşturmayacağı ifadesi yanlıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, muhatap adına kendisine tebligat yapılan bir kimsenin, tebliğ evrakını muhatabına en kısa zamanda vermemesi fiiliyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu fiilin cezalandırılması için kişinin kasıtlı hareket etmesi gerekir.",
+                "B": "Fiilin cezalandırılabilmesi için en az üç günlük bir gecikme yaşanmalıdır.",
+                "C": "Bu fiilden dolayı bir gecikme veya zararın meydana gelmiş olması, cezalandırma için bir şarttır.",
+                "D": "Söz konusu fiil için yalnızca adli para cezası öngörülmüştür.",
+                "E": "Muhatabın şikayeti olmaksızın bu fiilden dolayı soruşturma yapılamaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 54'te yer alan '...tebliğ evrakını muhataplarına en kısa zamanda vermedikleri ve bundan gecikme veya zarar vukua geldiği takdirde bir yıla kadar hapis cezasıyla cezalandırılır.' hükmüne dayanmaktadır. Bu hüküm, cezalandırma için gecikme veya zarar şartının gerçekleşmesini aramaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebligatın kabul edilmemesi fiili ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kendisine yapılması gereken tebligatı almayan muhatap cezalandırılır.",
+                "B": "Muhatap adına tebligatı kabule mecbur olup da kabul etmeyenler cezalandırılır.",
+                "C": "Bu fiil için öngörülen ceza bir yıla kadar hapistir.",
+                "D": "Fiilin cezalandırılması için tebligatın gecikmesi veya bir zararın doğması şarttır.",
+                "E": "Muhatap adına tebligatı alıp en kısa zamanda vermeyen kişi de aynı cezaya tabidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 54'e dayanmaktadır. Maddenin birinci fıkrasında, tebliğ evrakını alıp muhatabına vermeyenler için 'gecikme veya zarar vukua geldiği takdirde' cezalandırma öngörülürken; ikinci fıkrada, tebligatı almayan muhatap veya kabule mecbur olup da kabul etmeyenler için bu şart aranmaksızın ceza uygulanacağı belirtilmiştir. Dolayısıyla 'gecikme veya zarar' şartı, tebligatı kabul etmeme fiili için geçerli değildir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, aşağıdakilerden hangisi, tebliğ evrakıyla ilgili fiillerden dolayı bir yıla kadar hapis cezası uygulanacak durumlardan biri değildir?",
+            "secenekler": {
+                "A": "Muhatap adına tebligatı kabule mecbur olan kimsenin tebligatı kabul etmemesi",
+                "B": "Kendisine yapılması gereken tebligatı muhatabın almaması",
+                "C": "Muhatap namına tebligat yapılan kimsenin, evrakı muhataba vermeyerek gecikmeye sebep olması",
+                "D": "Tebliğ memurunun, tebligatı usulüne aykırı olarak yapması",
+                "E": "Muhatap namına tebligat yapılan kimsenin, evrakı muhataba vermeyerek zarara yol açması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 54'te ceza yaptırımına bağlanan fiillerin; muhatap adına tebligatı alanın evrakı zamanında vermemesi, muhatabın tebligatı almaması ve muhatap adına tebligatı kabule mecbur olanın kabulden kaçınması olarak sayılmasına dayanmaktadır. Tebliğ memurunun fiilleri bu madde kapsamında düzenlenmemiştir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre;\n\nI. Kendisine yapılması gereken tebligatı almayan muhatap\nII. Muhatap namına tebligatı kabule mecbur olup da tebligatı kabul etmeyen kişi\nIII. Muhatap namına kendisine tebligat yapılıp da tebliğ evrakını muhatabına en kısa zamanda vermeyerek gecikmeye veya zarara sebep olan kişi\n\nyukarıdakilerden hangisi veya hangileri hakkında bir yıla kadar hapis cezası uygulanabilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 54'e dayanmaktadır. Maddenin ilk fıkrası III. öncüldeki durumu, ikinci fıkrası ise I. ve II. öncüllerdeki durumları düzenlemekte ve her iki fıkrada da yaptırım olarak 'bir yıla kadar hapis cezası' öngörülmektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, muhatap adına kendisine tebligat yapılan bir kimsenin, tebliğ evrakını muhatabına en kısa zamanda vermemesi ve bu durumdan bir gecikme veya zarar doğması hâlinde uygulanacak hapis cezasının üst sınırı ne kadardır?",
+            "secenekler": {
+                "A": "Üç ay",
+                "B": "Altı ay",
+                "C": "Bir yıl",
+                "D": "İki yıl",
+                "E": "Beş yıl"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 54'te belirtilen '...bir yıla kadar hapis cezasıyla cezalandırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, muhatap olmadığı halde tebliğ memuruna kimliği hakkında yalan beyanda bulunarak tebliğ evrakını alan ve bu fiiliyle bir zararın oluşmasına sebep olan kişi hakkında aşağıdaki cezalardan hangisi hükmolunur?",
+            "secenekler": {
+                "A": "Üç aydan bir yıla kadar hapis cezası",
+                "B": "Bir yıldan beş yıla kadar hapis cezası",
+                "C": "Bir yıla kadar hapis cezası",
+                "D": "Beş yıldan on yıla kadar hapis cezası",
+                "E": "Yirmibeş günden yüzelli güne kadar adlî para cezası"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 55'in ikinci fıkrasında belirtilen '... (c) bendindeki fiil için bir yıldan beş yıla kadar hapis cezası hükmolunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ sürecinde yalan beyanda bulunma suçuyla ilgili olarak aşağıdakilerden hangisi Kanun'da sayılan fiillerden biri değildir?",
+            "secenekler": {
+                "A": "Muhatabın, kendisi hakkında tebliğ memuruna gerçeğe aykırı beyanda bulunması",
+                "B": "Muhatap adına tebligat alabilecek bir kişinin, muhatap hakkında tebliğ memuruna yalan beyanda bulunması",
+                "C": "Muhatap olmadığı halde kimliği hakkında yalan söyleyerek tebliğ evrakını alan kişi",
+                "D": "Tebliğ memuruna muhatabın adreste bulunmadığını bilerek söyleyen komşusu",
+                "E": "Muhatap adına tebellüğ etme yetkisi yokken bu konuda yalan beyanda bulunarak tebliğ evrakını alan kişi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 55'te yalan beyan suçunu işleyebilecek kişilerin; muhatabın kendisi, muhatap namına tebligat yapılabilecek kişi ve muhatap olmadığı halde evrakı alan kişi olarak sınırlı sayıda sayılmış olmasına dayanmaktadır. Komşunun beyanı bu kapsamda düzenlenmemiştir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre,\n\nI. Muhatabın, kendisi hakkında tebliğ memuruna gerçeğe aykırı beyanda bulunması\nII. Muhatap adına tebligatı alabilecek bir kişinin, muhatap hakkında yalan beyanda bulunması\nIII. Muhatap olmadığı halde, kendisini muhatap olarak tanıtıp tebliğ evrakını alan kimsenin durumu\n\nfiillerinden hangisi veya hangileri bir yıla kadar hapis cezasını gerektiren yalan beyan halleri arasında düzenlenmiştir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 55'in (a), (b) ve (c) bentlerinde, öncüllerde belirtilen her üç fiilin de bir yıla kadar hapis cezasıyla cezalandırılacağının açıkça düzenlenmiş olmasına dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, usulüne uygun olarak asılan bir tebliğ evrakını bulunduğu yerden koparan kişi hakkında uygulanacak yaptırımlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Üç aydan bir yıla kadar hapis cezasına hükmolunur.",
+                "B": "Yirmibeş günden yüzelli güne kadar adlî para cezasına hükmolunur.",
+                "C": "Hem hapis cezası hem de adlî para cezası birlikte uygulanır.",
+                "D": "Bu fiili işleyen kişiye verilecek hapis cezasının alt sınırı üç aydır.",
+                "E": "Bu fiili işleyen kişiye sadece hapis cezası verilir, adlî para cezası verilmez."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 56'da belirtilen '...üç aydan bir yıla kadar hapis ve yirmibeş günden yüzelli güne kadar adlî para cezasına hükmolunur.' hükmüne dayanmaktadır. Kanun, hapis cezası ile adlî para cezasının birlikte uygulanmasını öngördüğünden, sadece birinin verileceğini belirten ifade yanlıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, aşağıdakilerden hangisi tebliğ evrakının veya ihbarnamenin taliki ile ilgili olarak cezai yaptırıma tabi tutulan fiiller arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Talik edilen evrakı bulunduğu yerden koparmak",
+                "B": "Talik edilen evrakı imha etmek",
+                "C": "Talik edilen evrakın içeriğini eleştirmek",
+                "D": "Tebliğ evrakının talikine karşı koymak",
+                "E": "Talik edilen evrakı okunamaz hâle getirmek"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 56'da suç olarak sayılan fiillerin; talike karşı koymak, koparmak, imha etmek veya okunamaz hale getirmek olduğu, evrakın içeriğini eleştirmenin ise bu fiiller arasında yer almadığı hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre;\n\nI. Tebliğ evrakının asılmasına karşı koymak\nII. Asılmış olan tebliğ evrakını bulunduğu yerden koparmak\nIII. Asılmış olan tebliğ evrakını imha etmek\n\nfiillerinden hangisi veya hangileri için hapis ve adlî para cezası birlikte öngörülmüştür?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 56'da belirtilen '...tebliğ evrakının veya ihbarnamenin talikine karşı koyanlar ile talik edilen bu kabil evrakı bulunduğu yerden koparan, imha eden veya okunamaz hale getirenler hakkında, üç aydan bir yıla kadar hapis ve yirmibeş günden yüzelli güne kadar adlî para cezasına hükmolunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğ evrakının taliki ile ilgili suçlar hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Talik edilen tebliğ evrakını koparan kimse cezalandırılır.",
+                "B": "Tebliğ evrakının talikine karşı koyanlar bu suçun faili olabilir.",
+                "C": "Talik edilen ihbarnameyi okunamaz hale getirenler hakkında ceza hükmolunur.",
+                "D": "Bu suçu işleyen failler hakkında sadece hapis cezasına hükmolunur.",
+                "E": "Talik edilen tebliğ evrakını imha eden kimse cezalandırılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 56'da belirtilen '...üç aydan bir yıla kadar hapis ve yirmibeş günden yüzelli güne kadar adlî para cezasına hükmolunur.' hükmüne dayanmaktadır. Bu suç için hem hapis hem de adli para cezası öngörülmüştür."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, usulüne uygun olarak asılmış bir tebliğ evrakını bulunduğu yerden koparan veya imha edenler hakkında hükmolunacak hapis cezasının süresi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bir aydan altı aya kadar",
+                "B": "Üç aydan bir yıla kadar",
+                "C": "Altı aydan iki yıla kadar",
+                "D": "Yirmibeş günden yüzelli güne kadar",
+                "E": "Bir yıldan üç yıla kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 56'da belirtilen '...üç aydan bir yıla kadar hapis... cezasına hükmolunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, usulüne uygun olarak talik edilmiş bir tebliğ evrakını imha eden kişi hakkında uygulanacak yaptırımla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece üç aydan bir yıla kadar hapis cezasına hükmolunur.",
+                "B": "Sadece yirmibeş günden yüzelli güne kadar adlî para cezasına hükmolunur.",
+                "C": "Üç aydan bir yıla kadar hapis veya yirmibeş günden yüzelli güne kadar adlî para cezasına hükmolunur.",
+                "D": "Üç aydan bir yıla kadar hapis ve yirmibeş günden yüzelli güne kadar adlî para cezasına hükmolunur.",
+                "E": "Bir yıldan üç yıla kadar hapis ve elli günden ikiyüz güne kadar adlî para cezasına hükmolunur."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 56'da belirtilen '...üç aydan bir yıla kadar hapis ve yirmibeş günden yüzelli güne kadar adlî para cezasına hükmolunur.' hükmüne dayanmaktadır. Kanun, hapis ve adli para cezasının birlikte uygulanmasını öngörmektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğin vaktinde yapılmaması veya tebliğ mazbatasının belirlenen zamanda gelmemesi durumunda, ilgili merciin durumu bildirmesi gereken yer aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "PTT Umum Müdürlüğü",
+                "B": "Mahalli PTT merkezi",
+                "C": "Adalet Bakanlığı",
+                "D": "Cumhuriyet Başsavcılığı",
+                "E": "Tebliği çıkaran merciin bağlı olduğu üst makam"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 58'de belirtilen '...alakalı merci keyfiyeti mahalli PTT merkezine bildirir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, tebliğin vaktinde yapılmadığına dair ilgili merciden bildirim alan mahalli PTT merkezinin görevleri arasında;\n\nI. Şikayete konu evrakın ne muamele gördüğünü tetkik etmek\nII. Gerekirse mevrit merkezinden tahkik ve takipte bulunmak\nIII. Soruşturma sonucunu mümkün olan en kısa zamanda ilgili mercie bildirmek\n\nhususlarından hangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 58'de belirtilen 'Bu merkez şikayet mevzuu olan evrakın, ne muamele gördüğünü tetkik ve icabederse mevrit merkezinden tahkik ve takibeder. Bunların neticesi mahalli PTT merkezi ... tarafından mümkün olduğu kadar kısa bir zamanda alakalı mercie bildirilir.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre;\n\nI. Davetiye\nII. Yemin davetiyesi\nIII. İhtarname\n\nyukarıdakilerden hangisi veya hangileri tebliğ mazbatalı kapalı bir zarfın içine konulmadan da gönderilebilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 59'da belirtilen 'Davetiye, basit usulü muhakeme davetiyesi, yemin davetiyesi bu zarfın içine konmadan da gönderilebilir.' hükmüne dayanmaktadır. İhtarname bu istisnalar arasında sayılmamıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bu Kanun'un uygulanmasına ilişkin usul ve esasları belirleyen yönetmeliği çıkarma yetkisi, belirli bakanlıkların görüşü alındıktan sonra, aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İçişleri Bakanlığı",
+                "B": "Maliye Bakanlığı",
+                "C": "Adalet Bakanlığı",
+                "D": "Ulaştırma Bakanlığı",
+                "E": "Cumhurbaşkanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 60'ta belirtilen 'Bu Kanunun uygulanmasına ilişkin usûl ve esaslar İçişleri, Maliye ve Ulaştırma bakanlıklarının görüşü alınmak suretiyle, Adalet Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kanunun uygulanmasına ilişkin yönetmelik hazırlanırken;\n\nI. İçişleri Bakanlığı\nII. Maliye Bakanlığı\nIII. Adalet Bakanlığı\n\nhangisinin veya hangilerinin görüşünün alınması gerektiği düzenlenmiştir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I, II ve III",
+                "D": "II ve III",
+                "E": "I ve II"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 60'ta belirtilen 'İçişleri, Maliye ve Ulaştırma bakanlıklarının görüşü alınmak suretiyle...' hükmüne dayanmaktadır. Adalet Bakanlığı yönetmeliği çıkaran makamdır, görüşü alınan bakanlıklar arasında sayılmamıştır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, diğer kanunların tebligat ile ilgili olarak;\n\nI. Hukuk Usulü Muhakemeleri Kanunu\nII. Adli evrakın PTT İdaresi vasıtasiyle tebliğine dair kanun\nIII. Ceza Muhakemesi Kanunu\n\nhükümlerinden hangisine veya hangilerine atıf yapması durumunda Tebligat Kanunu hükümleri uygulanır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 61'de belirtilen 'Diğer kanunların tebligat ile ilgili olarak Hukuk Usulü Muhakemeleri Kanununa ve adli evrakın PTT İdaresi vasıtasiyle tebliğine dair kanuna atfettiği yerlerde bu kanun hükümleri tatbik olunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, diğer kanunların tebligatla ilgili olarak Hukuk Usulü Muhakemeleri Kanununa atıf yapması durumunda ortaya çıkan hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Atıf yapılan kanun hükümleri öncelikli olarak uygulanır.",
+                "B": "Tebligat Kanunu hükümleri tatbik olunur.",
+                "C": "Uyuşmazlığın niteliğine göre hâkim takdir hakkını kullanır.",
+                "D": "Yalnızca PTT İdaresi vasıtasıyla tebliğe dair hükümler uygulanır.",
+                "E": "Hukuk Usulü Muhakemeleri Kanununun ilgili maddesi kıyasen uygulanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 61'de belirtilen '...bu kanun hükümleri tatbik olunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, kanun hükümlerini icra etmeye memur olan makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Türkiye Büyük Millet Meclisi",
+                "C": "İcra Vekilleri Heyeti",
+                "D": "Cumhurbaşkanı",
+                "E": "Yargıtay Başkanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 64'te belirtilen 'Bu kanunun hükümlerini icraya İcra Vekilleri Heyeti memurdur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kat Mülkiyeti Kanunu'nun uygulandığı hallerde, ortak taşınmazda oturmayan bağımsız bölüm sahibinin bildirdiği adrese tebligat yapılamaması durumunda uygulanacak usulle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Sonraki bütün tebligatlar, o kişiye ait bağımsız bölümde fiilen oturana yapılır.",
+                "B": "Tebligatın bir örneği apartman girişinde bulundurulacak ilan tahtasına asılır.",
+                "C": "Bağımsız bölümde fiilen oturana yapılan tebligat, bağımsız bölüm sahibine yapılmış sayılır.",
+                "D": "Tebligatın bir nüshasının ilgili mahalle muhtarlığına bırakılması zorunludur.",
+                "E": "Bağımsız bölümde fiilen oturan kimse yoksa ilan tahtasına asılan tebligat örneği malike tebliğ edilmiş sayılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen usuller arasında muhtarlığa bırakma gibi bir zorunluluk yer almadığı için yanlıştır. Madde, tebligatın bağımsız bölümde fiilen oturana yapılacağını, bir örneğinin ilan tahtasına asılacağını ve kimse yoksa ilan tahtasına asmanın yeterli olacağını düzenlemektedir."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kat Mülkiyeti Kanunu'nun uygulandığı bir apartmanda, malik (A) yöneticiye Türkiye'de bir tebligat adresi bildirmemiştir ve dairesinde de kimse oturmamaktadır. Bu durumda, apartman yönetimi ve ortak giderlerle ilgili bir tebligatın (A)'ya yapılmış sayılması için gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebligat örneğinin apartman girişindeki ilan tahtasına asılması",
+                "B": "Tebligatın malikin en son bilinen adresine iadeli taahhütlü gönderilmesi",
+                "C": "Tebligatın yapılabilmesi için mahkemeden karar alınması",
+                "D": "Tebligatın apartman yöneticisinde bir ay süreyle saklanması",
+                "E": "Tebligatın malikin bir yakınına teslim edilmesi"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Bağımsız bölümde fiilen oturan yoksa ilân tahtasına asılan tebligat örneği bağımsız bölüm sahibine yapılmış sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kat Mülkiyeti Kanunu'nun uygulandığı bir apartmanda, ortak taşınmazda oturmayan bir bağımsız bölüm sahibinin yöneticiye adres bildirmemesi durumunda, apartman yönetimi ve ortak giderler ile ilgili tebligatlar öncelikle kime yapılır?",
+            "secenekler": {
+                "A": "Doğrudan apartman ilan tahtasına asılır.",
+                "B": "İlgili kişinin bilinen en son adresine gönderilir.",
+                "C": "O kişiye ait bağımsız bölümde fiilen oturana yapılır.",
+                "D": "Tebligat yapılmaksızın işlem bekletilir.",
+                "E": "İlgili muhtarlığa teslim edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Bağımsız bölüm sahibinin adres bildirmemesi veya yazılı olarak bildirdiği adrese tebligat yapılamaması hallerinde, bundan sonraki bütün tebligatlar, o kişiye ait bağımsız bölümde fiilen oturana yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kat Mülkiyeti Kanunu'nun uygulandığı hallerde, adres bildirmeyen bir bağımsız bölüm sahibine ait dairede fiilen oturan kimse de bulunmuyorsa, tebligatın bağımsız bölüm sahibine yapılmış sayılması için hangi işlemin gerçekleştirilmesi yeterlidir?",
+            "secenekler": {
+                "A": "Tebligat örneğinin apartman girişindeki ilan tahtasına asılması",
+                "B": "Tebligatın bir örneğinin yönetici tarafından saklanması",
+                "C": "Durumun bir tutanakla tespit edilerek tebliğden vazgeçilmesi",
+                "D": "Tebligatın mülk sahibinin nüfusa kayıtlı olduğu yer muhtarlığına bırakılması",
+                "E": "Tebligatın apartman yöneticisine teslim edilmesi"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Bağımsız bölümde fiilen oturan yoksa ilân tahtasına asılan tebligat örneği bağımsız bölüm sahibine yapılmış sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, Kat Mülkiyeti Kanununun uygulandığı hallerde, apartman girişindeki ilan tahtasına asılan tebligat örneğinin tek başına bağımsız bölüm sahibine tebliğ hükmünde sayılabilmesi için aranan koşul aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bağımsız bölüm sahibinin yurt dışında ikamet etmesi",
+                "B": "Tebligatın ortak gider borcuyla ilgili olması",
+                "C": "Bağımsız bölümde fiilen oturan bir kimsenin bulunmaması",
+                "D": "Yöneticinin tebligatı bizzat asması ve tutanak tutması",
+                "E": "Bağımsız bölüm sahibinin adres bildirme yükümlülüğünü hiç yerine getirmemiş olması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de yer alan 'Bağımsız bölümde fiilen oturan yoksa ilân tahtasına asılan tebligat örneği bağımsız bölüm sahibine yapılmış sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, elektronik tebligat adresini oluşturma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Ulaştırma ve Altyapı Bakanlığı",
+                "C": "Türkiye Barolar Birliği",
+                "D": "Adres sahibinin ilgili olduğu kurum veya kuruluş",
+                "E": "Posta ve Telgraf Teşkilatı Anonim Şirketi"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Elektronik tebligat adresi, Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından... oluşturulur' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, bir gerçek veya tüzel kişi hakkında elektronik tebligat zorunluluğunun ortadan kalkması hâlinde, ilgili kurumun bu durumu Posta ve Telgraf Teşkilatı Anonim Şirketine bildirmesi gereken süre ne kadardır?",
+            "secenekler": {
+                "A": "Derhal",
+                "B": "On beş gün içinde",
+                "C": "Bir ay içinde",
+                "D": "Üç ay içinde",
+                "E": "Altı ay içinde"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen '...elektronik tebligat zorunluluğunun ortadan kalkması hâllerinde gerekli bildirimler, ilgili kurum, kuruluş veya birlik tarafından bir ay içinde yapılır...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, elektronik tebligat adresinin oluşturulması ve yönetimi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Gerçek kişiler için kimlik numarası esas alınarak oluşturulur.",
+                "B": "Tüzel kişiler için tabi oldukları sistem numarası esas alınır.",
+                "C": "Her bir tüzel kişi için ihtiyaca göre birden fazla adres oluşturulabilir.",
+                "D": "Adresler, sahibine teslim edildikten sonra tebligat çıkarmaya yetkili mercilerin kullanımına sunulur.",
+                "E": "Posta ve Telgraf Teşkilatı A.Ş., ilgili kurumlardan sistemin yürütülmesi için gerekli bilgileri talep edebilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen '...tüzel kişi için ise tabi oldukları sistem numarası esas alınmak suretiyle sadece bir tane olacak şekilde oluşturulur...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "7201 Sayılı Tebligat Kanunu'na göre, elektronik tebligat zorunluluğunun başlaması veya sona ermesi durumunda izlenecek usule ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlgili kurumun bildirimi üzerine Posta ve Telgraf Teşkilatı Anonim Şirketi on beş gün içinde gerekli işlemi yapar.",
+                "B": "Elektronik tebligat zorunluluğuna ilişkin bildirim, adres sahibi tarafından doğrudan Posta ve Telgraf Teşkilatı Anonim Şirketine yapılır.",
+                "C": "Posta ve Telgraf Teşkilatı Anonim Şirketi, zorunluluğun kalktığını tespit ederek ilgili kuruma iki ay içinde bildirir.",
+                "D": "İlgili kurum, kuruluş veya birlik, zorunluluğun başlaması veya kalkması hâlini bir ay içinde Posta ve Telgraf Teşkilatı Anonim Şirketine bildirmekle yükümlüdür.",
+                "E": "Zorunluluğun ortadan kalkması hâlinde gerekli bildirimler altı ay içinde ilgili birlik tarafından yapılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Kurum, kuruluş veya birlikler ile gerçek veya tüzel kişilerin 7/a maddesi uyarınca elektronik tebligat zorunluluğuna tabi olmaları veya bunlar hakkında elektronik tebligat zorunluluğunun ortadan kalkması hâllerinde gerekli bildirimler, ilgili kurum, kuruluş veya birlik tarafından bir ay içinde yapılır' hükmüne dayanmaktadır."
+        }
+    ]
+}
+

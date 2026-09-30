@@ -1,0 +1,6 @@
+venv/
+*.png
+__pycache__/
+.DS_Store
+story_cikti/
+temp_render.html

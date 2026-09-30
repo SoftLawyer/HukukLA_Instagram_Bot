@@ -1,0 +1,1169 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, bu kanunun amaçlarından biri olan hizmetlerin yürütülmesinde gözetilecek ilkeler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Plânlı olması",
+                "B": "Programlı olması",
+                "C": "Uyum içinde olması",
+                "D": "Verimli olması",
+                "E": "Kârlılık odaklı olması"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'hizmetlerin plânlı, programlı, etkin, verimli ve uyum içinde yürütülmesini sağlamak' hükmüne dayanmaktadır.\n- Diğer seçenekler kanunda hizmetlerin yürütülmesine ilişkin sayılan ilkeler arasında yer alırken, hizmetlerin 'kârlılık odaklı' olması kanunun amaçları arasında sayılmamıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, bu Kanunun kapsamı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kanun, büyükşehir belediyesini ve bu belediyenin sınırları içindeki diğer belediyeleri kapsar.",
+                "B": "Kanun, yalnızca büyükşehir belediyesinin kendisini kapsar, sınırlarındaki diğer belediyeleri kapsamaz.",
+                "C": "Kanun, büyükşehir belediyeleri ile bu belediyelere komşu olan köy idarelerini de kapsar.",
+                "D": "Kanun, büyükşehir belediyesinin merkez ilçe belediyesini kapsar, diğer ilçe belediyelerini kapsam dışında tutar.",
+                "E": "Kanun, büyükşehir belediyeleri ile birlikte aynı ildeki il özel idarelerini de kapsar."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Bu Kanun, büyükşehir belediyesiyle büyükşehir sınırları içindeki belediyeleri kapsar.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kapsamlar (sadece büyükşehir belediyesi, köy idareleri, sadece merkez ilçe, il özel idareleri) kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, bu kanunun kapsamı ve amacı birlikte değerlendirildiğinde aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kanun, hem büyükşehir belediyesini hem de onun sınırları içindeki diğer belediyeleri düzenler.",
+                "B": "Büyükşehir belediyesinin, sınırları içindeki ilçe belediyeleri arasında koordinasyonu sağlaması kanunun hedeflerindendir.",
+                "C": "Hizmetlerin büyükşehir bütününde etkin ve verimli yürütülmesi, kanunun temel amaçları arasındadır.",
+                "D": "Kanun, büyükşehir belediyesi sınırları içindeki ilçe belediyelerinin tüzel kişiliğini sona erdirmeyi amaçlar.",
+                "E": "Kanun, büyükşehir belediyesi yönetiminin hukukî statüsünü düzenlemeyi hedefler."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, kanunun genel ruhuna ve lafzına aykırıdır. Madde 2, kanunun büyükşehir sınırları içindeki belediyeleri de kapsadığını belirtir ve Madde 3/a, büyükşehir belediyesinin bu belediyeler arasında 'koordinasyonu sağlayan' bir yapı olduğunu tanımlar. Bu ifadeler, ilçe belediyelerinin varlığını sürdürdüğünü gösterir.\n- Diğer seçenekler: A seçeneği Madde 2'ye, B seçeneği Madde 3/a'ya, C ve E seçenekleri ise Madde 1'de belirtilen kanunun amaçlarına uygun olduğu için doğrudur."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin tanımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sınırları, merkez ilçenin mülki sınırı olarak kabul edilir.",
+                "B": "İdarî ve malî konularda merkezi idareye tam bağımlı bir yapıdadır.",
+                "C": "Temel görevi, ilçe belediyelerinin idari işlemlerini denetlemektir.",
+                "D": "Karar organı seçmenler tarafından seçilerek oluşturulan bir kamu tüzel kişisidir.",
+                "E": "Organları arasında vali, kaymakam ve il genel meclisi yer alır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen '[büyükşehir belediyesi] karar organı seçmenler tarafından seçilerek oluşturulan kamu tüzel kişisini' ifade eder hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda büyükşehir belediyesi için belirtilen 'sınırları il mülki sınırı olan', 'idarî ve malî özerkliğe sahip', 'ilçe belediyeleri arasında koordinasyonu sağlayan' ve organlarının 'büyükşehir belediye meclisi, büyükşehir belediye encümeni ve büyükşehir belediye başkanı' olduğu yönündeki tanımlarla çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, toplam nüfusu 800.000 olan bir ilin il belediyesinin kanunla büyükşehir belediyesine dönüştürülmesi durumunda, ortaya çıkacak yeni yapı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Karar organları atama yoluyla belirlenen bir yapıya dönüşür.",
+                "B": "Sadece büyükşehir belediye meclisi ve başkanından oluşan iki temel organı bulunur.",
+                "C": "Mevcut ilçe belediyelerini ortadan kaldırarak tek bir merkezî yönetim kurar.",
+                "D": "Kuruluşunun ardından sınırları, nüfus yoğunluğuna göre yeniden belirlenir.",
+                "E": "Sınırları il mülki sınırı olan ve idarî özerkliğe sahip bir kamu tüzel kişisi hâline gelir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3/a'da belirtilen 'Sınırları il mülki sınırı olan... idarî ve malî özerkliğe sahip... kamu tüzel kişisini' tanımına dayanmaktadır. Madde 4 uyarınca nüfus şartını sağlayan bir il belediyesi büyükşehir belediyesine dönüştüğünde, Madde 3'te tanımlanan bu nitelikleri kazanır.\n- Diğer seçenekler: A seçeneği 'karar organı seçmenler tarafından seçilerek oluşturulan' hükmüne, B seçeneği 'büyükşehir belediye meclisi, büyükşehir belediye encümeni ve büyükşehir belediye başkanı' olarak sayılan üç organa, C seçeneği 'ilçe belediyeleri arasında koordinasyonu sağlayan' ifadesine, D seçeneği ise 'Sınırları il mülki sınırı olan' tanımına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, bir il belediyesinin büyükşehir belediyesine dönüştürülmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Toplam nüfusu 750.000'den fazla olan illerin il belediyeleri, kanunla büyükşehir belediyesine dönüştürülebilir.",
+                "B": "Nüfusu 1.000.000'u aşan tüm il belediyeleri, herhangi bir işleme gerek kalmaksızın doğrudan büyükşehir belediyesi sayılır.",
+                "C": "Toplam nüfusu 750.000'den fazla olan il belediyeleri, Cumhurbaşkanı kararıyla büyükşehir belediyesine dönüştürülür.",
+                "D": "Nüfusu 500.000'i geçen herhangi bir ilçe belediyesi, kanunla büyükşehir belediyesi statüsü kazanabilir.",
+                "E": "Bir il belediyesinin büyükşehir belediyesine dönüştürülebilmesi için nüfusun yanı sıra sanayi ve ticaret hacmi kriterleri de aranır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Toplam nüfusu 750.000’den fazla olan illerin il belediyeleri kanunla büyükşehir belediyesine dönüştürülebilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen nüfus miktarını (B, D), dönüşüm usulünü (B, C) veya aranan şartları (E) hatalı belirttiği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, toplam nüfusu 800.000 olan bir il belediyesinin büyükşehir belediyesine dönüştürülmesi ve sınırlarının tespiti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Nüfus şartı sağlandığı için otomatik olarak büyükşehir belediyesine dönüşür ve sınırları merkez ilçe sınırları olur.",
+                "B": "Kanunla büyükşehir belediyesine dönüştürülebilir ve bu durumda sınırları il mülki sınırları olarak kabul edilir.",
+                "C": "Cumhurbaşkanı kararıyla büyükşehir belediyesine dönüştürülür ve sınırları, komşu ilçe belediyelerinin görüşü alınarak belirlenir.",
+                "D": "Büyükşehir belediyesine dönüşebilmesi için nüfusunun en az 1.000.000 olması gerekir.",
+                "E": "İl genel meclisi kararıyla büyükşehir belediyesine dönüştürülür ve ilçe belediyelerinin sınırları da bu kararla yeniden çizilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Toplam nüfusu 750.000’den fazla olan illerin il belediyeleri kanunla büyükşehir belediyesine dönüştürülebilir' hükmü ile Madde 5'teki 'Büyükşehir belediyelerinin sınırları, il mülki sınırlarıdır' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Dönüşümün otomatik olduğu, farklı bir makamın kararıyla yapıldığı, yanlış nüfus eşiği belirtildiği veya sınırların farklı bir usulle belirlendiği gibi kanunda yer almayan veya kanuna aykırı bilgiler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyelerinin kuruluşu ve sınırları hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bir il belediyesinin büyükşehir belediyesine dönüştürülmesi için toplam nüfusunun 750.000'den fazla olması gerekir.",
+                "B": "İl belediyelerinin büyükşehir belediyesine dönüştürülmesi işlemi kanunla gerçekleştirilir.",
+                "C": "Büyükşehir belediyesi kurulduğunda, bu belediyenin sınırları ilin mülki sınırları ile aynı olur.",
+                "D": "Büyükşehir belediyesi içindeki ilçe belediyelerinin sınırları, ilgili ilçelerin mülki sınırlarıdır.",
+                "E": "Nüfusu 750.000'i aşan bir ilin belediyesi, başka bir işleme gerek kalmaksızın büyükşehir belediyesi sayılır ve sınırları il mülki sınırları olur."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 4'te yer alan 'kanunla büyükşehir belediyesine dönüştürülebilir' hükmüne aykırıdır. Kanun, dönüşümün otomatik olmadığını, bir kanun çıkarılması gerektiğini belirtmektedir.\n- Diğer seçenekler: A ve B seçenekleri Madde 4'te, C ve D seçenekleri ise Madde 5'te yer alan doğru hükümlerdir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir ve ilçe belediyelerinin sınırları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Büyükşehir belediyelerinin sınırları il mülki sınırları, ilçe belediyelerinin sınırları ise bu ilçelerin mülki sınırlarıdır.",
+                "B": "Büyükşehir belediyelerinin sınırları, merkez ilçenin mülki sınırları olarak kabul edilir.",
+                "C": "İlçe belediyelerinin sınırları, büyükşehir belediye meclisinin kararıyla belirlenir.",
+                "D": "Büyükşehir belediyelerinin sınırları, toplam nüfusu 750.000'i aşan alanları kapsayacak şekilde çizilir.",
+                "E": "İl ve ilçe belediyelerinin sınırları, İçişleri Bakanlığının onayıyla kesinleşir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Büyükşehir belediyelerinin sınırları, il mülki sınırlarıdır. İlçe belediyelerinin sınırları, bu ilçelerin mülki sınırlarıdır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde yer alan sınır belirleme usulleri veya tanımlamalar kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, nazım imar plânının yürürlüğe girdiği tarihten itibaren, ilçe belediyelerinin uygulama imar plânlarını ve parselasyon plânlarını yapmamaları durumunda, büyükşehir belediyesinin bu plânları yapma veya yaptırma yetkisinin doğması için geçmesi gereken süre ne kadardır?",
+            "secenekler": {
+                "A": "Otuz gün",
+                "B": "Doksan gün",
+                "C": "Altı ay",
+                "D": "Bir yıl",
+                "E": "İki yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'nazım imar plânının yürürlüğe girdiği tarihten itibaren bir yıl içinde uygulama imar plânlarını ve parselasyon plânlarını yapmayan ilçe belediyelerinin uygulama imar plânlarını ve parselasyon plânlarını yapmak veya yaptırmak' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, aşağıdakilerden hangisi büyükşehir belediyesinin görev, yetki ve sorumlulukları arasında yer almaz?",
+            "secenekler": {
+                "A": "Coğrafî ve kent bilgi sistemlerini kurmak.",
+                "B": "Birinci sınıf gayrisıhhî müesseseleri ruhsatlandırmak ve denetlemek.",
+                "C": "İkinci ve üçüncü sınıf gayrisıhhî müesseseleri ruhsatlandırmak ve denetlemek.",
+                "D": "Hayvanat bahçeleri ve hayvan barınakları yapmak veya yaptırmak.",
+                "E": "İtfaiye ve acil yardım hizmetlerini yürütmek."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de ilçe belediyelerinin görevleri arasında sayılan 'Sıhhî işyerlerini, 2 nci ve 3 üncü sınıf gayrisıhhî müesseseleri, umuma açık istirahat ve eğlence yerlerini ruhsatlandırmak ve denetlemek' hükmüne dayanmaktadır. Bu görev ilçe belediyesine aittir.\n- Diğer seçenekler, aynı maddede büyükşehir belediyesinin görevleri arasında açıkça sayıldığı için yanlıştır. Büyükşehir belediyesi, birinci sınıf gayrisıhhî müesseseleri ruhsatlandırmakla görevlidir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin ulaşım hizmetleriyle ilgili aşağıdaki yetkilerinden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Büyükşehir ulaşım ana plânını yapmak veya yaptırmak.",
+                "B": "Taksi sayılarını ve bilet ücret tarifelerini belirlemek.",
+                "C": "Durak yerleri ile araç park yerlerini tespit etmek ve işletmek.",
+                "D": "Sivil hava ulaşımına açık havaalanları ve tesislerini ruhsatlandırmak.",
+                "E": "Ulaşım ve toplu taşıma hizmetlerini plânlamak ve koordinasyonu sağlamak."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'sivil hava ulaşımına açık havaalanları ve bu havaalanları bünyesinde yer alan tüm tesisler bu Kanunun kapsamı dışındadır' hükmüne dayanmaktadır.\n- Diğer seçeneklerde yer alan yetkiler, büyükşehir belediyesinin ulaşım ve toplu taşıma hizmetleri kapsamında sayılan görevler arasında yer aldığı için doğrudur."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesi, belediye meclisi kararı ile aşağıdaki görevlerden hangisini veya hangilerini ilçe belediyelerine devredebilir?\n\nI. Yolcu ve yük terminalleri yapmak\nII. Mezarlıklar tesis etmek\nIII. İtfaiye ve acil yardım hizmetlerini yürütmek",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de yer alan 'Büyükşehir belediyeleri birinci fıkranın (l), (s), (t) bentlerindeki görevleri ile temizlik hizmetleri ve adres ve numaralandırmaya ilişkin görevlerini belediye meclisi kararı ile ilçe belediyelerine devredebilir, birlikte yapabilirler' hükmüne dayanmaktadır. I. öncül (l) bendi, II. öncül ise (s) bendi kapsamında devredilebilir görevlerdendir.\n- III. öncülde belirtilen itfaiye hizmetleri, kanunda devredilebilecek görevler arasında sayılmadığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, ilçe belediyelerinin görev ve yetkileri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Büyükşehir ulaşım ana planını hazırlayarak büyükşehir belediyesinin onayına sunmak.",
+                "B": "Birinci sınıf gayrisıhhî müesseseleri ruhsatlandırmak ve denetlemek.",
+                "C": "Büyükşehir katı atık yönetim plânına uygun olarak, katı atıkları toplamak ve aktarma istasyonuna taşımak.",
+                "D": "İl düzeyinde doğal afetlerle ilgili planlamaları yapmak ve diğer bölgelere malzeme desteği vermek.",
+                "E": "Her çeşit toptancı hallerini ve mezbahaları yapmak veya yaptırmak."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de ilçe belediyelerinin görevleri arasında sayılan 'Büyükşehir katı atık yönetim plânına uygun olarak, katı atıkları toplamak ve aktarma istasyonuna taşımak' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen görevler, aynı maddede münhasıran büyükşehir belediyesine verilen görevler arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, alt yapı koordinasyon merkezi tarafından ortak programa alınan bir hizmet için kamu kurumunun bütçesinde yeterli ödenek bulunmaması üzerine büyükşehir belediyesince kaynak ayrılması durumunda, ilgili kamu kurumunun bu bedeli ertesi yıl bütçesinden belediyeye aktarmamasının hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlgili kamu kurumunun tüm ödenekleri alt yapı yatırım hesabına aktarılır.",
+                "B": "Sorumluluk, yönetmeliği çıkaran Çevre ve Şehircilik Bakanlığına geçer.",
+                "C": "Büyükşehir belediye başkanı, ilgili kurumun yatırım programını doğrudan iptal etme yetkisine sahip olur.",
+                "D": "Kamu kurumunun yöneticileri hakkında Maliye Bakanlığı tarafından soruşturma başlatılır.",
+                "E": "İlgili kamu kurumu, bu bedeli ödeyene kadar büyükşehir belediyesi sınırlarında yeni bir yatırım yapamaz."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Bu bedel ödenmeden ilgili kamu kurum veya kuruluşu, büyükşehir belediyesi sınırlarında yeni bir yatırım yapamaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda öngörülen yaptırımın yanlış yorumlanması veya maddede belirtilmeyen yetki ve sorumlulukların atfedilmesi nedeniyle hatalıdır. Kanun, bu durumda yaptırım olarak sadece yeni yatırım yasağı getirmektedir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, alt yapı koordinasyon merkezinin çalışma esas ve usulleri ile bu kurullara katılacak kamu kurum ve kuruluş temsilcilerini belirleyen yönetmeliği çıkarma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İçişleri Bakanlığı",
+                "B": "Maliye Bakanlığı",
+                "C": "Çevre ve Şehircilik Bakanlığı",
+                "D": "Devlet Planlama Teşkilatı Müsteşarlığı",
+                "E": "Büyükşehir belediye başkanı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de yer alan 'Alt yapı koordinasyon merkezinin çalışma esas ve usulleri ile bu kurullara katılacak kamu kurum ve kuruluş temsilcileri, Çevre ve Şehircilik Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumlar (Maliye Bakanlığı ve Devlet Planlama Teşkilatı Müsteşarlığı) yönetmeliğin sadece belirli kısımları için görüş bildirme yetkisine sahip olup yönetmeliği çıkarma yetkisine sahip değildirler. İçişleri Bakanlığı ve büyükşehir belediye başkanı ise bu konuda yetkili kılınmamıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, alt yapı koordinasyon merkezi ile ulaşım koordinasyon merkezinin çalışma esaslarını düzenleyen yönetmeliklerin çıkarılmasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her iki merkezin yönetmeliği de yalnızca İçişleri Bakanlığı tarafından çıkarılır.",
+                "B": "Alt yapı koordinasyon merkezinin yönetmeliği Çevre ve Şehircilik Bakanlığı tarafından, ulaşım koordinasyon merkezinin yönetmeliği ise Çevre ve Şehircilik Bakanlığı ile İçişleri Bakanlığı tarafından müştereken çıkarılır.",
+                "C": "Her iki merkezin yönetmeliği de Çevre ve Şehircilik Bakanlığı ile Maliye Bakanlığı tarafından müştereken çıkarılır.",
+                "D": "Ulaşım koordinasyon merkezinin yönetmeliği yalnızca Çevre ve Şehircilik Bakanlığı tarafından çıkarılırken, alt yapı koordinasyon merkezinin yönetmeliği için Devlet Plânlama Teşkilâtı Müsteşarlığının onayı gerekir.",
+                "E": "Alt yapı koordinasyon merkezinin yönetmeliği İçişleri Bakanlığı tarafından, ulaşım koordinasyon merkezinin yönetmeliği ise Çevre ve Şehircilik Bakanlığı tarafından çıkarılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 8'de alt yapı koordinasyon merkezinin çalışma esas ve usullerini belirleyen yönetmeliğin 'Çevre ve Şehircilik Bakanlığı tarafından çıkarılacağı' ve Madde 9'da ulaşım koordinasyon merkezine ilişkin yönetmeliğin 'Çevre ve Şehircilik Bakanlığı ile İçişleri Bakanlığı tarafından müştereken çıkarılacağı' hükümlerinin birleştirilmesine dayanmaktadır.\n- Diğer seçenekler, yönetmelikleri çıkaran bakanlıkları veya aralarındaki ilişkiyi yanlış belirttiği için hatalıdır. Örneğin, Maliye Bakanlığı ve Devlet Plânlama Teşkilâtı Müsteşarlığının sadece alt yapı yatırım hesabıyla ilgili kısımlarda görüşü alınır, yönetmeliği müştereken çıkarmazlar."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, Ulaşım Koordinasyon Merkezi tarafından alınan kararların yürürlüğe girmesi için aşağıdaki işlemlerden hangisinin tamamlanması zorunludur?",
+            "secenekler": {
+                "A": "İl trafik komisyonunun onayı",
+                "B": "Büyükşehir belediye başkanının onayı",
+                "C": "İçişleri Bakanlığının onayı",
+                "D": "Türkiye Şoförler ve Otomobilciler Federasyonunun onayı",
+                "E": "Çevre ve Şehircilik Bakanlığının onayı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Ulaşım koordinasyon merkezi kararları, büyükşehir belediye başkanının onayı ile yürürlüğe girer.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumlar, merkezin karar alma sürecine katılsalar veya çalışma usullerini düzenleyen yönetmelikte taraf olsalar da, nihai kararların yürürlüğe girmesi için onay yetkisine sahip değillerdir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, Ulaşım Koordinasyon Merkezinin çalışma esas ve usullerini belirleyen yönetmeliği hazırlama yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yalnızca Çevre ve Şehircilik Bakanlığı",
+                "B": "Yalnızca İçişleri Bakanlığı",
+                "C": "Çevre ve Şehircilik Bakanlığı ile İçişleri Bakanlığı tarafından müştereken",
+                "D": "Büyükşehir belediye başkanlığı",
+                "E": "Maliye Bakanlığının görüşü alınarak Çevre ve Şehircilik Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da yer alan 'Koordinasyon merkezinin çalışma esas ve usulleri ile bu kurullara katılacak kamu kurum ve kuruluş temsilcileri, Çevre ve Şehircilik Bakanlığı ile İçişleri Bakanlığı tarafından müştereken çıkarılan yönetmelikle belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve E seçenekleri, Altyapı Koordinasyon Merkezinin düzenlemeleriyle ilgili olup (Madde 8) bu soru için yanlış çeldiricilerdir. Diğer şıklarda belirtilen makamların ise böyle bir yetkisi bulunmamaktadır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, alt yapı koordinasyon merkezi ve ulaşım koordinasyon merkezi tarafından alınan kararların hukuki niteliği ve yürürlüğe girmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Alt yapı koordinasyon merkezi kararlarının yürürlüğe girmesi için büyükşehir belediye başkanının onayı gerekirken, ulaşım koordinasyon merkezi kararları onaya tabi değildir.",
+                "B": "Her iki merkezin kararları da alındığı anda doğrudan yürürlüğe girer ve tüm ilgililer için bağlayıcıdır.",
+                "C": "Ulaşım koordinasyon merkezi kararları büyükşehir belediye başkanının onayı ile yürürlüğe girerken, alt yapı koordinasyon merkezi kararlarının bağlayıcılığı için kanunda böyle bir onay şartı belirtilmemiştir.",
+                "D": "Yalnızca alt yapı koordinasyon merkezinin ortak yatırımla ilgili kararları bağlayıcı olup, ulaşım koordinasyon merkezinin tüm kararları tavsiye niteliğindedir.",
+                "E": "Her iki merkezin kararlarının da bağlayıcı olabilmesi için ilçe belediye başkanlarının oy birliği ile kabul edilmesi zorunludur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Ulaşım koordinasyon merkezi kararları, büyükşehir belediye başkanının onayı ile yürürlüğe girer.' hükmü ile Madde 8'de alt yapı koordinasyon merkezi kararları için böyle bir onay şartı öngörülmemesi ve kararların doğrudan 'bağlayıcı' olduğunun belirtilmesinin karşılaştırılmasına dayanmaktadır.\n- Diğer seçenekler: İki merkezin karar alma usullerini birbiriyle karıştırdığı, kararların niteliğini yanlış tanımladığı veya kanunda yer almayan şartlar (oy birliği gibi) öne sürdüğü için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, Ulaşım Koordinasyon Merkezi tarafından alınan kararların yürürlüğe girmesi için gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İçişleri Bakanlığının onayı",
+                "B": "Çevre ve Şehircilik Bakanlığının onayı",
+                "C": "İl trafik komisyonunun uygun görüşü",
+                "D": "Büyükşehir belediye meclisinin kararı",
+                "E": "Büyükşehir belediye başkanının onayı"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Ulaşım koordinasyon merkezi kararları, büyükşehir belediye başkanının onayı ile yürürlüğe girer.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumların veya mercilerin onayı, kanunda bu kararların yürürlüğe girmesi için bir şart olarak düzenlenmemiştir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, Ulaşım Koordinasyon Merkezi'nin üyeleri veya toplantılarına katılabilecekler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Büyükşehir belediye başkanı veya görevlendirdiği kişi",
+                "B": "Türkiye Şoförler ve Otomobilciler Federasyonunun görevlendireceği ilgili odanın temsilcisi",
+                "C": "Kendi belediyesini ilgilendiren konularda ilçe belediye başkanları",
+                "D": "İmar uygulamalarını denetlemekle görevli meslek kuruluşları",
+                "E": "Gündemdeki konularla ilgili görüşleri alınmak üzere davet edilen ihtisas meslek odaları temsilcileri"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9'da Ulaşım Koordinasyon Merkezi'nin üyeleri veya katılımcıları arasında sayılmadığı için D seçeneğidir.\n- A, B, C ve E seçeneklerinde belirtilen kişiler ve temsilciler, Madde 9'da merkezin başkanı, üyesi veya toplantılarına görüşleri alınmak üzere davet edilebilecekler arasında açıkça sayılmıştır. D seçeneğindeki ifade ise imar denetim yetkisiyle ilgili olup ulaşım koordinasyon merkeziyle bir ilgisi bulunmamaktadır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir ve ilçe belediyelerinin yetki, imtiyaz ve muafiyetlerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Görevli oldukları konularda, bu Kanun, Belediye Kanunu ve diğer mevzuat hükümleri ile belediyelere tanınan yetki, imtiyaz ve muafiyetlere sahiptirler.",
+                "B": "İlçe belediyeleri, yetkilerini yalnızca büyükşehir belediyesinin devrettiği ölçüde kullanabilir.",
+                "C": "Yetki, imtiyaz ve muafiyetler sadece bu Kanun ile sınırlıdır, Belediye Kanunu hükümleri büyükşehirler için uygulanmaz.",
+                "D": "Büyükşehir belediyeleri imtiyazlara, ilçe belediyeleri ise sadece muafiyetlere sahip olup yetkileri farklı kanunlarla düzenlenir.",
+                "E": "Belediyelerin bu yetkileri kullanabilmesi için her yıl valilikten özel izin almaları zorunludur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Büyükşehir ve ilçe belediyeleri; görevli oldukları konularda bu Kanunla birlikte Belediye Kanunu ve diğer mevzuat hükümleri ile ilgisine göre belediyelere tanınan yetki, imtiyaz ve muafiyetlere sahiptir' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen yetki kaynağını yanlış yorumladığı, belediyeler arasında hiyerarşi kurduğu veya kanunda yer almayan şartlar öngördüğü için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin ilçe belediyelerinin imar uygulamalarını denetlemesi sürecinde, denetim sonucunda belirlenen eksiklik ve aykırılıkların giderilmesi için ilgili belediyeye en fazla ne kadar süre verilir?",
+            "secenekler": {
+                "A": "Onbeş gün",
+                "B": "Bir ay",
+                "C": "Üç ay",
+                "D": "Altı ay",
+                "E": "Bir yıl"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Denetim sonucunda belirlenen eksiklik ve aykırılıkların giderilmesi için ilgili belediyeye üç ayı geçmemek üzere süre verilir.' hükmüne dayanmaktadır.\n- A seçeneğindeki onbeş günlük süre, denetim amacıyla istenen bilgi ve belgelerin verilme süresidir. Diğer seçeneklerde belirtilen süreler ise kanunda yer almamaktadır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin imar uygulamalarının denetiminde yardım alabileceği kurumlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Kamu kurum ve kuruluşları",
+                "B": "Üniversiteler",
+                "C": "Siyasi partiler",
+                "D": "Kamu kurumu niteliğindeki meslek kuruluşları",
+                "E": "Konu ile ilgili uzmanlaşmış kamu kuruluşları"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'İmar uygulamalarının denetiminde kamu kurum ve kuruluşlarından, üniversiteler ve kamu kurumu niteliğindeki meslek kuruluşlarından yararlanılabilir.' hükmüne dayanmaktadır.\n- Bu hükümde sayılan kurumlar arasında siyasi partiler yer almamaktadır. A, B, D ve E seçenekleri kanunda belirtilen kurumların kapsamına girmektedir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, bir ilçe belediyesinin imar planına aykırı bir yapılaşmaya izin verdiği ve bu durumun Ulaşım Koordinasyon Merkezi'nin belirlediği ana arter güzergâhını olumsuz etkilediği büyükşehir belediyesi tarafından tespit edilmiştir. Bu olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ulaşım Koordinasyon Merkezi kararları bağlayıcı olduğundan, büyükşehir belediyesi ilçe belediyesine herhangi bir süre vermeden imara aykırı uygulamayı derhal durdurabilir.",
+                "B": "Büyükşehir belediyesi, imar uygulamasındaki aykırılığın giderilmesi için ilgili ilçe belediyesine üç ayı geçmemek üzere bir süre vermeli, bu sürede giderilmezse kendisi gidermeye yetkili olmalıdır.",
+                "C": "İlçe belediyesinin imar yetkisi asli olduğundan, büyükşehir belediyesinin bu duruma müdahale etme yetkisi bulunmamaktadır.",
+                "D": "Konu, Çevre ve Şehircilik Bakanlığı ile İçişleri Bakanlığı'nın ortaklaşa çıkaracağı bir yönetmelikle çözülmelidir.",
+                "E": "Büyükşehir belediyesi, ilçe belediyesinden konuyla ilgili belgeleri talep edebilir ve bu belgelerin en geç üç ay içinde kendisine verilmesi gerekir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Denetim sonucunda belirlenen eksiklik ve aykırılıkların giderilmesi için ilgili belediyeye üç ayı geçmemek üzere süre verilir. Bu süre içinde eksiklik ve aykırılıklar giderilmediği takdirde, büyükşehir belediyesi eksiklik ve aykırılıkları gidermeye yetkilidir.' hükmüne dayanmaktadır. Sorudaki olay, bir imar uygulaması sorununu içermektedir ve bu durumda izlenecek usul kanunda açıkça belirtilmiştir.\n- Diğer seçenekler: A seçeneği, Ulaşım Koordinasyon Merkezi kararlarının bağlayıcılığını (Madde 9) imar denetim usulüyle (Madde 11) yanlış bir şekilde birleştirdiği; C seçeneği, kanunda açıkça tanınan denetim yetkisini yok saydığı; D seçeneği, bakanlıkların yönetmelik çıkarma yetkisini münferit olay çözümüne teşmil ettiği; E seçeneği ise belge verme süresini (onbeş gün) aykırılığı giderme süresiyle (üç ay) karıştırdığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin yetkileri ve ilçe belediyeleri ile ilişkileri hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ulaşım Koordinasyon Merkezi tarafından toplu taşımaya ilişkin alınan kararlar, ilgili ilçe belediyeleri için bağlayıcı niteliktedir.",
+                "B": "Büyükşehir belediyesi, denetlediği bir ilçe belediyesindeki ruhsatsız yapıyla ilgili gerekli işlemin yapılması için ilgili belediyeye bildirimde bulunur.",
+                "C": "İlçe belediyesinin imara aykırı uygulamayı gidermemesi durumunda, büyükşehir belediyesi aynı konuyla ilgili olarak İmar Kanunu uyarınca iki kez ceza veremez.",
+                "D": "Büyükşehir belediyesinin imar denetimi kapsamında istediği her türlü bilgi ve belgenin, ilgili ilçe belediyesi tarafından en geç üç ay içinde verilmesi zorunludur.",
+                "E": "İlçe belediye başkanları, kendi belediyelerini ilgilendiren ulaşım konularının görüşüldüğü Ulaşım Koordinasyon Merkezi toplantılarına üye sıfatıyla katılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Bu amaçla istenecek her türlü bilgi ve belgeler en geç onbeş gün içinde verilir.' hükmüne dayanmaktadır. Seçenekte belirtilen üç aylık süre, imara aykırılıkların giderilmesi için tanınan süredir, belge temini için değil.\n- Diğer seçenekler: A ve E seçenekleri Madde 9'da, B ve C seçenekleri ise Madde 11'de yer alan doğru hükümlere dayandığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin yaptığı imar denetimi sonucunda bir eksiklik veya aykırılık tespit edilmesi durumunda, bu durumun giderilmesi için ilgili belediyeye tanınan süre ve bu süre sonunda aykırılık giderilmezse uygulanacak usulle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlgili belediyeye onbeş gün süre verilir ve bu süre sonunda büyükşehir belediyesi ilgili belediyeye idari para cezası uygular.",
+                "B": "İlgili belediyeye bir ay süre verilir ve bu süre sonunda konu doğrudan idari yargıya taşınır.",
+                "C": "İlgili belediyeye altı ay süre verilir ve bu süre sonunda aykırılığa konu olan yapı büyükşehir belediyesince mühürlenir.",
+                "D": "İlgili belediyeye herhangi bir süre verilmeksizin eksiklik ve aykırılıklar derhal büyükşehir belediyesi tarafından giderilir.",
+                "E": "İlgili belediyeye üç ayı geçmemek üzere süre verilir ve bu süre sonunda büyükşehir belediyesi eksiklik ve aykırılıkları gidermeye yetkili olur."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Denetim sonucunda belirlenen eksiklik ve aykırılıkların giderilmesi için ilgili belediyeye üç ayı geçmemek üzere süre verilir. Bu süre içinde eksiklik ve aykırılıklar giderilmediği takdirde, büyükşehir belediyesi eksiklik ve aykırılıkları gidermeye yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler veya hukuki sonuçlar, kanunda düzenlenen usule aykırı olduğu için yanlıştır. Onbeş günlük süre, denetim için bilgi ve belge verme süresidir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye meclisinin yapısı ve üyeleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Büyükşehir belediye meclisi, belediyenin denetim organıdır.",
+                "B": "Büyükşehir belediye başkanı, meclis üyeleri tarafından kendi aralarından seçilir.",
+                "C": "Büyükşehir içindeki diğer belediyelerin başkanları, meclisin doğal üyesidir.",
+                "D": "Meclisin çalışma usul ve esasları, büyükşehir belediyesinin kendi çıkaracağı bir yönetmelikle belirlenir.",
+                "E": "Meclis üyeleri, büyükşehir belediye başkanı tarafından atanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'büyükşehir içindeki diğer belediyelerin başkanları, büyükşehir belediye meclisinin doğal üyesidir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği yanlıştır çünkü meclis denetim değil, 'karar organı'dır. B, D ve E seçeneklerinde belirtilen başkanın statüsü, usullerin belirlenmesi ve üyelerin oluşumuna ilişkin ifadeler kanundaki düzenlemelere aykırıdır; zira başkan meclisin başkanıdır, usuller için Belediye Kanunu'na atıf yapılmıştır ve üyeler seçimle belirlenir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye meclisinin mutat toplantılarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Meclis, her ayın ikinci haftası, önceden belirlenen günde toplanır.",
+                "B": "Bütçe görüşmesi yapılan toplantılar en çok yirmi gün sürebilir.",
+                "C": "Meclis, kendi belirleyeceği bir ay tatil yapma hakkına sahiptir.",
+                "D": "Bütçe dışındaki diğer toplantıların süresi en çok beş gündür.",
+                "E": "Zorunlu durumlarda toplantı, belediye hudutları dışında da yapılabilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'belediye hudutları dahilinde meclis başkanının belirlediği yerde toplantı yapılır' hükmüne dayanmaktadır. Toplantı yerinin zorunlu hallerde değiştirilmesi ancak belediye sınırları içinde mümkündür. - Diğer seçeneklerde belirtilen toplantı zamanı, bütçe ve diğer toplantıların azami süreleri ile meclisin tatil hakkı kanunda doğru bir şekilde düzenlenmiştir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye başkanının meclisi acil durumlarda olağanüstü toplantıya çağırmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bir yılda en fazla beş defa olağanüstü toplantı çağrısı yapılabilir.",
+                "B": "Olağanüstü toplantı çağrısı ve gündemi en az yedi gün önceden üyelere duyurulur.",
+                "C": "Olağanüstü toplantılarda, çağrıyı gerektiren konuların yanı sıra meclisin gerekli gördüğü diğer konular da görüşülebilir.",
+                "D": "Her olağanüstü toplantı, süresi bir birleşimi geçmeyecek şekilde yapılır.",
+                "E": "Olağanüstü toplantı kararı, mahallin en büyük mülkî idare amirinin onayı ile kesinleşir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'her toplantı bir birleşimi geçmemek üzere toplantıya çağırır' hükmüne dayanmaktadır. - Diğer seçenekler: Kanuna göre olağanüstü toplantı bir yılda üç defadan fazla yapılamaz, çağrı en az üç gün önceden duyurulur ve toplantıda sadece çağrıyı gerektiren konular görüşülebilir. Mülki idare amirinin onayı ise bu süreçte yer almaz."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir kapsamındaki ilçe belediye meclisleri tarafından alınan imara ilişkin kararlar, büyükşehir belediye meclisinde belirli bir süre içinde görüşülmediği takdirde onaylanmış sayılır. Bu süre ne kadardır?",
+            "secenekler": {
+                "A": "Yedi gün",
+                "B": "On beş gün",
+                "C": "Bir ay",
+                "D": "Üç ay",
+                "E": "Altı ay"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Üç ay içinde büyükşehir belediye meclisinde görüşülmeyen kararlar onaylanmış sayılır' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler, kanunda farklı usuller veya konular için öngörüldüğünden yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye başkanının hukuka aykırı gördüğü bir meclis kararını iade etmesi üzerine, meclisin bu kararda ısrar edebilmesi için gereken karar yeter sayısı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Toplantıya katılanların salt çoğunluğu",
+                "B": "Üye tam sayısının üçte iki çoğunluğu",
+                "C": "Üye tam sayısının salt çoğunluğu",
+                "D": "Toplantıya katılanların üçte iki çoğunluğu",
+                "E": "Meclis başkanının oyunun da dahil olduğu oybirliği"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'yeniden görüşülmesi istenip de büyükşehir belediye meclisi üye tam sayısının salt çoğunluğuyla ısrar edilen kararlar kesinleşir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen karar yeter sayıları, kanunun bu özel durumu için öngördüğü çoğunluk türü olmadığından yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin ilçe belediyeleri üzerindeki imar yetkileriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Büyükşehir belediyesi, denetim sonucunda belirlediği eksikliklerin giderilmesi için ilgili belediyeye üç ayı geçmemek üzere süre verebilir.",
+                "B": "İlçe belediye meclislerince alınan imara ilişkin kararlar, büyükşehir belediye meclisi tarafından nazım imar plânına uygunluğu yönünden incelenir.",
+                "C": "İlçe belediye meclisinin imara ilişkin bir kararı, büyükşehir belediye meclisinde üç ay içinde görüşülmezse reddedilmiş sayılır.",
+                "D": "Büyükşehir belediyesi, denetim amacıyla ilçe belediyelerinden istediği her türlü bilgi ve belgenin en geç onbeş gün içinde verilmesini talep edebilir.",
+                "E": "Belirlenen imara aykırı bir uygulama ilgili belediye tarafından üç ay içinde giderilmezse, büyükşehir belediyesi İmar Kanununda belirtilen yetkilerini kullanabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te yer alan 'Üç ay içinde büyükşehir belediye meclisinde görüşülmeyen kararlar onaylanmış sayılır.' hükmüne dayanmaktadır. Bu hükmün aksine, seçenekte kararın reddedilmiş sayılacağı belirtilmiştir.\n- Diğer seçenekler: Madde 11 ve Madde 14'te belirtilen büyükşehir belediyesinin imar denetim yetkisi ve ilçe belediye meclis kararlarını inceleme usulüne ilişkin doğru bilgiler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye meclisinin toplantı usulü ve kararlarının hukuki süreciyle ilgili olarak;\n\nI. Belediye başkanı, hukuka aykırı gördüğü meclis kararını yedi gün içinde yeniden görüşülmek üzere iade edebilir.\nII. Acil durumlarda belediye başkanı tarafından çağrılan olağanüstü toplantılar bir yılda üç defadan fazla olamaz.\nIII. Meclisin ısrarı ile kesinleşen kararlar aleyhine belediye başkanının idari yargıya başvurma imkânı bulunmaktadır.\n\ndurumlarından hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, metinde belirtilen hükümlerin tümünün doğru olmasına dayanmaktadır. Madde 14, başkanın hukuka aykırı kararları yedi gün içinde iade edebileceğini ve meclisin ısrarı ile kesinleşen kararlar aleyhine idari yargıya başvurabileceğini belirtir. Madde 13 ise başkanın meclisi bir yılda üç defadan fazla olmamak üzere olağanüstü toplantıya çağırabileceğini düzenlemektedir.\n- Tüm öncüller kanun metinlerindeki ilgili maddelerle (Madde 13 ve 14) birebir uyumlu olduğundan, diğer seçenekler eksik bilgi içerdiği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir kapsamındaki bir ilçe belediye meclisinin aldığı imara ilişkin bir karar, büyükşehir belediye meclisine ulaştıktan sonra üç ay içinde görüşülmezse, bu durumun hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Karar, incelenmek üzere ilgili ilçe belediye meclisine iade edilmiş sayılır.",
+                "B": "Karar, büyükşehir belediye başkanı tarafından resen reddedilmiş kabul edilir.",
+                "C": "Karar, onaylanmış sayılır.",
+                "D": "Kararın yürürlüğe girmesi için mahallin en büyük mülkî idare amirinin onayı gerekir.",
+                "E": "Karar, nazım imar planına aykırı olduğu gerekçesiyle kendiliğinden geçersiz olur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Üç ay içinde büyükşehir belediye meclisinde görüşülmeyen kararlar onaylanmış sayılır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen sonuçlar (iade, reddetme, mülki amir onayı veya kendiliğinden geçersizlik) kanunda bu durum için öngörülmemiştir ve yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, bir ilçe belediyesinden gelen imara ilişkin kararın büyükşehir belediye meclisince incelenmesi ve karara bağlanması süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İmar komisyonu, konunun kendisine havale edilmesinden itibaren en fazla on işgünü içinde raporunu meclise sunmalıdır.",
+                "B": "Komisyon raporunu süresinde sunmazsa, konu meclis başkanlığı tarafından doğrudan meclis gündemine alınır.",
+                "C": "İlçe belediyesinden gelen karar, büyükşehir belediye meclisi tarafından nazım imar plânına uygunluğu yönünden incelenir.",
+                "D": "Büyükşehir belediye meclisi, kararın gelişinden itibaren üç ay içinde görüşmezse karar reddedilmiş sayılır.",
+                "E": "Meclis tarafından değiştirilerek kabul edilen karar, kesinleştikten sonra yürürlüğe girmesi için mahallin en büyük mülkî idare amirine gönderilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Üç ay içinde büyükşehir belediye meclisinde görüşülmeyen kararlar onaylanmış sayılır.' hükmüne dayanmaktadır. Seçenekte ise bu kararların reddedilmiş sayılacağı belirtilerek yanlış bir bilgi verilmiştir.\n- Diğer seçenekler: A ve B seçenekleri Madde 15'te belirtilen komisyonların çalışma usullerine, C ve E seçenekleri ise Madde 14'te yer alan imar kararlarının incelenmesi ve kesinleşmesi süreçlerine ilişkin doğru ifadelerdir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, aşağıdakilerden hangisi büyükşehir belediye meclisinde kurulması zorunlu olan ihtisas komisyonları arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "İmar ve bayındırlık komisyonu",
+                "B": "Çevre ve sağlık komisyonu",
+                "C": "Plân ve bütçe komisyonu",
+                "D": "Hukuk ve tarifeler komisyonu",
+                "E": "Eğitim, kültür, gençlik ve spor komisyonu"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'İmar ve bayındırlık komisyonu, çevre ve sağlık komisyonu, plân ve bütçe komisyonu, eğitim, kültür, gençlik ve spor komisyonu ile ulaşım komisyonunun kurulması zorunludur.' hükmüne dayanmaktadır.\n- Diğer seçenekler kanunda kurulması zorunlu komisyonlar arasında açıkça sayılmışken, 'Hukuk ve tarifeler komisyonu' bu listede yer almamaktadır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, ihtisas komisyonlarının çalışma usulleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İmar komisyonu, meclis toplantısını takiben en fazla on işgünü içinde toplanarak kendisine havale edilen işleri sonuçlandırır.",
+                "B": "Komisyon toplantılarına oy hakkı olmaksızın katılan uzman kişilerin görüş bildirme yetkisi yoktur.",
+                "C": "Komisyon raporunu belirlenen sürede meclise sunmazsa, konu meclis başkanlığı tarafından doğrudan meclis gündemine alınır.",
+                "D": "İmar komisyonu dışındaki diğer komisyonlar, kendilerine havale edilen işleri beş iş günü içinde sonuçlandırır.",
+                "E": "İhtisas komisyonlarının görev alanına giren işler, bu komisyonlarda görüşüldükten sonra büyükşehir belediye meclisinde karara bağlanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 15'te yer alan '...davet edilen uzman kişiler, oy hakkı olmaksızın ihtisas komisyonu toplantılarına katılabilir ve görüş bildirebilir.' hükmüne dayanmaktadır. Bu hüküm, uzmanların görüş bildirebileceğini açıkça belirtmektedir.\n- Diğer seçeneklerde yer alan ifadeler (A, C, D, E), komisyonların toplanma süreleri, rapor sunulmaması halinde izlenecek usul ve kararların mecliste görüşülmesi gibi konularda kanundaki düzenlemelerle birebir uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye encümeninin yapısı ve işleyişi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Belediye başkanının katılamadığı toplantılarda, encümene genel sekreter başkanlık eder.",
+                "B": "Belediye meclisinin kendi üyeleri arasından seçeceği üyelerin görev süresi iki yıldır.",
+                "C": "Belediye başkanının birim amirleri arasından seçeceği beş üye arasında imar işleri birim amiri de bulunur.",
+                "D": "Encümenin seçilmiş üyeleri ile memur üyelerine aynı miktarda aylık brüt ödenek verilir.",
+                "E": "Belediye meclisi, kendi üyeleri arasından yedi üyeyi encümen için gizli oyla seçer."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Belediye başkanının katılamadığı toplantılarda, encümen toplantılarına genel sekreter başkanlık eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen görev süresi (bir yıl), memur üyelerin kimliği (genel sekreter ve malî hizmetler birim amiri), ödenek miktarı (memur üyelere yarısı) ve meclisten seçilecek üye sayısı (beş üye) ile ilgili yanlış bilgiler içerdiği için hatalıdır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin organlarından olan ihtisas komisyonları ile belediye encümeninin oluşumuna ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hem encümenin hem de ihtisas komisyonlarının tüm üyeleri belediye meclisi üyeleri arasından seçilir.",
+                "B": "Belediye encümenine seçilecek beş üye, her siyasi parti grubunun meclisteki oranına göre belirlenir.",
+                "C": "Belediye encümeninin meclisten seçilen üyeleri bir yıl için gizli oyla belirlenirken, ihtisas komisyonları siyasi parti gruplarının meclisteki üye sayısına göre oranlanarak oluşur.",
+                "D": "İmar ve bayındırlık komisyonuna, belediye başkanının atadığı genel sekreter ve malî hizmetler birim amiri doğal üye olarak katılır.",
+                "E": "Belediye başkanı, hem ihtisas komisyonlarının hem de belediye encümeninin doğal başkanıdır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'belediye meclisinin kendi üyeleri arasından bir yıl için gizli oyla seçeceği beş üye' hükmü ile Madde 15'teki 'ihtisas komisyonları, her siyasî parti grubunun (...) üye sayısının meclis üye tam sayısına oranlanması suretiyle oluşur' hükmünün birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: Encümenin birim amirlerinden de oluşması (A), encümen seçiminin gizli oyla yapılması (B), birim amirlerinin encümene katılması (D) ve belediye başkanının sadece encümene başkanlık etmesi (E) nedenleriyle yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, belediye başkanının katılamadığı toplantılarda büyükşehir belediye encümenine aşağıdakilerden hangisi başkanlık eder?",
+            "secenekler": {
+                "A": "Genel sekreter",
+                "B": "Malî hizmetler birim amiri",
+                "C": "Meclis tarafından seçilen üyelerden en yaşlı olanı",
+                "D": "Belediye başkanının o toplantı için görevlendireceği herhangi bir birim amiri",
+                "E": "Encümenin seçilmiş üyeleri arasından gizli oyla belirlenen bir üye"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Belediye başkanının katılamadığı toplantılarda, encümen toplantılarına genel sekreter başkanlık eder.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kişiler veya usuller, kanunda bu yetki için tanımlanmamıştır. Kanun, bu görevi açıkça ve sadece genel sekretere verdiği için diğer tüm şıklar yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye başkanı ve belediye encümeni ile ilgili olarak;\n\nI. Belediye başkanı, encümenin doğal başkanı olup bu organın kararlarını uygulamakla görevlidir.\nII. Belediye başkanının katılamadığı durumlarda encümen toplantılarına, encümenin memur üyelerinden olan genel sekreter başkanlık eder.\nIII. Encümenin memur üyelerine ödenen aylık brüt ödenek, meclis tarafından seçilen üyelere ödenen miktarla aynıdır.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16 ve 18'de yer alan hükümlere dayanmaktadır. Madde 16'ya göre belediye başkanı encümenin başkanıdır ve katılamadığında genel sekreter başkanlık eder; Madde 18'e göre ise başkan, encümen kararlarını uygulamakla görevlidir. Bu nedenle I ve II numaralı öncüller doğrudur.\n- Diğer seçenekler: III numaralı öncül, Madde 16'da yer alan 'Encümenin memur üyelerine bu miktarın yarısı ödenir' hükmüne aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, aşağıdakilerden hangisi büyükşehir ve ilçe belediye başkanlarının görevlerinin devamı süresince yapmaları yasaklanan faaliyetlerden biri değildir?",
+            "secenekler": {
+                "A": "Siyasi partilerin yönetim organlarında görev almak.",
+                "B": "Profesyonel spor kulüplerinin başkanlığını yapmak.",
+                "C": "Siyasi partilerin denetim organlarında görev almak.",
+                "D": "Profesyonel spor kulüplerinin yönetiminde bulunmak.",
+                "E": "Amatör spor kulüplerinin yönetiminde görev almak."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'profesyonel spor klüplerinin başkanlığını yapamaz ve yönetiminde bulunamaz' hükmüne dayanmaktadır. Kanun, yasağı açıkça 'profesyonel' spor kulüpleri ile sınırlandırmış olup amatör kulüplerle ilgili bir yasaklama getirmemiştir.\n- Diğer seçenekler, Madde 17'de belediye başkanları için görevleri süresince yapılması yasaklanan faaliyetler olarak açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye başkanının statüsü ve seçimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Belediye meclisi tarafından bir yıllık süre için gizli oyla seçilir.",
+                "B": "Büyükşehir belediye başkan vekili, yalnızca büyükşehir kapsamındaki ilçe belediye başkanları arasından belirlenir.",
+                "C": "Görevi süresince herhangi bir siyasi partinin üyesi olması yasaklanmıştır.",
+                "D": "Büyükşehir belediyesi sınırları içindeki seçmenler tarafından doğrudan seçilir.",
+                "E": "Belediye teşkilatının en üst amiri olmasına rağmen, belediyenin tüzel kişiliğini genel sekreter temsil eder."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 17'de yer alan 'Büyükşehir belediye başkanı, ilgili kanunda gösterilen esas ve usullere göre büyükşehir belediyesi sınırları içindeki seçmenler tarafından doğrudan seçilir' hükmüne dayanmaktadır.\n- A seçeneği encümen üyelerinin seçim usulünü tanımlamaktadır. B ve C seçenekleri kanundaki düzenlemelere aykırıdır. E seçeneği ise belediyenin tüzel kişiliğini belediye başkanının temsil etmesi kuralına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye başkanının görevleri, yetkileri ve yasakları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Belediye teşkilatının en üst amiri olarak belediyeyi sevk ve idare eder.",
+                "B": "Görevi süresince profesyonel spor kulüplerinin yönetiminde bulunamaz.",
+                "C": "Büyükşehir belediye meclisi ve encümenine başkanlık eder.",
+                "D": "Büyükşehir kapsamındaki bir ilçe belediye başkanını, başkan vekili olarak görevlendirebilir.",
+                "E": "Encümene, her yıl birim amirleri arasından genel sekreter ve malî hizmetler birim amirinin de aralarında bulunduğu beş üye seçer."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'büyükşehir kapsamındaki ilçe belediye başkanları büyükşehir belediye başkan vekili olamaz' hükmüne dayanmaktadır. Bu nedenle, başkanın bir ilçe belediye başkanını vekil olarak görevlendirmesi mümkün değildir.\n- Diğer seçenekler: Madde 16, 17 ve 18'de belirtilen belediye başkanının görev, yetki ve yasaklarına ilişkin doğru ifadeler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye başkanının görev ve yetkileriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Belediye teşkilatının en üst amiri olarak belediye teşkilatını sevk ve idare etmek.",
+                "B": "Belediyeyi stratejik plâna uygun olarak yönetmek ve belediye faaliyetlerinin performans ölçütlerini belirlemek.",
+                "C": "Yetkili organların kararını almaksızın, belediye adına tek başına sözleşme yapmak ve karşılıksız bağışları kabul etmek.",
+                "D": "Bütçede yoksul ve muhtaçlar için ayrılan ödeneği kullanmak ve engelli merkezleri oluşturmak.",
+                "E": "Mahkemelerde davacı veya davalı sıfatıyla belediyeyi temsil etmek veya avukatlara temsil ettirmek."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Yetkili organların kararını almak şartıyla, büyükşehir belediyesi adına sözleşme yapmak, karşılıksız bağışları kabul etmek ve gerekli tasarruflarda bulunmak.' hükmüne dayanmaktadır. Belediye başkanının bu işlemleri yapabilmesi için tek başına hareket etmesi değil, yetkili organların kararını alması şarttır.\n- Diğer seçenekler: Madde 18'de büyükşehir belediye başkanının görev ve yetkileri arasında açıkça sayıldığı için doğrudur."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, aşağıdakilerden hangisi büyükşehir belediye başkanının görev ve yetkileri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Belediye teşkilatının en üst amiri olarak belediye teşkilâtını sevk ve idare etmek.",
+                "B": "Büyükşehir belediye meclisi ve encümenine başkanlık etmek.",
+                "C": "Belediye personelini atamak ve bağlı kuruluşları denetlemek.",
+                "D": "İlçe belediyelerinin imar planlarını re'sen onaylamak.",
+                "E": "Gerektiğinde bizzat nikâh kıymak."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 18'de büyükşehir belediye başkanının görev ve yetkileri arasında 'ilçe belediyelerinin imar planlarını re'sen onaylamak' şeklinde bir yetki tanımlanmamış olmasına dayanmaktadır.\n- Diğer seçeneklerde yer alan ifadeler, Madde 18'de açıkça sayılan görev ve yetkiler arasında bulunmaktadır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye başkanının görev ve yetkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Büyükşehir belediyesi adına sözleşme yapabilmesi, yetkili organların kararını alması şartına bağlıdır.",
+                "B": "Hizmetlerin verimli yürütülmesi için kendisine yardımcı olmak üzere başkan yardımcısı atayabilir.",
+                "C": "Nüfusu iki milyonu aşan belediyelerde on beşi geçmemek üzere başkan danışmanı görevlendirebilir.",
+                "D": "Belediyenin hak ve menfaatlerini korumak amacıyla meclis kararı olmaksızın dava açabilir.",
+                "E": "Bağlı kuruluşların bütçe tasarılarını hazırlama görevi, ilgili kuruluşların kendi yöneticilerine aittir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Yetkili organların kararını almak şartıyla, büyükşehir belediyesi adına sözleşme yapmak' hükmüne dayanmaktadır.\n- Diğer seçenekler yanlıştır: B seçeneği, kanunda büyükşehir belediyesinde başkan yardımcısı bulunmayacağının belirtilmesiyle (Madde 21); C seçeneği, danışman sayısının en fazla on olmasıyla (Madde 20) çelişmektedir. D ve E seçenekleri ise Madde 18'de belirtilen yetkilerin kapsamına aykırıdır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, nüfusu üç milyon olan bir büyükşehir belediyesinin yeni seçilen başkanı, belediye teşkilatını ve kendi çalışma ekibini oluşturmak istemektedir. Bu başkanın personel ve teşkilat yönetimiyle ilgili aşağıdaki eylemlerinden hangisi hukuka uygun olur?",
+            "secenekler": {
+                "A": "Belediye teşkilatındaki daire başkanlıklarını veya müdürlükleri tek başına alacağı bir kararla birleştirmek.",
+                "B": "Kendisine yardımcı olması amacıyla bir adet başkan yardımcısı atamak.",
+                "C": "Niteliklerini uygun gördüğü on iki kişiyi başkan danışmanı olarak görevlendirmek.",
+                "D": "Danışmanlarının ücretini, genel sekreterin brüt aylığının %90'ı olarak belirlemek.",
+                "E": "Belediye personelini atamak ve belediye teşkilatını sevk ve idare etmek."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Belediye teşkilatının en üst amiri olarak belediye teşkilâtını sevk ve idare etmek' ve 'Belediye personelini atamak' hükümlerine dayanmaktadır. Bu, başkanın temel görev ve yetkileri arasındadır.\n- Diğer seçenekler: A seçeneği, birimlerin birleştirilmesinin meclis kararı gerektirmesi (Madde 21); B seçeneği, büyükşehir belediyesinde başkan yardımcısı bulunamayacağı (Madde 21); C ve D seçenekleri ise danışman sayısının nüfusa göre en fazla on olabilmesi ve ücretlerinin genel sekreter aylığının %75'ini aşamaması (Madde 20) nedenleriyle yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye meclisinin feshine neden olan eylem ve işlemlere katılan bir belediye başkanının görevine son verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İçişleri Bakanı",
+                "B": "Yargıtay",
+                "C": "Büyükşehir Belediye Meclisi",
+                "D": "Cumhurbaşkanı",
+                "E": "Danıştay"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen '...büyükşehir ve ilçe belediye başkanlarının görevlerine Danıştay kararıyla son verilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların, kanunda sayılan bu özel durumda belediye başkanının görevine son verme yetkisi bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye başkanının görevleri ve başkanlık statüsüyle ilgili olarak;\n\nI. Belediye meclisinin feshine yol açan eylem ve işlemlere katılması, başkanlık görevinin Danıştay kararıyla sona erdirilmesine neden olabilir.\nII. Nüfusu ikimilyonu aşan belediyelerde, en az dört yıllık yükseköğrenim mezunu olmak kaydıyla on kişiyi geçmemek üzere danışman görevlendirebilir.\nIII. Hizmetlerin etkili yürütülmesi için belediye başkanı adına ve onun direktifiyle hareket eden genel sekretere yardımcı olmak üzere başkan yardımcısı atanabilir.\n\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, I. öncülün Madde 19'daki 'büyükşehir belediye meclisinin feshine neden olan eylem ve işlemlere katılan... başkanlarının görevlerine Danıştay kararıyla son verilir' hükmüne ve II. öncülün Madde 20'deki danışman sayısı ve öğrenim şartına ilişkin hükümlere dayanmasıdır.\n- III. öncül: Madde 21'de 'Büyükşehir belediyesinde başkan yardımcısı bulunmaz' hükmü yer aldığı ve genel sekretere yardımcı olarak 'genel sekreter yardımcısı' atanabileceği belirtildiği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, başkan danışmanlarının statüsü ve mali hakları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Nüfusu ne olursa olsun tüm büyükşehir belediyelerinde en fazla on başkan danışmanı görevlendirilebilir.",
+                "B": "Danışman olarak görevlendirileceklerin en az on yıl kamu hizmeti tecrübesine sahip olması şarttır.",
+                "C": "Danışmanlara ödenecek brüt ücret, büyükşehir belediyesi genel sekreterine ödenen brüt aylık miktarının %75'ini aşamaz ve bu miktar belediye meclisi tarafından belirlenir.",
+                "D": "Danışmanların görev süresi, belediye başkanının görev süresinden bağımsız olarak en fazla iki yıl ile sınırlıdır.",
+                "E": "Danışman olarak belirli bir süre görev yapanlar, doğrudan memuriyete geçiş hakkı kazanırlar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Danışmanlara, her türlü ödemeler dâhil, büyükşehir belediyesi genel sekreterine ödenen brüt aylık miktarının % 75'ini aşmamak üzere belediye meclisinin belirlediği miktarda brüt ücret ödenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen danışman sayısı (A), öğrenim şartı (B), görev süresi (D) ve memuriyete geçiş hakkı tanınmaması (E) kurallarına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesi teşkilâtı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Teşkilât; norm kadro esaslarına uygun olarak genel sekreterlik, daire başkanlıkları ve müdürlüklerden oluşur.",
+                "B": "Teşkilât içindeki birimlerin kurulması, kaldırılması veya birleştirilmesi büyükşehir belediyesi meclisinin kararı ile olur.",
+                "C": "Hizmetlerin etkili ve verimli yürütülebilmesi için genel sekretere yardımcı olmak üzere genel sekreter yardımcısı atanabilir.",
+                "D": "Hizmetlerin yürütülmesi, belediye başkanı adına genel sekreter ve yardımcıları tarafından sağlanır.",
+                "E": "Büyükşehir belediyesinde hizmetlerin yürütülmesinden sorumlu olmak üzere başkan yardımcısı bulunur."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Büyükşehir belediyesinde başkan yardımcısı bulunmaz.' hükmüne dayanmaktadır. Kanun bu pozisyonu açıkça yasaklamıştır.\n- Diğer seçenekler, Madde 21'de yer alan teşkilâtın yapısı, birimlerin kurulma usulü, genel sekreter yardımcısı atanabilmesi ve hizmetlerin yürütülmesine ilişkin kuralların doğru birer ifadesi olduğu için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesi teşkilâtı ve personeli ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hizmetlerin etkili yürütülmesi için, genel sekretere yardımcı olmak üzere genel sekreter yardımcısı atanabilir.",
+                "B": "Büyükşehir belediyesinde, belediye başkanına yardımcı olmak üzere en az bir başkan yardımcısı bulunur.",
+                "C": "Teşkilât birimlerinin kurulması, kaldırılması veya birleştirilmesi belediye başkanının onayı ile gerçekleşir.",
+                "D": "Hizmetlerin yürütülmesi, belediye başkanından bağımsız olarak genel sekreterin sorumluluğundadır.",
+                "E": "Büyükşehir belediyesi teşkilâtı yalnızca genel sekreterlik ve daire başkanlıklarından oluşur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'genel sekretere yardımcı olmak üzere, norm kadroya uygun olarak genel sekreter yardımcısı atanabilir' hükmüne dayanmaktadır.\n- Diğer seçenekler yanlıştır çünkü kanuna göre; büyükşehir belediyesinde başkan yardımcısı bulunmaz, birimlerin kurulması belediye meclisi kararıyla olur, hizmetler başkanın direktifi ve sorumluluğu altında yürütülür ve teşkilat müdürlükleri de kapsar."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesi genel sekreterinin atanma usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Doğrudan büyükşehir belediye başkanı tarafından atanır ve ataması belediye meclisinin bilgisine sunulur.",
+                "B": "Belediye başkanının teklifi üzerine Çevre ve Şehircilik Bakanı tarafından atanır.",
+                "C": "Büyükşehir belediye meclisinin kararı ile atanır ve ataması Çevre ve Şehircilik Bakanı tarafından onaylanır.",
+                "D": "Encümen kararıyla atanır ve ataması ilk toplantıda meclisin bilgisine sunulur.",
+                "E": "Çevre ve Şehircilik Bakanının teklifi üzerine büyükşehir belediye başkanı tarafından atanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Genel sekreter, belediye başkanının teklifi üzerine Çevre ve Şehircilik Bakanı tarafından atanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Atama usulünü yanlış makamlar veya usullerle (doğrudan başkan, meclis kararı, encümen kararı, rollerin ters çevrilmesi) tanımladığı için hatalıdır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, belediye memurlarına ikramiye ödenmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Sözleşmeli ve işçi statüsünde çalışanlar bu ikramiyeden yararlanamaz.",
+                "B": "İkramiye, memurların başarı durumlarına göre verilir.",
+                "C": "Yılda en fazla iki kez ödeme yapılabilir.",
+                "D": "İkramiye ödenmesi için büyükşehir belediye meclisinin kararı gerekir.",
+                "E": "İkramiye verilecek memur sayısı, toplam memur sayısının %10'unu geçemez."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen ikramiyenin 'encümen kararıyla' ödeneceği hükmüne dayanmaktadır. Belediye meclisinin kararını gerektirmesi yanlıştır.\n- Diğer seçenekler: Kanunda belirtilen ikramiye şartlarını (yararlanamayacaklar, başarı durumu, sıklık, oran) doğru bir şekilde yansıttığı için doğrudur ve bu nedenle yanlış olan ifadeyi arayan soru köküne göre elenirler."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye başkanı tarafından atanan personelden hangilerinin ataması ilk toplantıda büyükşehir belediye meclisinin bilgisine sunulur?",
+            "secenekler": {
+                "A": "Sadece genel sekreter ve genel sekreter yardımcıları",
+                "B": "Sadece daire başkanları ve 1. hukuk müşaviri",
+                "C": "Müdür ve üstü unvanlı olanlar",
+                "D": "Sözleşmeli statüde çalışan uzman personel",
+                "E": "Encümen tarafından başarılı bulunan tüm memurlar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de yer alan 'Personelden müdür ve üstü unvanlı olanlar ilk toplantıda büyükşehir belediye meclisinin bilgisine sunulur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen bu kuralın kapsamını yanlış bir şekilde daralttığı veya ilgisiz personel gruplarını içerdiği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesi teşkilâtı ve personel istihdamı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Büyükşehir belediyesi teşkilâtındaki birimlerin kurulması, kaldırılması veya birleştirilmesi büyükşehir belediye meclisinin kararı ile olur.",
+                "B": "Genel sekreter, belediye başkanının teklifi üzerine Çevre ve Şehircilik Bakanı tarafından atanır.",
+                "C": "Hizmetlerin yürütülmesi, genel sekreter ve yardımcıları tarafından belediye başkanının direktifi ve sorumluluğu altında sağlanır.",
+                "D": "Büyükşehir belediyesi personeli genel olarak büyükşehir belediye başkanı tarafından atanır.",
+                "E": "Genel sekreter ataması, yapıldıktan sonraki ilk toplantıda büyükşehir belediye meclisinin onayına sunulur."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 22'de müdür ve üstü unvanlı personelin atanmasının ilk toplantıda büyükşehir belediye meclisinin 'bilgisine sunulacağının' belirtilmesine dayanmaktadır; meclisin onayı gibi bir şart öngörülmemiştir.\n- Diğer seçenekler: A ve C seçenekleri Madde 21'de, B ve D seçenekleri ise Madde 22'de yer alan doğru hükümlerdir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, ilçe belediyelerinin büyükşehir belediyesine veya bağlı kuruluşlara ödemesi gereken payları zamanında yatırmaması durumunda, gecikmeden kaynaklanacak faiz ve benzeri zararların tazmininden şahsen sorumlu olanlar aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Sadece ilgili ilçe belediye başkanı",
+                "B": "Büyükşehir belediye başkanı ve genel sekreter",
+                "C": "İlçe belediye meclisi üyelerinin tamamı",
+                "D": "Sadece ilgili ilçe belediyesinin saymanı",
+                "E": "İlgili ilçe belediye başkanı ve sayman"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen '...gecikmeden kaynaklanacak faiz ve benzeri her türlü zararın tazmininden, ilgili ilçe belediye başkanı ve sayman şahsen sorumludur.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kişiler veya kurullar, kanunda bu durum için öngörülen şahsi sorumluluk kapsamında yer almadığından yanlıştır. Kanun, bu sorumluluğu hem belediye başkanına hem de saymana birlikte ve şahsen yüklemiştir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre,\n\nI. Belediye memurlarına başarı durumlarına göre yılda en fazla iki kez ikramiye ödenmesine karar verilmesi\nII. Büyükşehir belediyesi iktisadî teşebbüslerinin safi hasılâtından alınacak hisse oranının belirlenmesi\nIII. Teşkilât bünyesindeki daire başkanlıkları gibi birimlerin kurulması veya birleştirilmesi\n\nyukarıdaki işlemlerden hangisinin veya hangilerinin yetkisi büyükşehir belediye meclisine aittir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 23'te iktisadî teşebbüslerden alınacak hisse oranının 'büyükşehir belediye meclisi tarafından belirleneceği' ve Madde 21'de birimlerin kurulmasının 'büyükşehir belediyesi meclisinin kararı ile' olacağı hükümlerine dayanmaktadır.\n- I. öncül: Madde 22'ye göre memurlara ikramiye ödenmesi 'encümen kararıyla' yapıldığı için yanlıştır."
+        },
+        {
+            "soru": "Bir büyükşehir belediyesi, işlettiği park yerlerinden elde ettiği gelirden ilçe belediyelerine ödemesi gereken payı zamanında aktarmamıştır. Alacaklı ilçe belediyesi bunun üzerine ilgili kuruma talepte bulunmuştur. 5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, bu olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlçe belediyesine ödenmesi gereken tutar, İller Bankası tarafından yükümlü belediyenin genel bütçe vergi gelirleri payından kesilerek alacaklı belediyenin hesabına aktarılır.",
+                "B": "Gecikmeden kaynaklanan faiz ve benzeri zararların tazmininden sadece büyükşehir belediyesi saymanı şahsen sorumludur.",
+                "C": "Park yeri gelirlerinin %50'si ilçe belediyelerine nüfuslarına göre dağıtılır, kalan %50'si ise büyükşehir belediyesine kalır.",
+                "D": "Anlaşmazlığın çözümü için ilçe belediyesinin öncelikle Çevre ve Şehircilik Bakanlığına başvurması gerekir.",
+                "E": "Gecikme faizi, büyükşehir belediyesinin bir sonraki yıl bütçesinden karşılanır ve şahsi sorumluluk doğurmaz."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'ilgili belediye veya bağlı kuruluşun talebi üzerine söz konusu tutar, İller Bankası tarafından, yükümlü belediyenin genel bütçe vergi gelirleri payından kesilerek alacaklı belediyenin hesabına aktarılır' hükmüne dayanmaktadır.\n- Diğer seçenekler: B ve E seçenekleri, kanunda 'belediye başkanı ve sayman şahsen sorumludur' denildiği için; C seçeneği, park yeri gelirlerinin ilçe belediyelerine dağıtılacak %50'sinden sonra kalacak %50'sinin büyükşehir belediyesine ait olduğu belirtilmektedir ancak olayla ilgisi olmadığı için; D seçeneği ise kanunda böyle bir başvuru mercii öngörülmediği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir ve ilçe belediyelerinin birbirlerine ödemeleri gereken payları zamanında yatırmamaları halinde, ilgili belediyenin talebi üzerine yükümlü belediyenin genel bütçe vergi gelirleri payından kesinti yaparak alacaklı belediyenin hesabına aktarma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İçişleri Bakanlığı",
+                "B": "Büyükşehir belediye meclisi",
+                "C": "İller Bankası",
+                "D": "Sayıştay",
+                "E": "Hazine ve Maliye Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen '...söz konusu tutar, İller Bankası tarafından, yükümlü belediyenin genel bütçe vergi gelirleri payından kesilerek alacaklı belediyenin hesabına aktarılır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumların bu konuda bir yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, müşterek bahislerden elde edilen Eğlence Vergisinin dağıtımına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Verginin %30'u, yarışların yapıldığı yerin belediyesine ayrılır.",
+                "B": "Verginin %20'si, nüfuslarına göre diğer ilçe belediyelerine dağıtılır.",
+                "C": "Verginin tamamı doğrudan büyükşehir belediyesinin geliri sayılır.",
+                "D": "Dağıtımlar yapıldıktan sonra kalan %50'lik kısım büyükşehir belediyesine aittir.",
+                "E": "Verginin %50'si, yarışların yapıldığı yerin belediyesine ayrılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen '...% 20’si müşterek bahislere konu olan yarışların yapıldığı yerin belediyesine, % 30’u nüfuslarına göre dağıtılmak üzere diğer ilçe belediyelerine ayrıldıktan sonra kalan % 50'si.' hükmüne dayanmaktadır.\n- Diğer seçeneklerdeki oranlar ve dağıtım esasları, kanunda belirtilen hükümle çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, aşağıdakilerden hangisi büyükşehir belediyesinin gelirleri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Şartlı ve şartsız bağışlar",
+                "B": "Kira, faiz ve ceza gelirleri",
+                "C": "Kamu idare ve müesseselerinin yardımları",
+                "D": "Sendikalara ödenen üyelik aidatları",
+                "E": "Büyükşehir belediyesinin taşınır ve taşınmaz mal gelirleri"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 23'te büyükşehir belediyesinin gelirleri arasında 'Sendikalara ödenen üyelik aidatları'nın sayılmamış olmasına dayanmaktadır. Bu bir gider kalemidir ve belediye geliri değildir.\n- Diğer seçenekler (A, B, C, E), Madde 23'te açıkça büyükşehir belediyesinin gelirleri arasında listelenmiştir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, aşağıdakilerden hangisi büyükşehir belediyesinin giderleri arasında yer almaz?",
+            "secenekler": {
+                "A": "Dar gelirli, yoksul, muhtaç ve kimsesizler ile engellilere yapılacak sosyal hizmet ve yardımlar.",
+                "B": "Temsil, tören, ağırlama ve tanıtım giderleri.",
+                "C": "Şartlı ve şartsız bağışlar.",
+                "D": "Belediyenin kuruluşuna katıldığı şirketlerle ilgili ortaklık payı ile üyelik aidatı giderleri.",
+                "E": "Büyükşehir belediye hizmetleriyle ilgili olarak yapılan kamuoyu yoklaması ve araştırması giderleri."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 24'te büyükşehir belediyesinin giderleri arasında sayılmayan 'Şartlı ve şartsız bağışlar' ifadesidir. Bu kalem, kanunun gelirleri düzenleyen maddesinde yer alan bir gelir türüdür.\n- Diğer seçenekler: Madde 24'te büyükşehir belediyesinin giderleri arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin malî hükümleriyle ilgili olarak;\n\nI. Dar gelirli, yoksul, muhtaç ve kimsesizler ile engellilere yapılacak sosyal hizmet ve yardımlar\nII. İktisadî teşebbüslerinin safi hasılâtından belediye meclisince belirlenen oranda alınan hisseler\nIII. Dava takip ve icra giderleri\nIV. Bağlı kuruluşların kesin hesaplarındaki gelirleri ile giderleri arasında oluşan fazlalık sonucu aktarılacak gelirler\n\nyukarıdakilerden hangisi veya hangileri belediyenin giderleri arasında sayılmıştır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve III",
+                "C": "II ve IV",
+                "D": "II ve III",
+                "E": "I, II ve IV"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen 'Dar gelirli... yapılacak sosyal hizmet ve yardımlar' ile 'Dava takip ve icra giderleri' hükümlerine dayanmaktadır. Bu iki kalem, büyükşehir belediyesinin giderleri arasında sayılmıştır. II ve IV numaralı öncüllerde yer alan kalemler ise Madde 23 uyarınca belediyenin gelirleri arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, aşağıdakilerden hangisi büyükşehir belediyesinin giderleri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Belediye personeline ve seçilmiş organlarının üyelerine ödenen maaş, ücret ve ödenekler.",
+                "B": "Mezarlıkların tesisi, korunması ve bakımına ilişkin giderler.",
+                "C": "Dar gelirli, yoksul, muhtaç ve kimsesizlere yapılacak sosyal hizmet ve yardımlar.",
+                "D": "Siyasi partilerin il ve ilçe teşkilatlarına yapılan mali yardımlar.",
+                "E": "Temsil, tören, ağırlama ve tanıtım giderleri."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 24'te büyükşehir belediyesinin giderleri arasında 'Siyasi partilerin il ve ilçe teşkilatlarına yapılan mali yardımlar' şeklinde bir kalem sayılmamıştır.\n- Diğer seçeneklerde belirtilen personel ödemeleri, mezarlık giderleri, sosyal yardımlar ile temsil ve ağırlama giderleri, ilgili maddede açıkça sayılan gider türleri arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye meclisince ilçe belediye bütçelerinde yapılan değişikliklere karşı yapılacak itirazlar ve bu itirazların karara bağlanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İtirazlar on beş gün içinde İçişleri Bakanlığına yapılır ve Bakanlık otuz gün içinde karar verir.",
+                "B": "İtirazlar on gün içinde Danıştaya yapılır ve Danıştay itirazı otuz gün içinde karara bağlar.",
+                "C": "İtirazlar yedi gün içinde Sayıştaya yapılır ve Sayıştay altmış gün içinde incelemesini tamamlar.",
+                "D": "Yapılan değişikliklere karşı itiraz yolu kapalı olup, büyükşehir belediye meclisi kararları kesindir.",
+                "E": "İtirazlar otuz gün içinde valiliğe yapılır ve valilik on beş gün içinde kararını bildirir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Büyükşehir belediye meclisince ilçe (...) belediye bütçelerinde yapılan değişikliklere karşı on gün içinde Danıştaya itiraz edilebilir. Danıştay, itirazı otuz gün içinde karara bağlar.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen itiraz süresi, itiraz mercii veya karara bağlama süresi kanundaki düzenlemeyle uyuşmadığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye meclisinin, ilçe belediyelerinin bütçelerini kabul ederken sahip olduğu yetkiler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Belediyenin tahsile yetkili olmadığı gelirleri bütçeden çıkarmak.",
+                "B": "Ortak yatırım programına alınan yatırımlar için gerekli ödeneği eklemek.",
+                "C": "Bütçe metnindeki kanuna aykırı madde ve ibareleri çıkarmak veya değiştirmek.",
+                "D": "Kesinleşmiş belediye borçları için bütçeye konulmamış ödeneği eklemek.",
+                "E": "Belediyenin kendisine ait sermaye şirketleri kurmasına onay vermek."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 25'te büyükşehir belediye meclisinin ilçe bütçelerini kabul ederken sahip olduğu yetkiler arasında 'sermaye şirketleri kurmasına onay vermek' gibi bir yetkinin sayılmamış olmasına dayanmaktadır. Bu konu farklı bir maddenin düzenleme alanına girmektedir.\n- Diğer seçenekler (A, B, C, D), Madde 25'te büyükşehir belediye meclisine açıkça tanınan yetkiler arasında yer aldığı için doğrudur."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, ilçe belediyesinin bütçesini inceleyen büyükşehir belediye meclisinin, yatırım ve hizmetlerde bütünlük sağlamak amacıyla aşağıdaki yetkilerden hangisine sahip olduğu söylenemez?",
+            "secenekler": {
+                "A": "Kesinleşmiş bir belediye borcu için bütçeye konulması gerekip de konulmamış ödeneği eklemeye",
+                "B": "İlçe belediyesinin tahsile yetkili olmadığı bir gelir kalemini bütçeden tamamen çıkarmaya",
+                "C": "Kanuni sınırların altında belirlenmiş olan harçların miktarını kanunda öngörülen sınırlarına çekmeye",
+                "D": "Büyükşehir belediyesi ile yürütülecek ortak yatırım programına alınan bir proje için gerekli ödeneği eklemeye",
+                "E": "Dar gelirli ve yoksullara yapılacak sosyal yardımlar için ayrılan ödeneği, hizmetin gereksiz olduğu gerekçesiyle bütçeden çıkarmaya"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 25'te büyükşehir belediye meclisine tanınan bütçe değiştirme yetkileri arasında, ilçe belediyesinin kanuna uygun olarak takdir ettiği bir sosyal yardım ödeneğini keyfi olarak kaldırma yetkisinin bulunmamasına dayanmaktadır. Madde 24'te sosyal hizmet ve yardımlar belediyenin giderleri arasında sayılmıştır.\n- Diğer seçenekler: A, B, C ve D şıklarında belirtilen hususlar, Madde 25'te büyükşehir belediye meclisine ilçe bütçeleri üzerinde tanınan yetkiler arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin mülkiyeti veya tasarrufundaki bazı yerlerin işletilmesinin devredilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Belediye şirketlerinin, kendilerine devredilen yerlerin işletmesini üçüncü kişilere devretmesi Devlet İhale Kanunu hükümlerine tabidir.",
+                "B": "İşletme devrinin süresi ve bedeli, büyükşehir belediye başkanı tarafından belirlenir.",
+                "C": "İşletme devri, yalnızca belediyenin sermayesinin tamamına sahip olduğu şirketlere yapılabilir.",
+                "D": "Genel sekreterin, işletmeyi devralan belediye şirketinin yönetim kurulunda görev alması kanunen mümkün değildir.",
+                "E": "Belediyenin, tasarrufundaki otoparkları bir şirketine devretmesi her durumda Devlet İhale Kanunu hükümlerine tabidir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'Ancak, bu yerlerin belediye şirketlerince üçüncü kişilere devri 2886 sayılı Kanun hükümlerine tabidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler yanlıştır çünkü; belediyenin kendi şirketine yaptığı ilk devir Devlet İhale Kanunundan muaftır, devir süresi ve bedelini belediye meclisi belirler, ortaklık payı sınırı %50'den fazladır ve genel sekreter ile yöneticilik sıfatını haiz personel bu şirketlerde görev alabilir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, mülkiyetindeki otoparkların işletmesini, sermayesinin %70'ine sahip olduğu bir şirkete devretmek isteyen bir büyükşehir belediyesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu devir işlemini yalnızca Devlet İhale Kanunu'nda belirtilen usullere göre gerçekleştirebilir.",
+                "B": "Belediye meclisince belirlenecek süre ve bedelle bu devri Devlet İhale Kanunu hükümlerine tabi olmaksızın yapabilir.",
+                "C": "Belediyenin bu şirkete ortak olması nedeniyle ortaya çıkan ortaklık payı giderleri, belediye bütçesinde gösterilemez.",
+                "D": "Söz konusu şirketin yönetim kurulunda belediyenin genel sekreterinin görev alması kanunen mümkün değildir.",
+                "E": "İşletmeyi devralan şirketin, bu otoparkları üçüncü bir kişiye devretmesi durumunda da Devlet İhale Kanunu hükümleri uygulanmaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'belediye veya bağlı kuruluşlarının % 50’sinden fazlasına ortak olduğu şirketlere, Devlet İhale Kanunu hükümlerine tabi olmaksızın belediye meclisince belirlenecek süre ve bedelle işletilmesini devredebilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve E seçenekleri Madde 26'daki ihale usulü kuralına, D seçeneği aynı maddedeki personel görevlendirmesine, C seçeneği ise Madde 24'te sayılan belediye giderlerine aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin mülkiyetindeki sosyal tesis, otopark ve çay bahçesi gibi yerlerin işletilmesinin devredilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu yerlerin işletilmesi, her durumda ve istisnasız olarak Devlet İhale Kanunu hükümlerine tabidir.",
+                "B": "Belediye, bu yerleri yalnızca sermayesinin tamamına sahip olduğu şirketlere devredebilir.",
+                "C": "Belediye şirketlerince bu yerlerin işletmesinin üçüncü kişilere devredilmesi Devlet İhale Kanunu hükümlerine tabidir.",
+                "D": "İşletme devrine ilişkin süre ve bedeli belirleme yetkisi, tek başına belediye başkanına aittir.",
+                "E": "Bu yerlerin işletme devri, belediye meclisi kararı olsa dahi en fazla on yıl süreyle yapılabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'Ancak, bu yerlerin belediye şirketlerince üçüncü kişilere devri 2886 sayılı Kanun hükümlerine tabidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen devir usulüne, yetkili makama veya şartlara aykırı bilgiler içerdiği için yanlıştır. Belediye, %50'sinden fazlasına ortak olduğu şirketlere Devlet İhale Kanunu'na tabi olmadan devir yapabilir ve bu devrin süre ve bedelini belediye meclisi belirler; kanunda bir süre sınırı öngörülmemiştir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesi ile ilçe belediyeleri arasında hizmetlerin yürütülmesiyle ilgili bir ihtilaf çıkması durumunda, yönlendirici ve düzenleyici kararlar alma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Büyükşehir belediye başkanı",
+                "B": "Büyükşehir belediye meclisi",
+                "C": "Genel sekreter",
+                "D": "İçişleri Bakanlığı",
+                "E": "Vali"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Büyükşehir belediyesi ile ilçe belediyeleri veya ilçe belediyelerinin kendi aralarında hizmetlerin yürütülmesiyle ilgili ihtilaf çıkması durumunda, büyükşehir belediye meclisi yönlendirici ve düzenleyici kararlar almaya yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda yönlendirici ve düzenleyici karar alma yetkisi bulunmamaktadır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin, yatırım programında yer alan projelerin finansmanı için ilçe belediyelerine malî yardım yapabilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yardım tutarı, kesinleşmiş en son yıl bütçe gelirinin %20'sini aşamaz.",
+                "B": "Yardım yapılabilmesi için sadece büyükşehir belediye başkanının teklifi yeterlidir.",
+                "C": "İlgili projenin ilçe belediyesinin yatırım programında yer alması şartı aranmaz.",
+                "D": "Yapılacak yardım, kesinleşmiş en son yıl bütçe gelirinin %10'unu aşmamalı ve bütçede ödeneği ayrılmış olmalıdır.",
+                "E": "Malî yardım kararı, büyükşehir belediye meclisinin onayı olmaksızın belediye başkanının onayı ile verilebilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'kesinleşmiş en son yıl bütçe gelirinin % 10’unu aşmamak ve bütçede ödeneği ayrılmış olmak şartıyla, ilgili belediyenin yatırım programında yer alan projelerin finansmanı için... malî ve aynî yardım yapabilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen oran, şart veya yetkili makam bilgilerine aykırı olduğu için yanlıştır. Yardım için hem belediye başkanının teklifi hem de meclisin kararı gereklidir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, imar mevzuatı uyarınca belediyelerin otoparkla ilgili olarak elde ettikleri gelirlerin kullanımına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Beş yıllık imar programına göre hazırlanan kamulaştırma projesi karşılığında kullanılabilir.",
+                "B": "Bölge otoparkı için gerekli arsa alımlarında kullanılabilir.",
+                "C": "Bölge otoparklarının inşasında kullanılabilir.",
+                "D": "Bu gelirlerin belirtilen amaçlar dışında kullanılması yasaklanmıştır.",
+                "E": "Acil durumlarda, belediye meclisi kararıyla belediyenin diğer yatırım harcamaları için kullanılabilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Bu gelirler bu fıkrada belirtilen amaç dışında kullanılamaz.' hükmüne dayanmaktadır. Kanun, otopark gelirlerinin sadece bölge otoparkı için arsa alımı ve inşası gibi belirli amaçlar için kullanılmasına izin vermekte ve başka bir amaçla kullanımını kesin bir dille yasaklamaktadır.\n- Diğer seçenekler: Kanunda belirtilen kullanım amaçları veya kısıtlamalarla uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesi ile bağlı kuruluşlarının birbirlerinin nakit ihtiyacını karşılamasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu tür ödünç vermelerde yasal faiz oranı uygulanması zorunludur.",
+                "B": "Nakit ihtiyacının karşılanabilmesi için büyükşehir belediye meclisinin kararı gerekir.",
+                "C": "Bu işlem sadece büyükşehir belediyesinin bağlı kuruluşlara borç vermesi şeklinde tek yönlü olabilir.",
+                "D": "Belediye başkanının onayı ile gerçekleştirilebilir ve bu ödünç vermelerde faiz uygulanmaz.",
+                "E": "Bağlı kuruluşlar, sadece kesinleşmiş bütçelerinin %10'u oranında nakit desteği alabilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Büyükşehir belediyesi ile bağlı kuruluşları, belediye başkanının onayı ile birbirlerinin nakit ihtiyacını karşılayabilir. Bu şekildeki ödünç vermelerde faiz uygulanmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yetkili makam, faiz durumu veya işleyişe ilişkin kurallara aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediye meclisinin yetkileriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Büyükşehir belediyesi ile ilçe belediyeleri arasında hizmetlerin yürütülmesiyle ilgili ihtilaf çıkması durumunda yönlendirici ve düzenleyici kararlar alır.",
+                "B": "Mülkiyeti belediyeye ait bir otoparkın, belediyenin %50’sinden fazlasına ortak olduğu bir şirkete işletilmesinin devredilmesinde süreyi ve bedeli belirler.",
+                "C": "Büyükşehir belediyesi ile bağlı kuruluşları arasında yapılacak faizsiz ödünç verme işlemlerine onay verir.",
+                "D": "İlgili belediyenin yatırım programında yer alan projelerin finansmanı için ilçe belediyelerine malî yardım yapılmasına karar verebilir.",
+                "E": "Maliyetleri düşüreceğinin anlaşıldığı durumlarda, birkaç kurumu ilgilendiren bir yatırımın hangi kuruluş tarafından yapılacağını kararlaştırabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Büyükşehir belediyesi ile bağlı kuruluşları, belediye başkanının onayı ile birbirlerinin nakit ihtiyacını karşılayabilir' hükmüne dayanmaktadır. Bu işleme belediye başkanı onay verir, meclis kararı aranmaz.\n- Diğer seçenekler: A, B, D ve E şıklarında belirtilen hususlar, sırasıyla Madde 27 ve Madde 26 uyarınca büyükşehir belediye meclisinin görev ve yetkileri arasında yer aldığı için doğrudur."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, bir büyükşehir belediyesi, mülkiyetindeki bir sosyal tesisi işletmek ve bir ilçe belediyesinin yatırım projesine de mali destek sağlamak istemektedir. Bu durumda aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sosyal tesisin işletmesini, %50’sinden fazlasına ortak olduğu bir şirkete devrederken Devlet İhale Kanunu hükümlerine uymak zorundadır.",
+                "B": "İlçe belediyesine yapacağı mali yardım, büyükşehir belediye başkanının teklifi ve meclisin kararıyla, kesinleşmiş en son yıl bütçe gelirinin %10'unu aşmamak şartıyla yapılabilir.",
+                "C": "İlçe belediyesine mali yardım yapılabilmesi için, büyükşehir belediyesinin bütçesinde ödenek ayrılmış olması şartı aranmaz.",
+                "D": "Sosyal tesisin işletmesini devrettiği kendi şirketi, bu işletmeyi bir üçüncü kişiye devrederken Devlet İhale Kanunu hükümlerinden muaftır.",
+                "E": "İlçe belediyesine yapılacak mali yardım için sadece büyükşehir belediye başkanının onayı yeterlidir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'kesinleşmiş en son yıl bütçe gelirinin % 10’unu aşmamak ve bütçede ödeneği ayrılmış olmak şartıyla, ilgili belediyenin yatırım programında yer alan projelerin finansmanı için büyükşehir belediye başkanının teklifi ve meclisin kararıyla ilçe belediyelerine malî ve aynî yardım yapabilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve D seçenekleri Madde 26'daki işletme devrine ilişkin kurallara, C ve E seçenekleri ise Madde 27'deki mali yardım şartlarına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesi ile ilçe belediyeleri arasında hizmetlerin yürütülmesiyle ilgili bir ihtilaf çıkması durumunda, yönlendirici ve düzenleyici kararlar alma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Büyükşehir belediye başkanı",
+                "B": "Büyükşehir belediye meclisi",
+                "C": "İçişleri Bakanlığı",
+                "D": "Vali",
+                "E": "Büyükşehir belediye encümeni"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'ihtilaf çıkması durumunda, büyükşehir belediye meclisi yönlendirici ve düzenleyici kararlar almaya yetkilidir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda bir yetkisi kanunda düzenlenmediği için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin, ilgili belediyenin yatırım programında yer alan projelerin finansmanı için ilçe belediyelerine malî yardım yapabilmesinin üst sınırı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yardım tutarı, kesinleşmiş en son yıl bütçe giderinin %5'ini aşamaz.",
+                "B": "Yardım tutarı, ilgili ilçe belediyesinin bütçesinin %10'unu aşamaz.",
+                "C": "Yardım tutarı, kesinleşmiş en son yıl bütçe gelirinin %20'sini aşamaz.",
+                "D": "Yardım tutarı, kesinleşmiş en son yıl bütçe gelirinin %10'unu aşamaz.",
+                "E": "Malî yardım için herhangi bir oransal üst sınır bulunmamaktadır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'kesinleşmiş en son yıl bütçe gelirinin % 10’unu aşmamak' şartına dayanmaktadır.\n- Diğer seçeneklerde yer alan oranlar veya şartlar kanundaki düzenlemeyle uyuşmadığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, imar mevzuatı uyarınca belediyelerin otoparkla ilgili olarak elde ettikleri gelirler, aşağıdaki amaçlardan hangisi için kullanılamaz?",
+            "secenekler": {
+                "A": "Bölge otoparkı için gerekli arsa alımları",
+                "B": "Beş yıllık imar programına göre hazırlanan kamulaştırma projesi karşılığında arsa alımları",
+                "C": "Bölge otoparklarının inşası",
+                "D": "Belediye personelinin maaşlarının ödenmesi",
+                "E": "Kamulaştırma projesi kapsamında bölge otoparkı yapımı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 27'de yer alan 'Bu gelirler bu fıkrada belirtilen amaç dışında kullanılamaz' hükmüne dayanmaktadır. Kanun, bu gelirlerin yalnızca 'bölge otoparkı için gerekli arsa alımları ile inşasında' kullanılacağını açıkça belirtmiştir.\n- A, B, C ve E seçenekleri kanunda belirtilen kullanım amaçları veya bu amaçlarla doğrudan ilişkili olduğu için doğru kabul edilirken, D seçeneğindeki amaç kanunda sayılmamıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesi ile bağlı kuruluşlarının birbirlerinin nakit ihtiyacını karşılaması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bu işlem için belediye başkanının onayı gereklidir.",
+                "B": "Bu şekildeki ödünç vermelerde faiz uygulanmaz.",
+                "C": "Ödünç verme işlemi için büyükşehir belediye meclisi kararı zorunludur.",
+                "D": "İşlem, büyükşehir belediyesi ile bağlı kuruluşları arasında yapılabilir.",
+                "E": "Bu işlem, kurumların nakit ihtiyacını karşılamak amacıyla yapılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Büyükşehir belediyesi ile bağlı kuruluşları, belediye başkanının onayı ile birbirlerinin nakit ihtiyacını karşılayabilir' hükmüne dayanmaktadır. Bu hükümde meclis kararı şartı aranmamıştır.\n- Diğer seçenekler: A, B, D ve E seçeneklerinde yer alan ifadeler kanun metnindeki düzenleme ile uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin malî imkânları, yardımları ve belediyeler arası ilişkileriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Büyükşehir belediyesi, ilçe belediyeleri ile ortak projeler geliştirebilir ve yatırım yapabilir.",
+                "B": "Büyükşehir belediyesi ile bağlı kuruluşları, belediye başkanının onayı ile birbirlerinin nakit ihtiyacını faiz uygulamaksızın karşılayabilir.",
+                "C": "İlçe belediyelerine yapılacak malî yardım, büyükşehir belediyesinin kesinleşmiş en son yıl bütçe gelirinin %10’unu aşmamalı ve bütçede ödeneği ayrılmış olmalıdır.",
+                "D": "Hizmetlerin yürütülmesiyle ilgili ilçe belediyeleri arasında ihtilaf çıkması durumunda, yönlendirici kararları büyükşehir belediye başkanı alır.",
+                "E": "Yapılacak bir yatırımın birden fazla kuruluşu ilgilendirmesi ve tek elden yapılmasının maliyeti düşüreceğinin anlaşılması halinde, büyükşehir belediye meclisi yatırımı kuruluşlardan birinin yapmasına karar verebilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Büyükşehir belediyesi ile ilçe belediyeleri veya ilçe belediyelerinin kendi aralarında hizmetlerin yürütülmesiyle ilgili ihtilaf çıkması durumunda, büyükşehir belediye meclisi yönlendirici ve düzenleyici kararlar almaya yetkilidir.' hükmüne dayanmaktadır. Bu yetki belediye başkanına değil, belediye meclisine aittir.\n- Diğer seçeneklerde belirtilen hususlar, aynı maddede yer alan doğru düzenlemelerdir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyesinin gelirlerinin kullanımı ve malî yardımlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İmar mevzuatı uyarınca otoparkla ilgili elde edilen gelirler, ilçe belediyelerine yapılacak malî ve aynî yardımların finansmanında öncelikli olarak kullanılabilir.",
+                "B": "İlçe belediyelerine malî yardım yapılabilmesi için sadece büyükşehir belediye başkanının teklifi ve ilgili belediyenin talebi yeterlidir.",
+                "C": "Otoparklardan elde edilen gelirler, beş yıllık imar programına göre hazırlanan kamulaştırma projesi karşılığında bölge otoparkı için arsa alımları ile inşası dışında bir amaçla kullanılamaz.",
+                "D": "Büyükşehir belediyesi ile bağlı kuruluşları arasındaki nakit alışverişlerinde, bütçe kanununda belirtilen oranda faiz uygulanması zorunludur.",
+                "E": "İlçe belediyelerine yapılacak malî yardımın üst sınırı, büyükşehir belediyesinin bir önceki yıl bütçe giderlerinin %10'udur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'İmar mevzuatı uyarınca belediyelerin otoparkla ilgili olarak elde ettikleri gelirler ... bölge otoparkı için gerekli arsa alımları ile inşasında kullanılır. Bu gelirler bu fıkrada belirtilen amaç dışında kullanılamaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği otopark gelirlerinin kullanım amacına aykırıdır; B seçeneği malî yardım için gerekli diğer şartları (meclis kararı, bütçe ödeneği, %10 sınırı) eksik belirtmektedir; D seçeneğinde faiz uygulanmayacağı açıkça belirtilmiştir; E seçeneğinde ise yardımın üst sınırı bütçe giderine değil, gelirine göre hesaplanır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, engelli hizmet birimlerinin kuruluş ve işleyişine ilişkin usûl ve esasları belirleyen yönetmeliği, Özürlüler İdaresi Başkanlığının görüşünü aldıktan sonra hazırlama yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Büyükşehir belediyesi",
+                "B": "Engellilere hizmet amacıyla kurulmuş vakıf ve derneklerin üst kuruluşları",
+                "C": "Çevre ve Şehircilik Bakanlığı",
+                "D": "Özürlüler İdaresi Başkanlığı",
+                "E": "Valilik"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Engelli hizmet birimlerinin kuruluş, görev, yetki, sorumluluk ve işleyişine ilişkin usûl ve esaslar Özürlüler İdaresi Başkanlığının görüşü alınarak Çevre ve Şehircilik Bakanlığınca hazırlanacak yönetmelikle belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, maddede belirtilen yetkili makam olmadıkları için yanlıştır. Özellikle D seçeneğindeki Özürlüler İdaresi Başkanlığı, yönetmeliği hazırlayan değil, yalnızca görüşü alınan kurumdur."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, büyükşehir belediyelerinin hizmetlerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Büyükşehir belediyeleri, sınırlarına giren belediyelerden devralınan su ve ulaşım gibi hizmetlerin yanı sıra, sivil toplum kuruluşlarıyla işbirliği içinde engellilere yönelik hizmet birimleri de oluşturur.",
+                "B": "Engelli hizmet birimlerinin işleyişine dair usul ve esasları belirleyen yönetmelik, Özürlüler İdaresi Başkanlığı tarafından tek başına hazırlanır.",
+                "C": "Sınırlarına giren belediyelerin su ve kanalizasyon hizmetleri devredilirken, bu hizmetlere ilişkin borçlar devralınmaz ve ilgili belediyede kalır.",
+                "D": "Sınırlarına giren belediyelerin özel kişilere verdiği toplu taşıma ruhsatları, devir işlemiyle birlikte otomatik olarak iptal edilir.",
+                "E": "Devir işlemleri valiliklerce kurulan komisyonlarca yürütülür ve bu süreç tamamlanana kadar hizmetler büyükşehir belediyesi tarafından geçici olarak üstlenilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'engelli hizmet birimleri oluşturulur' ve 'vakıf, dernek ve bunların üst kuruluşlarıyla işbirliği hâlinde sürdürürler' hükmü ile Ek Madde 2'de yer alan 'su, ... ulaşım ... hizmetlerine ilişkin ... büyükşehir belediyesine ... devredilir' hükmünün birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: B seçeneği yetkili makamı yanlış belirtmekte, C seçeneği borçların devredilmediğini iddia ederek, D seçeneği ruhsatların iptal edildiğini belirterek ve E seçeneği hizmetlerin kim tarafından yürütüleceğini yanlış ifade ederek kanuna aykırı bilgiler içermektedir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, birleşme veya katılma sonucu büyükşehir belediyesi sınırlarına giren belediyelerden büyükşehir belediyesine devredilecek hizmetler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Su ve kanalizasyon hizmetleri",
+                "B": "Toptancı halleri ve mezbaha hizmetleri",
+                "C": "Mezarlık ve itfaiye hizmetleri",
+                "D": "Gençlik ve spor hizmetleri",
+                "E": "Her çeşit yolcu ve yük terminalleri hizmetleri"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 2'de büyükşehir belediyesine devredilecek hizmetlerin sınırlı sayıda sayılmış olmasına dayanmaktadır.\n- Diğer seçenekler: Kanunda su, kanalizasyon, katı atık, ulaşım, terminaller, toptancı halleri, mezbaha, mezarlık ve itfaiye hizmetleri açıkça sayılmışken, gençlik ve spor hizmetleri bu listede yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, birleşme veya katılma yoluyla personel devri yapılan büyükşehir belediyesinin talebi üzerine, devir işlemini takip eden bir yıl içerisinde norm kadro sayılarını tekrar belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Valilik",
+                "B": "Büyükşehir belediyesi meclisi",
+                "C": "Çevre ve Şehircilik Bakanlığı",
+                "D": "İlgili bağlı kuruluşun yönetim kurulu",
+                "E": "Devir işlemlerini yürüten komisyon"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen '...norm kadro ... sayılarını, devir işlemini takip eden bir yıl içerisinde tekrar belirlemeye Çevre ve Şehircilik Bakanlığı yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Valilik devir komisyonlarını teşekkül ettirir, büyükşehir belediyesi ise sadece talepte bulunur; diğer kurumların ise bu konuda bir yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, birleşme yoluyla büyükşehir belediyesi sınırlarına giren bir belediyenin itfaiye hizmetlerinde çalışan personelin devrine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Devredilen sürekli işçilerin ücret ve sosyal hakları, devir işlemiyle birlikte derhal büyükşehir belediyesindeki diğer işçilerle eşitlenir.",
+                "B": "Sadece Devlet memuru statüsündeki personel kadrolarıyla birlikte devredilirken, sözleşmeli personel ve işçilerin durumu devir komisyonunun takdirine bırakılmıştır.",
+                "C": "İş Kanununa göre çalışan ve devredilen işçiler, devir sonrasında yapılacak toplu iş sözleşmelerinde, diğer işçilerden farklı yeni malî haklar verilmesini sağlayacak hükümlerin konulmasını talep edemezler.",
+                "D": "Personel devri tamamlandıktan sonra, büyükşehir belediyesinin talebi üzerine norm kadro sayılarını yeniden belirleme yetkisi valiliğe aittir.",
+                "E": "Personel ve hizmet devir işlemleri, kanunun yayımından itibaren en geç bir yıl içinde tamamlanmak zorundadır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Devir işleminden sonra yapılacak toplu iş sözleşmelerine ise bu işçilerin ... diğer işçilerden farklı yeni malî ve sosyal haklar verilmesini sağlayacak hükümler konulamaz' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği mevcut sözleşmenin devam edeceğini göz ardı etmekte, B seçeneği sözleşmeli personel ve işçilerin de devredileceği kuralına aykırılık teşkil etmekte, D seçeneği yetkili makamı yanlış belirtmekte ve E seçeneği kanunda belirtilen altı aylık süreyi yanlış ifade etmektedir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, birleşme veya katılma yoluyla büyükşehir belediyesi sınırlarına giren belediyelerin hizmet, mal ve personel devir işlemlerini yürütme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Çevre ve Şehircilik Bakanlığı",
+                "B": "Büyükşehir belediye meclisi",
+                "C": "İlgili ilçe belediye başkanı",
+                "D": "Valiliklerce teşekkül ettirilecek komisyonlar",
+                "E": "Büyükşehir belediyesi ve ilgili belediyenin ortaklaşa kuracağı bir heyet"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Bu madde kapsamında yapılacak devir işlemleri, söz konusu belediyelerin temsiline imkân verecek şekilde valiliklerce teşekkül ettirilecek komisyonlarca yürütülür.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda devir işlemlerini yürütme yetkisinin bu makamlara verildiğine dair bir düzenleme bulunmadığı için yanlıştır.\n- A seçeneği: Çevre ve Şehircilik Bakanlığı, devir işlemlerini yürütmekle değil, personel devri sonrası büyükşehir belediyesinin talebi üzerine norm kadroları yeniden belirlemekle yetkilidir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, köy veya belde belediyesi iken mahalleye dönüşen bir yerin kırsal mahalle olarak kabul edilmesi sürecinde, ilgili ilçe belediye meclisinin teklifi üzerine karar verme yetkisi ve bu kararın alınması için öngörülen azami süre aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Büyükşehir belediye meclisi - Otuz gün",
+                "B": "Büyükşehir belediye meclisi - Doksan gün",
+                "C": "İlçe belediye meclisi - Doksan gün",
+                "D": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Altmış gün",
+                "E": "Valilik - Yüz yirmi gün"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 3'te belirtilen 'ilgili ilçe belediye meclisinin kararı ve teklifi üzerine büyükşehir belediye meclisinin en geç doksan gün içinde alacağı karar ile kırsal yerleşim özelliği taşıdığı tespit edilen mahalleler, kırsal mahalle kabul edilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Yetkili makamı veya karar süresini yanlış belirttiği için hatalıdır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, kırsal mahalle veya kırsal yerleşik alan olarak belirlenen yerlerdeki vergi, harç ve ücret uygulamalarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ticari, sınai ve turistik faaliyetlerde kullanılan binalar için emlak vergisi %50 indirimli uygulanır.",
+                "B": "Bina inşaat harcı ile imarla ilgili harçlar alınmaz.",
+                "C": "İçme ve kullanma suları için alınacak ücret, konutlar için en düşük tarifenin %50’sini geçmeyecek şekilde belirlenir.",
+                "D": "Gelir vergisinden muaf esnaf tarafından bizzat işyeri olarak kullanılan binalar emlak vergisinden muaftır.",
+                "E": "Belediye Gelirleri Kanunu uyarınca alınması gereken diğer vergi, harç ve harcamalara katılma payları %50 indirimli uygulanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 3'te yer alan 'Bu yerlerde içme ve kullanma suları için alınacak ücret en düşük tarifenin işyerleri için %50’sini, konutlar için %25’ini geçmeyecek şekilde belirlenir' hükmüne aykırıdır. Seçenekte konutlar için geçerli olan oran hatalı olarak %50 şeklinde belirtilmiştir.\n- Diğer seçenekler: Kanunda yer alan muafiyet ve indirimleri doğru bir şekilde yansıttığı için elenir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, bir mahallenin kırsal mahalle olarak kabul edilmesi sürecine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlgili ilçe belediye meclisinin kararı ve teklifi üzerine büyükşehir belediye meclisi en geç doksan gün içinde karar verir.",
+                "B": "Büyükşehir belediye başkanının doğrudan kararı ile bir mahalle kırsal mahalle ilan edilebilir.",
+                "C": "İlçe belediye meclisinin teklifi, büyükşehir belediye meclisi tarafından değiştirilemez ve aynen kabul edilmek zorundadır.",
+                "D": "Valiliğin teklifi ve ilçe belediye meclisinin onayı ile kırsal mahalle tespiti yapılır.",
+                "E": "Kırsal mahalle tespiti için ilçe belediye meclisinin teklifinden sonra büyükşehir belediye meclisinin altmış gün içinde karar alması gerekir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 3'te belirtilen 'ilgili ilçe belediye meclisinin kararı ve teklifi üzerine büyükşehir belediye meclisinin en geç doksan gün içinde alacağı karar ile kırsal yerleşim özelliği taşıdığı tespit edilen mahalleler, kırsal mahalle kabul edilir' hükmüne dayanmaktadır.\n- Diğer seçenekler, yetkili makamları, karar alma süresini veya teklifin niteliğini yanlış belirttiği için hatalıdır. Kanun, büyükşehir belediyesinin teklifi aynen veya değiştirerek kabul edebileceğini ya da reddedebileceğini de açıkça belirtmektedir."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, kırsal mahalle veya kırsal yerleşik alan olarak belirlenen yerlerde uygulanan mali muafiyet ve indirimlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Gelir vergisinden muaf esnaf tarafından bizzat işyeri olarak kullanılan binalar emlak vergisinden muaftır.",
+                "B": "Ticari, sınai ve turistik faaliyetlerde kullanılan bina ve araziler için emlak vergisi %50 indirimli uygulanır.",
+                "C": "Bina inşaat harcı ile imarla ilgili harçlar bu yerlerde alınmaz.",
+                "D": "Bilanço esasına göre defter tutan mükellefler, bu yerlerdeki tüm vergi ve harçlardan %50 indirimli olarak yararlanır.",
+                "E": "Konutlarda kullanılan içme ve kullanma suları için alınacak ücret, en düşük tarifenin %25'ini geçmeyecek şekilde belirlenir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 3'te belirtilen 'bilanço esasına göre defter tutan mükellefler için bu fıkrada belirtilen muafiyet ve indirimler uygulanmaz' hükmüne dayanmaktadır.\n- D seçeneğindeki ifade, kanunun bu mükellef grubunu muafiyet ve indirimlerin tamamen dışında tutan açık hükmüne aykırıdır. Diğer seçeneklerdeki (A, B, C, E) ifadeler ise kanunda kırsal mahalleler için tanınan mali avantajları doğru bir şekilde yansıtmaktadır."
+        },
+        {
+            "soru": "5216 Sayılı Büyükşehir Belediyesi Kanunu'na göre, bir yerin kırsal mahalle olarak belirlenmesi ve bu statünün sonuçları ile ilgili aşağıdakilerden hangisi doğrudur?\n\nI. Belirlemenin mahalle düzeyinde yapılması esastır ancak on bin metrekareden az olmamak kaydıyla kırsal yerleşik alan da belirlenebilir.\nII. İlçe belediye meclisinin teklifi üzerine büyükşehir belediye meclisi en geç doksan gün içinde karar verir ve büyükşehir belediyesi bu teklifi değiştirerek kabul edemez.\nIII. Kırsal mahalle olarak belirlenen yerlerde, Belediye Gelirleri Kanununa göre alınması gereken tüm vergi, harç ve harcamalara katılma payları %50 indirimli uygulanır.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 3'te belirtilen 'Bu belirlemenin mahalle düzeyinde yapılması esastır. Ancak; tamamı kırsal mahalle olarak tespit edilmeyen diğer mahallelerde de on bin metrekareden az olmamak kaydıyla kırsal yerleşik alan belirlenebilir.' hükmüne dayanmaktadır. Bu nedenle I. öncül doğrudur.\n- II. öncül, 'Büyükşehir belediyesi, birinci fıkra uyarınca ilçe belediyesinden gelen teklifi aynen veya değiştirerek kabul edebilir ya da reddedebilir.' hükmü gereği yanlıştır. III. öncül ise 'bina inşaat harcı ile imarla ilgili harçlar alınmaz' hükmü nedeniyle 'tüm' ifadesi yüzünden hatalıdır, çünkü bazı harçlar tamamen kaldırılmıştır, bu nedenle 'diğer' vergi ve harçlar indirimli uygulanır."
+        }
+    ]
+}
+

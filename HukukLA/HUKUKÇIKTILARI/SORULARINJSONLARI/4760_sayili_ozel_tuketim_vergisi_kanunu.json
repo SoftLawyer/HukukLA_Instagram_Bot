@@ -1,0 +1,1012 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, Kanuna ekli (Iİ) sayılı listede yer alan ve kayıt ve tescile tâbi olan mallar için özel tüketim vergisinin konusunu oluşturan durum aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İthalatçıları veya rafineriler dahil imal edenler tarafından teslimi",
+                "B": "Bu malların ilk iktisabı",
+                "C": "İmal ya da inşa edenler tarafından teslimi",
+                "D": "Özel tüketim vergisi uygulanmadan önce müzayede yoluyla satışı",
+                "E": "Türkiye Cumhuriyeti Gümrük Bölgesine girişi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen '(II) sayılı listedeki mallardan kayıt ve tescile tâbi olanların ilk iktisabı'nın özel tüketim vergisine tâbi olduğu hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen teslim, satış veya ithalat halleri, kanunda farklı listelerdeki mallar için veya farklı durumlar için verginin konusunu oluşturan işlemler olarak düzenlendiğinden yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, Kanuna ekli listelerdeki malların tarife numaralarında veya tanımlarındaki değişikliğin mahiyetini, Türk Gümrük Tarife Cetvelinde yapılan değişikliklere bağlı olarak açıklama yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Ulaştırma Bakanlığı",
+                "B": "Enerji Piyasası Düzenleme Kurumu",
+                "C": "Gümrükler Genel Müdürlüğü",
+                "D": "Sanayi ve Teknoloji Bakanlığı",
+                "E": "Maliye Bakanlığı"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Bu Kanuna ekli listelerdeki malların tarife numaralarında veya tanımlarındaki değişikliğin mahiyetini, Türk Gümrük Tarife Cetvelinde yapılan değişikliklere bağlı olarak açıklamaya Maliye Bakanlığı yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde yer alan kurum ve bakanlıkların bu konuda kanunda belirtilen bir yetkisi bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, aşağıdakilerden hangisi teslim sayılan hâller arasında yer almaz?",
+            "secenekler": {
+                "A": "Vergiye tâbi malların işletme personeline prim olarak verilmesi.",
+                "B": "Mülkiyeti muhafaza kaydıyla yapılan satışlarda zilyetliğin devredilmesi.",
+                "C": "Vergiye tâbi malların, vergiye tâbi olan başka malların imal edilmesi amacıyla kullanılması.",
+                "D": "Vergiye tâbi malların işletmeden çekilmesi.",
+                "E": "Vergiye tâbi malların hediye veya teberru gibi namlarla verilmesi."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Vergiye tâbi malların, vergiye tâbi olan malların imali dışında her ne suretle olursa olsun kullanılması, sarfı...' hükmüne dayanmaktadır. Bu hüküm, vergiye tabi malların, yine vergiye tabi başka malların imalinde kullanılmasını teslim sayılan haller kapsamı dışında tutmaktadır. - Diğer seçenekler: Madde 2'de açıkça teslim sayılan haller arasında sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, motorlu taşıtların 'kayıt ve tescil' tanımı kapsamında, ilgili mevzuat gereğince sicil tutan merciler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Trafik",
+                "B": "Belediye",
+                "C": "Liman",
+                "D": "Türkiye Noterler Birliği",
+                "E": "Ulaştırma Bakanlığı Sivil Havacılık Genel Müdürlüğü"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de 'kayıt ve tescil' tanımında sayılan merciler arasında 'Türkiye Noterler Birliği'nin bulunmamasına dayanmaktadır. Maddede sayılan merciler trafik, belediye, liman ile Ulaştırma Bakanlığı Sivil Havacılık Genel Müdürlüğüdür. - Diğer seçenekler: Madde 2'de belirtilen kayıt ve tescil mercileri arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, vergiye tâbi bir malın imalatçısı tarafından işletme personeline prim olarak verilmesi durumunda ortaya çıkacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bu işlem teslim sayıldığından vergiyi doğuran olay gerçekleşmiş olur.",
+                "B": "Malın personele bedelsiz verilmesi nedeniyle vergi doğmaz.",
+                "C": "Verginin mükellefi, malı prim olarak alan personel olur.",
+                "D": "İşlem, işletme içi sarfiyat sayıldığından verginin konusuna girmez.",
+                "E": "Vergiyi doğuran olay, personelin malı üçüncü bir kişiye satmasıyla gerçekleşir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Vergiye tâbi malların... işletme personeline ücret, prim, ikramiye, hediye, teberru gibi namlarla verilmesi'nin teslim sayılacağı ve Madde 3'te belirtilen 'Mal teslimi... hallerinde malın teslimi'nin vergiyi doğuran olay olduğu hükümlerinin birleştirilmesine dayanmaktadır. Buna göre, malın personele prim olarak verilmesi teslim sayılır ve bu teslim ile vergiyi doğuran olay gerçekleşir.\n- Diğer seçenekler: Kanunda yer alan 'teslim sayılan haller' tanımına aykırı oldukları veya metinde bulunmayan şartlar öne sürdükleri için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, kısım kısım mal teslim edilmesi mutat olan veya bu hususta tarafların mutabık kaldığı hallerde vergiyi doğuran olay ne zaman gerçekleşir?",
+            "secenekler": {
+                "A": "Malın tesliminden önce fatura veya benzeri belgelerin düzenlendiği anda",
+                "B": "Her bir kısmın teslim edildiği anda",
+                "C": "Malın ilk iktisap edildiği anda",
+                "D": "Tüm kısımların teslimi tamamlandığında",
+                "E": "İthalat işlemlerinde gümrük beyannamesinin tescil edildiği anda"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Kısım kısım mal teslim edilmesi mutat olan veya bu hususlarda mutabık kalınan hallerde, her bir kısmın teslimi' hükmüne dayanmaktadır. Bu durumda vergiyi doğuran olay, her bir parçanın teslimiyle ayrı ayrı gerçekleşir.\n- Diğer seçenekler, kanunun farklı durumlar için öngördüğü vergiyi doğuran olayları (fatura düzenlenmesi, ilk iktisap, ithalat) içerdiği veya kanunda yer almayan bir durumu (tüm kısımların tamamlanması) belirttiği için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, komisyoncular vasıtasıyla veya konsinyasyon suretiyle yapılan satışlarda vergiyi doğuran olaya ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "(I) sayılı listedeki malların alıcıya teslimi vergiyi doğuran olaydır.",
+                "B": "(III) sayılı listedeki malların alıcıya teslimi vergiyi doğuran olaydır.",
+                "C": "(IV) sayılı listedeki malların alıcıya teslimi vergiyi doğuran olaydır.",
+                "D": "(III) sayılı listedeki malların komisyoncuya teslimi vergiyi doğuran olaydır.",
+                "E": "(II) sayılı listedeki malların alıcıya teslimi vergiyi doğuran olaydır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen '(III) sayılı listedeki malların komisyoncuya veya konsinyi işletmeye teslimi' hükmüne dayanmaktadır. Kanun, (III) sayılı listedeki mallar için vergiyi doğuran olayın, malın alıcıya değil, komisyoncuya veya konsinyi işletmeye teslimi anında gerçekleşeceğini açıkça düzenlemiştir.\n- Diğer seçeneklerde belirtilen durumlar, (I), (II) ve (IV) sayılı listelerdeki malların alıcıya teslimi veya (III) sayılı listedeki malların komisyoncuya teslimi gibi, kanunda doğru olarak tanımlanan vergiyi doğuran olaylar olduğu için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, komisyoncular vasıtasıyla veya konsinyasyon suretiyle yapılan satışlarda vergiyi doğuran olayın gerçekleşme ani ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tüm listelerdeki malların nihai alıcıya teslim edilmesiyle vergi doğar.",
+                "B": "Tüm listelerdeki malların komisyoncuya teslim edilmesiyle vergiyi doğuran olay gerçekleşir.",
+                "C": "Sadece (I) ve (II) sayılı listelerdeki malların komisyoncuya teslimi ile vergi doğar.",
+                "D": "(III) sayılı listedeki malların komisyoncuya veya konsinyi işletmeye teslimi ile vergiyi doğuran olay gerçekleşir.",
+                "E": "(IV) sayılı listedeki malların komisyoncuya, diğer listelerdeki malların alıcıya teslimi ile vergi doğar."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Komisyoncular vasıtasıyla veya konsinyasyon suretiyle yapılan satışlarda, (I), (II) ve (IV) sayılı listelerdeki malların alıcıya, (III) sayılı listedeki malların komisyoncuya veya konsinyi işletmeye teslimi' hükmüne dayanmaktadır. Bu hüküm, (III) sayılı listedeki mallar için vergiyi doğuran olayın, diğer listelerden farklı olarak, malın nihai alıcıya değil, komisyoncuya teslimi anında gerçekleştiğini açıkça düzenlemektedir.\n- Diğer seçenekler: Kanunda belirtilen liste ayrımına aykırı veya hatalı bilgiler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, komisyoncular vasıtasıyla veya konsinyasyon suretiyle yapılan satışlarda, kanuna ekli (Iİİ) sayılı listedeki mallar için vergiyi doğuran olay aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Malların nihai alıcıya teslim edilmesi.",
+                "B": "Malların komisyoncuya veya konsinyi işletmeye teslim edilmesi.",
+                "C": "Satış bedelinin komisyoncu tarafından malın sahibine ödenmesi.",
+                "D": "Malların gümrükten çekilerek komisyoncunun deposuna konulması.",
+                "E": "Nihai alıcı adına faturanın düzenlenmesi."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Komisyoncular vasıtasıyla veya konsinyasyon suretiyle yapılan satışlarda, ... (III) sayılı listedeki malların komisyoncuya veya konsinyi işletmeye teslimi' hükmüne dayanmaktadır. - Diğer seçenekler: A seçeneği (I), (II) ve (IV) sayılı listelerdeki mallar için geçerli olup, diğer şıklar ise kanunda bu özel durum için tanımlanan vergiyi doğuran olay halleri arasında yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, malın tesliminden önce fatura veya benzeri belgelerin düzenlendiği hallerde vergiyi doğuran olaya ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergiyi doğuran olay, her durumda malın fiilen teslim edilmesiyle gerçekleşir.",
+                "B": "Vergiyi doğuran olay, bu belgelerde gösterilen miktarla sınırlı olmak üzere fatura veya benzeri belgelerin düzenlenmesidir.",
+                "C": "Vergiyi doğuran olay, faturanın bedelinin tam olarak tahsil edildiği anda gerçekleşir.",
+                "D": "Vergiyi doğuran olay, ithalat vergilerine tâbi olmayan işlemlerde gümrük beyannamesinin tescil edilmesidir.",
+                "E": "Vergiyi doğuran olay, siparişin tamamını kapsayacak şekilde belgenin düzenlenmesiyle gerçekleşir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Malın tesliminden önce fatura veya benzeri belgeler verilmesi hallerinde, bu belgelerde gösterilen miktarla sınırlı olmak üzere fatura veya benzeri belgelerin düzenlenmesi' hükmüne dayanmaktadır. - Diğer seçenekler: A seçeneği genel kuralı belirtse de bu özel durumu kapsamaz, C seçeneğindeki tahsilat şartı kanunda yer almaz, D seçeneği ithalat rejimine ait farklı bir durumu düzenler ve E seçeneği kanundaki 'gösterilen miktarla sınırlı olmak üzere' ifadesine aykırıdır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, fiilî veya kaydî envanter sırasında belgesiz mal bulundurduğu tespit edilen bir mükellefin durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mükellefe alış belgelerini ibraz etmesi için tespit tarihinden itibaren 30 günlük bir süre verilir.",
+                "B": "Belgelerin ibraz edilememesi halinde, malın alış bedeli üzerinden vergi tarh edilir.",
+                "C": "Süre sonunda belge ibraz edilemezse, tarh edilecek vergiye ayrıca bir ceza uygulanmaz.",
+                "D": "Belgesi ibraz edilemeyen malın tespit tarihindeki emsal bedeli üzerinden hesaplanan vergi, mükellef adına re’sen tarh edilir ve bu tarhiyata vergi ziyaı cezası uygulanır.",
+                "E": "Malı satan kişiye vergi tarhiyatı yapılması, belgesiz mal bulunduran alıcının vergi ve ceza sorumluluğunu ortadan kaldırmaz."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'belgesi ibraz edilemeyen malın tespit tarihindeki emsal bedeli üzerinden hesaplanan özel tüketim vergisi, alışını belgeleyemeyen mükellef adına re’sen tarh edilir. Bu tarhiyata vergi ziyaı cezası uygulanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen sürenin 10 gün olması (A), verginin emsal bedel üzerinden hesaplanması (B), vergi ziyaı cezası uygulanması (C) ve satıcıya tarhiyat yapılması halinde alıcıdan vergi ve ceza aranmaması (E) kurallarına aykırı oldukları için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, aşağıdakilerden hangisi vergiyi doğuran olayın gerçekleştiği hâller arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Malın ilk iktisabı.",
+                "B": "Kısım kısım mal teslim edilmesi mutat olan hallerde her bir kısmın teslimi.",
+                "C": "Malın tesliminden önce fatura düzenlenmesi.",
+                "D": "İthalatta, Gümrük Kanununa göre gümrük yükümlülüğünün doğması.",
+                "E": "Malların, gümrüksüz satış mağazalarında satılmak üzere bu mağazalara teslimi."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'gümrüksüz satış mağazalarında satılmak üzere bu mağazalara veya bunların depolarına teslimi' hükmüne dayanmaktadır. Bu durum, vergiyi doğuran bir olay değil, vergiden istisna edilen bir işlemdir. - Diğer seçenekler: Madde 3'te açıkça vergiyi doğuran olay olarak sayılan haller olduğu için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ihracat teslimlerinin vergiden müstesna sayılabilmesi için aranan şartlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Teslimin, ikametgâhı veya işyeri yurt dışında olan bir alıcıya yapılması gerekir.",
+                "B": "Teslim konusu malın Türkiye Cumhuriyeti Gümrük Bölgesinden çıkmış olması zorunludur.",
+                "C": "Yurt içinde bulunan bir işletmenin yurt dışındaki şubesine yapılan teslimler de ihracat teslimi sayılır.",
+                "D": "Malın yurt içinden serbest bölgelere teslim edilmesi ihracat teslimi olarak kabul edilir.",
+                "E": "Teslimin yurt dışındaki bir müşteriye yapılması temel şartlardan biridir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'yurt içinden serbest bölgelere yapılan teslimler ihracat sayılmaz' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 5'te ihracat istisnasının şartları olarak açıkça belirtilen (teslimin yurt dışındaki müşteriye yapılması, malın gümrük bölgesinden çıkması, yurt dışı müşteri tanımı) doğru ifadeler olduğu için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, gümrüksüz satış mağazalarında satılmak üzere bu mağazalara veya bunların depolarına yapılan teslimlerde vergi istisnası, kanuna ekli hangi listelerdeki mallar için geçerlidir?",
+            "secenekler": {
+                "A": "(I) ve (II) sayılı listelerdeki mallar",
+                "B": "Sadece (II) sayılı listedeki mallar",
+                "C": "(III) ve (IV) sayılı listelerdeki mallar",
+                "D": "Sadece (I) sayılı listedeki mallar",
+                "E": "Kanuna ekli tüm listelerdeki mallar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Bu Kanuna ekli (III) ve (IV) sayılı listelerdeki malların, ... gümrüksüz satış mağazalarında satılmak üzere bu mağazalara veya bunların depolarına teslimi vergiden müstesnadır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 5'te bu istisna için sadece (III) ve (IV) sayılı listeler sayıldığından diğer şıklar yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ihraç edilen veya gümrüksüz satış mağazalarına teslim edilen mallara ait özel tüketim vergisinin iadesine ilişkin usul ve esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Ticaret Bakanlığı",
+                "B": "Maliye Bakanlığı",
+                "C": "Enerji Piyasası Düzenleme Kurumu",
+                "D": "Hazine Müsteşarlığı",
+                "E": "Gümrükler Genel Müdürlüğü"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Maliye Bakanlığı, bu mallara ait verginin iadesine ilişkin usul ve esasları belirlemeye yetkilidir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bu yetkinin Maliye Bakanlığı'na verildiği açıkça belirtilmiştir. C seçeneği Madde 3'te farklı bir konuda geçen bir kurum olup, diğer seçeneklerdeki kurumların ise bu konuda yetkili olduğuna dair bir düzenleme bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (İ) sayılı listedeki malları imal eden bir şirket, bu malları kanuni merkezi yurt dışında olan bir alıcıya satmıştır. Ancak mallar, Türkiye Cumhuriyeti Gümrük Bölgesinden çıkarılmadan önce, alıcı adına hareket eden bir başka firmaya işlenmek üzere yurt içinde teslim edilmiştir. Bu durumda, ihracat istisnası ve verginin mükellefiyeti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Teslim yurt dışındaki bir müşteriye yapıldığı için imalatçı şirket vergiden müstesnadır.",
+                "B": "Mallar alıcı adına hareket edenlere teslim edildiği için verginin mükellefi bu teslimi alan firmadır.",
+                "C": "Malın yurt içinde başka bir firmaya teslimi ihracat sayılmadığından, imalatçı şirket verginin mükellefi olmaya devam eder.",
+                "D": "Yurt dışındaki müşteriye fatura düzenlendiği anda vergiyi doğuran olay gerçekleşir ve ihracat istisnası uygulanır.",
+                "E": "Maliye Bakanlığı, vergi alacağını emniyet altına almak için yurt dışındaki müşteriyi vergi sorumlusu olarak atayabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Malın ihraç edilmeden önce ... yurt içinde teslimi ... ihracat sayılmaz.' hükmü ile Madde 4'te belirtilen '(I) sayılı listelerdeki malları ... imal ... edenler'in mükellef olduğu hükmünün birleşimine dayanmaktadır. Malın gümrük bölgesinden çıkma şartı gerçekleşmediği için ihracat istisnası uygulanmaz ve malı imal eden asıl mükellef vergi yükümlülüğünü taşır.\n- Diğer seçenekler: Madde 5'teki ihracat şartlarının tamamının sağlanmaması veya Madde 4'teki mükellef tanımına aykırı olmaları nedeniyle yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİİ) sayılı listedeki malları ithal eden bir mükellef, bu malları komisyoncu vasıtasıyla satması için bir aracıya teslim etmiştir. Komisyoncu, bu malları gümrüksüz satış mağazalarında satılmak üzere bu mağazaların deposuna teslim etmiştir. Bu olaydaki vergisel durumla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergiyi doğuran olay, malların komisyoncuya teslimi anında gerçekleşir ve ithalatçı vergiyi ödemek zorundadır.",
+                "B": "Malların gümrüksüz satış mağazası deposuna teslimi vergiden müstesna olduğu için, bu işlemde özel tüketim vergisi doğmaz.",
+                "C": "Verginin mükellefi komisyoncudur ve malları depoya teslim ettiğinde beyan edip ödemelidir.",
+                "D": "Gümrüksüz satış mağazası, malları yurt dışındaki bir müşteriye sattığı anda verginin mükellefi olur.",
+                "E": "İthalatçı, ithalat sırasında ödediği vergiyi komisyoncudan talep etme hakkına sahiptir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen '(III) ... sayılı listelerdeki malların, ... gümrüksüz satış mağazalarında satılmak üzere bu mağazalara veya bunların depolarına teslimi vergiden müstesnadır.' hükmüne dayanmaktadır. Bu hüküm, Madde 3'te tanımlanan vergiyi doğuran olayın gerçekleşmesine rağmen özel bir istisna getirerek verginin doğmasını engeller.\n- Diğer seçenekler: Madde 5'teki gümrüksüz satış mağazası istisnasını göz ardı etmeleri veya Madde 4'teki mükellef tanımına uymamaları nedeniyle yanlıştır. A seçeneği, istisna olmasaydı doğru olabilecek vergiyi doğuran olayı belirtse de, istisna hükmü bu durumu geçersiz kılar."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ihracat istisnasının uygulanabilmesi için aranan şartlar göz önüne alındığında, aşağıdaki durumlardan hangisi ihracat sayılmaz?",
+            "secenekler": {
+                "A": "Teslimin, ikametgâhı yurt dışında olan bir alıcıya yapılması.",
+                "B": "Teslim konusu malın Türkiye Cumhuriyeti Gümrük Bölgesinden çıkmış olması.",
+                "C": "Malın, yurt içinden serbest bölgelere teslim edilmesi.",
+                "D": "Teslimin, yurt içinde bulunan bir işletmenin yurt dışında faaliyet gösteren şubesine yapılması.",
+                "E": "Teslimin, kanuni ve iş merkezleri yurt dışında olan bir alıcıya yapılması."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen '...yurt içinden serbest bölgelere yapılan teslimler ihracat sayılmaz' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda ihracat istisnası için aranan geçerli şartları veya yurt dışındaki müşteri tanımını ifade ettiği için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ihraç edilen veya gümrüksüz satış mağazalarına teslim edilen mallara ait özel tüketim vergisinin iadesine ilişkin usul ve esasları belirleme yetkisi aşağıdaki mercilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Gümrük ve Ticaret Bakanlığı",
+                "B": "Dışişleri Bakanlığı",
+                "C": "Hazine Müsteşarlığı",
+                "D": "Maliye Bakanlığı",
+                "E": "Türkiye Cumhuriyet Merkez Bankası"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Maliye Bakanlığı, bu mallara ait verginin iadesine ilişkin usul ve esasları belirlemeye yetkilidir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumların bu konuda bir yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, bu Kanuna ekli listelerde yer alan mallara ilişkin istisnalarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Diplomatik istisna, Kanuna ekli tüm listelerdeki malların yabancı devlet temsilciliklerince kendi ihtiyaçları için ilk iktisabını kapsar.",
+                "B": "Kanuna ekli (IV) sayılı listedeki bir mal, gümrüksüz satış mağazasına teslim edildiğinde vergiden müstesna olabilirken, aynı malın diplomatik temsilcilik tarafından ilk iktisabı bu Kanun kapsamında istisna değildir.",
+                "C": "İhracat teslimi istisnasından yararlanılabilmesi için malın serbest bölgeye teslim edilmesi yeterli bir şart olarak kabul edilir.",
+                "D": "Gümrüksüz satış mağazalarına teslimde istisna, Kanuna ekli (I) ve (II) sayılı listelerdeki mallar için geçerlidir.",
+                "E": "Diplomatik istisnanın uygulanmasında karşılıklılık şartı aranmazken, ihracat istisnasında malın Gümrük Bölgesinden çıkması şartı aranır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5 ve Madde 6'nın kapsamlarının karşılaştırılmasına dayanmaktadır. Madde 5 uyarınca (IV) sayılı listedeki malların gümrüksüz satış mağazalarına teslimi vergiden müstesnadır. Ancak Madde 6'da sayılan diplomatik istisna, (I), (II) ve (III) sayılı listelerdeki malları kapsadığı için (IV) sayılı listedeki bir mal bu istisnadan yararlanamaz.\n- Diğer seçenekler: A seçeneği, diplomatik istisnanın (IV) sayılı listeyi kapsamaması; C seçeneği, serbest bölgelere teslimin ihracat sayılmaması; D seçeneği, gümrüksüz satış mağazası istisnasının (III) ve (IV) sayılı listeler için geçerli olması; E seçeneği ise diplomatik istisnada karşılıklılık şartının aranması nedeniyle yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ihracat ve diplomatik istisnalar karşılaştırıldığında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Diplomatik istisnanın uygulanabilmesi için yabancı devletlerle karşılıklılık esası gözetilir.",
+                "B": "İhraç edilen mallar için beyan edilen özel tüketim vergisinin ihracatçıya iadesi mümkündür.",
+                "C": "Yurt içinden serbest bölgelere yapılan teslimler, ihracat istisnası kapsamında değerlendirilmez.",
+                "D": "Diplomatik istisna, uluslararası anlaşmalarla vergi muafiyeti tanınan uluslararası kuruluşları da kapsar.",
+                "E": "Hem ihracat hem de diplomatik istisna durumlarında, vergi iadesine ilişkin usul ve esasları belirleme yetkisi Maliye Bakanlığına aittir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Maliye Bakanlığı, bu mallara ait verginin iadesine ilişkin usul ve esasları belirlemeye yetkilidir' hükmüne dayanmaktadır. Bu yetki, kanun metninde sadece ihracat istisnası ve gümrüksüz satış mağazalarına teslim sonucu ortaya çıkan iade için tanımlanmıştır; diplomatik istisna için böyle bir yetki düzenlenmemiştir.\n- Diğer seçenekler: A ve D seçenekleri Madde 6'da, B ve C seçenekleri ise Madde 5'te yer alan doğru ifadeler olduğu için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, diplomatik istisna ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İstisna, kanuna ekli tüm listelerde yer alan mallar için geçerlidir.",
+                "B": "Uluslararası kuruluşlarda görev yapan Türkiye Cumhuriyeti vatandaşı yönetici personel de bu istisnadan yararlanabilir.",
+                "C": "İstisna kapsamındaki malların ikinci el olarak iktisap edilmesi durumunda da vergi muafiyeti uygulanır.",
+                "D": "Yabancı devletlerin diplomatik temsilciliklerine tanınan istisnanın uygulanması, karşılıklılık şartına bağlıdır.",
+                "E": "Muafiyet tanınan kişi ve kuruluşların, malları ticari amaçla kullanmaları istisnayı etkilemez."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen '...karşılıklı olmak kaydıyla yabancı devletlerin Türkiye’deki diplomatik temsilcilikleri...' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen liste kapsamı ((I), (II) ve (III) sayılı listeler), yararlanacak kişilerin vatandaşlığı (T.C. vatandaşı olmayan), iktisabın niteliği (ilk iktisap) ve kullanım amacı (kendi ihtiyaçları için) gibi şartlara aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, diplomatik istisnadan yararlanabilecekler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Yabancı devletlerin Türkiye’deki konsoloslukları.",
+                "B": "Uluslararası anlaşmalarla vergi muafiyeti tanınan uluslararası kuruluşlar.",
+                "C": "Gümrüksüz satış mağazalarına satılmak üzere mal teslim edenler.",
+                "D": "Yabancı diplomatik temsilciliklerin diplomatik haklara sahip mensupları.",
+                "E": "Ev sahibi hükümet anlaşmaları çerçevesindeki uluslararası kuruluşların Türkiye Cumhuriyeti vatandaşı olmayan yönetici mensupları."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da diplomatik istisnadan yararlanacaklar arasında sayılmadığı için C seçeneğidir. Kanun, gümrüksüz satış mağazalarına mal teslim edenleri ihracat istisnası kapsamında farklı bir maddede (Madde 5) düzenlemiştir.\n- Diğer seçeneklerde belirtilen kişi ve kuruluşlar, Madde 6'da diplomatik istisnadan faydalanacaklar arasında açıkça listelenmiştir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (İ) sayılı listede yer alan malların, ihtiyaçları için kendilerine teslimi vergiden müstesna olan kuruluşlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Milli Savunma Bakanlığı",
+                "B": "Jandarma Genel Komutanlığı",
+                "C": "Sahil Güvenlik Komutanlığı",
+                "D": "Emniyet Genel Müdürlüğü",
+                "E": "Milli İstihbarat Teşkilâtı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7/1-a'da belirtilen '(I) sayılı listede yer alan malların... teslimi' hükmüne dayanmaktadır. Bu bentte sayılan kurumlar arasında Emniyet Genel Müdürlüğü bulunmamaktadır. Diğer seçeneklerdeki kurumlar ise istisna kapsamında açıkça sayılmıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, engellilik oranı %90 veya daha fazla olan malûl ve engelliler tarafından belirli taşıtların ilk iktisabında tanınan vergi istisnası, kural olarak hangi sıklıkla uygulanabilir?",
+            "secenekler": {
+                "A": "Beş yılda bir defaya mahsus olmak üzere",
+                "B": "On yılda bir defaya mahsus olmak üzere",
+                "C": "Ömür boyu sadece bir defaya mahsus olmak üzere",
+                "D": "Herhangi bir süre kısıtlaması olmaksızın her araç alımında",
+                "E": "Üç yılda bir defaya mahsus olmak üzere"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7/2'de belirtilen 'on yılda bir defaya mahsus olmak üzere ilk iktisabı' hükmüne dayanmaktadır. Bu hüküm, istisnanın on yıllık bir süreyle sınırlandırıldığını açıkça ifade etmektedir. Diğer seçeneklerdeki süreler kanuni düzenlemeyle uyuşmamaktadır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, kanunda malûl ve engellilere yönelik istisna için belirlenen yerli katkı oranını yarısına kadar indirme veya iki katına kadar artırma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Hazine ve Maliye Bakanı",
+                "B": "Cumhurbaşkanı",
+                "C": "Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonu",
+                "D": "Sanayi ve Teknoloji Bakanı",
+                "E": "Gelir İdaresi Başkanı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'nin son fıkrasında yer alan 'Cumhurbaşkanı; birinci fıkrada belirlenen yerli katkı oranını yarısına kadar indirmeye, iki katına kadar artırmaya yetkilidir.' hükmüne dayanmaktadır. Diğer seçeneklerde belirtilen makamların kanunda bu konuda bir yetkisi düzenlenmemiştir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, Gümrük Kanunu'nun belirli rejimlerine tabi tutulan mallar vergiden müstesnadır. Aşağıdakilerden hangisi bu kapsamda sayılan rejim veya uygulamalardan biri değildir?",
+            "secenekler": {
+                "A": "Transit rejimi",
+                "B": "Gümrük antrepo rejimi",
+                "C": "Dahilde işleme rejimi",
+                "D": "Serbest bölgeler hükümleri",
+                "E": "İhracat teşvik rejimi"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7/7'de belirtilen istisna kapsamındaki rejimlere dayanmaktadır. Bu bentte 'transit, gümrük antrepo, dahilde işleme, gümrük kontrolü altında işleme rejimlerine tâbi tutulanlar ile serbest bölgeler ve geçici depolama yerleri hükümleri' sayılmıştır. 'İhracat teşvik rejimi' bu sayılanlar arasında yer almamaktadır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, malûl ve engellilerin taşıt iktisabındaki vergi istisnasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Engellilik oranı %90 veya daha fazla olanlar, vergiler dahil bedeli belirlenen tutarı aşmayan taşıtlar için istisnadan yararlanabilir.",
+                "B": "İstisnadan yararlanılacak taşıtın motor silindir hacminin 2.800 cm³'ü aşmaması gereken durumlar bulunmaktadır.",
+                "C": "İstisna kapsamında alınan aracın deprem veya kaza gibi nedenlerle hurdaya çıkması durumunda, malûl ve engelliler tarafından yeni bir araç iktisabı yine istisna kapsamında olabilir.",
+                "D": "İstisnadan yararlanabilmek için alınacak taşıtın yerli katkı oranının en az %40 olması zorunludur.",
+                "E": "Bizzat kullanma amacıyla engelliliğine uygun hareket ettirici özel tertibat yaptıran malûl ve engelliler de bu istisnadan yararlanabilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7/2'de yer alan 'yerli katkı oranı en az %20 olan mallardan' ifadesine dayanmaktadır. Seçenekte belirtilen en az %40 yerli katkı oranı şartı, malûl ve engelliler için genel bir zorunluluk olmayıp, kanunda bu istisna için %20 oranı belirtilmiştir. Diğer seçeneklerdeki ifadeler, maddenin ilgili bentlerindeki koşullarla uyumludur."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ihracat rejimi kapsamında yurt dışına çıkarılacak eşyayı taşıyan belirli araçlara yapılan yakıt teslimlerindeki vergi istisnası ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İstisna, yurt dışına eşya taşıyan kamyon, çekici ve soğutucu ünitesine sahip yarı römorkların depolarına yapılan teslimler için geçerlidir.",
+                "B": "Yakıt tesliminin yapılacağı sınır kapılarını belirleme yetkisi Cumhurbaşkanına aittir.",
+                "C": "Teslim edilecek yakıt miktarı, araçların ve soğutucu ünitelerin standart yakıt deposu miktarını aşamaz.",
+                "D": "Maliye Bakanlığı, istisnayı verginin iadesi yöntemi ile uygulamaya yetkilidir.",
+                "E": "İstisna kapsamında teslim edilen yakıtın yurt dışına çıkışta kullanılmaması halinde, tecil edilen vergi gecikme zammı ile birlikte alıcıdan tahsil edilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7/A'da belirtilen istisnanın 'vergiden müstesna' olması hükmüne dayanmaktadır. Maddede, verginin tecil edilmesi ve şartların ihlali halinde gecikme zammıyla tahsili gibi bir mekanizma düzenlenmemiştir. - Diğer seçenekler, Madde 7/A'da sayılan istisna şartları (uygulanacak araçlar, Cumhurbaşkanının yetkisi, standart depo miktarı) ve usulü (Maliye Bakanlığının yetkisi) arasında yer aldığı için doğrudur ve bu nedenle elenir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ihraç edilmek şartıyla ihracatçılara teslim edilen mallara ait özel tüketim vergisinin tecil ve terkinine ilişkin olarak, ihracatın mücbir sebepler veya beklenmedik durumlar nedeniyle süresinde gerçekleştirilememesi halinde, başvuru üzerine verilebilecek ek süre en çok ne kadardır?",
+            "secenekler": {
+                "A": "Onbeş gün",
+                "B": "Bir ay",
+                "C": "Altı ay",
+                "D": "Oniki ay",
+                "E": "Üç aya kadar"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Maliye Bakanlığınca veya Bakanlığın uygun görmesi halinde vergi dairelerince üç aya kadar ek süre verilebilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: (A) seçeneğindeki onbeş gün ek süre için başvuru süresidir, (D) seçeneğindeki oniki ay ise başka bir tecil-terkin işlemine ilişkin süredir. Diğer süreler ise kanunda bu durum için öngörülmemiştir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (İ) sayılı listeye dahil olmayan malların imalinde kullanılmak üzere teslim edilen ve vergisi tecil edilen malların, Vergi Usul Kanununda belirtilen mücbir sebepler dolayısıyla oniki ay içinde imalatta kullanılamaması durumunda uygulanacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tecil olunan verginin vade tarihinden itibaren gecikme zammı ile birlikte alıcıdan tahsil edilmesi",
+                "B": "Tecil olunan verginin herhangi bir ek ödeme olmaksızın mükelleften tahsil edilmesi",
+                "C": "Tecil edilen verginin, tecil edildiği tarihten itibaren ilgili dönemler için geçerli tecil faizi ile birlikte alıcıdan tahsil edilmesi",
+                "D": "Tecil olunan verginin tamamen terkin edilmesi ve herhangi bir tahsilat yapılmaması",
+                "E": "Alıcıya ek bir süre verilerek imalat şartının tamamlanmasının beklenmesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'tecil edilen verginin 213 sayılı Vergi Usul Kanununda belirtilen mücbir sebepler dolayısıyla terkin edilememesi halinde bu vergi, tecil edildiği tarihten itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesine göre ilgili dönemler için geçerli tecil faizi ile birlikte alıcıdan tahsil edilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: (A) seçeneğindeki gecikme zammı, mücbir sebep olmaksızın hükümlere uyulmaması halinde uygulanır. Diğer seçeneklerde belirtilen sonuçlar ise kanuni düzenlemeye aykırıdır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, verginin tecili ve terkini süreçleriyle ilgili olarak aşağıdaki yetkilerden hangisi kanunda sayılmamıştır?",
+            "secenekler": {
+                "A": "Cumhurbaşkanının, (I) sayılı listenin (B) cetvelindeki malların imalatta kullanılması durumunda tecil edilecek vergi kısmını belirlemesi",
+                "B": "Vergi dairesinin, ihracatçılara teslim edilen mallara ait vergiyi tarh, tahakkuk ve tecil etmesi",
+                "C": "Maliye Bakanlığının, ihracatın süresinde yapılamaması halinde ihracatçılara ek süre vermesi",
+                "D": "Cumhurbaşkanının, (III) sayılı listedeki malların vergilerini tüketiciye teslime kadar tecil ettirmesi",
+                "E": "Enerji Piyasası Düzenleme Kurumunun, tecil edilecek vergi oranlarına ilişkin görüş bildirmesi"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 8'de Enerji Piyasası Düzenleme Kurumuna vergi tecili süreçleriyle ilgili herhangi bir yetki verilmemiş olmasına dayanmaktadır.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde belirtilen yetkiler (Cumhurbaşkanı, vergi dairesi ve Maliye Bakanlığına ait olanlar) Madde 8'de açıkça düzenlenmiştir ve bu nedenle doğrudur."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ihraç edilmek şartıyla bir ihracatçıya teslim edilen malların, teslim tarihini takip eden aybaşından itibaren üç ay içinde mücbir sebep olmaksızın ihraç edilmemesi durumunda ortaya çıkacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tecil olunan vergi, vade tarihinden itibaren gecikme zammı ile birlikte tahsil olunur.",
+                "B": "Tecil olunan vergi, tecil edildiği tarihten itibaren tecil faizi ile birlikte tahsil edilir.",
+                "C": "İhracatçıya, Maliye Bakanlığı tarafından resen altı aya kadar ek süre verilir.",
+                "D": "Tecil olunan vergi tamamen terkin edilir ve herhangi bir ek ödeme talep edilmez.",
+                "E": "Vergi, teminat alınmak suretiyle oniki ay süreyle yeniden tecil olunur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8/2'de belirtilen 'İhracatın yukarıdaki şartlara uygun olarak gerçekleştirilmemesi halinde, tecil olunan vergi vade tarihinden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci Maddesine göre belirlenen gecikme zammı ile birlikte tahsil olunur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: B seçeneği mücbir sebep halini düzenlerken, C, D ve E seçenekleri ise kanunda belirtilen süre, usul veya sonuçlarla çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, özel tüketim vergisine ilişkin istisna ve tecil uygulamalarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İhracat rejimi kapsamında yurt dışına çıkarılacak eşyayı taşıyan kamyonların depolarına, hem yurt dışına çıkışlarında hem de yurda girişlerinde yapılan yakıt teslimi vergiden müstesnadır.",
+                "B": "(I) sayılı listenin (B) cetvelindeki malların, listeye dahil olmayan malların imalinde kullanılması halinde, tecil edilen verginin terkin edilmesi için bu kullanımın altı ay içinde gerçekleşmesi gerekir.",
+                "C": "İhraç edilmek şartıyla teslim edilen malların mücbir sebeplerle üç ay içinde ihraç edilememesi halinde, başvuru üzerine Maliye Bakanlığınca en fazla üç aya kadar ek süre verilebilir.",
+                "D": "Yurt dışına çıkarılacak eşyayı taşıyan tüm araçların standart yakıt deposu miktarlarını aşan yakıt teslimleri Cumhurbaşkanı kararıyla vergiden müstesna tutulabilir.",
+                "E": "(III) sayılı listedeki mallara ilişkin verginin tecili yetkisi, teminat alınmaksızın Maliye Bakanlığına aittir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8/2'de yer alan 'İhracatın mücbir sebepler veya beklenmedik durumlar nedeniyle üç ay içinde gerçekleştirilememesi halinde... başvuran ihracatçılara, Maliye Bakanlığınca... üç aya kadar ek süre verilebilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği Madde 7/A'daki 'yalnızca yurt dışına çıkışlarında' kuralına, B seçeneği Madde 8/1'deki 'oniki ay' süresine, D seçeneği Madde 7/A'daki 'standart yakıt deposu miktarlarını aşmamak' şartına, E seçeneği ise Madde 8/3'teki 'Cumhurbaşkanı yetkilidir' ve 'teminat alınmak suretiyle' hükümlerine aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (İ) sayılı listenin (B) cetvelindeki malların, listeye dahil olmayan malların imalinde kullanılmak üzere tesliminde tecil edilen verginin terkin edilebilmesi için, bu malların imalatta kullanılması gereken azami süre ne kadardır?",
+            "secenekler": {
+                "A": "Tecil tarihini takip eden aybaşından itibaren üç ay",
+                "B": "Tecil tarihini takip eden aybaşından itibaren altı ay",
+                "C": "Tecil tarihini takip eden aybaşından itibaren oniki ay",
+                "D": "Tecil tarihini takip eden aybaşından itibaren onsekiz ay",
+                "E": "Tecil tarihini takip eden aybaşından itibaren yirmidört ay"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Söz konusu malların tecil tarihini takip eden aybaşından itibaren oniki ay içinde (I) sayılı listeye dahil olmayan malların imalinde kullanılması halinde tecil olunan vergi terkin edilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler, kanunda bu durum için öngörülen süre ile uyuşmadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ihraç edilmek şartıyla ihracatçılara teslim edilen malların, mücbir sebepler veya beklenmedik durumlar nedeniyle yasal süresi içinde ihraç edilememesi durumunda, ek süre verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı",
+                "B": "Maliye Bakanlığı veya uygun görmesi halinde vergi daireleri",
+                "C": "Sadece ilgili vergi dairesi",
+                "D": "Ticaret Bakanlığı",
+                "E": "İhracatçılar Birliği"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen '...ihracatçılara, Maliye Bakanlığınca veya Bakanlığın uygun görmesi halinde vergi dairelerince üç aya kadar ek süre verilebilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda yetkili olduğuna dair bir düzenleme kanun metninde yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ihraç edilmek şartıyla teslim edilen malların süresi içinde ve mücbir sebep olmaksızın ihraç edilmemesi halinde uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tecil olunan vergi, vade tarihinden itibaren gecikme zammı ile birlikte tahsil olunur.",
+                "B": "Tecil olunan vergi, tecil edildiği tarihten itibaren tecil faizi ile birlikte tahsil edilir.",
+                "C": "Sadece tecil olunan vergi tutarı ek bir faiz veya zam olmaksızın tahsil edilir.",
+                "D": "Tecil olunan verginin iki katı tutarında ceza kesilerek tahsilat yapılır.",
+                "E": "İhracatçının vergi mükellefiyeti resen sonlandırılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'İhracatın yukarıdaki şartlara uygun olarak gerçekleştirilmemesi halinde, tecil olunan vergi vade tarihinden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci Maddesine göre belirlenen gecikme zammı ile birlikte tahsil olunur.' hükmüne dayanmaktadır.\n- B seçeneği, mücbir sebeplerin varlığı halinde uygulanacak yaptırımdır. Diğer seçeneklerde belirtilen yaptırımlar ise kanun metninde yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİİ) sayılı listede yer alan malların teslimi veya ithalinde tahakkuk eden vergiyi, teminat almak suretiyle bu malların tüketiciye teslimine kadar tecil ettirme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Maliye Bakanlığı",
+                "B": "Hazine Müsteşarlığı",
+                "C": "Cumhurbaşkanı",
+                "D": "İlgili vergi dairesi müdürü",
+                "E": "Ticaret Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen '(III) sayılı listede yer alan malların...tesliminde veya ithalinde tahakkuk eden vergiyi, teminat alınmak suretiyle...tecil ettirmeye Cumhurbaşkanı yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerdeki makamların bu özel yetkiye sahip olduğu kanun metninde belirtilmemiştir. Maliye Bakanlığı'nın kanunun diğer maddelerinde farklı yetkileri bulunsa da bu spesifik tecil yetkisi Cumhurbaşkanına aittir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (İ) sayılı listenin (B) cetvelindeki malların, listeye dahil olmayan malların imalinde kullanılmak üzere tesliminde tecil edilen özel tüketim vergisinin, mücbir sebepler dolayısıyla süresi içinde terkin edilememesi durumunda uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tecil olunan vergi, vade tarihinden itibaren gecikme zammı ile birlikte alıcıdan tahsil edilir.",
+                "B": "Tecil edilen vergi, tecil edildiği tarihten itibaren tecil faizi ile birlikte alıcıdan tahsil edilir.",
+                "C": "Tecil edilen vergi herhangi bir ek ödeme alınmaksızın tamamen terkin edilir.",
+                "D": "Alıcıya, Maliye Bakanlığı tarafından oniki aya kadar ek süre verilir.",
+                "E": "Vergi tutarı iki katına çıkarılır ve teminattan derhal tahsil edilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'tecil edilen verginin 213 sayılı Vergi Usul Kanununda belirtilen mücbir sebepler dolayısıyla terkin edilememesi halinde bu vergi, tecil edildiği tarihten itibaren ... tecil faizi ile birlikte alıcıdan tahsil edilir' hükmüne dayanmaktadır.\n- A seçeneği, hükümlere uyulmamasının genel sonucudur ancak mücbir sebep istisnasını göz ardı ettiği için yanlıştır. Diğer seçeneklerde belirtilen verginin terkini, ek süre verilmesi veya verginin iki katına çıkarılması gibi durumlar kanunda bu hal için düzenlenmemiştir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, özel tüketim vergisine tabi bir malın, yine aynı listede yer alan başka bir malın imalinde kullanılması durumunda uygulanan vergi indirimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ödenen verginin tamamı mükellefe iade edilir.",
+                "B": "Vergi, teminat alınmak suretiyle tecil olunur.",
+                "C": "İndirim, yalnızca farklı listelerde yer alan mallar arasında uygulanır.",
+                "D": "İndirim uygulanabilmesi için Cumhurbaşkanı kararı gerekir.",
+                "E": "İndirime ilişkin esasları belirleme yetkisi Maliye Bakanlığına aittir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'ödenen vergi, Maliye Bakanlığınca belirlenen esaslara göre ödenecek vergiden indirilir' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen vergi indiriminin şartlarına (aynı listede yer alma), yöntemine (indirim) ve yetkili makama (Maliye Bakanlığı) aykırı bilgiler içerdiği için yanlıştır. Kanun, bu durumda verginin iadesini, tecilini veya Cumhurbaşkanı kararını öngörmemektedir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, Kanuna ekli (Iİ) sayılı listenin belirli G.T.İ.P. numaralarında yer alan malların imalinde kullanılan (İV) sayılı listedeki mallar için ödenen özel tüketim vergisine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi, teminat alınmak suretiyle tecil ve daha sonra terkin edilir.",
+                "B": "Ödenen vergi, ödenecek vergiden indirilerek mahsup edilir.",
+                "C": "Alış faturalarında gösterilen vergi, (II) sayılı listedeki malların imalatçısına iade edilir.",
+                "D": "Verginin iadesine ilişkin usul ve esasları belirleme yetkisi Cumhurbaşkanına aittir.",
+                "E": "Söz konusu vergiye ilişkin istisnalar, diğer kanunlarda yapılacak değişikliklerle düzenlenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9/A'da belirtilen '...özel tüketim vergisi, (II) sayılı listedeki malların imalatçısına iade edilir.' hükmüne dayanmaktadır.\n- A ve B seçenekleri, verginin tecili ve indirimi gibi farklı mekanizmaları düzenleyen Madde 8 ve Madde 9 ile ilgili olup bu özel durum için yanlıştır.\n- D seçeneği, yetkili makamı yanlış belirtmektedir; kanun bu yetkiyi Maliye Bakanlığına vermiştir.\n- E seçeneği, Madde 10'da belirtilen istisnaların ancak bu Kanunla düzenlenebileceği kuralına aykırıdır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, vergi indirimi, iadesi ve tecili mekanizmalarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Özel tüketim vergisine tâbi malların, yer aldığı listedeki başka bir malın imalinde kullanılması halinde ödenen vergi, imalatçıya iade edilir.",
+                "B": "İhraç edilmek şartıyla teslim edilen malların, teslim tarihini takip eden aybaşından itibaren oniki ay içinde ihraç edilmesi halinde tecil edilen vergi terkin olunur.",
+                "C": "Verginin tecilinde alınacak teminatların türü ve miktarını belirleme yetkisi Cumhurbaşkanına aittir.",
+                "D": "(IV) sayılı listedeki malların kullanılmasıyla imal edilen (II) sayılı listedeki belirli mallar için beyan edilen özel tüketim vergisi, imalatçısına iade edilir.",
+                "E": "(I) sayılı listenin (B) cetvelindeki malların, listeye dahil olmayan malların imalinde kullanılması halinde verginin tecil edilecek kısmını Maliye Bakanlığı belirler."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9/A'da belirtilen '(II) sayılı listenin ... malların imalinde kullanılan (IV) sayılı listedeki malların ... özel tüketim vergisi, (II) sayılı listedeki malların imalatçısına iade edilir' hükmüne dayanmaktadır.\n- A seçeneği, Madde 9'daki vergi indirimi mekanizmasını iade olarak yanlış tanımlamaktadır. B seçeneği, Madde 8'de ihracat için belirtilen üç aylık süreyi, başka bir durum için geçerli olan oniki ay ile karıştırmaktadır. C ve E seçenekleri, sırasıyla Madde 10 ve Madde 8'de Maliye Bakanlığı ile Cumhurbaşkanına ait olan yetkileri yanlış kişilere atfetmektedir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, özel tüketim vergisine ilişkin istisna ve muafiyetlerin düzenlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İstisna ve muafiyetler, yalnızca bu Kanuna hüküm eklenerek veya bu Kanunda değişiklik yapılarak düzenlenebilir.",
+                "B": "Diğer kanunlarda yer alan istisna veya muafiyet hükümleri, özel hüküm niteliğinde olduğundan bu vergi bakımından öncelikli olarak uygulanır.",
+                "C": "Uluslararası anlaşmalarda yer alan istisna hükümleri, kanunla çelişmesi halinde bu vergi bakımından geçersiz sayılır.",
+                "D": "İstisnaların uygulanmasına ilişkin usul ve esasları belirleme yetkisi münhasıran Cumhurbaşkanına aittir.",
+                "E": "Verginin tecilinde alınacak teminatların türü ve miktarlarını belirleme yetkisi vergi dairelerine bırakılmıştır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Özel tüketim vergisine ilişkin istisna ve muafiyetler ancak bu Kanuna hüküm eklenmek veya bu Kanunda değişiklik yapılmak suretiyle düzenlenir' hükmüne dayanmaktadır.\n- Diğer seçenekler: B ve C seçenekleri, kanunun 'Diğer kanunlarda yer alan istisna veya muafiyet hükümleri bu vergi bakımından geçersizdir. Uluslararası anlaşma hükümleri saklıdır' ifadesiyle çelişmektedir. D ve E seçeneklerinde belirtilen yetkiler ise Cumhurbaşkanı veya vergi dairelerine değil, Maliye Bakanlığı'na aittir, bu nedenle yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, özel tüketim vergisine ilişkin istisna ve muafiyetler hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İstisna ve muafiyetler, ancak bu Kanuna hüküm eklenerek veya bu Kanunda değişiklik yapılarak düzenlenebilir.",
+                "B": "Uluslararası anlaşma hükümleri, istisna ve muafiyetler konusunda saklı tutulmuştur.",
+                "C": "Maliye Bakanlığı, istisna ve muafiyetlerin uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.",
+                "D": "Diğer kanunlarda yer alan istisna veya muafiyet hükümleri, bu vergi bakımından da geçerli kabul edilir.",
+                "E": "Maliye Bakanlığı, verginin tecilinde alınacak teminatların türü ve miktarlarını belirleme yetkisine sahiptir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Diğer kanunlarda yer alan istisna veya muafiyet hükümleri bu vergi bakımından geçersizdir.' hükmüne dayanmaktadır. D seçeneğindeki ifade, bu kuralın tam tersini iddia ettiği için yanlıştır. - Diğer seçenekler, Madde 10'da yer alan istisna ve muafiyetlerin düzenlenme şekli, uluslararası anlaşmaların durumu ve Maliye Bakanlığı'nın yetkilerine ilişkin doğru ifadeler içerdiği için elenir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİİ) sayılı listenin (B) cetvelinde yer alan tütün mamüllerinin vergilendirilmesi ve bu ürünlere ilişkin istisnalar hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bu mallar için verginin matrahı, nihai tüketicilere perakende satış fiyatıdır.",
+                "B": "Bu mallar için maktu vergi ile birlikte, asgari maktu vergi tutarından az olmamak üzere nispi vergi uygulanır.",
+                "C": "Başka bir kanunda bu mallar için yer alan bir istisna hükmü, özel tüketim vergisi bakımından geçersizdir.",
+                "D": "Bu mallar için geçerli olacak bir istisna, Cumhurbaşkanı kararı ile düzenlenebilir.",
+                "E": "Bu mallara ilişkin uluslararası anlaşmalarda yer alan istisna hükümleri saklıdır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Özel tüketim vergisine ilişkin istisna ve muafiyetler ancak bu Kanuna hüküm eklenmek veya bu Kanunda değişiklik yapılmak suretiyle düzenlenir' hükmüne dayanmaktadır. Cumhurbaşkanının yetkisi Madde 11 uyarınca vergileme ölçülerini değiştirmekle sınırlıdır, kanunla düzenlenmesi gereken bir istisnayı karar ile getiremez.\n- Diğer seçenekler: A, B, C ve E seçeneklerindeki ifadeler, Madde 10 ve Madde 11'de yer alan hükümlerle birebir uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ), (Iİİ) [(B) cetvelindekiler hariç] ve (İV) sayılı listelerdeki mallar için özel tüketim vergisinin matrahı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Teslim, ilk iktisap ve ithalde, özel tüketim vergisi hariç, katma değer vergisi matrahını oluşturan unsurlardır.",
+                "B": "Malların nihai tüketicilere perakende satış fiyatıdır.",
+                "C": "Malların kilogram, litre veya metreküp cinsinden maktu tutarlarıdır.",
+                "D": "Birim ambalaj içindeki mamulün her bir gramı itibarıyla belirlenen değerdir.",
+                "E": "Yalnızca malların ithalindeki gümrük kıymetidir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 11'in 3. fıkrasında belirtilen '(II), (III) [(B) cetvelindekiler hariç] ve (IV) sayılı listelerdeki mallar için verginin matrahı; bunların teslimi, ilk iktisabı ve ithalinde, hesaplanacak özel tüketim vergisi hariç, katma değer vergisi matrahını oluşturan unsurlardan teşekkül eder' hükmüne dayanmaktadır.\n- Diğer seçenekler: B seçeneği (III) sayılı listenin (B) cetvelindeki malların matrahını, C ve D seçenekleri ise vergileme ölçülerini ifade ettiği için yanlıştır. E seçeneğinde belirtilen durum ise kanunda bu şekilde tanımlanmamıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİİ) sayılı listenin (B) cetvelinde yer alan tütün mamüllerine ilişkin vergi uygulamasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yalnızca nispi vergi uygulanır.",
+                "B": "Yalnızca maktu vergi uygulanır.",
+                "C": "Maktu vergi ile birlikte, asgari maktu vergi tutarından az olmamak üzere nispi vergi uygulanır.",
+                "D": "Vergi, içerdiği alkolün her bir litresi itibarıyla hesaplanır.",
+                "E": "Verginin matrahı, katma değer vergisi matrahını oluşturan unsurlardan teşekkül eder."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'in 5. fıkrasında belirtilen '(B) cetvelindeki mallar için maktu vergi ile birlikte, asgari maktu vergi tutarına göre hesaplanacak vergi tutarından az olmamak üzere nispi vergi uygulanır' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği (III) sayılı listenin (A) cetvelindeki mallar için geçerlidir. D ve E seçenekleri ise farklı mal gruplarına ait vergilendirme ölçülerini veya matrah tanımlarını içerdiği için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, kanunda yer alan vergileme ölçülerini değiştirme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Maliye Bakanlığı",
+                "B": "Cumhurbaşkanı",
+                "C": "Gelir İdaresi Başkanlığı",
+                "D": "Türkiye Büyük Millet Meclisi",
+                "E": "Vergi Denetim Kurulu"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'in son cümlesinde belirtilen 'Cumhurbaşkanı bu maddede yer alan vergileme ölçülerini değiştirmeye yetkilidir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunun 10. maddesinde Maliye Bakanlığı'na istisnaların uygulanmasına ilişkin yetki verilmiş olsa da, vergileme ölçülerini değiştirme yetkisi açıkça Cumhurbaşkanına aittir. Diğer kurulların bu konuda bir yetkisi bulunmamaktadır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, özel tüketim vergisine ilişkin yetkilerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İstisna ve muafiyetlerin uygulanmasına ilişkin usul ve esasları belirleme yetkisi Cumhurbaşkanına aittir.",
+                "B": "Verginin tecilinde alınacak teminatların türünü ve miktarını belirleme yetkisi Cumhurbaşkanına aittir.",
+                "C": "(III) sayılı listenin (B) cetvelindeki mallar için verginin matrahını belirleme yetkisi Maliye Bakanlığına aittir.",
+                "D": "Uluslararası anlaşmalarla getirilen istisnaların uygulanma usullerini belirleme yetkisi münhasıran Cumhurbaşkanına verilmiştir.",
+                "E": "Vergileme ölçülerini değiştirme yetkisi Cumhurbaşkanına aitken, istisna ve muafiyetlerin uygulanmasına ilişkin usul ve esasları belirleme yetkisi Maliye Bakanlığına aittir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Cumhurbaşkanı bu maddede yer alan vergileme ölçülerini değiştirmeye yetkilidir' hükmü ile Madde 10'da belirtilen 'Maliye Bakanlığı, bu Kanunda yer alan istisna ve muafiyetlerin uygulanması ... ilişkin usul ve esasları belirlemeye yetkilidir' hükümlerinin birleşimine dayanmaktadır.\n- Diğer seçenekler: Kanun, istisnaların uygulanması ve teminat türlerinin belirlenmesi yetkisini Maliye Bakanlığına, vergileme ölçülerini değiştirme yetkisini ise Cumhurbaşkanına verdiğinden yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, kanuna ekli (İ) ve (Iİİ) sayılı listelerdeki vergi tutarlarının belirli dönemlerde endekse göre güncellenmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her iki listedeki tutarlar da ocak ve temmuz aylarında Tüketici Fiyat Endeksindeki değişime göre güncellenir.",
+                "B": "(I) sayılı listedeki maktu vergi tutarları, Türkiye İstatistik Kurumu tarafından ilan edilen yurt içi üretici fiyat endeksinde son altı ayda meydana gelen değişim oranında yeniden belirlenmiş sayılır.",
+                "C": "Yeniden belirleme işlemi her yılın sadece ocak ayında ve Maliye Bakanlığı kararıyla yapılır.",
+                "D": "Cumhurbaşkanının, endekse göre yeniden belirlenmiş sayılan tutarların uygulanmamasına karar verme yetkisi bulunmamaktadır.",
+                "E": "(III) sayılı listedeki asgari maktu vergi tutarları, ithal ürün fiyat endeksindeki yıllık değişim oranına göre güncellenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12(5)'te belirtilen '(I) sayılı listede yer alan maktu vergi tutarları ... ocak ve temmuz aylarında, Türkiye İstatistik Kurumu tarafından ilan edilen yurt içi üretici fiyat endeksinde son altı ayda meydana gelen değişim oranında ... yeniden belirlenmiş sayılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Yanlış endeks türü (Tüketici Fiyat Endeksi, ithal ürün fiyat endeksi), yanlış sıklık veya yetkili makam belirtildiği ya da Cumhurbaşkanının kanunda açıkça tanınan yetkisinin (uygulanmamasına karar verme) yok sayıldığı için hatalıdır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, Cumhurbaşkanının vergi oran ve tutarlarını değiştirme yetkisiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "(I) sayılı listedeki maktu vergi tutarlarını, listede yer alan en yüksek vergi tutarının beş katına kadar artırmaya yetkilidir.",
+                "B": "(II) sayılı listedeki mallar için belirlenen oranları ve matrah sınırlarını üç katına kadar artırmaya yetkilidir.",
+                "C": "(III) sayılı listedeki mallar için belirlenen oranları her bir mal itibarıyla sıfıra kadar indirmeye yetkilidir.",
+                "D": "(IV) sayılı listedeki mallar için belirlenen oranları %50'ye kadar artırmaya yetkilidir.",
+                "E": "EURO normlarını sağlayan katalitik konvertörlü taşıtlarda uygulanmakta olan oranları yarısına kadar indirmeye yetkilidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 12(2)(d)'de (IV) sayılı listedeki mallar için artırım yetkisinin, belirli bir G.T.İ.P. numaralı mal için %50'ye, 'diğer mallar için %25’e kadar' olarak sınırlandırılmış olmasına dayanmaktadır. Seçenek, tüm liste için genelleme yaparak hatalı bir ifade sunmaktadır.\n- Diğer seçenekler: Madde 12(2)'nin ilgili bentlerinde (a, b, c) Cumhurbaşkanına tanınan artırma veya indirme yetkilerinin sınırları doğru bir şekilde ifade edildiği için doğrudur."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ) sayılı listedeki mallardan alınacak verginin hesaplanmasında asgari vergi tutarı neye göre belirlenir?",
+            "secenekler": {
+                "A": "Vergi, her durumda mükellefin bu malı alış bedeli üzerinden hesaplanır.",
+                "B": "Hesaplanacak vergi tutarı, malın imalatçısının satış bedeli veya ithalattaki katma değer vergisi matrahı üzerinden hesaplanan vergi tutarından az olamaz.",
+                "C": "Mükellefin alış bedeli üzerinden yapılan %20'ye kadar indirimler matrahtan düşülebilir.",
+                "D": "Vergi hesaplamasına ilişkin usul ve esasları belirleme yetkisi Cumhurbaşkanına aittir.",
+                "E": "Asgari vergi tutarı, malın perakende satış fiyatı üzerinden belirlenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12(1)'de yer alan '(II) sayılı listedeki mallardan alınacak vergi, ... her hâlükârda bu malların imalatçısının satış bedeli veya ithalatta hesaplanan katma değer vergisi matrahı üzerinden malın tabi olduğu orana göre hesaplanan vergi tutarından az olamaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Verginin her durumda alış bedelinden hesaplanmaması, indirim oranının %10 olması ve usul belirleme yetkisinin Maliye Bakanlığında olması gibi nedenlerle yanlıştır. Perakende satış fiyatı ise kanunda belirtilen bir ölçüt değildir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ) sayılı listedeki malların ilk iktisabı, teslimi veya ithaline ilişkin işlemlerde, gerekli verginin ödendiğini gösteren belgeleri aramaksızın işlem yapanlar arasında, ziyaa uğratılan vergiden mükellefle birlikte müteselsilen sorumlu tutulanlardan biri aşağıdakilerden hangisi değildir?",
+            "secenekler": {
+                "A": "Gümrük memurları",
+                "B": "Motorlu araç ticareti yapanlar",
+                "C": "İcra memurları",
+                "D": "Malların müzayede yoluyla satışını gerçekleştirenler",
+                "E": "Noterler"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'ziyaa uğratılan vergi, vergi cezası ve gecikme faizinden mükellefle birlikte müteselsilen sorumludurlar' hükmünde sayılan kişiler arasında noterlerin yer almamasına dayanmaktadır.\n- Diğer seçenekler: Madde 13'te, verginin ödendiğini gösteren belgeleri aramadan işlem yapmaları halinde müteselsilen sorumlu olacaklar arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, kullanılması zorunlu olan ulusal markeri bulunmayan veya standartlara uygun olmayan özel tüketim vergisine tabi malları bulundurduğu tespit edilenler hakkında uygulanacak temel hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Malların tespit tarihindeki miktarı üzerinden özel tüketim vergisinin resen tarh edilmesi ve vergi ziyaı cezası uygulanması",
+                "B": "Sadece idari para cezası kesilmesi ve mallara el konulması",
+                "C": "Mükellefiyetin bir yıl süreyle askıya alınması",
+                "D": "Verginin üç katı tutarında ağırlaştırılmış para cezası uygulanması",
+                "E": "Malların emsal bedeli üzerinden gümrük vergisi tarh edilmesi"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'malların tespit tarihindeki miktarı üzerinden ... özel tüketim vergisi resen tarh edilir. Bu tarhiyata ayrıca vergi ziyaı cezası uygulanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunun ilgili maddesinde belirtilen yaptırımlar arasında yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ithal edilen ham petrolün Türkiye'deki bir rafineride fason olarak rafine ettirilmesi sonucu elde edilen (İ) sayılı listedeki malların tesliminde doğacak özel tüketim vergisinin ödenmesinden, ham petrolü ithal edenle birlikte müteselsilen sorumlu olan taraf aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlgili rafineri şirketi",
+                "B": "Malları taşıyan nakliye firması",
+                "C": "Gümrük idaresi",
+                "D": "Malları son olarak satın alan tüketici",
+                "E": "Petrol Piyasası Düzenleme Kurumu"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'ham petrol ithalini gerçekleştirenlerle birlikte, ilgili rafineri şirketi müteselsilen sorumludur' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 13'te bu özel durum için tanımlanan müteselsil sorumluluk kapsamında sayılmadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ) sayılı listedeki mallarla ilgili verginin ödendiğini gösteren belgeleri aramadan işlem yapanların müteselsil sorumluluğuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ziyaa uğratılan vergiden mükellefle birlikte müteselsilen sorumludurlar.",
+                "B": "Vergi cezasından mükellefle birlikte müteselsilen sorumludurlar.",
+                "C": "Gecikme faizinden mükellefle birlikte müteselsilen sorumludurlar.",
+                "D": "Ödemek zorunda kaldıkları vergi, ceza ve faizler için mükellefe rücu hakları vardır.",
+                "E": "Sorumlulukları, sadece beyanname verme süresi içinde ödenmeyen vergi tutarı ile sınırlıdır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'ziyaa uğratılan vergi, vergi cezası ve gecikme faizinden mükellefle birlikte müteselsilen sorumludurlar' hükmüne dayanmaktadır. Kanun, sorumluluğu bu üç unsuru kapsayacak şekilde geniş tutmuş ve beyanname süresi gibi bir sınırlama getirmemiştir.\n- Diğer seçenekler: Madde 13'te müteselsil sorumluluğun kapsamı ve rücu hakkı olarak açıkça belirtildiği için doğrudur. E seçeneğindeki 'beyanname verme süresi' kavramı ise Madde 14'te genel beyan usulü için düzenlenmiş olup bu özel sorumluluk haliyle ilgili bir sınırlama değildir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (İ) sayılı listedeki mallar için vergilendirme dönemi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Faaliyette bulunulan takvim yılının birer aylık dönemleridir.",
+                "B": "Her ayın ilk onbeş günlük birinci ve kalan günlerinden oluşan ikinci dönemdir.",
+                "C": "Vergilendirme dönemini izleyen onuncu gündür.",
+                "D": "Beyannamenin verildiği günü takip eden yedi günlük süredir.",
+                "E": "Her takvim yılının üçer aylık dönemleridir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Vergilendirme dönemi; bu Kanuna ekli (I) sayılı listedeki mallar için her ayın ilk onbeş günlük birinci ve kalan günlerinden oluşan ikinci dönem' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği diğer listelerdeki mallar için geçerli olan vergilendirme dönemini, C ve D seçenekleri ise beyanname verme ve tarh sürelerini ifade ettiği için yanlıştır. E seçeneği ise kanunda yer almayan bir düzenlemedir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ) sayılı listedeki kayıt ve tescile tâbi mallara ait özel tüketim vergisinin beyanı ve ödenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Beyanname, vergilendirme dönemini izleyen ayın onbeşinci günü akşamına kadar verilir ve vergi aynı süre içinde ödenir.",
+                "B": "Beyanname, ilk iktisap ile ilgili işlemlerin tamamlanmasından önce verilir ve vergi aynı günde ödenir.",
+                "C": "Vergi, gümrük idaresince hesaplanır ve ithalat vergileri ile aynı zamanda ödenir.",
+                "D": "Beyanname, vergilendirme dönemini izleyen onuncu günü akşamına kadar verilir ve vergi aynı günde ödenir.",
+                "E": "Vergi, beyannamenin verildiği günü takip eden yedi gün içinde tarh edilir ve bu süre içinde ödenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 14'te yer alan '(II) sayılı listedeki kayıt ve tescile tâbi mallara ait özel tüketim vergisi beyannamesi, ilk iktisap ile ilgili işlemlerin tamamlanmasından önce bu işlemlerin yapıldığı yer vergi dairesine verilir ve vergi aynı günde ödenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve D seçenekleri diğer mal gruplarına ait beyan sürelerini, C seçeneği ithalat rejimini, E seçeneği ise genel tarh süresini belirttiği için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ithalatta alınan özel tüketim vergisine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Vergi, ilgili gümrük idaresince hesaplanır.",
+                "B": "Vergi, gümrük mevzuatına göre kabul edilen beyanname üzerine imza alınarak tebliğ edilir.",
+                "C": "Vergi, ithalat vergileri ile aynı zamanda ödenir.",
+                "D": "İthalat vergilerine tâbi olmayan mallara ait vergi, beyannamenin tescil tarihindeki oranlar üzerinden hesaplanır.",
+                "E": "Vergi, beyannamenin verildiği günü takip eden yedi gün içinde ödenir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 14'te ithalatta alınan verginin 'ithalat vergileri ile aynı zamanda' ödeneceğinin belirtilmiş olmasıdır. Yedi günlük süre, genel tarh süresidir.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde yer alan ifadeler, Madde 14'te ithalatta alınan verginin usul ve esasına ilişkin doğru hükümlerdir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (İ) sayılı listedeki mallarla ilgili olarak aşağıdakilerden hangisi Cumhurbaşkanının yetkileri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Vergilendirme dönemini gün veya ay olarak belirlemek.",
+                "B": "Beyanname verme ve vergi ödeme süresini kısaltmak.",
+                "C": "Vergilendirmeyi ithal aşamasında gümrük idaresine yaptırmak.",
+                "D": "Müzayede yoluyla yapılan satışlarla ilgili tahsil usullerini belirlemek.",
+                "E": "Vergi ödeme süresini kısaltmak."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 14'te 'müzayede yoluyla yapılan satışlarla ilgili vergilerin beyanı ve ödeme zamanı ile tahsiline ilişkin usul ve esasları belirleme' yetkisinin Maliye Bakanlığına ait olduğunun belirtilmesine dayanmaktadır.\n- Diğer seçenekler: A, B, C ve E seçeneklerinde belirtilen yetkiler, Madde 14 uyarınca Cumhurbaşkanına tanınan yetkiler arasında yer almaktadır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, aşağıdakilerden hangisi Maliye Bakanlığının yetkilerinden biri değildir?",
+            "secenekler": {
+                "A": "Beyannamelerin şekil ve muhtevasını belirlemek.",
+                "B": "Mükellefin müracaatı üzerine veya resen tarh yerini tayin etmek.",
+                "C": "İşlemin mahiyetine göre verginin işlemden önce ödenmesi şartını koymak.",
+                "D": "(III) sayılı listedeki mallara ait verginin bandrol usulü ile tahsilini belirlemek.",
+                "E": "Ulusal markeri bulunmayan malları bulunduranlar adına resen vergi tarh etmek."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 14'te Maliye Bakanlığına tanınan yetkiler arasında 'ulusal markeri bulunmayan mallar adına resen vergi tarh etme' yetkisinin bulunmamasına dayanmaktadır. Bu durum Madde 13'te farklı bir düzenlemeye konu edilmiştir.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde yer alan yetkiler, Madde 14'te açıkça Maliye Bakanlığına verilmiş yetkiler arasında sayılmıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ) sayılı listede yer alan ve kayıt ve tescile tâbi olan bir malın ilk iktisabına ilişkin vergilendirme süreci ve sorumluluklarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi beyannamesi, ilk iktisap ile ilgili işlemlerin tamamlanmasından önce bu işlemlerin yapıldığı yer vergi dairesine verilir ve vergi aynı günde ödenir.",
+                "B": "Bu mallara ilişkin vergilendirme dönemi, faaliyette bulunulan takvim yılının birer aylık dönemleridir ve beyanname izleyen ayın onbeşinci günü akşamına kadar verilir.",
+                "C": "Motorlu araç ticareti yapanlar, verginin ödenip ödenmediğini kontrol etme yükümlülüğü olmaksızın işlem yapabilirler ve ziyaa uğratılan vergiden sorumlu tutulmazlar.",
+                "D": "Gümrük memurları veya kayıt ve tescile yetkili memurlar, ödemek zorunda kaldıkları vergi, ceza ve faizler için mükellefe rücu etme hakkına sahip değildir.",
+                "E": "Ziyaa uğratılan vergiden yalnızca malı iktisap eden mükellef sorumlu olup, müzayede yoluyla satışı gerçekleştirenlerin müteselsil sorumluluğu bulunmamaktadır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen '(II) sayılı listedeki kayıt ve tescile tâbi mallara ait özel tüketim vergisi beyannamesi, ilk iktisap ile ilgili işlemlerin tamamlanmasından önce ... verilir ve vergi aynı günde ödenir' hükmüne dayanmaktadır.\n- Diğer seçenekler: B seçeneği kayıt ve tescile tabi olmayan mallar için geçerli olan genel kuraldır. C, D ve E seçenekleri ise Madde 13'te belirtilen; motorlu araç ticareti yapanlar, gümrük memurları, kayıt ve tescile yetkili memurlar ile müzayede yoluyla satış yapanların müteselsil sorumluluğuna ve rücu hakkına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, özel tüketim vergisinin beyanı, ödenmesi ve bu süreçteki sorumluluklara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ham petrolün fason olarak rafine edilmesiyle elde edilen (I) sayılı listedeki malların tesliminde doğacak vergiden, ham petrol ithalatçısı ile rafineri şirketi müteselsilen sorumludur.",
+                "B": "(I) sayılı listedeki mallar için vergilendirme dönemi her ayın ilk onbeş günlük ve kalan günlerinden oluşan iki dönem olup, beyanname dönemi izleyen onuncu günü akşamına kadar verilir.",
+                "C": "Adi ortaklıklarda verginin ödenmesinden yalnızca tarhiyata muhatap tutulan ortak sorumlu olup, diğer ortakların müteselsil sorumluluğu bulunmamaktadır.",
+                "D": "Cumhurbaşkanı, (I) sayılı listedeki mallar için beyanname verme ve vergi ödeme süresini kısaltmaya yetkilidir.",
+                "E": "Maliye Bakanlığı, (III) sayılı listedeki mallara ait verginin bandrol usulü ile tahsiline ve beyannamelerin şekil ve muhtevasını belirlemeye yetkilidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'adi ortaklıklarda verginin ödenmesinden ortakların tamamı müteselsilen sorumlu olmak üzere ortaklardan herhangi birisi tarhiyata muhatap tutulur' hükmüne aykırıdır. Bu hüküm, tüm ortakların müteselsil sorumluluğunu açıkça düzenlemektedir.\n- Diğer seçenekler: A seçeneği Madde 13'te, B, D ve E seçenekleri ise Madde 14'te yer alan doğru hükümlere dayandığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, özel tüketim vergisi beyannamesinin verilme süresine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "(II) sayılı listedeki kayıt ve tescile tâbi olmayan malların tesliminde beyanname, vergilendirme dönemini izleyen onuncu günü akşamına kadar verilir.",
+                "B": "(III) ve (IV) sayılı listelerdeki mallar için beyanname, vergilendirme dönemini izleyen yirminci günü akşamına kadar verilir.",
+                "C": "(I) sayılı listedeki mallar için beyanname, vergilendirme dönemini izleyen onuncu günü akşamına kadar verilir.",
+                "D": "Beyanname posta ile gönderilmişse, postaneye verildiği tarihi takip eden yedi gün içinde vergi tarh edilir.",
+                "E": "(II) sayılı listedeki kayıt ve tescile tâbi mallara ait beyanname, ilk iktisabı izleyen ayın onbeşinci günü akşamına kadar verilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Beyanname, (I) sayılı listedeki mallar için vergilendirme dönemini izleyen onuncu günü, diğer mallar için vergilendirme dönemini izleyen ayın onbeşinci günü akşamına kadar ... verilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 14'te belirtilen beyanname verme sürelerini veya verginin tarhına ilişkin usulü yanlış yansıttığı için hatalıdır. (II), (III) ve (IV) sayılı listeler için süre 'izleyen ayın onbeşinci günü' iken, posta ile gönderilen beyannamelerde tarh süresi vergi dairesine geldiği tarihi takip eden yedi gündür."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, aşağıdakilerden hangisi Cumhurbaşkanının (I) sayılı listedeki mallara ilişkin yetkileri arasında yer almaz?",
+            "secenekler": {
+                "A": "Vergilendirme dönemini gün veya ay olarak belirlemek.",
+                "B": "Beyanname verme süresini kısaltmak.",
+                "C": "Vergi ödeme süresini kısaltmak.",
+                "D": "Vergilendirmeyi ithal aşamasında gümrük idaresine yaptırmak.",
+                "E": "Müzayede yoluyla yapılan satışlarla ilgili vergilerin beyan ve ödeme zamanını belirlemek."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 14'te Cumhurbaşkanına tanınan yetkiler arasında sayılmamıştır. Bu yetki, aynı maddenin farklı bir fıkrasında Maliye Bakanlığına verilmiştir.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde belirtilen hususlar, Madde 14'te açıkça Cumhurbaşkanının yetkileri arasında sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, vergiye tabi bir işlem söz konusu olmadığı halde düzenlediği belgede özel tüketim vergisi gösteren veya borçlu olduğu tutardan daha yüksek bir vergi gösteren mükellefin sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece alıcıyı uyarmakla yükümlüdür.",
+                "B": "Belgede gösterdiği vergiyi beyan ve ödemekle mükelleftir.",
+                "C": "Bu durumun tespiti halinde sadece idari para cezası uygulanır.",
+                "D": "Vergi dairesine bildirimde bulunarak sorumluluktan kurtulur.",
+                "E": "Alıcının rızasıyla belgeyi düzeltebilir ve ek bir yükümlülüğü kalmaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '...düzenlediği bu tür belgelerde bu vergiyi gösterenler, söz konusu vergiyi beyan ve ödemekle mükelleftirler. Bu hüküm Kanuna göre borçlu oldukları vergi tutarından daha yüksek bir tutarı gösteren mükellefler için de geçerlidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen bu açık yükümlülüğe aykırı olduğu veya böyle bir usul öngörülmediği için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, malların iade edilmesi, işlemden vazgeçilmesi veya yersiz vergi hesaplanması gibi durumlarda, mükelleflerin ödedikleri vergiler için düzeltme yapabilmesinin şartları arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "İade olunan malların fiilen işletmeye girmiş olması",
+                "B": "Yersiz veya fazla ödenen verginin alıcıya iade edilmesi",
+                "C": "Düzeltme talebinin yeminli mali müşavir raporuna bağlanması",
+                "D": "İşlemlerin defter kayıtları ve belgelerde gösterilmesi",
+                "E": "İşlemlerin beyannamede gösterilmesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen düzeltme şartları arasında 'yeminli mali müşavir raporu' gibi bir zorunluluk bulunmamasına dayanmaktadır.\n- Diğer seçenekler: Maddede; iade olunan malların fiilen işletmeye girmesi, fazla verginin alıcıya iadesi ve bu işlemlerin defter kayıtları, belgeler ile beyannamede gösterilmesi açıkça şart olarak sayılmıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ) sayılı listedeki kayıt ve tescile tabi bir mali istisnadan yararlanarak iktisap eden bir kişi, bu mali yedi yıl kullandıktan sonra istisnadan yararlanmayan bir başkasına satarsa, bu satışla ilgili uygulanacak hüküm aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Satış tarihinde geçerli olan oran üzerinden alıcıdan vergi alınır.",
+                "B": "Malın ilk iktisabındaki matrah esas alınarak satıcıdan vergi tahsil edilir.",
+                "C": "Mal beş yıldan fazla kullanıldığı için vergi alınmasını gerektiren hüküm uygulanmaz.",
+                "D": "Alıcı, beyannameyi işlemi takip eden ayın onbeşinci günü akşamına kadar vermelidir.",
+                "E": "Veraset yoluyla intikal hükümleri kıyasen uygulanır ve vergi alınmaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '...istisnadan yararlanılarak iktisap ettikleri kayıt ve tescile tabi malları 5 yıldan fazla kullanarak elden çıkarmaları durumunda bu hüküm uygulanmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve B seçenekleri, malın beş yıl içinde elden çıkarılması durumunda geçerlidir. D seçeneği, Madde 14'te düzenlenen genel beyan sürelerine atıfta bulunarak yanıltıcıdır ve bu özel duruma uygulanamaz. E seçeneği ise verasetin tamamen farklı bir istisna olması nedeniyle yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, matrahta değişiklik olması halinde mükelleflerin borçlandıkları vergiler için meydana geldiği dönem içinde düzeltme yapabilmelerine ilişkin 'dönem şartı', aşağıdaki mal gruplarından hangisi için aranmaz?",
+            "secenekler": {
+                "A": "(I) sayılı listedeki petrol ürünleri ve türevleri",
+                "B": "(III) sayılı listedeki alkollü ve alkolsüz içecekler",
+                "C": "(IV) sayılı listedeki havyar ve kürk gibi lüks tüketim malları",
+                "D": "(II) sayılı listede yer alan kayıt ve tescile tâbi olan mallar",
+                "E": "İthalat yoluyla ülkeye giren tüm mallar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '(II) sayılı listede yer alan kayıt ve tescile tâbi olan mallar için dönem şartı aranmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda, dönem şartı istisnasının sadece (II) sayılı listedeki kayıt ve tescile tabi mallar için öngörüldüğü belirtildiğinden diğer listelerdeki mallar için yapılan genellemeler yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ) sayılı listede yer alan ve kayıt ve tescile tâbi bir malın ilk iktisabına ilişkin vergisi ödenmiş, ancak mal kayıt ve tescil edildikten sonra alıcısı tarafından iade edilmiştir. Bu durumla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mükellef, ödediği vergiyi değişikliğin meydana geldiği dönem içinde düzeltebilir.",
+                "B": "Mükellef, ödediği vergiden mahsup yapma hakkına sahiptir.",
+                "C": "Bu durumda matrahta değişiklik vuku bulduğu için vergi düzeltmesi yapılamaz.",
+                "D": "Mükellef, ödediği vergi için iade talebinde bulunabilir.",
+                "E": "İade olunan malın fiilen işletmeye girmiş olması şartıyla vergi iade edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '(II) sayılı listedeki kayıt ve tescile tâbi olan malların kayıt ve tescil edildikten sonra iade edilmesi hali hariç' hükmüne dayanmaktadır. Bu hüküm, kayıt ve tescil sonrası iade durumunu genel düzeltme, mahsup ve iade hakkının dışında tutmaktadır.\n- Diğer seçenekler, kanunun bu özel istisnayı dikkate almayan genel düzeltme hallerini belirttiği için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, yersiz veya fazla vergi hesaplandığı hallerde mükelleflerin borçlandıkları vergiler için düzeltme yapabilmelerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tüm mallar için düzeltme, değişikliğin meydana geldiği vergilendirme dönemini izleyen ayın onbeşinci gününe kadar yapılmalıdır.",
+                "B": "(II) sayılı listede yer alan kayıt ve tescile tâbi mallarda yapılacak düzeltmeler için değişikliğin meydana geldiği dönem içinde yapılması şartı aranmaz.",
+                "C": "Düzeltme hakkı sadece malların iade edilmesi durumunda tanınmış olup, yersiz vergi hesaplanması bu kapsama girmez.",
+                "D": "(I) sayılı listedeki mallar için yapılacak düzeltmelerde, vergilendirme dönemini izleyen onuncu gün şartı aranır.",
+                "E": "Düzeltme talebinde bulunabilmek için yersiz ödenen verginin alıcıya iade edilmiş olması tek başına yeterli bir şarttır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 15'te yer alan '(II) sayılı listede yer alan kayıt ve tescile tâbi olan mallar için dönem şartı aranmaz.' hükmüne dayanmaktadır. Bu hüküm, bu tür mallar için genel kural olan düzeltmenin değişikliğin meydana geldiği dönem içinde yapılması zorunluluğuna bir istisna getirmektedir.\n- Diğer seçenekler, kanunda belirtilen genel kuralı istisnasız uygulamakta, Madde 14'teki beyan süreleriyle Madde 15'teki düzeltme kurallarını karıştırmakta veya düzeltme için aranan şartları eksik ya da yanlış belirtmektedir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, malların iadesi, işlemin gerçekleşmemesi veya matrahta değişiklik olması gibi durumlarda, mükelleflerin ödedikleri vergiler için düzeltme yapabilmeleri, mahsup edebilmeleri veya iade talebinde bulunabilmeleri için aranan şartlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "İade olunan malların fiilen işletmeye girmiş olması",
+                "B": "Yersiz veya fazla ödenen verginin alıcıya iade edilmesi",
+                "C": "Yapılan işlemlerin defter kayıtları ve belgelerde gösterilmesi",
+                "D": "Yapılan işlemlerin beyannamede gösterilmesi",
+                "E": "Durumun ilgili vergi dairesine otuz gün içinde yazılı olarak bildirilmesi"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen düzeltme, mahsup veya iade talebi için aranan şartlar hakkındaki hükme dayanmaktadır. Kanunda iade olunan malların fiilen işletmeye girmiş olması, fazla verginin alıcıya iade edilmesi ve bu işlemlerin defter kayıtları, belgeler ile beyannamede gösterilmesi şart koşulmuştur.\n- E seçeneğinde yer alan belirli bir süre içinde vergi dairesine yazılı bildirimde bulunma zorunluluğu, kanunda sayılan şartlar arasında yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, vergiye tâbi bir işlem söz konusu olmadığı halde düzenlediği belgede özel tüketim vergisi gösteren bir kişinin durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Belgeyi alan kişi gösterilen vergiyi ödemekle yükümlü olur.",
+                "B": "Belge geçersiz sayılır ve herhangi bir vergi borcu doğmaz.",
+                "C": "Belgeyi düzenleyen kişi, gösterdiği bu vergiyi beyan ve ödemekle mükelleftir.",
+                "D": "Belgeyi düzenleyen hakkında sadece usulsüzlük cezası kesilir.",
+                "E": "Vergi, belgeyi düzenleyen ile alan arasında yarı yarıya paylaştırılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te yer alan 'Vergiye tâbi bir işlem söz konusu olmadığı veya bu Kanun kapsamına giren vergiyi fatura veya benzeri belgelerde göstermeye hakkı bulunmadığı halde, düzenlediği bu tür belgelerde bu vergiyi gösterenler, söz konusu vergiyi beyan ve ödemekle mükelleftirler' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunun bu açık hükmüyle çeliştiği veya kanunda yer almayan farklı sonuçlar öngördüğü için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ) sayılı listedeki kayıt ve tescile tabi bir mali istisnadan yararlanarak iktisap eden bir kişinin, bu mali elden çıkarması durumunda özel tüketim vergisi alınmaması için mali en az kaç yıldan fazla kullanmış olması gerekmektedir?",
+            "secenekler": {
+                "A": "1",
+                "B": "3",
+                "C": "5",
+                "D": "7",
+                "E": "10"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'istisnadan yararlanılarak iktisap ettikleri kayıt ve tescile tabi malları 5 yıldan fazla kullanarak elden çıkarmaları durumunda bu hüküm uygulanmaz' ifadesine dayanmaktadır. Bu ifade, 5 yıldan fazla kullanım halinde vergi alınmayacağını belirtmektedir.\n- Diğer seçeneklerde belirtilen süreler kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ) sayılı listedeki kayıt ve tescile tâbi malların ilk iktisap tarihinden itibaren belirli bir süre içinde başka bir tür araca dönüştürülmesi halinde, daha önce ödenen vergi mahsup edilerek yeniden vergi alınmasını öngören bu süre kaç yıldır?",
+            "secenekler": {
+                "A": "İki yıl",
+                "B": "Üç yıl",
+                "C": "Yedi yıl",
+                "D": "Beş yıl",
+                "E": "On yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 15'te yer alan '(II) sayılı listedeki mallardan kayıt ve tescile tâbi olanların, ilk iktisap tarihinden itibaren beş yıl içinde ... dönüştürülmesi halinde ... özel tüketim vergisi alınır' hükmüne dayanmaktadır.\n- Diğer seçeneklerdeki süreler, kanunda bu durum için belirtilen süreyle uyumlu olmadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (Iİ) sayılı listedeki kayıt ve tescile tabi mallarla ilgili özel durumlar ve vergilendirme rejimine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Veraset yoluyla intikal eden malların ilk iktisabında istisna uygulanmış olsa dahi, mirasçılar adına kayıt ve tescil işlemi sırasında bu istisna nedeniyle vergi alınmaz.",
+                "B": "İlk iktisabında istisnadan yararlanan bir kişinin, malı beş yıldan fazla kullandıktan sonra satması durumunda, yeni alıcıdan özel tüketim vergisi talep edilmez.",
+                "C": "Bir malın ilk iktisap tarihinden itibaren beş yıl içinde kanunda belirtilen başka bir mal türüne dönüştürülmesi halinde, değişikliğin tescili tarihinde geçerli oran üzerinden vergi alınır.",
+                "D": "Kayıt ve tescil edildikten sonra iade edilen mallarla ilgili ödenen vergiler için, mükellefler tarafından meydana geldiği dönem içinde düzeltme yapılabilir.",
+                "E": "İstisnadan yararlananlar dışındaki bir kişi tarafından iktisap edilen mal için vergi, ilk iktisaptaki matrah esas alınarak hesaplanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 15(1)'de yer alan '(II) sayılı listedeki kayıt ve tescile tâbi olan malların kayıt ve tescil edildikten sonra iade edilmesi hali hariç...' ifadesi ile devamında gelen '(II) sayılı listede yer alan kayıt ve tescile tâbi olan mallar için dönem şartı aranmaz.' hükmünün birleşimine dayanmaktadır. Seçenek, bu mallar için de dönem şartı varmış gibi bir ifade kullanarak hataya düşmektedir.\n- Diğer seçenekler: A seçeneği Madde 15(2)(a)'daki 'veraset yoluyla intikaller hariç' hükmüyle; B seçeneği Madde 15(2)(a)'daki '5 yıldan fazla kullanarak elden çıkarmaları durumunda bu hüküm uygulanmaz' istisnasıyla; C ve E seçenekleri ise sırasıyla Madde 15(2)(b) ve Madde 15(2)(a)'da belirtilen kurallarla uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (İ) sayılı listedeki malların ithalinde, ödenecek özel tüketim vergisine karşılık alınacak teminatın turu, tutarı ve çözümüne ilişkin usul ve esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili gümrük idaresi",
+                "B": "Maliye Bakanlığı",
+                "C": "Hazine Müsteşarlığı",
+                "D": "Dış Ticaret Müsteşarlığı",
+                "E": "Sanayi ve Teknoloji Bakanlığı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen '(I) sayılı listedeki malların ithalinde, ödenecek özel tüketim vergisine karşılık olmak üzere türü, tutarı ve çözümüne ilişkin usul ve esasları Maliye Bakanlığınca belirlenmek suretiyle teminat alınır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumların bu konuda yetkili olduğuna dair bir düzenleme maddede yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, gümrükte vergisi ödenmeden veya eksik ödenerek ithal edilen malların hiç alınmamış veya eksik alınmış özel tüketim vergisi hakkında hangi kanundaki esaslara göre işlem yapılacağı düzenlenmiştir?",
+            "secenekler": {
+                "A": "Tüketicinin Korunması Hakkında Kanun",
+                "B": "Vergi Usul Kanunu",
+                "C": "4458 sayılı Gümrük Kanunu",
+                "D": "Kabahatler Kanunu",
+                "E": "Borçlar Kanunu"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen '...gümrükte vergisi ödenmeden veya eksik ödenerek ithal edilen malların hiç alınmamış veya eksik alınmış özel tüketim vergisi...hakkında 4458 sayılı Gümrük Kanunundaki esaslara göre işlem yapılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, metinde bu durum için atıf yapılan kanunlar arasında yer almadığından yanlıştır. A seçeneği Tüm Paket'teki başka bir maddede farklı bir konu için belirtilmiş olup eleyici niteliktedir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, verginin belgelendirilmesi ve hatalı vergi uygulamalarının düzeltilmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mükellefler, özel tüketim vergisini satış belgelerinde gösterme konusunda serbest bırakılmıştır.",
+                "B": "İthalde alınan özel tüketim vergisi, gümrük makbuzunda diğer ithalat vergileriyle birleşik olarak gösterilir.",
+                "C": "(II) sayılı listedeki kayıt ve tescile tâbi malların iadesi durumunda vergi düzeltmesi için işlemin yapıldığı takvim yılı içinde talepte bulunulması zorunludur.",
+                "D": "Gümrükte vergisi eksik ödenerek ithal edilen malların eksik alınmış özel tüketim vergisi hakkında Gümrük Kanunundaki esaslara göre işlem yapılır.",
+                "E": "Yersiz veya fazla vergi hesaplandığı tüm hallerde, düzeltme işlemi için Gümrük Kanunu hükümleri uygulanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 16(3)'te belirtilen 'Bu Kanuna göre gümrükte vergisi ödenmeden veya eksik ödenerek ithal edilen malların hiç alınmamış veya eksik alınmış özel tüketim vergisi...hakkında 4458 sayılı Gümrük Kanunundaki esaslara göre işlem yapılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği, Madde 15(1)'deki 'göstermeye mecburdurlar' hükmüyle; B seçeneği, Madde 16(1)'deki 'ayrıca gösterilir' hükmüyle; C seçeneği, Madde 15(1)'deki '(II) sayılı listede yer alan kayıt ve tescile tâbi olan mallar için dönem şartı aranmaz' hükmüyle çelişmektedir. E seçeneği ise hatalıdır çünkü Gümrük Kanunu sadece ithalat işlemleri için geçerlidir, yurtiçi işlemler için Madde 15'teki düzeltme usulleri uygulanır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, (İ) sayılı listedeki malların ithalinde ödenecek özel tüketim vergisine karşılık alınacak teminatın turu, tutarı ve çözümüne ilişkin usul ve esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı",
+                "B": "Maliye Bakanlığı",
+                "C": "Gümrük idareleri",
+                "D": "T.C. Merkez Bankası",
+                "E": "Ticaret Bakanlığı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen '(I) sayılı listedeki malların ithalinde, ödenecek özel tüketim vergisine karşılık olmak üzere türü, tutarı ve çözümüne ilişkin usul ve esasları Maliye Bakanlığınca belirlenmek suretiyle teminat alınır' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda bir yetkisi bulunmamaktadır. Gümrük idareleri işlemi yürütse de usul ve esasları belirleme yetkisi kanunla Maliye Bakanlığına verilmiştir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, ithal edilen mallara ilişkin özel tüketim vergisi uygulamaları ve gelir paylaşımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "(III) sayılı listedeki malların ithalinde, ödenecek vergiye karşılık Maliye Bakanlığınca belirlenen usullere göre teminat alınır.",
+                "B": "İthal edilecek mala ilişkin beyan ile muayene sonucu hesaplanan vergiler arasında fark olması durumunda, bu fark için herhangi bir para cezası kesilmez.",
+                "C": "Cumhurbaşkanı, (I) sayılı listedeki malların ithalinde alınacak teminatın tutarını sıfıra kadar indirmeye yetkilidir.",
+                "D": "(I) sayılı listedeki malların ithalinde, ödenecek özel tüketim vergisine karşılık olmak üzere teminat alınması usulü uygulanır.",
+                "E": "(III) sayılı listedeki mallardan tahsil edilen vergi hasılatının tamamı Savunma Sanayii Destekleme Fonuna aktarılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 16(4)'te belirtilen '(I) sayılı listedeki malların ithalinde, ödenecek özel tüketim vergisine karşılık olmak üzere ... teminat alınır' hükmüne dayanmaktadır.\n- Diğer seçenekler: (A) seçeneği teminat usulünü yanlış listeye atfetmekte, (C) seçeneği Cumhurbaşkanının Madde 17'de düzenlenen pay oranlarına ilişkin yetkisini Madde 16'daki teminat konusuyla yanlış bir şekilde ilişkilendirmektedir. (B) ve (E) seçenekleri ise kanunda belirtilen ceza ve oranlarla çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, özel tüketim vergisine ilişkin yetki ve usullerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "(I) sayılı listedeki malların ithalinde alınacak teminatın türü ve tutarına ilişkin usul ve esasları belirleme yetkisi Maliye Bakanlığına aittir.",
+                "B": "Cumhurbaşkanı, (III) sayılı listedeki malların vergi hasılatından Savunma Sanayii Destekleme Fonuna ayrılacak pay oranını sıfıra kadar indirme yetkisine sahiptir.",
+                "C": "Gümrükte vergisi eksik ödenerek ithal edilen malların hiç alınmamış özel tüketim vergisi hakkında Gümrük Kanunundaki esaslara göre işlem yapılır.",
+                "D": "İthalat vergileri teminata bağlanarak işlem gören malların özel tüketim vergisi için de aynı teminat usulü uygulanır.",
+                "E": "Cumhurbaşkanı, (I) sayılı listedeki malların ithalinde alınacak teminatın çözümüne ilişkin usul ve esasları belirlemeye yetkilidir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 16(4)'te (I) sayılı listedeki malların ithalinde alınacak teminata ilişkin usul ve esasları belirleme yetkisinin Maliye Bakanlığına ait olduğunun belirtilmesine dayanmaktadır; Cumhurbaşkanına böyle bir yetki tanınmamıştır.\n- Diğer seçenekler: Kanunda belirtilen yetki ve usul kurallarına uygun olduğu için doğrudur. Özellikle (B) seçeneği Cumhurbaşkanının Madde 17'deki hasılat paylaşımına ilişkin yetkisini doğru bir şekilde ifade ederken, (E) seçeneği bu yetkiyi Madde 16'daki teminat belirleme alanına yanlış bir şekilde atfetmektedir."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, Kanuna ekli (Iİİ) sayılı listede yer alan mallar üzerinden tahsil edilen özel tüketim vergisi hâsilatından Savunma Sanayii Destekleme Fonuna ayrılan pay ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Fona ayrılacak pay oranı %0,2 olarak belirlenmiştir.",
+                "B": "Ayrılacak pay, Maliye Bakanlığınca, tahsilâtın yapıldığı ayı takip eden ayın sonuna kadar Fon hesabına yatırılır.",
+                "C": "Payın yatırılacağı Fon hesabı herhangi bir ticari bankada olabilir.",
+                "D": "Pay, tahsilâtın yapıldığı takvim yılı sonuna kadar Fon hesabına aktarılır.",
+                "E": "Fona pay ayırma yetkisi Gümrük idarelerine aittir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Bu hükme göre ayrılacak pay, Maliye Bakanlığınca, tahsilâtın yapıldığı ayı takip eden ayın sonuna kadar T.C. Merkez Bankasındaki Fon hesabına yatırılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 17'de belirtilen pay oranı (%7,9), banka (T.C. Merkez Bankası) ve ödeme süresi (tahsilatı takip eden ayın sonu) ile ilgili yanlış bilgiler içerdiği için hatalıdır."
+        },
+        {
+            "soru": "4760 Sayılı Özel Tüketim Vergisi Kanunu'na göre, özel tüketim vergisi hasılatından verilecek paylara ilişkin oranları topluca veya ayrı ayrı sıfıra kadar indirme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Maliye Bakanlığı",
+                "B": "Savunma Sanayii Destekleme Fonu Yönetim Kurulu",
+                "C": "T.C. Merkez Bankası",
+                "D": "Cumhurbaşkanı",
+                "E": "Gümrük idareleri"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Cumhurbaşkanı, bu madde uyarınca özel tüketim vergisi hasılatından verilecek paylara ilişkin oranları topluca veya ayrı ayrı sıfıra kadar indirmeye yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen diğer kurumlar payların ödenmesi, teminat alınması veya hesapların tutulması gibi farklı görevlere sahip olup, oranları indirme yetkisi onlara verilmediği için yanlıştır."
+        }
+    ]
+}

@@ -1,0 +1,952 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin görevi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Adli ve idari yargı mercileri arasındaki uyuşmazlıklara ilişkin tavsiye niteliğinde kararlar verir.",
+                "B": "Yalnızca adli yargı mercileri arasındaki görev uyuşmazlıklarını çözmekle görevlendirilmiştir.",
+                "C": "Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözmeye yetkilidir.",
+                "D": "Hakemlik görevi bir hakim tarafından yerine getirilmişse, bu merci her durumda adli yargı mercii sayılır.",
+                "E": "Bağımsız bir mahkeme olup, kararları Anayasa Mahkemesi denetimine tabidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözmeye yetkili' hükmüne dayanmaktadır. Uyuşmazlık Mahkemesi, bu uyuşmazlıkları nihai olarak karara bağlayan bağımsız bir yüksek mahkemedir.\n- Diğer seçenekler, mahkemenin kararlarının niteliğini (tavsiye), görev alanını (yalnızca adli), hakemlik durumundaki sayılma halini (her durumda adli) yanlış belirttiği ya da kararlarının kanunda yer almayan bir denetime tabi olduğunu ileri sürdüğü için hatalıdır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin kuruluşu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Uyuşmazlık Mahkemesi Başkanı, Anayasa Mahkemesince kendi üyeleri arasından seçilir.",
+                "B": "Mahkeme, bir Başkan ile altı asıl ve altı yedek üyeden kurulur.",
+                "C": "Danıştay Genel Kurulunca kendi daire başkan ve üyeleri arasından ikişer asıl ve ikişer yedek üye seçilir.",
+                "D": "Yargıtay Hukuk Genel Kurulu, mahkemeye üç asıl ve üç yedek üye seçer.",
+                "E": "Toplantı yetersayısı, asıl üyelerin mazeretleri halinde yedek üyeler alınmak suretiyle sağlanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Uyuşmazlık Mahkemesine, Yargıtay Hukuk Genel Kurulu ile Danıştay Genel Kurulunca kendi daire başkan ve üyeleri arasından üçer asıl, üçer yedek üye seçilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen Uyuşmazlık Mahkemesinin kuruluşuna ilişkin doğru ifadelerdir. C seçeneğinde belirtilen üye sayısı 'ikişer' değil, 'üçer' olmalıdır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Başkanlığın boş veya Başkanın özürlü ya da izinli olması hâllerinde, Başkana ait görev ve yetkileri yerine getirecek olan Başkanvekilini seçip görevlendirme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yargıtay Hukuk Genel Kurulu",
+                "B": "Danıştay Genel Kurulu",
+                "C": "Uyuşmazlık Mahkemesi Başkanı",
+                "D": "Uyuşmazlık Mahkemesi Genel Kurulu",
+                "E": "Anayasa Mahkemesi"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Başkanlığın boş veya Başkanın özürlü veya izinli olması hâllerinde Başkana ait görev ve yetkiler, Anayasa Mahkemesince kendi (...) üyeleri arasından seçilip görevlendirilen Başkanvekili tarafından yerine getirilir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurulların veya makamların, kanunda bu durum için Başkanvekilini seçme ve görevlendirme yetkisi bulunmamaktadır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi üyeliği için yapılacak seçimlerin zamanlamasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Görev süresi dolacak olanların yerine, bu sürenin sona ereceği tarihten önceki iki ay içinde seçim yapılır.",
+                "B": "Yaş haddi nedeniyle emeklilik halinde, ilgilinin emekliye ayrılacağı tarihten önceki iki ay içinde seçim yapılır.",
+                "C": "Görev süresi dolmadan boşalan yerlere, boşalma tarihinden itibaren üç ay içinde seçim yapılır.",
+                "D": "Görev süresi biten üyelerin yeniden seçilmesi mümkündür.",
+                "E": "Dört yıllık görev süresinin hesabında, üyenin göreve başlama tarihi esas alınır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'görev süresi dolmadan boşalan yerlere ise boşalma tarihinden itibaren iki ay içinde seçim yapılır' hükmüne dayanmaktadır. Seçenekte bu süre yanlış olarak üç ay şeklinde belirtilmiştir.\n- Diğer seçenekler: Madde 4'te yer alan görev süresi, yeniden seçilme ve seçim zamanına ilişkin kuralları doğru bir şekilde yansıttığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi Başkanı, Başkanvekili ve üyelerinin görev süresine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Üyelerin görev süresi altı yıldır ve bu süre uzatılamaz.",
+                "B": "Görev süresi bitenler yeniden seçilebilirler.",
+                "C": "Başkanın görev süresi, onu seçen Anayasa Mahkemesi tarafından ayrıca belirlenir.",
+                "D": "Dört yıllık sürenin hesabında, Danıştay Genel Kurulunun onayı esas alınır.",
+                "E": "Görev süresi dolmadan boşalan bir üyelik için seçim yapılmaz, yedek üye dönem sonuna kadar göreve devam eder."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Görev süresi bitenler yeniden seçilebilirler' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda görev süresi dört yıl olarak belirtilmiştir (A), Başkanın görev süresi için ayrı bir usul öngörülmemiştir (C), süre hesabında göreve başlama tarihinin esas alınacağı belirtilmiştir (D) ve boşalan yerlere seçim yapılacağı açıkça düzenlenmiştir (E). Bu nedenlerle diğer ifadeler yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi Başkanı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Mahkemenin yönetimi ve temsilinden sorumludur.",
+                "B": "Anayasa Mahkemesince kendi üyeleri arasından seçilir.",
+                "C": "Görev süresi dört yıldır ve bu sürenin hesabında göreve başlama tarihi esas alınır.",
+                "D": "Görev süresi biten Başkanın yeniden seçilmesi mümkün değildir.",
+                "E": "Başkanın özürlü olması hâlinde, görev ve yetkilerini Anayasa Mahkemesince görevlendirilen Başkanvekili kullanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Görev süresi bitenler yeniden seçilebilirler.' hükmüne dayanmaktadır. Bu hüküm, Başkanın da yeniden seçilebileceğini kapsar, bu nedenle D seçeneğindeki ifade yanlıştır.\n- Diğer seçenekler: A seçeneği Madde 3'te, B seçeneği Madde 2'de, C ve E seçenekleri ise sırasıyla Madde 4 ve Madde 3'te yer alan doğru bilgilerdir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Yargıtay Hukuk Genel Kurulu ile Danıştay Genel Kurulunca seçilen Uyuşmazlık Mahkemesi üyelerinin görev süresi ve yeniden seçilmeleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Üyeler altı yıl için seçilir ve görev süresi bitenler yeniden seçilemezler.",
+                "B": "Üyeler dört yıl için seçilir ve görev süresi bitenlerin yeniden seçilmeleri mümkündür.",
+                "C": "Üyeler iki yıl için seçilir ve ancak bir defa daha yeniden seçilebilirler.",
+                "D": "Üyelerin görev süresi, onları seçen kurulların takdirine bağlı olarak belirlenir.",
+                "E": "Üyeler, yaş haddi nedeniyle emekli olana kadar görevlerine devam ederler."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Uyuşmazlık Mahkemesinin Başkanı, Başkanvekili ve üyeleri dört yıl için seçilir.' ve 'Görev süresi bitenler yeniden seçilebilirler.' hükümlerinin birleşimine dayanmaktadır. Bu kurallar, Madde 2'de belirtilen Yargıtay ve Danıştay'dan seçilen üyeler için de geçerlidir.\n- Diğer seçenekler: Kanunda belirtilen dört yıllık görev süresi ve yeniden seçilebilme kuralıyla çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi Başkanı, Başkanvekili ve üyelerinin görev süresine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Üyelerin görev süresi altı yıl olup, bu sürenin hesabında seçimin yapıldığı tarih esas alınır.",
+                "B": "Görev süresi dört yıl olup, sürenin hesabında göreve başlama tarihi esas alınır.",
+                "C": "Görev süresi dört yıldır ve görev süresi bitenler hiçbir surette yeniden seçilemezler.",
+                "D": "Başkan ve Başkanvekilinin görev süresi dört yıl iken, üyelerin görev süresi iki yıldır.",
+                "E": "Görev süresi bitenlerin yeniden seçilebilmesi için en az iki yıl ara vermeleri gerekir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Uyuşmazlık Mahkemesinin Başkanı, Başkanvekili ve üyeleri dört yıl için seçilir. Dört yılın hesabında göreve başlama tarihi esas alınır.' hükmüne dayanmaktadır. - Diğer seçenekler, kanunda belirtilen görev süresi, sürenin başlangıcı ve yeniden seçilme koşullarına aykırı veya kanunda yer almayan bilgiler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi üyeliklerinde boşalma olması durumunda yapılacak seçimlerin zamanlamasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Görev süresi dolacak olanların yerine, bu sürenin sona ereceği tarihten önceki iki ay içinde seçim yapılır.",
+                "B": "Yaş haddi nedeniyle emeklilik halinde, ilgilinin emekliye ayrılacağı tarihten önceki iki ay içinde seçim yapılır.",
+                "C": "Görev süresi dolmadan boşalan yerlere, boşalma tarihinden itibaren iki ay içinde seçim yapılır.",
+                "D": "Toplantının gündemi, toplantıdan en az üç gün önce üyelere dağıtılır.",
+                "E": "Görev süresi dolmadan herhangi bir sebeple boşalan bir üyelik için, boşalma tarihinden itibaren on beş gün içinde seçim yapılır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'görev süresi dolmadan boşalan yerlere ise boşalma tarihinden itibaren iki ay içinde seçim yapılır' hükmüne aykırıdır. Kanun, bu durumda seçim için on beş günlük bir süre öngörmemiştir. - Diğer seçenekler, Madde 4'te belirtilen görev süresi sonu (A), yaş haddi (B) ve görevden ayrılma (C) durumlarındaki seçim zamanlamaları ile Madde 5'teki gündem dağıtım süresine (D) ilişkin doğru bilgiler içermektedir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, bir üyelik makamının 15 Temmuz tarihinde boşalması durumunda, bu makam için yapılacak seçimle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Seçim, mahkemenin çalışmaya ara verdiği dönemde yapılması gerektiğinden tatilin bitiminden itibaren iki ay içinde yapılır.",
+                "B": "Seçimin, boşalma tarihi olan 15 Temmuz'dan itibaren iki ay içinde yapılması gerekir.",
+                "C": "Mahkeme Başkanı, durumu acele nitelikte bir iş sayarak seçimin çalışmaya ara verme döneminden önce bitirilmesi için tedbir alır.",
+                "D": "Seçim, her yıl bir eylülde başlayan yeni çalışma döneminin ilk toplantısında gündeme alınarak gerçekleştirilir.",
+                "E": "Çalışmaya ara verme döneminde seçim yapılamayacağından, bu süre boyunca ilgili Başsavcı geçici olarak görevlendirme yapar."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'görev süresi dolmadan boşalan yerlere ise boşalma tarihinden itibaren iki ay içinde seçim yapılır' hükmüne dayanmaktadır. Kanun, Madde 5'te düzenlenen çalışmaya ara verme döneminin bu seçim süresini durdurduğuna veya ertelediğine dair bir istisna öngörmemiştir.\n- Diğer seçenekler: Madde 5'te düzenlenen çalışmaya ara verme ve acele işlere ilişkin kuralları, Madde 4'teki seçim süresine yanlış bir şekilde uyguladığı veya kanunda yer almayan usuller öngördüğü için hatalıdır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin her yıl çalışmaya ara verdiği dönem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bir temmuzdan otuz bir temmuza kadar",
+                "B": "Bir ağustostan otuz bir ağustosa kadar",
+                "C": "Yirmi temmuzdan otuz bir ağustosa kadar",
+                "D": "Bir eylülden otuz eylüle kadar",
+                "E": "Yirmi ağustostan yirmi eylüle kadar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'her yıl bir eylülde başlamak üzere, yirmi temmuzdan otuz bir ağustosa kadar çalışmaya ara verir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen tarih aralıkları, kanunda düzenlenen çalışmaya ara verme dönemine uymadığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, ilgili Başsavcıların veya görevlendirecekleri yardımcılarının Uyuşmazlık Mahkemesindeki rolüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Gerekli gördüklerinde yazılı olarak düşüncelerini bildirebilirler.",
+                "B": "Mahkemece gerekli görülen durumlarda toplantılarda sözlü açıklamalarda bulunabilirler.",
+                "C": "Oylamalara katılarak oy kullanma hakkına sahiptirler.",
+                "D": "Toplantılarda sözlü açıklamalarda bulunma yetkileri vardır.",
+                "E": "Düşüncelerini yazılı olarak bildirebilecekleri gibi sözlü olarak da açıklayabilirler."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen '[Başsavcılar] oya katılmazlar' hükmüne dayanmaktadır. Bu hüküm, ilgili Başsavcıların veya yardımcılarının oy hakkı olmadığını açıkça ifade eder.\n- Diğer seçeneklerde belirtilen hususlar (gerekli gördüklerinde yazılı düşünce bildirme, Mahkemece gerekli görüldüğünde sözlü açıklama yapma) Madde 6'da yer alan yetkilerle uyumlu olduğundan, bu ifadeler doğrudur."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, aşağıdakilerden hangisi Uyuşmazlık Mahkemesi Başkan ve Üyelerinin bakamayacağı dava ve işlerden biri değildir?",
+            "secenekler": {
+                "A": "Daha önce tanık olarak beyanda bulunduğu bir dava.",
+                "B": "Beşinci dereceden bir kan hısmının taraf olduğu dava ve işler.",
+                "C": "Sıhriyeti doğuran evlilik kalkmış olsa bile ikinci dereceden bir sıhri hısmının taraf olduğu bir iş.",
+                "D": "Dava sahiplerinden birinin vasisi sıfatıyla hareket ettiği bir dava.",
+                "E": "Hakkında daha önceden istişari kanaat beyan etmiş olduğu bir iş."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen kan hısımlığına ilişkin yasak kapsamına dayanmaktadır. Hükme göre, Başkan ve üyeler dördüncü dereceye kadar (bu derece dahil) kan hısımlarının dava ve işlerine bakamazlar. Beşinci dereceden bir kan hısmı bu kapsamın dışında kaldığı için bu seçenekte belirtilen duruma bakılmasına bir engel yoktur.\n- Diğer seçenekler: Madde 7'de açıkça sayılan; daha önce tanık olarak beyanda bulunma, belirli derecedeki sıhri hısımlık, vasi sıfatıyla hareket etme ve istişari kanaat beyan etme gibi haller, dava ve işlere bakmanın caiz olmadığı durumlar arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, görev süresinin dolmasına bir ay kalan bir Uyuşmazlık Mahkemesi üyesinin, dördüncü dereceden kan hısımının taraf olduğu bir davaya bakmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Üye, görev süresinin sonuna yaklaştığı için davaya bakabilir ancak oy kullanamaz.",
+                "B": "Üye, söz konusu davaya bakamaz ve görev süresi bittiğinde yeniden seçilmesi mümkündür.",
+                "C": "Üyenin davaya bakabilmesi için ilgili Başsavcının yazılı düşüncesini bildirmesi zorunludur.",
+                "D": "Üye, yalnızca istişari mütalaa beyan etmiş olduğu dava ve işlere bakmaktan çekilmek zorundadır.",
+                "E": "Görev süresi biten üye yeniden seçilemeyeceği için davaya bakmasında bir sakınca yoktur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'dördüncü dereceye kadar (bu derece dahil) kan yönünden ... civar hısımlarının ... dava ve işlerine bakamazlar' hükmü ile Madde 4'te yer alan 'Görev süresi bitenler yeniden seçilebilirler' hükmünün birleşimine dayanmaktadır. Üyenin davaya bakması yasaktır, ancak görev süresi bittiğinde yeniden seçilme hakkı saklıdır.\n- Diğer seçenekler: Madde 7'deki yasak hallerini veya Madde 4'teki yeniden seçilme kuralını yanlış yorumladığı için hatalıdır. C seçeneği, Başsavcının rolünü (Madde 6) yasak halleriyle ilgisiz bir şekilde birleştirmektedir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, aşağıdakilerden hangisi Uyuşmazlık Mahkemesi Başkan ve Üyelerinin bakamayacağı dava ve işlerden biri değildir?",
+            "secenekler": {
+                "A": "Daha önce tanık olarak beyanda bulunmuş olduğu dava ve işler",
+                "B": "Aralarında evlilik bağı kalkmış olsa bile eşinin usul ve füruunun dava ve işleri",
+                "C": "Dava sahiplerinin kayyumu sıfatıyla hareket ettiği dava ve işler",
+                "D": "Taraflardan birinin avukatıyla aynı meslek odasına üye olduğu dava ve işler",
+                "E": "Kan yönünden dördüncü derece dahil civar hısımlarının dava ve işleri"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen yasak sebepleri arasında 'taraflardan birinin avukatıyla aynı meslek odasına üye olma' durumunun sayılmamış olmasına dayanmaktadır. Kanun, bakılamayacak halleri sınırlı sayıda listelemiştir.\n- Diğer seçenekler: Kanunda; daha önce tanık olarak beyanda bulunma, belirli derecedeki kan ve sıhri hısımların davaları ile kayyum sıfatıyla hareket etme durumları açıkça yasak kapsamına alındığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, adlı bir yargı merciinde açılan davada sanığın görev itirazı reddedilmiş ve bunun üzerine Cumhuriyet Başsavcısı olumlu görev uyuşmazlığı çıkarılması istemiyle Uyuşmazlık Mahkemesine başvurmuştur. Uyuşmazlık Mahkemesi üyelerinden birinin, daha önce aynı davada tanık olarak beyanda bulunduğu anlaşılmıştır. Bu durumla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Üyenin davaya bakması, ancak tarafların üyenin reddini istememesi halinde mümkündür.",
+                "B": "İlgili üye, daha önce tanık olarak beyanda bulunduğu bu işe bakamaz.",
+                "C": "Görev uyuşmazlığı davanın esasına ilişkin olmadığından, üyenin davaya katılmasına bir engel yoktur.",
+                "D": "Üye, tarafsız kalabileceği yönünde kanaat beyan ederse davaya bakmaya devam edebilir.",
+                "E": "Üyenin davadan çekilmesi için Uyuşmazlık Mahkemesinin oy birliğiyle karar vermesi gerekir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'tanık veya bilirkişi olarak beyanda bulunmuş olduğu dava ve işlere bakamazlar' hükmüne dayanmaktadır. Bu yasak, Madde 10'da düzenlenen olumlu görev uyuşmazlığı işlerini de kapsamaktadır.\n- Diğer seçenekler: Kanunda belirtilen yasak hallerinin mutlak olması, tarafların rızasına veya üyenin kendi kanaatine bağlı olmaması ve çekinme kararının oy birliğiyle alınacağına dair bir düzenleme bulunmaması nedeniyle yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin toplanmasına engel olacak sayıda başkan ve üyenin davaya bakmaktan çekinmek istemesi halinde yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Toplanma nisabını ortadan kaldırmayacak sayıdaki çekinme isteğinin kabul edilmesi.",
+                "B": "Çekinme taleplerinin toplu ret istemi sayılarak dinlenmemesi.",
+                "C": "Toplantının ertelenmesi ve yedek üyelerin davet edilmesi.",
+                "D": "Çekinme taleplerinin tamamının reddedilerek toplantının yapılması.",
+                "E": "Konunun incelenmesi için ilgili Başsavcıya gönderilmesi."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Mahkemenin toplanmasına engel olacak sayıda başkan ve üyenin çekinmek istemesi halinde, ancak toplanma nisabını ortadan kaldırmayacak sayıda başkan ve üyenin çekinme isteği kabul edilebilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda yer almayan veya farklı hukuki durumlar için öngörülmüş usuller olduğu için yanlıştır. Özellikle B seçeneğindeki 'toplu ret istemi' üyelerin reddiyle (Madde 9), E seçeneğindeki usul ise görev uyuşmazlığıyla (Madde 10) ilgili olup çekinme durumu için geçerli değildir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi Başkan ve üyelerinin reddi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Başkan ve üyeler, tarafsız kalamayacakları kanısını haklı kılan hallerin varlığı iddiasıyla reddolunabilir.",
+                "B": "Redde ilişkin istemler, hakkında ret isteminde bulunulan üye katılmaksızın incelenir.",
+                "C": "Mahkemenin toplanmasını engellemesi durumunda dahi toplu ret istemleri dinlenir.",
+                "D": "Ret istemleri üzerine verilen kararlar kesindir.",
+                "E": "Ret şahsi bir nitelik taşır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Mahkemenin toplanmasını engelleyen toplu ret istemleri dinlenmez.' hükmüne dayanmaktadır. Bu kural uyarınca, mahkemenin çalışmasını durduracak nitelikteki toplu ret talepleri incelenmez.\n- Diğer seçenekler, aynı maddede düzenlenen başkan ve üyelerin reddine ilişkin doğru usul ve esasları yansıttığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi üyelerinin reddi veya davadan çekinmelerine ilişkin taleplerin mahkemenin toplanmasını engellemesi durumunda izlenecek usulle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hem toplu ret hem de mahkemenin toplanmasını engelleyecek sayıdaki çekinme istemleri, istisnasız olarak dinlenmez.",
+                "B": "Toplanma nisabını tehlikeye düşüren her iki durumda da, taleplerin karara bağlanması için ilgili üyelerin toplantıya katılması zorunludur.",
+                "C": "Mahkemenin toplanmasını engelleyen toplu ret istemleri dinlenmezken, toplanmaya engel olacak sayıdaki çekinme istemlerinden ancak toplanma nisabını ortadan kaldırmayacak kadarı kabul edilebilir.",
+                "D": "Toplu ret istemleri kabul edilebilirken, mahkemenin toplanmasına engel olacak çekinme istemleri kesinlikle reddedilir.",
+                "E": "Her iki durumda da mahkeme, eksik üyelerin yerine yedek üye atayarak toplanma nisabını sağlar ve talepleri inceler."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Mahkemenin toplanmasını engelleyen toplu ret istemleri dinlenmez' hükmü ile Madde 8'de yer alan 'Mahkemenin toplanmasına engel olacak sayıda başkan ve üyenin çekinmek istemesi halinde, ancak toplanma nisabını ortadan kaldırmayacak sayıda başkan ve üyenin çekinme isteği kabul edilebilir' hükmünün karşılaştırılmasına dayanmaktadır.\n- Diğer seçenekler: Kanunun, toplanma nisabını etkileyen ret ve çekinme halleri için farklı usuller öngörmesi, ilgili üyelerin kararlara katılmaması ve metinde yedek üye atanmasına dair bir kural bulunmaması nedeniyle yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, reddedilen bir görevsizlik itirazının adli yargı yararına ileri sürülmesi durumunda, Uyuşmazlık Mahkemesinden uyuşmazlık çıkarma isteminde bulunma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Danıştay Başkanunsözcüsü",
+                "B": "Cumhuriyet Başsavcısı",
+                "C": "Görev itirazını reddeden mahkemenin başkanı",
+                "D": "Davanın taraflarından herhangi biri",
+                "E": "Uyuşmazlık Mahkemesi Başkanı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'reddedilen görevsizlik itirazı adli yargı yararına ileri sürülmüş ise Cumhuriyet Başsavcısı... yetkilidir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Danıştay Başkanunsözcüsü idari yargı yararına olan itirazlarda yetkiliyken, diğer belirtilen makamların veya kişilerin kanunda bu konuda bir yetkisi tanımlanmamıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, yetkili Başsavcı veya Başkanunsözcüsünün olumlu görev uyuşmazlığı çıkarmak amacıyla Uyuşmazlık Mahkemesinden istekte bulunabilmesi için aranan şartlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Hukuk mahkemelerinde görev itirazının en geç birinci oturumda yapılmış olması gerekir.",
+                "B": "İdari yargı yerlerinde görev itirazının dilekçe ve savunma evresi tamamlanmadan yapılmış olması gerekir.",
+                "C": "Görev itirazını inceleyen yargı yerinin kendisinin görevli olduğuna karar vermiş bulunması şarttır.",
+                "D": "Uyuşmazlık çıkarma isteminde bulunulabilmesi için görev itirazını reddeden kararın kesinleşmesi beklenmelidir.",
+                "E": "Görevsizlik kararının temyizen bozulması halinde, yargı merciinin bozmaya uyarak görevli olduğuna karar vermesi gerekir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da olumlu görev uyuşmazlığı çıkarılabilmesi için sayılan şartlar arasında 'kararın kesinleşmesi' gibi bir zorunluluk bulunmadığından D seçeneğidir.\n- Diğer seçenekler: Madde 10'da açıkça belirtilen; hukuk mahkemelerinde itirazın en geç birinci oturumda yapılması, idari yargıda dilekçe ve savunma evresi bitmeden yapılması, yargı yerinin kendini görevli sayması ve görevsizlik kararının bozulması sonrası bozmaya uyulması gibi koşullar doğru bir şekilde ifade edilmiştir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, reddedilen görevsizlik itirazının adli yargı yararına ileri sürülmesi durumunda, uyuşmazlık çıkarma isteminde bulunmaya yetkili makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Danıştay Başkanunsözcüsü",
+                "B": "Cumhuriyet Başsavcısı",
+                "C": "Uyuşmazlık Mahkemesi Başkanı",
+                "D": "İtirazı reddeden yargı merciinin başkanı",
+                "E": "Anayasa Mahkemesi Başkanı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'reddedilen görevsizlik itirazı adli yargı yararına ileri sürülmüş ise Cumhuriyet Başsavcısı' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneğindeki makam idari yargı yararına ileri sürülen itirazlarda yetkiliyken, diğer seçeneklerde belirtilen makamların olumlu görev uyuşmazlığı çıkarma isteminde bulunma yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, olumlu görev uyuşmazlığı çıkarılabilmesi için hukuk mahkemelerinde görev itirazının en geç ne zamana kadar yapılmış olması şarttır?",
+            "secenekler": {
+                "A": "Dilekçe ve savunma evresi tamamlanmadan",
+                "B": "Davanın açıldığı tarihten itibaren on beş gün içinde",
+                "C": "İlk duruşma zaptı imzalanmadan önce",
+                "D": "Birinci oturumda",
+                "E": "Esas hakkındaki mütalaaya karşı beyanlar sunulmadan önce"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'görev itirazının, hukuk mahkemelerinde en geç birinci oturumda ... yapılmış olması ... şarttır' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği idari yargı yerleri için geçerli olan süreyi belirtmektedir; diğer seçeneklerdeki süreler ise kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, aşağıdakilerden hangisi uyuşmazlık çıkarılamayacak haller arasında sayılmıştır?",
+            "secenekler": {
+                "A": "Anayasa Mahkemesinin Yüce Divan sıfatıyla baktığı davalar",
+                "B": "Adli ve idari yargı mercileri arasında çıkan olumlu görev uyuşmazlıkları",
+                "C": "Hukuk mahkemelerinde görülen alacak davaları",
+                "D": "İdari yargı yerlerinde görülen iptal davaları",
+                "E": "Ceza mahkemelerinde görülen ve itiraz yolu açık olan davalar"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Anayasa Mahkemesinin Yüce Divan sıfatıyla baktığı davalarda' uyuşmazlık çıkarılamayacağı hükmüne dayanmaktadır. Kanun, bu durumu ve Anayasa Mahkemesine açılan siyasi partilerin kapatılması davalarını uyuşmazlık çıkarılamayacak haller olarak açıkça saymıştır.\n- Diğer seçeneklerde belirtilen haller, kanunda sayılan bu istisnai durumlar arasında yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, olumlu görev uyuşmazlığı çıkarılmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Hukuk mahkemelerinde görev itirazının en geç birinci oturumda yapılmış olması, uyuşmazlık çıkarılabilmesi için bir şarttır.",
+                "B": "Görev itirazının reddedildiği bir ceza davasında, uyuşmazlık çıkarılmasını isteme süresi ret kararının kesinleştiği tarihten itibaren başlar.",
+                "C": "Anayasa Mahkemesinin Yüce Divan sıfatıyla baktığı bir davada, görev itirazının reddedilmesi halinde ilgili Başsavcı tarafından uyuşmazlık çıkarılması istenebilir.",
+                "D": "Reddedilen görevsizlik itirazı idari yargı yararına ileri sürülmüş ise uyuşmazlık çıkarma isteminde bulunmaya Danıştay Başkanunsözcüsü yetkilidir.",
+                "E": "Bir davada uyuşmazlık çıkarılması için yetkili makama sadece bir kez başvurulabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Anayasa Mahkemesinin Yüce Divan sıfatıyla baktığı davalarda... uyuşmazlık çıkarılamaz' hükmüne dayanmaktadır. Bu nedenle, Yüce Divan'ın baktığı bir davada uyuşmazlık çıkarılması istenemez.\n- Diğer seçeneklerde belirtilen usul kuralları, süre başlangıcı, yetkili makam ve başvuru sayısı ile ilgili hükümler Madde 10 ve Madde 12'de doğru bir şekilde ifade edilmiştir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, görev itirazı reddedilen bir yargı merciine, uyuşmazlık çıkarılması istemiyle dilekçe sunulması sonrasında merciin yapacağı işlemlere ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Dilekçeyi ve eklerini onbeş gün içinde doğrudan Uyuşmazlık Mahkemesine gönderir.",
+                "B": "Diğer tarafın cevabını beklemeden, dosyayı derhal uyuşmazlık çıkarmaya yetkili makama gönderir.",
+                "C": "Dilekçenin bir nüshasını, cevabını bildirmesi için yedi gün içinde diğer tarafa tebliğ eder.",
+                "D": "Diğer taraf süresi içinde cevap vermezse, dilekçeyi reddederek işlemi sonlandırır.",
+                "E": "İtiraz dilekçesi üzerine her durumda kendi ret kararını kaldırarak görevsizlik kararı vermek zorundadır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Bu yargı mercii, dilekçenin bir nüshasını ve varsa eklerini yedi gün içinde cevabını bildirmesi için diğer tarafa tebliğ eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen usul ve sürelere aykırı olduğu için yanlıştır. Yargı mercii, dosyayı doğrudan Uyuşmazlık Mahkemesine değil, yetkili makama gönderir; diğer tarafın cevabı için süre tanır; cevap gelmemesi işlemi sonlandırmaz, sadece cevap hakkından vazgeçilmiş sayılır ve merciin kendi ret kararını kaldırma zorunluluğu yoktur."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, görev itirazının reddi üzerine uyuşmazlık çıkarılması istemiyle yetkili makama sunulmak üzere dilekçe verme süresi ve bu sürenin başlangıcıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Dilekçe, itirazı reddeden yargı merciine iki nüsha olarak verilir.",
+                "B": "Genel kural olarak süre, itirazın reddine ilişkin kararın verildiği tarihten başlar.",
+                "C": "Kararın tebliği gerekiyorsa, süre tebliğ tarihinden itibaren işler.",
+                "D": "İtiraz yolu açık bulunan ceza davalarında süre, ret kararının kesinleştiği tarihten başlar.",
+                "E": "Dilekçe vermek için tanınan süre, sürenin başlangıcından itibaren yedi gündür."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen '...onbeş gün içinde, uyuşmazlık çıkarılmasını istemeye yetkili makama sunulmak üzere iki nüsha dilekçeyi itirazı reddeden yargı merciine verir.' hükmüne dayanmaktadır. Kanun, dilekçe verme süresini on beş gün olarak belirlemiştir.\n- Diğer seçenekler, Madde 12'de yer alan dilekçenin nüsha sayısı ve sürenin başlangıcına ilişkin doğru kuralları ifade etmektedir. E seçeneğindeki yedi günlük süre ise yargı merciinin dilekçeyi diğer tarafa tebliğ etme süresidir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, uyuşmazlık çıkarma isteminde bulunmaya yetkili makamca yapılacak işlemlere ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Yetkili makam, başvuruda kanunda öngörülen sürenin geçirilmiş olduğunu tespit ederse istemin reddine karar verir.",
+                "B": "Yetkili makamın istemin reddine ilişkin kararına karşı hiçbir yargı merciine başvurulamaz.",
+                "C": "Uyuşmazlık çıkarılmasını gerekli gördüğü durumda, yetkili makam en geç on gün içinde gerekçeli düşünce yazısını Uyuşmazlık Mahkemesine yollar.",
+                "D": "Yetkili makam Uyuşmazlık Mahkemesine başvurduğunu ilgili yargı merciine hemen bildirir ve bu merci davanın görülmesini geri bırakır.",
+                "E": "Uyuşmazlık Mahkemesi Başkanı, kendisine gelen düşünce yazısını ilgili Başsavcıya tebliğ etmek zorunda olup, Başsavcının on beş gün içinde cevap vermesi gerekir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Uyuşmazlık Mahkemesi Başkanı, düşünce yazısıyla eklerini... tebliğ edebilir.' ve '...yedi gün içinde yazılı karşılığını vermekle görevlidir.' hükümlerine dayanmaktadır. Seçenekte belirtilenin aksine, tebliğ işlemi zorunlu değil, takdiridir ve cevap süresi on beş gün değil, yedi gündür.\n- Diğer seçenekler, Madde 13'te sayılan yetkili makamın işlemleri ve kararlarına ilişkin hükümleri doğru yansıttığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, görev itirazının reddi üzerine uyuşmazlık çıkarılması sürecinde yetkili makamın ve yargı merciinin işlemleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Uyuşmazlık çıkarılmasını isteme süresinin geçirildiğini tespit eden yetkili makam, bu durumu Uyuşmazlık Mahkemesine bildirerek istemin reddini talep eder.",
+                "B": "Görev itirazını reddeden yargı mercii, kendisine sunulan dilekçeyi ve dava dosyası örneklerini doğrudan Uyuşmazlık Mahkemesine gönderir.",
+                "C": "Yetkili makam, uyuşmazlık çıkarılmasını gerekli gördüğünde, eksiklikleri tamamlanmış dosyayı aldıktan sonra en geç on gün içinde gerekçeli düşünce yazısıyla Uyuşmazlık Mahkemesine başvurur.",
+                "D": "Yetkili makamın, uyuşmazlık çıkarma istemini reddetme kararına karşı ilgili kişiler Danıştay'a başvurabilir.",
+                "E": "Uyuşmazlık Mahkemesine başvuran yetkili makam, davanın görülmesini geri bırakması için ilgili yargı merciine onbeş gün içinde bildirimde bulunur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Uyuşmazlık çıkarılmasını gerekli gördüğü durumlarda yetkili makam... en geç on gün içinde düzenleyeceği gerekçeli düşünce yazısını... Uyuşmazlık Mahkemesine yollar' hükmüne dayanmaktadır.\n- Diğer seçenekler, yetkili makamın ret kararı usulü, belgelerin gönderileceği merci, ret kararına itiraz yolu ve bildirim süresi gibi konularda kanunda belirtilen hükümlere aykırıdır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, uyuşmazlık çıkarılmasını gerekli gören yetkili makam, dilekçe ve eklerinin kendisine ulaştığı tarihten başlayarak, şayet eksiklikleri tamamlatma yoluna gitmemişse, en geç kaç gün içinde gerekçeli düşünce yazısını Uyuşmazlık Mahkemesine yollamalıdır?",
+            "secenekler": {
+                "A": "Yedi",
+                "B": "On",
+                "C": "On beş",
+                "D": "Yirmi",
+                "E": "Otuz"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen '...en geç on gün içinde düzenleyeceği gerekçeli düşünce yazısını... Uyuşmazlık Mahkemesine yollar...' hükmüne dayanmaktadır.\n- Diğer seçeneklerdeki süreler bu işlem için kanunda öngörülmemiştir. A seçeneğindeki yedi günlük süre ise Uyuşmazlık Mahkemesi Başkanı tarafından yapılan tebliğe karşı ilgili makamın yazılı karşılık verme süresidir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, uyuşmazlık çıkarma isteminde bulunmaya yetkili makamın, istemin reddine karar vermesi durumunda bu karara karşı aşağıdaki hukuki yollardan hangisine başvurulabilir?",
+            "secenekler": {
+                "A": "Uyuşmazlık Mahkemesine itiraz edilebilir.",
+                "B": "Danıştay'a iptal davası açılabilir.",
+                "C": "Yargıtay ilgili hukuk dairesine temyiz başvurusunda bulunulabilir.",
+                "D": "Hiçbir yargı merciine başvurulamaz.",
+                "E": "Anayasa Mahkemesine bireysel başvuru yapılabilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 13'te yer alan 'Bu karara karşı hiç bir yargı merciine başvurulamaz.' hükmüne dayanmaktadır. Bu hüküm, yetkili makamın istemin reddi kararının kesin olduğunu açıkça belirtmektedir.\n- Diğer seçenekler, kanunun bu açık ve kesin hükmüyle çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, uyuşmazlıkların çözümü sürecinde yer alan aktörler ve işlemleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Olumsuz görev uyuşmazlığının giderilmesi istemi, davanın taraflarınca ileri sürülebilir.",
+                "B": "Uyuşmazlık çıkarma isteminin reddi kararı, yetkili makam tarafından verilir ve bu karara karşı hiçbir yargı merciine başvurulamaz.",
+                "C": "Olumsuz görev uyuşmazlığında dava dosyaları, son görevsizlik kararını veren yargı merciince Uyuşmazlık Mahkemesine gönderilir.",
+                "D": "Uyuşmazlık Mahkemesi, olumsuz görev uyuşmazlığında görevli yargı merciini belirlerken ilgili Başsavcıların görüşünü alabilir.",
+                "E": "Olumsuz görev uyuşmazlığının giderilmesi istemi üzerine ilgili yargı mercii, davanın görülmesini geri bırakır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'ilgili yargı mercii... davanın görülmesini geri bırakır' hükmünün, uyuşmazlık çıkarma (olumlu görev uyuşmazlığı) sürecine ait olmasına dayanmaktadır. Olumsuz görev uyuşmazlığı için metinlerde böyle bir düzenleme bulunmamaktadır.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde belirtilen işlemler ve bu işlemleri yapan aktörler, sırasıyla Madde 14, 13, 15 ve 16'da doğru bir şekilde ifade edildiği için doğrudur."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, olumsuz görev uyuşmazlığının giderilmesi istemi ile uyuşmazlık çıkarma istemi arasındaki temel usul farklarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her iki durumda da uyuşmazlığın giderilmesi istemi yalnızca davanın taraflarınca yapılabilir.",
+                "B": "Uyuşmazlık çıkarma istemini reddetme yetkisi son görevsizlik kararı veren yargı merciine aittir.",
+                "C": "Olumsuz görev uyuşmazlığının giderilmesi, taraflardan birinin istemi üzerine son görevsizlik kararını veren yargı merciince başlatılırken; uyuşmazlık çıkarma, yetkili bir makamın başvurusu ile gerçekleşir.",
+                "D": "Her iki başvuru yolunda da yetkili makam on gün içinde gerekçeli düşünce yazısı hazırlayarak Uyuşmazlık Mahkemesine başvurur.",
+                "E": "Olumsuz görev uyuşmazlığında Uyuşmazlık Mahkemesine başvurulduğu ilgili yargı merciine bildirilirken, uyuşmazlık çıkarma isteminde böyle bir bildirim zorunluluğu yoktur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13, 14 ve 15'in karşılaştırılmasına dayanmaktadır. Madde 14 ve 15'e göre olumsuz görev uyuşmazlığı, tarafların istemi üzerine son görevsizlik kararını veren merci tarafından dosyaların gönderilmesiyle; Madde 13'e göre ise uyuşmazlık çıkarma, yetkili makamın başvurusuyla başlatılır.\n- Diğer seçenekler: A, B ve D seçenekleri her iki usulü hatalı bir şekilde birleştirdiği veya yanlış makamlara yetki atfettiği için; E seçeneği ise Madde 13'te uyuşmazlık çıkarma isteminde bildirim zorunluluğunun açıkça belirtilmesine aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, olumsuz görev uyuşmazlığının bulunduğunun ileri sürülebilmesi için gerekli olan şartlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Adli ve idari yargı mercilerinin, tarafları, konusu ve sebebi aynı olan bir davada kendilerini görevsiz görmeleri ve bu kararların kesinleşmiş olması gerekir.",
+                "B": "Davanın taraflarından en az birinin farklı olması, ancak konu ve sebebinin aynı olması uyuşmazlığın varlığı için yeterlidir.",
+                "C": "Yargı mercilerinin görevsizlik kararı vermiş olmaları yeterli olup, bu kararların kesinleşmiş olması şartı aranmaz.",
+                "D": "Uyuşmazlığın giderilmesi istemi, davanın taraflarının yanı sıra ilgili Başsavcı tarafından da ileri sürülebilir.",
+                "E": "Yalnızca adli yargı mercilerinin veya yalnızca idari yargı mercilerinin kendi aralarında görevsizlik kararı vermesi yeterlidir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Olumsuz görev uyuşmazlığının bulunduğunun ileri sürülebilmesi için adli ve idari yargı mercilerinin tarafları, konusu ve sebebi aynı olan davada kendilerini görevsiz görmeleri ve bu yolda verdikleri kararların kesin veya kesinleşmiş olması gerekir' hükmüne dayanmaktadır.\n- Diğer seçenekler, olumsuz görev uyuşmazlığının şartlarını (davanın unsurlarının aynı olması, kararların kesinleşmesi, istemde bulunabilecek kişiler) yanlış belirttiği için hatalıdır. D seçeneği, uyuşmazlığın giderilmesini isteme yetkisini kanunda 'ancak davanın taraflarınca' denilmesine rağmen başka bir makama da tanıyarak yanıltmaktadır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, olumsuz görev uyuşmazlıklarında dava dosyalarının Uyuşmazlık Mahkemesine gönderilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlk görevsizlik kararını veren yargı mercii, resen harekete geçerek dosyaları Uyuşmazlık Mahkemesine gönderir.",
+                "B": "Uyuşmazlık Mahkemesi, tarafların ortak başvurusu üzerine dosyaları ilgili yargı mercilerinden talep eder.",
+                "C": "Son görevsizlik kararını veren yargı mercii, kararın verildiği anda istem beklemeksizin dosyaları doğrudan gönderir.",
+                "D": "Davanın tarafları, görevsizlik kararları kesinleşince dosyaları doğrudan Uyuşmazlık Mahkemesine sunar.",
+                "E": "Son görevsizlik kararını veren yargı mercii, kararın kesinleşmesinden sonra taraflardan birinin istemi üzerine dosyaları Uyuşmazlık Mahkemesine gönderir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Olumsuz görev uyuşmazlıklarında dava dosyaları, son görevsizlik kararını veren yargı merciince, bu kararın kesinleşmesinden sonra (...) taraflardan birinin istemi üzerine... Uyuşmazlık Mahkemesine gönderilir' hükmüne dayanmaktadır.\n- Diğer seçenekler; dosyaları gönderen mercii (ilk görevsizlik kararı veren merci), işlemi başlatan usulü (resen, istem beklemeksizin) veya dosyaları sunan tarafı (tarafların kendisi) yanlış belirttiği için hatalıdır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, olumsuz görev uyuşmazlığına ilişkin dosyaların ilk incelemesi sırasında, Uyuşmazlık Mahkemesi'nin görevli yargı merciini belirten kararını vermeden önce gerekli gördüğü takdirde görüşünü alabileceği makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlgili Başsavcılar",
+                "B": "Davanın tarafları",
+                "C": "Son görevsizlik kararını veren yargı mercii",
+                "D": "Uyuşmazlık çıkarma isteminde bulunan yetkili makam",
+                "E": "Başkanunsözcüsü"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Uyuşmazlık Mahkemesi, olumsuz görev uyuşmazlığı ile ilgili dosyaların ilk incelemesi sırasında ve gerekli gördüğü hallerde ilgili Başsavcıların görüşünü de alarak, görevli yargı merciini belirten kararını verir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kişi veya mercilerin, bu aşamada Uyuşmazlık Mahkemesi tarafından görüşlerine başvurulacağına dair bir düzenleme bulunmamaktadır. Bu şıklar, uyuşmazlık sürecinin farklı aşamaları veya farklı uyuşmazlık türleri ile ilgilidir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin olumsuz görev uyuşmazlığına ilişkin dosyaları incelerken izleyeceği usul ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her durumda ilgili Başsavcıların görüşünü almak zorundadır.",
+                "B": "Gerekli gördüğü hallerde ilgili Başsavcıların görüşünü alarak görevli yargı merciini belirten kararını verir.",
+                "C": "Görevli yargı merciini belirlemeden önce davanın esası hakkında bir karar verir.",
+                "D": "Dosyaları ilgili yargı merciine iade ederek uyuşmazlığın orada çözülmesini bekler.",
+                "E": "Taraflardan birinin talebi üzerine davanın görülmesini geri bırakır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Uyuşmazlık Mahkemesi, ... gerekli gördüğü hallerde ilgili Başsavcıların görüşünü de alarak, görevli yargı merciini belirten kararını verir' hükmüne dayanmaktadır.\n- A seçeneği, Başsavcıların görüşünün alınmasının zorunlu değil, mahkemenin takdirine bağlı olması nedeniyle yanlıştır. Diğer seçenekler ise kanunda olumsuz görev uyuşmazlığı için öngörülen usule aykırıdır veya bu usulde yer almayan unsurlar içermektedir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, olumlu görev uyuşmazlığının giderilmesi için kendisine başvurulan yargı merciinin yapacağı işlemlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Dilekçelerden birini ve eklerini diğer yargı merciine derhal ileterek dava dosyasının kendisine gönderilmesini ister.",
+                "B": "Diğer dilekçeleri ve eklerini, cevaplarını bildirmeleri için karşı tarafa ve ilgili makamlara tebliğ eder.",
+                "C": "Süresi içinde cevap vermeyen tarafın, bu hakkından vazgeçmiş sayılacağını kabul eder.",
+                "D": "Dilekçeyi, alınan cevapları ve dava dosyalarını Uyuşmazlık Mahkemesine göndererek görevli merciin belirlenmesini ister.",
+                "E": "Karşı tarafa ve ilgili makamlara, cevabını bildirmesi için on beş günlük bir süre verir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Diğer dilekçeler ve varsa eklerini, yedi gün içinde cevabını bildirmesi için karşı tarafa ve ilgili makamlara tebliğ eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 17'de sayılan, başvurulan yargı merciinin yapması gereken doğru işlemleri ifade ettiği için yanlıştır. Kanun, karşı tarafa cevap için yedi gün süre tanınmasını öngörmüşken, E seçeneğinde bu süre hatalı olarak on beş gün şeklinde belirtilmiştir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi kararlarını bekleme ve sürelerin durması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Uyuşmazlık Mahkemesine başvurulduğunu bildiren yazının alındığı günden başlamak üzere altı ay içinde bu mahkemenin kararı gelmezse yargı mercii davayı görmeye devam eder.",
+                "B": "Yargı mercii davayı görmeye devam ederken esas hakkında son kararı vermeden Uyuşmazlık Mahkemesinin kararı gelirse, yargı mercii bu karara uymak zorundadır.",
+                "C": "Uyuşmazlık çıkarılacağı beyan edilerek yargı merciinden davaya bakmanın ertelenmesi talep edilebilir.",
+                "D": "Uyuşmazlık Mahkemesine başvurulduğu resmi yazı ile kendisine bildirilen yargı mercii, görev konusunda bir karar verilinceye kadar davanın görülmesini geri bırakır.",
+                "E": "Davanın görülmesinin geri bırakılması durumunda zamanaşımı süreleri, işin yeniden incelenmesine başlanacağı güne kadar durur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Uyuşmazlık çıkarılacağı bildirilerek yargı merciinden davaya bakmanın ertelenmesi istenemez.' hükmüne dayanmaktadır. Bu hüküm, sadece uyuşmazlık çıkarılacağı bildiriminin davayı erteletmek için yeterli olmadığını açıkça belirtir.\n- Diğer seçenekler, Madde 18'de Uyuşmazlık Mahkemesi kararlarını bekleme sürecine ilişkin doğru olarak düzenlenmiş kurallardır ve bu nedenle yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, olumlu görev uyuşmazlığı nedeniyle Uyuşmazlık Mahkemesine başvurulması ve davanın görülmesinin geri bırakılması sürecine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Başvuruyu alan yargı mercii, karşı tarafa cevap vermesi için yedi günlük süre tanır.",
+                "B": "Uyuşmazlık Mahkemesine başvurulduğu bildirilen yargı mercii, bir karar verilinceye kadar davanın görülmesini geri bırakır.",
+                "C": "Davanın görülmesinin geri bırakıldığı dönemde zamanaşımı ve diğer kanuni süreler durur.",
+                "D": "Uyuşmazlık Mahkemesinin kararı altı ay içinde gelmezse, yargı mercii davayı görmeye devam edebilir ve esas hakkında son kararını verebilir.",
+                "E": "Taraflar, uyuşmazlık çıkarılacağını bildirerek yargı merciinden davaya bakmanın ertelenmesini isteyemezler."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'ancak, esas hakkında son kararı vermeden Uyuşmazlık Mahkemesinin kararı gelirse yargı mercii bu karara uymak zorundadır' hükmüne dayanmaktadır. Bu hüküm, altı aylık sürenin dolmasıyla yargı merciinin davayı görmeye devam edebilse de, Uyuşmazlık Mahkemesi kararı gelmeden esas hakkında nihai bir karar veremeyeceğini göstermektedir.\n- Diğer seçenekler: Madde 17 ve 18'de belirtilen usul kurallarına uygun olduğu için doğrudur."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, kesinleşmiş bir görevsizlik kararı üzerine kendisine gelen davayı inceleyen bir yargı mercii, görevsizlik kararı veren merciin görevli olduğu kanısına varırsa yapması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Gerekçeli bir karar ile görevli merciin belirtilmesi için Uyuşmazlık Mahkemesine başvurmak ve işin incelenmesini ertelemek.",
+                "B": "Önceki görevsizlik kararına ilişkin dava dosyasını temin ederek doğrudan davayı görmeye devam etmek.",
+                "C": "Davayı, görevli olduğunu düşündüğü ilk yargı merciine gerekçesiz olarak iade etmek.",
+                "D": "İşin incelenmesini altı ayı geçmemek üzere erteleyerek tarafların uzlaşmasını beklemek.",
+                "E": "İlgili Başsavcının görüşünü alarak görevli yargı merciini kendisi belirlemek."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'gerekçeli bir karar ile görevli merciin belirtilmesi için Uyuşmazlık Mahkemesine başvurur ve elindeki işin incelenmesini Uyuşmazlık Mahkemesinin karar vermesine değin erteler' hükmüne dayanmaktadır.\n- Diğer seçenekler kanunda öngörülen usule aykırıdır. Yargı mercii, davayı iade etmek veya kendisi karar vermek yerine Uyuşmazlık Mahkemesine başvurmalı ve incelemeyi ertelemelidir. Altı aylık süre ise bu aşamada uygulanan bir kural değildir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, bir adlı yargı merciinin kesinleşmiş görevsizlik kararı üzerine dosyayı devralan idari yargı mercii, görevsizlik kararı veren adlı merciin görevli olduğu kanısına varırsa, izlenecek usul ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Davayı esastan reddederek dosyayı görevsizlik kararı veren ilk merciye iade eder.",
+                "B": "Gerekçeli bir karar ile görevli merciin belirtilmesi için Uyuşmazlık Mahkemesine başvurur ve bu başvuru üzerine Uyuşmazlık Mahkemesi, ilgili Başsavcıların görüşünü de alarak kararını verir.",
+                "C": "Davanın görülmesini durdurur ve taraflardan birinin Uyuşmazlık Mahkemesine başvurmasını bekler.",
+                "D": "Önceki görevsizlik kararını yok sayarak davayı esastan görmeye devam eder.",
+                "E": "Dosyayı ve gerekçeli başvuru kararını, görevli merciin belirlenmesi için doğrudan Yargıtay Cumhuriyet Başsavcılığına gönderir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'gerekçeli bir karar ile görevli merciin belirtilmesi için Uyuşmazlık Mahkemesine başvurur' hükmü ile Madde 16'da olumsuz görev uyuşmazlıkları için öngörülen 'ilgili Başsavcıların görüşünü de alarak, görevli yargı merciini belirten kararını verir' hükmünün birlikte değerlendirilmesine dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen başvuru mercii, başvuru usulü veya mahkemenin göreviyle ilgili hükümlere aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, kesinleşmiş bir görevsizlik kararı üzerine kendisine gelen davayı inceleyen bir yargı mercii, görevsizlik kararı veren merciin görevli olduğu kanısına varırsa yapması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Davayı derhal reddederek taraflara görevli mercide dava açmaları gerektiğini bildirmek.",
+                "B": "Önceki görevsizlik kararını kesin olarak kaldırıp davayı esastan görmeye devam etmek.",
+                "C": "Gerekçeli bir karar ile görevli merciin belirtilmesi için Uyuşmazlık Mahkemesine başvurmak ve işin incelenmesini ertelemek.",
+                "D": "Yalnızca kendi gerekçeli başvuru kararını Uyuşmazlık Mahkemesine gönderip, dava dosyalarını elinde tutmak.",
+                "E": "Temyiz incelemesi için dosyayı ilgili yüksek mahkemeye göndermek."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen '...gerekçeli bir karar ile görevli merciin belirtilmesi için Uyuşmazlık Mahkemesine başvurur ve elindeki işin incelenmesini Uyuşmazlık Mahkemesinin karar vermesine değin erteler.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen usul, yargı merciinin davayı reddetmesi veya esastan görmesi değil, Uyuşmazlık Mahkemesine başvurarak incelemeyi ertelemesidir. D seçeneği ise, hem önceki görevsizlik kararına ilişkin dava dosyasının hem de başvuruya ilişkin dosyanın birlikte gönderilmesi gerektiği kuralına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, daha önce Uyuşmazlık Mahkemesince yargı mercii belirtilmemiş bir davada temyiz incelemesi yapan yüksek mahkeme, davanın, davaya bakan mahkemenin görevi dışında olduğu kanısına varırsa aşağıdaki işlemlerden hangisini yapabilir?",
+            "secenekler": {
+                "A": "İncelediği kararı bozarak dosyayı ilk derece mahkemesine geri gönderir.",
+                "B": "Davanın esastan reddine karar vererek dosyayı kapatır.",
+                "C": "Doğrudan görevli yargı merciini belirleyerek kararı düzeltir.",
+                "D": "Yargılamanın yenilenmesi için dosyayı ilgili mahkemeye iade eder.",
+                "E": "İncelemeyi erteleyerek yargı merciinin belirtilmesi için Uyuşmazlık Mahkemesine başvurmaya karar verir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'incelediği kararı bozacak yerde, incelemeyi erteleyerek yargı merciinin belirtilmesi için Uyuşmazlık Mahkemesine başvurmaya karar verebilir' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen bu usule aykırıdır. Yüksek mahkemenin bu durumda kararı doğrudan bozması, görevli mercii kendisinin belirlemesi veya davayı esastan reddetmesi gibi yetkileri bu madde kapsamında düzenlenmemiştir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, bir hukuk davasında temyiz incelemesi yapan yüksek mahkemenin, incelemeyi erteleyerek yargı merciinin belirtilmesi için Uyuşmazlık Mahkemesine başvurmaya karar vermesi durumunda, davadaki ihtiyatı tedbir kararlarına ilişkin aşağıdaki yetkilerden hangisine sahip değildir?",
+            "secenekler": {
+                "A": "Süreye bağlı bir tedbir kararının süresini uzatmak.",
+                "B": "Kendisine karşı tedbir kararı verilmiş olanın isteği üzerine tedbiri değiştirmek.",
+                "C": "Tedbir kararı bulunmayan bir işte usulünce yeni bir tedbir kararı vermek.",
+                "D": "Uyuşmazlık Mahkemesinin kararını beklemeden, görevli merci adına davanın esası hakkında karar vermek.",
+                "E": "Kendisine karşı tedbir kararı verilmiş olanın isteği üzerine tedbiri kaldırmak."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'incelemeyi erteleyerek yargı merciinin belirtilmesi için Uyuşmazlık Mahkemesine başvurmaya karar verebilir' hükmüne dayanmaktadır. Mahkeme incelemeyi ertelemekle yükümlü olup davanın esası hakkında karar veremez.\n- Diğer seçenekler: Madde 22'de, yargı merciinin Uyuşmazlık Mahkemesine başvurması durumunda, başvuran o yargı merciinin tedbirleri kaldırmaya, değiştirmeye, süresini uzatmaya veya yeni tedbir kararı vermeye yetkili olduğu açıkça düzenlenmiştir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, adlı veya idari yargı mercilerinin görevli merciin belirtilmesi için Uyuşmazlık Mahkemesine başvurmaları üzerine gönderilen işlerin incelenmesinde hangi usul kuralları uygulanır?",
+            "secenekler": {
+                "A": "Olumsuz görev uyuşmazlıkları ile ilgili usul kuralları uygulanır.",
+                "B": "Hukuk davalarında uygulanan genel tedbir kuralları uygulanır.",
+                "C": "Temyiz incelemesi yapan yüksek mahkemenin kendi usul kuralları uygulanır.",
+                "D": "Davanın esasına ilişkin özel kanun hükümleri öncelikle uygulanır.",
+                "E": "Olumlu görev uyuşmazlıklarına ilişkin kurallar kıyasen uygulanır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen '...mahkemelerin gönderdikleri işlerin incelenmesinde Uyuşmazlık Mahkemesince, olumsuz görev uyuşmazlıkları ile ilgili usul kuralları uygulanır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen usul kuralları, kanunun bu özel durum için öngördüğü bir düzenleme olmadığından yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, hukuk davalarında bir yargı merciinin görevsizliğine ilişkin Uyuşmazlık Mahkemesi kararının davacıya bildirilmesinden sonra, daha önce verilmiş olan ihtiyatı tedbir veya ihtiyatı haciz gibi kararlar, görevi belli edilen yargı merciince kaldırılmadıkça en fazla ne kadar süreyle devam eder?",
+            "secenekler": {
+                "A": "On beş gün",
+                "B": "Otuz gün",
+                "C": "Kırk beş gün",
+                "D": "Altmış gün",
+                "E": "Doksan gün"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen '...görevsizliğine ilişkin Uyuşmazlık Mahkemesi kararlarının davacıya bildirilmesinden sonra da, görevi belli edilen yargı merciince kaldırılmadıkça, altmış gün süre ile devam eder.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler kanunda bu durum için öngörülmediğinden yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, adlı yargı merciinin, idari yargı merciince verilmiş kesinleşmiş bir görevsizlik kararı üzerine kendisine gelen davada, görevli merciin belirtilmesi için Uyuşmazlık Mahkemesine başvurması durumunda, idari yargı merciince daha önce verilmiş olan yürütmenin durdurulması kararının akıbetiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yürütmenin durdurulması kararı, Uyuşmazlık Mahkemesinin kararına kadar geçerliliğini korur.",
+                "B": "Uyuşmazlık Mahkemesine başvurulduğu anda karar kendiliğinden hükümsüz kalır.",
+                "C": "Kararın geçerliliği, sadece Uyuşmazlık Mahkemesi Başkanının vereceği ara karara bağlıdır.",
+                "D": "Görevli merciin belirlenmesinden sonra karar, başkaca bir işleme gerek kalmaksızın 30 gün daha devam eder.",
+                "E": "Uyuşmazlık Mahkemesine başvuran adli yargı mercii, bu kararı derhal kaldırmakla yükümlüdür."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'adli veya idari yargı mercilerince verilmiş bulunan ... yürütmenin durdurulması kararları, Uyuşmazlık Mahkemesinin kararına kadar geçerli kalacağı' hükmüne dayanmaktadır. Bu hüküm, Madde 19 uyarınca yapılan başvurularda da uygulanır.\n- Diğer seçenekler: Kanunda belirtilen sürelere, usullere veya yetkilere aykırı olduğu için yanlıştır. Özellikle D seçeneğindeki süre kanunda 60 gün olarak belirtilmiştir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, bir yargı merciinin görevsizliğine ilişkin Uyuşmazlık Mahkemesi kararının davacıya bildirilmesinden sonra, daha önce verilmiş olan ihtiyatı tedbir kararı, görevi belli edilen yargı merciince kaldırılmadıkça en fazla ne kadar süre ile devam eder?",
+            "secenekler": {
+                "A": "On beş gün",
+                "B": "Otuz gün",
+                "C": "Altmış gün",
+                "D": "Doksan gün",
+                "E": "Yüz yirmi gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen '...görevi belli edilen yargı merciince kaldırılmadıkça, altmış gün süre ile devam eder.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler kanunda yer almadığı için yanlıştır. Kanun, bu özel durum için net bir şekilde altmış günlük bir süre öngörmüştür."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, hukuk davalarında uyuşmazlık çıkarma durumunda, görevsizlik itirazını reddeden yargı merciinin yetkileri arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Kendisine karşı tedbir kararı verilmiş bulunanın isteği üzerine bu tedbirlerin kaldırılmasına karar vermek",
+                "B": "Süresi dolmak üzere olan bir tedbir kararının süresini uzatmak",
+                "C": "Tedbir kararı bulunmayan bir işte usulünce tedbir kararı vermek",
+                "D": "Mevcut ihtiyati tedbir kararının değiştirilmesine karar vermek",
+                "E": "Taraflar arasındaki anlaşmazlığın esasını karara bağlamak"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen yetkiler arasında sayılmamaktadır. Anlaşmazlığın esasını karara bağlamak, hüküm uyuşmazlıklarında Uyuşmazlık Mahkemesinin görevidir.\n- Diğer seçenekler: Madde 22'nin 2, 3 ve 4. fıkralarında sayılan ve uyuşmazlık çıkarma durumunda görevsizlik itirazını reddeden yargı merciinin kullanabileceği yetkiler arasında yer aldığı için doğrudur."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, hüküm uyuşmazlığının varlığının kabul edilebilmesi için aranan şartlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kararların aynı konuya ve sebebe ilişkin olması gerekir.",
+                "B": "Kararlar arasındaki çelişki yüzünden hakkın yerine getirilmesinin olanaksız bulunması gerekir.",
+                "C": "Kararların taraflarından en az birinin aynı olması şarttır.",
+                "D": "Uyuşmazlığa konu kararların kesin olarak verilmiş veya kesinleşmiş olması gerekir.",
+                "E": "Uyuşmazlığın temelinde mutlaka bir görev uyuşmazlığı bulunmalıdır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen hüküm uyuşmazlığının 'görevle ilgili olmaksızın' kesin olarak verilmiş kararlar arasında ortaya çıkacağı hükmüne dayanmaktadır. E seçeneğindeki ifade, kanunun bu açık hükmüyle doğrudan çeliştiği için yanlıştır.\n- Diğer seçenekler, Madde 24'te hüküm uyuşmazlığının varlığı için sayılan geçerli şartları (aynı konu ve sebep, hakkın yerine getirilmesinin olanaksızlığı, taraflardan en az birinin aynı olması, kararların kesinliği) doğru bir şekilde yansıtmaktadır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, hüküm uyuşmazlıklarının incelenmesi ve karara bağlanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Uyuşmazlık Mahkemesi, bu uyuşmazlıklarda sadece usule ilişkin karar verir, anlaşmazlığın esasına giremez.",
+                "B": "İncelemeler kural olarak duruşmalı yapılır, ancak tarafların kabulüyle dosya üzerinden de karar verilebilir.",
+                "C": "Uyuşmazlık Mahkemesi, gerekli gördüğü hallerde veya taraflardan birinin isteği üzerine tarafları dinleyebilir.",
+                "D": "Uyuşmazlıkların çözümünde öncelikli olarak Yargıtay içtihatları ve yargılama usulü hükümleri uygulanır.",
+                "E": "Kararların alınabilmesi için mahkemenin salt çoğunlukla toplanması yeterli olup üye tam sayısı aranmaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Uyuşmazlık Mahkemesi hüküm uyuşmazlıklarını dosya üzerinde inceleyerek karara bağlar. Gerekli gördüğü hallerde veya istek üzerine tarafları dinleyebilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği, kanunun 'anlaşmazlığın esasını da karara bağlar' hükmüyle; B seçeneği, incelemelerin kural olarak 'dosya üzerinde' yapılması ilkesiyle; D seçeneği ise 'Danıştay Yargılama usulünün' uygulanması kuralıyla çelişmektedir. E seçeneği ise Madde 26'da belirtilen üye tam sayısı ile toplanma şartına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, hüküm uyuşmazlıklarının incelenmesi ve karara bağlanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hüküm uyuşmazlığının varlığı için kararların taraflarının tamamen aynı olması zorunludur.",
+                "B": "Uyuşmazlık Mahkemesi, anlaşmazlığın esasını incelemeden yalnızca çelişkili kararlardan hangisinin uygulanacağını belirler.",
+                "C": "Mahkeme, incelemelerini her durumda dosya üzerinden yapar ve tarafları dinleme yetkisi yoktur.",
+                "D": "Uyuşmazlık Mahkemesi, gerekli gördüğü takdirde veya tarafların isteği üzerine onları dinleyebilir.",
+                "E": "Kararlar, üye tam sayısının oybirliği ile alınır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Gerekli gördüğü hallerde veya istek üzerine tarafları dinleyebilir' hükmüne dayanmaktadır. Bu hüküm, Madde 26'da yer alan incelemelerin kural olarak dosya üzerinde yapılması ilkesine bir istisna getirmektedir.\n- Diğer seçenekler: Madde 24'teki taraf şartına ('taraflarından en az biri aynı olan'), Madde 25'teki esasa girme kuralına ('anlaşmazlığın esasını da karara bağlar') ve Madde 26'daki karar yeter sayısına ('çoğunlukla karar verilir') aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin toplanma ve karar verme usulüne ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Görüşmelere başlanabilmesi ve karar verilebilmesi için üye tam sayısının hazır bulunması zorunludur.",
+                "B": "Eksik bir üyenin yeri, öncelikle o üyenin geldiği yargı merciinin yedek üyesi ile doldurulur.",
+                "C": "Mahkeme, her toplantı dönemi başında yıllık bir çalışma planı yapar.",
+                "D": "İncelemeler kural olarak dosya üzerinde gerçekleştirilir.",
+                "E": "Kanunda belirtilen istisnalar dışında kararların oybirliğiyle alınması esastır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'bu kanunda belli edilenler dışında çoğunlukla karar verilir' hükmüne dayanmaktadır. Kanun, kararların oybirliğiyle değil, çoğunlukla alınacağını açıkça düzenlemiştir.\n- Diğer seçenekler, Madde 26'da yer alan toplanma koşulları, eksik üyenin tamamlanması, çalışma planı ve inceleme usulüne ilişkin doğru ifadeler olduğu için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, bir hukuk davasında idari yargı merciince verilmiş bir yürütmenin durdurulması kararı varken ortaya çıkan görev uyuşmazlığı ve Uyuşmazlık Mahkemesinin bu uyuşmazlığı karara bağlama süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Verilmiş olan yürütmenin durdurulması kararı, Uyuşmazlık Mahkemesinin kararına kadar geçerli kalır.",
+                "B": "Uyuşmazlık Mahkemesi, bu görev uyuşmazlığına ilişkin incelemesini kural olarak dosya üzerinde yürütür.",
+                "C": "Mahkemenin görüşmelere başlayabilmesi için üye tam sayısının hazır bulunması şarttır.",
+                "D": "Uyuşmazlık Mahkemesi, görev uyuşmazlığına ilişkin kararını oybirliği ile almak zorundadır.",
+                "E": "Uyuşmazlık Mahkemesinin görevsizliğe karar vermesi halinde, yürütmenin durdurulması kararı altmış gün süre ile devam eder."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'çoğunlukla karar verilir' hükmüne aykırıdır; kanun oybirliği şartı aramamaktadır.\n- Diğer seçenekler: Madde 22'de düzenlenen yürütmenin durdurulması kararının geçerliliği ve devam süresi ile Madde 26'da belirtilen inceleme usulü ve toplanma koşullarına ilişkin hükümler doğru olduğundan elenir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin toplanma ve karar verme usulüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Görüşmelere başlanabilmesi ve karar verilebilmesi için üye tam sayısının hazır bulunması gerekir.",
+                "B": "Eksik bir üyenin yeri, öncelikle o üyenin geldiği yargı merciinin yedek üyesi ile doldurulur.",
+                "C": "Mahkeme, her toplantı dönemi başında yıllık bir çalışma planı yapar.",
+                "D": "İncelemelerin kural olarak duruşmalı yapılması esastır.",
+                "E": "Kararlar, kanunda belli edilenler dışında çoğunlukla verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'Uyuşmazlık Mahkemesinde incelemeler dosya üzerinde yapılır' hükmüne dayanmaktadır. Bu hüküm uyarınca, incelemelerin duruşmalı yapılması söz konusu değildir.\n- Diğer seçenekler, Madde 26'da yer alan üye tam sayısı, eksik üyenin yerinin doldurulması, yıllık çalışma planı ve karar yeter sayısı gibi kuralları doğru yansıttığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi'nin, uyuşmazlık çıkarmaya veya görev uyuşmazlıklarına ilişkin istemleri incelerken öncelikli olarak dikkate aldığı hususlar aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İstemin esasına girilerek haklı olup olmadığı",
+                "B": "İncelemenin dosya üzerinden yapılıp yapılmayacağı",
+                "C": "İstemin şekil ve süre açısından uygunluğu",
+                "D": "Görüşmeler için üye tam sayısının hazır bulunup bulunmadığı",
+                "E": "Kararın Resmî Gazete’de yayımlanmasının gerekip gerekmediği"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Uyuşmazlık Mahkemesi, uyuşmazlık çıkarmaya veya görev uyuşmazlıklarına ilişkin istemleri önce şekil ve süre açısından inceler' hükmüne dayanmaktadır. Mahkeme, bu ilk incelemede yöntemine uymayan veya süresi içinde ileri sürülmemiş istemleri reddeder.\n- Diğer seçenekler, mahkemenin genel işleyişi veya sonraki aşamalarla ilgili olup, bir istemin ilk ve öncelikli inceleme kriterleri arasında yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin vereceği bütün kararların sonuçlarının hemen tebliğ edildiği kişi veya merciler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "İlgili Başsavcı ve Başkanunsözcüsü",
+                "B": "Uyuşmazlığın çözülmesi için başvurmuş olan kişiler veya makamlar",
+                "C": "Görev uyuşmazlığının çözülmesi için kendisine başvuran yargı mercii",
+                "D": "Başkanın yayımlanmasını uygun gördüğü kararlar için Resmî Gazete idaresi",
+                "E": "Kararı beklemesi için yazı yazılmış bulunan yargı mercileri"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'vereceği bütün kararların sonuçlarını ... hemen tebliğ eder' hükmünde sayılan merciler arasında Resmî Gazete idaresinin bulunmamasına dayanmaktadır.\n- Diğer seçenekler: Madde 28'de kararların sonuçlarının derhal tebliğ edileceği kişi ve merciler arasında açıkça sayıldığı için yanlıştır.\n- D seçeneği: Kanunun 29. maddesi uyarınca Başkanın uygun göreceği kararlar Resmî Gazete’de yayımlanır, ancak bu durum Resmî Gazete'yi tüm kararların sonucunun zorunlu ve hemen tebliğ edildiği bir merci haline getirmez."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi'nin toplanması, karar vermesi ve kararların tebliğine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Görüşmelere başlanabilmesi için üye sayısının yarısından bir fazlasının hazır bulunması yeterlidir.",
+                "B": "Mahkemenin verdiği bütün kararların Resmî Gazete’de yayımlanması zorunludur.",
+                "C": "Eksik bir üyenin yeri, yalnızca o üyenin geldiği yargı merciinin yedek üyesi ile doldurulabilir.",
+                "D": "Verilen kararların sonuçları, ilgili Başsavcı ve Başkanunsözcüsü de dahil olmak üzere kanunda sayılan kişi ve makamlara tebliğ edilir.",
+                "E": "Kararların uygulanmasında bir gecikme yaşanması durumunda, ilgili yargı merciinin takdir hakkı bulunur."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Uyuşmazlık Mahkemesi, vereceği bütün kararların sonuçlarını ilgili Başsavcı ve Başkanunsözcüsüne ... tebliğ eder' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 26 uyarınca görüşmeler için üye tam sayısı gerekir (A yanlıştır) ve eksik üye için başka bir yedek üye de görevlendirilebilir (C yanlıştır). Madde 29'a göre sadece Başkanın uygun gördüğü kararlar yayımlanır (B yanlıştır). Madde 28 uyarınca kararların geciktirmeksizin uygulanması bir ödevdir (E yanlıştır)."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi kararlarının kesinliği ve yayınlanması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Uyuşmazlık Mahkemesinin bütün kararlarının Resmî Gazete’de yayımlanması zorunludur.",
+                "B": "Uyuşmazlık Mahkemesi kararlarına karşı, tebliğden itibaren belirli bir süre içinde temyiz yoluna başvurulabilir.",
+                "C": "Kararların Resmî Gazete’de yayımlanıp yayımlanmayacağına Mahkeme Genel Kurulu karar verir.",
+                "D": "Uyuşmazlık Mahkemesi kararları, Resmî Gazete’de yayımlandıktan sonra kesinleşir.",
+                "E": "Başkanın uygun gördüğü kararlar Resmî Gazete’de yayımlanır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Başkanın uygun göreceği kararlar Resmî Gazete’de yayımlanır.' hükmüne dayanmaktadır. Aynı maddede Uyuşmazlık Mahkemesi kararlarının kesin olduğu da belirtilmiştir.\n- Diğer seçenekler: Kanuna göre mahkeme kararları kesindir ve kanun yollarına kapalıdır. Ayrıca, tüm kararların yayımlanması zorunlu olmayıp bu yetki Başkana aittir ve kararların kesinliği yayımlanma şartına bağlı değildir. Bu nedenlerle diğer ifadeler yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin bir istemi karara bağlama sürecine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Mahkeme, istemleri öncelikle şekil ve süre açısından inceler.",
+                "B": "İncelemeler kural olarak dosya üzerinde yürütülür.",
+                "C": "Yöntemine uymayan veya süresi içinde ileri sürülmemiş istemler reddedilir.",
+                "D": "Verilen kararlar kesindir ve tarafların temyiz hakkı saklıdır.",
+                "E": "Kararlar, kanunda belirtilenler dışında çoğunlukla verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Uyuşmazlık Mahkemesinin kararları kesindir' hükmüne dayanmaktadır. Bu hüküm, kararlara karşı temyiz gibi bir kanun yolunun olmadığını ifade eder.\n- Diğer seçenekler: A ve C seçenekleri Madde 27'de, B ve E seçenekleri ise Madde 26'da yer alan doğru usul kurallarıdır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi kararlarının kesinliği ve yayımlanması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Uyuşmazlık Mahkemesinin tüm kararlarının Resmî Gazete’de yayımlanması zorunludur.",
+                "B": "Başkanın uygun göreceği kararlar Resmî Gazete’de yayımlanır.",
+                "C": "Kararların yayımlanıp yayımlanmayacağına mahkeme heyeti oy çokluğuyla karar verir.",
+                "D": "Uyuşmazlık Mahkemesi kararları, tebliğden itibaren otuz gün sonra kesinleşir.",
+                "E": "Sadece oybirliği ile alınan kararlar Resmî Gazete’de yayımlanabilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Başkanın uygun göreceği kararlar Resmî Gazete’de yayımlanır' hükmüne dayanmaktadır. Aynı maddede kararların kesin olduğu da belirtilmiştir.\n- Diğer seçenekler, kanunda yer almayan şartlar (tüm kararların yayımlanması zorunluluğu, oy çokluğu/oybirliği şartı, kesinleşme için süre) içerdiği veya kanundaki 'kararlar kesindir' ilkesine aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinde görevlendirilen geçici raportörlerin terfileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Terfileri, mensup oldukları müesseselerin yetkili mercileri tarafından genel hükümlere göre yapılır.",
+                "B": "Raportörlükte geçirdikleri süreler terfi hesaplamasında dikkate alınmaz.",
+                "C": "Terfi kararları için ilgilinin muvafakati yeniden aranır.",
+                "D": "Üstün başarıları, terfi için tek başına yeterli bir ölçüttür.",
+                "E": "Terfilerinde Uyuşmazlık Mahkemesi Başkanı tarafından verilecek yazılı bilgi esas alınır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'terfilerinde Uyuşmazlık Mahkemesi Başkanı tarafından verilecek yazılı bilgi esas olur' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 31'de belirtilen özlük hakları ve terfi usulüne ilişkin kurallarla çeliştiği veya bu kurallar arasında yer almadığı için yanlıştır. Genel özlük işlerinde mensup olunan mesleğe ait hükümler uygulansa da, kanun terfi için Başkanın yazılı bilgisini özel bir şart olarak belirlemiştir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinde görev yapan yazı işleri ve diğer görevlilerin hukuki statüsü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Özlük işlerinde mensup oldukları mesleklere ait hükümler uygulanır.",
+                "B": "Bu mahkemede geçirdikleri süreler kendi mesleklerinde geçmiş sayılır.",
+                "C": "Terfilerine Uyuşmazlık Mahkemesi Başkanı tarafından verilecek yazılı bilgi esas olur.",
+                "D": "Başkan, hizmetinden yararlanılamayan görevlileri geldikleri kurumlara gönderme yetkisine sahiptir.",
+                "E": "Görevleri gereği düzenledikleri raporlarda, doğru buldukları sonuca ilişkin gerekçeli düşüncelerini de gösterirler."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 31'de raportörler için öngörülen bir görevi ifade etmektedir ve Madde 32'de düzenlenen yazı işleri ve diğer görevliler için geçerli değildir.\n- Diğer seçeneklerdeki ifadeler, Madde 32'de bu görevlilerin özlük hakları ve Başkanın yetkileriyle ilgili olarak açıkça belirtilen hükümler olduğu için doğrudur."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinde görevlendirilen geçici raportörler ile diğer yazı işleri görevlilerinin özlük haklarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Görevlendirildikleri andan itibaren mensup oldukları mesleklerden istifa etmiş sayılırlar ve tüm özlük işleri Uyuşmazlık Mahkemesi tarafından yürütülür.",
+                "B": "Terfilerinde, Uyuşmazlık Mahkemesi Başkanı tarafından verilecek yazılı bilgi esas alınır.",
+                "C": "Bu görevlerde geçirdikleri süreler, mensup oldukları mesleklerde geçmiş sayılmaz ve kıdemlerine etki etmez.",
+                "D": "Tüm personelin ataması doğrudan Adalet Bakanlığınca yapılır ve özlük hakları da bu bakanlıkça belirlenir.",
+                "E": "Başkanlık Sekreterliği görevini yürüten kişi hariç diğer tüm görevlilerin terfileri kendi kurumlarınca, Başkanın görüşü alınmaksızın yapılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 31 ve 32'de hem geçici raportörler hem de diğer görevliler için ortak olarak belirtilen 'terfilerinde Uyuşmazlık Mahkemesi Başkanı tarafından verilecek yazılı bilgi esas olur' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen 'özlük işlerinde mensup oldukları mesleklere ait hükümler uygulanır ve bu mahkemede geçirdikleri süreler mesleklerinde geçmiş sayılır' şeklindeki temel kurala aykırı oldukları veya atama usullerini yanlış yansıttıkları için hatalıdır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin mübaşirlik, dağıtım ve temizlik işlerini yürütecek görevlileri atama yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Uyuşmazlık Mahkemesi Başkanı",
+                "B": "Adalet Bakanlığı",
+                "C": "Yargıtay Başkanlığı",
+                "D": "Danıştay Başkanlığı",
+                "E": "Anayasa Mahkemesi Genel Sekreterliği"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 32'de yer alan 'Mahkemenin mübaşirlik, dağıtım ve temizlik işleri ile bu mahkemeye ait araçların şoförlük hizmetleri Adalet Bakanlığınca atanacak görevliler tarafından yürütülür.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu görevlileri atama yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, aşağıdakilerden hangisi Uyuşmazlık Mahkemesi Başkanına tanınan yetki veya görevlerden biri değildir?",
+            "secenekler": {
+                "A": "Mahkemenin hangi kararlarının Resmî Gazete’de yayımlanacağını uygun görmek.",
+                "B": "Çalışmalarda yardımcı olmak üzere görevlendirilecek geçici raportörlerin sayısını takdir etmek.",
+                "C": "Hizmetinden yararlanılamayan yazı işleri görevlilerini geldikleri kurumlara geri göndermek.",
+                "D": "Kalem ve yazı işlerini yürütecek olan katipleri doğrudan atamak.",
+                "E": "Gerekli gördüğü takdirde, rapor düzenlemesi için dosyayı bir üyeye vermek."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'Başkanın isteği ve inhası üzerine Yargıtay, Danıştay ve Adalet Bakanlığınca atanacak üçer katipten oluşacak büro' hükmüne dayanmaktadır. Buna göre Başkan, katipleri doğrudan atama yetkisine sahip olmayıp, sadece istek ve inha (teklif) yetkisine sahiptir.\n- Diğer seçenekler: A seçeneği Madde 29'da, B ve E seçenekleri Madde 31'de, C seçeneği ise Madde 32'de açıkça Başkan'a tanınan yetkiler arasında sayıldığı için doğrudur."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, bu Kanun gereğince yapılacak tebligat işlemlerinde aşağıdaki mevzuatlardan hangisinin hükümleri uygulanır?",
+            "secenekler": {
+                "A": "Uyuşmazlık Mahkemesinin kendi iç yönetmeliği hükümleri",
+                "B": "Hukuk Muhakemeleri Kanunu'nun ilgili hükümleri",
+                "C": "7201 sayılı Tebligat Kanunu hükümleri",
+                "D": "Ceza Muhakemesi Kanunu'nun ilgili hükümleri",
+                "E": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun hükümleri"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Bu Kanun gereğince yapılacak tebligat işlerinde 7201 sayılı Tebligat Kanunu hükümleri uygulanır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen mevzuatların, kanun kapsamındaki tebligat işlemleri için uygulanacağına dair bir düzenleme bulunmadığından yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, bu Kanun gereğince yapılacak tebligat işlemlerinde aşağıdaki mevzuatlardan hangisinin hükümleri uygulanır?",
+            "secenekler": {
+                "A": "Hukuk Muhakemeleri Kanunu",
+                "B": "İdari Yargılama Usulü Kanunu",
+                "C": "7201 sayılı Tebligat Kanunu",
+                "D": "Ceza Muhakemesi Kanunu",
+                "E": "Uyuşmazlık Mahkemesinin kendi iç yönetmeliği"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Bu Kanun gereğince yapılacak tebligat işlerinde 7201 sayılı Tebligat Kanunu hükümleri uygulanır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kanunlar veya düzenlemeler, Uyuşmazlık Mahkemesi Kanunu'nda tebligat işlemleri için özel olarak atıf yapılan mevzuat olmadığından yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesindeki vergi ve harç bağışıklığı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Uyuşmazlık Mahkemesine sunulan dilekçe ve layihalardan herhangi bir vergi veya harç alınmaz.",
+                "B": "Mahkemenin kendi işlemlerinden dolayı herhangi bir vergi veya harç tahsil edilmez.",
+                "C": "Mahkemeden talep edilecek karar örnekleri vergi ve harçtan muaftır.",
+                "D": "Uyuşmazlık Mahkemesinin verdiği kararlar için herhangi bir vergi veya harç ödenmez.",
+                "E": "Vergi ve harç bağışıklığı, yalnızca mahkeme kararlarını kapsar ve diğer belgeleri içermez."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'Uyuşmazlık Mahkemesinde karar bağlanacak işler için verilecek dilekçeler, layihalar, yazılar veya belgelerden, mahkemenin işlemlerinden, kararlarından veya mahkemece yahut mahkemeden istenilecek belge veya karar örneklerinden herhangi bir vergi veya harç alınmaz' hükmüne dayanmaktadır.\n- A, B, C ve D seçenekleri kanunda sayılan muafiyet kapsamındaki unsurları doğru yansıtırken, E seçeneği bu kapsamı yalnızca mahkeme kararlarıyla yanlış bir şekilde sınırlandırdığı için hatalıdır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin incelediği bir iş kapsamında bir kamu kurumundan onanmış bir belge örneği talep etmesi durumunda, bu işlemle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kamu kurumu, belgenin onanmış olması nedeniyle harç talep etme hakkına sahiptir.",
+                "B": "Harç muafiyeti yalnızca mahkemeye sunulan dilekçe ve layihalar için geçerli olduğundan, istenen belge örneği harca tabidir.",
+                "C": "Tebligat işlemlerinde Tebligat Kanunu uygulandığı için, belge talebi de bu kanun uyarınca harca tabi olur.",
+                "D": "Mahkemenin talep ettiği belge örneğinden herhangi bir vergi veya harç alınmaz.",
+                "E": "Kamu kurumu, Danıştay Kanununda belirtilen şartlar olmasa dahi belgeyi vermekten kaçınabilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 34'te yer alan 'mahkemece yahut mahkemeden istenilecek belge veya karar örneklerinden herhangi bir vergi veya harç alınmaz' hükmü ile Madde 35'teki mahkemenin belge isteme yetkisinin birleşimine dayanmaktadır.\n- Diğer seçenekler: Madde 34'teki harç muafiyetinin kapsamına, Madde 35'teki belge vermekten kaçınma şartlarına veya Madde 33'teki tebligat usulüne ilişkin düzenlemelere aykırı oldukları için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin bilgi ve belge isteme yetkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mahkeme, bilgi ve belge istemeden önce ilgili bakanlıktan izin almak zorundadır.",
+                "B": "Mahkeme, sadece adli ve idari yargı organlarından bilgi ve belge isteyebilir.",
+                "C": "Bilgi veya belgenin verilmesinden yalnızca Danıştay Kanununda gösterilen şartlar altında kaçınılabilir.",
+                "D": "Mahkemenin istediği belge örneklerinden kanunda belirtilen oranda harç alınır.",
+                "E": "Bu yetki sadece Mahkeme Başkanı tarafından kullanılabilir, başsavcılar ve başkanunsözcüleri bu yetkiye sahip değildir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen 'Bilgi veya belgenin verilmesinden, ancak Danıştay Kanununda gösterilen şartlar altında kaçınılabilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A, B ve E seçenekleri Madde 35'te yer alan yetkinin kapsamı (bütün kuruluşlar), usulü (doğrudan) ve yetkili kişiler (başsavcılar ve başkanunsözcüleri dahil) ile ilgili kurallara aykırıdır. D seçeneği ise Madde 34'te düzenlenen vergi ve harç bağışıklığı ilkesiyle çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Anayasa Mahkemesinin Yüce Divan olarak görev konusunda verdiği kararlar ve bu kararların diğer yargı mercileri üzerindeki etkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Anayasa Mahkemesinin Yüce Divan olarak görev konusundaki kararlarına karşı, Uyuşmazlık Mahkemesine itiraz başvurusu yapılabilir.",
+                "B": "Bir hüküm uyuşmazlığı durumunda, Uyuşmazlık Mahkemesi hem Anayasa Mahkemesi kararını hem de diğer yargı merciinin kararını birlikte değerlendirir.",
+                "C": "Yargı mercileri, Anayasa Mahkemesinin Yüce Divan sıfatıyla verdiği görev kararlarına ancak kendi kararları kesinleşmemişse uymak zorundadır.",
+                "D": "Anayasa Mahkemesinin Yüce Divan kararları ile diğer yargı mercileri arasındaki görev uyuşmazlıklarını çözme yetkisi Uyuşmazlık Mahkemesine aittir.",
+                "E": "Diğer yargı mercileri, kendi kesinleşmiş kararlarıyla çelişse dahi Anayasa Mahkemesinin Yüce Divan olarak görev konusunda verdiği kararlara uymakla yükümlüdür."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Bütün yargı mercileri, Aanayasa Mahkemesinin Yüce Divan olarak görev konusunda verdiği kararlara, kendilerinin Anayasa Mahkemesinin kararı ile çatışan kesin veya kesinleşmiş bir kararı bulunsa bile, uymak zorundadırlar' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen kuralların tam tersini ifade ettikleri için yanlıştır. Anayasa Mahkemesinin Yüce Divan olarak verdiği görev kararlarına karşı Uyuşmazlık Mahkemesine başvurulamaz (A ve D seçenekleri), hüküm uyuşmazlığında yalnızca Anayasa Mahkemesi kararı uygulanır (B seçeneği) ve bu kararlara uyma zorunluluğu, diğer yargı merciinin kararının kesinleşmiş olup olmamasından etkilenmez (C seçeneği)."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin yetkileri ve diğer yargı mercileriyle ilişkisi hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Mahkeme, incelediği işlerde bütün organ ve makamlardan her türlü bilgi veya belgeyi isteyebilir.",
+                "B": "Başkanunsözcüleri, mahkemenin bilgi ve belge isteme yetkisini kullanma hakkına sahiptir.",
+                "C": "Anayasa Mahkemesinin Yüce Divan olarak verdiği görev konusundaki bir karar dolayısıyla Uyuşmazlık Mahkemesine başvurulabilir.",
+                "D": "Bir yargı merciinin kesinleşmiş kararı, Anayasa Mahkemesinin Yüce Divan sıfatıyla verdiği görev kararıyla çatışsa bile, yargı mercii Anayasa Mahkemesi kararına uymak zorundadır.",
+                "E": "Hüküm uyuşmazlığı durumunda, yalnızca Anayasa Mahkemesi kararı göz önünde tutulur ve uygulanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Anayasa Mahkemesinin Yüce Divan olarak verdiği görev konusundaki kararlar dolayısıyla Uyuşmazlık Mahkemesine başvurulamaz.' hükmüne dayanmaktadır. Bu seçenek, kanundaki hükmün tam tersini iddia ettiği için yanlıştır.\n- Diğer seçenekler: Madde 35'te yer alan Uyuşmazlık Mahkemesinin bilgi isteme yetkisi ve Madde 36'daki Anayasa Mahkemesi kararlarının bağlayıcılığına ilişkin kurallarla uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Anayasa Mahkemesinin Yüce Divan olarak görev konusunda verdiği bir kararla başka bir yargı merciinin kesinleşmiş kararı arasında hüküm uyuşmazlığı ortaya çıkması durumunda uygulanacak kural aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Uyuşmazlığın çözümü için dosya Uyuşmazlık Mahkemesine gönderilir.",
+                "B": "Yargı merciinin kendi kesinleşmiş kararı öncelikli olarak uygulanır.",
+                "C": "Yalnızca Anayasa Mahkemesi kararı göz önünde tutulur ve uygulanır.",
+                "D": "Her iki kararın da uygulanması durdurulur ve yeni bir yargılama yapılır.",
+                "E": "Uyuşmazlığın çözümü için konunun Türkiye Büyük Millet Meclisi'ne intikal ettirilmesi gerekir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Hüküm uyuşmazlığı durumunda yalnızca Anayasa Mahkemesi kararı gözönünde tutulur ve uygulanır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen kurala aykırı olduğu veya metinde yer almayan usuller öngördüğü için yanlıştır. Kanun, Anayasa Mahkemesinin Yüce Divan sıfatıyla verdiği kararların mutlak bağlayıcılığını ve önceliğini açıkça düzenlemiştir."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Anayasa Mahkemesinin Yüce Divan sıfatıyla verdiği kararların bağlayıcılığı ve sonuçları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Diğer yargı mercileri, Anayasa Mahkemesinin Yüce Divan olarak görev konusunda verdiği kararlara uymak zorundadır.",
+                "B": "Bir yargı merciinin kesinleşmiş bir kararı olsa dahi, Anayasa Mahkemesinin Yüce Divan sıfatıyla verdiği çatışan kararına uyması gerekir.",
+                "C": "Anayasa Mahkemesinin Yüce Divan olarak verdiği görev konusundaki kararları dolayısıyla Uyuşmazlık Mahkemesine başvurulamaz.",
+                "D": "Hüküm uyuşmazlığı durumunda, Anayasa Mahkemesi kararının uygulanabilmesi için Uyuşmazlık Mahkemesinin onayı gerekir.",
+                "E": "Hüküm uyuşmazlığı halinde sadece Anayasa Mahkemesi kararı dikkate alınır ve uygulanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Hüküm uyuşmazlığı durumunda yalnızca Anayasa Mahkemesi kararı gözönünde tutulur ve uygulanır' hükmüne aykırıdır. Kanun, Anayasa Mahkemesi kararının doğrudan uygulanacağını ve başka bir merciin onayına tabi olmadığını belirtmektedir.\n- Diğer seçenekler: Madde 36'da yer alan Anayasa Mahkemesi kararlarının bağlayıcılığı, Uyuşmazlık Mahkemesine başvurulamayacağı ve diğer yargı mercilerinin uyma zorunluluğu ile ilgili hükümleri doğru bir şekilde yansıttığı için doğrudur."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinde görevli olanlardan hangisine, toplantı yapılıp yapılmadığına bakılmaksızın her ay ödenek verilir?",
+            "secenekler": {
+                "A": "Başkanın mazereti halinde yerine başkanlık edene",
+                "B": "Toplantıya katılan asıl üyelere",
+                "C": "Uyuşmazlık Mahkemesinin raportörlerine",
+                "D": "Toplantıya katılan yedek üyelere",
+                "E": "Toplantıya başsavcılar yerine katılan savcılara"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Uyuşmazlık Mahkemesinin raportörlerine ise her ay olmak üzere ... ödenek verilir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen görevliler için ödenek verilmesi, toplantı yapılması veya başkan yerine görev yapılması gibi şartlara bağlandığı için yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesinin araç, gereç ve şair ihtiyaçları ile üyelerine ve diğer görevlilerine verilen ücretler, aşağıdaki kurumlardan hangisinin bütçesine eklenecek ödeneklerden karşılanır?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Anayasa Mahkemesi",
+                "C": "Hâkimler ve Savcılar Kurulu",
+                "D": "Hazine ve Maliye Bakanlığı",
+                "E": "Yargıtay Başkanlığı"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen '...ücret Adalet Bakanlığı Bütçesine eklenecek ödeneklerden karşılanır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumların bütçeleri, kanunda bu giderler için kaynak olarak gösterilmediğinden yanlıştır."
+        },
+        {
+            "soru": "2247 Sayılı Uyuşmazlık Mahkemesinin Kuruluş Ve İşleyişi Hakkında Kanun'a göre, Uyuşmazlık Mahkemesi üyelerine ve raportörlerine yapılan ödemeler ile bu ödemelerin kaynağına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Üyelere yapılan ödemeler, damga vergisi de dahil olmak üzere tüm vergilerden muaftır.",
+                "B": "Mahkemenin tüm giderleri ve personele yapılacak ödemeler, Anayasa Mahkemesi bütçesinden aktarılan pay ile karşılanır.",
+                "C": "Raportörlere, sadece toplantı yapılan aylar itibarıyla ve 7500 gösterge rakamı üzerinden ödenek verilir.",
+                "D": "Başkanın mazereti halinde yerine başkanlık edene yapılan ödeme, Uyuşmazlık Mahkemesinin kendi özel bütçesinden finanse edilir.",
+                "E": "Üyelere ve raportörlere verilen ücretler Adalet Bakanlığı Bütçesine eklenecek ödeneklerden karşılanır ve bu ödenekler damga vergisi dışında herhangi bir vergiye tabi tutulamaz."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen 'ücret Adalet Bakanlığı Bütçesine eklenecek ödeneklerden karşılanır' hükmü ile Madde 38'de yer alan 'Bu ödenekler, damga vergisi hariç herhangi bir vergiye tabi tutulamaz' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Ödemelerin kaynağını (Madde 39) veya vergi durumunu, ödeme koşullarını ve gösterge rakamlarını (Madde 38) hatalı belirttiği için yanlıştır."
+        }
+    ]
+}

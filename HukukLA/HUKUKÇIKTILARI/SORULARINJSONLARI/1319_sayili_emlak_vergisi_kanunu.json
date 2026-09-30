@@ -1,0 +1,1564 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Bina Vergisi'nin konusu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Türkiye sınırları içinde bulunan binalar Bina Vergisine tabidir.",
+                "B": "Yurt dışında bulunan ancak Türk vatandaşlarına ait olan binalar da Bina Vergisine tabidir.",
+                "C": "Sadece ticari amaçla kullanılan binalar Bina Vergisine tabidir.",
+                "D": "Binaların yanı sıra, üzerinde yapı olmayan araziler de Bina Vergisine tabidir.",
+                "E": "Bina Vergisi, sadece belediye mücavir alanları içindeki binaları kapsar."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Türkiye sınırları içinde bulunan binalar bu kanun hükümlerine göre Bina Vergisine tabidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, verginin konusunu coğrafi konum (B, E), kullanım amacı (C) veya yapı niteliği (D) gibi kanunda yer almayan unsurlarla yanlış bir şekilde sınırlandırdığı veya genişlettiği için hatalıdır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi bina olarak kabul edilmez?",
+            "secenekler": {
+                "A": "Karada yapılmış sabit bir inşaat",
+                "B": "Su üzerinde bulunan sabit bir yapı",
+                "C": "Çadırlar",
+                "D": "Binanın mütemmimi niteliğindeki bir eklenti",
+                "E": "Yapıldığı maddenin ahşap olduğu sabit bir inşaat"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Yüzer havuzlar, sair yüzer yapılar, çadırlar ve nakil vasıtalarına takılıp çekilebilen seyyar evler ve benzerleri bina sayılmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen 'yapıldığı madde ne olursa olsun, gerek karada gerek su üzerindeki sabit inşaat' tanımına veya 'bina mütemmimleri' kapsamına girdiği için bina olarak kabul edilir ve bu nedenle yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Türkiye sınırları içinde bulunan aşağıdaki yapılardan hangisi, bina sayılmadığı için Bina Vergisine tabi değildir?",
+            "secenekler": {
+                "A": "Karada sabit olarak inşa edilmiş ahşap bir ev",
+                "B": "Göl üzerinde sabitlenmiş beton bir platform üzerindeki yapı",
+                "C": "Bir binanın Vergi Usul Kanununda belirtilen mütemmimleri",
+                "D": "Tekerlekli bir şasi üzerine monte edilmiş ve çekilebilen seyyar bir ev",
+                "E": "Yapıldığı madde ne olursa olsun karadaki sabit bir inşaat"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de yer alan 'nakil vasıtalarına takılıp çekilebilen seyyar evler ve benzerleri bina sayılmaz' hükmüne dayanmaktadır. Bu nedenle bu yapılar Bina Vergisine tabi değildir.\n- Diğer seçeneklerde belirtilen unsurlar, Madde 1 ve Madde 2'de açıkça bina tanımı içinde sayıldığı veya bu tanımın kapsamına girdiği için Bina Vergisine tabidir ve bu nedenle yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir binaya elbirliği mülkiyeti halinde malik olanların vergi sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her malik sadece kendi payına düşen vergiden sorumludur.",
+                "B": "Vergiden, malikler arasında en yüksek hisseye sahip olan kişi tek başına sorumludur.",
+                "C": "Malikler vergiden müteselsilen sorumlu olurlar.",
+                "D": "Vergi sorumluluğu, binayı fiilen kullanan malike aittir.",
+                "E": "Malikler, vergi borcunu eşit paylara bölerek ödemekle yükümlüdür."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Elbirliği mülkiyette malikler vergiden müteselsilen sorumlu olurlar.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve E seçenekleri paylı mülkiyetin kuralını yansıtmaktadır, B ve D seçenekleri ise kanunda yer almayan hatalı sorumluluk esasları belirttiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi Bina Vergisi mükellefleri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Binanın maliki",
+                "B": "Binanın intifa hakkı sahibi",
+                "C": "Binayı kiralayan kişi",
+                "D": "Binaya malik gibi tasarruf edenler",
+                "E": "Paylı mülkiyet halinde malik olanlar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3'te Bina Vergisi mükelleflerinin; 'binanın maliki, varsa intifa hakkı sahibi, her ikisi de yoksa binaya malik gibi tasarruf edenler' olarak sayılmasına dayanmaktadır.\n- Diğer seçenekler, kanunda açıkça belirtilen vergi mükellefleridir. Kanunda kiracının vergi mükellefi olduğuna dair bir düzenleme bulunmadığından C seçeneği doğru cevaptır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir binanın maliki ve intifa hakkı sahibi bulunmadığı bir durumda, o binaya malik gibi tasarruf eden bir kişi ile paylı mülkiyet halinde malik olan bir kişinin vergi sorumluluğu hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Malik gibi tasarruf eden kişi vergiden sorumlu olmazken, paylı mülkiyet halindeki malik hissesi oranında sorumludur.",
+                "B": "Malik gibi tasarruf eden kişi vergiyi öder; paylı mülkiyet halindeki malik ise vergiden müteselsilen sorumlu olur.",
+                "C": "Her iki durumda da mükellefler vergiden müteselsilen sorumlu tutulur.",
+                "D": "Malik gibi tasarruf eden kişi vergiyi ödemekle yükümlüdür; paylı mülkiyet halindeki malik ise kendi hissesi oranında mükelleftir.",
+                "E": "Malik gibi tasarruf eden kişi hissesi oranında sorumlu olurken, paylı mülkiyet halindeki malik verginin tamamından sorumludur."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Bina Vergisini, binanın maliki, varsa intifa hakkı sahibi, her ikisi de yoksa binaya malik gibi tasarruf edenler öder' ve 'Bir binaya paylı mülkiyet halinde malik olanlar, hisseleri oranında mükelleftirler' hükümlerine dayanmaktadır.\n- Diğer seçenekler, Madde 3'te tanımlanan mükellefiyet sırasına veya paylı ile elbirliği mülkiyet sorumluluk türlerine aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıda belirtilen binalardan hangisi için bina vergisinden daimi muafiyet uygulanırken 'kiraya verilmeme' şartı aranmaz?",
+            "secenekler": {
+                "A": "Kamu menfaatlerine yararlı derneklere ait binalar",
+                "B": "Kazanç gayesi olmamak şartıyla işletilen öğrenci yurtları",
+                "C": "Ordu evleri ve askeri gazinolar",
+                "D": "Türk Silahlı Kuvvetlerini güçlendirmek amacıyla kurulmuş vakıflara ait binalar",
+                "E": "Amatör spor kulüplerine ait binalar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen '(s) fıkrası için kiraya verilmeme şartı aranmaz' hükmüne dayanmaktadır. Bu fıkra, Türk Silahlı Kuvvetlerini güçlendirmek amacıyla kurulmuş vakıflara ait binaları kapsamaktadır.\n- Diğer seçeneklerde belirtilen binalar için genel kural olan 'kiraya verilmeme' şartı arandığından, bu seçenekler yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, kamu menfaatlerine yararlı derneklere ait binaların bina vergisinden daimi muaf olabilmesi için aranan özel şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Belediye ve mücavir alan sınırları dışında bulunmaları",
+                "B": "Kurumlar Vergisine tabi işletmelere ait olmamaları veya bunlara tahsis edilmemiş olmaları",
+                "C": "Cumhurbaşkanınca vergi muafiyeti tanınmış olmaları",
+                "D": "Sadece derneğin kendi üyeleri tarafından kullanılıyor olmaları",
+                "E": "Kiraya verilmemek kaydıyla en az on yıldır dernek mülkiyetinde bulunmaları"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te yer alan 'Kamu menfaatlerine yararlı derneklere ait binalar (Kurumlar Vergisine tabi işletmelere ait olmamaları veya bunlara tahsis edilmiş bulunmamaları şartiyle)' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda bu dernekler için belirtilen şartlar arasında yer almadığı için yanlıştır. C seçeneğindeki şart vakıflar için, A seçeneğindeki şart ise farklı bir muafiyet durumu için geçerlidir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, zirai istihsalde kullanılan bir binanın bir kısmının ikamete, diğer kısmının ise zirai maksatlara tahsis edilmesi durumunda vergilendirme nasıl yapılır?",
+            "secenekler": {
+                "A": "Bina, karma kullanımdan dolayı muafiyet kapsamından tamamen çıkarılır.",
+                "B": "Vergi, yalnızca ikamete tahsis olunan kısım için uygulanır.",
+                "C": "Bina, zirai maksada hizmet ettiği için tamamen vergiden muaf tutulur.",
+                "D": "Vergi, yalnızca zirai maksatlara tahsis edilen kısım için uygulanır.",
+                "E": "Binanın tamamı üzerinden %50 oranında indirimli vergi alınır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'binaların bir kısmı ikamete ve bir kısmı da mezkür fıkralarda yazılı maksatlara tahsis edilmiş bulunduğu takdirde vergi, yalnız ikamete tahsis olunan kısım için uygulanır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen bu özel duruma ilişkin düzenlemeye aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, demiryolları ile hava liman ve meydanlarına ait yapılardan hangisi, daimi muafiyet kapsamında bir 'mütemmim' (bütünleyici parça) olarak kabul edilmez?",
+            "secenekler": {
+                "A": "Yolcu salonları",
+                "B": "Pist taksirut ve apron sahası",
+                "C": "Müstakil idarehane binaları",
+                "D": "Teknik blok ve hangar",
+                "E": "Hava yer ve yer muhabere sistemleri"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te yer alan '(Diğer depolar, antrepolar, müstakil lojman ve müstakil idarehane binaları mütemmim sayılmaz)' şeklindeki istisnai hükme dayanmaktadır.\n- Diğer seçeneklerde belirtilen yapılar, kanun metninde açıkça muafiyet kapsamında sayılan mütemmimler arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, zirai istihsalde kullanılmak şartıyla bina vergisinden muaf tutulan binalar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Zahire ambarları",
+                "B": "Samanlıklar",
+                "C": "Serler (seralar)",
+                "D": "Tarımsal ürün işleme fabrikaları",
+                "E": "İşçi ve bekçi bina, kulübe ve barakaları"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4'te zirai istihsalde kullanılacak muaf binalar listesinde 'Tarımsal ürün işleme fabrikaları'nın yer almamasına dayanmaktadır. Kanun metni daha çok depolama ve barınma gibi doğrudan üretimle ilgili basit yapıları saymıştır.\n- Diğer seçenekler, kanunda açıkça sayılan ve muafiyet tanınan zirai binalar arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, tabii afetler sebebiyle binaları yanan, yıkılan veya kullanılmaz hale gelen mükelleflerin, kamu kuruluşlarınca gösterilen yerlerde inşa ettikleri binalar için tanınan geçici muafiyet süresi ne kadardır?",
+            "secenekler": {
+                "A": "3 yıl",
+                "B": "5 yıl",
+                "C": "10 yıl",
+                "D": "Bildirimin yapıldığı yılı takip eden bütçe yılına kadar",
+                "E": "Tahsis edildikleri süre boyunca"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'kamu kuruluşlarınca ilgili kanunlarına göre inşa olunup hak sahiplerine teslim edilen binalar devredildikleri yılı takibeden bütçe yılından itibaren 10 yıl süre ile geçici muafiyetten faydalandırılır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 5'te farklı durumlar için öngörülen süreler (5 yıl) veya bildirim usulüne ilişkin ifadeler (D seçeneği) olduğu için yanlıştır. 3 yıl ise kanunda belirtilen bir süre değildir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, mesken olarak kullanılan bir binaya tanınmış olan geçici muafiyetin devamlılığını etkileyen durumlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Binanın satınalma yoluyla el değiştirmesi durumunda muafiyet hakkı tamamen sona erer.",
+                "B": "Mevcut binaya ilave yapılması halinde, ilave kısım için muafiyet uygulanmaz.",
+                "C": "Binanın kısmen dahi olsa mesken dışında bir amaçla kullanılması, muafiyetin düşmesine neden olur.",
+                "D": "Muafiyetten yararlanmak için binanın vergi değerinin 2.500 Yeni Türk Lirasından fazla olması gerekir.",
+                "E": "Köylerdeki inşaatlar için de vergi dairesine bildirimde bulunulması zorunludur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te yer alan 'Binanın... kısmen veya tamamen mesken olarak kullanılmaması halinde bu binaya veya daireye tanınmış bulunan muafiyet bu halin vukubulduğu yılı takibeden bütçe yılından itibaren düşer' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanuna göre, binanın satılması halinde muafiyet kalan süre için devam eder (A), ilave kısımlar için muafiyet uygulanır (B), vergi değerinin 2.500 YTL'den az olmaması muafiyetin bir şartıdır, fazla olması değil (D) ve köylerdeki inşaat için bildirimde bulunulmayacağı açıkça belirtilmiştir (E)."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, geçici muafiyet hallerinin bütçe yılının son üç ayı içinde meydana gelmesi durumunda, bu durumun ilgili vergi dairesine bildirilmesi için tanınan süre nedir?",
+            "secenekler": {
+                "A": "Olayın vuku bulduğu tarihten itibaren üç ay içinde",
+                "B": "Olayın vuku bulduğu bütçe yılı içinde",
+                "C": "Olayın vuku bulduğu yılı takip eden bütçe yılının sonuna kadar",
+                "D": "Beş yıl içinde",
+                "E": "Bildirim için belirli bir süre öngörülmemiştir"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Ancak, bu olaylar bütçe yılının son üç ayı içinde vukubulduğu takdirde bildirim, olayın vukubulduğu tarihten itibaren üç ay içinde yapılır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Bütçe yılı içinde bildirim genel kuraldır, ancak soru istisnai durumu sormaktadır. Diğer süreler ise kanunda bu durum için belirtilmemiştir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi geçici bina vergisi muafiyetinden yararlanabilecek binalar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Geri kalmış bölgelerde inşa edilen sınai tesisler",
+                "B": "Turizm müessesesi belgesi almış mükelleflerin işletmelerine dahil binaları",
+                "C": "Yatırım Teşvik Belgesi kapsamında inşa edilen binalar",
+                "D": "Fuar, sergi ve panayır yerlerinde bu maksada tahsis edilen binalar",
+                "E": "Vakıflar tarafından işletilen eğitim ve sağlık tesisleri"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 5'te vakıflar tarafından işletilen eğitim ve sağlık tesislerine yönelik bir geçici muafiyet düzenlemesi bulunmadığı için E seçeneğidir.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde belirtilen binaların tümü, Madde 5'te açıkça geçici muafiyetten faydalanacaklar arasında sayılmıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Bina Vergisinin matrahı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sabit istihsal tesisatına ait değerler vergi matrahına dahil edilmez.",
+                "B": "Vergi matrahı, meskenlerde binde bir, diğer binalarda binde iki olan orandır.",
+                "C": "Yeni inşa edilen binalarda matrah, arsasının vergisinden daha düşük olamaz.",
+                "D": "Matrah, Cumhurbaşkanı tarafından belirlenen oranlara göre hesaplanır.",
+                "E": "Yanan veya yıkılan binaların matrahı, olayı takip eden taksitten itibaren sıfırlanır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Sabit istihsal tesisatına ait değerler vergi matrahına alınmaz' hükmüne dayanmaktadır. Kanun, Bina Vergisi matrahının, binanın kanun hükümlerine göre tespit edilen vergi değeri olduğunu ve bu değere sabit üretim tesisatlarının dahil edilmeyeceğini açıkça belirtir.\n- Diğer seçenekler: B ve D seçenekleri matrahı vergi oranı (nispet) ile karıştırmaktadır (Madde 8). C seçeneği matrahı değil, verginin kendisini konu alan özel bir kuraldır (Madde 8). E seçeneği ise matrahın değil, mükellefiyetin sona ermesi durumunu açıklamaktadır (Madde 9)."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Cumhurbaşkanının brüt 200 m²’yi geçmeyen tek meskenleri için vergi oranlarını sıfıra kadar indirme yetkisi olduğu kişiler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Gaziler",
+                "B": "Engelliler",
+                "C": "Kamu hizmetinde on yılını doldurmuş memurlar",
+                "D": "Şehitlerin dul ve yetimleri",
+                "E": "Gelirleri münhasıran kanunla kurulan sosyal güvenlik kurumlarından aldıkları aylıktan ibaret bulunanlar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de Cumhurbaşkanının vergi oranını sıfıra kadar indirme yetkisi olduğu kişiler arasında sayılan gruplara ilişkin hükme dayanmaktadır. Kanun metninde gaziler, engelliler, şehitlerin dul ve yetimleri ile gelirleri sadece sosyal güvenlik kurumlarından olanlar açıkça belirtilmiştir.\n- Diğer seçenekler kanunda açıkça sayılan ve bu vergi indiriminden yararlanabilecek gruplar arasında yer alırken, C seçeneğindeki 'Kamu hizmetinde on yılını doldurmuş memurlar' bu listede yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, yeni inşa edilen bir binanın vergisinin, arsasının vergisinden az olamayacağı yönündeki hükmün uygulama süresiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu hüküm, binanın inşasının başladığı yılı takip eden bütçe yılından itibaren beş yıl uygulanır.",
+                "B": "Bu hüküm, binanın inşasının sona erdiği yılı takip eden bütçe yılından itibaren dört yıl uygulanır.",
+                "C": "Bu hüküm, binanın iskan ruhsatı aldığı tarihten itibaren on yıl süreyle geçerlidir.",
+                "D": "Bu hüküm, herhangi bir süre sınırı olmaksızın kalıcı olarak uygulanır.",
+                "E": "Bu hüküm, binanın inşasının sona erdiği bütçe yılından itibaren iki yıl uygulanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Bu hüküm binaların inşalarının sona erdiği yılı takip eden bütçe yılından itibaren dört yıl uygulanır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen başlama tarihleri ve süreler (inşaatın başlaması, beş yıl, on yıl, süresiz, iki yıl) kanun metnindeki düzenlemeyle çeliştiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bina vergisi oranları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Mesken olarak kullanılan binalarda vergi oranı binde birdir.",
+                "B": "Mesken dışındaki diğer binalarda vergi oranı binde ikidir.",
+                "C": "Büyük şehir belediye sınırları ve mücavir alanlar içinde bu oranlar %100 artırımlı uygulanır.",
+                "D": "Cumhurbaşkanı, vergi oranlarını dört katına kadar artırmaya yetkilidir.",
+                "E": "Cumhurbaşkanı, vergi oranlarını yarısına kadar indirmeye yetkilidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Cumhurbaşkanı, vergi oranlarını yarısına kadar indirmeye veya üç katına kadar artırmaya yetkilidir.' hükmüne dayanmaktadır. Cumhurbaşkanının artırma yetkisi üç kat ile sınırlandırılmıştır.\n- Diğer seçenekler: A, B, C ve E seçeneklerindeki oranlar ve yetkiler kanun metninde yer alan düzenlemelerle birebir uyumlu olduğu için doğrudur. D seçeneğindeki 'dört katına kadar artırma' ifadesi ise kanundaki yetki sınırını aştığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Cumhurbaşkanının belirli kişilerin tek meskenlerine ait vergi oranlarını sıfıra kadar indirme yetkisi aşağıdaki durumlardan hangisinde uygulanamaz?",
+            "secenekler": {
+                "A": "Mükellefin meskene hisse ile sahip olması halinde",
+                "B": "Mükellefin mesken üzerinde intifa hakkına sahip olması halinde",
+                "C": "Meskenin brüt alanının 200 metrekareyi geçmemesi halinde",
+                "D": "Meskenin muayyen zamanda dinlenme amacıyla kullanılması halinde",
+                "E": "Mükellefin gelirinin münhasıran sosyal güvenlik kurumundan aldığı aylıktan ibaret olması halinde"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Muayyen zamanda dinlenme amacıyla kullanılan meskenler hakkında bu hüküm uygulanmaz.' şeklindeki açık istisna hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun metni, hisse ile veya intifa hakkı ile sahip olunan, brüt 200 metrekareyi geçmeyen ve belirli gelir gruplarına ait tek meskenler için bu indirimin uygulanabileceğini belirttiğinden, bu durumlar istisna kapsamında değildir ve yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Cumhurbaşkanı kararıyla tek meskeni için vergi oranı sıfır olarak uygulanan bir gazinin, sonradan ikinci bir mesken daha edinmesi durumunda, ilk meskeni için vergi mükellefiyeti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İkinci meskeni edindiği tarihi takip eden taksitten itibaren ilk meskeni için vergi mükellefiyeti başlar.",
+                "B": "İkinci meskeni edindiği tarihi takip eden bütçe yılından itibaren ilk meskeni için vergi mükellefiyeti başlar.",
+                "C": "İlk meskeni için vergi muafiyeti devam eder, sadece yeni edindiği ikinci mesken için vergi öder.",
+                "D": "İkinci meskeni edindiği tarihten itibaren derhal vergi mükellefiyeti başlar ve geçmişe dönük vergiler talep edilir.",
+                "E": "Vergi mükellefiyetinin başlayıp başlamayacağına ilgili belediye re'sen karar verir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen tek meskene sahip olma şartının kaybedilmesi ve Madde 9'da düzenlenen 'muafiyetin sukut ettiği tarihi takip eden bütçe yılından itibaren' mükellefiyetin başlayacağı hükmünün birleşimine dayanmaktadır. Gazi, ikinci meskeni edinerek tek mesken avantajını kaybetmiş ve muaflık şartı ortadan kalkmıştır. Bu durumda mükellefiyet, bu olayın gerçekleştiği yılı izleyen bütçe yılı itibarıyla başlar.\n- Diğer seçenekler: Kanunda belirtilen mükellefiyetin başlama zamanı (takip eden bütçe yılı) ile uyuşmadığı veya muaflığın devam edeceği gibi yanlış yorumlar içerdiği için hatalıdır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, inşası Haziran 2024'te tamamlanan yeni bir bina ile ilgili olarak, vergisinin arsasının vergisinden az olamayacağına dair özel hükmün uygulanması hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu hüküm, binanın inşasının bittiği Haziran 2024'ten itibaren dört yıl süreyle uygulanır.",
+                "B": "Bu hüküm, 2025 bütçe yılının başından itibaren dört yıl süreyle uygulanır.",
+                "C": "Bu hüküm, sadece mesken olarak inşa edilen binalar için geçerlidir ve beş yıl uygulanır.",
+                "D": "Bu hükmün uygulanabilmesi için binanın vergi değerinin ilgili belediye tarafından Ocak ve Şubat aylarında özel olarak takdir edilmesi gerekir.",
+                "E": "Bu hüküm, binanın iskan izni alındığı tarihten itibaren süresiz olarak uygulanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 8'de yer alan 'Bu hüküm binaların inşalarının sona erdiği yılı takip eden bütçe yılından itibaren dört yıl uygulanır' ifadesine dayanmaktadır. İnşaat 2024 yılında sona erdiği için, bu özel kuralın uygulama başlangıcı 2024'ü takip eden 2025 bütçe yılıdır ve dört yıl boyunca geçerlidir.\n- Diğer seçenekler: Kanunda açıkça belirtilen 'takip eden bütçe yılı' başlangıcını ve 'dört yıl' süresini yanlış yorumladığı veya kanunda yer almayan ek şartlar (mesken olma, süresiz uygulama gibi) öne sürdüğü için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, yanan veya tamamen kullanılmaz hale gelen bir binadan dolayı vergi mükellefiyetinin sona ermesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mükellefiyet, bu olayın vukubulduğu tarihi takip eden bütçe yılından itibaren sona erer.",
+                "B": "Mükellefiyet, durumun vergi dairesine bildirilmesiyle derhal sona erer.",
+                "C": "Mükellefiyet, bu olayın vukubulduğu tarihi takip eden taksitten itibaren sona erer.",
+                "D": "Mükellefiyetin sona ermesi için dört yılda bir yapılan takdir işleminin beklenmesi gerekir.",
+                "E": "Mükellefiyet, olayın gerçekleştiği taksitin sonundan itibaren sona erer."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Yanan, yıkılan, tamamen kullanılmaz hale gelen ... binalardan dolayı mükellefiyet, bu olayların vukubulduğu tarihi takibeden taksitten itibaren sona erer.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği mükellefiyetin başlamasına ilişkin kuralı yanlış bir şekilde sona erme durumuna uyarlamaktadır; B, D ve E seçenekleri ise kanunda belirtilen sona erme zamanlamasına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi bina vergisi mükellefiyetinin, olayın gerçekleştiği tarihi takip eden bütçe yılından itibaren başlamasına yol açan durumlardan biri değildir?",
+            "secenekler": {
+                "A": "Vergi değerini tadil eden bir sebebin ortaya çıkması.",
+                "B": "Dört yılda bir yapılan takdir işleminin yapılması.",
+                "C": "Binanın sahip olduğu muafiyetin ortadan kalkması.",
+                "D": "Binanın yıkılarak tamamen kullanılmaz hale gelmesi.",
+                "E": "Yeni inşa edilen binanın vergisinin arsasının vergisinden az olamayacağının tespit edilmesi."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Yanan, yıkılan, tamamen kullanılmaz hale gelen... binalardan dolayı mükellefiyet, bu olayların vukubulduğu tarihi takibeden taksitten itibaren sona erer.' hükmüne dayanmaktadır. Dolayısıyla binanın yıkılması mükellefiyeti başlatan değil, sona erdiren bir sebeptir.\n- Diğer seçenekler: A, B ve C'de belirtilen durumlar, aynı maddede mükellefiyetin takip eden bütçe yılından itibaren başlamasına neden olan haller olarak açıkça sayılmıştır. E seçeneği ise Madde 8'de yer alan ve verginin miktarına ilişkin bir kural olup mükellefiyetin başlama anıyla ilgili değildir, ancak soruda istenen 'başlatan sebep olmama' durumuna en uygun çeldirici D seçeneğidir çünkü o da Madde 9'da düzenlenmiş fakat zıt bir sonuç doğurmaktadır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir binanın vergi değerini tadil eden bir sebep Kasım ayında meydana gelmiş ve mükellef bildirimi bir sonraki yılın Şubat ayında vermişse, bu durumda bina vergisi ne zaman tarh olunur?",
+            "secenekler": {
+                "A": "Vergi değerini tadil eden sebebin meydana geldiği bütçe yılını takip eden yılın Ocak ayı içinde",
+                "B": "Bildirimin verildiği tarihte",
+                "C": "Takdir işlemlerinin yapıldığı yılı takip eden bütçe yılının Ocak ve Şubat aylarında",
+                "D": "Bildirim verme süresinin son gününü takip eden yedi gün içinde",
+                "E": "Değişikliğin vuku bulduğu tarihi takip eden bütçe yılından itibaren"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'vergi değerini tadil eden sebep yılın son üç ayı içinde vuku bulmuş ve bildirim, vergi değerini tadil eden sebebin meydana geldiği bütçe yılını takip eden yılda verilmiş ise bildirimin verildiği tarihte' tarh olunacağı hükmüne dayanmaktadır.\n- Diğer seçenekler: Maddede belirtilen farklı durumlar için geçerli olan tarh zamanlarını veya mükellefiyetin başlama anını ifade ettiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir ilçe hududu içinde birden fazla belediye bulunması durumunda, belediye ve mücavir alan sınırları dışında kalan bir binaya ait vergiyi tarha yetkili belediyeyi belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili belediye meclisi",
+                "B": "Maliye Bakanlığı",
+                "C": "İlgili valiler",
+                "D": "Cumhurbaşkanı",
+                "E": "Büyükşehir belediye başkanı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'belediye ve mücavir alan sınırları dışında bulunan binaya ait bina vergisini tarha yetkili olacak belediye, ilgili valiler tarafından belirlenir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bu yetkinin diğer makamlara verildiğine dair bir düzenleme bulunmadığından yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bina vergisinin tarh ve tahakkukuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Vergi, dört yılda bir yapılan takdir işlemlerini takip eden yılın Ocak ve Şubat aylarında yıllık olarak tarh olunur.",
+                "B": "Bildirimin posta ile gönderilmesi durumunda vergi, bildirim verme süresinin son gününü izleyen yedi gün içinde tarh edilir.",
+                "C": "Tarh olunan vergiler, tarh edildiği tarihte tahakkuk etmiş sayılır ve bu durum mükellefe bir yazı ile bildirilir.",
+                "D": "Yapılan ilk tarh ve tahakkuku takip eden yıllarda vergi, her bütçe yılının başından itibaren o yıl için tahakkuk etmiş sayılır.",
+                "E": "Vergi, takdir işlemlerinin yapıldığı bütçe yılının sonuna kadar tarh edilmek zorundadır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Dört yılda bir defa olmak üzere takdir işlemlerinin yapıldığı yılı takip eden bütçe yılının Ocak ve Şubat aylarında' tarh edileceği hükmüne dayanmaktadır. Bu nedenle verginin takdir işlemlerinin yapıldığı yılın sonuna kadar tarh edilmesi gerektiği ifadesi yanlıştır.\n- Diğer seçenekler: Maddede açıkça belirtilen tarh ve tahakkuk usullerine ilişkin doğru ifadelerdir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir il veya ilçe hududu içerisinde birden fazla belediye olması halinde, belediye ve mücavir alan sınırları dışında bulunan bir binaya ait bina vergisini tarha yetkili olacak belediyeyi belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili valiler",
+                "B": "Cumhurbaşkanı",
+                "C": "Tasarruf Mevduatı Sigorta Fonu",
+                "D": "Toplu Konut İdaresi Başkanlığı",
+                "E": "İlgili belediye meclisleri"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen '...belediye ve mücavir alan sınırları dışında bulunan binaya ait bina vergisini tarha yetkili olacak belediye, ilgili valiler tarafından belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 11'de sayılan yetkili makamlar arasında yer almadığı için yanlıştır. Cumhurbaşkanı, Toplu Konut İdaresi Başkanlığı ve Tasarruf Mevduatı Sigorta Fonu gibi kurumlar kanunun farklı maddelerinde başka konularla ilgili olarak geçmekte olup, bu yetkiye sahip değillerdir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bina vergisi bildiriminin posta ile gönderilmesi durumunda vergi, bildirim verme süresinin son gününü takıp eden kaç gün içinde tarh olunur?",
+            "secenekler": {
+                "A": "Üç gün",
+                "B": "Beş gün",
+                "C": "Yedi gün",
+                "D": "On gün",
+                "E": "On beş gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Bildirim posta ile gönderilmiş ise vergi, bildirim verme süresinin son gününü takip eden yedi gün içinde tarh olunur.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bina vergisinin tarh ve tahakkuku ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tarh edilen vergiler, tarh edildiği tarihte tahakkuk etmiş sayılır.",
+                "B": "Dört yılda bir yapılan takdir işlemlerinde vergi, takdirin yapıldığı yılı takip eden bütçe yılının Ocak ve Şubat aylarında tarh edilir.",
+                "C": "Yapılan tarh ve tahakkuku takip eden yıllarda vergi, her bütçe yılının başından itibaren o yıl için tahakkuk etmiş sayılır.",
+                "D": "Tahakkuk eden vergi mükellefe bir yazı ile bildirilir.",
+                "E": "Vergi değerini tadil eden bir sebep yılın son üç ayında ortaya çıkmışsa, vergi bildirimin verildiği tarihte tarh edilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen '...vergi değerini tadil eden sebep yılın son üç ayı içinde vuku bulmuş ve bildirim, vergi değerini tadil eden sebebin meydana geldiği bütçe yılını takip eden yılda verilmiş ise bildirimin verildiği tarihte...' tarh edileceği hükmüne dayanmaktadır. Seçenekte bu koşul eksik belirtildiği için ifade yanlıştır.\n- Diğer seçenekler: Madde 11'de yer alan tarh ve tahakkuk usullerine ilişkin doğru ifadelerdir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, belediye sınırları içinde veya dışında bulunan parsellenmemiş araziden hangilerinin arsa sayılacağını belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili belediye meclisi",
+                "B": "Cumhurbaşkanı",
+                "C": "İlgili valilik",
+                "D": "Toplu Konut İdaresi Başkanlığı",
+                "E": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Belediye sınırları içinde veya dışında bulunan parsellenmemiş araziden hangilerinin bu kanuna göre arsa sayılacağı Cumhurbaşkanı kararı ile belli edilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen mercilerin, parsellenmemiş arazinin arsa sayılıp sayılmayacağına karar verme yetkisi kanunda düzenlenmemiştir. Belediye, sadece kendi sınırları içindeki parsellenmiş arazinin doğrudan arsa sayılması durumunda ilgilidir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir arazi üzerinde elbirliği mülkiyeti söz konusu olduğunda, maliklerin vergi sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Malikler, vergiden yalnızca hisseleri oranında sorumludurlar.",
+                "B": "Vergiyi öncelikli olarak arazinin intifa hakkı sahibi öder.",
+                "C": "Sorumluluk, araziye malik gibi tasarruf eden kişiye aittir.",
+                "D": "Vergi sorumluluğu, mülkiyet ihtilafı çözülene kadar ertelenir.",
+                "E": "Malikler vergiden müteselsilen sorumlu olurlar."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Elbirliği mülkiyette malikler vergiden müteselsilen sorumlu olurlar.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği paylı mülkiyetin kuralıdır; B ve C seçenekleri ise mülkiyetin tek kişiye ait olduğu durumlardaki genel mükellefiyet sırasını belirtir; D seçeneği ise kanunda yer almayan bir düzenlemedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, mülkiyeti ihtilaflı bir arazi için vergi ödeyen ve sonrasında davanın aleyhine sonuçlandığını öğrenen bir kişinin, ödediği vergiyi geri alabilmesi için başvurması gereken işlem ve süre aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Ödemenin yapıldığı tarihten itibaren altı ay içinde başvurarak iade talep etmek",
+                "B": "İhtilafın başladığı tarihten itibaren iki yıl içinde başvurarak iade talep etmek",
+                "C": "Karar tarihinden itibaren bir yıl içerisinde başvurarak ret ve iade talep etmek",
+                "D": "Kararın kesinleştiği tarihten itibaren beş yıllık genel zamanaşımı süresinde başvurmak",
+                "E": "Herhangi bir süre sınırı olmaksızın, talep üzerine vergiyi geri almak"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen '...ihtilafın ödeme yapan aleyhine sonuçlanması halinde ihtilafla ilgili bulunanların karar tarihinden itibaren bir yıl içerisinde başvurmaları şartiyle kendilerine ret ve iade olunur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen 'karar tarihinden itibaren bir yıl' şartına uymayan, yanlış süreler veya başlangıç tarihleri içerdiği için hatalıdır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi Arazi Vergisini ödemekle yükümlü olanlar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Arazinin maliki",
+                "B": "Arazinin intifa hakkı sahibi",
+                "C": "Araziye malik gibi tasarruf edenler",
+                "D": "Paylı mülkiyet halindeki malikler",
+                "E": "Vergiyi tarh ve tahakkuk ettiren ilgili belediye"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te Arazi Vergisi mükellefleri arasında sayılmayan 'ilgili belediye' seçeneğidir. Kanun, belediyeyi verginin mükellefi olarak değil, vergiyi tarh eden idare olarak düzenlemiştir.\n- Diğer seçenekler: Madde 13'te açıkça Arazi Vergisi mükellefi olarak sayılan (malik, intifa hakkı sahibi, malik gibi tasarruf eden ve paylı mülkiyet halindeki malikler) kişiler olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir belediye ile özel bir şahsın paylı mülkiyet esaslarına göre birlikte sahip olduğu bir araziye ilişkin vergi sorumluluğu hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Arazinin tamamı, ortaklarından birinin belediye olması sebebiyle Arazi Vergisinden muaftır.",
+                "B": "Belediye ve özel şahıs, verginin tamamından müteselsilen sorumludur.",
+                "C": "Özel şahıs, arazi üzerindeki kendi hissesi oranında Arazi Vergisinden sorumludur.",
+                "D": "Verginin tamamından belediye sorumludur, ancak özel şahsa rücu edebilir.",
+                "E": "Mülkiyet ihtilaflı kabul edilir ve vergi, ihtilaf çözülene kadar ertelenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Bir araziye paylı mülkiyet halinde malik olanlar, hisseleri oranında mükelleftirler.' hükmü ile Madde 14'te belediyelere ait araziler için tanınan muafiyetin birlikte yorumlanmasına dayanmaktadır. Belediye kendi hissesi için muaftır, ancak özel şahıs kendi hissesi oranında mükellef olmaya devam eder.\n- Diğer seçenekler: A seçeneği muafiyetin şahsiliğini, B seçeneği ise paylı mülkiyetin müteselsil sorumluluk doğurmadığını (bu durumun elbirliği mülkiyetine özgü olduğunu) göz ardı etmektedir. D ve E seçeneklerindeki durumlar ise kanunda belirtilen kurallara aykırıdır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, daimi muaflık kapsamında olan arazilerden hangisi, kiraya verilmesi durumunda dahi Arazi Vergisinden muaf tutulmaya devam eder?",
+            "secenekler": {
+                "A": "Kamu menfaatlerine yararlı derneklere ait arazi",
+                "B": "Yabancı devletlere ait elçilik binaları yapılmak üzere sahip olunan arazi",
+                "C": "Türk Silahlı Kuvvetlerini güçlendirmek amacıyla kurulmuş vakıflara ait arazi",
+                "D": "Mezarlıklar",
+                "E": "Toplu Konut İdaresi Başkanlığına ait arazi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen '((a), (b), (f), (ı) ve (j) fıkralarındaki arazi için kiraya verilmeme şartı aranmaz.)' hükmüne dayanmaktadır. Bu istisna kapsamında, (f) fıkrasında yer alan Türk Silahlı Kuvvetlerini güçlendirmek amacıyla kurulmuş vakıflara ait araziler kiraya verilse dahi muafiyetleri devam eder.\n- Diğer seçeneklerde belirtilen araziler, genel kural gereği kiraya verilmeleri halinde Arazi Vergisi muafiyetini kaybederler, çünkü kanunda bu araziler için kiraya verilmeme şartının aranmayacağına dair bir istisna belirtilmemiştir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi Arazi Vergisinden daimi olarak muaf tutulan arazi ve arsalar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Kamu menfaatlerine yararlı sendikalara ait arazi",
+                "B": "Merkezi Türkiye'de bulunan milletlerarası kuruluşların Türkiye'deki temsilciliklerine ait arazi",
+                "C": "Belediyelere ve köy tüzel kişiliğine ait arazi",
+                "D": "Tasarruf Mevduatı Sigorta Fonuna intikal eden bankalara ait arazi",
+                "E": "Belediye sınırları içindeki yolcu taşıma işletmelerine ait arazi"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 14'te Arazi Vergisinden daimi muaf tutulanlar arasında 'kamu menfaatlerine yararlı sendikalara ait arazi' şeklinde bir hüküm bulunmamasına dayanmaktadır. Kanun, 'kamu menfaatlerine yararlı derneklere' ait araziden bahsetmektedir.\n- Diğer seçenekler: Madde 14'ün (a), (b), (d) ve (ı) bentlerinde açıkça sayılan ve daimi muafiyet tanınan araziler arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, kamu menfaatlerine yararlı bir derneğin sahip olduğu ve ticari amaçla bir şirkete kiraya verdiği araziye ilişkin Arazi Vergisi yükümlülüğü hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Dernek, kiraya verdiği bu arazi için Arazi Vergisi mükellefi olur.",
+                "B": "Arazi, kamu menfaatine yararlı derneğe ait olduğu için her durumda vergiden daimi muaftır.",
+                "C": "Verginin mükellefi, araziyi kiralayan şirkettir.",
+                "D": "Dernek ve kiracı şirket vergiden müteselsilen sorumludur.",
+                "E": "Bu araziden sadece Kurumlar Vergisi alınır, Arazi Vergisi alınmaz."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Aşağıda yazılı arazi kiraya verilmemek ... şartıyla Arazi Vergisinden daimi olarak muaftır.' hükmü ile Madde 13'te yer alan 'Arazi Vergisini, arazinin maliki ... öder.' hükmünün birlikte değerlendirilmesine dayanmaktadır. Kamu menfaatlerine yararlı derneklere ait araziler, kiraya verilmemek şartıyla muaftır. Arazi kiraya verildiği için muafiyetini kaybeder ve malik olan dernek verginin mükellefi olur.\n- Diğer seçenekler: B seçeneği kiraya verilmeme şartını göz ardı ettiği, C ve D seçenekleri ise Madde 13'teki mükellef tanımına aykırı olduğu için yanlıştır. E seçeneğindeki durum kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, arazi vergisinden daimi muafiyete tabi olan arazilerle ilgili olarak, 'kiraya verilmeme' şartının aranmadığı durum aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kamu menfaatlerine yararlı derneklere ait arazi",
+                "B": "Yabancı devletlere ait elçilik binaları yapılmak üzere sahip olunan arazi",
+                "C": "Belediyeler tarafından işletilen su ve elektrik işletmelerine ait arazi",
+                "D": "Mezarlıklar",
+                "E": "Belediye ve mücavir alan sınırları dışında bulunan arazi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen '((a), (b), (f), (ı) ve (j) fıkralarındaki arazi için kiraya verilmeme şartı aranmaz.)' hükmüne dayanmaktadır. Bu kapsamda, belediyeler tarafından işletilen su ve elektrik işletmelerine ait arazi, kiraya verilse dahi daimi muafiyetten yararlanır.\n- Diğer seçeneklerde sayılan arazilerin daimi muafiyetten yararlanabilmesi için, kanunda belirtilen genel kural uyarınca kiraya verilmemiş olmaları şarttır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi Arazi Vergisinden daimi olarak muaf tutulan arazi ve arsalardan biri değildir?",
+            "secenekler": {
+                "A": "Toplu Konut İdaresi Başkanlığına ait arazi ve arsalar",
+                "B": "Türk Silahlı Kuvvetlerini güçlendirmek amacıyla kurulmuş vakıflara ait arazi ve arsalar",
+                "C": "Kamu menfaatlerine yararlı derneklere ait olup Kurumlar Vergisine tabi bir işletmeye tahsis edilmiş arazi",
+                "D": "Devlete ait arazi",
+                "E": "Mezarlıklar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Kamu menfaatlerine yararlı derneklere ait arazi (Kurumlar Vergisine tabi işletmelere ait olmamaları veya bunlara tahsis edilmiş bulunmamaları şartiyle)' hükmüne dayanmaktadır. Dolayısıyla, bir derneğe ait arazi Kurumlar Vergisine tabi bir işletmeye tahsis edilmişse daimi muafiyetten yararlanamaz.\n- Diğer seçeneklerde yer alan araziler, ilgili maddede daimi muafiyet kapsamında sayılmıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, belediye ve mücavir alan sınırları dışında bulunan arazilerle ilgili daimi muafiyet hükmü hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu araziler, üzerinde hangi faaliyet yürütülürse yürütülsün her durumda vergiden muaftır.",
+                "B": "Sadece tarımsal faaliyetlerde kullanılan araziler bu muafiyetten yararlanabilir.",
+                "C": "Gelir vergisinden muaf esnafın işyeri olarak kullandığı araziler bu muafiyetin dışındadır.",
+                "D": "Muafiyetin uygulanması için arazinin parsellenmiş olması zorunludur.",
+                "E": "Ticari, sınai ve turistik faaliyetlerde kullanılan araziler için bu muafiyet uygulanmaz."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 14'te yer alan 'ticari, sınai ve turistik faaliyetlerde kullanılan arazi ile arsalar ve arsa sayılacak parsellenmemiş arazi için bu muafiyet uygulanmaz' hükmüne dayanmaktadır. Bu hüküm, belediye ve mücavir alan dışındaki araziler için tanınan genel muafiyetin istisnasını oluşturur.\n- Diğer seçenekler: A seçeneği istisnaları göz ardı ettiği, C seçeneği ise kanundaki 'hariç olmak üzere' ifadesini yanlış yorumladığı için hatalıdır. B ve D seçenekleri ise kanunda yer almayan şartlar öne sürmektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi Arazi Vergisinden daimi muafiyet kapsamında sayılmamıştır?",
+            "secenekler": {
+                "A": "İl özel idarelerine ait arazi",
+                "B": "Yabancı devletlere ait konsolosluk binaları için sahip olunan arazi",
+                "C": "Toprak ıslahı amacıyla tarıma elverişli hale getirilen arazi",
+                "D": "Köy tüzel kişiliğine ait arazi",
+                "E": "Toplu Konut İdaresi Başkanlığına ait arazi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te daimi muafiyetler arasında sayılmamış olmasına dayanmaktadır. Toprak ıslahıyla tarıma elverişli hale getirilen arazi, Madde 15'te düzenlenen 'geçici muafiyetler' kapsamında yer almaktadır.\n- Diğer seçenekler: A, B, D ve E seçeneklerinde belirtilen araziler, Madde 14'te Arazi Vergisinden daimi olarak muaf tutulan yerler arasında açıkça sayılmıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, geçici muaflıktan yararlanmak amacıyla arazinin tahsis durumunun ilgili vergi dairesine bütçe yılı içinde bildirilmemesinin hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Muafiyet hakkı tamamen ortadan kalkar ve bir daha bu haktan yararlanılamaz.",
+                "B": "Muafiyet, bildirimin yapıldığı yılı takip eden bütçe yılından itibaren geçerli olur ve önceki yıllara ait muafiyet hakkı düşer.",
+                "C": "Muafiyet, arazinin tahsis edildiği yılı takip eden bütçe yılından başlar ancak mükellefe idari para cezası uygulanır.",
+                "D": "Muafiyet süresi, gecikilen her yıl için bir yıl kısaltılarak uygulanır.",
+                "E": "Muafiyet, bildirimin yapıldığı tarihten itibaren derhal başlar ve geçmişe yönelik herhangi bir hak kaybı yaşanmaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Bütçe yılı içinde bildirim yapılmazsa muafiyet, bildirimin yapıldığı yılı takibeden bütçe yılından muteber olur. Bu takdirde bildirimin yapıldığı bütçe yılının sonuna kadar geçen yıllara ait muafiyet hakkı düşer.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen hukuki sonucun (muafiyetin başlangıç yılının ertelenmesi ve geçmiş hakların kaybı) dışında farklı ve yanlış sonuçlar (hakkın tamamen kaybı, idari ceza, sürenin kısalması) içerdiği için hatalıdır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi Arazi Vergisinden geçici olarak muaf tutulan araziler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "İnsan emeğiyle yeniden orman haline getirilmek üzere ağaçlandırılan arazi.",
+                "B": "Kiraya verilmemek şartıyla kamu menfaatlerine yararlı derneklere ait arazi.",
+                "C": "Islah tedbirleriyle yeniden tarıma elverişli hale getirilen bataklık ve çorak araziler.",
+                "D": "Organize sanayi bölgeleri için iktisap olunan veya bu bölgelere tahsis edildiği kabul edilen arazi.",
+                "E": "Yatırım Teşvik Belgesi kapsamında yapılan yatırımlar için iktisap olunan araziler."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 15'te sayılan geçici muafiyet halleri arasında yer almamaktadır.\n- Diğer seçenekler: Madde 15'te açıkça belirtilen ve Arazi Vergisinden geçici olarak muaf tutulan arazi türleridir. B seçeneğindeki arazi ise Madde 14'te düzenlenen daimi muafiyet şartlarına tabidir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, insan emeğiyle yeniden orman haline getirilmek üzere ağaçlandırılan arazi ile ıslah edilerek tarıma elverişli hale getirilen bataklık araziler için öngörülen geçici muafiyet süreleri sırasıyla kaç yıldır?",
+            "secenekler": {
+                "A": "10 yıl ve 2 yıl",
+                "B": "15 yıl ve 10 yıl",
+                "C": "50 yıl ve 10 yıl",
+                "D": "50 yıl ve 15 yıl",
+                "E": "10 yıl ve 50 yıl"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'insan emeğiyle yeniden orman haline getirilmek üzere ağaçlandırılan arazi 50 yıl' ve 'tarım yapılamayan sahaların, ıslah tedbirleriyle yeniden tarıma elverişli hale getirilmesinde 10 yıl' geçici muafiyet tanınacağı hükümlerine dayanmaktadır.\n- Diğer seçenekler: Kanunda bu iki arazi türü için belirtilen süreleri yanlış eşleştirdiği veya farklı muafiyetlere ait süreleri içerdiği için hatalıdır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, belirli araziler için geçici muafiyet verilme halleri, şartları ve sürelerini belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Sanayi ve Teknoloji Bakanlığı",
+                "B": "İlgili vergi dairesi",
+                "C": "Hazine ve Maliye Bakanlığı",
+                "D": "Cumhurbaşkanı",
+                "E": "Arazinin bulunduğu yerdeki belediye meclisi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '...geçici muafiyet verilecek haller, bunların şartları ve muafiyet süreleri Cumhurbaşkanı kararı ile belli edilir ve yürürlüğe konulur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bu yetkinin Cumhurbaşkanına ait olduğu açıkça belirtildiğinden, diğer kurum ve makamları işaret eden seçenekler yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, arazi vergisi muafiyetlerinin turu ve süresiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Belediyelere ait araziler, kiraya verilmemek şartıyla 15 yıl süreyle vergiden muaftır.",
+                "B": "İnsan emeğiyle yeniden orman haline getirilen arazi, herhangi bir süre sınırı olmaksızın daimi olarak vergiden muaftır.",
+                "C": "Yatırım Teşvik Belgesi kapsamında yapılan yatırımlar için iktisap olunan araziler, belgenin geçerlilik süresi boyunca geçici olarak vergiden muaftır.",
+                "D": "Mezarlık olarak kullanılan araziler, 50 yıl süreyle geçici olarak vergiden muaftır.",
+                "E": "Toplu Konut İdaresi Başkanlığına ait araziler, 10 yıl süreyle geçici olarak vergiden muaftır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Yatırım Teşvik Belgesi kapsamında yapılan yatırımlar için iktisap olunan veya tahsis edilen araziler Yatırım Teşvik Belgesi süresince' geçici muaflıktan yararlanır hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen araziler ya daimi muaflığa tabi olup yanlış sürelerle eşleştirilmiş (A, D, E) ya da geçici muaflığa tabi olmasına rağmen daimi olarak nitelendirilmiştir (B)."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, arazi vergisi muafiyetlerinden yararlanma koşullarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kamu menfaatlerine yararlı derneklere ait arazilerin daimi muaflıktan faydalanması, kiraya verilmemesi şartına bağlıdır.",
+                "B": "Belediyelere ve kanunla kurulan üniversitelere ait araziler için daimi muafiyet uygulanırken kiraya verilmeme şartı aranmaz.",
+                "C": "Geçici muaflıktan yararlanılabilmesi için arazinin muafiyet gerektiren amaca tahsis edildiğinin ilgili vergi dairesine bütçe yılı içinde bildirilmesi gerekir.",
+                "D": "Islah edilerek tarıma elverişli hale getirilen araziler için geçici muafiyet, herhangi bir bildirim şartı aranmaksızın kendiliğinden başlar.",
+                "E": "Yabancı devletlere ait elçilik ve konsolosluk arazilerinde daimi muafiyetin uygulanması için karşılıklılık esası gözetilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Geçici olarak muaflıktan istifade için arazinin bu maddede yazılı cihetlere tahsis edilmiş olduğunun ilgili vergi dairesine bütçe yılı içinde bildirilmesi şarttır' hükmüne aykırıdır. Geçici muafiyetler bildirim olmaksızın kendiliğinden başlamaz.\n- Diğer seçenekler: Madde 14'te belirtilen daimi muafiyetlerin kiraya verilmeme şartı ve istisnaları (A, B) ile karşılıklılık şartını (E) ve Madde 15'teki bildirim yükümlülüğünü (C) doğru bir şekilde yansıtmaktadır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Devlet ormanları dışında insan emeğiyle yeniden orman haline getirilmek amacıyla ağaçlandırılan araziler için tanınan geçici Arazi Vergisi muafiyetinin süresi ne kadardır?",
+            "secenekler": {
+                "A": "10 yıl",
+                "B": "15 yıl",
+                "C": "2 yıl",
+                "D": "50 yıl",
+                "E": "Yatırım Teşvik Belgesi süresince"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'insan emeğiyle yeniden orman haline getirilmek üzere ağaçlandırılan arazi 50 yıl' süreyle vergiden muaftır hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler ve durumlar, aynı maddede farklı arazi türleri için (ıslah edilen tarım arazileri, meyvalık/bahçe tesisi, yatırım teşvikli araziler gibi) öngörülen muafiyetlere ait olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, geçici muaflıktan yararlanma usulüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Muafiyetten yararlanmak için arazinin ilgili amaca tahsis edildiğinin bütçe yılı içinde vergi dairesine bildirilmesi gerekir.",
+                "B": "Muafiyet, arazinin ilgili amaca tahsis edildiği yılı takip eden bütçe yılından itibaren başlar.",
+                "C": "Bildirim bütçe yılı içinde yapılmazsa, muafiyet hakkı tamamen ortadan kalkar ve bir daha kullanılamaz.",
+                "D": "Bütçe yılı geçtikten sonra bildirim yapılırsa, muafiyet bildirimin yapıldığı yılı takip eden bütçe yılından itibaren geçerli olur.",
+                "E": "Geç bildirim durumunda, bildirimin yapıldığı bütçe yılının sonuna kadar geçen yıllara ait muafiyet hakkı düşer."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te yer alan 'Bütçe yılı içinde bildirim yapılmazsa muafiyet, bildirimin yapıldığı yılı takibeden bütçe yılından muteber olur' hükmüne dayanmaktadır. Kanun, geç bildirim halinde muafiyet hakkının tamamen ortadan kalkacağını değil, başlangıç yılının erteleneceğini ve geçmiş yıllara ait hakkın düşeceğini düzenlemiştir.\n- Diğer seçeneklerdeki ifadeler, maddede belirtilen bildirim şartı, muafiyetin başlangıcı ve geç bildirimin sonuçlarına ilişkin doğru bilgiler içermektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi geçici olarak Arazi Vergisinden muaf tutulan araziler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Sanayi ve Teknoloji Bakanlığınca organize sanayi bölgeleri için iktisap olunan arazi",
+                "B": "Islah tedbirleriyle yeniden tarıma elverişli hale getirilen bataklık ve çorak sahalar",
+                "C": "Mükellefin kendisi, eşi ve velayeti altındaki çocuklarına ait olup toplam vergi değeri kanuni sınırı aşmayan arazi",
+                "D": "Yeniden fidanla dikim veya aşılama suretiyle bağ ve bahçe meydana getirilen arazi",
+                "E": "Yatırım Teşvik Belgesi kapsamında yapılan yatırımlar için tahsis edilen araziler"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te sayılan geçici muafiyet halleri arasında yer almamaktadır. Bu durum, kanunun başka bir maddesinde düzenlenen ve arazinin kullanım amacına değil, mükellefin kişisel ve ailevi durumuna bağlı bir istisnadır.\n- Diğer seçenekler, Madde 15'in farklı bentlerinde açıkça sayılan geçici muafiyet kapsamındaki arazi türleridir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, büyük şehir belediye sınırları içinde, vergi değeri 60.000 Türk Lirası olan bir araziye ve ayrıca organize sanayi bölgesi için iktisap edilmiş olması nedeniyle geçici muaflıktan yararlanan bir başka araziye sahip olan bir mükellefin vergilendirilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi, muaflık kapsamındaki arazi dikkate alınmaksızın, diğer arazinin vergi değerinden 10.000 Türk Lirası istisna düşüldükten sonra kalan matrah üzerinden %100 artırımlı oranla hesaplanır.",
+                "B": "Geçici muaflıktan yararlanıldığı için, mükellefin diğer arazisi için vergi istisnası uygulanmaz ve vergi tam değer üzerinden hesaplanır.",
+                "C": "Her iki arazinin toplam vergi değeri üzerinden istisna tutarı düşülür ve bulunan matraha binde bir oranı uygulanır.",
+                "D": "Organize sanayi bölgesindeki arazi muaf olduğu için, diğer arazinin vergisi büyük şehir artırımı uygulanmaksızın hesaplanır.",
+                "E": "Mükellef, hem geçici muaflıktan hem de istisnadan aynı anda yararlanamayacağı için, bunlardan yalnızca birini seçmek zorundadır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 15, 16 ve 18'in birlikte değerlendirilmesine dayanmaktadır. Madde 15 uyarınca organize sanayi bölgesi arazisi geçici muaflıktan yararlandığı için vergi matrahına dahil edilmez. Madde 16 uyarınca diğer arazinin vergi değerinden 10.000 TL istisna düşülür. Madde 18'e göre ise büyük şehir belediye sınırları içinde kalan bu arazi için vergi oranı %100 artırımlı uygulanır.\n- Diğer seçenekler: Kanunda yer alan muafiyet, istisna ve artırımlı oran kurallarını birbiriyle yanlış ilişkilendirdiği veya göz ardı ettiği için hatalıdır. Örneğin, C seçeneği muaf araziyi matraha dahil ederken, D seçeneği kanunen zorunlu olan büyük şehir artırımını yok saymaktadır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, arazi vergisi istisnası ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Arsalar, bu istisnanın kapsamı dışında tutulmuştur.",
+                "B": "İstisna tutarını üç misline kadar artırma yetkisi Cumhurbaşkanına aittir.",
+                "C": "Hisseli arazilerde istisna, her bir mükellefin hissesi için ayrı ayrı uygulanır.",
+                "D": "İstisnanın uygulanmasında mükellefin eşi ve velayet altındaki çocuklarına ait arazi değerleri ayrı ayrı dikkate alınır.",
+                "E": "İstisna, bir belediye ve bu belediyenin mücavir alan sınırları içinde bulunan arazinin toplam vergi değeri üzerinden uygulanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'mükellef ile eş ve velayet altındaki çocuklara ait arazi değerleri toplu olarak nazara alınır' hükmüne dayanmaktadır.\n- D seçeneği, bu kuralın aksine arazi değerlerinin ayrı ayrı dikkate alınacağını belirterek yanlış bilgi vermektedir. Diğer seçenekler ise kanunda belirtilen istisnanın kapsamı, uygulanışı ve yetki kurallarına uygun olduğu için doğrudur."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Arazi Vergisinin matrahı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Arazinin kanun hükümlerine göre tespit olunan vergi değeridir.",
+                "B": "Büyük şehir belediye sınırları içinde %100 artırımlı uygulanan vergi oranıdır.",
+                "C": "Mükellefin bir belediye sınırları içindeki arazisi için tanınan istisna miktarıdır.",
+                "D": "Ağaçlandırılan araziler için tanınan geçici muafiyet süresidir.",
+                "E": "Arazinin tarımsal verimliliğine göre belirlenen yıllık brüt geliridir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Arazi Vergisinin matrahı arazinin bu kanun hükümlerine göre tespit olunan vergi değeridir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda vergi matrahı olarak tanımlanmamıştır. Seçeneklerde belirtilen hususlar; vergi oranı (nispet), istisna ve muafiyet gibi farklı vergilendirme unsurlarıyla ilgili olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, arazi ve arsa vergisi oranları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Arazi vergisinin oranı binde üç, arsaların oranı ise binde birdir.",
+                "B": "Büyük şehir belediye sınırları ve mücavir alanlar içinde bu oranlar %50 artırımlı uygulanır.",
+                "C": "Cumhurbaşkanı, vergi oranlarını yarısına kadar indirmeye veya üç katına kadar artırmaya yetkilidir.",
+                "D": "Tüm belediye sınırları içinde vergi oranları standart olarak %100 artırımlı uygulanır.",
+                "E": "Cumhurbaşkanı yalnızca vergi oranlarını artırmaya yetkili olup indirim yapamaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Cumhurbaşkanı, vergi oranlarını yarısına kadar indirmeye veya üç katına kadar artırmaya yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği oranları ters belirtmiştir. B ve D seçenekleri, %100 artırımlı uygulamanın sadece büyük şehir belediyeleri için geçerli olması ve artış oranının yanlış belirtilmesi nedeniyle hatalıdır. E seçeneği ise Cumhurbaşkanının indirim yetkisini yok saydığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, arazi vergisine ilişkin aşağıdaki yetkilerden hangisi Cumhurbaşkanına tanınmamıştır?",
+            "secenekler": {
+                "A": "Vergi oranlarını yarısına kadar indirmek veya üç katına kadar artırmak.",
+                "B": "Mükelleflerin arazileri için geçerli olan vergi istisnası tutarını üç misline kadar artırmak.",
+                "C": "Yeniden fidanla dikim veya aşılama suretiyle meydana getirilen meyvalıklar için geçici muafiyetin şartlarını ve süresini bir kararla belirlemek.",
+                "D": "Büyük şehir belediye sınırları içinde uygulanan %100 artırımlı vergi oranını kaldırmak veya bu oranı değiştirmek.",
+                "E": "İnsan emeğiyle yeniden orman haline getirilmek üzere ağaçlandırılan arazilerdeki muafiyetin uygulanma şartlarını belirlemek."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Bu oranlar, 5216 sayılı Kanunun uygulandığı büyük şehir belediye sınırları ve mücavir alanlar içinde % 100 artırımlı uygulanır.' hükmüne dayanmaktadır. Bu artırım kanuni bir zorunluluk olup, Cumhurbaşkanına bu artırım oranını değiştirme veya kaldırma yetkisi tanınmamıştır. Cumhurbaşkanı sadece kanunda belirtilen genel vergi oranlarını belirli sınırlar içinde değiştirebilir.\n- Diğer seçenekler: Madde 18'de vergi oranlarını değiştirme, Madde 16'da istisna tutarını artırma ve Madde 15'te bazı geçici muaflıkların şartlarını belirleme yetkisinin Cumhurbaşkanına verildiği açıkça düzenlendiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Cumhurbaşkanının arazi ve arsa vergisi oranlarına ilişkin yetkisiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Vergi oranlarını yarısına kadar indirmeye yetkilidir.",
+                "B": "Vergi oranlarını üç katına kadar artırmaya yetkilidir.",
+                "C": "Vergi oranlarını dört katına kadar artırmaya yetkilidir.",
+                "D": "Bu yetkisini hem arazi hem de arsa vergisi oranları için kullanabilir.",
+                "E": "Büyük şehir belediye sınırları içindeki artırımlı oranlar üzerinde de bu yetkisini kullanabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Cumhurbaşkanı, vergi oranlarını ... üç katına kadar artırmaya yetkilidir.' hükmüne dayanmaktadır. Kanun, Cumhurbaşkanının vergi oranlarını en fazla üç katına kadar artırabileceğini açıkça düzenlemiştir; dört katına kadar artırma yetkisi bulunmamaktadır.\n- Diğer seçenekler: Maddede Cumhurbaşkanına tanınan indirim ve artırım yetkisinin sınırları ve kapsamı içinde kaldığı için doğrudur."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, arazi vergisi mükellefiyetinin sona ermesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Vergiye tabi bir arazinin muaflık şartlarını kazanması durumunda, mükellefiyet olayın gerçekleştiği tarihi izleyen taksitten itibaren sona erer.",
+                "B": "Üzerine bina inşaatı tamamlanan bir arsanın vergi mükellefiyeti, inşaatın bittiği yılı takip eden bütçe yılından itibaren sona erer.",
+                "C": "Kanunla tasarrufu yasaklanan bir arazinin vergisi, yasaklama tarihini takip eden taksitlerden itibaren durum devam ettiği sürece alınmaz.",
+                "D": "Deprem veya su basması gibi doğal afetler nedeniyle üzerindeki binası yıkılan arsanın vergisi, olayı takip eden bütçe yılından itibaren üç yıl süre ile alınmaz.",
+                "E": "Tasarrufu yasaklanan arazinin vergisinin alınmaması için durumun mükellefçe vergi dairesine bildirilmesi veya dairece re'sen tespit edilmesi gerekir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Deprem, su basması, yangın gibi tabii afetler sebebiyle yanan, yıkılan binaların arsalarına ait vergiler, bu olayların vukua geldiği tarihleri takibeden bütçe yılından itibaren iki yıl süre ile alınmaz.' hükmüne dayanmaktadır. Kanun, süreyi açıkça iki yıl olarak belirlemiştir.\n- Diğer seçenekler: Madde 19'da belirtilen mükellefiyetin sona erme hallerini ve usullerini doğru bir şekilde yansıttığı için doğrudur."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi arazi vergisi mükellefiyetinin başlamasına neden olan ve takip eden bütçe yılından itibaren geçerli olan durumlardan biri değildir?",
+            "secenekler": {
+                "A": "Arazinin vergi değerini tadil eden bir sebebin ortaya çıkması.",
+                "B": "Dört yılda bir yapılan takdir işlemlerinin tamamlanması.",
+                "C": "Araziye tanınan bir vergi muafiyetinin ortadan kalkması.",
+                "D": "Cumhurbaşkanı kararıyla arsalar için geçerli vergi oranının artırılması.",
+                "E": "Vergi değerini tadil eden bir sebebe bağlı olarak takdir işlemi yapılması."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 19'da mükellefiyeti başlatan sebeplerin sınırlı sayıda sayılmış olmasına dayanmaktadır. Cumhurbaşkanı'nın vergi oranlarını artırması, mevcut bir mükellefiyetin miktarını etkiler, yeni bir mükellefiyet başlatmaz.\n- Diğer seçenekler: Madde 19'da arazi vergisi mükellefiyetini başlatan sebepler arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, büyük şehir belediye sınırları içinde bulunan bir arsası üzerine 2023 yılında bina inşaatını tamamlayan bir mükellefin, bu arsaya ilişkin 2024 yılı Arazi Vergisi yükümlülüğü hakkındaki aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Arsa vergisi, binde üç oranında tahakkuk ettirilir.",
+                "B": "Arsa vergisi, %100 artırımlı olarak binde altı oranında tahakkuk ettirilir.",
+                "C": "Arsa vergisi mükellefiyeti, inşaatın bittiği yılı takip eden bütçe yılından itibaren sona erer.",
+                "D": "Arsa vergisi, Cumhurbaşkanı kararıyla yarısına kadar indirilerek uygulanır.",
+                "E": "Arsa vergisi, doğal afet durumu sayılarak iki yıl süre ile alınmaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Üzerine bina yapılan arsanın Arazi Vergisi mükellefiyeti, inşaatın bittiği yılı takipeden bütçe yılından itibaren sona erer.' hükmüne dayanmaktadır. Olayda inşaat 2023'te bittiği için, 2024 yılından itibaren mükellefiyet sona ermiştir.\n- Diğer seçenekler: Mükellefiyet sona erdiği için, Madde 18'de belirtilen vergi oranlarının veya Madde 19'daki diğer geçici muafiyet hallerinin uygulanması söz konusu değildir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir şahsın arsası üzerindeki bina, Haziran 2022'de meydana gelen bir yangın nedeniyle tamamen yanmıştır. Bu arsanın vergisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Arsa vergisi, olayın yaşandığı 2022 yılının ikinci taksitinden itibaren alınmaz.",
+                "B": "Arsa vergisi, 2023 ve 2024 bütçe yıllarında alınmaz.",
+                "C": "Arsa vergisi mükellefiyeti bu olayla birlikte tamamen sona erer.",
+                "D": "Arsa vergisi, ilgili belediye tarafından %50 indirimli olarak iki yıl süreyle tarh edilir.",
+                "E": "Verginin alınmaması için mükellefin durumu valiliğe bildirmesi zorunludur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 19'da yer alan 'Deprem, su basması, yangın gibi tabii afetler sebebiyle yanan, yıkılan binaların arsalarına ait vergiler, bu olayların vukua geldiği tarihleri takibeden bütçe yılından itibaren iki yıl süre ile alınmaz.' hükmüne dayanmaktadır. Olay 2022'de gerçekleştiği için, takip eden bütçe yılı olan 2023'ten itibaren iki yıl (2023 ve 2024) süreyle vergi alınmaz.\n- Diğer seçenekler: Kanun, verginin 'takip eden taksitten itibaren' değil, 'takip eden bütçe yılından itibaren' alınmayacağını belirtmekte, mükellefiyeti tamamen sona erdirmemekte ve indirimden değil, verginin alınmamasından bahsetmektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir il veya ilçe sınırları içerisinde birden fazla belediye olması durumunda, belediye ve mücavir alan sınırları dışında bulunan araziye ait arazi vergisini tarha yetkili olacak belediyeyi belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili valiler",
+                "B": "Cumhurbaşkanı",
+                "C": "Yetkili vergi dairesi",
+                "D": "Büyükşehir belediye meclisi",
+                "E": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Bir il veya ilçe sınırları içerisinde birden fazla belediye olması halinde, belediye ve mücavir alan sınırları dışında bulunan araziye ait arazi vergisini tarha yetkili olacak belediye, ilgili valiler tarafından belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bu yetkinin Cumhurbaşkanı, vergi dairesi, belediye meclisi veya bir bakanlığa verildiğine dair bir düzenleme bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, vergi değerini tadil eden bir sebep bütçe yılının son üç ayı içinde meydana gelmiş ve bildirim bu yılı takip eden yılda verilmişse, arazi vergisi ne zaman tarh olunur?",
+            "secenekler": {
+                "A": "Sebebin meydana geldiği bütçe yılını takip eden yılın Ocak ayı içinde",
+                "B": "Bildirimin verildiği tarihte",
+                "C": "Takdir işlemlerinin yapıldığı yılı takip eden yılın Ocak ve Şubat aylarında",
+                "D": "Bildirim verme süresinin son gününü takip eden yedi gün içinde",
+                "E": "Her bütçe yılının başından itibaren o yıl için"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen '...vergi değerini tadil eden sebep bütçe yılının son üç ayı içinde vuku bulmuş ve bildirim, vergi değerini tadil eden sebebin meydana geldiği bütçe yılını takip eden yılda verilmiş ise bildirimin verildiği tarihte...' tarh olunacağı hükmüne dayanmaktadır.\n- Diğer seçenekler: Maddede belirtilen diğer tarh zamanlarına (genel kural, dört yıllık takdir sonrası, posta ile bildirim veya takip eden yıllar) ait oldukları için bu özel duruma uymamaktadır ve yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, dört yılda bir defa yapılan takdir işlemlerine bağlı olarak arazi vergisi, kural olarak hangi dönemde tarh olunur?",
+            "secenekler": {
+                "A": "Takdir işlemlerinin yapıldığı yılı takip eden yılın Ocak ve Şubat aylarında",
+                "B": "Takdir işlemlerinin yapıldığı bütçe yılının sonuna kadar",
+                "C": "Her bütçe yılının başından itibaren o yıl için",
+                "D": "Vergi değerini tadil eden sebebin meydana geldiği bütçe yılını takip eden yılın Ocak ayı içinde",
+                "E": "Bildirimin verildiği tarihte"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Dört yılda bir defa olmak üzere takdir işlemlerinin yapıldığı yılı takip eden yılın Ocak ve Şubat aylarında...' tarh olunacağı hükmüne dayanmaktadır.\n- Diğer seçenekler: Maddede farklı durumlar için öngörülen (vergi değerini tadil eden sebepler, bildirimin verildiği tarih, takip eden yıllar) diğer tarh zamanlarını ifade ettiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, arazi vergisi bildiriminin posta ile gönderilmesi durumunda vergi, bildirim verme süresinin son gününü takıp eden kaç gün içinde tarh olunur?",
+            "secenekler": {
+                "A": "Üç gün",
+                "B": "Beş gün",
+                "C": "Yedi gün",
+                "D": "On beş gün",
+                "E": "Otuz gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Bildirim posta ile gönderilmiş ise vergi, bildirim verme süresinin son gününü takip eden yedi gün içinde tarh olunur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen süreden farklı süreler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Bina ve Arazi Vergileri ile ilgili muaflık ve istisna hükümlerinin düzenlenmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı kararıyla yeni muaflıklar ve istisnalar getirilebilir.",
+                "B": "İlgili belediye meclisleri, kendi sınırları içinde geçerli olacak istisnalar belirleyebilir.",
+                "C": "Tabii afet durumlarında valilik kararıyla genel bir muaflık ilân edilebilir.",
+                "D": "Bakanlık tarafından çıkarılacak bir yönetmelikle istisna kapsamı genişletilebilir.",
+                "E": "Bu hükümler, yalnızca bu kanuna ekleme veya bu kanunda değişiklik yapma yoluyla düzenlenebilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Bina ve Arazi Vergileri ile ilgili muaflık ve istisna hükümleri bu kanuna eklenmek veya bu kanunda değişiklik yapılmak suretiyle düzenlenir' hükmüne dayanmaktadır. Bu hüküm, normlar hiyerarşisi gereği muaflık ve istisnaların ancak kanunla düzenlenebileceğini, idari işlemlerle (Cumhurbaşkanı kararı, yönetmelik, belediye kararı vb.) yeni istisnalar getirilemeyeceğini veya mevcutların değiştirilemeyeceğini ifade eder.\n- Diğer seçenekler, kanunda belirtilen bu usulün dışında farklı idari makamların kararlarıyla da muaflık veya istisna düzenlemesi yapılabileceğini iddia ettiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Bina ve Arazi Vergileri ile ilgili muaflık ve istisna hükümlerinin düzenlenmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu hükümler, yalnızca bu kanuna ekleme yapılarak veya bu kanunda değişiklik yapılarak düzenlenebilir.",
+                "B": "Cumhurbaşkanı kararnamesi ile yeni muaflıklar ve istisnalar getirilebilir.",
+                "C": "Maliye Bakanlığınca çıkarılacak bir yönetmelikle istisnaların kapsamı belirlenir.",
+                "D": "Belediye meclisleri, kendi sınırları içinde geçerli olacak özel muaflıklar tanıyabilir.",
+                "E": "Vergi Usul Kanunu'nda yapılacak değişikliklerle muaflık kapsamı genişletilebilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Bina ve Arazi Vergileri ile ilgili muaflık ve istisna hükümleri bu kanuna eklenmek veya bu kanunda değişiklik yapılmak suretiyle düzenlenir' hükmüne dayanmaktadır.\n- Diğer seçenekler, düzenlemenin Cumhurbaşkanı kararnamesi, yönetmelik, belediye meclisi kararı veya başka bir kanunla yapılabileceğini öne sürdüğü için kanunun açık hükmüne aykırıdır ve bu nedenle yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir binanın vergi değerini tadil eden bir değişiklik 15 Kasım tarihinde meydana gelmişse, emlak vergisi bildiriminin en geç ne zamana kadar verilmesi gerekir?",
+            "secenekler": {
+                "A": "Değişikliğin vuku bulduğu bütçe yılı içerisinde",
+                "B": "Olayın vuku bulduğu tarihten itibaren üç ay içinde",
+                "C": "Değişikliği takip eden bütçe yılının sonuna kadar",
+                "D": "Olayın vuku bulduğu tarihten itibaren bir ay içinde",
+                "E": "Değişikliği takip eden takvim yılının Mart ayı sonuna kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Yukarıdaki fıkralarda yazılı haller bütçe yılının son üç ayı içinde vuku bulduğu takdirde bildirim, olayın vuku bulduğu tarihten itibaren üç ay içinde verilir.' hükmüne dayanmaktadır. Olay Kasım ayında, yani bütçe yılının son üç ayı içinde gerçekleştiği için bu özel süre kuralı uygulanır.\n- Diğer seçenekler: A seçeneği genel kural olmakla birlikte bu özel duruma uymadığı için yanlıştır. Diğer seçeneklerde belirtilen süreler ise kanunda yer almamaktadır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, paylı mülkiyet halindeki bir gayrimenkul için emlak vergisi bildiriminin verilmesi usulüyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bildirim sadece paydaşların en yaşlısı tarafından verilir.",
+                "B": "Bildirim paydaşlar tarafından münferiden verilir.",
+                "C": "Bildirim tüm paydaşların imzaladığı müşterek bir bildirimle verilmek zorundadır.",
+                "D": "Paydaşlar isterlerse müşterek, isterlerse münferiden bildirim verebilirler.",
+                "E": "Bildirim, payı en yüksek olan paydaş tarafından verilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Paylı mülkiyet halinde ise bildirim münferiden verilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: D seçeneğindeki müşterek veya münferiden bildirim verme hakkı elbirliği mülkiyeti için tanınmıştır, paylı mülkiyet için değil. Diğer şıklarda belirtilen usuller ise kanunda düzenlenmemiştir ve bu nedenle yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdaki durumlardan hangisinde emlak vergisi bildirimi verilmesi zorunluluğu bulunmamaktadır?",
+            "secenekler": {
+                "A": "İnşaatı sona eren yeni binalar için",
+                "B": "Vergi değerini tadil eden bir sebep doğması halinde",
+                "C": "İnşaatı bitmeden kısmen kullanılmaya başlanan binalar için",
+                "D": "Geçici muafiyetten faydalanılması halinde",
+                "E": "Devlete ait arazi için"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Devlete ait arazi için bildirim verilmez.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde belirtilen durumların tamamı, aynı maddede açıkça bildirim verilmesi zorunlu olan haller arasında sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, emlak vergisi bildirimlerinin şekil ve kapsamını belirleme yetkisi aşağıdaki mercilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili belediye",
+                "B": "Cumhurbaşkanı",
+                "C": "Maliye Bakanlığı",
+                "D": "Bayındırlık ve İskan Bakanlığı",
+                "E": "Takdir komisyonları"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Bildirimlerin şekli ve kapsamı Maliye Bakanlığınca belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunun farklı maddelerinde başka yetkilerle donatılmış olan ilgili belediye, Cumhurbaşkanı, Bayındırlık ve İskan Bakanlığı veya takdir komisyonlarının bildirimlerin şekil ve kapsamını belirleme yetkisi bulunmadığından yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir binanın vergi değerini tadil eden bir sebebin Kasım ayında ortaya çıkması durumunda, bu değişikliğe ilişkin emlak vergisi bildiriminin verilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bildirim, değişikliğin vuku bulduğu bütçe yılı sonuna kadar verilmelidir.",
+                "B": "Bildirim, bir sonraki yılın yeniden değerleme oranı belli olduktan sonra verilir.",
+                "C": "Bu tür değişiklikler için bildirim verme zorunluluğu yoktur, değer tespiti resen yapılır.",
+                "D": "Bildirim, Maliye ve Bayındırlık bakanlıklarınca belirlenen yeni inşaat maliyetlerinin ilanını takiben verilir.",
+                "E": "Bildirim, değişikliğin vuku bulduğu tarihten itibaren üç ay içinde verilmelidir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Yukarıdaki fıkralarda yazılı haller bütçe yılının son üç ayı içinde vuku bulduğu takdirde bildirim, olayın vuku bulduğu tarihten itibaren üç ay içinde verilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği genel kuralı belirtse de olaydaki özel durum (yılın son üç ayı) karşısında yanlıştır; B ve D seçenekleri, bildirimin verilme süresini vergi değerinin hesaplanmasına ilişkin farklı unsurlarla (Madde 29) hatalı bir şekilde ilişkilendirmektedir; C seçeneği ise kanunda açıkça belirtilen bildirim zorunluluğu (Madde 23) ile çelişmektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, elbirliği mülkiyetine tabi bir gayrimenkul için mükelleflerden sadece birinin münferiden bildirim vermesi durumunda ortaya çıkacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bildirim geçersiz sayılır ve tüm mükelleflerin müşterek imzalı yeni bir bildirim vermesi istenir.",
+                "B": "Sadece bildirimi veren mükellef adına, gayrimenkulün toplam vergi değeri üzerinden tarh ve tahakkuk yapılır.",
+                "C": "Gayrimenkule ait vergi değeri üzerinden hissedarların adedine göre ayrı ayrı tarh ve tahakkuk yapılır.",
+                "D": "Paylı mülkiyet hükümlerine göre işlem yapılır ve her hissedarın kendi payı için ayrı bildirim vermesi zorunlu hale gelir.",
+                "E": "Vergi değeri, Cumhurbaşkanı tarafından belirlenecek özel bir oranda artırılarak hesaplanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 23'te yer alan 'Elbirliği mülkiyetinde münferiden bildirim verildiği takdirde, gayrimenkule ait vergi değeri üzerinden hissedarların adedine göre ayrı ayrı tarh ve tahakkuk yapılır' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve B seçenekleri kanunda belirtilen usule aykırıdır; D seçeneği elbirliği mülkiyeti ile paylı mülkiyetin sonuçlarını hatalı bir şekilde birleştirmektedir; E seçeneği ise konuyla ilgisiz olan vergi değerinin artış oranına ilişkin Cumhurbaşkanı yetkisini (Madde 29) yanlış bir bağlamda sunmaktadır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, binalar için vergi değerinin hesaplanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bina değeri, sadece Maliye Bakanlığınca ilan edilen metrekare normal inşaat maliyetlerine göre belirlenir.",
+                "B": "Vergi değeri, bina metrekare normal inşaat maliyetleri ile arsa veya arsa payı değerinin birlikte esas alınmasıyla hesaplanan bedeldir.",
+                "C": "Binaların vergi değeri, arazilerde olduğu gibi sadece takdir komisyonlarınca belirlenen birim değerlere göre hesaplanır.",
+                "D": "Turistik bölgelerdeki binaların değeri, doğrudan ilgili valilerce tespit edilen pafta, ada veya parsellere göre belirlenir.",
+                "E": "Bina değeri hesaplanırken arsa payı değeri dikkate alınmaz, yalnızca binanın fiziki maliyeti esas alınır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Binalar için, Maliye ve Bayındırlık ve İskan bakanlıklarınca müştereken tespit ve ilân edilecek bina metrekare normal inşaat maliyetleri ile (a) bendinde belirtilen esaslara göre bulunacak arsa veya arsa payı değeri esas alınarak ... Hesaplanan bedeldir.' hükmüne dayanmaktadır. Bu hüküm, bina vergi değerinin, inşaat maliyeti ve arsa payı değerinin birleşiminden oluştuğunu açıkça ifade eder.\n- Diğer seçenekler: Madde 29'da belirtilen hesaplama yöntemine aykırı veya eksik bilgi içerdiği için yanlıştır. Örneğin, A ve E seçenekleri arsa payı değerini göz ardı ederken, C ve D seçenekleri binalar için geçerli olmayan veya sadece bir parçası olan farklı usulleri mutlak kural gibi sunmaktadır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, vergi değerinin her yıl yeniden değerleme oranında artırılmasına ilişkin Cumhurbaşkanının yetkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı, yeniden değerleme oranını iki katına kadar artırmaya yetkilidir.",
+                "B": "Cumhurbaşkanı, bu artış oranını yalnızca sıfıra kadar indirebilir.",
+                "C": "Cumhurbaşkanı, indirim yetkisini tüm belediyeler için aynı oranda kullanmak zorundadır.",
+                "D": "Cumhurbaşkanı, yeniden değerleme oranının kendisini değil, sadece artış oranını sıfıra kadar indirmeye yetkilidir ve bu yetkisini belediye grupları itibarıyla farklı oranlar belirleyerek de kullanabilir.",
+                "E": "Bu artış oranını belirleme yetkisi, Maliye ve Bayındırlık ve İskan bakanlıklarına aittir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Cumhurbaşkanı, bu maddede belirtilen artış oranını sıfıra kadar indirmeye (…) yetkilidir. Cumhurbaşkanı bu yetkisini, 2464 sayılı Belediye Gelirleri Kanununun 95 inci maddesi uyarınca belirlenen belediye grupları itibarıyla farklı oranlar tespit etmek suretiyle de kullanabilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Cumhurbaşkanının yetkisinin kapsamını (artırma yetkisi olmaması), sınırlarını (sıfıra kadar indirme) ve kullanım şeklini (belediye gruplarına göre farklılık) yanlış yansıttığı için hatalıdır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, vergi değeri ve verginin hesaplanmasında dikkate alınmayacak kesirlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi değerinin hesabında bin liraya, verginin hesaplanmasında ise bir liraya kadar olan kesirler dikkate alınmaz.",
+                "B": "Hem vergi değerinin hem de verginin hesaplanmasında bin liraya kadar olan kesirler dikkate alınmaz.",
+                "C": "Vergi değerinin hesabında bir liraya, verginin hesaplanmasında ise bin liraya kadar olan kesirler dikkate alınmaz.",
+                "D": "Sadece verginin hesaplanmasında bir liraya kadar olan kesirler dikkate alınmaz, vergi değerinde kesirler tam olarak yazılır.",
+                "E": "Tüm hesaplamalarda kesirler dikkate alınmaz ve tutarlar en yakın tam sayıya yuvarlanır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 29'da yer alan 'Vergi değerinin hesabında bin liraya, verginin hesaplanmasında ise bir liraya kadar olan kesirler dikkate alınmaz.' hükmüne dayanmaktadır. Bu hüküm, iki farklı hesaplama türü için iki farklı kesir sınırını net bir şekilde ortaya koymaktadır.\n- Diğer seçenekler: Madde 29'da belirtilen bu iki farklı kuralı birbiriyle karıştırdığı, yanlış genelleme yaptığı veya kanunda yer almayan bir yuvarlama usulü belirttiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, vergi değerinin yıllık artış oranıyla ilgili olarak Cumhurbaşkanına tanınan yetki aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Artış oranını sıfıra kadar indirmek.",
+                "B": "Artış oranını iki katına kadar artırmak.",
+                "C": "Yeniden değerleme oranını tamamen kaldırmak.",
+                "D": "Belediye gruplarından bağımsız olarak ülke genelinde tek bir oran tespit etmek.",
+                "E": "Vergi değerini takdir komisyonu yerine bizzat belirlemek."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Cumhurbaşkanı, bu maddede belirtilen artış oranını sıfıra kadar indirmeye (…) yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda Cumhurbaşkanına tanınan yetkinin kapsamı veya yönüyle çeliştiği için yanlıştır. Kanun, Cumhurbaşkanının oranı artırma, yeniden değerleme oranını kaldırma veya takdir komisyonu yerine geçme gibi bir yetkisi olduğunu belirtmemektedir. Ayrıca, bu yetkinin belediye grupları itibarıyla farklı oranlar tespit edilerek de kullanılabileceği açıkça ifade edilmiştir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, binalar için vergi değerinin hesaplanmasında esas alınan unsurlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Maliye Bakanlığınca tespit edilen bina metrekare normal inşaat maliyetleri",
+                "B": "Bayındırlık ve İskan Bakanlığınca tespit edilen bina metrekare normal inşaat maliyetleri",
+                "C": "Arsa veya arsa payı değeri",
+                "D": "İlgili yönetmelik hükümleri",
+                "E": "Binanın bulunduğu ilin tüketici fiyat endeksi"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 29'da binalar için vergi değeri hesaplanırken sayılan unsurlar arasında 'tüketici fiyat endeksi'nin bulunmamasına dayanmaktadır.\n- Diğer seçenekler: Madde 29'un (b) bendinde, binalar için vergi değerinin; Maliye ve Bayındırlık ve İskan bakanlıklarınca müştereken tespit edilen bina metrekare normal inşaat maliyetleri, arsa veya arsa payı değeri ve ilgili yönetmelik hükümlerinden yararlanılarak hesaplanacağı açıkça belirtilmiştir. Bu nedenle A, B, C ve D seçenekleri doğru unsurlardır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, vergi değerinin ve verginin hesaplanmasında dikkate alınmayacak kesirlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi değerinin hesabında bin liraya, verginin hesaplanmasında ise bir liraya kadar olan kesirler dikkate alınmaz.",
+                "B": "Vergi değerinin hesabında bir liraya, verginin hesaplanmasında ise bin liraya kadar olan kesirler dikkate alınmaz.",
+                "C": "Hem vergi değerinin hem de verginin hesaplanmasında yüz liraya kadar olan kesirler dikkate alınmaz.",
+                "D": "Sadece vergi değerinin hesabında bin liraya kadar olan kesirler dikkate alınmaz, vergide tüm kesirler hesaba katılır.",
+                "E": "Hesaplamalarda hiçbir kesir ihmal edilmez ve tüm küsuratlar tam olarak dikkate alınır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Vergi değerinin hesabında bin liraya, verginin hesaplanmasında ise bir liraya kadar olan kesirler dikkate alınmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen tutarları yanlış veya eksik ifade ettikleri için hatalıdır. Kanun, hem vergi değeri hem de vergi için farklı tutarlarda kesirlerin dikkate alınmayacağını açıkça düzenlemiştir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, vergi değerindeki artış oranı ve verginin ödeme aylarına ilişkin tanınan yetkilerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı, vergi değerindeki artış oranını sıfıra kadar indirmeye yetkiliyken, Maliye Bakanlığı bölgelerin özelliklerine göre ödeme aylarını değiştirebilir.",
+                "B": "Maliye Bakanlığı vergi değerindeki artış oranını, Cumhurbaşkanı ise ödeme aylarını belediye gruplarına göre farklı belirleyebilir.",
+                "C": "Valiler, turistik bölgeler için hem vergi artış oranını sıfıra indirmeye hem de ödeme aylarını değiştirmeye yetkilidir.",
+                "D": "Vergi değerindeki artış oranı ve ödeme ayları kanunla sabitlenmiş olup hiçbir idari makam tarafından değiştirilemez.",
+                "E": "Cumhurbaşkanı, ödeme aylarını değiştirebilirken, Maliye Bakanlığı vergi değerindeki artış oranını sıfıra kadar indirebilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 29'da Cumhurbaşkanına 'artış oranını sıfıra kadar indirme' yetkisi verilmesi ve Madde 30'da Maliye Bakanlığına 'ödeme aylarını, bölgelerin özelliklerine göre değiştirme' yetkisi tanınması hükümlerinin birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: B ve E seçenekleri yetkili makamları yanlış eşleştirdiği, C seçeneği valilere kanunda olmayan yetkiler atfettiği ve D seçeneği kanunda açıkça belirtilen idari yetkileri reddettiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Emlak Vergisi'nin ödenmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Birinci taksit Mart, Nisan ve Mayıs aylarında ödenir.",
+                "B": "İkinci taksit Kasım ayı içinde ödenir.",
+                "C": "Vergi, her yıl tek seferde ve Temmuz ayında ödenir.",
+                "D": "Maliye Bakanlığı, bölgelerin özelliklerine göre ödeme aylarını değiştirmeye yetkilidir.",
+                "E": "Vergi, iki eşit taksitte ödenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Emlak Vergisi birinci taksidi Mart, Nisan ve Mayıs aylarında, ikinci taksidi Kasım ayı içinde olmak üzere iki eşit taksitte ödenir' hükmüne dayanmaktadır. Kanun, verginin tek seferde ödeneceğini değil, iki eşit taksitte ödeneceğini açıkça belirtmiştir. Diğer seçenekler, Madde 30'da sayılan ödeme ayları, taksit sayısı ve Maliye Bakanlığının yetkisi gibi kuralları doğru yansıttığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, kanunlar veya diğer kamu düzeni koyan mevzuatla tasarrufu kısıtlanan bir arazinin vergisi, kısıtlamanın devam ettiği sürece hangi oranda tahsil olunur?",
+            "secenekler": {
+                "A": "1/10 oranında",
+                "B": "1/5 oranında",
+                "C": "1/2 oranında",
+                "D": "9/10 oranında",
+                "E": "Tamamı üzerinden"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'tasarrufu kısıtlanan bina arsa ve arazinin vergisi, kısıtlamanın devam ettiği sürece 1/10 oranında tahsil olunur' hükmüne dayanmaktadır. Diğer seçenekler kanunda belirtilen orandan farklı olduğu için yanlıştır; özellikle D seçeneğindeki 9/10 oranı, tahsilat oranını değil, kısıtlama süresince tecil edilen ve belirli durumlarda muaccel hale gelen vergi kısmını ifade etmektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, emlak vergisi borcu bulunan bina ve arazinin devir ve ferağının yapılamayacağı kuralının istisnaları arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Miras",
+                "B": "Mahkeme kararı",
+                "C": "Cebrî icra",
+                "D": "Kamulaştırma",
+                "E": "Kira sözleşmesi yapılması"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Miras, mahkeme kararı, cebrî icra, kamulaştırma hâlleri ile özel kanunlarda öngörülen diğer hâller hariç emlak vergisi borcu bulunan bina ve arazinin devir ve ferağı yapılmaz' hükmüne dayanmaktadır. Kira sözleşmesi yapılması, kanunda sayılan devir ve ferağ yasağının istisnaları arasında yer almamaktadır. Diğer seçenekler ise Madde 30'da devir yasağının bir istisnası olarak açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, tapu müdürlükleri gerçekleştirdikleri devir ve ferağ işlemini, ilgili belediyelere elektronik ortamda ne zamana kadar bildirmekle yükümlüdür?",
+            "secenekler": {
+                "A": "İşlemin yapıldığı günün akşamına kadar",
+                "B": "İşlemin yapıldığı haftanın son iş gününe kadar",
+                "C": "İşlemin yapıldığı ayı takip eden ayın 15’inci günü akşamına kadar",
+                "D": "İşlemin yapıldığı ayı takip eden ayın sonuna kadar",
+                "E": "İşlemin yapıldığı bütçe yılının sonuna kadar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Tapu müdürlükleri devir ve ferağ işlemini, işlemin yapıldığı ayı takip eden ayın 15’inci günü akşamına kadar ilgili belediyelere elektronik ortamda bildirir' hükmüne dayanmaktadır. Diğer seçeneklerde belirtilen süreler kanuni düzenleme ile uyumlu olmadığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, kanunla veya diğer kamu düzeni koyan mevzuatla tasarrufu kısıtlanan bir arazinin bu kısıtlılığının kaldırılması durumunda ortaya çıkacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kısıtlamanın devam ettiği sürede tecil edilen verginin onda dokuzu derhal tahsil edilir.",
+                "B": "Kısıtlamanın kaldırıldığı tarihi takip eden bütçe yılından itibaren vergi, tüm vergi değeri üzerinden ödenir.",
+                "C": "Arazinin vergi değeri, kısıtlamanın kalktığı yıl için yeniden değerleme oranı uygulanmaksızın yeniden belirlenir.",
+                "D": "Kısıtlama süresince ödenmiş olan 1/10 oranındaki vergiler, mükellefe iade edilir.",
+                "E": "Kısıtlamanın kaldırılması işlemi, tapu müdürlükleri tarafından ilgili belediyeye bildirilmez."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Kısıtlamanın kaldırılması halinde, kaldırılma tarihini takibeden bütçe yılından itibaren emlakin vergisi, tüm vergi değeri üzerinden ödenir' hükmüne dayanmaktadır. Bu durum, Madde 29'da tanımlanan 'vergi değeri' kavramının tam olarak uygulanacağı anı belirtir.\n- Diğer seçenekler: A seçeneğindeki durum sadece satış veya devir halinde geçerlidir. C, D ve E seçeneklerinde belirtilen hususlar ise kanun metninde yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Emlak Vergisi'nin ödeme taksitleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi, her yıl Mart ve Mayıs aylarında olmak üzere iki eşit taksitte ödenir.",
+                "B": "Birinci taksit Mart, Nisan ve Mayıs aylarında; ikinci taksit ise Kasım ayı içinde ödenir.",
+                "C": "Vergi, her yılın Kasım ayı içinde tek seferde ödenmek zorundadır.",
+                "D": "Maliye Bakanlığı, verginin ödeneceği taksit sayısını bölgelerin özelliklerine göre artırabilir.",
+                "E": "Birinci taksit Mayıs ayında, ikinci taksit ise takip eden yılın Ocak ayında ödenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Emlak Vergisi birinci taksidi Mart, Nisan ve Mayıs aylarında, ikinci taksidi Kasım ayı içinde olmak üzere iki eşit taksitte ödenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen ödeme ayları ve taksit sayısına ilişkin düzenlemeye aykırı bilgiler içerdiği için yanlıştır. Maliye Bakanlığı'nın yetkisi taksit sayısını değil, ödeme aylarını değiştirmektir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, kanunlar veya diğer mevzuatla tasarrufu kısıtlanan bir arazinin vergisi, bu kısıtlama devam ettiği sürece hangi oranda tahsil olunur?",
+            "secenekler": {
+                "A": "1/2 oranında",
+                "B": "1/5 oranında",
+                "C": "9/10 oranında",
+                "D": "1/10 oranında",
+                "E": "Vergiden tamamen muaf tutulur."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'tasarrufu kısıtlanan bina arsa ve arazinin vergisi, kısıtlamanın devam ettiği sürece 1/10 oranında tahsil olunur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen orandan farklı olduğu için yanlıştır. Özellikle 9/10 oranı, kısıtlama kalktığında muaccel hale gelen tecil edilmiş vergi tutarıdır, tahsilat oranı değildir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi, emlak vergisi borcu bulunan bina ve arazinin devir ve ferağının yapılamayacağı kuralının istisnalarından biri olarak sayılmamıştır?",
+            "secenekler": {
+                "A": "Miras",
+                "B": "Mahkeme kararı",
+                "C": "Kamulaştırma",
+                "D": "Hibe yoluyla devir",
+                "E": "Cebrî icra"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Miras, mahkeme kararı, cebrî icra, kamulaştırma hâlleri ile özel kanunlarda öngörülen diğer hâller hariç emlak vergisi borcu bulunan bina ve arazinin devir ve ferağı yapılmaz.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun metninde devir yasağının istisnaları arasında açıkça sayılmıştır. Hibe yoluyla devir ise bu istisnalar arasında yer almadığından, vergi borcu varken bu yolla devir yapılamaz."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, kanunla tasarrufu kısıtlanmış bir arazinin satılması durumunda ortaya çıkacak hukuki sonuçlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Satış işlemi, hem kısıtlama süresince ertelenen verginin onda dokuzluk kısmının muaccel hale gelmesine hem de vergi değeri için bir tadil sebebi sayılmasına yol açar.",
+                "B": "Yeni malik, kısıtlama devam ettiği sürece vergiyi 1/10 oranında ödemeye devam eder ve mükellef değişikliği vergi değerini etkilemez.",
+                "C": "Arazinin satılabilmesi için öncelikle kısıtlama süresince ertelenmiş olan tüm vergi borcunun peşin olarak ödenmesi zorunludur.",
+                "D": "Mükellef değişikliği sebebiyle arazinin vergi değeri, kanun gereği otomatik olarak %25 oranında artırılır.",
+                "E": "Satış durumunda sadece ertelenen vergi borcu muaccel hale gelir, ancak arazinin vergi değeri kısıtlama kaldırılana kadar değiştirilemez."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Kısıtlamanın devam ettiği sürede tecil edilen verginin 9/10 u bina, arsa veya arazinin satılması... halinde... muaccel hale gelir' hükmü ile Madde 33'te sayılan 'Bir bina veya arazinin... mükellefinin değişmesi'nin vergi değerini tadil eden sebeplerden biri olması hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen hukuki sonuçları yanlış veya eksik yansıttığı için hatalıdır. D seçeneğindeki %25 oranı farklı bir duruma aittir, E seçeneği ise mükellef değişikliğinin vergi değerini tadil eden bir sebep olduğu gerçeğini göz ardı etmektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir binanın devir ve ferağ işlemi ile vergi ödemesi arasındaki ilişki hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tapu müdürlükleri, devir ve ferağ işleminden önce ilgili belediyenin sisteminden emlak vergisi borcunun varlığını elektronik ortamda sorgular.",
+                "B": "Miras yoluyla intikal durumunda, binanın emlak vergisi borcu olsa dahi devir ve ferağ işlemi gerçekleştirilebilir.",
+                "C": "Tasarrufu kısıtlanan bir binanın satılması halinde, kısıtlama süresince ertelenen verginin 9/10'u muaccel hale gelir.",
+                "D": "Emlak vergisi borcu bulunan bir binanın devir ve ferağı, borcun yeniden yapılandırılarak taksitlendirilmesi şartıyla yapılabilir.",
+                "E": "Maliye Bakanlığı, bölgelerin özelliklerini dikkate alarak verginin ödeme aylarını değiştirme yetkisine sahiptir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'Miras, mahkeme kararı, cebrî icra, kamulaştırma hâlleri ile özel kanunlarda öngörülen diğer hâller hariç emlak vergisi borcu bulunan bina ve arazinin devir ve ferağı yapılmaz' hükmüne dayanmaktadır. Kanun, borcun taksitlendirilmesini devir ve ferağa izin veren bir istisna olarak saymamıştır.\n- Diğer seçenekler: A, B, C ve E seçeneklerinde yer alan ifadelerin tamamı Madde 30'da açıkça düzenlenmiş doğru hükümlerdir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, vergi değerlerinin takdirinde dikkate alınacak piyasa bedeli, maliyet bedeli gibi normlar ile uyulacak usul ve esasları belirten yönetmeliği çıkarma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Maliye Bakanlığı",
+                "B": "Çevre ve Şehircilik Bakanlığı",
+                "C": "Cumhurbaşkanı",
+                "D": "İlgili belediye başkanlığı",
+                "E": "Tapu ve Kadastro Genel Müdürlüğü"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen '...normlar ile uyulacak usul ve esaslar... Cumhurbaşkanınca çıkarılan yönetmelikte belirtilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerdeki kurumların, kanunda bu spesifik yönetmeliği çıkarma yetkisi bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, emlak vergisi bildiriminin süresinde verilmemesi durumunda uygulanacak işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Vergi, idare tarafından tarh edilir.",
+                "B": "Mükellefe bildirimde bulunması için ek bir süre verilir.",
+                "C": "Vergi, bir önceki yılın değeri esas alınarak otomatik olarak yenilenir.",
+                "D": "Mükellefin o yıla ait vergi borcu tamamen silinir.",
+                "E": "Vergi değeri, Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'Bildirimin süresinde verilmemesi halinde, vergi idarece tarh edilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen usul ve sonuca aykırı olduğundan veya böyle bir düzenleme bulunmadığından yanlıştır. Kanun, bildirim verilmemesi durumunda idarenin doğrudan vergiyi tarh etmesini öngörmekte; ek süre verilmesi, borcun silinmesi veya farklı bir usulle değer belirlenmesi gibi durumları düzenlememektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi vergi değerini tadil eden sebepler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Mevcut bir binaya asansör veya kalorifer tesisleri konulması",
+                "B": "Arazinin parsellenmek suretiyle arsalar haline getirilmesi",
+                "C": "Bir binanın yanması veya yıkılması suretiyle kısmen harap olması",
+                "D": "Mükellefin ikametgah adresini başka bir şehre taşıması",
+                "E": "Bir bina veya arazinin mükellefinin değişmesi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 33'te vergi değerini tadil eden sebeplerin taşınmazın kendi fiziki veya hukuki durumundaki değişikliklere bağlı olarak sınırlı sayıda sayılmış olması ve mükellefin kişisel durumundaki değişikliklerin bu sebepler arasında yer almamasına dayanmaktadır.\n- Diğer seçenekler: Madde 33'te açıkça vergi değerini tadil eden sebepler olarak listelendiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir apartmanda ikamet amacıyla kullanılan bir dairenin, sahibi tarafından tamamen bir muhasebe bürosuna dönüştürülmesi durumunda, bu değişikliğin vergi değerine etkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu değişiklik, apartmanın tamamı için vergi değerini tadil eden bir sebep oluşturur.",
+                "B": "Binanın kullanış tarzı tamamen değişmediği için vergi değerinde bir değişiklik olmaz.",
+                "C": "Tadil sebebi, yalnızca kullanış tarzı değiştirilen daire için geçerli olur.",
+                "D": "Değişikliğin tadil sebebi sayılması için apartmandaki dairelerin en az üçte birinin ticari alana dönüştürülmesi gerekir.",
+                "E": "Bu durum, ancak binanın mütemmimi durumundaki arazide de bir değişiklik olursa tadil sebebi sayılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Bu hükmün uygulanmasında bir apartmanın her dairesi bir bina sayılır ve tadil sebebi, yalnız kullanış tarzı tamamen veya kısmen değiştirilen daire için geçerli olur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunun ilgili hükmüne aykırıdır; tadil sebebinin etkisini yanlış bir şekilde tüm binaya teşmil etmekte veya kanunda yer almayan ek şartlar öne sürmektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir şehir, kasaba veya koyun tamamında devamlı olmak üzere bina veya arazi değerlerinde meydana gelen hangi orandaki değişiklik, vergi değerini tadil eden bir sebep olarak kabul edilir?",
+            "secenekler": {
+                "A": "Değerlerde %10'u aşan oranda artma veya eksilme olması",
+                "B": "Değerlerde %25'i aşan oranda artma veya eksilme olması",
+                "C": "Değerlerde %50'yi bulan oranda artma veya eksilme olması",
+                "D": "Değerlerde %25 oranında sabit bir artış olması",
+                "E": "Değerlerde herhangi bir oranda değişiklik olması yeterlidir"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'bir şehir, kasaba veya köyün tamamında devamlı olmak üzere bina veya arazinin değerlerinde % 25 i aşan oranda artma veya eksiltme olması' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen '%25'i aşan' oran şartını karşılamadığı veya yanlış yorumladığı için hatalıdır. A seçeneği, kanunun farklı bir maddesindeki kısıtlılık durumuna ilişkin oranla karıştırılarak oluşturulmuş eleyici bir çeldiricidir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi vergi değeri açısından yeni bina inşa edilmesi hükmünde sayılır?",
+            "secenekler": {
+                "A": "Mevcut bir binaya kalorifer tesisleri konulması",
+                "B": "Bir binanın yanması suretiyle kısmen harap olması",
+                "C": "Bir binanın kullanış tarzının tamamen değiştirilmesi",
+                "D": "Bir binanın mütemmimi durumunda olan arazinin mütemmimlik durumundan çıkması",
+                "E": "Bir binanın taksim veya ifraz edilmesi"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 33/1'de belirtilen 'Mevcut binalara ilaveler yapılması veya asansör veya kalorifer tesisleri konulması yeni inşaat hükmündedir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda vergi değerini tadil eden farklı sebepler olarak (binanın harap olması, kullanış tarzının değişmesi, mütemmimlik durumunun değişmesi, taksim edilmesi) sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi arazinin hal ve heyetinde değişiklik olması sebebiyle vergi değerini tadil eden durumlar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Arazinin fidanlandırılması veya bağ haline getirilmesi",
+                "B": "Fidanlı bir arazinin tarla haline getirilmesi",
+                "C": "Arazinin parsellenmek suretiyle arsalar haline getirilmesi",
+                "D": "Arazinin üzerine ipotek tesis edilmesi",
+                "E": "Tarım yapılmayan bir arazinin tarıma elverişli hale getirilmesi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 33/4'te belirtilen 'Arazinin hal ve heyetinde değişiklik olması' başlığı altında sayılan sebepler arasında yer almamaktadır.\n- Diğer seçenekler, kanunda arazinin hal ve heyetindeki değişiklikler olarak açıkça listelenen ve vergi değerini tadil eden durumlardır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir şehir, kasaba veya koyun tamamında devamlı olmak üzere bina veya arazi değerlerinde meydana gelen artma veya eksiltmenin vergi değerini tadil eden bir sebep sayılabilmesi için bu değişikliğin en az hangi oranı aşması gerekir?",
+            "secenekler": {
+                "A": "% 10",
+                "B": "% 15",
+                "C": "% 20",
+                "D": "% 25",
+                "E": "% 50"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 33/8'de belirtilen '...bina veya arazinin değerlerinde % 25 i aşan oranda artma veya eksiltme olması' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen oranlar kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir apartmandaki dairelerden birinin, ikamete mahsus bir mahal iken sahibi tarafından ofis olarak kullanılmaya başlanması durumunda ortaya çıkan hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tadil sebebi, apartmanın tamamı için geçerli olur.",
+                "B": "Tadil sebebi, sadece kullanış tarzı değiştirilen daire için geçerli olur.",
+                "C": "Apartmandaki tüm dairelerin mükellefleri değişmiş sayılır.",
+                "D": "Bu durum vergi değerini tadil eden bir sebep olarak kabul edilmez.",
+                "E": "Apartmanın bulunduğu köyün tamamında değer değişikliği olduğu varsayılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 33/3'te belirtilen 'Bu hükmün uygulanmasında bir apartmanın her dairesi bir bina sayılır ve tadil sebebi, yalnız kullanış tarzı tamamen veya kısmen değiştirilen daire için geçerli olur.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanundaki bu özel düzenlemeye aykırı olduğu veya farklı tadil sebepleriyle ilgili olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bu Kanunun uygulanmasında belediye gelir şube müdürünün bulunmadığı bir yerde, vergi dairesi müdürü sıfat ve yetkisini haiz olan görevli aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Belediye başkanı",
+                "B": "Belediye hesap işleri müdürü",
+                "C": "Muhasebeci",
+                "D": "Mahallin en büyük mal memuru",
+                "E": "Vergi inceleme yetkisine sahip bir uzman"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen 'Belediye gelir şube müdürü, gelir şube müdürü olmayan yerlerde belediye hesap işleri müdürü, hesap işleri müdürü olmayan yerlerde muhasebeci, vergi dairesi müdürü sıfat ve yetkisini haizdir.' hükmüne dayanmaktadır. Bu hiyerarşiye göre gelir şube müdürünün yokluğunda yetki hesap işleri müdürüne aittir.\n- Diğer seçenekler: Belediye başkanı mahallin en büyük mal memuruna verilmiş yetkileri kullanır, muhasebeci ise ancak hesap işleri müdürünün de olmadığı durumda yetkili olur. Kanun, vergi inceleme yetkisini bu kapsamın dışında tuttuğu ve mahallin en büyük mal memurunun yetkilerinin belediye başkanı tarafından kullanılacağını belirttiği için diğer şıklar yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bu Kanuna göre alınacak vergilerle ilgili usul hükümleri hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Belediye başkanları, Vergi Usul Kanununda yer alan vergi inceleme yetkisini de kullanır.",
+                "B": "Bildirim dışı kalan binalarda zamanaşımı, binanın inşa edildiği yılı takip eden yılın başında başlar.",
+                "C": "Bu Kanunda geçen 'Vergi dairesi' tabiri, belediyeleri ifade eder.",
+                "D": "Bir binanın kullanış tarzının kısmen değiştirilmesi vergi değerini tadil eden bir sebep olarak sayılmamıştır.",
+                "E": "Türkiye sınırları içindeki tüm mesken nitelikli taşınmazlar, değerine bakılmaksızın değerli konut vergisine tabidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen 'Bu Kanunda geçen \"Vergi dairesi\" tabiri, belediyeleri ifade eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belediye başkanlarının vergi inceleme yetkisi hariç tutulmuş, zamanaşımı başlangıcı idarenin öğrenmesine bağlanmış, binanın kullanış tarzının değiştirilmesi vergi değerini tadil eden bir sebep olarak sayılmış ve değerli konut vergisi için bir değer eşiği öngörülmüştür. Bu nedenlerle diğer ifadeler yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir şehirde yaşanan ve binaların değerlerinde %25'i aşan oranda devamlı bir artışa neden olan gelişme sonrasında, vergi değerlerinin tadili ve ilgili usulü işlemlerin yürütülmesi sürecinde Vergi Usul Kanununda mahallin en büyük mal memuruna verilmiş olan görev ve yetkileri kullanmaya kim yetkilidir?",
+            "secenekler": {
+                "A": "Belediye gelir şube müdürü",
+                "B": "Belediye hesap işleri müdürü",
+                "C": "Belediye başkanı",
+                "D": "Belediye muhasebecisi",
+                "E": "Valilik tarafından atanan özel bir komisyon"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 37'de yer alan 'Vergi Usul Kanununda mahallin en büyük mal memuruna verilmiş görev ve yetkiler, belediye başkanları tarafından kullanılır' hükmüne dayanmaktadır. Madde 33 uyarınca bir şehirdeki binaların değerlerinde %25'i aşan devamlı artış, vergi değerini tadil eden bir sebeptir ve bu süreçteki yetkiler Madde 37'ye göre belirlenir.\n- Diğer seçenekler: A, B ve D seçeneklerinde sayılan kişiler vergi dairesi müdürü sıfat ve yetkisini haiz olsalar da, mahallin en büyük mal memurunun yetkileri belediye başkanına aittir. E seçeneği ise kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bildirim dışı bırakıldığı idarece öğrenilen bir bina veya araziye ilişkin vergi ve cezalarda zamanaşımı süresi ne zaman başlar?",
+            "secenekler": {
+                "A": "Bildirimin yapılması gereken son günden itibaren",
+                "B": "İdarece öğrenildiği tarihten itibaren",
+                "C": "Binanın inşa edildiği veya arazinin iktisap edildiği tarihten itibaren",
+                "D": "Verginin tahakkuk ettiği tarihten itibaren",
+                "E": "İdarece öğrenildiği tarihi takip eden yılın başından itibaren"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'zamanaşımı, bu bina ve arazinin bildirim dışı bırakıldığının idarece öğrenildiğı tarihi takip eden yılın başından itibaren başlar' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen özel başlangıç anıyla uyumlu olmadığı için yanlıştır. Özellikle, zamanaşımının idarece öğrenildiği tarihte değil, onu izleyen yılbaşında başlaması kritik bir ayrıntıdır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bir binanın ikamete mahsus bir dairesinin 2021 yılında dükkâna çevrilmesine rağmen bu durumun bildirilmediği ve idarenin bu değişikliği 2024 yılının Ağustos ayında öğrendiği bir olayda, bu daireye ilişkin vergi ve cezalarda zamanaşımı hangi tarihten itibaren başlar?",
+            "secenekler": {
+                "A": "Değişikliğin yapıldığı 2021 yılının başından itibaren",
+                "B": "Değişikliğin yapıldığı yılı takip eden 2022 yılının başından itibaren",
+                "C": "İdarenin durumu öğrendiği 2024 yılının Ağustos ayından itibaren",
+                "D": "İdarenin durumu öğrendiği yılı takip eden 2025 yılının başından itibaren",
+                "E": "Belediye başkanının belirleyeceği tarihten itibaren"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'bildirim dışı kalan bina ve arazinin vergi ve cezalarında zamanaşımı, bu bina ve arazinin bildirim dışı bırakıldığının idarece öğrenildiği tarihi takip eden yılın başından itibaren başlar' hükmüne dayanmaktadır. Olayda, Madde 33'te sayılan vergi değerini tadil eden bir sebep (kullanış tarzının değiştirilmesi) bildirilmemiştir. Bu nedenle zamanaşımı, idarenin değişikliği öğrendiği 2024 yılını takip eden 2025 yılının başından itibaren işlemeye başlar.\n- Diğer seçenekler: Kanunda belirtilen bu özel zamanaşımı başlangıç kuralına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Değerli Konut Vergisi'nin konusuna ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Türkiye sınırları içinde bulunan ve bina vergi değeri belirli bir tutarın üzerinde olan mesken nitelikli taşınmazlar bu vergiye tabidir.",
+                "B": "Yurt dışında bulunan ancak Türkiye Cumhuriyeti vatandaşlarına ait olan meskenler de vergi kapsamındadır.",
+                "C": "Sadece meskenler değil, arsa ve arazi gibi tüm taşınmazlar da değerine bakılmaksızın vergiye tabidir.",
+                "D": "Bina vergi değerine bakılmaksızın, Türkiye'deki tüm mesken nitelikli taşınmazlar vergiye tabidir.",
+                "E": "Sadece gerçek kişilere ait konutlar vergiye tabi olup, tüzel kişilere ait olanlar kapsam dışıdır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen 'Türkiye sınırları içinde bulunan mesken nitelikli taşınmazlardan ... bina vergi değeri 5.000.000 Türk lirasının ... üzerinde olanlar değerli konut vergisine tabidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, verginin kapsamını taşınmazın niteliği, bulunduğu yer ve değer şartı açısından yanlış tanımladığı için hatalıdır. Kanun, verginin sadece Türkiye'deki, mesken niteliğindeki ve belirli bir değerin üzerindeki taşınmazlar için geçerli olduğunu açıkça belirtmektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Değerli Konut Vergisi'nin konusunu oluşturan taşınmazlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Türkiye sınırları içinde bulunan ve bina vergi değeri kanunda belirtilen tutarın üzerinde olan mesken nitelikli taşınmazlar bu vergiye tabidir.",
+                "B": "Yurt dışında bulunan ancak Türkiye Cumhuriyeti vatandaşlarına ait olan tüm meskenler bu vergiye tabidir.",
+                "C": "Türkiye'deki tüm ticari nitelikli taşınmazlar, değerine bakılmaksızın bu vergiye tabidir.",
+                "D": "Bina vergi değeri kanunda belirtilen tutara eşit veya bu tutarın altında olan meskenler bu vergiye tabidir.",
+                "E": "Mesken nitelikli taşınmazda kiracı olarak oturanlar, kira bedeline göre bu vergiyi ödemekle yükümlüdür."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen 'Türkiye sınırları içinde bulunan mesken nitelikli taşınmazlardan ... bina vergi değeri ... üzerinde olanlar değerli konut vergisine tabidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen verginin konusu (taşınmazın niteliği ve konumu), değer şartı veya mükellefi hakkında yanlış bilgiler içerdiği için hatalıdır. Vergi, sadece Türkiye sınırları içindeki mesken nitelikli taşınmazları kapsar ve değerin kanunda belirtilen tutarın üzerinde olması gerekir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, paylı mülkiyet ve elbirliği mülkiyeti durumlarında Değerli Konut Vergisi matrahının hesabı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her malikin hissesine düşen değer ayrı ayrı esas alınır.",
+                "B": "Elbirliği mülkiyetinde toplam değer, paylı mülkiyette ise hisse değeri esas alınır.",
+                "C": "Mesken nitelikli taşınmazın toplam değeri esas alınır.",
+                "D": "Sadece en büyük hisseye sahip malikin payı esas alınır.",
+                "E": "Maliklerin beyan ettiği değerlerin ortalaması alınır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Paylı mülkiyette ve elbirliği mülkiyette, matrahın hesabında mesken nitelikli taşınmazın toplam değeri esas alınır.' hükmüne dayanmaktadır. - Diğer seçenekler, kanunda belirtilen bu kurala aykırı veya kanunda yer almayan varsayımsal hesaplama yöntemleri olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Değerli Konut Vergisi'ne ilişkin tutarların artış oranını belirleme konusunda Cumhurbaşkanına tanınan yetki aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Yeniden değerleme oranının yarısı nispetindeki artış oranını yeniden değerleme oranına kadar artırmak.",
+                "B": "Vergiden muaf olacak kurumları (belediyeler, üniversiteler vb.) belirlemek.",
+                "C": "Elbirliği mülkiyetinde maliklerin müteselsil sorumluluğunu kaldırmak.",
+                "D": "Vergi oranlarını (binde 3, 6, 10) her yıl yeniden belirlemek.",
+                "E": "Esas faaliyet konusu bina inşası olanların muafiyet süresini uzatmak."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Cumhurbaşkanı, dördüncü fıkrada belirtilen yeniden değerleme oranının yarısı nispetindeki artış oranını yeniden değerleme oranına kadar artırmaya yetkilidir.' hükmüne dayanmaktadır. - Diğer seçenekler, kanunda Cumhurbaşkanına tanınan bir yetki olmayıp, verginin muafiyetleri veya mükellefiyetin kapsamı gibi farklı konuları düzenleyen hükümlerle ilgili olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, değerli konut vergisine tabi bir mesken nitelikli taşınmaza paylı mülkiyet hâlinde malik olan kişilerin vergi sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Malikler, vergiden müteselsilen sorumlu olurlar.",
+                "B": "Verginin matrahı, her bir malikin hissesine düşen değerin ayrı ayrı hesaplanmasıyla bulunur.",
+                "C": "Her bir malik, taşınmazın toplam değeri üzerinden hesaplanan verginin tamamından tek başına sorumludur.",
+                "D": "Her bir malik, taşınmazın toplam değeri esas alınarak hesaplanan verginin kendi hissesine düşen kısmından sorumludur.",
+                "E": "Paylı mülkiyet durumunda değerli konut vergisi mükellefiyeti doğmaz."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 44'teki 'Paylı mülkiyette...matrahın hesabında mesken nitelikli taşınmazın toplam değeri esas alınır' hükmü ile Madde 45'teki 'Bir mesken nitelikli taşınmaza paylı mülkiyet hâlinde malik olanlar, hisseleri oranında mükelleftirler' hükmünün birleşimine dayanmaktadır. Buna göre vergi, taşınmazın toplam değeri üzerinden hesaplanır ancak her malik bu verginin sadece kendi hissesine düşen payını öder.\n- Diğer seçenekler: A seçeneği elbirliği mülkiyeti için geçerlidir; B seçeneği matrahın hesaplanma usulüne aykırıdır; C ve E seçenekleri ise kanunda açıkça düzenlenen mükellefiyet kurallarıyla çelişmektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Değerli Konut Vergisi'nde paylı mülkiyet ve elbirliği mülkiyeti durumlarındaki sorumlulukla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Paylı mülkiyette malikler vergiden müteselsilen sorumludurlar.",
+                "B": "Elbirliği mülkiyetinde malikler hisseleri oranında mükelleftirler.",
+                "C": "Paylı mülkiyette en yüksek hisseye sahip olan malik verginin tamamından sorumludur.",
+                "D": "Hem paylı hem de elbirliği mülkiyetinde malikler her zaman hisseleri oranında sorumludur.",
+                "E": "Elbirliği mülkiyetinde malikler vergiden müteselsilen sorumlu olurlar."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 45'te belirtilen 'Elbirliği mülkiyette malikler vergiden müteselsilen sorumlu olurlar.' hükmüne dayanmaktadır. \n- Diğer seçenekler: Aynı maddede paylı mülkiyette maliklerin hisseleri oranında mükellef olduğu açıkça düzenlenmiştir. Bu nedenle, paylı mülkiyet için müteselsil sorumluluk öngören veya elbirliği mülkiyeti için hisseli sorumluluk belirten diğer seçenekler kanundaki düzenlemeye aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi Değerli Konut Vergisi mükellefiyetinin başlamasına neden olan durumlardan biri değildir?",
+            "secenekler": {
+                "A": "Mesken nitelikli taşınmazın bina vergi değerinin kanunda belirtilen tutarı aştığı tarih",
+                "B": "Vergi değerini tadil eden sebeplerin doğması hâlinde bu değişikliklerin vuku bulduğu tarih",
+                "C": "Mesken nitelikli taşınmazın kiraya verilmesi veya ticari faaliyette kullanılması",
+                "D": "Muafiyetin sukut ettiği tarih",
+                "E": "Mükellefiyetin başlaması için belirtilen tüm durumların gerçekleştiği tarihi takip eden yılın başı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 45'te belirtilen mükellefiyetin başlama sebepleri arasında 'mesken nitelikli taşınmazın kiraya verilmesi veya ticari faaliyette kullanılması' şeklinde bir hüküm bulunmamasına dayanmaktadır.\n- Diğer seçenekler: A, B ve D seçeneklerinde belirtilen tarihler, kanunda mükellefiyetin başlamasına neden olan olaylar olarak açıkça sayılmıştır. E seçeneğindeki 'takip eden yıl' ifadesi de bu olaylar sonrası mükellefiyetin başlangıç zamanını doğru bir şekilde ifade etmektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, değerli konut vergisinden muaf tutulan mesken nitelikli taşınmazların maliki olan kurum ve kuruluşlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Belediyeler",
+                "B": "Üniversiteler",
+                "C": "Toplu Konut İdaresi Başkanlığı",
+                "D": "Kamu yararına çalışan dernekler ve vakıflar",
+                "E": "Genel ve özel bütçeli idareler"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'Genel ve özel bütçeli idarelerin, belediyelerin, üniversitelerin ve Toplu Konut İdaresi Başkanlığının maliki veya intifa hakkına sahip olduğu mesken nitelikli taşınmazlar' hükmüne dayanmaktadır.\n- Diğer seçenekler: A, B, C ve E seçeneklerinde yer alan kurumlar kanunda açıkça sayılmışken, 'kamu yararına çalışan dernekler ve vakıflar' bu muafiyet kapsamında zikredilmemiştir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, esas faaliyet konusu bina inşası olan bir şirketin, işletmesine kayıtlı ve henüz ilk satışa konu edilmemiş yeni inşa ettiği mesken nitelikli bir taşınmazın değerli konut vergisi muafiyeti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu taşınmazın kiraya verilmesi veya başka bir şekilde kullanılması, muafiyet durumunu etkilemez.",
+                "B": "Muafiyet, sadece arsa karşılığı inşaat işlerinde müteahhide kalan taşınmazlar için geçerlidir.",
+                "C": "Şirket, bu taşınmazı en fazla iki yıl süreyle vergiden muaf olarak elinde tutabilir.",
+                "D": "Taşınmaz, kiraya verilmesi veya sair surette kullanılması hâlleri hariç olmak üzere değerli konut vergisinden muaftır.",
+                "E": "Bu muafiyetten yararlanabilmek için taşınmazın belirli bir metrekarenin altında olması şartı aranır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen '...yeni inşa edilen mesken nitelikli taşınmazlar (bu taşınmazların kiraya verilmesi veya sair surette kullanılması hâlleri hariç)' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun metni, taşınmazın kiraya verilmesi veya kullanılması durumunda muafiyetin ortadan kalkacağını açıkça belirtmekte ve muafiyet için bir süre veya metrekare sınırı öngörmemektedir. Arsa karşılığı inşaat işleri ise muafiyetin tek şartı değil, kapsama dahil bir örneğidir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, değerli konut vergisi muaflıkları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Birden fazla meskeni bulunanların, değerli konut vergisi konusuna giren en düşük değerli meskeni vergiden muaftır.",
+                "B": "Yabancı devletlere ait elçilik ve konsolosluk olarak kullanılan taşınmazların muafiyeti için karşılıklılık şartı aranır.",
+                "C": "Türkiye'de tek meskene hisse ile sahip olunması durumunda, hisseye ait kısım için muafiyet uygulanır.",
+                "D": "Merkezi Türkiye’de bulunan milletlerarası kuruluşlara ait mesken nitelikli taşınmazlar vergiden muaftır.",
+                "E": "Birden fazla meskeni bulunanların, değerli konut vergisi konusuna giren en yüksek değerli meskeni vergiden muaftır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen '...birden fazla mesken nitelikli taşınmazı bulunanların, değerli konut vergisi konusuna giren en düşük değerli mesken nitelikli tek taşınmazı...' hükmüne dayanmaktadır. Kanun, en düşük değerli meskenin muaf olduğunu belirtmektedir.\n- Diğer seçenekler: A, B, C ve D seçeneklerindeki ifadeler, Madde 46'da yer alan muaflık hükümlerine uygun olduğu için doğrudur."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Türkiye sınırları içinde, her birinin bina vergi değeri kanunda belirtilen tutarın üzerinde olan iki adet mesken nitelikli taşınmazı bulunan bir kişinin değerli konut vergisi mükellefiyeti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her iki taşınmazı için de vergiden tamamen muaftır.",
+                "B": "Sadece daha yüksek değerli taşınmazı için vergi ödemekle yükümlüdür.",
+                "C": "Her iki taşınmazın toplam değeri üzerinden tek bir vergi öder.",
+                "D": "Taşınmazlardan birinde intifa hakkı sahibi varsa mükellefiyeti ortadan kalkar.",
+                "E": "Taşınmazların bulunduğu belediyeye başvurarak her ikisi için de muafiyet talep edebilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'birden fazla mesken nitelikli taşınmazı bulunanların, değerli konut vergisi konusuna giren en düşük değerli mesken nitelikli tek taşınmazı' muaflık hükmüne dayanmaktadır. Bu durumda mükellef, sadece en düşük değerli taşınmazı için muafiyetten yararlanır ve diğer, daha yüksek değerli taşınmazı için vergi ödemeye devam eder.\n- Diğer seçenekler: Madde 45'te belirtilen mükellefiyet ve Madde 46'da düzenlenen muaflık şartlarına aykırı olduğu için yanlıştır. İntifa hakkı sahibinin olması mükellefiyeti ortadan kaldırmaz, sadece mükellefin kimliğini değiştirir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, esas faaliyet konusu bina inşası olan bir şirketin işletmesine kayıtlı, yeni inşa edilmiş ve henüz ilk satışa konu edilmemiş bir mesken nitelikli taşınmaz ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bu taşınmaz, arsa karşılığı inşaat işlerinde müteahhide kalmış olsa dahi muafiyet kapsamındadır.",
+                "B": "Taşınmazın ilk satışa, devir ve temlike konu edilmemiş olması muafiyet için bir şarttır.",
+                "C": "Şirketin esas faaliyet konusunun bina inşası olması, muafiyetin ön koşullarından biridir.",
+                "D": "Taşınmazın kiraya verilmesi, muafiyet durumunu etkilemez ve muafiyet devam eder.",
+                "E": "Taşınmazın işletmeye kayıtlı olması muafiyet için gereklidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'bu taşınmazların kiraya verilmesi veya sair surette kullanılması hâlleri hariç' hükmüne dayanmaktadır. Bu hüküm uyarınca, yeni inşa edilen ve henüz satılmamış bir meskenin kiraya verilmesi, değerli konut vergisi muafiyetini ortadan kaldırır.\n- Diğer seçenekler, maddede sayılan muafiyet şartlarını (işletmeye kayıtlı olma, ilk satışa konu edilmeme, arsa karşılığı inşaatları da kapsaması) doğru bir şekilde yansıttığı için elenir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi değerli konut vergisinden muaf tutulan mesken nitelikli taşınmazların malikleri veya hak sahipleri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Genel ve özel bütçeli idareler",
+                "B": "Belediyeler ve üniversiteler",
+                "C": "Toplu Konut İdaresi Başkanlığı",
+                "D": "Merkezi Türkiye’de bulunan milletlerarası kuruluşlar",
+                "E": "Kamu yararına çalışan dernekler ve vakıflar"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 46'da değerli konut vergisinden muaf olanlar arasında 'kamu yararına çalışan dernekler ve vakıflar' sayılmadığı için bu seçenektir.\n- Diğer seçeneklerde belirtilen kurum ve kuruluşlar (genel ve özel bütçeli idareler, belediyeler, üniversiteler, TOKİ, milletlerarası kuruluşlar) kanun metninde açıkça muaf olarak listelenmiştir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Türkiye sınırları içinde biri diğerinden daha değerli iki adet mesken nitelikli taşınmazı bulunan bir mükellefin vergilendirme süreciyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mükellef, sadece değeri yüksek olan taşınmaz için, ilgili yılı takip eden yılın şubat ayının 20'nci günü sonuna kadar beyanname vermelidir.",
+                "B": "Her iki taşınmaz için de müşterek bir beyanname vererek vergiyi tek seferde ödemelidir.",
+                "C": "En düşük değerli meskeni vergiden muaf olduğu için, diğer taşınmazın vergisi Hazine ve Maliye Bakanlığı tarafından beyanname aranmaksızın otomatik olarak tahakkuk ettirilir.",
+                "D": "Her iki taşınmazın toplam değeri üzerinden hesaplanan vergi, şubat ve ağustos aylarında iki eşit taksitte ödenir.",
+                "E": "Mükellef, taşınmazların bulunduğu yerdeki belediyeye beyanname vererek vergiyi ödemelidir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'birden fazla mesken nitelikli taşınmazı bulunanların, değerli konut vergisi konusuna giren en düşük değerli mesken nitelikli tek taşınmazı' muaflığı ile Madde 47'de yer alan 'takip eden yılın şubat ayının 20 nci günü sonuna kadar beyanname ile beyan edilir' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Muafiyet kapsamını, beyanname usulünü, ödeme takvimini veya yetkili idareyi hatalı belirttiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Değerli Konut Vergisi'nin ödenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi, beyannamenin verildiği şubat ayının sonuna kadar tek taksitte ödenir.",
+                "B": "Vergi, ilgili yılın şubat ve ağustos aylarının sonuna kadar iki eşit taksitte ödenir.",
+                "C": "Vergi, tarh ve tahakkuk ettirildiği yılı takip eden yılın sonuna kadar ödenir.",
+                "D": "Elbirliği mülkiyetinde vergi müştereken, paylı mülkiyette ise münferiden ödenir.",
+                "E": "Vergi, meskenin bulunduğu yerdeki vergi dairesine yıllık olarak tek seferde ödenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'Vergi dairesi tarafından tarh ve tahakkuk ettirilen vergi, ilgili yılın şubat ve ağustos aylarının sonuna kadar iki eşit taksitte ödenir' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen ödeme takvimine, taksit sayısına veya usulüne aykırı bilgiler içermektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Değerli Konut Vergisi'nde paylı mülkiyet ve elbirliği mülkiyeti durumlarında beyanname verilmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Elbirliği mülkiyetinde mükellefler müşterek beyanname verebilirler.",
+                "B": "Elbirliği mülkiyetinde mükellefler münferiden beyanname verebilirler.",
+                "C": "Paylı mülkiyet hâlinde beyanname münferiden verilir.",
+                "D": "Paylı mülkiyet hâlinde mükellefler müşterek beyanname verebilirler.",
+                "E": "Müteakip yıllar için mükellef tarafından yıllık olarak beyanname verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 47'de yer alan 'Paylı mülkiyet hâlinde ise beyanname münferiden verilir' hükmüne açıkça aykırı olduğu için yanlıştır. Kanun, paylı mülkiyette müşterek beyanname verilmesine imkân tanımamaktadır.\n- Diğer seçeneklerde belirtilen elbirliği mülkiyetindeki beyan usulleri ve beyannamenin yıllık olarak yenilenmesi kanun metniyle uyumludur."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, yıl içerisinde Değerli Konut Vergisi mükellefiyetinin başlamasını gerektirecek bir durum meydana gelmesi halinde yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Durumun meydana geldiği ayı takip eden ayın sonuna kadar ilgili vergi dairesine beyanname verilir.",
+                "B": "Durumun meydana geldiği yılı takip eden şubat ve ağustos aylarında beyanname verilir.",
+                "C": "Takip eden yılın beyanname verme süresi içerisinde ilgili vergi dairesine beyanname verilir.",
+                "D": "Münferiden veya müştereken derhal vergi dairesine bildirimde bulunulur.",
+                "E": "Vergi, takip eden yılın şubat ayı sonuna kadar tek taksitte ödenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'Yıl içerisinde mükellefiyetin başlamasını gerektirecek durumun meydana gelmesi hâlinde, mükellef tarafından takip eden yılın beyanname verme süresi içerisinde ilgili vergi dairesine beyanname verilir' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen usul ve sürelere aykırıdır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Değerli Konut Vergisi beyannamesinin verilme süresi ve usulüyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Beyanname, meskenin değerinin ilgili tutarı aştığı yılı takip eden yılın şubat ayının 20 nci günü sonuna kadar verilir.",
+                "B": "Beyanname verme ve ödeme sürelerini üç aya kadar uzatma yetkisi belediyelere aittir.",
+                "C": "Beyanname, verginin genel bütçe geliri olarak kaydedilmesi nedeniyle hiçbir surette uzatılamaz.",
+                "D": "Elçilik ve konsolosluk olarak kullanılan taşınmazlar için de karşılıklılık esasına göre beyanname verilmesi zorunludur.",
+                "E": "Beyanname, ilgili yılın ağustos ayının sonuna kadar verilmelidir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen '...takip eden yılın şubat ayının 20 nci günü sonuna kadar beyanname ile beyan edilir' hükmüne dayanmaktadır.\n- Diğer seçenekler kanunla çelişmektedir: B seçeneğindeki yetki Hazine ve Maliye Bakanlığına aittir (Madde 49); C seçeneğindeki yorum hatalıdır, süre uzatma yetkisi mevcuttur (Madde 49); D seçeneğindeki taşınmazlar vergiden muaftır (Madde 46); E seçeneğindeki tarih ise ödeme taksitinin son günüdür (Madde 47)."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, tahsil edilen değerli konut vergisi hasılatı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Genel bütçe geliri olarak kaydedilir.",
+                "B": "Doğrudan ilgili belediyenin bütçesine gelir olarak aktarılır.",
+                "C": "İl özel idarelerine ve belediyelere verilecek payların hesabında dikkate alınır.",
+                "D": "Hazine ve Maliye Bakanlığı tarafından belirlenen özel bir fonda toplanır.",
+                "E": "Tahsilatın yarısı genel bütçeye, diğer yarısı ilgili mahalli idareye paylaştırılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen 'Tahsil edilen değerli konut vergisi, genel bütçe geliri olarak kaydedilir...' hükmüne dayanmaktadır. - Diğer seçenekler, bu verginin mahalli idarelere verilecek payların hesabında dikkate alınmayacağı kuralına aykırı olduğu veya kanunda yer almayan farklı bir gelir kaydı usulü belirttiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, değerli konut vergisine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Vergi, ilgili yılın şubat ve ağustos aylarının sonuna kadar iki eşit taksitte ödenir.",
+                "B": "Paylı mülkiyet hâlinde, mükelleflerin beyannameyi münferiden vermesi zorunludur.",
+                "C": "Esas faaliyet konusu bina inşası olanların işletmelerine kayıtlı yeni inşa edilmiş ve henüz satılmamış meskenler, kiraya verilmedikleri sürece vergiden muaftır.",
+                "D": "Tahsil edilen vergi, genel bütçe geliri olarak kaydedilmekle birlikte, ilgili taşınmazın bulunduğu mahalli idarelere verilecek payların hesabında da dikkate alınır.",
+                "E": "Hazine ve Maliye Bakanlığı, beyanname verme ve ödeme sürelerini üç aya kadar uzatmaya yetkilidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen 'tahsil edilen değerli konut vergisi ... mahalli idarelere verilecek payların hesabında dikkate alınmaz' hükmüne dayanmaktadır. Seçenekte bu durumun aksi iddia edilmektedir.\n- Diğer seçenekler: Madde 46, 47 ve 49'da yer alan muafiyet, beyan usulü, ödeme takvimi ve bakanlık yetkisine ilişkin doğru düzenlemeleri içermektedir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Değerli Konut Vergisi ile ilgili olarak Hazine ve Maliye Bakanlığının yetkileri hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Verginin uygulanmasına ilişkin usul ve esasları belirleyebilir.",
+                "B": "Muafiyetlerin uygulanmasında aranacak belgeleri tespit edebilir.",
+                "C": "Beyanname verme ve ödeme sürelerini üç aya kadar uzatabilir.",
+                "D": "Verginin beyanname aranmaksızın tahakkuk ettirilmesine karar verebilir.",
+                "E": "Tahsil edilen vergi gelirlerinin mahalli idarelere hangi oranda paylaştırılacağını belirleyebilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 49'da Hazine ve Maliye Bakanlığına tanınan yetkiler arasında 'mahalli idarelere pay belirleme' gibi bir görevin bulunmamasına dayanmaktadır. Aksine, kanunun ilgili hükümlerine göre bu vergi geliri genel bütçe geliri olarak kaydedilir ve mahalli idarelere pay hesabında dikkate alınmaz.\n- Diğer seçeneklerde belirtilen hususlar, Madde 49'da Hazine ve Maliye Bakanlığının yetkileri arasında açıkça sayıldığı için doğrudur."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, Değerli Konut Vergisi ile ilgili olarak Hazine ve Maliye Bakanlığının yetkileri arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Beyanname verme ve ödeme sürelerini üç aya kadar uzatmak.",
+                "B": "Verginin beyanname aranmaksızın tahakkuk ettirilmesini sağlamak.",
+                "C": "Muafiyetlerin uygulanmasında aranacak belgeleri tespit etmek.",
+                "D": "Beyannamenin verileceği yetkili vergi dairesini belirlemek.",
+                "E": "Mahalli idarelere ilişkin yurt dışı danışmanlık hizmetlerini yürütmek."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 49'da Hazine ve Maliye Bakanlığına tanınan yetkiler arasında 'mahalli idarelere ilişkin yurt dışı danışmanlık hizmetlerini yürütmek' hükmünün yer almamasıdır.\n- Diğer seçeneklerde belirtilen hususlar, Madde 49'da Hazine ve Maliye Bakanlığının Değerli Konut Vergisine ilişkin yetkileri arasında açıkça sayılmıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, mahalli idarelerce tahsil edilen vergi, resim, harç ve paylara ilişkin yurt dışı danışmanlık hizmetlerini yürütme ve bu hizmetlerin usul ve esaslarını belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Maliye ve Gümrük Bakanlığı",
+                "B": "Hazine ve Maliye Bakanlığı",
+                "C": "Hizmetin ilgili olduğu mahalli idarenin kendisine",
+                "D": "İlgili belediyeler",
+                "E": "Köy muhtarlıkları"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Mahalli idarelerce tahsil edilen vergi, resim, harç ve paylara ilişkin yurt dışı danışmanlık hizmetleri Maliye ve Gümrük Bakanlığınca yürütülür. Bu hizmetlerin yürütülmesine ilişkin usul ve esaslar Maliye ve Gümrük Bakanlığınca belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurum ve makamların bu konuda bir yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, bakanlıkların yetkileriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Hazine ve Maliye Bakanlığı, Değerli Konut Vergisi'nin beyanname aranmaksızın tahakkuk ettirilmesine karar verebilir.",
+                "B": "Mahalli idarelerce tahsil edilen vergilere ilişkin yurt dışı danışmanlık hizmetlerinin yürütülmesine ilişkin usul ve esaslar Maliye ve Gümrük Bakanlığınca belirlenir.",
+                "C": "Değerli Konut Vergisi'ne ilişkin beyanname verme ve ödeme sürelerini üç aya kadar uzatma yetkisi Hazine ve Maliye Bakanlığına aittir.",
+                "D": "Değerli Konut Vergisi'nin uygulanmasına ilişkin usul ve esasları belirleme yetkisi Maliye ve Gümrük Bakanlığına aittir.",
+                "E": "Hazine ve Maliye Bakanlığı, Değerli Konut Vergisi muafiyetlerinde aranacak belgeleri tespit etmeye yetkilidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen 'Bu verginin uygulanmasına ilişkin usul ve esasları belirlemeye... Hazine ve Maliye Bakanlığı yetkilidir.' hükmüne dayanmaktadır. Bu yetki Hazine ve Maliye Bakanlığına aittir.\n- Diğer seçenekler: Madde 49 ve Ek Madde 1'de belirtilen yetkilerin doğru bir şekilde ilgili bakanlıklara atfedilmesi nedeniyle doğrudur. D seçeneğinde ise yetkili bakanlık yanlış belirtilmiştir."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, köylerde bulunan bina ve araziye ilişkin 1998 yılı genel beyan döneminde doldurulan köy kıymet beyanı defterleri hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu defterler ilgili belediyelerce muhafaza edilir ve vergi değerlerinin tespiti gerektiğinde bu işlemi belediyeler yapar.",
+                "B": "Defterler, dolduran muhtarlar tarafından arşivlenir ve değer tespiti için mükelleflere iade edilir.",
+                "C": "Söz konusu defterlerdeki bilgiler, sadece bir sonraki genel beyan dönemine kadar geçerli olup sonrasında imha edilir.",
+                "D": "Değer tespiti gereken hallerde, defter kayıtlarına bakılmaksızın mükelleflerin yeniden beyanname vermesi istenir.",
+                "E": "Muhtarlar tarafından doldurulan bu defterler, en son emlak vergisi beyannameleri ile birlikte muhafaza edilmek üzere vergi dairelerine teslim edilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Köylerde bulunan bina ve araziye ilişkin olarak ... köy kıymet beyanı defterleri ilgili belediyelerce muhafaza edilir. ... belediyeler, ... gerekli tespiti yapar' hükmüne dayanmaktadır.\n- Diğer seçenekler: Defterleri muhafaza etme ve değer tespiti yapma yetkisini yanlış kurumlara (muhtarlar, vergi daireleri) atadığı veya defterlerin hukuki statüsü (imha edilmesi, dikkate alınmaması) hakkında hatalı bilgi verdiği için yanlıştır."
+        },
+        {
+            "soru": "1319 Sayılı Emlak Vergisi Kanunu'na göre, belediyelerin emlak vergisi beyannameleri ve köy kıymet beyanı defterlerine ilişkin yükümlülükleri hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Emlak vergisi mükellefleri tarafından verilen tüm beyannameler, verildikleri tarihten itibaren on yıl süreyle belediyelerce muhafaza edilir.",
+                "B": "Köylerdeki bina ve arazilere ilişkin vergi değerlerinin tespitini muhtarlar yapar ve belediyeye bildirir.",
+                "C": "Belediyeler, en son verilmiş emlak vergisi beyannamelerini dikkate almaksızın tarhiyat yapma yetkisine sahiptir.",
+                "D": "Köy kıymet beyanı defterleri, ilgili muhtarlıklar tarafından arşivlenir ve belediyenin talebi üzerine gönderilir.",
+                "E": "Köylerde bulunan bina ve araziye ilişkin olarak 1998 yılı genel beyan dönemine ait köy kıymet beyanı defterleri ilgili belediyelerce muhafaza edilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Köylerde bulunan bina ve araziye ilişkin olarak 1998 yılı genel beyan döneminde muhtarlar tarafından doldurulup belediyelere teslim edilen köy kıymet beyanı defterleri ilgili belediyelerce muhafaza edilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yükümlülüklerle (beyannamelerin dikkate alınması, değer tespitini belediyenin yapması, muhafaza yerinin belediye olması gibi) çeliştiği veya kanunda yer almayan bir süre şartı içerdiği için yanlıştır."
+        }
+    ]
+}

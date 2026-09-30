@@ -1,0 +1,772 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, Veraset ve İntikal Vergisinin kapsamı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi, yalnızca Türkiye Cumhuriyeti sınırları içinde bulunan malların intikalini kapsar.",
+                "B": "Türk tabiiyetinde bulunan şahısların ecnebi memleketlerde ivazsız yollarla iktisap ettikleri mallar da bu verginin kapsamındadır.",
+                "C": "Vergiye tabi olması için intikalin sadece veraset yoluyla gerçekleşmesi şarttır.",
+                "D": "Türkiye'de bulunan bir malın yabancı bir şahıstan başka bir yabancı şahsa intikali vergiye tabi değildir.",
+                "E": "Türkiye'de ikametgahı olmayan bir yabancı, bir Türk vatandaşından yurt dışında mal iktisap ettiğinde her koşulda vergi ödemekle yükümlüdür."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Bu vergi, Türk tabiiyetinde bulunan şahısların ecnebi memleketlerde aynı yollardan iktisabedecekleri mallara da şamildir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, Madde 1'de tanımlanan verginin konusunu (Türkiye'deki mallar ve Türk vatandaşlarına ait mallar), intikal şekillerini (veraset veya ivazsız intikal) ve istisnaları yanlış veya eksik yansıttığı için hatalıdır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, Türkiye Cumhuriyeti tabiiyetindeki bir şahsın Türkiye hudutları dışında bulunan malını ıvazsız bir tarzda iktisap eden yabancı şahsın vergi ile mükellef tutulmamasının temel şartı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İktisap eden yabancı şahsın Türkiye'de ikametgahının olmaması.",
+                "B": "İntikal eden malın menkul bir mal olması.",
+                "C": "İntikalin sadece veraset yoluyla gerçekleşmesi.",
+                "D": "İktisap eden yabancı şahsın diplomatik bir görevli olması.",
+                "E": "Malın değerinin belirli bir istisna haddinin altında kalması."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen '...iktisabeden ve Türkiye'de ikametgahı olmıyan ecnebi şahıs bu vergi ile mükellef tutulmaz.' hükmüne dayanmaktadır. Bu hüküm, yurt dışındaki bir malın bir Türk vatandaşından yabancı bir şahsa ivazsız intikali durumunda, mükellefiyetin doğmaması için iktisap edenin Türkiye'de ikametgahının olmamasını şart koşmaktadır.\n- Diğer seçeneklerde belirtilen hususlar, bu özel istisnanın şartları arasında yer almamaktadır. D ve E seçenekleri ise kanunun farklı maddelerinde düzenlenen başka muafiyet ve istisna hallerine ilişkindir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, kanunda tanımlanan 'mal' tabirinin kapsamı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece mülkiyete konu olabilen menkul ve gayrimenkul şeyleri ifade eder.",
+                "B": "Miras, vasiyet ve miras mukavelesi gibi ölüme bağlı tasarrufları ifade eder.",
+                "C": "Mülkiyete konu olabilen menkul ve gayrimenkul şeylerle birlikte mameleke girebilen diğer bütün hakları ve alacakları ifade eder.",
+                "D": "Sadece hakiki şahıslara ait olan ve mülkiyete konu olabilen varlıkları kapsar.",
+                "E": "Hibe yoluyla veya herhangi bir tarzda olan ivazsız iktisapları ifade eder."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2(b)'de belirtilen '“Mal” tabiri; mülkiyete mevzu olabilen menkul ve gayrimenkul şeylerle mameleke girebilen sair bütün hakları ve alacakları' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda tanımlanan 'mal' tabirinin kapsamını yanlış veya eksik yansıtmakta (A ve D seçenekleri) veya 'veraset' (B seçeneği) ve 'ivazsız intikal' (E seçeneği) gibi başka kavramların tanımlarını içermektedir, bu nedenle yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, aşağıdakilerden hangisi umumun istifadesi için kurulması halinde Veraset ve İntikal Vergisinden muaf tutulan teşekküllerin hizmet ettiği maksatlar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "İlim ve araştırma",
+                "B": "Kültür ve sanat",
+                "C": "Sıhhat ve eğitim",
+                "D": "Ticari ve sınai faaliyetler",
+                "E": "Din ve hayır"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3(b)'de belirtilen 'umumun istifadesi için ilim, araştırma, kültür, sanat, sıhhat, eğitim, din, hayır, imar, spor gibi maksatlarla kurulan teşekküller' hükmüne dayanmaktadır.\n- Diğer seçenekler kanunda sayılan muafiyet amaçları arasında yer alırken, ticari ve sınai faaliyetler bu listede bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, yabancı devletlerin Türkiye'deki temsilcilikleriyle ilgili olarak Veraset ve İntikal Vergisi muafiyeti hakkındaki aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Fahri konsoloslar, mütekabiliyet şartı aranmaksızın vergiden muaftır.",
+                "B": "Yabancı devletin Türkiye'de bulunan elçiliklerine mensup ve o devletin tabiiyetindeki memurlar, mütekabiliyet şartıyla vergiden muaftır.",
+                "C": "Türk tabiiyetinde bulunan bir şahsın, yabancı bir konsolostan veraset yoluyla mal iktisap etmesi durumunda muafiyet uygulanır.",
+                "D": "Türkiye'de ikamet eden ve yabancı bir elçilik memurundan mal iktisap eden herkes muafiyetten yararlanır.",
+                "E": "Muafiyet, elçilik ve konsolosluklara mensup memurların aile efradını kapsamaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3(c)'de belirtilen 'Yabancı Devletlerin Türkiye'de bulunan elçi, maslahatgüzar ve konsolosları... ile elçilik ve konsolosluklara mensup olan ve o Devletin tabiiyetinde bulunun memurları... (Mütekabiliyet şartiyle)' vergiden muaf tutulacağı hükmüne dayanmaktadır.\n- Diğer seçenekler yanlıştır çünkü kanun metni; fahri konsolosları muafiyet dışında tutmuş, Türk tabiiyetindeki şahısların veya Türkiye'de ikamet edenlerin bu kişilerden mal iktisabını muafiyetin istisnası olarak belirtmiş ve muafiyetin aile efradını da kapsadığını açıkça ifade etmiştir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, Türkiye Cumhuriyeti tabiiyetindeki bir şahsın Türkiye'de bulunan malının ivazsız intikali ile ilgili aşağıdaki durumlardan hangisi Veraset ve İntikal Vergisine tabi değildir?",
+            "secenekler": {
+                "A": "Malın, şahsın Türkiye'de ikamet eden yabancı uyruklu eşine hibe edilmesi.",
+                "B": "Malın, şahsın Türkiye'de ikametgahı olmayan yabancı uyruklu çocuğuna miras kalması.",
+                "C": "Malın, Kurumlar Vergisine tabi olmayan ve umumi menfaate hadim bir cemiyete vasiyet edilmesi.",
+                "D": "Malın, bir şans oyununda kazanılan ve değeri kanundaki istisna haddini aşan bir ikramiye olması.",
+                "E": "Malın, bir arkadaşa hibe edilmesi ve değerinin kanundaki istisna haddini aşması."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3(a)'da 'umumi menfaata hadim cemiyetler'in Veraset ve İntikal Vergisinden 'muaf' olduğu hükmüne dayanmaktadır. Bu nedenle, bu kuruma yapılan intikal vergiye tabi değildir.\n- Diğer seçenekler: Madde 1 uyarınca Türkiye'de bulunan malların ivazsız intikali genel olarak vergiye tabidir. Diğer şıklarda belirtilen durumlar, kanunda sayılan muafiyet kapsamına girmediği ve istisna hadlerini aştığı için vergiye tabidir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, örf ve adete göre verilmesi mutat olan hediye, cihaz, yüzgörümlüğü ve drahomaların vergi istisnası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu tür intikallerin vergi istisnasından yararlanması için değerlerinin belirli bir parasal sınırı aşmaması gerekir.",
+                "B": "Sadece cihaz ve yüzgörümlüğü istisna kapsamında olup, hediye ve drahomalar vergiye tabidir.",
+                "C": "İstisnanın uygulanabilmesi için bu eşyaların gayrimenkul olmaması şartı aranır.",
+                "D": "Bu istisna sadece veraset yoluyla intikallerde geçerlidir, sağlar arası intikalleri kapsamaz.",
+                "E": "Gayrimenkul niteliğindeki drahomalar istisna kapsamında, diğer gayrimenkul hediyeler ise kapsam dışındadır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'ün (c) bendinde belirtilen 'Örf ve adete göre verilmesi mütat bulunan hediye, cihaz, yüzgörümlüğü ve drahomalar (Gayrimenkuller hariç)' hükmüne dayanmaktadır. Bu hüküm, istisnanın gayrimenkulleri kapsamadığını açıkça belirtir.\n- Diğer seçenekler, kanunda belirtilen şartlarla (parasal sınır, eşya türü ayrımı, intikal şekli gibi) çeliştiği veya bu yönde bir düzenleme içermediği için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, belirli intikaller için öngörülen istisna hadlerinin her takvim yılında güncellenmesi usulü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İstisna hadleri her yıl Cumhurbaşkanı kararıyla yeniden belirlenir.",
+                "B": "Hadler, önceki yılın Tüketici Fiyat Endeksi (TÜFE) oranında artırılarak tespit edilir.",
+                "C": "Artırım sırasında 100 bin liraya kadar olan tutarlar dikkate alınmaz.",
+                "D": "Hadler, önceki yıl uygulanan hadlere Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranında artış yapılarak tespit olunur.",
+                "E": "İstisna hadleri sabittir ve kanunla değiştirilmedikçe güncellenmez."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4'ün son fıkrasında yer alan 'her bir takvim yılında uygulanacak istisna hadleri, önceki yılda uygulanan istisna hadlerine bu yıla ilişkin olarak Vergi Usul Kanunu hükümleri uyarınca belirlenen yeniden değerleme oranında artış yapılmak suretiyle tespit olunur' hükmüne dayanmaktadır.\n- Diğer seçenekler, güncelleme yöntemini (Cumhurbaşkanı kararı, TÜFE), artırımda dikkate alınmayacak tutarı (1 milyon lira yerine 100 bin lira) veya hadlerin sabit olduğu bilgisini yanlış belirttiği için hatalıdır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, aşağıdakilerden hangisi Veraset ve İntikal Vergisinden müstesna tutulan intikaller arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Veraset yoluyla intikal eden ev eşyası ile murise ait zat eşyası.",
+                "B": "Rücu şartıyla yapılan hibelerde, bağışlananın bağışlayandan önce vefat etmesiyle bağışlayana dönen mallar.",
+                "C": "Maddi ve manevi bir zarar karşılığı ödenen tazminatlar.",
+                "D": "Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamındaki tescilli taşınmaz kültür varlıklarının devir ve iktisabı.",
+                "E": "Bilumum sadakalar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te sayılan istisnalar arasında yer almamaktadır. Kanunun 2. maddesinde tazminatlar 'ivazsız sayılmaz' şeklinde tanımlanmış olup, bu durum onları verginin konusundan çıkarır, ancak Madde 4'te bir istisna olarak ayrıca sayılmazlar.\n- A, B, D ve E seçenekleri, Madde 4'ün sırasıyla (a), (i), (m) ve (ç) bentlerinde açıkça sayılan istisnalar olduğu için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bir kişinin vefatı üzerine terekesinden yapılan aşağıdaki intikallerden hangisi vergi istisnasından yararlanamaz?",
+            "secenekler": {
+                "A": "Murisin aile hatırası olarak muhafaza ettiği madalyaların mirasçılara kalması.",
+                "B": "Murisin bireysel emeklilik hesabında biriken ve hak kazanılan Devlet katkılarının lehtarlara ödenmesi.",
+                "C": "Mirasçısı olmayan murisin tüm mal varlığının kanun gereği Hazine'ye intikal etmesi.",
+                "D": "Vazife esnasında ölen bir emniyet mensubunun eşine intikal eden mallar.",
+                "E": "Sağlar arasında ivazsız bir tarzda vukubulan intikaller hariç olmak üzere kuru mülkiyet halinde intikal eden mallar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te sayılan istisnalar arasında yer almamaktadır. Mirasçısı olmayan bir kişinin mirasının Hazine'ye intikali, kanunda özel olarak istisna tutulmuş bir durum değildir.\n- Diğer seçenekler: A, B, D ve E şıklarında belirtilen durumlar, Madde 4'ün sırasıyla (a), (o), (h) ve (j) bentlerinde açıkça Veraset ve İntikal Vergisinden müstesna tutulmuş intikaller arasında sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, aşağıdakilerden hangisi vergiden muaf tutulan bir şahıs veya kurum değil, verginin konusuna giren ancak intikalin niteliği gereği vergiden müstesna tutulan bir işlemdir?",
+            "secenekler": {
+                "A": "Sağlar arasında rücu şartıyla yapılan bir hibede, bağışlananın bağışlayandan önce vefat etmesiyle malın bağışlayana geri dönmesi.",
+                "B": "Bir siyasi partiye yapılan nakdi bağış.",
+                "C": "Bir sosyal sigorta kurumuna miras yoluyla kalan bir apartman.",
+                "D": "Umumi menfaate hadim bir cemiyete vasiyet edilen bir arsa.",
+                "E": "Yabancı bir devletin Türkiye'deki elçiliğine hibe edilen bir taşıt."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 4(i)'de belirtilen 'rücu şartı ile yapılan hibelerde bağışlananın bağışlıyandan evvel vefatı halinde bağışlıyana rücü eden hibe edilmiş mallar' hükmüne dayanmaktadır. Bu durum, kanunda bir 'istisna' olarak düzenlenmiştir.\n- Diğer seçenekler: Madde 3'te sayılan ve vergiden 'muaf' tutulan şahıs ve kurumlara yapılan intikalleri örneklediği için yanlıştır; soru ise bir 'istisna' durumunu sormaktadır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, aşağıdakilerden hangisi Veraset ve İntikal Vergisinden müstesna tutulan intikallerden biri değildir?",
+            "secenekler": {
+                "A": "Veraset yolu ile intikal eden ev eşyası ile murise ait kişisel eşyalar.",
+                "B": "Örf ve adete göre verilmesi mutat olan ve gayrimenkul niteliği taşımayan yüzgörümlüğü.",
+                "C": "Cumhurbaşkanınca vergi muafiyeti tanınan vakıflara kuruluşu için tahsis olunan mallar.",
+                "D": "Kuru mülkiyet halinde intikal eden mallar (sağlar arasında ivazsız intikaller hariç).",
+                "E": "Ticari bir şirketin tasfiyesi sonucu ortaklara dağıtılan tasfiye payları."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 4'te Veraset ve İntikal Vergisinden müstesna tutulan intikaller arasında 'ticari bir şirketin tasfiyesi sonucu ortaklara dağıtılan tasfiye payları' şeklinde bir düzenleme bulunmamasına dayanmaktadır.\n- Diğer seçeneklerde belirtilen intikaller, kanunun 4. maddesinde sırasıyla (a), (c), (k) ve (j) bentlerinde açıkça sayılan istisnalar arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, belirli bentlerde yer alan istisna hadlerinin her takvim yılında güncellenmesinde esas alınan ölçüt aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tüketici Fiyat Endeksi (TÜFE) yıllık artış oranı",
+                "B": "Asgari ücretteki yıllık artış oranı",
+                "C": "Vergi Usul Kanunu hükümleri uyarınca belirlenen yeniden değerleme oranı",
+                "D": "Cumhurbaşkanı tarafından o yıl için belirlenen özel katsayı",
+                "E": "Hazine ve Maliye Bakanlığı tarafından ilan edilen büyüme oranı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'ün son fıkrasında belirtilen 'her bir takvim yılında uygulanacak istisna hadleri, önceki yılda uygulanan istisna hadlerine bu yıla ilişkin olarak Vergi Usul Kanunu hükümleri uyarınca belirlenen yeniden değerleme oranında artış yapılmak suretiyle tespit olunur' hükmüne dayanmaktadır.\n- Diğer seçeneklerde yer alan ölçütler kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, rücu şartı ile yapılan hibelerde, bağışlananın bağışlayandan önce vefat etmesi durumunda bağışlayana geri dönen malların vergisel durumu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Geri dönen malların tamamı vergiye tabidir.",
+                "B": "Geri dönen mallar Veraset ve İntikal Vergisinden müstesnadır.",
+                "C": "Sadece geri dönen malların değer artışı vergilendirilir.",
+                "D": "Geri dönen mallar için %50 oranında indirimli vergi uygulanır.",
+                "E": "Vergilendirme, bağışlayanın mali durumuna göre Maliye Bakanlığınca belirlenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'ün (i) bendinde belirtilen 'rücu şartı ile yapılan hibelerde bağışlananın bağışlıyandan evvel vefatı halinde bağışlıyana rücü eden hibe edilmiş mallar'ın vergiden müstesna olduğu hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen vergilendirme usulleri kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, aşağıda sayılan kurumlardan hangisinden dul ve yetimlere bağlanan aylıklar Veraset ve İntikal Vergisinden müstesna tutulmamıştır?",
+            "secenekler": {
+                "A": "Amme idare ve müesseseleri",
+                "B": "Amme menfaatlerine hadim cemiyetler",
+                "C": "Emekli sandıkları",
+                "D": "3659 sayılı kanuna tabi müesseseler",
+                "E": "Özel sigorta şirketleri"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 4'ün (g) bendinde vergiden müstesna tutulan ödemeleri yapan kurumlar arasında 'özel sigorta şirketleri' sayılmamıştır. Kanun metni; amme idare ve müesseseleri, 3659 sayılı kanuna tabi müesseseler, amme menfaatlerine hadim cemiyetler ve emekli sandıklarını belirtmiştir.\n- Diğer seçenekler kanunda açıkça sayılan kurumlar olduğu için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, veraset yoluyla veya ivazsız bir tarzda mal iktisap eden şahsın vergi mükellefiyeti ve istisnalarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Veraset yoluyla veya ivazsız bir tarzda mal iktisap eden şahıs, bu verginin mükellefi olarak kabul edilir.",
+                "B": "Örf ve adete göre verilen ve gayrimenkul niteliğinde olmayan bir cihazı ivazsız iktisap eden şahıs, bu intikal için vergiden müstesnadır.",
+                "C": "Cumhurbaşkanınca vergi muafiyeti tanınan bir vakfa, kurulduktan sonra tahsis edilen bir malı iktisap etmesi durumunda vakıf, bu mal için her halükarda verginin mükellefidir.",
+                "D": "Kuru mülkiyet halinde bir malı iktisap eden şahıs, bu mülkiyet kuru mülkiyet halinde kaldığı müddetçe vergi mükellefi sayılmaz.",
+                "E": "Tescilli bir taşınmaz kültür varlığını veraset yoluyla iktisap eden şahıs, bu iktisaba ilişkin işlemlerden dolayı vergiden müstesna tutulur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'ün (k) bendinde belirtilen 'Cumhurbaşkanınca vergi muafiyeti tanınan vakıflara kuruluşu için veya kurulduktan sonra tahsis olunan mallar' hükmüne dayanmaktadır. Bu hüküm uyarınca, bu tür bir iktisap vergiden müstesnadır ve vakıf mükellef olmaz.\n- Diğer seçenekler: Madde 5'te tanımlanan genel mükellefiyet kuralı ile Madde 4'te belirtilen çeşitli istisnaların (bent a, j, m) doğru bir şekilde birleştirilmesine dayandığı için doğrudur."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, babasından miras olarak bir miktar ev eşyası, aile hatırası olarak muhafaza edilen bir madalya ve Borçlar Kanunu uyarınca rücu şartıyla babasına hibe edilmiş ancak bağışlananın babasından önce vefat etmesiyle babasına geri dönmüş bir mali iktisap eden bir şahsın durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Şahıs, iktisap ettiği tüm mallar için verginin mükellefi sayılır.",
+                "B": "Sadece aile hatırası olan madalya vergiden müstesna olup diğer mallar için mükellefiyet doğar.",
+                "C": "Rücu şartıyla geri dönen mal vergiden istisna edilmediği için bu mal üzerinden vergi mükellefiyeti başlar.",
+                "D": "Şahıs, verasetle intikal eden ev eşyası, aile hatırası madalya ve rücu şartıyla geri dönen hibe edilmiş malın tamamı için vergiden müstesna tutulur.",
+                "E": "Ev eşyası vergiden müstesna olsa da, manevi değeri yüksek madalya gibi eşyalar için vergi mükellefiyeti devam eder."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4'ün (a) bendinde belirtilen 'Veraset tarikı ile intikal eden ev aşyası ile murise ait zat eşyası ve aile hatırası olarak muhafaza edilen ... madalya gibi eşya' ve (i) bendindeki 'rücu şartı ile yapılan hibelerde bağışlananın bağışlıyandan evvel vefatı halinde bağışlıyana rücü eden hibe edilmiş mallar' hükümlerine dayanmaktadır. Bu mallar vergiden müstesna olduğundan, Madde 5'e göre genel olarak mükellef sayılan şahıs bu özel durumlar için vergi ödemez.\n- Diğer seçenekler: Madde 4'te sayılan istisnaları göz ardı ettiği veya yanlış yorumladığı için hatalıdır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, Veraset ve İntikal Vergisinin mükellefi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Veraset tarikiyle veya ivazsız bir tarzda mal iktisap eden şahıs.",
+                "B": "Miras bırakan veya malı ivazsız olarak devreden şahıs.",
+                "C": "Malı bir bedel karşılığında (ivazlı) devralan şahıs.",
+                "D": "Sadece veraset yoluyla mal iktisap eden mirasçı.",
+                "E": "Malın intikal ettiği kamu idaresi veya amme müessesesi."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Veraset ve İntikal Vergisinin mükellefi, veraset tarikiyle veya ivazsız bir tarzda mal iktisabeden şahıstır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, verginin mükellefini yanlış tanımladığı veya kanunda belirtilen mal iktisap etme şekillerini eksik ya da hatalı ifade ettiği için yanlıştır. Verginin mükellefi malı devreden değil, devralan kişidir ve iktisap ivazlı (bir bedel karşılığı) olmamalıdır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, Veraset ve İntikal Vergisinin mükellefi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Veraset tarikiyle veya ivazsız bir tarzda mal iktisap eden şahıs.",
+                "B": "Miras bırakan veya karşılıksız tasarrufu yapan şahıs.",
+                "C": "Verginin tarh edildiği yerdeki vergi dairesi.",
+                "D": "Beyannameyi vermeye aracılık eden Türkiye konsoloslukları.",
+                "E": "Yalnızca şans oyunlarından ikramiye kazanan gerçek ve tüzel kişiler."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Veraset ve İntikal Vergisinin mükellefi, veraset tarikiyle veya ivazsız bir tarzda mal iktisabeden şahıstır' hükmüne dayanmaktadır.\n- Diğer seçenekler, vergi mükellefini değil; tasarrufta bulunan kişiyi (B), vergiyi tarh eden idari birimi (C), beyannameye aracılık eden kurumu (D) veya mükellefiyetin sadece özel bir durumunu (E) tanımladığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, veraset yoluyla veya ivazsız bir tarzda mal iktisap eden mükelleflerin beyanname verme yükümlülüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yabancı memleketlerde bulunan mükellefler, Türkiye'deki malları için beyanname verme yükümlülüğünden muaftır.",
+                "B": "Birden fazla mükellef olması durumunda, her birinin kendi iktisabı için ayrı ayrı beyanname vermesi zorunludur.",
+                "C": "Veraset yoluyla mal iktisap edenler, bazı kanuni istisnalar saklı kalmak kaydıyla, iktisap ettikleri malları bir beyanname ile bildirmeye mecburdur.",
+                "D": "Beyannamenin şeklini ve içeriğini belirleme yetkisi, verginin tarh edileceği yerdeki vergi dairesine aittir.",
+                "E": "Sadece şans oyunları düzenleyen kurum ve kuruluşlar tarafından ikramiye kazananlar beyanname vermekle yükümlüdür."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te veraset yoluyla mal iktisap edenin mükellef sayılması ve Madde 7'de bu kişilerin 'bir beyanname ile bildirmeye mecburdurlar' hükmü ile aynı maddede 'Şu kadar ki' ifadesiyle başlayan istisnaların belirtilmesine dayanmaktadır.\n- Diğer seçenekler: Madde 8'de yabancı memleketteki mükelleflerin konsolosluklara beyanname vereceği ve beyannamenin müştereken verilebileceği belirtildiği, Madde 7'de ise beyannamenin şeklini tayin yetkisinin Maliye Vekiline ait olduğu ifade edildiği için yanlıştır. E seçeneği ise yükümlülüğü hatalı şekilde daraltmaktadır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, Türkiye'de hiç ikamet etmemiş veya son ikametgahı tespit edilemeyen bir mürisin bıraktığı mirasla ilgili verginin hangi vergi dairesi tarafından tarholünacağını belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Murisin Türkiye'deki son ikametgahının bulunduğu yer vergi dairesine",
+                "B": "Miras yoluyla mal iktisap eden şahsın ikametgahının bulunduğu yer vergi dairesine",
+                "C": "Maliye Vekaletine",
+                "D": "Tasarrufun yapıldığı hükmi şahsın merkezinin bulunduğu yer vergi dairesine",
+                "E": "Ölen kimsenin Türkiye'deki mallarının en yoğun olduğu yer vergi dairesine"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Muris veya tasarrufu yapan şahıs Türkiye'de hiç ikamet etmemiş veya son ikametgahı tesbit olunamamış ise Maliye Vekaletinin tayin edeceği' yer vergi dairesi tarafından tarholunur hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen farklı durumlar için geçerli olan (murisin Türkiye'de ikametgahının olması veya yabancı memlekette ikamet edip Türkiye'de son ikametgahının bulunması gibi) ya da kanunda hiç düzenlenmemiş yetkili yerleri belirttiği için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, veraset yoluyla mal iktisap eden bir mükellefin, mürisinin Türkiye'de hiç ikamet etmemiş veya son ikametgahının tespit olunamamış olması durumunda, beyannamesini vermesi gereken yetkili makam aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Murisin Türkiye'deki son ikametgahının bulunduğu yer vergi dairesi",
+                "B": "Mükellefin kendi ikametgahının bulunduğu yer vergi dairesi",
+                "C": "En yakın Türkiye konsolosluğu",
+                "D": "Maliye Vekaleti",
+                "E": "Mükellefin malı iktisap ettiği yerdeki vergi dairesi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 6'da murisin Türkiye'de hiç ikamet etmemiş veya son ikametgahının tespit olunamamış olması halinde verginin Maliye Vekaletinin tayin edeceği yer vergi dairesi tarafından tarholunacağı ve Madde 8'de bu halde beyannamenin 'Maliye Vekaletine' verileceği hükümlerinin birleştirilmesine dayanmaktadır.\n- Diğer seçenekler: A seçeneği Madde 6(b) ve Madde 8'deki farklı bir durumu, C seçeneği ise Madde 8'de belirtilen yabancı memlekette bulunan mükelleflere ilişkin özel bir usulü tanımladığı için yanlıştır. B ve E seçenekleri ise kanunda belirtilen yetkili makamlar arasında yer almamaktadır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, verilecek beyannamenin ihtiva edeceği malumatı, şeklini ve bu beyannameye eklenecek evrak ve vesikaların nevi ve mahiyetlerini tayin etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Maliye Vekili",
+                "B": "Verginin tarholunacağı yer vergi dairesi",
+                "C": "Yabancı memleketlerdeki Türkiye konsoloslukları",
+                "D": "Şans oyunlarını düzenleyen ilgili kurum ve kuruluşlar",
+                "E": "Mükellefin son ikametgahının bulunduğu sulh hukuk mahkemesi"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Verilecek beyannamenin ihtiva edeceği malümatı ve şeklini ve bu beyannameye eklenecek evrak ve vesikaların nevi ve mahiyetlerini tayine Maliye Vekili selahiyetlidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurum ve mercilere kanunda böyle bir yetki tanınmamıştır. Vergi dairesi ve konsolosluklar beyannamenin verileceği yerler olarak, şans oyunu düzenleyenler ise beyanname verme yükümlüsü olarak belirtilmiştir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, mürisin veya tasarrufu yapan şahsın Türkiye'de hiç ikamet etmemiş veya son ikametgahının tespit olunamamış olması durumunda, beyanname aşağıdaki mercilerden hangisine verilir?",
+            "secenekler": {
+                "A": "Mükellefin ikametgahının bulunduğu yer vergi dairesine",
+                "B": "Türkiye konsolosluklarına",
+                "C": "Murisin Türkiye'deki son ikametgahının bulunduğu yer vergi dairesine",
+                "D": "Maliye Vekaletine",
+                "E": "Tasarrufun yapıldığı yer vergi dairesine"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen, muris veya tasarrufu yapan şahsın Türkiye'de hiç ikamet etmemiş veya son ikametgahı tespit olunamamış ise beyannamenin Maliye Vekaletine verileceği hükmüne dayanmaktadır. Bu durum, Madde 6'nın (c) fıkrasına yapılan atıf yoluyla düzenlenmiştir.\n- Diğer seçenekler, kanunda farklı durumlar için öngörülen beyanname verme yerleridir. Vergi daireleri ve konsolosluklar, bu özel durum dışında kalan haller için yetkili olduğundan yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, yabancı memleketlerde bulunan mükelleflerin beyannamelerini vermeleri gereken yer aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Maliye Vekaletine",
+                "B": "Murisin Türkiye'deki son ikametgahının bulunduğu yer vergi dairesine",
+                "C": "Türkiye konsolosluklarına",
+                "D": "Mükellefin seçtiği herhangi bir vergi dairesine",
+                "E": "Doğrudan Gelir İdaresi Başkanlığına"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de yer alan 'Yabancı memleketlerde bulunan mükellefler beyannamelerini Türkiye konsolosluklarına verirler.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen beyanname verme yerleri arasında yer alsa da, bu özel olarak yabancı memlekette bulunan mükellefler için geçerli olan kural değildir. Kanun bu durum için açıkça konsoloslukları yetkili kılmıştır, bu nedenle diğer şıklar yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, yabancı bir memlekette bulunan bir mükellefin, veraset ve intikal vergisi beyannamesini vermesi gereken yer aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Mükellefin Türkiye'deki son ikametgahının bulunduğu yerdeki vergi dairesi",
+                "B": "Maliye Vekaleti",
+                "C": "Mükellefin ikamet ettiği yabancı ülkenin mali makamları",
+                "D": "Doğrudan ilgili vergi dairesi",
+                "E": "Türkiye konsoloslukları"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Yabancı memleketlerde bulunan mükellefler beyannamelerini Türkiye konsolosluklarına verirler.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Vergi daireleri ve Maliye Vekaleti, kanunda belirtilen diğer haller için yetkili olup, yabancı ülkede bulunan mükellefler için geçerli değildir. Yabancı ülke makamlarının ise bu konuda bir yetkisi bulunmamaktadır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, yabancı bir memlekette vefat eden bir kişinin, müteveffanın bulunduğu yerin dışında başka bir yabancı memlekette bulunan mirasçısının beyanname verme yükümlülüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Beyannamesini, ölüm tarihini takip eden sekiz ay içinde Türkiye konsolosluklarına vermelidir.",
+                "B": "Beyannamesini, ölüm tarihini takip eden dört ay içinde Maliye Vekaletine vermelidir.",
+                "C": "Beyannamesini, ölüm tarihini takip eden altı ay içinde ilgili vergi dairesine vermelidir.",
+                "D": "Beyannamesini, ölüm tarihini takip eden sekiz ay içinde müteveffanın son ikametgahındaki vergi dairesine vermelidir.",
+                "E": "Beyannamesini, malların hukukan iktisap edildiği tarihi takip eden bir ay içinde Türkiye konsolosluklarına vermelidir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8'de yer alan 'Yabancı memleketlerde bulunan mükellefler beyannamelerini Türkiye konsolosluklarına verirler' hükmü ile Madde 9'da belirtilen 'mükellefler müteveffanın bulunduğu yerin dışında başka bir yabancı memlekette oldukları takdirde de ölüm tarihini takibeden sekiz ay içinde' beyanname verilmesi gerektiği hükümlerinin birleşimine dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen beyanname verme yeri veya süresi ile uyumlu olmadığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, ölümü yabancı bir memlekette vukubulmuş bir kişinin, mükellefinin müteveffanın bulunduğu yerin dışında başka bir yabancı memlekette olması durumunda, beyanname hangi süre içinde verilmelidir?",
+            "secenekler": {
+                "A": "Ölüm tarihini takibeden bir ay içinde",
+                "B": "Ölüm tarihini takibeden dört ay içinde",
+                "C": "Ölüm tarihini takibeden altı ay içinde",
+                "D": "Ölüm tarihini takibeden sekiz ay içinde",
+                "E": "Gaiplik kararının ölüm siciline kaydolunduğu tarihi takibeden bir ay içinde"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'ölüm yabancı bir memlekette vukubulmuş ise ... mükellefler müteveffanın bulunduğu yerin dışında başka bir yabancı memlekette oldukları takdirde de ölüm tarihini takibeden sekiz ay içinde' beyanname verileceği hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler, ölümün veya mükellefin farklı yerlerde bulunması gibi kanunda düzenlenen diğer özel durumlar için geçerli olduğundan yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, gerçek veya tüzel kişilerce düzenlenen yarışma ve çekilişler ile şans oyunları sonucunda yapılan intikallerde beyanname ne zamana kadar verilmelidir?",
+            "secenekler": {
+                "A": "Malların hukukan iktisabedildiği tarihi takibeden bir ay içinde",
+                "B": "Yarışma ve çekiliş ile müsabakaların yapıldığı günü takip eden ayın 20'nci günü akşamına kadar",
+                "C": "Yarışma ve çekiliş ile müsabakaların yapıldığı günü takibeden dört ay içinde",
+                "D": "Yarışma ve çekiliş ile müsabakaların yapıldığı günü takibeden altı ay içinde",
+                "E": "Verginin matrahının kesinleştiği tarihi takibeden onbeş gün içinde"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Gerçek veya tüzel kişilerce düzenlenen yarışma ve çekilişler ile 5602 sayılı Kanunda tanımlanan şans oyunlarında, yarışma ve çekiliş ile müsabakaların yapıldığı günü takip eden ayın 20 inci günü akşamına kadar' beyanname verileceği hükmüne dayanmaktadır.\n- Diğer seçenekler, veraset yoluyla veya diğer suretle gerçekleşen intikaller için öngörülen farklı süreleri belirttiği veya kanunda yer almayan bir süreyi ifade ettiği için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, Türkiye'de vefat eden bir kişinin yine Türkiye'de ikamet eden mirasçısının, terekesinde borsada kayıtlı olup da üç yıl içinde muamele görmemiş esham bulunması durumunda, beyanname süreciyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Beyanname, ölüm tarihini takip eden altı ay içinde verilmeli ve esham itibari değeriyle değerlenmelidir.",
+                "B": "Beyanname, ölüm tarihini takip eden dört ay içinde verilmeli ve esham itibari değeriyle değerlenmelidir.",
+                "C": "Beyanname, ölüm tarihini takip eden dört ay içinde verilmeli ve esham Emlak Vergisine esas olan değerle değerlenmelidir.",
+                "D": "Beyanname, gaiplik kararının sicile kaydını takip eden bir ay içinde verilmeli ve esham rayiç bedelle değerlenmelidir.",
+                "E": "Beyanname, ölüm tarihini takip eden sekiz ay içinde verilmeli ve esham en son muamele değeri ile değerlenmelidir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Ölüm Türkiye'de vukubulmuş ise mükelleflerin Türkiye'de bulunmaları halinde ölüm tarihini takibeden dört ay içinde' beyanname verilmesi ve Madde 10'da belirtilen 'Borsada kayıtlı olup da üç yıl içinde muamele görmemiş ise itibari değerle değerlenir' hükümlerine dayanmaktadır.\n- Diğer seçenekler, belirtilen beyanname verme süreleri veya değerleme ölçütleri açısından kanun metnine aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, borsada kayıtlı olan ancak ölüm tarihinden önceki üç yıl içinde herhangi bir işlem görmemiş eshamin (hisse senetlerinin) vergi matrahı tespit edilirken hangi değer esas alınır?",
+            "secenekler": {
+                "A": "İtibari değer",
+                "B": "Rayiç bedel",
+                "C": "Emlak Vergisine esas olan değer",
+                "D": "Ölüm tarihine takaddüm eden takvim yılı bilançosuna göre bulunacak öz sermaye",
+                "E": "Maliye Bakanlığınca tespit olunacak kur"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Borsada kayıtlı değil ise veya kayıtlı olup da üç yıl içinde muamele görmemiş ise itibari değerle değerlenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda farklı mal grupları için belirtilen değerleme ölçüleridir: Rayiç bedel menkul mallar ve gemiler, Emlak Vergisine esas değer gayrimenkuller, öz sermaye ticari sermaye, Maliye Bakanlığınca tespit edilen kur ise rayici olmayan yabancı paralar için kullanılır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, mükellef tarafından beyan edilen değer ile idarece bulunan değer arasında fark olması durumunda, hangi mal grubuna ilişkin değerlemede %50'ye kadar olan fark için vergi ziyai cezası uygulanmaz?",
+            "secenekler": {
+                "A": "Gayrimenkuller",
+                "B": "Ticari sermaye",
+                "C": "Menkul mallar ile gemiler",
+                "D": "Borsada kayıtlı esham",
+                "E": "Yabancı paralar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da yer alan 'Ancak, menkul mallar ile gemilere ilişkin değerlemelerde % 50'ye kadar bulunacak fark için ceza uygulanmaz.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde yer alan mal grupları için kanunda böyle bir ceza istisnası öngörülmemiştir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, idarenin, mükelleflerce beyan edilen değerler üzerinden vergiyi tarh etmesi için beyannamenin verildiği tarihten itibaren tanınan azami süre ne kadardır?",
+            "secenekler": {
+                "A": "Derhal",
+                "B": "On beş gün",
+                "C": "Bir ay",
+                "D": "Dört ay",
+                "E": "Altı ay"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'İdare yukardaki esaslara göre beyan edilen bu değerler üzerinden vergiyi beyannamenin verildiği tarihten itibaren en geç onbeş gün içinde tarh eder.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler, kanunda verginin tarhı için öngörülen süreler değildir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, veraset ve intikal vergisi mevzuuna giren malların değerlemesinde kullanılan ölçüler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Gayrimenkuller için Emlak Vergisine esas olan değer",
+                "B": "Menkul mallar ve gemiler için rayiç bedel",
+                "C": "Gaiplik kararının ölüm siciline kaydolunduğu tarihi takibeden bir aylık süre",
+                "D": "Ticari sermaye için bilanço esasına göre bulunacak öz sermaye",
+                "E": "Yabancı paralar için borsa rayici"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da vergi matrahının tespitinde kullanılacak değerleme ölçüleri arasında sayılmadığı için C seçeneğidir. Bu ifade, Madde 9'da belirtilen beyanname verme sürelerinden biridir.\n- Diğer seçenekler, Madde 10'da çeşitli mal grupları için açıkça belirtilmiş olan değerleme ölçüleridir ve bu nedenle yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, ilk tarhiyatta nazara alınmak üzere vergi mevzuuna giren malların değerlemesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Borsada kayıtlı esham, kayıtlı olup üç yıl içinde muamele görmemiş ise rayiç bedel ile değerlenir.",
+                "B": "Gayrimenkuller, ticari işletmeye dahil olup olmadığına bakılmaksızın Emlak Vergisine esas olan değerle değerlenir.",
+                "C": "Menkul mallar ile gemilere ilişkin değerlemelerde %25'e kadar bulunacak fark için vergi ziyaı cezası uygulanmaz.",
+                "D": "Borsa rayici olmayan yabancı paralar, mükellefin beyan ettiği kur üzerinden değerlemeye tabi tutulur.",
+                "E": "Tapu sicilinde bedeli gösterilmeyen haklar, mükellef tarafından tespit edilecek emsal bedel üzerinden beyan edilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Gayrimenkuller ticari işletmeye dahil olsun veya olmasın Emlak Vergisine esas olan değerle değerlenir' hükmüne dayanmaktadır.\n- Diğer seçenekler, Madde 10'da yer alan değerleme usullerine veya istisnalara aykırı bilgiler içerdiği için yanlıştır. Borsada üç yıl içinde işlem görmemiş esham itibari değerle, borsa rayici olmayan yabancı paralar Maliye Bakanlığınca tespit edilecek kurla değerlenir; menkul mallar ve gemilerdeki ceza istisnası sınırı %50'dir ve tapu sicilinde bedeli gösterilmeyen haklar ilk tarhiyatta nazara alınmaz."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, mürisin vefatı üzerine bilanço esasına göre defter tutan bir ticari işletme, borsada kayıtlı hisse senetleri ve bir konut miras bıraktığı bir durumda, vergi matrahının tespitiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ticari işletmenin değeri, murisin ölüm tarihine takaddüm eden takvim yılı bilançosuna göre bulunacak öz sermaye esas alınarak belirlenir.",
+                "B": "Konutun değeri, mirasın açıldığı gündeki piyasa rayiç bedeli üzerinden hesaplanır.",
+                "C": "Borsada kayıtlı hisse senetleri, mirasın açıldığı tarihteki itibari değerleri ile değerlenir.",
+                "D": "Murisin belgelendirilmiş şahsi borçları, beyannamede gösterilse dahi matrahtan indirilemez.",
+                "E": "Cenaze masrafları, yalnızca murisin ticari işletmesinin varlığından düşülebilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Ticari sermaye; bilanço esasına göre defter tutanlarda ölüm tarihine takaddüm eden takvim yılı bilançosuna göre bulunacak öz sermaye, ticari sermayedir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Konutun Emlak Vergisine esas değerle (Madde 10/b), hisse senetlerinin ölüm tarihine takaddüm eden üç yıl içindeki en son muamele değeriyle (Madde 10/d) değerlenmesi ve belgelenmiş borçlar ile cenaze masraflarının toplam matrahtan tenzil edilebilmesi (Madde 12) gerektiğinden yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, vergiye konu olacak malların değerleme gününe ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Miras yoluyla gerçekleşen intikallerde değerleme günü, malların hukukan iktisap edildiği gündür.",
+                "B": "Hukuki iktisap yoluyla gerçekleşen intikallerde değerleme günü, mirasın açıldığı gündür.",
+                "C": "Miras yoluyla gerçekleşen intikallerde değerleme günü, mirasın açıldığı gündür.",
+                "D": "Değerleme günü, her türlü intikalde verginin tarh edildiği gündür.",
+                "E": "Değerleme günü, intikalin türüne bakılmaksızın beyannamenin verildiği gündür."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'miras yoliyle vukubulan intikallerde mirasın açıldığı, diğer suretle vaki intikallerde malların hukukan iktisabedildiği, gündür' hükmüne dayanmaktadır. Bu kurala göre, miras yoluyla intikallerde değerleme günü mirasın açıldığı gündür.\n- Diğer seçenekler: A ve B seçenekleri kanunda belirtilen iki farklı intikal türü için geçerli olan değerleme günlerini birbiriyle karıştırdığı için, D ve E seçenekleri ise kanunda değerleme günü olarak tanımlanmayan farklı usuli aşamaları belirttiği için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, iktisap edilen malların değerinden beyannamede gösterilmek şartıyla tenzil olunabilecek borçlar ve masraflar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Veraset yoluyla intikallerde murisin ispatlanabilir belgelere dayanan borçları ile vergi borçları.",
+                "B": "Cenazenin techiz ve tedfini için yapılan masraflar.",
+                "C": "Mirasçının, intikal eden maldan tamamen bağımsız olan kişisel borçları.",
+                "D": "Hibe gibi diğer suretle iktisaplarda, intikal eden malın aynına taallük eden borçlar.",
+                "E": "Türkiye Cumhuriyeti tabiiyetindeki kişilere ait yabancı memleketlerdeki mallar dolayısıyla ödenen Veraset ve İntikal vergileri."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen ve iktisap edilen malların değerinden tenzil olunabilecek borçlar ve masraflar arasında mirasçının şahsi borçlarının sayılmamış olmasına dayanmaktadır. Kanun, tenzil edilecek kalemleri sınırlı olarak listelemiştir.\n- Diğer seçeneklerde yer alan borçlar ve masraflar, Madde 12'nin (a), (b), (c) ve (d) bentlerinde açıkça tenzil edilebilecek kalemler arasında sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, veraset yoluyla intikal eden malların değerleri yekünündan, beyannamede gösterilmek şartıyla;\n\nİ. Mürisin ispat edilebilir vesaika dayanan borçları\nIİ. Cenazenin tedfini için yapılan masraflar\nİİİ. Yabancı memleketlerde bulunan mallar dolayısıyla ödenen Veraset ve İntikal Vergileri\n\nunsurlarından hangisi veya hangileri tenzil edilebilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "II ve III",
+                "D": "Yalnız III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen ve vergi matrahından tenzil olunabilecek borç ve masraflar hükümlerine dayanmaktadır. Madde 12'nin (a) bendi murisin vesaika müstenit borçlarını, (d) bendi cenaze masraflarını ve (c) bendi yabancı memleketlerde ödenen Veraset ve İntikal Vergilerini (tevşik edilmek şartıyla) tenzil edilebilecek unsurlar arasında saymaktadır.\n- Bu nedenle, öncüllerde yer alan tüm unsurlar matrahtan indirilebilir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, iktisap edilen malların değerinden tenzil olunabilecek borç ve masraflara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Veraset yoluyla intikallerde murisin ispat edilebilir belgelere dayanan borçları ile vergi borçları tenzil edilebilir.",
+                "B": "Cenazenin techiz ve tedfini için yapılan masraflar, beyannamede gösterilmek şartıyla indirilebilir.",
+                "C": "Hibe edilen bir mala ilişkin borçlar, hibe edenin bu borçları üstlenmesi durumunda matrahtan tenzil edilemez.",
+                "D": "Yabancı memleketlerdeki mallar dolayısıyla ödenen Veraset ve İntikal vergilerinin tenzil edilebilmesi için tevsik edilmesi gerekir.",
+                "E": "Yabancı memleketlerdeki mallara ilişkin borçlar ve vergiler, bu malların beyan edilen değerini aşsa bile tamamı tenzil edilebilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen '...borçlar ile Veraset ve İntikal vergileri, beyannamede gösterilen bu kabil malların değerini geçemez.' hükmüne dayanmaktadır. Bu hüküm, yabancı memleketlerdeki mallara ilişkin borç ve vergilerin, o malların beyan edilen değeriyle sınırlı olarak tenzil edilebileceğini açıkça belirtmektedir.\n- Diğer seçeneklerde yer alan ifadeler, aynı maddede sayılan tenzil edilebilecek borçlar, masraflar ve bunlara ilişkin şartlarla uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bir mirasçının, müteveffanın sağlığında mahkemeye intikal etmiş ve takibi devam eden ihtilaflı bir borcu ile belgelere dayanan kesinleşmiş bir vergi borcunu beyannamede göstermesi durumunda, bu borçların vergilendirme sürecindeki akibetiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hem ihtilaflı borç hem de vergi borcu için hesaplanan vergilerin tahsili, mahkeme kararına kadar on beş yılı aşmamak üzere tecil edilir.",
+                "B": "İhtilaflı borç beyannamede gösterilemez ve ancak dava sonuçlandıktan sonra ayrı bir bildirimle tenzil edilebilir.",
+                "C": "Müteveffanın vergi borcu matrahtan tenzil edilirken, ihtilaflı borca isabet eden verginin tahsili, mahkemenin vereceği kati karar neticesine kadar tecil olunur.",
+                "D": "Her iki borç türü de derhal matrahtan tenzil edilir ve vergi bu indirimler yapıldıktan sonraki tutar üzerinden kesin olarak tahakkuk ettirilir.",
+                "E": "İhtilaflı borca ilişkin vergi tecil edilir, ancak mirasçının her yıl vergi dairesine davanın durumu hakkında bilgi verme zorunluluğu vardır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 12 ve Madde 13'ün birlikte değerlendirilmesine dayanmaktadır. Madde 12(a) uyarınca, murisin vesaika müstenit borçları ile vergi borçları beyannamede gösterilmek şartıyla matrahtan tenzil edilir. Madde 13 ise, mahkemeye intikal etmiş ihtilaflı borçların vergisinin tahakkuk ettirilerek tahsilinin, mahkeme kararına kadar tecil edileceğini düzenlemektedir.\n- Diğer seçenekler: A seçeneği 15 yıllık süre, B seçeneği ihtilaflı borcun beyan edilemeyeceği, D seçeneği ihtilaflı borcun derhal tenzil edileceği ve E seçeneği yıllık bildirim zorunluluğu (doğrusu altı ayda bir) gibi kanunda yer almayan veya hatalı bilgiler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, müteveffanın sağlığında takibedilmekte olan ihtilaflı alacak ve borçlarına ilişkin vergilendirme süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İhtilaflı alacak ve borçların beyannamede açıkça gösterilmesi zorunludur.",
+                "B": "Vergilerin tahsili, mahkemenin vereceği kesin karar veya hüküm sonucuna kadar tecil edilir.",
+                "C": "Vergilerin tecili, dava sonuçlanana kadar herhangi bir süre sınırı olmaksızın devam edebilir.",
+                "D": "Mükellefler, her altı ayda bir icra ve dava durumlarını bir dilekçe ile vergi dairesine bildirmeye mecburdur.",
+                "E": "Tecil müddetinden sonra neticelenen davalarda, mükellefin müracaatı üzerine gereken düzeltmeler yapılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'bu tecil her ne suretle olursa olsun, hiçbir zaman on seneden fazla devam edemez' hükmüne dayanmaktadır. Bu hüküm, ihtilaflı borçlara ilişkin vergi tahsilinin tecili için azami bir süre sınırı getirmiştir; dolayısıyla tecilin süresiz devam edeceği yönündeki ifade yanlıştır.\n- Diğer seçenekler: Madde 13'te yer alan beyan şartı (A), tahsilin tecili (B), mükellefin bildirim yükümlülüğü (D) ve tecil sonrası düzeltme (E) gibi hükümleri doğru bir şekilde ifade ettiği için elenir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, veraset ve intikal vergisi neye istinaden tarh olunur?",
+            "secenekler": {
+                "A": "Mükellef tarafından verilen beyanname üzerine",
+                "B": "İhtilaflı borçlar hakkında mahkemenin vereceği nihai karar üzerine",
+                "C": "Cenaze masrafları düşüldükten sonra kalan net değer üzerinden",
+                "D": "Vergi dairesince görevlendirilen kıymet takdir komisyonu raporuna göre",
+                "E": "Yeniden değerleme oranında artırılan matrah dilimleri dikkate alınarak re'sen"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Vergi, mükellef tarafından verilen beyanname üzerine tarh olunur.' hükmüne dayanmaktadır.\n- Diğer seçenekler, verginin matrahının tespiti, ihtilaflı borçların durumu veya borçların indirilmesi gibi farklı aşamalara ilişkin olup, verginin tarh edilmesinin temel dayanağını oluşturmadığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bir şahsa ivazsız mal intikali halinde uygulanacak vergi oranına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Evlatlıktan evlat edinenlere yapılan ivazsız intikallerde vergi, tarifedeki oranların yarısı uygulanarak hesaplanır.",
+                "B": "Bir şahsa eşinden ivazsız mal intikali olması durumunda vergi, tarifedeki oranların yarısı uygulanarak hesaplanır.",
+                "C": "Şans oyunlarından kazanılan ikramiyelerde vergi, ivazsız intikallere ilişkin tarifede yer alan oranların yarısı uygulanarak hesaplanır.",
+                "D": "Tüm ivazsız intikallerde vergi, standart tarifenin yarısı oranında uygulanır.",
+                "E": "İkramiyenin ayni olarak ödenmesi durumunda, rayiç bedel esas alınarak vergi hesaplanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Bir şahsa ana, baba, eş ve çocuklarından ... ivazsız mal intikali halinde vergi, ivazsız intikallere ilişkin tarifede yer alan oranların yarısı uygulanarak hesaplanır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen özel indirim hallerine, istisnalara veya özel oranlara aykırı bilgiler içerdiği için yanlıştır. Özellikle A seçeneği, kanunda açıkça indirim kapsamı dışında tutulan bir durumu ifade etmektedir. E seçeneğinde ise ayni ikramiyeler için fatura değeri esas alınması gerekirken, şıkta rayiç bedel belirtilmiştir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, her yıl yeniden değerleme oranında artırılarak uygulanan vergi tarifesinin matrah dilim tutarlarını belirli bir oranda değiştirme yetkisi ve bu yetkinin sınırı aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Hazine ve Maliye Bakanı, tespit edilen tutarları iki katına kadar artırmaya yetkilidir.",
+                "B": "Vergi Dairesi Başkanı, tespit edilen tutarları %25 oranında indirmeye yetkilidir.",
+                "C": "Cumhurbaşkanı, tespit edilen tutarları herhangi bir sınırlama olmaksızın değiştirmeye yetkilidir.",
+                "D": "Cumhurbaşkanı, tespit edilen tutarları yarısına kadar artırmaya veya indirmeye yetkilidir.",
+                "E": "Mükellefin talebi üzerine mahkeme, tespit edilen tutarları tenzil etmeye yetkilidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Cumhurbaşkanı, bu suretle tespit edilen tutarları yarısına kadar artırmaya veya indirmeye yetkilidir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamlar (Hazine ve Maliye Bakanı, Vergi Dairesi Başkanı, mahkeme) veya yetki sınırları (iki katına kadar, %25, sınırlama olmaksızın) kanundaki düzenlemeyle uyuşmadığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bir kişiye babasından ivazsız bir mal intikal etmiş ve aynı zamanda bu kişi bir şans oyunundan aynı bir ikramiye kazanmıştır. Bu iki farklı iktisapla ilgili vergilendirme esasları hakkında aşağıdakilerden hangisi söylenebilir?",
+            "secenekler": {
+                "A": "Hem babadan kalan mal hem de şans oyunundan kazanılan ikramiye için vergi, ivazsız intikallere ilişkin tarifedeki oranların yarısı uygulanarak hesaplanır.",
+                "B": "Babadan intikal eden mal için vergi, tarifedeki oranların yarısı üzerinden hesaplanırken, şans oyunundan kazanılan ikramiye için %20 oranında vergi uygulanır.",
+                "C": "Şans oyunundan kazanılan ikramiye vergiden muaftır, sadece babadan intikal eden mal için standart tarife üzerinden vergilendirme yapılır.",
+                "D": "Her iki iktisap da aynı vergi tarifesine tabi olup, ikramiyenin fatura değeri ile malın değeri toplanarak tek bir matrah üzerinden vergilendirilir.",
+                "E": "Babadan intikal eden mal için standart tarife uygulanır, şans oyunundan kazanılan ikramiye için ise Cumhurbaşkanının belirleyeceği özel bir oran geçerlidir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen farklı oranlara ilişkin hükümlerin birleştirilmesine dayanmaktadır. Madde 16'ya göre, bir şahsa ana, baba, eş ve çocuklarından ivazsız mal intikali halinde vergi, tarifede yer alan oranların yarısı uygulanarak hesaplanır. Aynı maddenin farklı bir fıkrası ise, şans oyunlarında kazanılan ikramiyelerde oranın %20 olarak uygulanacağını ve ayni ikramiyelerde fatura değerinin esas alınacağını belirtir.\n- Diğer seçenekler: A, C, D ve E seçenekleri, kanunda belirtilen bu iki farklı duruma ait özel oranları ve hesaplama yöntemlerini yanlış bir şekilde birleştirdiği veya hatalı bilgi içerdiği için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bir şahsa ana, baba, eş ve çocuklarından ivazsız mal intikali halinde uygulanacak vergiye ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi, şans oyunları için geçerli olan sabit oran üzerinden hesaplanır.",
+                "B": "Vergi, ivazsız intikallere ilişkin tarifede yer alan oranların yarısı uygulanarak hesaplanır.",
+                "C": "Bu tür intikallerde vergi oranı, her yıl yeniden değerleme oranında artırılır.",
+                "D": "Evlatlıktan evlat edinenlere yapılan ivazsız intikallerde de bu indirimli oran geçerlidir.",
+                "E": "Vergi, Cumhurbaşkanı tarafından her yıl için özel olarak belirlenen bir oran üzerinden alınır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Bir şahsa ana, baba, eş ve çocuklarından ... ivazsız mal intikali halinde vergi, ivazsız intikallere ilişkin tarifede yer alan oranların yarısı uygulanarak hesaplanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği şans oyunlarına özgü oranı, C seçeneği matrah dilimlerinin güncellenmesini, D seçeneği kanunda açıkça hariç tutulan bir durumu, E seçeneği ise Cumhurbaşkanının yetkisini yanlış yansıttığı için hatalıdır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, 5602 sayılı Kanunda tanımlanan şans oyunları ile gerçek ve tüzel kişilerce düzenlenen yarışma ve çekilişlerde kazanılan ikramiyelerden alınacak vergi oranı kaçtır?",
+            "secenekler": {
+                "A": "%5",
+                "B": "%10",
+                "C": "%15",
+                "D": "%20",
+                "E": "%25"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'şans oyunları ile gerçek ve tüzel kişilerce düzenlenen yarışma ve çekilişlerde kazanılan ikramiyelerde oran %20 olarak uygulanır' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve C seçenekleri, Madde 17'de düzenlenen ve tasdikname ibraz etmeyen hak sahiplerinin istihkaklarından yapılacak vergi karşılığı tevkifat oranlarıdır. B seçeneği ise tevkifatı süresinde yerine getirmeyen sorumlulara uygulanacak ceza oranıdır. E seçeneği ise kanunda yer almayan bir orandır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, vergi dairesinden verilmiş bir tasdikname ibraz etmeyen hak sahiplerinin istihkaklarından vergi karşılığı olarak yapılacak tevkifat oranları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Veraset yoluyla intikallerde %5, ivazsız intikallerde %15 oranında tevkifat yapılır.",
+                "B": "Veraset yoluyla intikallerde %10, ivazsız intikallerde %20 oranında tevkifat yapılır.",
+                "C": "Tüm intikallerde sabit olarak, şans oyunlarında uygulanan %20 oranı esas alınır.",
+                "D": "Ana, baba, eş ve çocuklardan ivazsız mal intikali halinde tevkifat oranları yarı yarıya indirilerek uygulanır.",
+                "E": "Her iki intikal türünde de sabit olarak %10 oranında tevkifat yapılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Tasdikname ibraz etmeyen hak sahiplerinin istihkaklarından, veraset yoluyla intikallerde %5, ivazsız intikallerde %15 oranında vergi karşılığı olarak tevkifat yaptıktan sonra, bakiyesini verebilirler' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen oranlar ve uygulamalar yanlıştır. Özellikle C ve D seçeneklerindeki ifadeler, vergiye karşılık alınacak teminat niteliğindeki tevkifat oranlarına değil, verginin nihai tarife oranlarına ilişkin farklı maddelerdeki düzenlemelere atıfta bulunduğu için hatalıdır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, vergi matrahına girmesi gereken malların kaçırılacağına dair karineler bulunduğunda, vergi dairesince başvurulabilecek ihtiyatı tedbir aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tereke defterinin yapılmasının istenmesi",
+                "B": "Hak sahiplerinin istihkaklarından vergi karşılığı olarak tevkifat yapılması",
+                "C": "Mükelleften teminat gösterilmesinin talep edilmesi",
+                "D": "Mirasçıların banka hesaplarına ihtiyati haciz konulması",
+                "E": "İntikal eden gayrimenkullerin devir ve ferağının derhal yasaklanması"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'malların kaçırılacağını anlatır karinelerin bulunduğu hallerde vergi dairesince ... tereke defterinin yapılması istenebilir' hükmüne dayanmaktadır.\n- Diğer seçenekler, Madde 18'de belirtilen bu özel durum için öngörülen ihtiyati tedbir olmadığından yanlıştır. Tevkifat, teminat ve devir yasağı gibi mekanizmalar kanunda farklı amaçlar ve koşullar için düzenlenmiş olup, ihtiyati haciz ise bu maddede sayılan bir tedbir değildir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, ıntıkal eden gayrimenkullere ilişkin verginin ödenmesi ve sonuçlarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tapu memurları, vergi dairesinden verilmiş ilişik kesme belgesi olmadan devir ve ferağ işlemi yapmaları halinde, verginin ödenmesinden mükelleflerle birlikte müteselsilen sorumlu olurlar.",
+                "B": "İntikali yapılan gayrimenkule isabet eden vergi tamamen ödenmedikçe üzerinde herhangi bir ayni hak tesis edilemez.",
+                "C": "Mükelleflerce tahakkuk eden vergiye karşılık kanunda belirtilen cinsten teminat gösterildiği takdirde, intikal eden gayrimenkullerin devir ve ferağına izin verilebilir.",
+                "D": "İntikal eden gayrimenkullerin tescil işlemi, veraset ve intikal vergisinin tahakkukunun beklenmesine gerek kalmaksızın yapılır.",
+                "E": "Verginin ödenmemesi durumunda tapu memurları, gayrimenkulün değerinin %15'i oranında tevkifat yaparak devir işlemine izin verebilirler."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Tapu memurları vergi dairesince verilmiş ilişik kesme belgesi olmaksızın devir ve ferağ işlemi yapamazlar' hükmüne dayanmaktadır. Bu hüküm, devir için ilişik kesme belgesini zorunlu kılar ve herhangi bir tevkifatla devire izin verileceğine dair bir düzenleme içermez.\n- A, B, C ve D seçenekleri, Madde 19'da yer alan intikal eden gayrimenkullere ilişkin usul, sorumluluk ve istisnaları doğru bir şekilde yansıtmaktadır.\n- E seçeneğindeki %15'lik tevkifat oranı ve bu yolla devire izin verilmesi, kanunda yer almayan hatalı bir bilgidir; aksine, belge olmadan devir işlemi kesinlikle yasaklanmıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, verginin ödenme zamanına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tüm veraset ve intikal vergileri, tahakkuklarından itibaren beş yıl içinde ve her yıl tek taksitte ödenir.",
+                "B": "Şans oyunlarından kazanılan ikramiyelere ilişkin vergiler, diğer intikaller gibi üç yılda ve iki eşit taksitte ödenir.",
+                "C": "Veraset ve intikal vergisi genel olarak tahakkukundan itibaren üç yılda, mayıs ve kasım aylarında iki eşit taksitte ödenirken; şans oyunları ve yarışmalardan kazanılan ikramiyelere ilişkin vergiler beyanname verme süresi içinde ödenir.",
+                "D": "Veraset yoluyla intikal eden mallara ilişkin vergi beyanname verme süresi içinde tek seferde ödenirken, ivazsız intikallerde ödeme üç yıla yayılır.",
+                "E": "Tüm intikallerde vergi, tahakkuktan itibaren en geç bir yıl içinde ve her yıl mart ve eylül aylarında olmak üzere iki eşit taksitte ödenmelidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Veraset ve intikal vergisi tahakkukundan itibaren (3) yılda ve her yıl mayıs ve kasım aylarında olmak üzere iki eşit taksitte ... ödenir' genel kuralı ile aynı maddede yer alan '(gerçek ve tüzel kişilerce düzenlenen yarışma ve çekilişlerde kazananlara ödenecek ikramiyeler ile 5602 sayılı Kanunda tanımlanan şans oyunları dolayısıyla dağıtılacak ikramiyelerden kesilen vergiler beyanname verme süresi içinde) ödenir' istisnasının birleştirilmesine dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen ödeme sürelerini, taksit aylarını veya istisnai durumu yanlış yansıttığı için hatalıdır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bir mirasçıya intikal eden ve vergisi henüz tamamen ödenmemiş bir gayrimenkulun devir ve ferağının yapılabilmesi hangi koşula bağlanmıştır?",
+            "secenekler": {
+                "A": "Verginin en az ilk taksitinin ödenmiş olması ve tapu memuruna bu konuda bildirim yapılması",
+                "B": "Mükellef tarafından, tahakkuk eden vergiye karşılık kanunda belirtilen türden bir teminat gösterilmesi",
+                "C": "Gayrimenkulün tescil tarihinden itibaren en az bir yıl beklenmesi",
+                "D": "Vergi dairesinden devir işleminin vergi ödemesini aksatmayacağına dair özel bir izin alınması",
+                "E": "Devir ve ferağ işleminin, verginin kalan taksitlerini ödemeyi taahhüt eden bir alıcıya yapılması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 19'da yer alan 'Ancak, mükelleflerce, tahakkuk eden vergiye karşılık 6183 sayılı Kanunun 10 ncu maddesinde yazılı cinsten ... teminat gösterildiği takdirde intikal eden gayrimenkullerin bir kısmının veya tamamının devir ve ferağına izin verilebilir' hükmüne dayanmaktadır. Bu hüküm, vergi ödenmeden devir yapma yasağının istisnasını düzenlemektedir.\n- Diğer seçenekler, kanunda yer almayan varsayımsal koşullar (ilk taksitin ödenmesi, bir yıl bekleme, özel izin) içerdiği için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, veraset ve intikal vergisinin ödeme zamanına ilişkin genel kural aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tahakkukundan itibaren bir yıl içinde, her yıl Haziran ve Aralık aylarında iki eşit taksitte ödenir.",
+                "B": "Tahakkukundan itibaren üç yılda, her yıl Mayıs ve Kasım aylarında olmak üzere iki eşit taksitte ödenir.",
+                "C": "Beyanname verme süresi içinde tek seferde peşin olarak ödenir.",
+                "D": "Tahakkukundan itibaren beş yılda, her yıl Mart ve Eylül aylarında olmak üzere iki eşit taksitte ödenir.",
+                "E": "Gayrimenkulün tescil tarihinden itibaren en geç 15 gün içinde tamamen ödenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Veraset ve intikal vergisi tahakkukundan itibaren (3) yılda ve her yıl mayıs ve kasım aylarında olmak üzere iki eşit taksitte ... ödenir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen ödeme süresini, taksit aylarını veya özel durumları yanlış yansıttığı için hatalıdır. C seçeneği yarışma ve çekilişler için geçerli özel bir durumu, E seçeneği ise tapunun bildirim süresini ifade etmektedir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, veraset ve intikal vergisi mükellefiyetinin başlangıcına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Beyanname verildiği takdirde, mükellefiyet beyannamede gösterilen mallar için beyanname tarihinde başlar.",
+                "B": "Beyanname verilmeyen hallerde intikal eden mallar için mükellefiyet, idarece tespit olunduğu tarihte başlar.",
+                "C": "Terekenin resmi tasfiyesi halinde, mükellefiyet mahkemece bu muamelenin ikmal edildiği tarihte başlar.",
+                "D": "Verilen beyannamede gösterilmeyen mallar için mükellefiyet, mahkemece bu eksikliğin tespit edildiği tarihte başlar.",
+                "E": "Terekenin tahriri veya defter tutma hallerinde mükellefiyetin başlangıcı, mahkemece bu işlemlerin tamamlandığı tarihtir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Verilen beyannamede gösterilmiyen mallar ... idarece tesbit olunduğu tarihte' mükellefiyetin başlayacağı hükmüne dayanmaktadır. Kanun, beyan dışı kalan malların tespitini 'idare'nin yapacağını belirtmektedir. D seçeneği ise bu merciyi 'mahkeme' olarak yanlış ifade etmektedir.\n- Diğer seçenekler, Madde 20'de sayılan mükellefiyetin başlangıç anlarını doğru yansıttığı için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, ıntıkal eden gayrimenkullerin durumu ve verginin ödenmesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İntikal eden gayrimenkullerin tescil işlemi, veraset ve intikal vergisinin tahakkuku beklenmeksizin gerçekleştirilir.",
+                "B": "Vergi tamamen ödenmedikçe, intikal eden gayrimenkul üzerinde devir ve ferağ işlemi yapılamaz veya ayni hak tesis edilemez.",
+                "C": "Tapu memurları, vergi dairesince verilmiş ilişik kesme belgesi olmaksızın devir ve ferağ işlemi yapmaları halinde, verginin ödenmesinden mükellefler ile birlikte müteselsilen sorumlu olurlar.",
+                "D": "Mükelleflerce tahakkuk eden vergiye karşılık kanunda belirtilen türden teminat gösterilmesi durumunda, intikal eden gayrimenkullerin devir ve ferağına izin verilebilir.",
+                "E": "Gaip bir murisin sonradan ortaya çıkması durumunda, daha önce tahsil edilmiş olan vergiler Hazine'ye irat kaydedilir ve mükellefe iade edilmez."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Gaip muris zuhur ettiği takdirde ... evvelce alınmış olan vergiler talep üzerine mükellefe geri verilir' hükmüne aykırıdır.\n- Diğer seçenekler: Madde 19'da yer alan intikal eden gayrimenkullerin tescili, devir yasağı, tapu memurunun sorumluluğu ve teminat karşılığı devir izni gibi hükümlere uygun olduğu için doğrudur."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, hakkında gaiplik kararı verilmiş olan mürisin daha sonra ortaya çıkması durumunda uygulanacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Ortaya çıkan mirasçının vereceği beyannameye veya vergi dairesince yapılacak idari tahkikata göre vergi düzeltilir.",
+                "B": "Vergi, tahakkukundan itibaren üç yıl içinde ve her yıl mayıs ve kasım aylarında olmak üzere iki eşit taksitte yeniden tahsil edilir.",
+                "C": "Mükellefiyet, murisin ortaya çıktığı ve idarece tespit olunduğu tarihte yeniden başlar.",
+                "D": "Verginin ödenmesinden sonra murisin yaşadığı mahkeme kararıyla sabit olursa bir sene içinde müracaat edilmesi halinde vergi iade edilir.",
+                "E": "Nüfustaki ölüm kaydının terkinini mütaakıp, evvelce alınmış olan vergiler talep üzerine mükellefe geri verilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Gaip muris zuhur ettiği takdirde nüfustaki ölüm kaydının terkinini mütaakıp, evvelce alınmış olan vergiler talep üzerine mükellefe geri verilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği gaip mirasçının ortaya çıkması durumuna ilişkin olup, diğer seçeneklerde belirtilen usul ve süreler ise kanunda gaip murisin ortaya çıkması hali için öngörülmediğinden yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bir tereke üzerinden tahakkuk eden verginin taksitleri ödenmekteyken, gaip olan mürisin yaşadığı ve nüfustaki ölüm kaydının terkin edildiği anlaşılmıştır. Bu durumda, ödenmiş olan vergi taksitlerinin akıbeti hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ödenmiş olan vergiler, mükellefin talebi üzerine kendisine geri verilir.",
+                "B": "Kalan taksitlerin ödenmesi durdurulur, ancak ödenmiş olan vergiler iade edilmez.",
+                "C": "Vergi, gaip murisin zuhuru nedeniyle idari tahkikata göre yeniden hesaplanır ve yalnızca fazla kısım iade edilir.",
+                "D": "Ödenen vergiler, murise teminat olarak gösterilen mallardan mahsup edilir.",
+                "E": "Vergi dairesi, mahkemece muamelelerin ikmal edildiği tarihte mükellefiyeti sonlandırır ve ödenen vergileri resen iade eder."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Gaip muris zuhur ettiği takdirde nüfustaki ölüm kaydının terkinini mütaakıp, evvelce alınmış olan vergiler talep üzerine mükellefe geri verilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: C seçeneği, gaip mirasçının zuhuruna ilişkin farklı bir kuralı (Madde 21/a) olaya uygulamaktadır. D seçeneğindeki teminat (Madde 19) ve E seçeneğindeki mükellefiyetin başlangıcı (Madde 20) halleri, sorudaki durumla ilgisizdir. B seçeneğindeki sonuç ise kanuna aykırıdır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, veraset ve intikal vergisi ödendikten sonra bir malın, vergiyi ödeyenden başka bir kişiye ait olduğu mahkeme kararıyla sabit olursa, fazla alınan verginin iade edilebilmesi için aranan temel şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlamın kesinleşmesinden sonra bir sene içinde müracaat edilmesi",
+                "B": "Verginin tahakkukundan itibaren üç yıl içinde talepte bulunulması",
+                "C": "Hakiki mükellefin yeni bir beyanname vermesi",
+                "D": "Nüfustaki ölüm kaydının terkinini mütaakıp talepte bulunulması",
+                "E": "İade edilecek vergiye karşılık teminat gösterilmesi"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'ilamın katileşmesinden sonra bir sene içinde müracaat edilirse fazla alınan vergi, verene iade' hükmüne dayanmaktadır. Bu hüküm, verginin iadesi için mahkeme kararının kesinleşmesini takiben bir yıllık başvuru süresi öngörmektedir.\n- Diğer seçenekler, kanunda farklı durumlar için öngörülen (verginin ödeme süresi, gaibin zuhuru gibi) veya bu özel durumda aranmayan şartlar olduğu için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bir mirasçıya intikal eden gayrimenkulun vergisi tamamen ödendikten sonra devir ve ferağı yapılmış, ancak daha sonra bu malın vergi ödeyenden başka bir şahsa ait olduğu kesinleşmiş bir mahkeme kararıyla sabit olmuştur. Bu durumda yapılacak işlemle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Gayrimenkulün devri geçersiz sayılarak mal, vergi ödeyen ilk kişiye iade edilir.",
+                "B": "Tapu memurları, devir işlemini hatalı yaptıkları için hakiki mükellef ile birlikte müteselsilen sorumlu olurlar.",
+                "C": "Vergi dairesi, durumu öğrendiği tarihte mükellefiyeti başlatır ve yeni mükelleften vergiyi derhal tahsil eder.",
+                "D": "Vergi ödeyen kişiye, ilamın kesinleşmesinden itibaren bir sene içinde müracaat etmesi halinde fazla alınan vergi iade edilir ve hakiki mükelleften tahsil olunur.",
+                "E": "Fazla alınan vergi, hakiki mükellefin beyanname vermesini takiben üç yıl içinde iki eşit taksitte iade edilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'bir malın vergi verenden başka bir şahsa ait olduğu mahkeme karariyle sabit olur ve ilamın katileşmesinden sonra bir sene içinde müracaat edilirse fazla alınan vergi, verene iade ve hakiki mükelleften tahsil olunur' hükmüne dayanmaktadır.\n- Diğer seçenekler: B seçeneğindeki tapu memurunun sorumluluğu, vergi ödenmeden devir yapılması haline özgüdür (Madde 19). C seçeneği, mükellefiyetin başlangıcına ilişkin farklı bir durumu (Madde 20) yanlış bir şekilde olaya uygulamaktadır. A ve E seçeneklerinde belirtilen hukuki sonuçlar ise kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, vergi ödendikten sonra bir malın vergi ödeyenden başka bir kişiye ait olduğu mahkeme kararıyla sabit olursa, fazla alınan verginin iadesi için müracaat süresi ve bu sürenin başlangıcı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlamın kesinleşmesinden sonra bir sene içinde müracaat edilmelidir.",
+                "B": "Mahkeme kararının verildiği tarihten itibaren altı ay içinde müracaat edilmelidir.",
+                "C": "Verginin ödendiği tarihten itibaren iki sene içinde müracaat edilmelidir.",
+                "D": "İlamın kesinleşmesinden sonra iki sene içinde müracaat edilmelidir.",
+                "E": "Mahkeme kararının verildiği tarihten itibaren bir sene içinde müracaat edilmelidir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'ilamın katileşmesinden sonra bir sene içinde müracaat edilirse fazla alınan vergi, verene iade' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler ve başlangıç tarihleri, kanunda yer alan bu düzenlemeye aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bir bankadaki kiralık kasası mürisin vefatı üzerine vergi dairesi memuru huzurunda açılarak içindeki mallar mirasçıları tarafından beyan edilmiş ve vergisi ödenmiştir. Daha sonra, bu mallardan birinin vergi ödeyen mirasçıdan başka bir şahsa ait olduğu mahkeme kararıyla sabit olursa, ödenen verginin durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kasa açılışında hazır bulunan vergi dairesi memurunun tespiti esas olduğundan, vergi iadesi yapılamaz ve herhangi bir işlem tesis edilmez.",
+                "B": "Banka, yanlış beyana yol açan duruma izin verdiği için sorumlu tutulur ve vergiyi hak sahibine öder.",
+                "C": "İlamın kesinleşmesinden sonra bir sene içinde müracaat edilirse, fazla alınan vergi verene iade edilir ve hakiki mükelleften tahsil olunur.",
+                "D": "Vergi iade edilmez, ancak mahkeme kararına istinaden hakiki mükelleften aynı mal için ikinci kez vergi tahsil edilir.",
+                "E": "Mirasçılar, verginin iadesi için ilamın kesinleşmesinden itibaren beş yıl içinde müracaat etme hakkına sahiptir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Veraset ve İntikal Vergisinin ödenmesinden sonra bir malın vergi verenden başka bir şahsa ait olduğu mahkeme karariyle sabit olur ve ilamın katileşmesinden sonra bir sene içinde müracaat edilirse fazla alınan vergi, verene iade ve hakiki mükelleften tahsil olunur' hükmüne dayanmaktadır. Soru, Madde 23'teki kasa açma usulü ile başlayan bir olayı, Madde 22'deki hukuki sonuçla birleştirmektedir.\n- Diğer seçenekler: Madde 22'de belirtilen süre, iade ve tahsilat usulüne aykırı veya kanunda yer almayan sorumluluklar içerdiği için yanlıştır."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bankadaki kiralık kasanın mürisin ölümü sonrası açılması ve vergilendirilmiş bir malın aidiyetinin sonradan değişmesi durumları birlikte değerlendirildiğinde, aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Banka, vergi dairesinin salahiyetli bir memuru hazır bulunmadıkça kasanın mirasçılar tarafından açılmasına müsaade edemez.",
+                "B": "Sulh hakimi tarafından yapılacak tespit, vergi dairesi memuru bulunmaksızın kasanın açılabilmesine olanak tanıyan bir istisnadır.",
+                "C": "Vergisi ödenmiş bir malın başkasına ait olduğunun mahkeme kararıyla sabit olması, ödenen verginin iadesi sürecini başlatabilir.",
+                "D": "Vergi iadesi talebinde bulunmak için, mahkeme ilamının katileşmesinden sonra bir senelik hak düşürücü süre öngörülmüştür.",
+                "E": "Vergi dairesi memuru huzurunda kasa içeriğinin tespit edilmesi, malların mülkiyetini kesin olarak belirler ve bu tespite karşı mahkemede dava açılamaz."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 22'nin varlığının, Madde 23'teki tespit işleminin nihai bir mülkiyet kararı olmadığını göstermesine dayanmaktadır. Madde 23'teki tespit, vergisel bir önlem olup, Madde 22 uyarınca bu malların mülkiyetinin daha sonra bir mahkeme kararıyla değiştirilebileceğini ve buna bağlı olarak vergi iadesi yapılabileceğini düzenlemektedir. Dolayısıyla, tespit işlemine rağmen dava açılabilir.\n- Diğer seçenekler: A ve B seçenekleri Madde 23'teki usul ve istisnayı, C ve D seçenekleri ise Madde 22'deki iade şartlarını doğru bir şekilde yansıttığı için doğrudur."
+        },
+        {
+            "soru": "7338 Sayılı Veraset Ve İntikal Vergisi Kanunu'na göre, bankalar nezdindeki kiralık kasa sahibinin ölümü halinde, sulh hakimi tarafından yapılacak tespit işlemi dışında, kasanın açılabilmesi için aşağıdakilerden hangisinin hazır bulunması şarttır?",
+            "secenekler": {
+                "A": "Vergi dairesinin salahiyetli bir memuru",
+                "B": "Mirasçıların kanuni temsilcisi veya vekili",
+                "C": "Banka şubesi müdürü",
+                "D": "Sulh hukuk mahkemesi katibi",
+                "E": "Noter"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'vergi dairesinin salahiyetli bir memuru hazır bulunmadıkça kasanın açılmasına... müsaade edemezler' hükmüne dayanmaktadır.\n- Diğer seçenekler: Mirasçıların temsilcisi veya vekili içeriği alabilir ancak kasanın açılması için tek başına yeterli değildir. Diğer belirtilen görevlilerin ise bu süreçte hazır bulunma zorunluluğu kanunda düzenlenmemiştir."
+        }
+    ]
+}

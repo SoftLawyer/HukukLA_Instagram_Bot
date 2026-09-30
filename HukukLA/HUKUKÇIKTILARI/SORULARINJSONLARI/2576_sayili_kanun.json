@@ -1,0 +1,940 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinin niteliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece vergi uyuşmazlıklarını çözmekle görevli özel mahkemelerdir.",
+                "B": "Kanunla verilen görevleri yerine getirmek üzere kurulmuş genel görevli bağımsız mahkemelerdir.",
+                "C": "Adli yargı kolunda yer alan ve idari uyuşmazlıklara bakan istinaf mercileridir.",
+                "D": "Yalnızca idare ile kişiler arasındaki uyuşmazlıkları inceleyen özel görevli kurullardır.",
+                "E": "Danıştay'ın taşra teşkilatı olarak görev yapan ve ona bağlı çalışan kurumlardır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemeleri bu Kanunla verilen görevleri yerine getirmek üzere kurulmuş genel görevli bağımsız mahkemelerdir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre,\n\nI. Bölge idare mahkemeleri\nII. İdare mahkemeleri\nIII. Vergi mahkemeleri\n\nYukarıdakilerden hangisi veya hangileri bu Kanunla verilen görevleri yerine getirmek üzere kurulmuş genel görevli bağımsız mahkemeler arasında yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemeleri bu Kanunla verilen görevleri yerine getirmek üzere kurulmuş genel görevli bağımsız mahkemelerdir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinin kaldırılmasına veya yargı çevrelerinin değiştirilmesine karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İçişleri, Maliye ile Gümrük ve Tekel Bakanlıklarının ortak kararıyla Adalet Bakanlığına",
+                "B": "Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Kuruluna",
+                "C": "Hâkimler ve Savcılar Yüksek Kurulunun önerisi üzerine Cumhurbaşkanına",
+                "D": "Adalet Bakanlığının görüşü alınarak doğrudan Hâkimler ve Savcılar Yüksek Kuruluna",
+                "E": "İlgili mahkeme başkanının talebi üzerine Adalet Bakanlığına"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Bu mahkemelerin kaldırılmasına veya yargı çevrelerinin değiştirilmesine, İçişleri, Maliye Bakanlıkları ile Gümrük ve Tekel Bakanlığının görüşleri alınarak, Adalet Bakanlığının önerisi üzerine Hakimler ve Savcılar Yüksek Kurulunca karar verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, aynı yargı çevresinde birden fazla idare veya vergi mahkemesinin faaliyet gösterdiği hâllerde mahkemeler arasındaki iş bölümü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İş bölümü, Adalet Bakanlığı tarafından bölgelerin coğrafi durumları göz önünde tutularak kesin olarak karara bağlanır.",
+                "B": "Mahkemeler, kendilerine tevzi edilen davalara bakmaktan kaçınarak uyuşmazlığı doğrudan bir üst mahkemeye gönderebilir.",
+                "C": "İş bölümüne ilişkin kararlar, İçişleri ve Maliye Bakanlıklarının ortak kararı ile alınır ve Resmî Gazete'de yayımlanır.",
+                "D": "Mahkemeler arasındaki iş bölümü, ihtisaslaşmanın sağlanması amacıyla Hâkimler ve Savcılar Kurulu tarafından belirlenebilir.",
+                "E": "İş bölümü kararları, ilgili mahkemelerin kendi aralarında yapacakları protokol ile serbestçe belirlenir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Aynı yargı çevresinde birden fazla idare veya vergi mahkemesinin faaliyet gösterdiği hâllerde... ihtisaslaşmanın sağlanması amacıyla, gelen işlerin yoğunluğu ve niteliği dikkate alınarak, mahkemeler arasındaki iş bölümü Hâkimler ve Savcılar Yüksek Kurulu tarafından belirlenebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinin kuruluş ve yargı çevrelerinin tespitinde aşağıdaki bakanlıklardan hangisinin veya hangilerinin görüşü alınır?\n\nI. İçişleri Bakanlığı\nII. Maliye Bakanlığı\nIII. Adalet Bakanlığı",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinin kuruluş ve yargı çevrelerinin tespitinde, İçişleri, Maliye Bakanlıkları ile Gümrük ve Tekel Bakanlığının görüşleri alınır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinin Adalet Bakanlığınca kurulması ve yargı çevrelerinin tespit edilmesinde aşağıdakilerden hangileri göz önünde bulundurulur?",
+            "secenekler": {
+                "A": "Yalnızca bölgelerin nüfus yoğunluğu",
+                "B": "Bölgelerin coğrafi durumları ve iş hacmi",
+                "C": "İllerin ekonomik gelişmişlik düzeyleri",
+                "D": "Bölgelerin yüzölçümü ve idari sınırları",
+                "E": "Mahkemelerin fiziki kapasitesi ve personel sayısı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemeleri, bölgelerin coğrafi durumları ve iş hacmi gözönünde tutularak Adalet Bakanlığınca kurulur...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, Danıştay daire başkanı ve üyelerinin istekleri üzerine bölge idare mahkemesi başkanlığına veya daire başkanlıklarına atanmaları hâlinde, bu kişilerin hak ve yetkileriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bu görevde geçirdikleri süre Danıştay üyeliğinde geçmiş sayılır.",
+                "B": "Aylık ve ödenekleri ile her türlü mali ve sosyal haklarının Danıştay bütçesinden ödenmesine devam olunur.",
+                "C": "Hâkimler ve Savcılar Kurulu üyeliği seçimleri dâhil olmak üzere, Danıştaydaki hiçbir seçimde aday olamaz ve oy kullanamazlar.",
+                "D": "Danıştay üyeleri tarafından Danıştayda yapılan iş ve işlemlere katılamazlar.",
+                "E": "Disiplin ve ceza soruşturma ve kovuşturmaları Danıştay üyeleri hakkındaki hükümlere tabidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/E'de belirtilen 'Hâkimler ve Savcılar Yüksek Kurulu üyeliği seçimleri hariç Danıştaydaki seçimlerde aday olamaz ve oy kullanamazlar' hükmüne dayanmaktadır. HSK seçimleri bir istisnadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, hukuki veya fiili nedenlerle bir dairenin toplanamaması ve bölge idare mahkemesi başkanının kararıyla diğer dairelerden üye görevlendirilmesinin de mümkün olmaması durumunda, eksikliğin tamamlanması için yetkili merci aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Bölge İdare Mahkemesi Adalet Komisyonu",
+                "C": "Danıştay Başkanlar Kurulu",
+                "D": "Hâkimler ve Savcılar Kurulu",
+                "E": "En kıdemli daire başkanı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3/F'de belirtilen 'bu da mümkün olmazsa, Hâkimler ve Savcılar Yüksek Kurulunca diğer bölge idare mahkemelerinden yetkili olarak görevlendirilen üyelerle eksiklik tamamlanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi adalet komisyonunun oluşumu ve üyelerin nitelikleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Komisyon, bölge idare mahkemesi başkanının başkanlığında toplanır.",
+                "B": "Komisyonun asıl üyeleri, Hâkimler ve Savcılar Kurulunca daire başkanları arasından belirlenir.",
+                "C": "Komisyonun yedek üyeleri, sadece daire başkanları arasından seçilmek zorundadır.",
+                "D": "Başkanın yokluğunda, asıl üye olan kıdemli daire başkanı komisyona katılır.",
+                "E": "Komisyon eksiksiz toplanır ve çoğunlukla karar verir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/G'de belirtilen 'Hâkimler ve Savcılar Yüksek Kurulu ayrıca daire başkan veya üyeleri arasından iki yedek üye belirler' hükmüne dayanmaktadır. Yedekler üyeler arasından da seçilebilir."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi başkanı ve daire başkanlarının atanabilmesi için idari yargı hâkim ve savcılarında bulunması gereken nitelik aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "En az birinci sınıfa ayrılmış olmak",
+                "B": "Meslekte fiilen on yılını doldurmuş olmak",
+                "C": "Birinci sınıf olup birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş olmak",
+                "D": "Bölge idare mahkemesi üyesi olarak en az üç yıl çalışmış olmak",
+                "E": "Adalet komisyonu tarafından aday gösterilmiş olmak"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/E'de belirtilen 'Bölge idare mahkemesi başkanı ve daire başkanları birinci sınıf olup birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş... idari yargı hâkim ve savcıları arasından... atanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi adalet komisyonunun asıl üyelerini belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Bölge İdare Mahkemesi Başkanı",
+                "C": "Cumhurbaşkanı",
+                "D": "Danıştay Başkanlık Kurulu",
+                "E": "Hâkimler ve Savcılar Kurulu"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3/G'de belirtilen 'Komisyon, bölge idare mahkemesi başkanının başkanlığında, Hâkimler ve Savcılar Yüksek Kurulunca daire başkanları arasından belirlenen iki asıl üyeden oluşur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemelerinde görev yapan başkan, daire başkanı ve üyelerin soruşturma ve kovuşturma usullerinde geçen \"en yakın bölge adliye mahkemesi\" ibaresinden aşağıdakilerden hangisi anlaşılır?",
+            "secenekler": {
+                "A": "Görev yapılan bölge idare mahkemesine coğrafi olarak en yakın konumda bulunan bölge adliye mahkemesi",
+                "B": "Görev yapılan bölge idare mahkemesinin bulunduğu ilin bağlı olduğu bölge adliye mahkemesi",
+                "C": "Hâkimler ve Savcılar Kurulu tarafından özel olarak yetkilendirilen bölge adliye mahkemesi",
+                "D": "İlgili personelin nüfusa kayıtlı olduğu ilin bağlı bulunduğu bölge adliye mahkemesi",
+                "E": "Adalet Bakanlığı tarafından her yılın başında belirlenen bölge adliye mahkemesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3/I'de belirtilen 'anılan maddede yer alan en yakın bölge adliye mahkemesi ibaresinden, görev yapılan bölge idare mahkemesinin bulunduğu ilin bağlı olduğu bölge adliye mahkemesi anlaşılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi adalet komisyonunun yedek üyeleri;\n\nI. Daire başkanları\nII. Daire üyeleri\nIII. Bölge idare mahkemesi başkanı\n\nyukarıdakilerden hangisi veya hangileri arasından belirlenebilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/G'de belirtilen 'Hâkimler ve Savcılar Yüksek Kurulu ayrıca daire başkan veya üyeleri arasından iki yedek üye belirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi bünyesinde kurulacak müdürlükler ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece bölge idare mahkemesi başkanlığı bünyesinde yazı işleri müdürlüğü kurulabilir.",
+                "B": "Her müdürlükte bir müdür ile en fazla üç memur bulunması zorunludur.",
+                "C": "Bölge idare mahkemesi başkanlığında, dairelerinde ve adalet komisyonunda yazı işleri ve idari işler müdürlüğü ile ihtiyaç duyulan diğer müdürlükler kurulur.",
+                "D": "Kurulacak müdürlüklerin sayısı ve görev alanları Hâkimler ve Savcılar Kurulu tarafından belirlenir.",
+                "E": "İdari işler müdürlüğü yalnızca adalet komisyonu bünyesinde görev yapmak üzere kurulur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/H'de belirtilen 'Bölge idare mahkemesi başkanlığında, dairelerinde ve adalet komisyonunda yeterli sayıda yazı işleri müdürlüğü ve idari işler müdürlüğü ile ihtiyaç duyulan diğer müdürlükler kurulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, gelen işlerin yoğunluğu ve niteliği dikkate alınarak bölge idare mahkemesi daireleri arasındaki iş bölümünü belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bölge idare mahkemesi başkanlar kurulu",
+                "B": "Hâkimler ve Savcılar Kurulu",
+                "C": "Danıştay Başkanlık Kurulu",
+                "D": "Adalet Bakanlığı",
+                "E": "İdari Dava Daireleri Kurulu"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3/D'de belirtilen 'Gelen işlerin yoğunluğu ve niteliği dikkate alınarak bölge idare mahkemesi daireleri arasındaki iş bölümü, Hâkimler ve Savcılar Kurulu tarafından belirlenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi dairelerince verilen kesin nitelikteki kararlar arasındaki aykırılık veya uyuşmazlığın giderilmesi isteminin iletildiği ilgili dava daireleri kurulunca kural olarak kaç ay içinde karar verilmesi gerekir?",
+            "secenekler": {
+                "A": "Bir",
+                "B": "İki",
+                "C": "Üç",
+                "D": "Altı",
+                "E": "Dokuz"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/C'de belirtilen 'İlgili dava daireleri kurulunca üç ay içinde karar verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, yargı çevresi içinde bulunan yetkili ilk derece mahkemesindeki bir davanın, bölge idare mahkemesi dairelerince başka bir mahkemeye nakline veya yetkili mahkemenin tayinine aşağıdaki durumların hangisinde veya hangilerinde karar verilebilir?\n\nI. Yetkili ilk derece mahkemesinin davaya bakmasına fiili veya hukuki bir engel çıkması\nII. İki mahkemenin yargı çevresi sınırlarında tereddüt edilmesi\nIII. İki mahkemenin de aynı davaya bakmaya yetkili olduklarına karar vermesi",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3/D'de belirtilen 'yetkili ilk derece mahkemesinin bir davaya bakmasına fiili veya hukuki bir engel çıktığı veya iki mahkemenin yargı çevresi sınırlarında tereddüt edildiği veya iki mahkemenin de aynı davaya bakmaya yetkili olduklarına karar verdikleri hâllerde; o davanın... nakline veya yetkili mahkemenin tayinine karar vermek' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemelerinde görev yapan başkan, daire başkanı ve üyelerin;\n\nI. Görevden doğan suçları\nII. Görev sırasında işlenen suçları\nIII. Şahsi suçları\n\ndurumlarından hangisinde veya hangilerinde 5235 sayılı kanun hükümleri uyarınca soruşturma ve kovuşturma yürütülür?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3/I'de belirtilen 'Bölge idare mahkemelerinde görev yapan başkan, daire başkanı ve üyelerin görevden doğan veya görev sırasında işlenen suçları ve şahsi suçlarıyla ilgili soruşturma ve kovuşturmalar...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesinde iki dairenin görevine ilişkin davaların karara bağlanma usulü ile ilgili,\n\nI. İlgili dairenin isteği üzerine o dairelerin birlikte yapacakları toplantıda karara bağlanır.\nII. Bu toplantıya bölge idare mahkemesi başkanı katılır ve başkanlık eder.\nIII. Toplanma ve görüşme yeter sayısı beştir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/D'de belirtilen 'İki dairenin görevine ilişkin davalar, ilgili dairenin isteği üzerine o dairelerin birlikte yapacakları toplantıda karara bağlanır. Bu toplantıya daire başkanlarından kıdemli olan katılır ve başkanlık eder. Toplanma ve görüşme yeter sayısı beştir.' hükmüne dayanmaktadır. II. öncül yanlıştır çünkü toplantıya bölge idare mahkemesi başkanı değil, daire başkanlarından kıdemli olan başkanlık eder."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemelerinde dairelerin toplantı ve karar usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her daire, bir başkan ve üç üyenin katılımıyla toplanır.",
+                "B": "Görüşmeler açık yapılır ve kararlar oybirliğiyle verilir.",
+                "C": "Daire başkanının bulunamaması hâlinde daireye bölge idare mahkemesi başkanı başkanlık yapar.",
+                "D": "Görüşmeler gizli yapılır ve kararlar çoğunlukla verilir.",
+                "E": "Bir daire toplanamazsa eksiklik doğrudan Hâkimler ve Savcılar Kurulunca tamamlanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3/F'de belirtilen 'Her daire, bir başkan ve iki üyenin katılımıyla toplanır. Görüşmeler gizli yapılır, kararlar çoğunlukla verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bir bölge idare mahkemesi üyesinin görevinden doğan bir suç nedeniyle soruşturulması gerekmektedir. İlgili mevzuat uyarınca bu soruşturmada yetkili merci belirlenirken 'en yakın bölge adliye mahkemesi' ibaresi esas alınacaktır. Olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "En yakın bölge adliye mahkemesi, coğrafi olarak bölge idare mahkemesine en az kilometre mesafede olan mahkemedir.",
+                "B": "En yakın bölge adliye mahkemesi, görev yapılan bölge idare mahkemesinin bulunduğu ilin bağlı olduğu bölge adliye mahkemesidir.",
+                "C": "En yakın bölge adliye mahkemesi, Danıştay Başkanlığı tarafından her somut olay için özel olarak belirlenir.",
+                "D": "Soruşturma, üyenin görev yaptığı bölge idare mahkemesinin kendi bünyesinde oluşturulacak bir kurul tarafından yürütülür.",
+                "E": "En yakın bölge adliye mahkemesi, Hâkimler ve Savcılar Yüksek Kurulu tarafından yıllık olarak ilan edilen mahkemedir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3/I'da belirtilen 'anılan maddede yer alan en yakın bölge adliye mahkemesi ibaresinden, görev yapılan bölge idare mahkemesinin bulunduğu ilin bağlı olduğu bölge adliye mahkemesi anlaşılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemelerinde gerekli hâllerde dairelerin sayısını artırıp azaltma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Hâkimler ve Savcılar Kurulunun teklifi üzerine Adalet Bakanlığına",
+                "B": "Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Kuruluna",
+                "C": "Danıştay Başkanlığının teklifi üzerine Hâkimler ve Savcılar Kuruluna",
+                "D": "Adalet Bakanlığının teklifi üzerine Cumhurbaşkanına",
+                "E": "Doğrudan Hâkimler ve Savcılar Kuruluna"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Gerekli hâllerde dairelerin sayısı, Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Yüksek Kurulunca artırılıp azaltılabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi dairelerinin benzer olaylarda kesin olarak verdikleri kararlar arasındaki uyuşmazlığın giderilmesi için başkanlar kuruluna başvurma görevi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "En kıdemli daire başkanı",
+                "B": "İlgili daire başkanı",
+                "C": "Bölge idare mahkemesi başkanı",
+                "D": "Adalet komisyonu başkanı",
+                "E": "Uyuşmazlığı tespit eden üye"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/B'de belirtilen 'Bölge idare mahkemesi başkanının görevleri şunlardır: ... Dairelerin benzer olaylarda kesin olarak verdikleri kararlar arasındaki uyuşmazlığın giderilmesi için başkanlar kuruluna başvurmak.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, Danıştay daire başkanı ve üyeleri, istekleri üzerine Hâkimler ve Savcılar Kurulunca bölge idare mahkemesi başkanlığına veya daire başkanlıklarına kural olarak kaç yıllığına atanabilirler?",
+            "secenekler": {
+                "A": "İki",
+                "B": "Üç",
+                "C": "Dört",
+                "D": "Beş",
+                "E": "Altı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/E'de belirtilen 'Danıştay daire başkanı ve üyeleri, istekleri üzerine Hâkimler ve Savcılar Yüksek Kurulunca bölge idare mahkemesi başkanlığına veya daire başkanlıklarına dört yıllığına atanabilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemelerinin oluşumunda aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Başkanlık",
+                "B": "Başkanlar kurulu",
+                "C": "Daireler",
+                "D": "Bölge idare mahkemesi adalet komisyonu",
+                "E": "Yüksek disiplin kurulu"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Bölge idare mahkemeleri, başkanlık, başkanlar kurulu, daireler, bölge idare mahkemesi adalet komisyonu ve müdürlüklerden oluşur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemelerinin yapısı ve üyeleri ile ilgili,\n\nI. Biri idare diğeri vergi olmak üzere en az iki daire bulunur.\nII. Dairelerde bir başkan ile yeteri kadar üye bulunur.\nIII. Başkan ve üyeliklere atama Adalet Bakanlığınca yapılır.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Bölge idare mahkemelerinde biri idare diğeri vergi olmak üzere en az iki daire bulunur.', 'Dairelerde bir başkan ile yeteri kadar üye bulunur.' ve atamaların 'Hâkimler ve Savcılar Yüksek Kurulunca' yapılacağı hükümlerine dayanmaktadır. III. öncül atamanın Adalet Bakanlığınca yapılacağını iddia ettiği için yanlıştır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi adalet komisyonunun toplanma ve karar alma usulüyle ilgili aşağıdaki ifadelerden hangisi veya hangileri doğrudur?\n\nI. Komisyon, üye tamsayısının salt çoğunluğu ile toplanır.\nII. Başkanın yokluğunda komisyona asıl üye olan kıdemli daire başkanı başkanlık eder.\nIII. Asıl üyelerin yokluğunda yedek üyeler kura usulüyle komisyona katılır.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3/G'de belirtilen 'Başkanın yokluğunda asıl üye olan kıdemli daire başkanı... komisyona katılır.' hükmüne dayanmaktadır. I. öncül yanlıştır çünkü komisyon eksiksiz toplanır. III. öncül yanlıştır çünkü yedek üyeler kura ile değil, kıdemine göre katılır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, iki dairenin görevine ilişkin davaların karara bağlanma usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İki dairenin görevine ilişkin davalar, Hâkimler ve Savcılar Kurulunun resen alacağı karar üzerine birlikte yapılacak toplantıda karara bağlanır.",
+                "B": "Toplanma ve görüşme yeter sayısı beştir ve kararlar toplantıya katılanların oy birliğiyle verilir.",
+                "C": "Bu davalar, istemde bulunan ilgili dairenin esas ve karar numaralarını alır.",
+                "D": "Ortak toplantıya her iki dairenin başkanı da katılır ve kıdemli olanın oyu iki oy sayılır.",
+                "E": "Toplantıya daire başkanlarından kıdemsiz olan katılır ve toplantıya başkanlık eder."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/D'de belirtilen 'Bu davalar, istemde bulunan ilgili dairenin esas ve karar numaralarını alır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bir bölge idare mahkemesinde görevli Daire Başkanı A, geçirdiği bir kaza nedeniyle fiili olarak görevine bir süre devam edemeyecektir. Olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Daireye, bölge idare mahkemesi başkanı vekâleten başkanlık yapar.",
+                "B": "Dairenin en kıdemli üyesi daireye başkanlık yapar.",
+                "C": "Hâkimler ve Savcılar Kurulu tarafından yeni bir başkan atanana kadar daire toplanamaz.",
+                "D": "Diğer dairelerden kura ile belirlenen bir üye başkanlık görevini üstlenir.",
+                "E": "Adalet komisyonu, daire üyeleri arasından geçici bir başkan seçer."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3/F'de belirtilen 'Daire başkanının hukuki veya fiili nedenlerle bulunamaması hâlinde dairenin en kıdemli üyesi daireye başkanlık yapar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi başkanı, daire başkanları ve üyelerinin nitelikleri ile ilgili,\n\nI. Bölge idare mahkemesi başkanı ve daire başkanlarının birinci sınıf olması şarttır.\nII. Daire üyelerinin en az birinci sınıfa ayrılmış olması gerekir.\nIII. Atamalar, idari yargı hâkim ve savcıları arasından Danıştay Başkanlık Kurulunca yapılır.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/E'de belirtilen 'Bölge idare mahkemesi başkanı ve daire başkanları birinci sınıf olup... daire üyeleri ise en az birinci sınıfa ayrılmış olup... idari yargı hâkim ve savcıları arasından Hâkimler ve Savcılar Yüksek Kurulunca atanır.' hükmüne dayanmaktadır. Atamalar Danıştay Başkanlık Kurulunca değil, Hâkimler ve Savcılar Kurulunca yapılmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemelerinin görevleri kapsamında aşağıdaki işlemlerden hangisi veya hangileri yapılabilir?\n\nI. İstinaf başvurularını inceleyip karara bağlamak.\nII. Yargı çevresindeki idare ve vergi mahkemeleri arasında çıkan görev ve yetki uyuşmazlıklarını kesin karara bağlamak.\nIII. Yargı çevresindeki idare mahkemelerinin kararlarına karşı yapılan temyiz başvurularını incelemek.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/A'da belirtilen 'Bölge idare mahkemelerinin görevleri şunlardır: a) İstinaf başvurularını inceleyip karara bağlamak. b) Yargı çevresindeki idare ve vergi mahkemeleri arasında çıkan görev ve yetki uyuşmazlıklarını kesin karara bağlamak.' hükmüne dayanmaktadır. Kanunda temyiz başvurularını incelemek gibi bir görev sayılmamıştır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi adalet komisyonu toplantılarında başkanın veya üyelerin yokluğu durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Başkanın yokluğunda komisyona en kıdemli yedek üye başkanlık eder.",
+                "B": "Asıl üyelerin yokluğunda komisyon, salt çoğunlukla toplanarak karar alır.",
+                "C": "Başkanın ve asıl üyelerin yokluğunda toplantı yapılamaz ve ertelenir.",
+                "D": "Asıl üyelerin yokluğunda yerlerine yetkili kurul tarafından geçici üye görevlendirilir.",
+                "E": "Başkanın yokluğunda komisyona asıl üye olan kıdemli daire başkanı katılır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3/G'de belirtilen 'Başkanın yokluğunda asıl üye olan kıdemli daire başkanı, asıl üyelerin yokluğunda ise kıdemine göre yedek üyeler komisyona katılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, Danıştay daire başkanı ve üyelerinin bölge idare mahkemesi başkanlığına veya daire başkanlıklarına atanmaları durumunda ortaya çıkan hukuki sonuçlar ile ilgili,\n\nI. Aylık ve ödenekleri ile her türlü mali ve sosyal haklarının Danıştay bütçesinden ödenmesine devam olunur.\nII. Hâkimler ve Savcılar Kurulu üyeliği seçimleri dâhil olmak üzere Danıştaydaki hiçbir seçimde aday olamaz ve oy kullanamazlar.\nIII. Disiplin ve ceza soruşturma ve kovuşturmaları Danıştay üyeleri hakkındaki hükümlere tabidir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3/E'de belirtilen 'aylık ve ödenekleri ile her türlü mali ve sosyal haklarının Danıştay bütçesinden ödenmesine devam olunur; disiplin ve ceza soruşturma ve kovuşturmaları Danıştay üyeleri hakkındaki hükümlere tabidir' ve 'Hâkimler ve Savcılar Yüksek Kurulu üyeliği seçimleri hariç Danıştaydaki seçimlerde aday olamaz ve oy kullanamazlar' hükümlerine dayanmaktadır. İkinci öncüldeki 'hiçbir seçimde' ifadesi istisnayı göz ardı ettiği için yanlıştır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi başkanı A'nın yıllık izne ayrılması nedeniyle görevinde bulunmadığı bir durumda, yerine vekâlet edilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Adalet komisyonu başkanı, başkana tüm görevlerinde vekâlet eder.",
+                "B": "En kıdemli daire başkanı, adalet komisyonu ve dairedeki görevler dâhil olmak üzere başkana vekâlet eder.",
+                "C": "En kıdemli üye, başkanın yokluğunda mahkemeyi temsil etme görevini üstlenir.",
+                "D": "En kıdemli daire başkanı, adalet komisyonu ve dairedeki görevler hariç olmak üzere başkana vekâlet eder.",
+                "E": "Hâkimler ve Savcılar Kurulu tarafından belirlenen bir daire başkanı başkana vekâlet eder."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3/B'de belirtilen 'Bölge idare mahkemesi başkanının yokluğunda, adalet komisyonu ve dairedeki görevler hariç olmak üzere, en kıdemli daire başkanı başkana vekâlet eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "I. Dosyayı, inceleyecek üyeye havale etmek ve kararların zamanında yazılmasını sağlamak\nII. Hukuki veya fiili nedenlerle bir dairenin kendi üyeleri ile toplanamadığı hâllerde diğer dairelerden kıdem ve sıraya göre üye görevlendirmek\nIII. Personelin izin isteklerini düşünceleriyle birlikte adalet komisyonuna aktarmak\n\n2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemelerinde görev yapan daire başkanlarının görevleri arasında yukarıdaki durumlardan hangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I, II ve III",
+                "E": "I ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3/B'de belirtilen daire başkanlarının görevleri arasında sayılan 'Dosyayı, inceleyecek üyeye havale etmek' ve 'izin isteklerini düşünceleriyle birlikte adalet komisyonuna aktarmak' hükümlerine dayanmaktadır. II. öncüldeki üye görevlendirme yetkisi ise bölge idare mahkemesi başkanına aittir."
+        },
+        {
+            "soru": "I. Bölge idare mahkemesi başkanlığı\nII. Adalet komisyonu\nIII. Disiplin kurulu\n\n2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi teşkilatında yeterli sayıda yazı işleri müdürlüğü ve idari işler müdürlüğü ile ihtiyaç duyulan diğer müdürlüklerin kurulacağı birimler arasında yukarıdakilerden hangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/H'de belirtilen 'Bölge idare mahkemesi başkanlığında, dairelerinde ve adalet komisyonunda yeterli sayıda yazı işleri müdürlüğü ve idari işler müdürlüğü ile ihtiyaç duyulan diğer müdürlükler kurulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi adalet komisyonunun toplanma ve karar alma usulüne ilişkin 'Komisyon ................. toplanır ve ................. karar verir.' cümlesinde boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?",
+            "secenekler": {
+                "A": "üye tamsayısının salt çoğunluğuyla / oybirliğiyle",
+                "B": "eksiksiz / çoğunlukla",
+                "C": "en az üç üye ile / oy çokluğuyla",
+                "D": "eksiksiz / oybirliğiyle",
+                "E": "üye tamsayısının üçte ikisiyle / salt çoğunlukla"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3/G'de belirtilen 'Komisyon eksiksiz toplanır ve çoğunlukla karar verir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi başkanlar kurulu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bölge idare mahkemesi başkanlar kurulu, bölge idare mahkemesi başkanı ile üyelerden oluşur.",
+                "B": "Bölge idare mahkemesi başkanının bulunmadığı hâllerde kurula dairedeki en kıdemli üye başkanlık eder.",
+                "C": "Daire başkanının mazereti hâlinde, o dairenin en kıdemli üyesi kurula katılır.",
+                "D": "Başkanlar Kurulu üye tamsayısının salt çoğunluğu ile toplanır ve katılanların çoğunluğu ile karar verir.",
+                "E": "Oyların eşitliği hâlinde en kıdemli daire başkanının bulunduğu taraf çoğunluğu sağlamış sayılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/C'de belirtilen 'Daire başkanının mazereti hâlinde, o dairenin en kıdemli üyesi kurula katılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemesi başkanlar kurulunun toplanması planlanmış ancak daire başkanlarından biri mazereti nedeniyle toplantıya katılamamıştır. Bu olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kurul, eksik üyeyle toplanarak karar alabilir.",
+                "B": "Mazeretli daire başkanının yerine, o dairenin en kıdemli üyesi kurula katılır.",
+                "C": "Toplantı, mazeretli üye göreve dönene kadar ertelenmek zorundadır.",
+                "D": "Mazeretli daire başkanının yerine, bölge idare mahkemesi başkanı tarafından başka bir daire başkanı görevlendirilir.",
+                "E": "Mazeretli daire başkanının yerine adalet komisyonu tarafından seçilen bir yedek üye katılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3/C'de belirtilen 'Daire başkanının mazereti hâlinde, o dairenin en kıdemli üyesi kurula katılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, dairelerin toplantı ve kararları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Her daire, bir başkan ve iki üyenin katılımıyla toplanır.",
+                "B": "Dairelerde yapılan görüşmeler gizli olarak yürütülür.",
+                "C": "Daire başkanının hukuki veya fiili nedenlerle bulunamaması hâlinde, bölge idare mahkemesi başkanı daireye başkanlık yapar.",
+                "D": "Dairelerde kararlar çoğunlukla verilir.",
+                "E": "Hukuki veya fiili nedenlerle bir daire toplanamazsa, eksiklik öncelikle bölge idare mahkemesi başkanının kararıyla diğer dairelerden tamamlanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3/F'de belirtilen 'Daire başkanının hukuki veya fiili nedenlerle bulunamaması hâlinde dairenin en kıdemli üyesi daireye başkanlık yapar.' hükmüne dayanmaktadır. Bölge idare mahkemesi başkanı değil, dairenin en kıdemli üyesi başkanlık yapmalıdır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, idare ve vergi mahkemelerinde başkanın yokluğunda başkana vekillik etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Komisyonu tarafından seçilen üyeye",
+                "B": "Mahkemenin en genç üyesine",
+                "C": "Kıdemli üyeye",
+                "D": "Nöbetçi mahkeme başkanına",
+                "E": "Mahkeme başkanı tarafından önceden belirlenen üyeye"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Başkanın yokluğunda kıdemli üye başkana vekillik eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, idare ve vergi mahkemelerinin oluşumunda mahkeme başkanının yokluğu durumunda ortaya çıkan hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Adalet Komisyonu tarafından yeni bir başkan vekili seçilir.",
+                "B": "Kıdemli üye başkana vekillik eder.",
+                "C": "En genç üye geçici olarak başkanlık görevini üstlenir.",
+                "D": "Hakimler ve Savcılar Kurulu tarafından geçici atama yapılır.",
+                "E": "Mahkeme kurulu eksik üye ile toplanarak karar alır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Başkanın yokluğunda kıdemli üye başkana vekillik eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, idare ve vergi mahkemelerinde mahkeme kurullarının oluşumu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Başkan ile bir üyeden oluşur.",
+                "B": "Başkan ile iki üyeden oluşur.",
+                "C": "Başkan ile üç üyeden oluşur.",
+                "D": "Sadece üç üyeden oluşur, başkan kurula katılmaz.",
+                "E": "Başkan ve yeteri kadar üyeden oluşur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Mahkeme kurulları, başkan ile iki üyeden oluşur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, idare ve vergi mahkemelerinin oluşumu ile ilgili,\n\nI. Mahkeme kurulları, bir başkan ile iki üyeden oluşur.\nII. Başkanın yokluğunda en kıdemli üye başkana vekillik eder.\nIII. Mahkemelerde bir başkan ve en fazla üç üye bulunur.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Mahkeme kurulları, başkan ile iki üyeden oluşur. Başkanın yokluğunda kıdemli üye başkana vekillik eder.' hükmüne dayanmaktadır. Üye sayısı için 'yeteri kadar üye bulunur' denilmiş olup, en fazla üç üye bulunacağına dair bir sınırlama Kanun'da yer almamaktadır."
+        },
+        {
+            "soru": "Bir idare mahkemesinde başkanın geçici bir sağlık sorunu nedeniyle görevine devam edemediği bir durum ortaya çıkmıştır. 2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bu olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mahkeme kurulu, başkan görevine dönene kadar hiçbir karar alamaz.",
+                "B": "Adalet komisyonu tarafından mahkemeye derhal yeni bir başkan atanır.",
+                "C": "Mahkemede görevli en genç üye başkana vekillik eder.",
+                "D": "Mahkemede görevli kıdemli üye başkana vekillik eder.",
+                "E": "Bölge idare mahkemesi başkanı, kurula bizzat başkanlık eder."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Başkanın yokluğunda kıdemli üye başkana vekillik eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, idare mahkemelerinin görevleri arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "İlk derecede Danıştayda çözümlenecek olanlar dışındaki iptal davaları",
+                "B": "İlk derecede Danıştayda çözümlenecek olanlar dışındaki tam yargı davaları",
+                "C": "Tahkim yolu öngörülen imtiyaz şartlaşma ve sözleşmelerinden doğan uyuşmazlıklar",
+                "D": "Kamu hizmetinin yürütülmesi için yapılan idarî sözleşmelerden doğan uyuşmazlıklar",
+                "E": "İdari Yargılama Usulü Kanunu ile idare mahkemelerinin görevli kılındığı davalar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Tahkim yolu öngörülen imtiyaz şartlaşma ve sözleşmelerinden doğan uyuşmazlıklardan hariç...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, idare mahkemelerinin görev alanına giren davalarla ilgili,\n\nI. Vergi mahkemelerinin görevine giren davalar\nII. İlk derecede Danıştayda çözümlenecek olan iptal davaları\nIII. Tahkim yolu öngörülmeyen, kamu hizmetinin yürütülmesi için yapılan idarî sözleşmelerden doğan uyuşmazlıklar\n\ndurumlarından hangisi veya hangileri idare mahkemelerince çözümlenir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "Yalnız III",
+                "D": "I ve II",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen idare mahkemelerinin görev sınırlarını çizen hükümlere dayanmaktadır. Vergi mahkemelerinin ve ilk derecede Danıştayın görevine giren davalar ile tahkim yolu öngörülen sözleşmeler kapsam dışı bırakılmıştır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, özel kanunlarda Danıştayın görevli olduğu belirtilen ancak İdari Yargılama Usulü Kanunu ile idare mahkemelerinin görevli kılınmış bulunduğu davaları çözümleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İdare mahkemelerine",
+                "B": "Vergi mahkemelerine",
+                "C": "Danıştaya",
+                "D": "İdare mahkemesi başkanına",
+                "E": "Kıdemli üyeye"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Özel Kanunlarda Danıştayın görevli olduğu belirtilen ve İdari Yargılama Usulü Kanunu ile idare mahkemelerinin görevli kılınmış bulunduğu davaları çözümler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre;\n\nI. Genel bütçe\nII. İl özel idareleri\nIII. İmtiyaz şartlaşma ve sözleşmesiyle yetkilendirilen kurumlar\n\nyukarıdakilerden hangisine veya hangilerine ait vergi, resim ve harçlar ile benzeri mali yükümlere ilişkin davaları çözümlemek vergi mahkemelerinin görevleri arasında yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim ve harçlar...' hükmüne dayanmaktadır. İmtiyaz sözleşmeleri Madde 5 kapsamında idare mahkemelerinin istisnai konuları arasında zikredilmiş olup vergi mahkemelerinin görev alanında sayılmamıştır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, genel bütçeye, il özel idarelerine, belediyelere ve köylere ait vergi, resim ve harçlar ile benzeri mali yükümler konusunda Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un uygulanmasından doğan uyuşmazlıklarda aşağıdaki mahkemelerden veya mercilerden hangisi yetkilidir?",
+            "secenekler": {
+                "A": "İdare Mahkemeleri",
+                "B": "Vergi Mahkemeleri",
+                "C": "İlk derece mahkemesi sıfatıyla Danıştay",
+                "D": "İl Özel İdareleri",
+                "E": "Belediyeler"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Vergi mahkemeleri: ... (a) bendindeki konularda 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulanmasına ilişkin davaları çözümler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, aşağıdakilerden hangisi vergi mahkemelerinin çözeceği davalar arasında yer almaz?",
+            "secenekler": {
+                "A": "Genel bütçeye ait vergi, resim ve harçlara ilişkin davalar",
+                "B": "İl özel idarelerine ait mali yükümler ve bunların zamlarına ilişkin davalar",
+                "C": "Belediyelere ait vergi, resim ve harçların tarifelerine ilişkin davalar",
+                "D": "Kamu iktisadi teşebbüslerine ait mali yükümlere ilişkin davalar",
+                "E": "Köylere ait vergi ve resimlerin cezalarına ilişkin davalar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim ve harçlar ile benzeri mali yükümler...' hükmüne dayanmaktadır. Kamu iktisadi teşebbüsleri bu kurumlar arasında sayılmamıştır."
+        },
+        {
+            "soru": "A kişisi, bir belediye tarafından kendisine tahakkuk ettirilen dört yüz bin Türk Lirası tutarındaki vergi cezasına karşı dava açmak istemektedir. 2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bu uyuşmazlığın çözümüyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Dava, idare mahkemesinde heyet hâlinde incelenerek karara bağlanır.",
+                "B": "Uyuşmazlık, vergi mahkemesi hâkimlerinden biri tarafından tek hâkimle çözümlenir.",
+                "C": "Dava, miktarı dört yüz seksen altı bin Türk Lirasını aşmadığı için ilk derecede Danıştayda görülür.",
+                "D": "Uyuşmazlık, idare mahkemesi hâkimlerinden biri tarafından tek hâkimle çözümlenir.",
+                "E": "Dava, vergi mahkemesinde heyet hâlinde incelenerek karara bağlanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6 ve Madde 7'de belirtilen belediyelere ait vergi cezalarına ilişkin davaların vergi mahkemesinde görüleceği ve toplam değeri yirmibeşbin Türk Lirasını aşmayan davaların vergi mahkemesi hâkimlerinden biri tarafından çözümleneceği hükümlerine dayanmaktadır. Her ne kadar madde metninde yirmibeşbin Türk Lirası yazıyor olsa da soru 2026 güncel sınırlarına göre düzenlenmiştir."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulanmasına ilişkin davaların vergi mahkemelerinde çözümlenebilmesi için aşağıdaki şartlardan hangisinin gerçekleşmesi gerekir?",
+            "secenekler": {
+                "A": "Uyuşmazlık miktarının dört yüz seksen altı bin Türk Lirasını aşmaması",
+                "B": "Davanın; genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim, harç ve benzeri mali yükümler ile ilgili olması",
+                "C": "Davanın konusu belli parayı içeren bir idari işlemden kaynaklanması",
+                "D": "Uyuşmazlığın mahkeme başkanı tarafından önceden tespit edilmiş olması",
+                "E": "Davanın tam yargı davası niteliğinde olması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen '(a) bendindeki konularda 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulanmasına ilişkin davaları... Çözümler.' hükmüne dayanmaktadır. (a) bendi genel bütçeye, il özel idareleri, belediye ve köylere ait mali yükümleri kapsamaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, tek hâkimle çözümlenecek davaların hâkimler arasında dağılımına ilişkin esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Hakimler ve Savcılar Kurulu",
+                "C": "Mahkeme başkanı",
+                "D": "Kıdemli üye",
+                "E": "Danıştay Başkanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Bu tür davaların hakimler arasında dağılımına ilişkin esaslar, işlerde denge sağlanacak biçimde mahkeme başkanı tarafından önceden tespit edilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, uyuşmazlık miktarı dört yüz seksen altı bin Türk Lirasını aşmayan aşağıdaki davalardan hangisi veya hangileri idare mahkemesi hâkimlerinden biri tarafından tek hâkimle çözümlenir?\n\nI. Konusu belli parayı içeren idarî işlemlere karşı açılan iptal davaları\nII. Tam yargı davaları\nIII. Düzenleyici işlemlere karşı açılan iptal davaları",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Uyuşmazlık miktarı yirmibeşbin Türk Lirasını aşmayan; a) Konusu belli parayı içeren idarî işlemlere karşı açılan iptal davaları, b) Tam yargı davaları, İdare mahkemesi hâkimlerinden biri tarafından çözümlenir.' hükmüne dayanmaktadır. Her ne kadar madde metninde yirmibeşbin Türk Lirası yazıyor olsa da soru 2026 güncel sınırlarına göre düzenlenmiştir."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, A kişisi, konusu belli bir parayı içeren ve uyuşmazlık miktarı dört yüz bin Türk Lirası olan bir idari işleme karşı iptal davası açmıştır. Olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Dava, uyuşmazlık miktarına bakılmaksızın mahkeme heyeti tarafından karara bağlanır.",
+                "B": "Dava, idare mahkemesi hâkimlerinden biri tarafından tek hâkimle çözümlenir.",
+                "C": "Davanın hangi hâkim tarafından çözümleneceği bölge idare mahkemesi başkanlığınca belirlenir.",
+                "D": "Dava, miktar itibarıyla doğrudan vergi mahkemesinin görev alanına girer.",
+                "E": "Davanın tek hâkimle çözümlenebilmesi için uyuşmazlık miktarının üç yüz elli bin Türk Lirasını aşmaması gerekir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Uyuşmazlık miktarı yirmibeşbin Türk Lirasını aşmayan; konusu belli parayı içeren idarî işlemlere karşı açılan iptal davaları idare mahkemesi hâkimlerinden biri tarafından çözümlenir.' hükmüne dayanmaktadır. Her ne kadar madde metninde yirmibeşbin Türk Lirası yazıyor olsa da soru 2026 güncel sınırlarına göre düzenlenmiştir."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, idare mahkemelerinde tek hâkimle çözümlenecek davalarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Konusu belli parayı içeren idari işlemlere karşı açılan iptal davaları, uyuşmazlık miktarına bakılmaksızın tek hâkimle çözümlenir.",
+                "B": "Uyuşmazlık miktarı dört yüz seksen altı bin Türk Lirasını aşmayan tam yargı davaları idare mahkemesi hâkimlerinden biri tarafından çözümlenir.",
+                "C": "Tek hâkimle çözümlenecek davaların hâkimler arasında dağılımına ilişkin esaslar, Adalet Bakanlığı tarafından belirlenir.",
+                "D": "Toplam değeri dört yüz seksen altı bin  Türk Lirasını aşmayan tüm davalar yalnızca vergi mahkemesi hâkimleri tarafından çözümlenir.",
+                "E": "İdare mahkemesinde tek hâkimle çözümlenecek davaların dağılımı, dava açılış sırasına göre otomatik olarak yapılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Uyuşmazlık miktarı yirmibeşbin Türk Lirasını aşmayan; ... Tam yargı davaları, İdare mahkemesi hâkimlerinden biri tarafından çözümlenir.' hükmüne dayanmaktadır. Her ne kadar madde metninde yirmibeşbin Türk Lirası yazıyor olsa da soru 2026 güncel sınırlarına göre düzenlenmiştir."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bir il özel idaresine ait mali yükümlerin zam ve cezalarına ilişkin dört yüz bin Türk Lirası değerindeki bir uyuşmazlık ortaya çıkmıştır. Olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu dava, idare mahkemesi hâkimlerinden biri tarafından çözümlenir.",
+                "B": "Bu tür davaların hâkimler arasındaki dağılımı, uyuşmazlık ortaya çıktıktan sonra tespit edilir.",
+                "C": "Bu uyuşmazlığın hangi hâkim tarafından çözüleceği, bölge idare mahkemesi başkanlığı tarafından belirlenir.",
+                "D": "Bu dava, miktar  dört yüz seksen altı bin  Türk Lirasını aşmadığı için mahkeme başkanı tarafından bizzat çözümlenir.",
+                "E": "Bu dava, miktar  dört yüz seksen altı bin  Türk Lirasını aşmadığı için vergi mahkemesi hâkimlerinden biri tarafından çözümlenir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen '6 ncı maddenin (a) ve (b) bentlerinde belirtilen uyuşmazlıklardan kaynaklanan toplam değeri yirmibeşbin Türk Lirasını aşmayan davalar, vergi mahkemesi hâkimlerinden biri tarafından çözümlenir.' hükmüne dayanmaktadır.  Her ne kadar madde metninde yirmibeşbin Türk Lirası yazıyor olsa da soru 2026 güncel sınırlarına göre düzenlenmiştir."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, mahkeme başkanları mahkemelerindeki işlerin durumu ve bunların yürütülmesindeki aksaklıkların sebepleri hakkındaki raporu hangi periyotla ve hangi makama sunmakla görevlidir?",
+            "secenekler": {
+                "A": "Her adli yılın başında / Adalet Bakanlığına",
+                "B": "Her takvim yılı sonunda / Bölge idare mahkemesi başkanlığına",
+                "C": "Her altı ayda bir / Hakimler ve Savcılar Kuruluna",
+                "D": "Her takvim yılı sonunda / Danıştay Başkanlığına",
+                "E": "Her adli yılın sonunda / Bölge idare mahkemesi başkanlığına"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Her takvim yılı sonunda, mahkemelerindeki işlerin durumu ve bunların yürütülmesinde aksaklıklar varsa sebepleri hakkında bölge idare mahkemesi başkanlığına bir rapor verirler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, mahkeme başkanlarının görevleri arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Görüşme ve duruşmaları yönetmek\nII. Her takvim yılı sonunda, mahkemelerindeki işlerin durumu hakkında Adalet Bakanlığına bir rapor vermek\nIII. Mahkemelerinde görevli bulunanların düzenli çalışmalarını sağlamak",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen hükümlere dayanmaktadır. Madde 10/b uyarınca mahkeme başkanları raporlarını Adalet Bakanlığına değil, bölge idare mahkemesi başkanlığına verirler. Bu nedenle II. öncül yanlıştır. I ve III numaralı öncüller ise Madde 10/a'da açıkça sayılan görevlerdendir."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, mahkeme başkanlarının görevleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mahkemelerindeki işlerin durumu hakkındaki raporu her adli yılın başında Adalet Bakanlığına sunarlar.",
+                "B": "Her takvim yılı sonunda, mahkemelerindeki işlerin durumu hakkında bölge idare mahkemesi başkanlığına bir rapor verirler.",
+                "C": "Mahkemelerindeki işlerin yürütülmesindeki aksaklıkları altı ayda bir Hâkimler ve Savcılar Kuruluna bildirirler.",
+                "D": "Görüşme ve duruşmaları yönetirler ancak mahkeme kararlarında oy kullanma yetkileri yoktur.",
+                "E": "Aynı yargı çevresindeki mahkemeler arasındaki iş bölümünü gelen işlerin yoğunluğuna göre resen belirlerler."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Her takvim yılı sonunda, mahkemelerindeki işlerin durumu ve bunların yürütülmesinde aksaklıklar varsa sebepleri hakkında bölge idare mahkemesi başkanlığına bir rapor verirler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, mahkeme üyelerinin görevleri arasında aşağıdakilerden hangisi veya hangileri yer alır?\n\nI. Başkanlar tarafından kendilerine verilen dosyaları geciktirmeden incelemek\nII. Mahkeme kuruluna gerekli açıklamaları yapmak\nIII. Kararları yazmak",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Üyeler, bulundukları mahkemelerde başkanlar tarafından kendilerine verilen dosyaları geciktirmeden inceleyerek mahkeme kuruluna gerekli açıklamaları yaparlar, düşünce ve görüşlerini bildirirler, oylarını verirler, kararları yazarlar...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, mahkeme üyelerinin görevleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Başkanlar tarafından kendilerine verilen dosyaları geciktirmeden incelerler.",
+                "B": "Mahkeme kuruluna inceledikleri dosyalarla ilgili gerekli açıklamaları yaparlar.",
+                "C": "Mahkemeye gelen dosyaların üyelere dağıtımını bizzat gerçekleştirirler.",
+                "D": "Kurulda düşünce ve görüşlerini bildirerek oylarını verirler.",
+                "E": "Kararları yazarlar ve başkan tarafından verilen mahkeme ile ilgili diğer işleri görürler."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'Üyeler, bulundukları mahkemelerde başkanlar tarafından kendilerine verilen dosyaları geciktirmeden inceleyerek...' hükmüne dayanmaktadır. Dosyaların üyelere verilmesi (dağıtımı) üyelerin değil, başkanın görevidir."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, üyelerin görevleri arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Başkanlar tarafından kendilerine verilen dosyaları geciktirmeden incelemek",
+                "B": "Mahkeme kuruluna gerekli açıklamaları yapmak",
+                "C": "Düşünce ve görüşlerini bildirmek",
+                "D": "Kararları yazmak",
+                "E": "Mahkeme kaleminin denetimini yapmak"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen üyelerin görevleri arasında 'mahkeme kaleminin denetimini yapmak' şeklinde bir görevin bulunmamasına dayanmaktadır. Üyeler; dosyaları inceler, açıklama yapar, görüş bildirir, oy verir, karar yazar ve başkan tarafından verilen diğer işleri görürler."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, üyelerin inceleyeceği dosyaları vermek ve mahkeme ile ilgili diğer işleri onlara tevdi etmek yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Mahkeme kurulu",
+                "B": "Başkan",
+                "C": "Adalet Komisyonu",
+                "D": "Başsavcı",
+                "E": "Kıdemli üye"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'başkanlar tarafından kendilerine verilen dosyaları' ve 'kendilerine başkan tarafından verilen diğer işleri görürler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, gerekli görülen yerlerde idari, mali ve teknik işlerle ilgili müdürlüklerin kurulmasına karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Hakimler ve Savcılar Kurulu",
+                "C": "Danıştay Başkanlığı",
+                "D": "Cumhurbaşkanlığı",
+                "E": "İlgili Mahkeme Başkanlığı"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Adalet Bakanlığınca gerekli görülen yerlerde ayrıca idari, mali ve teknik işlerle ilgili müdürlükler kurulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, müdürlükler ve mahkeme memurları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her mahkemede bir yazı işleri müdürlüğü kurulur.",
+                "B": "İdari, mali ve teknik işlerle ilgili müdürlükler her mahkemede zorunlu olarak kurulur.",
+                "C": "Her müdürlükte en az üç memur bulunması zorunludur.",
+                "D": "Yazı işleri müdürlüklerinin kurulmasına mahkeme başkanı karar verir.",
+                "E": "Mahkemelerdeki müdürlüklerde yalnızca bir müdür görev yapar, memur ataması yapılmaz."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Her mahkemede bir yazı işleri müdürlüğü kurulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, müdürlükler ve mahkeme memurları ile ilgili,\n\nI. Her mahkemede bir yazı işleri müdürlüğü kurulur.\nII. İdari, mali ve teknik işlerle ilgili müdürlükler her mahkemede zorunlu olarak kurulur.\nIII. Her müdürlükte bir müdür ile yeteri kadar memur bulunur.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Her mahkemede bir yazı işleri müdürlüğü kurulur.' ve 'Her müdürlükte bir müdür ile yeteri kadar memur bulunur.' hükümlerine dayanmaktadır. İdari, mali ve teknik müdürlükler her mahkemede zorunlu değil, yalnızca Adalet Bakanlığınca gerekli görülen yerlerde kurulur."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, vergi mahkemelerinin göreve başlamasıyla diğer kanunlarda yer alan deyimlerin kazandığı yeni anlamlara ilişkin aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İtiraz komisyonu - Vergi Mahkemesi",
+                "B": "Vergi ihtilafı - Vergi davası",
+                "C": "İtiraz - Vergi mahkemesinde dava açılması",
+                "D": "Gümrük Hakem Kurulu - Vergi Mahkemesi",
+                "E": "Vergiler Temyiz Komisyonu - Danıştay"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Vergiler Temyiz Komisyonu deyimi, Vergi Mahkemesi anlamını taşır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, vergi mahkemelerinin göreve başlamasıyla diğer kanunlarda yer alan bazı deyimlerin taşıdığı anlamlar değişmiştir. Buna göre;\n\nI. İtiraz komisyonu deyimi, Vergi Mahkemesi anlamını taşır.\nII. Vergi ihtilafı deyimi, vergi davası anlamını taşır.\nIII. İtiraz deyimi, Danıştayda dava açılması anlamını taşır.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'İtiraz komisyonu... deyimleri, Vergi Mahkemesi; Vergi ihtilafı deyimi, vergi davası; İtiraz deyimi, vergi mahkemesinde dava açılması anlamını taşır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, vergi mahkemelerinin görev alanına giren konularla ilgili olarak diğer kanunlarda yer alan 'vergi ihtilafı' ve 'itiraz' deyimleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "'Vergi ihtilafı' deyimi vergi mahkemesinde dava açılmasını, 'itiraz' deyimi ise vergi davasını ifade eder.",
+                "B": "'Vergi ihtilafı' deyimi vergi davasını, 'itiraz' deyimi ise vergi mahkemesinde dava açılmasını ifade eder.",
+                "C": "Her iki deyim de vergi mahkemesinde dava açılmasını ifade eder.",
+                "D": "Her iki deyim de vergi davasını ifade eder.",
+                "E": "'Vergi ihtilafı' deyimi idari başvuruyu, 'itiraz' deyimi ise yargısal denetimi ifade eder."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Vergi ihtilafı deyimi, vergi davası; İtiraz deyimi, vergi mahkemesinde dava açılması anlamını taşır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinin idari işleri ile kalem hizmetlerinin yürütülmesi usul ve esaslarını düzenleyen yönetmeliği çıkarma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Hâkimler ve Savcılar Kurulu",
+                "B": "Danıştay Başkanlığı",
+                "C": "Adalet Bakanlığı",
+                "D": "Cumhurbaşkanlığı",
+                "E": "Türkiye Barolar Birliği"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinin idari işleri ile kalem hizmetlerinin yürütülmesi usul ve esasları Adalet Bakanlığınca çıkarılacak bir yönetmelikte gösterilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, idare ve vergi mahkemelerinin göreve başladığı tarihte;\n\nI. Vergi itiraz komisyonları\nII. Vergiler Temyiz Komisyonu\nIII. Gümrük Hakem Kurulu\n\nkurullarından hangisi veya hangilerinin kuruluşuna ilişkin hükümler yürürlükten kalkar?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I ve II"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Vergi itiraz komisyonlarının ve Vergiler Temyiz Komisyonunun kuruluşuna ilişkin hükümler birinci fıkrada gösterilen tarihte yürürlükten kalkar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, Kanun'un yürürlüğe girmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yayımı tarihinden itibaren altı ay sonra yürürlüğe girer.",
+                "B": "Türkiye Büyük Millet Meclisi tarafından kabul edildiği tarihte yürürlüğe girer.",
+                "C": "Yayımı tarihinde yürürlüğe girer.",
+                "D": "Yayımını izleyen ayın başında yürürlüğe girer.",
+                "E": "Cumhurbaşkanı tarafından onaylandığı tarihte yürürlüğe girer."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Bu Kanun yayımı tarihinde yürürlüğe girer.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, tek hâkimle çözümlenecek davalara ilişkin parasal sınırların artırılması ve uygulanması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Parasal sınırlar her yıl, Türkiye İstatistik Kurumu tarafından belirlenen enflasyon oranında artırılır.",
+                "B": "Belirlenen sınırların beş bin Türk lirasını aşmayan kısımları dikkate alınmaz.",
+                "C": "Tek hâkimle çözümlenecek davaların belirlenmesinde karar tarihindeki parasal sınır esas alınır.",
+                "D": "Miktar artırımı yapılan hâllerde, artırımın yapıldığı tarihteki parasal sınır esas alınır.",
+                "E": "Artırılan parasal sınırlar, her yıl mali yılın ortasından itibaren geçerli olmak üzere uygulanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Miktar artırımı yapılan hâllerde ise artırımın yapıldığı tarihteki parasal sınır esas alınır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, tek hâkimle çözümlenecek davalara ilişkin parasal sınırların yeniden değerleme oranında artırılması suretiyle belirlenmesinde, sınırların .................... aşmayan kısımları dikkate alınmaz. Bu cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+            "secenekler": {
+                "A": "yüz Türk lirasını",
+                "B": "beş yüz Türk lirasını",
+                "C": "bin Türk lirasını",
+                "D": "beş bin Türk lirasını",
+                "E": "on bin Türk lirasını"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Bu şekilde belirlenen sınırların bin Türk lirasını aşmayan kısımları dikkate alınmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, tek hâkimle çözümlenecek davalara ilişkin parasal sınırların artırılması hususunda;\n\nI. Parasal sınırlar her yıl, bir önceki yıla ilişkin olarak tespit ve ilan edilen yeniden değerleme oranında artırılır.\nII. Belirlenen sınırların bin Türk lirasını aşmayan kısımları dikkate alınmaz.\nIII. Tek hâkimle çözümlenecek davaların belirlenmesinde kural olarak davanın karara bağlandığı tarihteki parasal sınır esas alınır.\n\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Bu şekilde belirlenen sınırların bin Türk lirasını aşmayan kısımları dikkate alınmaz.' ve 'Tek hâkimle çözümlenecek davaların belirlenmesinde dava tarihindeki... parasal sınır esas alınır.' hükümlerine dayanmaktadır. III. öncül dava tarihi yerine karar tarihi dediği için yanlıştır."
+        },
+        {
+            "soru": "2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'a göre, tek hâkimle çözümlenecek davaların belirlenmesinde kural olarak hangi tarihteki parasal sınır esas alınır?",
+            "secenekler": {
+                "A": "İdari işlemin tesis edildiği tarihteki",
+                "B": "Dava tarihindeki",
+                "C": "Mahkeme kararının verildiği tarihteki",
+                "D": "Uyuşmazlığın doğduğu tarihteki",
+                "E": "Yeniden değerleme oranının ilan edildiği tarihteki"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Tek hâkimle çözümlenecek davaların belirlenmesinde dava tarihindeki, miktar artırımı yapılan hâllerde ise artırımın yapıldığı tarihteki parasal sınır esas alınır.' hükmüne dayanmaktadır."
+        }
+    ]
+}

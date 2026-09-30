@@ -1,0 +1,124 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "210 Sayılı Değerli Kağıtlar Kanunu'na göre, değerli kağıtların başımı, dağıtımı ve bedellerinin tahsili ile ilgili usul ve esasları belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Maliye Bakanlığı",
+                "B": "Adalet Bakanlığı",
+                "C": "Darphane ve Damga Matbaası Genel Müdürlüğü",
+                "D": "İlgili bakanlık ve daireler",
+                "E": "Kamu kurumu niteliğindeki meslek kuruluşları"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen '...değerli kağıtların basımı, dağıtımı ve bedellerinin tahsili ile ilgili usul ve esasları ve bu kağıtların bedellerini tespite Maliye Bakanlığı yetkilidir.' hükmüne dayanmaktadır. Diğer seçeneklerde yer alan kurum ve kuruluşların bu konuda genel yetkili olarak belirlenmemiş olması nedeniyle bu şıklar yanlıştır."
+        },
+        {
+            "soru": "210 Sayılı Değerli Kağıtlar Kanunu'na göre, değerli kâgitların kullanımıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlgili oldukları işlemlerde kullanılması bir zorunluluktur.",
+                "B": "Kullanımı, işlemin taraflarının ortak rızasına bağlıdır.",
+                "C": "Sadece Maliye Bakanlığınca belirlenen özel durumlarda kullanılması gerekir.",
+                "D": "İlgili dairelerin takdirine bağlı olarak kullanımdan vazgeçilebilir.",
+                "E": "Yalnızca kamu kurumları arasındaki işlemlerde kullanılması mecburidir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Değerli kâğıtların ilgili bulundukları işlemlerde kullanılması mecburidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen bu kullanım mecburiyetini; tarafların rızasına, idarenin takdirine veya belirli kurumlarla sınırlı bir duruma bağladığı için yanlıştır."
+        },
+        {
+            "soru": "210 Sayılı Değerli Kağıtlar Kanunu'na göre, satılan çeklere ilişkin değerli kâgit bedellerinin, kanunda belirtilen istisnalar hariç olmak üzere, bankalarca ilgili mal sandıklarına ödenmesi için belirlenen son gün aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Her ayın ilk iş günü akşamına kadar",
+                "B": "Her ayın yedinci günü akşamına kadar",
+                "C": "Her ayın on beşinci günü akşamına kadar",
+                "D": "İlgili ayı takip eden ayın sonuna kadar",
+                "E": "Her üç ayda bir, dönemin son iş günü akşamına kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3'te yer alan '...değerli kâğıt bedelleri, bankalarca her ayın yedinci günü akşamına kadar ilgili mal sandıklarına ödenir.' hükmüne dayanmaktadır. - Diğer seçeneklerde belirtilen süreler kanunda yer almamaktadır ve çeldirici olarak kurgulanmıştır."
+        },
+        {
+            "soru": "210 Sayılı Değerli Kağıtlar Kanunu'na göre, değerli kağıtların hazırlanması, başımı ve bedellerinin tespiti ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Değerli kağıtların bedellerini tespite Maliye Bakanlığı yetkilidir.",
+                "B": "Değerli kağıtlar, ilgili bakanlık ve dairelerin mütalaası alınarak Maliye Bakanlığınca hazırlanır ve bastırılır.",
+                "C": "Kamu kurumu niteliğindeki meslek kuruluşları, Maliye Bakanlığının muvafakati ile değerli kağıt hazırlayabilir.",
+                "D": "Çekler, Maliye Bakanlığının belirlediği usul ve esaslara göre ilgili bankalarca bastırılır ve satılır.",
+                "E": "İlgili bakanlıklar, Maliye Bakanlığından bağımsız olarak değerli kağıt hazırlayıp bastırma yetkisine sahiptir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Maliye Bakanlığının muvafakati ile ilgili bakanlık, daireler veya kamu kurumu niteliğindeki meslek kuruluşları tarafından hazırlanıp bastırılması' hükmüne dayanmaktadır. İlgili bakanlıkların bu işlemi yapabilmesi Maliye Bakanlığının muvafakatine bağlıdır, bağımsız bir yetkileri yoktur.\n- Diğer seçenekler: Madde 1 ve Madde 3'te yer alan yetki ve usullere ilişkin doğru ifadeler olduğu için yanlıştır."
+        },
+        {
+            "soru": "210 Sayılı Değerli Kağıtlar Kanunu'na göre, değerli kağıtların kapsamı, satışı ve bedellerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Elektronik imza kullanılarak manyetik ortamda oluşturulan noter belgeleri değerli kağıt kapsamı dışındadır.",
+                "B": "Değerli kağıtlar, ilgililere kanuna bağlı tablodaki bedellerden bağımsız olarak, Maliye Bakanlığının belirlediği güncel kur üzerinden satılır.",
+                "C": "Çek bedelleri, bankalarca tahsil edildikten sonra herhangi bir kesinti yapılmaksızın tamamıyla banka uhdesinde kalır.",
+                "D": "Değerli kağıtlar, yalnızca Maliye Bakanlığına bağlı malsandıkları tarafından satılabilir.",
+                "E": "Bankalarca satılan çeklerin değerli kâğıt bedelleri, her ayın yedinci günü akşamına kadar ilgili mal sandıklarına ödenir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Satılan çeklerin ... değerli kâğıt bedelleri, bankalarca her ayın yedinci günü akşamına kadar ilgili mal sandıklarına ödenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği Madde 1'e, B seçeneği Madde 4'e, C ve D seçenekleri ise Madde 3'teki hükümlere aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "210 Sayılı Değerli Kağıtlar Kanunu'na göre, değerli kağıtların ilgililere satışı hangi bedel üzerinden gerçekleştirilir?",
+            "secenekler": {
+                "A": "Maliye Bakanlığınca her mali yıl başında ilan edilen tarifeler üzerinden",
+                "B": "İlgili bakanlık ve dairelerin mütalaası alınarak belirlenen değerler üzerinden",
+                "C": "Bu kanuna bağlı tabloda gösterilen bedeller karşılığında",
+                "D": "Malsandıklarınca veya tayin edilecek yerlerce serbestçe belirlenen fiyatlarla",
+                "E": "Kamu kurumu niteliğindeki meslek kuruluşlarının tavsiye ettiği ücretler üzerinden"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Değerli kağıtlar ilgililere, bu kanuna bağlı tabloda gösterilen bedeller karşılığında satılır' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen usuller, kanunda değerli kağıtların satış bedelinin tespiti için öngörülen yöntemler arasında yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "210 Sayılı Değerli Kağıtlar Kanunu'na göre, değerli kağıtların ilgililere satılmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Değerli kağıtların bedeli, her yıl Maliye Bakanlığı tarafından yeniden belirlenir.",
+                "B": "Değerli kağıtlar, kanuna bağlı tabloda gösterilen bedeller karşılığında satılır.",
+                "C": "Değerli kağıtlar, acil durumlarda ilgililere bedelsiz olarak verilebilir.",
+                "D": "Değerli kağıtların satış bedeli, satışı yapan kurumun takdirine bırakılmıştır.",
+                "E": "Değerli kağıtların bedeli, piyasa arz ve talep koşullarına göre dalgalanma gösterebilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Değerli kağıtlar ilgililere, bu kanuna bağlı tabloda gösterilen bedeller karşılığında satılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda değerli kağıt bedellerinin Maliye Bakanlığı tarafından belirlenmesi, bedelsiz verilmesi, kurum takdirine bırakılması veya piyasa koşullarına göre değişmesi gibi usuller öngörülmediği için yanlıştır. Bedel, kanuna ekli tabloda açıkça belirtilmiştir."
+        },
+        {
+            "soru": "210 Sayılı Değerli Kağıtlar Kanunu'na göre, noter kâgitları yerine adı kâgit kullanılması durumunda değerli kağıt bedelini tahsil etme mecburiyetine uymayan bir noter hakkında uygulanacak ceza, tahsil edilecek bedelin ne kadarıdır?",
+            "secenekler": {
+                "A": "Tahsil edilecek bedelin kendisi kadar",
+                "B": "Tahsil edilecek bedelin iki katı tutarında",
+                "C": "Tahsil edilecek bedelin yarısı kadar",
+                "D": "Tabloda gösterilen bedelin on katı tutarında",
+                "E": "Tahsil edilecek bedelin üç katı tutarında"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Bu mecburiyete uymayan noterlerden birinci fıkraya göre tahsil edilecek bedelin üç katı tutarında ceza alınır.' hükmüne dayanmaktadır. Diğer seçeneklerde belirtilen oranlar kanunda yer almamaktadır ve bu nedenle yanlıştır."
+        },
+        {
+            "soru": "210 Sayılı Değerli Kağıtlar Kanunu'na göre, bir noterin, kanunen noter kâgidi kullanması gereken bir işlemde adı kâgit kullandığı ve bu evraka ait değerli kağıt bedelini tahsil etmediği tespit edilmiştir. Bu durumda notere uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İşlemin iptal edilerek yeniden yapılması istenir.",
+                "B": "Tahsil etmediği değerli kağıt bedelinin üç katı tutarında ceza alınır.",
+                "C": "Sadece tahsil etmediği değerli kağıt bedeli kendisinden tahsil edilir.",
+                "D": "Notere yazılı bir ihtar verilir ve bedel müşteriden talep edilir.",
+                "E": "Değerli kağıt bedelinin beş katı tutarında idari para cezası uygulanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Bu mecburiyete uymayan noterlerden birinci fıkraya göre tahsil edilecek bedelin üç katı tutarında ceza alınır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda yer almayan yaptırımlar veya yanlış ceza miktarları içerdiği için hatalıdır."
+        },
+        {
+            "soru": "210 Sayılı Değerli Kağıtlar Kanunu'na göre, değerli kağıtların bedeli karşılığında satılması esası dikkate alındığında, noter kâgitları yerine adı kâgit kullanılması halinde uygulanacak usul ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Adi kâğıt kullanıldığı için değerli kağıt bedeli alınmaz.",
+                "B": "Noter, ilgili evraka ait değerli kağıt bedelini tahsil etmekle yükümlüdür.",
+                "C": "Kullanılan adi kâğıdın bedeli, değerli kağıt bedelinden düşülür.",
+                "D": "İşlem geçerliliğini korur ancak noter hakkında disiplin soruşturması başlatılır.",
+                "E": "Değerli kağıt bedelini ödeme yükümlülüğü doğrudan işlemi yaptıran kişiye geçer."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'Bu Kanunda yazılı noter kâğıtları yerine adi kâğıt kullanılması halinde, bu evraka ait değerli kağıt bedeli noterlerce tahsil edilir.' hükmüne dayanmaktadır. Bu hüküm, Madde 4'teki genel bedel karşılığı satış kuralının özel bir uygulama şeklini düzenler.\n- Diğer seçenekler: Kanunda yer almayan veya kanuna aykırı olan usuller belirttiği için yanlıştır."
+        }
+    ]
+}

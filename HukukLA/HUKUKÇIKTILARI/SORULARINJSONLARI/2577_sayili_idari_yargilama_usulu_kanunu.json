@@ -1,0 +1,2320 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, görevine giren uyuşmazlıkların çözümü bu Kanun'da gösterilen usullere tabi olan yargı mercileri arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Danıştay",
+                "B": "Bölge idare mahkemeleri",
+                "C": "İdare mahkemeleri",
+                "D": "Vergi mahkemeleri",
+                "E": "Sulh ceza hakimlikleri"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Danıştay, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinin görevine giren uyuşmazlıkların çözümü, bu Kanunda gösterilen usullere tabidir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, Danıştay, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinde uygulanan yargılama usulü ve inceleme yöntemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sözlü yargılama usulü uygulanır ve inceleme duruşmalı olarak yapılır.",
+                "B": "Yazılı yargılama usulü uygulanır ve inceleme evrak üzerinde yapılır.",
+                "C": "Basit yargılama usulü uygulanır ve inceleme tanık beyanlarına dayanır.",
+                "D": "Seri yargılama usulü uygulanır ve inceleme sadece bilirkişi raporuyla sınırlıdır.",
+                "E": "Yazılı yargılama usulü uygulanır ancak inceleme mutlaka taraf beyanları dinlenerek yapılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'yazılı yargılama usulü uygulanır ve inceleme evrak üzerinde yapılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari eylem ve işlemlerden dolayı kişisel hakları doğrudan muhtel olanlar tarafından açılan dava türü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İptal davası",
+                "B": "Tespit davası",
+                "C": "Rücu davası",
+                "D": "Tam yargı davası",
+                "E": "Menfi tespit davası"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'İdari eylem ve işlemlerden dolayı kişisel hakları doğrudan muhtel olanlar tarafından açılan tam yargı davaları' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari dava türleri arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "İdari işlemler hakkında yetki yönünden hukuka aykırı oldukları iddiasıyla açılan iptal davaları",
+                "B": "İdari eylemlerden dolayı kişisel hakları doğrudan muhtel olanlar tarafından açılan tam yargı davaları",
+                "C": "Tahkim yolu öngörülen imtiyaz şartlaşma ve sözleşmelerinden doğan uyuşmazlıklara ilişkin davalar",
+                "D": "Kamu hizmetlerinden birinin yürütülmesi için yapılan idari sözleşmelerden dolayı çıkan uyuşmazlıklara ilişkin davalar",
+                "E": "İdari işlemler hakkında maksat yönünden hukuka aykırı oldukları iddiasıyla menfaatleri ihlal edilenlerce açılan iptal davaları"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Tahkim yolu öngörülen imtiyaz şartlaşma ve sözleşmelerinden doğan uyuşmazlıklar hariç' ifadesiyle bu tür uyuşmazlıkların idari dava türleri kapsamı dışında tutulması hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari dava dilekçelerinde bulunması gereken hususlarla arasında; \nI. Gerçek kişilere ait Türkiye Cumhuriyeti kimlik numarası\nII. Davaya konu olan idari işlemin yazılı bildirim tarihi\nIII. Tam yargı davalarında uyuşmazlık konusu miktar\nyukarıdaki öncüllerinden hangisi veya hangileri yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen dilekçelerde gösterilecek hususlar (TC kimlik no, bildirim tarihi, uyuşmazlık konusu miktar) hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava dilekçeleri ile bunlara ekli evrakın örneklerinin sayısı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Karşı taraf sayısından iki fazla olur.",
+                "B": "Karşı taraf sayısı kadar olur.",
+                "C": "Mahkeme üye sayısı kadar olur.",
+                "D": "Karşı taraf sayısından bir fazla olur.",
+                "E": "Her durumda sabit olarak üç nüsha olur."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Dilekçeler ile bunlara ekli evrakın örnekleri karşı taraf sayısından bir fazla olur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari davaların açılması için hazırlanan dilekçelerde bulunması zorunlu olan hususlardan biri değildir?",
+            "secenekler": {
+                "A": "Davacının doğum yeri ve tarihi",
+                "B": "Tarafların ve varsa vekillerinin ad ve soyadları",
+                "C": "Gerçek kişilere ait Türkiye Cumhuriyeti kimlik numarası",
+                "D": "Davaya konu olan idari işlemin yazılı bildirim tarihi",
+                "E": "Davanın konu ve sebepleri ile dayandığı deliller"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen dilekçe içeriği hükümlerine dayanmaktadır. Kanun metninde ad, soyad, adres, T.C. kimlik numarası, bildirim tarihi, konu ve sebepler sayılmış ancak doğum yeri ve tarihi sayılmamıştır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, vergi davalarına ilişkin dilekçelerde; \n\nI. Davanın ilgili bulunduğu verginin veya vergi cezasının nevi ve yılı,\nII. Tebliğ edilen ihbarnamenin tarihi ve numarası,\nIII. Varsa mükellef hesap numarası\n\nhususlarından hangisinin veya hangilerinin gösterilmesi zorunludur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Vergi davalarında davanın ilgili bulunduğu verginin veya vergi cezasının nevi ve yılı, tebliğ edilen ihbarnamenin tarihi ve numarası ve varsa mükellef hesap numarası... Gösterilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dilekçeler ve davalara ilişkin evrakların verilebileceği yerlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Dilekçeler doğrudan Danıştay Başkanlığına verilebilir.",
+                "B": "Evraklar, ilgili mahkemeye gönderilmek üzere idare mahkemesi başkanlıklarına verilebilir.",
+                "C": "Yabancı memleketlerde bulunanlar, dilekçelerini Türk konsolosluklarına verebilirler.",
+                "D": "İdare veya vergi mahkemesi bulunmayan yerlerde evraklar asliye hukuk hakimliklerine verilebilir.",
+                "E": "İdare mahkemesi bulunmayan yerlerde asliye hukuk hakimliklerine evrak verilebilmesi için yerin büyükşehir belediyesi sınırları dışında olması şarttır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'idare veya vergi mahkemesi bulunmayan yerlerde büyükşehir belediyesi sınırları içerisinde kalıp kalmadığına bakılmaksızın asliye hukuk hakimliklerine' hükmüne dayanmaktadır. Kanun, büyükşehir sınırını bir istisna veya şart olarak kabul etmemiştir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idare veya vergi mahkemesi bulunmayan yerlerde dilekçeler ve savunmalar aşağıdaki mercilerden hangisine verilebilir?",
+            "secenekler": {
+                "A": "Sadece büyükşehir belediyesi sınırları dışındaysa Sulh Hukuk Hakimliklerine",
+                "B": "Büyükşehir belediyesi sınırları içerisinde kalıp kalmadığına bakılmaksızın Asliye Hukuk Hakimliklerine",
+                "C": "İlçe İdare Kurullarına veya Kaymakamlıklara",
+                "D": "Bölge İdare Mahkemesi Başkanlıklarına gönderilmek üzere Noterliklere",
+                "E": "Her durumda en yakın İdare Mahkemesi Başkanlığına bizzat gidilerek"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'idare veya vergi mahkemesi bulunmayan yerlerde büyükşehir belediyesi sınırları içerisinde kalıp kalmadığına bakılmaksızın asliye hukuk hakimliklerine' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, birden fazla şahsın müşterek dilekçe ile dava açabilmesi için gerekli olan şartlar ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Davacıların aynı idari birimde çalışıyor olmaları zorunludur.",
+                "B": "Davaya yol açan maddi olay veya hukuki sebeplerin aynı olması gerekir.",
+                "C": "Davacılar arasında hiyerarşik bir ast-üst ilişkisi bulunmalıdır.",
+                "D": "Sadece maddi olayların aynı olması yeterlidir, hukuki sebep birliği aranmaz.",
+                "E": "Davacıların hak veya menfaatlerinde iştirak bulunmasa dahi, aynı idareye karşı dava açmaları yeterlidir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'in 2. fıkrasında belirtilen 'davaya yol açan maddi olay veya hukuki sebeplerin aynı olması gerekir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, birden fazla idari işleme karşı tek bir dilekçe ile dava açılabilmesi için işlemler arasında bulunması gereken bağ veya ilişki aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Sadece maddi yönden bağlılık bulunması",
+                "B": "İşlemlerin aynı tarihte tesis edilmiş olması",
+                "C": "Maddi veya hukuki yönden bağlılık ya da sebep-sonuç ilişkisi bulunması",
+                "D": "İşlemlerin aynı idari makam tarafından yapılmış olması",
+                "E": "Sadece hukuki yönden bağlılık bulunması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'in 1. fıkrasında belirtilen 'aralarında maddi veya hukuki yönden bağlılık yada sebep-sonuç ilişkisi bulunan birden fazla işleme karşı bir dilekçe ile de dava açılabilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava açılırken harcın veya posta ücretinin eksik yatırılması ve yapılan tebligatlara rağmen süresi içinde tamamlanmaması durumunda uygulanacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dosyanın işlemden kaldırılmasına karar verilir.",
+                "B": "Davanın esastan reddine karar verilir.",
+                "C": "Dilekçenin reddine karar verilir.",
+                "D": "Davanın açılmamış sayılmasına karar verilir.",
+                "E": "Eksik ücretin iki katı tutarında idari para cezası verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 6'nın 4. fıkrasında belirtilen 'Harç veya posta ücreti süresi içinde verilmez veya tamamlanmazsa davanın açılmamış sayılmasına karar verilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava açıldıktan sonra posta ücretinde azalma olması nedeniyle dosyanın işlemden kaldırılmasına karar verilmesi halinde, davanın açılmamış sayılmasına karar verilebilmesi için kararın tebliğinden itibaren geçmesi gereken süre ne kadardır?",
+            "secenekler": {
+                "A": "On beş gün",
+                "B": "Otuz gün",
+                "C": "Altmış gün",
+                "D": "Üç ay",
+                "E": "Bir yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 6'nın 5. fıkrasında belirtilen 'Bu kararın tebliği tarihinden başlayarak üç ay içinde... istenmediği takdirde davanın açılmamış sayılmasına karar verilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava açıldıktan sonra posta ücretinde tebliğ işlemlerinin yapılmasını engelleyecek şekilde azalma olması hâlinde izlenecek usul ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Eksikliğin tamamlanması için ilgiliye otuz gün süre verilir.",
+                "B": "Verilen sürede eksiklik tamamlanmazsa bildirim aynı şekilde bir daha tekrarlanır.",
+                "C": "Bu aşamadaki tebligatlar re'sen genel bütçeden yapılır.",
+                "D": "Posta ücreti verilen süre içinde tamamlanmazsa, doğrudan davanın açılmamış sayılmasına karar verilir.",
+                "E": "Dosyanın işlemden kaldırılmasına karar verilirse, bu kararın tebliğinden itibaren üç ay içinde noksan tamamlanarak yeniden işleme konulması istenebilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen hükümlere dayanmaktadır. Kanun'a göre posta ücreti süresi içinde tamamlanmazsa önce 'dosyanın işlemden kaldırılmasına' karar verilir; doğrudan davanın açılmamış sayılmasına karar verilmez. Davanın açılmamış sayılması, işlemden kaldırma kararından sonraki 3 aylık sürede yenileme yapılmazsa gerçekleşir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, herhangi bir sebeple harcı veya posta ücreti verilmeden dava açılmış olması halinde izlenecek usul ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Dava dilekçesi herhangi bir bildirim yapılmaksızın doğrudan reddedilir.",
+                "B": "Eksikliğin tamamlanması için ilgiliye on beş gün süre verilir.",
+                "C": "Otuz gün içinde eksikliğin tamamlanması tebliğ edilir; tebligata rağmen gereği yerine getirilmezse bildirim bir daha tekrarlanır.",
+                "D": "İlk tebligata rağmen harç veya posta ücreti tamamlanmazsa derhal davanın açılmamış sayılmasına karar verilir.",
+                "E": "Eksiklik tamamlanana kadar dosya işlemden kaldırılır ve üç ay beklenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen '...otuz gün içinde harcın ve posta ücretinin verilmesi ve tamamlanması hususu... ilgiliye tebliğ olunur. Tebligata rağmen gereği yerine getirilmediği takdirde bildirim aynı şekilde bir daha tekrarlanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava dilekçelerinin verilmesi ve kaydı ile ilgili;\n\nI. Dava, dilekçenin harç ve posta ücretleri alındıktan sonra deftere kayıt yapıldığı tarihte açılmış sayılır.\nII. Kanun'da belirtilen diğer yerlere verilen dilekçeler, en geç yedi gün içinde ilgili mahkeme başkanlığına gönderilir.\nIII. Davacılara kayıt tarih ve sayısını gösteren pulsuz bir alındı kâğıdı verilir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 6'nın 1, 2 ve 3. fıkralarında belirtilen hükümlere dayanmaktadır. I. öncül 1. fıkraya göre doğrudur. III. öncül 2. fıkraya göre doğrudur. Ancak II. öncül yanlıştır; çünkü 3. fıkraya göre diğer yerlere verilen dilekçeler en geç 'yedi gün' değil, 'üç gün' içinde gönderilmelidir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kanunda belirtilen diğer yerlere verilen dilekçelerin, Danıştay veya ait olduğu mahkeme başkanlığına taahhütlü olarak en geç kaç gün içinde gönderilmesi zorunludur?",
+            "secenekler": {
+                "A": "Üç gün",
+                "B": "Beş gün",
+                "C": "Yedi gün",
+                "D": "On beş gün",
+                "E": "Otuz gün"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen '...diğer yerlere verilen dilekçeler, en geç üç gün içinde Danıştay veya ait olduğu mahkeme başkanlığına taahhütlü olarak gönderilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, özel kanunlarında ayrı süre gösterilmeyen hallerde Danıştayda ve idare mahkemelerinde dava açma süresi ile vergi mahkemelerinde dava açma süresi sırasıyla kaç gündür?",
+            "secenekler": {
+                "A": "30 gün - 60 gün",
+                "B": "60 gün - 30 gün",
+                "C": "60 gün - 60 gün",
+                "D": "30 gün - 30 gün",
+                "E": "90 gün - 30 gün"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Dava açma süresi, özel kanunlarında ayrı süre gösterilmeyen hallerde Danıştayda ve idare mahkemelerinde altmış ve vergi mahkemelerinde otuz gündür.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, vergi, resim ve harçlar ile benzeri mali yükümlerden doğan uyuşmazlıklarda dava açma süresinin başlangıcı ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tahakkuku tahsile bağlı olan vergilerde: Tahsilatın yapıldığı tarihi izleyen gün",
+                "B": "Tevkif yoluyla alınan vergilerde: İstihkak sahiplerine ödemenin yapıldığı tarihi izleyen gün",
+                "C": "Tescile bağlı vergilerde: Tescilin yapıldığı tarihi izleyen gün",
+                "D": "İdarenin dava açması gereken konularda: İlgili merci veya komisyon kararının idareye geldiği tarihi izleyen gün",
+                "E": "Tebliğ yapılan hallerde: Tebliğin yapıldığı tarihi izleyen on beşinci gün"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'tebliğ yapılan hallerde veya tebliğ yerine geçen işlemlerde tebliğin... Tarihi izleyen günden başlar.' hükmüne dayanmaktadır. Kanunda 15 günlük bir başlangıç süresi adresi belli olmayanlara ilan yoluyla bildirilmesi durumu için düzenlenmiştir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, adresleri belli olmayanlara özel kanunlarındaki hükümlere göre ilan yoluyla bildirim yapılan hallerde, özel kanununda aksine bir hüküm bulunmadıkça dava açma süresi ne zaman işlemeye başlar?",
+            "secenekler": {
+                "A": "Son ilan tarihini izleyen günden itibaren",
+                "B": "Son ilan tarihini izleyen günden itibaren on beş gün sonra",
+                "C": "İlk ilan tarihini izleyen günden itibaren yedi gün sonra",
+                "D": "İlanın askıdan indirildiği tarihi izleyen günden itibaren",
+                "E": "Son ilan tarihini izleyen günden itibaren otuz gün sonra"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'süre, son ilan tarihini izleyen günden itibaren onbeş gün sonra işlemeye başlar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, vergi, resim ve harçlar ile benzeri mali yükümlerden doğan uyuşmazlıklarda dava açma süresinin başlangıcı ile ilgili;\n\nI. Tahakkuku tahsile bağlı olan vergilerde tahsilatın yapıldığı,\nII. Tevkif yoluyla alınan vergilerde istihkak sahiplerine ödemenin yapıldığı,\nIII. Tescile bağlı vergilerde tescilin yapıldığı,\n\ntarihi izleyen günden başlar.\n\nYukarıdaki öncüllerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen hükümlere dayanmaktadır. İlgili maddenin 2. fıkrasının (b) bendinde her üç durum da (tahsilat, ödeme, tescil) dava açma süresinin başlangıcı olarak açıkça sayılmıştır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, ilanı gereken düzenleyici işlemler ve bunlara karşı açılacak davalarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İlanı gereken düzenleyici işlemlerde dava süresi, ilan tarihini izleyen günden itibaren başlar.",
+                "B": "İlgililer, düzenleyici işlemin uygulanması üzerine uygulanan işlem aleyhine dava açabilirler.",
+                "C": "İlgililer, düzenleyici işlemin uygulanması üzerine sadece düzenleyici işlem aleyhine dava açabilirler.",
+                "D": "İlgililer, düzenleyici işlemin uygulanması üzerine her iki işlem aleyhine birden dava açabilirler.",
+                "E": "Düzenleyici işlemin iptal edilmemiş olması, bu düzenlemeye dayalı işlemin iptaline engel teşkil eder."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7'nin 4. fıkrasında belirtilen 'Düzenleyici işlemin iptal edilmemiş olması bu düzenlemeye dayalı işlemin iptaline engel olmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bu Kanunda yazılı sürelerin bitmesinin çalışmaya ara verme zamanına rastlaması halindeki hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Süreler, ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzamış sayılır.",
+                "B": "Süreler, ara vermenin sona erdiği günü izleyen tarihten itibaren on beş gün uzamış sayılır.",
+                "C": "Süreler işlemez ve kalan süre ara vermenin bitiminden itibaren işlemeye başlar.",
+                "D": "Süreler, ara vermenin sona erdiği ilk çalışma gününün mesai bitiminde sona erer.",
+                "E": "Süreler, çalışmaya ara verme süresi kadar kendiliğinden uzar."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'bu süreler, ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzamış sayılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, sürelerin başlangıcı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Süreler, tebliğ, yayın veya ilan tarihini izleyen günden itibaren işlemeye başlar.",
+                "B": "Süreler, tebliğ, yayın veya ilan yapıldığı gün işlemeye başlar.",
+                "C": "Süreler, tebliğ tarihinden bir hafta sonra işlemeye başlar.",
+                "D": "Süreler, işlemin tesis edildiği tarihten itibaren işlemeye başlar.",
+                "E": "Süreler, sadece tebliğ tarihini izleyen çalışma gününden itibaren işlemeye başlar."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Süreler, tebliğ, yayın veya ilan tarihini izleyen günden itibaren işlemeye başlar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, çözümlenmesi idari yargının görevine girdiği halde adli yargı yerlerine açılmış bulunan davaların görev noktasından reddi halinde, bu husustaki kararların kesinleşmesini izleyen günden itibaren kaç gün içinde görevli mahkemede dava açılabilir?",
+            "secenekler": {
+                "A": "Yedi gün",
+                "B": "On beş gün",
+                "C": "Otuz gün",
+                "D": "Kırk beş gün",
+                "E": "Altmış gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'bu husustaki kararların kesinleşmesini izleyen günden itibaren otuz gün içinde görevli mahkemede dava açılabilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, adli yargı yerlerine açılan ve görevsizlik sebebiyle reddedilen davalarda, görevsizlik kararının kesinleşmesinden sonra kanunda belirtilen otuz günlük sürenin geçirilmiş olması hali ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Dava açma hakkı kesin olarak düşer ve artık dava açılamaz.",
+                "B": "İdari dava açılması için öngörülen süre henüz dolmamış ise bu süre içinde idari dava açılabilir.",
+                "C": "İlgili kişi ancak Danıştay Başkanlığının yazılı izni ile dava açabilir.",
+                "D": "Dava açma süresi, görevsizlik kararının tebliğ tarihinden itibaren yeniden otuz gün olarak işlemeye başlar.",
+                "E": "Süre geçirildiği için dosya, görevsizlik kararı veren mahkemece resen yetkili idare mahkemesine devredilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'otuz günlük süre geçirilmiş olsa dahi, idari dava açılması için öngörülen süre henüz dolmamış ise bu süre içinde idari dava açılabilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, ilgililerin idari makamlara başvurusu üzerine otuz günlük süre içinde idarece verilen cevabın kesin olmaması halinde, ilgilinin kesin cevabı bekleme süresi başvuru tarihinden itibaren en çok ne kadardır?",
+            "secenekler": {
+                "A": "Otuz gün",
+                "B": "Altmış gün",
+                "C": "Üç ay",
+                "D": "Dört ay",
+                "E": "Altı ay"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Ancak, bekleme süresi başvuru tarihinden itibaren dört ayı geçemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava açılmaması veya davanın süreden reddi hallerinde, otuz günlük cevap verme süresinin bitmesinden sonra yetkili idari makamlarca cevap verilirse, bu cevabın tebliğinden itibaren dava açma süresi kaç gündür?",
+            "secenekler": {
+                "A": "On beş gün",
+                "B": "Otuz gün",
+                "C": "Kırk beş gün",
+                "D": "Altmış gün",
+                "E": "Doksan gün"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'cevabın tebliğinden itibaren altmış gün içinde dava açabilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari makamlarca verilen cevabın kesin olmaması hâlinde izlenecek usul ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İlgili, kesin olmayan cevabı isteminin reddi sayarak dava açabilir.",
+                "B": "İlgili, kesin cevabı beklemeyi tercih edebilir.",
+                "C": "Kesin cevabın beklendiği takdirde dava açma süresi işlemez.",
+                "D": "Kesin cevabı bekleme süresi, başvuru tarihinden itibaren en fazla altı aydır.",
+                "E": "İlgililer otuz günün bittiği tarihten itibaren dava açma süresi içinde dava açabilirler."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Ancak, bekleme süresi başvuru tarihinden itibaren dört ayı geçemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, ilgililerin idari makamlara başvurusu üzerine idarenin cevabı ve dava açma süreciyle ilgili; \n\nI. İdare otuz gün içinde cevap vermezse istek kabul edilmiş sayılır.\nII. İdarenin kesin olmayan cevap vermesi halinde ilgili, bu cevabı isteminin reddi sayarak dava açabileceği gibi kesin cevabı da bekleyebilir.\nIII. Kesin cevabı bekleme süresi başvuru tarihinden itibaren dört ayı geçemez.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Otuz gün içinde bir cevap verilmezse istek reddedilmiş sayılır.' (I yanlıştır), 'kesin cevabı da bekleyebilir' (II doğrudur) ve 'bekleme süresi başvuru tarihinden itibaren dört ayı geçemez' (III doğrudur) hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari dava açılmadan önce idari işlemin kaldırılması, geri alınması veya değiştirilmesinin istenmesi usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu başvuru, işlemeye başlamış olan idari dava açma süresini durdurmaz.",
+                "B": "Başvuru, üst makam yoksa işlemi yapmış olan makama yapılır.",
+                "C": "İdare altmış gün içinde cevap vermezse istek kabul edilmiş sayılır.",
+                "D": "İsteğin reddi halinde dava açma süresi baştan itibaren yeniden başlar.",
+                "E": "Bu başvuru, dava açma süresi geçtikten sonra da yapılabilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'üst makamdan, üst makam yoksa işlemi yapmış olan makamdan... istenebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari makamlara yapılan başvurunun reddedilmesi veya reddedilmiş sayılması halinde dava açma süresinin işleyişi ile ilgili hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dava açma süresi, ret tarihinden itibaren sıfırdan işlemeye başlar.",
+                "B": "Dava açma süresi yeniden işlemeye başlar ve başvurma tarihine kadar geçmiş süre de hesaba katılır.",
+                "C": "Başvuru tarihine kadar geçen süre dikkate alınmaz, süre yeniden işlemeye devam eder.",
+                "D": "İlgili makama itiraz etmek için ilgililere yeni bir otuz günlük süre verilir.",
+                "E": "Dava açma süresi durur ve üst makamdan gelecek ikinci bir cevaba kadar işlemez."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'dava açma süresi yeniden işlemeye başlar ve başvurma tarihine kadar geçmiş süre de hesaba katılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, haklarını ihlal eden bir idari işlem dolayısıyla ilgililerin başvurabileceği dava yöntemleri ile ilgili; \n\nI. Doğrudan doğruya tam yargı davası açılması, \nII. İptal ve tam yargı davalarının birlikte açılması, \nIII. Önce iptal davası açılıp, kararın tebliği üzerine tam yargı davası açılması, \n\ndurumlarından hangisi veya hangileri Kanun'da açıkça düzenlenmiştir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen ilgililerin 'doğrudan doğruya tam yargı davası veya iptal ve tam yargı davalarını birlikte açabilecekleri gibi ilk önce iptal davası açarak...' şeklindeki hükme dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, ilgililerin haklarını ihlal eden bir idari işlem dolayısıyla açabilecekleri davaların usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlgililer sadece iptal davası açabilir, tam yargı davası açamazlar.",
+                "B": "İlk önce iptal davası açılmışsa, bu davanın karara bağlanması üzerine dava süresi içinde tam yargı davası açılabilir.",
+                "C": "İptal ve tam yargı davaları hiçbir durumda birlikte açılamaz.",
+                "D": "Tam yargı davası açılabilmesi için mutlaka önce idari işlemin iptal edilmiş olması gerekir.",
+                "E": "Doğrudan tam yargı davası açılması halinde idareye başvurma hakkı ortadan kalkar."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen '...ilk önce iptal davası açarak bu davanın karara bağlanması üzerine... tam yargı davası açabilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bir işlemin icrası sebebiyle doğan zararlardan dolayı açılacak tam yargı davasında, dava açma süresi hangi tarihten itibaren işlemeye başlar?",
+            "secenekler": {
+                "A": "İşlemin tebliğ tarihinden itibaren",
+                "B": "İcra tarihinden itibaren",
+                "C": "İptal davasının açıldığı tarihten itibaren",
+                "D": "İdareye başvuru tarihinden itibaren",
+                "E": "Zararın öğrenildiği tarihten itibaren"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'bir işlemin icrası sebebiyle doğan zararlardan dolayı icra tarihinden itibaren dava süresi içinde tam yargı davası açabilirler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari eylemlerden hakları ihlal edilmiş olanların, idari dava açmadan önce bu eylemleri yazılı bildirim üzerine veya başka suretle öğrendikleri tarihten itibaren kural olarak ne kadar süre içinde ilgili idareye başvurmaları gereklidir?",
+            "secenekler": {
+                "A": "Otuz gün",
+                "B": "Altmış gün",
+                "C": "Altı ay",
+                "D": "Bir yıl",
+                "E": "Beş yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'öğrendikleri tarihten itibaren bir yıl' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari eylemlerden dolayı idari yargı mercilerine açılacak davalarda, aşağıdaki durumların hangisinde önceden idareye başvurma şartı aranmaz?",
+            "secenekler": {
+                "A": "Eylemin idare tarafından yazılı olarak bildirildiği durumlarda",
+                "B": "İsteğin idare tarafından kısmen reddedildiği hallerde",
+                "C": "Görevli olmayan adli yargı mercilerine açılan tam yargı davasının görev yönünden reddi halinde",
+                "D": "İdarenin isteğe otuz gün içinde cevap vermediği durumlarda",
+                "E": "Eylemin üzerinden beş yıl geçtiği hallerde"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Görevli olmayan adli (...) yargı mercilerine açılan tam yargı davasının görev yönünden reddi halinde sonradan idari yargı mercilerine açılacak davalarda, birinci fıkrada öngörülen idareye başvurma şartı aranmaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari eylemlerden hakları ihlal edilmiş olanların idareye başvuru süresi ve koşulları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İlgililer, eylemleri öğrendikleri tarihten itibaren bir yıl içinde idareye başvurmalıdır.",
+                "B": "İlgililer, her hâlde eylem tarihinden itibaren beş yıl içinde idareye başvurmalıdır.",
+                "C": "İdareye yapılan başvuruya otuz gün içinde cevap verilmezse istek reddedilmiş sayılır.",
+                "D": "Görevli olmayan adli yargı mercilerine açılan tam yargı davasının görev yönünden reddi halinde, idareye başvuru şartı aranmaz.",
+                "E": "İdareye başvuru yapılmadan doğrudan idari yargıda tam yargı davası açılabilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'ün 1. fıkrasında belirtilen 'İdari eylemlerden hakları ihlal edilmiş olanların idari dava açmadan önce... ilgili idareye başvurarak haklarının yerine getirilmesini istemeleri gereklidir.' hükmüne dayanmaktadır. Başvuru zorunludur."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava dilekçelerinin ilk incelemesi sırasında, mahkemece incelenmesi gereken aşağıdaki hususlardan hangisi, sıralama bakımından diğer seçeneklerde yer alan hususlardan daha önce incelenir?",
+            "secenekler": {
+                "A": "Ehliyet",
+                "B": "Süre aşımı",
+                "C": "Husumet",
+                "D": "İdari merci tecavüzü",
+                "E": "İdari davaya konu olacak kesin ve yürütülmesi gereken bir işlem olup olmadığı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen inceleme sırasına göre 'İdari merci tecavüzü'nün (b bendi), ehliyet (c), kesin işlem (d), süre aşımı (e) ve husumetten (f) önce gelmesi hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dilekçeler üzerine yapılacak ilk inceleme ve buna bağlı işlemlerin, dilekçenin alındığı tarihten itibaren en geç kaç gün içinde sonuçlandırılması gerekir?",
+            "secenekler": {
+                "A": "7",
+                "B": "10",
+                "C": "15",
+                "D": "30",
+                "E": "60"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen '3 üncü fıkraya göre yapılacak inceleme ve bu fıkra ile 5 inci fıkraya göre yapılacak işlemler dilekçenin alındığı tarihten itibaren en geç onbeş gün içinde sonuçlandırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dilekçelerin ilk incelemesi sırasında mahkeme başkanı, görevlendireceği üye veya tetkik hakimi tarafından sırasıyla incelenmesi gereken hususlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "İdari davaya konu olacak kesin ve yürütülmesi gereken bir işlem olup olmadığı",
+                "B": "İdari merci tecavüzü",
+                "C": "Ehliyet",
+                "D": "Uyuşmazlığın esası hakkında hukuka uygunluk denetimi",
+                "E": "Husumet"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen ilk inceleme konuları (görev, yetki, merci tecavüzü, ehliyet, kesin işlem, süre aşımı, husumet, madde 3 ve 5'e uygunluk) arasında uyuşmazlığın esasının incelenmesi hükmüne yer verilmemesine dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dilekçelerin ilk inceleme usulü ve rapor düzenlenmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İlk inceleme işlemleri, dilekçenin alındığı tarihten itibaren en geç otuz gün içinde sonuçlandırılır.",
+                "B": "Tek hakimle çözümlenecek dava dilekçeleri için rapor düzenlenmez.",
+                "C": "Danıştayda dilekçeler, doğrudan ilgili daire başkanı tarafından incelenir.",
+                "D": "İlk incelemeden sonra kanuna aykırılık tespit edilirse davanın reddine karar verilir ve bir daha inceleme yapılmaz.",
+                "E": "İdare mahkemelerinde dilekçeler, yazı işleri müdürü tarafından incelenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Tek hakimle çözümlenecek dava dilekçeleri için rapor düzenlenmez ve 15 inci madde hükümleri ilgili hakim tarafından uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, ilk inceleme sırasında davanın hasım gösterilmeden veya yanlış hasım gösterilerek açıldığının görülmesi hâlinde mahkemece yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Davanın ehliyet yönünden reddine karar verilir.",
+                "B": "Dava dilekçesinin tespit edilecek gerçek hasma tebliğine karar verilir.",
+                "C": "Dilekçenin reddine karar verilerek otuz gün süre tanınır.",
+                "D": "Dava dosyasının görevli idare merciine tevdiine karar verilir.",
+                "E": "Davanın açılmamış sayılmasına karar verilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 15/1-c'de belirtilen 'dava dilekçesinin tespit edilecek gerçek hasma tebliğine' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dilekçenin reddedilmesi üzerine, yeniden verilen dilekçelerde aynı yanlışlıklar yapıldığı takdirde verilecek karar aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dava reddedilir.",
+                "B": "Dilekçe tekrar reddedilir ve otuz gün ek süre verilir.",
+                "C": "Dosya işlemden kaldırılır.",
+                "D": "Dava açılmamış sayılır.",
+                "E": "Mahkemece re'sen düzeltme yapılarak davaya devam edilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 15/5'te belirtilen 'yeniden verilen dilekçelerde aynı yanlışlıklar yapıldığı takdirde dava reddedilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, yapılan ilk incelemede 'idari merci tecavüzü' tespit edilmesi halinde mahkemece kurulacak hüküm aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Davanın görev yönünden reddine",
+                "B": "Dava dilekçesinin reddine",
+                "C": "Dilekçelerin görevli idare merciine tevdiine",
+                "D": "Dava dilekçesinin tespit edilecek gerçek hasma tebliğine",
+                "E": "Dosyanın yetkili mahkemeye gönderilmesine"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '3/b bendinde (idari merci tecavüzü) yazılı halde dilekçelerin görevli idare merciine tevdiine karar verilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava dilekçesinin kanunda belirtilen şartlara uygun düzenlenmemesi sebebiyle reddine karar verilmesi hâlinde, dilekçenin yeniden düzenlenmesi veya noksanların tamamlanması için öngörülen süre kaç gündür?",
+            "secenekler": {
+                "A": "7 gün",
+                "B": "15 gün",
+                "C": "30 gün",
+                "D": "45 gün",
+                "E": "60 gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'in 1. fıkrasının (d) bendinde belirtilen '...otuzgün içinde... yeniden düzenlenmek veya noksanları tamamlanmak...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, ilk inceleme aşamasında tespit edilen aykırılıklar ve bu aykırılıklara verilecek kararlarla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İdari yargının görevli olduğu konularda yetkili olmayan mahkemeye dava açılması - Davanın yetki yönünden reddedilerek dosyanın yetkili mahkemeye gönderilmesi",
+                "B": "İdari merci tecavüzü bulunması - Dilekçelerin görevli idare merciine tevdiine karar verilmesi",
+                "C": "Davanın hasım gösterilmeden açılması - Dava dilekçesinin tespit edilecek gerçek hasma tebliğine karar verilmesi",
+                "D": "Ehliyet ehliyetinin bulunmaması - Davanın reddine karar verilmesi",
+                "E": "Dilekçenin kanunda belirtilen şekil şartlarına uygun olmaması - Davanın reddine karar verilmesi"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen hükümlere dayanmaktadır. Şekil şartlarına (3. ve 5. maddelere) uygunsuzluk halinde doğrudan 'davanın reddine' değil, önce 'dilekçelerin reddine' (düzeltilmesi için) karar verilir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari yargının görevli olduğu konularda görevli veya yetkili olmayan mahkemeye açılan davanın ilk incelemesi sonucunda mahkemece tesis edilecek işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Davanın reddine karar verilir.",
+                "B": "Dilekçenin reddine karar verilir.",
+                "C": "Dava dilekçesinin tespit edilecek gerçek hasma tebliğine karar verilir.",
+                "D": "Davanın görev veya yetki yönünden reddedilerek dava dosyasının görevli veya yetkili mahkemeye gönderilmesine karar verilir.",
+                "E": "Dilekçenin görevli idare merciine tevdiine karar verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 15'in 1. fıkrasının (a) bendinde belirtilen 'idari yargının görevli olduğu konularda ise görevli veya yetkili olmayan mahkemeye açılan davanın görev veya yetki yönünden reddedilerek dava dosyasının görevli veya yetkili mahkemeye gönderilmesine' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, ilk incelemede dilekçelerin reddi kararı ve sonuçları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Dilekçelerin kanuna uygun olmamaları dolayısıyla reddi halinde yeni dilekçeler için ayrıca harç alınmaz.",
+                "B": "Dilekçenin reddedilmesi üzerine, yeniden verilen dilekçelerde aynı yanlışlıklar yapıldığı takdirde dava reddedilir.",
+                "C": "Dilekçelerin reddine ilişkin kararlara karşı istinaf ya da temyiz yoluna başvurulabilir.",
+                "D": "Dilekçe ret kararı üzerine otuz gün içinde yeniden dava açılmak üzere dilekçe düzenlenebilir.",
+                "E": "Ehliyetli olan şahsın avukat olmayan vekili tarafından dava açılmış ise dilekçenin reddine karar verilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'in 4. fıkrasında belirtilen hükme dayanmaktadır. İlgili fıkrada 'dilekçe red kararları dışında' istinaf ya da temyiz yoluna başvurulabileceği belirtilmiştir; dolayısıyla dilekçe ret kararlarına karşı bu yollara başvurulamaz."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, tarafların tebliğlere cevap verme süresinin uzatılması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Cevap verme süresi, tebliğ tarihinden itibaren otuz gündür.",
+                "B": "Süre uzatımı, ancak haklı sebeplerin bulunması halinde mümkündür.",
+                "C": "Sürenin uzatılmasına karar verme yetkisi görevli mahkemeye aittir.",
+                "D": "Süre uzatımı, otuz günü geçmemek üzere en fazla iki kez yapılabilir.",
+                "E": "Sürenin geçmesinden sonra yapılan uzatma talepleri kabul edilmez."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'otuz günü geçmemek ve bir defaya mahsus olmak üzere uzatılabilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, tam yargı davalarında dava dilekçesinde belirtilen miktarın artırılması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Miktar artırımı, ancak davalının açık muvafakati ile mümkündür.",
+                "B": "Nihai karar verilinceye kadar, harcı ödenmek suretiyle bir defaya mahsus olmak üzere artırılabilir.",
+                "C": "Miktar artırımı talebi, dilekçe sürelerinin geçmesinden sonra yapılamaz.",
+                "D": "Dava dilekçesindeki miktar, herhangi bir harç ödenmeksizin artırılabilir.",
+                "E": "Miktar artırımına ilişkin dilekçeye karşı tarafın cevap verme hakkı yoktur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'nihai karar verilinceye kadar, harcı ödenmek suretiyle bir defaya mahsus olmak üzere artırılabilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Danıştayda ilk derece mahkemesi sıfatıyla görülen davalarda, savcının esas hakkındaki yazılı düşüncesinin taraflara tebliğinden itibaren, tarafların görüşlerini yazılı olarak bildirebilecekleri süre kural olarak kaç gündür?",
+            "secenekler": {
+                "A": "7",
+                "B": "10",
+                "C": "15",
+                "D": "30",
+                "E": "60"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Taraflar, tebliğden itibaren on gün içinde görüşlerini yazılı olarak bildirebilirler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava dosyalarının tekemmülü ve savunma süreçleri ile ilgili;\n\nI. Davalının vereceği ikinci savunmaya karşı davacı kural olarak cevap veremez.\nII. Tam yargı davalarında dava dilekçesinde belirtilen miktar, harcı ödenmek suretiyle nihai karar verilinceye kadar bir defaya mahsus olmak üzere artırılabilir.\nIII. Danıştayda ilk derece mahkemesi sıfatıyla görülen davalarda, savcının esas hakkındaki yazılı düşüncesine karşı taraflar tebliğden itibaren otuz gün içinde görüş bildirebilirler.\n\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen hükümlere dayanmaktadır. I. öncül 2. fıkraya, II. öncül 4. fıkraya uygundur. Ancak III. öncül yanlıştır; çünkü 6. fıkraya göre savcının düşüncesine cevap süresi otuz gün değil, 'on gün'dür."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, duruşma davetiyeleri duruşma gününden en az kaç gün önce taraflara gönderilir?",
+            "secenekler": {
+                "A": "Yedi",
+                "B": "On",
+                "C": "On beş",
+                "D": "Otuz",
+                "E": "Altmış"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Duruşma davetiyeleri duruşma gününden en az otuz gün önce taraflara gönderilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idare mahkemelerinde açılan davalarda duruşma yapılması ile ilgili;\n\nI. İptal davalarında taraflardan birinin isteği üzerine duruşma yapılır.\nII. Yirmibeşbin Türk Lirasını aşan tam yargı davalarında taraflardan birinin isteği üzerine duruşma yapılır.\nIII. Temyiz ve istinaf aşamalarında duruşma yapılması zorunludur.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 17'nin 1. fıkrasındaki iptal ve belirli tutarı aşan tam yargı davalarında isteğe bağlı duruşma kuralı ile 2. fıkrasındaki temyiz ve istinaflarda duruşmanın mahkeme kararına bağlı olduğu hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, duruşmaların yapılış usulü ve tarafların katılımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Duruşmalar kural olarak açık yapılır; ancak genel ahlakın gerekli kıldığı hallerde mahkeme kararı ile gizli yapılabilir.",
+                "B": "Duruşmaları başkan yönetir.",
+                "C": "Duruşmalarda taraflara ikişer defa söz verilir.",
+                "D": "Taraflardan yalnız biri gelirse onun açıklamaları dinlenir.",
+                "E": "Taraflardan hiçbiri gelmezse duruşma başka bir güne ertelenir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'hiç biri gelmezse duruşma açılmaz, inceleme evrak üzerinde yapılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Danıştayda görülen davaların duruşmalarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Danıştaydaki duruşmalarda savcının bulunması ihtiyaridir, zorunlu değildir.",
+                "B": "Taraflar dinlendikten sonra savcı yazılı düşüncesini açıklar, ardından taraflara son olarak ne diyecekleri sorulur.",
+                "C": "Savcı, taraflardan önce söz alarak yazılı düşüncesini açıklar ve duruşmadan ayrılır.",
+                "D": "Savcının delil tespiti isteği kabul edilmezse, işin esası hakkında görüş bildirmesine gerek yoktur.",
+                "E": "Duruşma sonunda savcıya son söz hakkı verilir ve duruşmaya son verilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Taraflar dinlendikten sonra savcı yazılı düşüncesini açıklar. Bundan sonra taraflara son olarak ne diyecekleri sorulur' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, duruşmalı işlerde savcıların keşif, bilirkişi incelemesi veya delil tespiti yapılmasını istedikleri takdirde, bu istekleri görevli daire veya kurul tarafından kabul edilmezse yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Savcı duruşmayı terk eder ve yerine yeni bir savcı görevlendirilir.",
+                "B": "İşin esası hakkında ayrıca yazılı olarak düşünce bildirirler.",
+                "C": "Duruşma ileri bir tarihe ertelenerek eksikliklerin giderilmesi beklenir.",
+                "D": "Savcı sözlü olarak nihai mütalaasını açıklar ve karar verilir.",
+                "E": "Dosya işlemden kaldırılarak taraflara iade edilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen '...bu istekleri görevli daire veya kurul tarafından kabul edilmezse, işin esası hakkında ayrıca yazılı olarak düşünce bildirirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, duruşma günü belirlenip taraflara bildirildikten sonra, tarafların duruşmaya katılıp katılmamaları durumunda yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Taraflardan yalnız biri gelirse duruşma ertelenir.",
+                "B": "Taraflardan hiçbiri gelmezse duruşma açılmaz, inceleme evrak üzerinde yapılır.",
+                "C": "Taraflar gelmese bile savcı katılımıyla duruşma gıyapta yapılır.",
+                "D": "Taraflardan biri gelmezse, gelen tarafın açıklamaları dinlenmez.",
+                "E": "Hiçbiri gelmezse dava işlemden kaldırılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'hiç biri gelmezse duruşma açılmaz, inceleme evrak üzerinde yapılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, duruşma süreci ve yetkilerle ilgili;\n\nI. Danıştayda görülen davaların duruşmalarında savcının bulunması şarttır.\nII. Duruşma talebi sadece dava dilekçesinde yapılabilir, cevap dilekçesinde yapılamaz.\nIII. Mahkeme, kanundaki parasal sınırlara bağlı olmaksızın kendiliğinden duruşma yapılmasına karar verebilir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 18'in 4. fıkrasındaki savcı şartı ve Madde 17'nin 4. fıkrasındaki kendiliğinden karar verme yetkisine dayanmaktadır. II. öncül yanlıştır çünkü Madde 17'nin 3. fıkrasına göre talep cevap ve savunmalarda da yapılabilir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, duruşmaların yapılış usulü ile ilgili; \n\nI. Duruşmaların kural olarak açık yapılır,\nII. Taraflara ikişer defa söz verilir,\nIII. Taraflardan hiçbiri gelmezse duruşma ertelenerek yeni gün verilir\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Duruşmalar açık olarak yapılır... Duruşmalarda taraflara ikişer defa söz verilir... hiç biri gelmezse duruşma açılmaz, inceleme evrak üzerinde yapılır.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, duruşma yapıldıktan sonra karar en geç kaç gün içinde verilir?",
+            "secenekler": {
+                "A": "Otuz gün",
+                "B": "On gün",
+                "C": "Yedi gün",
+                "D": "On beş gün",
+                "E": "Altmış gün"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Duruşma yapıldıktan sonra en geç onbeş gün içinde karar verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, ara kararı verilen haller ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ara kararın yerine getirilmesi beklenmeksizin dosya işlemden kaldırılır.",
+                "B": "Dosyaların incelenmesi genel işlem sırasına göre yapılır.",
+                "C": "Dosyalar hakkında karar verilmesi için en az otuz gün beklenir.",
+                "D": "Ara karar verildikten sonra duruşma yapılması zorunludur.",
+                "E": "Bu kararın yerine getirilmesi üzerine, dosyalar öncelikle incelenir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Ara kararı verilen hallerde, bu kararın yerine getirilmesi üzerine, dosyalar öncelikle incelenir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Millî Savunma Bakanlığı kadrolarında çalışan kamu görevlilerini ilgilendiren ve askerî hizmete ilişkin idari işlemden doğan uyuşmazlıkların çözümünde yetkili mahkeme aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İlgilinin görev yaptığı yerdeki idare mahkemesi",
+                "B": "İlgilinin görev yaptığı yerin bağlı olduğu bölge idare mahkemesi",
+                "C": "İlgilinin görev yaptığı yerin idari yargı yetkisi yönünden bağlı olduğu bölge idare mahkemesinin bulunduğu yerdeki idare mahkemesi",
+                "D": "Millî Savunma Bakanlığının bulunduğu yerdeki idare mahkemesi",
+                "E": "Uyuşmazlığın çıktığı yerdeki en yakın idare mahkemesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20 /C'de belirtilen 'Bu uyuşmazlıkların çözümünde ilgilinin görev yaptığı yerin idari yargı yetkisi yönünden bağlı olduğu bölge idare mahkemesinin bulunduğu yerdeki idare mahkemesi yetkilidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, askerî hizmete ilişkin idari işlem ve eylemlerden doğan uyuşmazlıklarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Savaş hâlinde yürütmenin durdurulmasına karar verilemez.",
+                "B": "Olağanüstü hâller sebebiyle alınan tedbirlerin uygulanmasında görevlendirilenlerin naklen atanmalarına ilişkin iptal davalarında yürütmenin durdurulmasına karar verilemez.",
+                "C": "Yüksek Askerî Şûranın terfi işlemlerine karşı yargı yolu kapalıdır.",
+                "D": "Kadrosuzluk nedeniyle emekliye ayırma işlemlerine karşı yargı yolu kapalıdır.",
+                "E": "Yüksek Askerî Şûra kararları kapsamındaki ilişik kesme kararına karşı yargı yolu kapalıdır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 20 /C'de belirtilen 'Yüksek Askerî Şûranın terfi işlemleri ile kadrosuzluk nedeniyle emekliye ayırma işlemleri hariç her türlü ilişik kesme kararlarına karşı yargı yolu açıktır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, askerî hizmete ilişkin idari işlem ve eylemlerden doğan uyuşmazlıklar hakkında;\n\nI. Savaş hâlinde yürütmenin durdurulmasına karar verilemez.\nII. Yüksek Askerî Şûranın kadrosuzluk nedeniyle emekliye ayırma işlemlerine karşı yargı yolu açıktır.\nIII. Dilekçeler, ilgili idari yargı merciine gönderilmek üzere en yakın amirlere verilebilir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20 /C'de belirtilen hükümlere dayanmaktadır. I. öncül 4. fıkraya göre doğrudur. III. öncül 3. fıkraya göre doğrudur. Ancak II. öncül yanlıştır; çünkü 6. fıkrada 'kadrosuzluk nedeniyle emekliye ayırma işlemleri hariç' denilerek bu işlemlere karşı yargı yolunun kapalı olduğu (açık olanlar arasında sayılmadığı) ifade edilmiştir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Millî Savunma Bakanlığı kadrolarında çalışanlar ile askerlik hizmetini yerine getirenleri ilgilendiren uyuşmazlıklarda, yürütmenin durdurulması kararı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Savaş hâlinde yürütmenin durdurulmasına karar verilemez.",
+                "B": "Barış zamanında hiçbir şekilde yürütmenin durdurulması kararı verilemez.",
+                "C": "Olağanüstü hâller sebebiyle alınan tedbirlerin uygulanmasında görevlendirilenlerin naklen atanmalarına ilişkin iptal davalarında yürütme durdurulabilir.",
+                "D": "Savaş hali olsa dahi, telafisi güç zararlar doğacaksa yürütme durdurulabilir.",
+                "E": "Yürütmenin durdurulması kararı sadece disiplin cezalarında verilemez."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 20 /C'de belirtilen 'Savaş hâlinde yürütmenin durdurulmasına karar verilemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Yüksek Askerî Şûra kararlarına karşı yargı yolunun kapsamı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yüksek Askerî Şûranın tüm kararlarına karşı yargı yolu kapalıdır.",
+                "B": "Sadece terfi işlemlerine karşı yargı yoluna başvurulabilir.",
+                "C": "Kadrosuzluk nedeniyle emekliye ayırma işlemlerine karşı yargı yolu açıktır.",
+                "D": "Terfi işlemleri ile kadrosuzluk nedeniyle emekliye ayırma işlemleri hariç her türlü ilişik kesme kararlarına karşı yargı yolu açıktır.",
+                "E": "Yüksek Askerî Şûra kararları idari yargı denetimine tabi olmayıp, sadece Cumhurbaşkanı onayı ile kesinleşir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 20 /C'de belirtilen 'Yüksek Askerî Şûranın terfi işlemleri ile kadrosuzluk nedeniyle emekliye ayırma işlemleri hariç her türlü ilişik kesme kararlarına karşı yargı yolu açıktır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, dosyanın incelenmesi ve bilgi-belge isteme usulü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Mahkemeler, bakmakta oldukları davalara ait her türlü incelemeyi kendiliğinden yapar.",
+                "B": "Mahkemelerce istenen bilgi ve belgelerin verilmesi için tanınan süre, haklı sebeplerin bulunması halinde bir defaya mahsus olmak üzere uzatılabilir.",
+                "C": "İstenen belgeler Devletin güvenliğine ilişkin ise ilgili bakan gerekçesini bildirmek suretiyle bu belgeleri vermeyebilir.",
+                "D": "Devletin güvenliği gerekçesiyle verilmeyen bilgi ve belgelere dayanılarak ileri sürülen savunmaya göre karar verilebilir.",
+                "E": "Taraflardan biri ara kararının icaplarını yerine getirmediği takdirde, bu durumun verilecek karar üzerindeki etkisi mahkemece önceden takdir edilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Verilmeyen bilgi ve belgelere dayanılarak ileri sürülen savunmaya göre karar verilemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, bölge idare, idare ve vergi mahkemeleri için öncelikli işleri konu itibarıyla tespit edip Resmi Gazete'de ilan etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Danıştay Başkanlar Kurulu",
+                "C": "Hakimler ve Savcılar Yüksek Kurulu",
+                "D": "Bölge İdare Mahkemesi Başkanlar Kurulu",
+                "E": "Cumhurbaşkanlığı İdari İşler Başkanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen '...diğer mahkemeler için Hakimler ve Savcılar Yüksek Kurulunca konu itibariyle tespit edilip Resmi Gazete'de ilan edilecek...' hükmüne dayanmaktadır.\n\tNot: Kanun metninde halen 'Hâkimler ve Savcılar Yüksek Kurulu' (HSYK) ifadesi yer alsa da, 2017 Anayasa değişikliği ile kurulun adı Hâkimler ve Savcılar Kurulu (HSK) olarak değiştirilmiştir."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, idari mahkemelerdeki yargılama usulü ve dosyaların incelenme sırası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İdari yargı mercilerinde kural olarak sözlü yargılama usulü uygulanır.",
+                "B": "Öncelikli işler dışında kalan dosyalar, tekemmül tarihinden itibaren en geç altı ay içinde sonuçlandırılır.",
+                "C": "Dosyaların incelenmesinde geliş tarihleri dikkate alınmaz, mahkeme başkanı takdir yetkisini kullanır.",
+                "D": "Bölge idare mahkemelerinde inceleme duruşmalı yapılır, evrak üzerinden inceleme istisnadır.",
+                "E": "Öncelikli işlerin tespiti sadece Adalet Bakanlığı tarafından yapılır ve Resmi Gazete'de ilan edilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Bunların dışında kalan dosyalar ise tekemmül ettikleri sıraya göre ve tekemmül tarihinden itibaren en geç altı ay içinde sonuçlandırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, öncelikli işler dışında kalan dosyaların karara bağlanma süresi ve usulü hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Dava dilekçesinin mahkemeye ulaştığı tarihten itibaren en geç bir yıl içinde sonuçlandırılır.",
+                "B": "Tekemmül ettikleri sıraya göre ve tekemmül tarihinden itibaren en geç altı ay içinde sonuçlandırılır.",
+                "C": "Dosyanın geliş tarihine göre ve geliş tarihinden itibaren en geç üç ay içinde sonuçlandırılır.",
+                "D": "Duruşma yapılmasına karar verilen tarihten itibaren en geç otuz gün içinde sonuçlandırılır.",
+                "E": "İdarenin savunma süresinin bittiği tarihten itibaren en geç iki ay içinde sonuçlandırılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Bunların dışında kalan dosyalar ise tekemmül ettikleri sıraya göre ve tekemmül tarihinden itibaren en geç altı ay içinde sonuçlandırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, ivedi yargılama usulünün uygulandığı işlemlerden doğan uyuşmazlıklar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Acele kamulaştırma işlemleri",
+                "B": "Özelleştirme Yüksek Kurulu kararları",
+                "C": "İhaleden yasaklama kararları",
+                "D": "Turizmi Teşvik Kanunu uyarınca yapılan tahsis işlemleri",
+                "E": "Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun uyarınca alınan Cumhurbaşkanı kararları"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20/A'nın 1. fıkrasının (a) bendinde belirtilen 'İhaleden yasaklama kararları hariç ihale işlemleri' hükmüne dayanmaktadır. Kanun metninde ihaleden yasaklama kararları açıkça istisna tutulmuştur."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, ivedi yargılama usulünde uygulanacak süreler ve kararlar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Dava açma süresi otuz gündür.",
+                "B": "Yürütmenin durdurulması talebine ilişkin olarak verilecek kararlara itiraz edilemez.",
+                "C": "Savunma süresi dava dilekçesinin tebliğinden itibaren on beş gündür.",
+                "D": "Verilen nihai kararlara karşı tebliğ tarihinden itibaren otuz gün içinde temyiz yoluna başvurulabilir.",
+                "E": "Temyiz istemi en geç iki ay içinde karara bağlanır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 20/A'nın 2. fıkrasının (g) bendinde belirtilen 'Verilen nihai kararlara karşı tebliğ tarihinden itibaren on beş gün içinde temyiz yoluna başvurulabilir' hükmüne dayanmaktadır. Seçenekte belirtilen otuz günlük süre yanlıştır."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, ivedi yargılama usulüne tabi davalarda Danıştay'ın evrak üzerinde yaptığı inceleme sonunda işin esası hakkında yeniden karar verebileceği hâller aşağıdakilerin hangisinde verilmiştir?\n\nI. Maddi vakıalar hakkında edinilen bilginin yeterli görülmesi\nII. Temyizin sadece hukuki noktalara ilişkin olması\nIII. İlk inceleme üzerine verilen kararlara karşı yapılan temyizin haklı bulunması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20/A'da belirtilen hükümlere dayanmaktadır. I ve II numaralı öncüllerde Danıştay işin esası hakkında karar verirken; III numaralı öncülde (ilk inceleme üzerine verilen kararlar) kararı bozmakla birlikte dosyayı geri gönderir."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, ivedi yargılama usulünde Danıştay'ın temyiz incelemesi ve verdiği kararlar ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Temyiz üzerine verilen kararlara karşı bir defaya mahsus itiraz edilebilir.",
+                "B": "Danıştay, temyiz incelemesi sonunda maddi vakıalar hakkında edinilen bilgiyi yeterli görürse işin esası hakkında karar verir.",
+                "C": "İlk inceleme üzerine verilen kararlara karşı yapılan temyizi haklı bulduğu hâllerde işin esası hakkında karar verir.",
+                "D": "Temyiz istemi dosyanın tekemmülünden itibaren en geç altı ay içinde karara bağlanır.",
+                "E": "Temyiz dilekçelerine cevap verme süresi otuz gündür."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 20/A'da belirtilen 'Danıştay evrak üzerinde yaptığı inceleme sonunda, maddi vakıalar hakkında edinilen bilgiyi yeterli görürse... işin esası hakkında karar verir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, ivedi yargılama usulünde verilen nihai kararlara karşı temyiz yoluna başvuru süresi ve temyiz dilekçelerine cevap verme süresi aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+            "secenekler": {
+                "A": "Temyiz süresi: 30 gün - Cevap süresi: 30 gün",
+                "B": "Temyiz süresi: 30 gün - Cevap süresi: 15 gün",
+                "C": "Temyiz süresi: 15 gün - Cevap süresi: 15 gün",
+                "D": "Temyiz süresi: 15 gün - Cevap süresi: 30 gün",
+                "E": "Temyiz süresi: 7 gün - Cevap süresi: 7 gün"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20/A'nın 2-g ve 20/A'nın 2-ı bentlerinde belirtilen 'Verilen nihai kararlara karşı tebliğ tarihinden itibaren on beş gün içinde temyiz yoluna başvurulabilir' ve 'Temyiz dilekçelerine cevap verme süresi on beş gündür' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, Millî Eğitim Bakanlığı tarafından yapılan merkezî ve ortak sınavlara ilişkin açılan davalarda verilen nihai kararlara karşı tebliğ tarihinden itibaren kaç gün içinde temyiz yoluna başvurulabilir?",
+            "secenekler": {
+                "A": "3",
+                "B": "5",
+                "C": "7",
+                "D": "10",
+                "E": "15"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 20/B'de belirtilen 'Verilen nihai kararlara karşı tebliğ tarihinden itibaren beş gün içinde temyiz yoluna başvurulabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 İdari Yargılama Usulü Kanunu'na göre, Millî Eğitim Bakanlığı ile Ölçme, Seçme ve Yerleştirme Merkezi tarafından yapılan merkezî ve ortak sınavlara ilişkin davaların yargılama usulü hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Dava açma süresi on gündür.",
+                "B": "Yürütmenin durdurulması talebine ilişkin olarak verilecek kararlara karşı yedi gün içinde itiraz edilebilir.",
+                "C": "Savunma süresi dava dilekçesinin tebliğinden itibaren üç gündür.",
+                "D": "Verilen nihai kararlara karşı tebliğ tarihinden itibaren beş gün içinde temyiz yoluna başvurulabilir.",
+                "E": "Bu davalar dosyanın tekemmülünden itibaren en geç on beş gün içinde karara bağlanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 20/B'de  belirtilen 'Yürütmenin durdurulması talebine ilişkin olarak verilecek kararlara itiraz edilemez.' hükmüne dayanmaktadır. Seçenekte itiraz edilebileceği belirtildiği için ifade yanlıştır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dilekçeler ve savunmalarla birlikte verilmeyen belgelerin sonradan kabulü ve tebliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Belgeler duruşmada ibraz edilirse, diğer taraf cevap vermeye lüzum görmese bile ayrıca tebliğ edilmesi zorunludur.",
+                "B": "Dilekçe ile verilmeyen belgeler, mahkemece vaktinde ibraz edilmelerine imkan bulunmadığına kanaat getirilirse kabul edilir.",
+                "C": "Sonradan sunulan belgeler, karşı tarafın muvafakati olmaksızın hiçbir şekilde dosyaya kabul edilemez.",
+                "D": "Belgelerin sonradan sunulması durumunda, mahkemece herhangi bir inceleme yapılmaksızın belgeler reddedilir.",
+                "E": "Savunma ile birlikte verilmeyen belgeler, sadece duruşma gününden en az on gün önce sunulursa kabul edilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Dilekçeler ve savunmalarla birlikte verilmeyen belgeler, bunların vaktinde ibraz edilmelerine imkan bulunmadığına mahkemece kanaat getirilirse, kabul ve diğer tarafa tebliğ edilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dilekçeler ve savunmalarla birlikte verilmeyen belgelerin duruşmada ibraz edilmesi durumunda, bu belgelerin diğer tarafa ayrıca tebliğ edilmemesi için aşağıdaki şartlardan hangisinin gerçekleşmesi gerekir?",
+            "secenekler": {
+                "A": "Belgelerin noter onaylı suretlerinin sunulmuş olması",
+                "B": "Diğer tarafın cevabını hemen verebileceğini beyan etmesi veya cevap vermeye lüzum görmemesi",
+                "C": "Mahkeme başkanının belgelerin önem derecesine göre re'sen karar vermesi",
+                "D": "Belgelerin, dava açılmadan önceki bir tarihe ait olması",
+                "E": "Davacı ve davalının duruşmada hazır bulunmaması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Bu belgeler duruşmada ibraz edilir ve diğer taraf cevabını hemen verebileceğini beyan eder veya cevap vermeye lüzum görmezse, ayrıca tebliğ edilmez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, mahkemelerde yargılama usullerine ilişkin meselelerde yapılan oylamada azınlıkta kalanların durumu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İşin esası hakkında oy kullanamazlar.",
+                "B": "Toplantı yeter sayısına dahil edilmezler.",
+                "C": "İşin esası hakkında da oylarını kullanırlar.",
+                "D": "Sadece karara muhalefet şerhi yazmakla yetinirler, oylamaya katılamazlar.",
+                "E": "Çekimser oy kullanma hakları saklıdır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22/2'de belirtilen 'yargılama usullerine ilişkin meselelerde azınlıkta kalanlar işin esası hakkında da oylarını kullanırlar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararların verilmesi ve oylama usulü ile ilgili;\n\nI. Konular aydınlandığında meseleler sırasıyla oya konulur.\nII. Yargılama usullerine ilişkin meselelerde azınlıkta kalanlar işin esası hakkında oy kullanamazlar.\nIII. Azınlıkta kalanların görüşleri, kararların altına yazılır.\n\nifadelerinden hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Konular aydınlandığında meseleler sırasıyla oya konulur.' ve 'Azınlıkta kalanların görüşleri, kararların altına yazılır.' hükümleri ile '...yargılama usullerine ilişkin meselelerde azınlıkta kalanlar işin esası hakkında da oylarını kullanırlar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, her dava dosyası için düzenlenen tutanakta aşağıdakilerden hangisinin veya hangilerinin gösterilmesi zorunludur?\n\nI. Tetkik hakiminin adı ve soyadı\nII. Verilen kararın neticesi\nIII. Çoğunlukta ve azınlıkta bulunanlar",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'tetkik hakiminin... ad ve soyadlarını... verilen kararın neticesini, çoğunlukta ve azınlıkta bulunanları gösteren bir tutanak düzenlenir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava dosyaları için düzenlenen tutanakların imzalanma zamanı ve usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tutanaklar, kararın yazılmasını takip eden ilk iş günü imzalanır.",
+                "B": "Tutanaklar, görüşmelere katılanlar tarafından aynı toplantıda imzalanır.",
+                "C": "Tutanaklar, sadece başkan ve tetkik hakimi tarafından imzalanır.",
+                "D": "Tutanaklar, kararın kesinleşmesinden sonra imzalanarak arşive kaldırılır.",
+                "E": "Tutanaklar, toplantı bitiminde sadece başkan tarafından imzalanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Bu tutanaklar görüşmelere katılanlar tarafından aynı toplantıda imzalanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, her dava dosyası için düzenlenen tutanakta aşağıdakilerden hangisinin gösterilmesi zorunlu değildir?",
+            "secenekler": {
+                "A": "Görüşmelere katılan başkan ve üyelerin ad ve soyadları",
+                "B": "İncelenen dosya numarası",
+                "C": "Tarafların tebligata yarar açık adresleri",
+                "D": "Çoğunlukta ve azınlıkta bulunanlar",
+                "E": "Danıştayda düşünce veren savcının ad ve soyadı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen hükme dayanmaktadır. Maddede tarafların 'ad ve soyadlarının' gösterileceği belirtilmiş, ancak 'tebligata yarar açık adresleri' sayılan hususlar arasında yer almamıştır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararların yazılması ve imzalanması ile ilgili süre kuralı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tebliğ tarihinden itibaren on beş gün içinde yazılır ve imzalanır.",
+                "B": "Verildiği tarihten itibaren otuz gün içinde yazılır ve imzalanır.",
+                "C": "Tebliğ tarihinden itibaren otuz gün içinde yazılır ve imzalanır.",
+                "D": "Verildiği tarihten itibaren altmış gün içinde yazılır ve imzalanır.",
+                "E": "Tebliğ tarihinden itibaren altmış gün içinde yazılır ve imzalanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen 'Kararlar, verildiği tarihten itibaren otuz gün içinde yazılır ve imzalanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, mahkeme kararlarında aşağıdakilerden hangisinin veya hangilerinin belirtilmesi zorunludur?\n\nI. Yargılama giderleri ve hangi tarafa yükletildiği\nII. Varsa karşı oylar\nIII. Danıştayda görülen davalarda tetkik hakiminin düşüncesi",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen; (f) bendindeki yargılama giderleri, (h) bendindeki karşı oylar ve (c) bendindeki Danıştayda görülen davalarda tetkik hakimi düşünceleri hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararlarda belirtilmesi zorunlu olan hususlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Kararın dayandığı hukuki sebepler ile gerekçesi",
+                "B": "Yargılama giderleri ve hangi tarafa yükletildiği",
+                "C": "Danıştayda görülen davalarda tetkik hakimi ve savcının düşünceleri",
+                "D": "Bilirkişilerin ad ve soyadları ile raporlarının özeti",
+                "E": "Kararı veren mahkeme başkan ve üyelerinin veya hakiminin ad ve soyadları"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen hükümlere dayanmaktadır. İlgili maddede tarafların, vekillerin, Danıştay savcı/tetkik hakimlerinin ve mahkeme heyetinin bilgileri sayılmış ancak bilirkişilere ilişkin bir kayıt yer almamıştır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararın imzalı asıllarının saklanması usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İmzalı asılların tamamı taraflara tebliğ edilir.",
+                "B": "İmzalı asıllardan biri karar dosyasına, diğeri de dava dosyasına konur.",
+                "C": "İmzalı asıllar sadece Danıştay arşivinde saklanmak üzere gönderilir.",
+                "D": "İmzalı asılların bir örneği Adalet Bakanlığına gönderilir.",
+                "E": "İmzalı asıllar imha edilir ve sadece dijital kopyalar saklanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Kararın mahkeme başkanı ve üyeleri veya hakimi tarafından imzalı asıllarından biri, karar dosyasına, diğeri de dava dosyasına konur' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararın taraflara tebliğ edilecek örneklerinin tasdiki ve tebliği usulü hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kararın imzalı asılları taraflara tebliğ edilir.",
+                "B": "Karar örnekleri sadece mahkeme mührü ile mühürlenerek tebliğe çıkarılır, ayrıca imza aranmaz.",
+                "C": "Danıştayda daire veya kurul başkanı veya görevlendireceği bir üye imzasıyla tasdikli birer örnek taraflara tebliğ edilir.",
+                "D": "Kararın asıllarından biri Adalet Bakanlığına gönderilir.",
+                "E": "Karar örneklerini tasdik yetkisi münhasıran yazı işleri müdürüne aittir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Danıştayda daire veya kurul başkanı veya görevlendireceği bir üye imzasıyla tasdikli birer örneği de taraflara tebliğ edilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava esnasında tarafların kişilik veya niteliğinde değişiklik olması sebebiyle dosyanın işlemden kaldırılmasına karar verilmesi durumunda, kaç ay içinde yenileme dilekçesi verilmezse varsa yürütmenin durdurulması kararı kendiliğinden hükümsüz kalır?",
+            "secenekler": {
+                "A": "Bir ay",
+                "B": "İki ay",
+                "C": "Üç ay",
+                "D": "Dört ay",
+                "E": "Altı ay"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 26/1'de belirtilen 'Dört ay içinde yenileme dilekçesi verilmemiş ise, varsa yürütmenin durdurulması kararı kendiliğinden hükümsüz kalır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, davacının gösterdiği adrese tebligat yapılamaması nedeniyle dosyanın işlemden kaldırılmasına karar verilen bir durumda, dosyanın işlemden kaldırıldığı tarihten başlayarak ne kadar süre içinde yeni adres bildirilmek suretiyle yeniden işleme konulması istenmezse davanın açılmamış sayılmasına karar verilir?",
+            "secenekler": {
+                "A": "On beş gün",
+                "B": "Otuz gün",
+                "C": "Dört ay",
+                "D": "Altı ay",
+                "E": "Bir yıl"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'Dosyanın işlemden kaldırıldığı tarihten başlayarak bir yıl içinde yeni adres bildirilmek suretiyle yeniden işleme konulması istenmediği takdirde, davanın açılmamış sayılmasına karar verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, davacının gösterdiği adrese tebligat yapılamaması hali ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yeni adres bildirilene kadar dosya işlemden kaldırılır ancak yürütmenin durdurulması kararı her zaman geçerliliğini korur.",
+                "B": "Dosyanın işlemden kaldırıldığı tarihten başlayarak altı ay içinde yeni adres bildirilmezse davanın reddine karar verilir.",
+                "C": "Dosyanın işlemden kaldırıldığı tarihten başlayarak bir yıl içinde yeni adres bildirilmek suretiyle yeniden işleme konulması istenmediği takdirde, davanın açılmamış sayılmasına karar verilir.",
+                "D": "Dosyanın işlemden kaldırılmasına dair kararların diğer tarafa tebliğ edilmesine gerek yoktur.",
+                "E": "Adres tespit edilemediğinde dava dosyası derhal imha edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'Dosyanın işlemden kaldırıldığı tarihten başlayarak bir yıl içinde yeni adres bildirilmek suretiyle yeniden işleme konulması istenmediği takdirde, davanın açılmamış sayılmasına karar verilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, dava esnasında ölüm veya herhangi bir sebeple tarafların kişilik veya niteliğinde değişiklik olması durumuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İlgili mahkemece dosyanın işlemden kaldırılmasına karar verilir.",
+                "B": "Yalnız öleni ilgilendiren davalara ait dilekçeler iptal edilir.",
+                "C": "Dört ay içinde yenileme dilekçesi verilmemiş ise, varsa yürütmenin durdurulması kararı kendiliğinden hükümsüz kalır.",
+                "D": "Dosyaların işlemden kaldırılmasına dair kararlar diğer tarafa tebliğ edilir.",
+                "E": "Gerçek kişilerden olan tarafın ölümü halinde, idarenin mirasçılar aleyhine takibi yenilemesi mümkün değildir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'gerçek kişilerden olan tarafın ölümü halinde, idarenin mirasçılar aleyhine takibi yenilemesine kadar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, vergi mahkemelerinde dava açılmasının tahsil işlemlerine etkisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi mahkemelerinde dava açılması, hiçbir durumda tahsil işlemlerini kendiliğinden durdurmaz; mutlaka yürütmenin durdurulması kararı alınmalıdır.",
+                "B": "İhtirazi kayıtla verilen beyannameler üzerine yapılan işlemlerle tahsilat işlemlerinden dolayı açılan davalar, tahsil işlemini kendiliğinden durdurur.",
+                "C": "İşlemden kaldırılan vergi davası dosyalarında, dosya işlemden kaldırıldığı andan itibaren tahsil işlemi de durur.",
+                "D": "Vergi uyuşmazlıklarından doğan davaların açılması, sadece cezaların tahsilini durdurur; vergi aslı ve zamlarının tahsilini durdurmaz.",
+                "E": "Adres yokluğu nedeniyle işlemden kaldırıldıktan sonra yeniden işleme konulan vergi davası dosyalarında, davanın yeniden işleme konulması tahsil işlemini durdurmaz."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Bu şekilde işlemden kaldırılan dosyanın yeniden işleme konulması... tahsil işlemini durdurmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, yürütmenin durdurulması istemleri hakkında verilen kararlara itiraz süreciyle ilgili;\n\nI. Kararın tebliğini izleyen günden itibaren yedi gün içinde itiraz edilebilir.\nII. İtiraz edilen merciler, dosyanın kendisine gelişinden itibaren on beş gün içinde karar vermek zorundadır.\nIII. İtiraz üzerine verilen kararlar kesindir.\n\nyukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen itiraz süresinin 'yedi gün' olduğu ve itiraz üzerine verilen kararların 'kesin' olduğu hükümlerine dayanmaktadır. II. öncül yanlıştır çünkü merciin karar verme süresi on beş gün değil, yedi gündür."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, vergi mahkemelerinde görülen davalar ve yürütmenin durdurulması ile ilgili; \n\nI. Vergi uyuşmazlıklarından doğan davaların açılması, kural olarak tarh edilen vergi ve cezaların dava konusu edilen bölümünün tahsil işlemlerini durdurur.\nII. Adres yokluğu nedeniyle işlemden kaldırılan vergi davası dosyalarında tahsil işlemi devam eder.\nIII. İhtirazi kayıtla verilen beyannameler üzerine yapılan işlemlerle tahsilat işlemlerinden dolayı açılan davalar, tahsil işlemini kendiliğinden durdurur.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen genel kural ile 'işlemden kaldırılan vergi davası dosyalarında tahsil işlemi devam eder' ve 'ihtirazi kayıtla verilen beyannameler... tahsil işlemini durdurmaz' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idare ve vergi mahkemeleri ile tek hakim tarafından yürütmenin durdurulması istemleri hakkında verilen kararlara karşı yapılacak itiraz aşağıdaki mercilerin hangisine yapılmalıdır?",
+            "secenekler": {
+                "A": "Danıştay İdari veya Vergi Dava Daireleri Kuruluna",
+                "B": "Kararı veren mahkemenin kendisine",
+                "C": "Hakimler ve Savcılar Kuruluna",
+                "D": "Bölge İdare Mahkemesine",
+                "E": "Anayasa Mahkemesine"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'idare ve vergi mahkemeleri ile tek hakim tarafından verilen kararlara karşı bölge idare mahkemesine... itiraz edilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idare mahkemelerinin esasa ve yürütmenin durdurulmasına ilişkin kararlarının icaplarına göre idarenin işlem tesis etme veya eylemde bulunma mecburiyeti, kararın idareye tebliğinden başlayarak en geç ne kadar süre içinde yerine getirilmelidir?",
+            "secenekler": {
+                "A": "Altmış gün",
+                "B": "Otuz gün",
+                "C": "On beş gün",
+                "D": "Kırk beş gün",
+                "E": "Yedi gün"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Bu süre hiçbir şekilde kararın idareye tebliğinden başlayarak otuz günü geçemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, mahkeme kararlarının uygulanması ve sonuçları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İdare, kararların icaplarına göre gecikmeksizin işlem tesis etmeye mecburdur.",
+                "B": "Mahkeme kararlarının süresi içinde kamu görevlilerince yerine getirilmemesi hâlinde tazminat davası doğrudan ilgili kamu görevlisi aleyhine açılır.",
+                "C": "Konusu belli bir miktar paranın ödenmesini gerektiren davalarda ödeme, davacının bildireceği banka hesap numarasına yapılır.",
+                "D": "Mahkeme kararının davacıya tebliği ile banka hesap numarasının idareye bildirildiği tarih arasında geçecek süre için faiz işlemez.",
+                "E": "Vergi uyuşmazlıklarında, karara göre tespit edilecek vergi ve cezaların miktarı ilgili idarece mükellefe bildirilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Mahkeme kararlarının süresi içinde kamu görevlilerince yerine getirilmemesi hâlinde tazminat davası ancak ilgili idare aleyhine açılabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararın açıklanması veya aykırılığın kaldırılması istemi en geç hangi aşamaya kadar istenebilir?",
+            "secenekler": {
+                "A": "Kararın kesinleşmesine kadar",
+                "B": "Kararın tebliğ tarihinden itibaren otuz gün içinde",
+                "C": "Kararın yerine getirilmesine kadar",
+                "D": "Temyiz süresi dolana kadar",
+                "E": "İstinaf başvuru süresi içinde"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Açıklama veya aykırılığın kaldırılması, kararın yerine getirilmesine kadar istenebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararın açıklanması istemi üzerine mahkemece dilekçenin karşı tarafa tebliğ edilmesi hâlinde, cevap verme usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Cevap nüshalarından biri, açıklama veya aykırılığın kaldırılmasını isteyen tarafa gönderilir.",
+                "B": "Cevap dilekçesi tek nüsha olarak verilir.",
+                "C": "Cevap verme süresi kanunda kesin olarak otuz gün olarak belirlenmiştir.",
+                "D": "Cevap dilekçesi doğrudan üst mahkemeye sunulur.",
+                "E": "Cevap verilmese dahi mahkeme re'sen cevap yazısı düzenler."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'cevap iki nüsha olarak verilir. Bunlardan biri, açıklama veya aykırılığın kaldırılmasını isteyen tarafa gönderilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararın açıklanması kurumuyla ilgili;\n\nI. Kararların yeterince açık olmaması durumunda taraflardan her biri açıklama isteyebilir.\nII. Mahkemece karşı tarafa tebliğ yapılmasına karar verilirse, cevap verme süresini mahkeme belirler.\nIII. Açıklama istemi, kararın kesinleşmesinden sonra da her zaman istenebilir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen hükümlere dayanmaktadır. I. öncül 1. fıkraya, II. öncül 3. fıkraya ('belirleyeceği süre içinde') uygundur. Ancak III. öncül yanlıştır; çünkü 5. fıkraya göre istem 'kararın yerine getirilmesine kadar' yapılabilir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararın açıklanması kurumu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kararın açıklanması, kararın yerine getirilmesinden sonra da süresiz olarak istenebilir.",
+                "B": "Açıklama dilekçeleri, karşı taraf sayısına eşit nüsha olarak verilir.",
+                "C": "Kararı vermiş olan daire veya mahkeme, açıklama talebi üzerine karşı tarafa tebliğ yapmadan doğrudan karar vermek zorundadır.",
+                "D": "Kararların yeterince açık olmaması veya birbirine aykırı hüküm fıkraları taşıması halinde taraflardan her biri kararın açıklanmasını isteyebilir.",
+                "E": "Yanlışlıkların düzeltilmesi istemlerinde, kararın açıklanmasına ilişkin hükümler kıyasen dahi uygulanamaz."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen '...kararlar yeterince açık değilse, yahut birbirine aykırı hüküm fıkralarını taşıyorsa, taraflardan her biri kararın açıklanmasını veya aykırılığın giderilmesini isteyebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararlardaki yanlışlıkların düzeltilmesi kurumu ile ilgili;\n\nI. İki tarafın adı ve soyadı ile sıfatına ilişkin yanlışlıkların düzeltilmesi istenebilir.\nII. Hüküm fıkrasındaki hesap yanlışlıklarının düzeltilmesi talep edilebilir.\nIII. Yanlışlıkların düzeltilmesine karar verilirse, düzeltme ilamın altına yazılır.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'İki tarafın adı ve soyadı ile sıfatı... yanlışlıklar ile hüküm fıkrasındaki hesap yanlışlıklarının düzeltilmesi de istenebilir' ve 'düzeltme ilamın altına yazılır' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, yanlışlıkların düzeltilmesi kurumu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İki tarafın adı ve soyadı ile sıfatına ilişkin yanlışlıkların düzeltilmesi istenebilir.",
+                "B": "Hüküm fıkrasındaki hesap yanlışlıklarının düzeltilmesi talep edilebilir.",
+                "C": "Yanlışlıkların düzeltilmesine karar verilirse, düzeltme ilamın altına yazılır.",
+                "D": "Tarafların iddiaları sonucuna ilişkin yanlışlıkların düzeltilmesi istenebilir.",
+                "E": "Yanlışlıkların düzeltilmesi talebi, kararın açıklanmasında olduğu gibi sadece kararın yerine getirilmesine kadar istenebilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen '29 uncu maddenin son fıkrası dışında kalan hükümleri, bu istekler hakkında da uygulanır' hükmüne dayanmaktadır. 29. maddenin son fıkrası süre sınırını (kararın yerine getirilmesine kadar) düzenlediği için, bu sınır yanlışlıkların düzeltilmesinde uygulanmaz."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Kanun'da hüküm bulunmayan hususlarda;\n\nI. Ehliyet\nII. Feragat ve kabul\nIII. Üçüncü şahısların davaya katılması\n\nkonularından hangisinde veya hangilerinde Hukuk Usulü Muhakemeleri Kanunu hükümleri uygulanır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen '...ehliyet, üçüncü şahısların davaya katılması... feragat ve kabul... hallerinde... Hukuk Usulü Muhakemeleri Kanunu hükümleri uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Hukuk Usulü Muhakemeleri Kanunu hükümlerinin uygulanacağı haller ve istisnaları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Hakimin davaya bakmaktan memnuiyeti ve reddi konusunda Hukuk Usulü Muhakemeleri Kanunu uygulanır.",
+                "B": "Bilirkişiler, bilirkişilik bölge kurulları tarafından hazırlanan listelerden seçilir.",
+                "C": "Davanın ihbarı, tarafların talebi olmaksızın Danıştay, mahkeme veya hakim tarafından re'sen yapılır.",
+                "D": "Üçüncü şahısların davaya katılması hususunda Hukuk Usulü Muhakemeleri Kanunu hükümleri uygulanır.",
+                "E": "Elektronik işlemler ile ses ve görüntü nakledilmesi yoluyla duruşma icrasında Ceza Muhakemesi Kanunu hükümleri uygulanır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'elektronik işlemler ile ses ve görüntü nakledilmesi yoluyla duruşma icrasında Hukuk Usulü Muhakemeleri Kanunu hükümleri uygulanır' hükmüne dayanmaktadır. Seçenekte Ceza Muhakemesi Kanunu denilerek yanlış bilgi verilmiştir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Hukuk Usulü Muhakemeleri Kanunu hükümlerinin uygulandığı hallerden biri olan 'davanın ihbarı' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Davanın ihbarı, sadece tarafların yazılı talebi üzerine gerçekleştirilir.",
+                "B": "İhbar işlemi için karşı tarafın açık muvafakati aranır.",
+                "C": "Davanın ihbarı Danıştay, mahkeme veya hakim tarafından re'sen yapılır.",
+                "D": "İdari yargılamada davanın ihbarı müessesesi kesinlikle uygulanmaz.",
+                "E": "İhbar işlemi sadece bilirkişi incelemesi aşamasında yapılabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'Ancak, davanın ihbarı (…) Danıştay, mahkeme veya hakim tarafından re'sen yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Kanun'da veya özel kanunlarda yetkili idare mahkemesinin gösterilmemiş olması halinde uyuşmazlıklarda aşağıdaki mahkemelerden hangisi yetkilidir?",
+            "secenekler": {
+                "A": "Davacının yerleşim yerindeki idare mahkemesi",
+                "B": "Dava konusu işlemin tebliğ edildiği yerdeki idare mahkemesi",
+                "C": "Zararın meydana geldiği yerdeki idare mahkemesi",
+                "D": "Dava konusu olan idari işlemi veya idari sözleşmeyi yapan idari merciin bulunduğu yerdeki idare mahkemesi",
+                "E": "Uyuşmazlığın en hızlı çözülebileceği bölge idare mahkemesi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'yetkili idare mahkemesi, dava konusu olan idari işlemi veya idari sözleşmeyi yapan idari merciin bulunduğu yerdeki idare mahkemesidir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kamu görevlilerinin görevlerine son verilmesi veya emekli edilmeleri ile ilgili davalarda yetkili mahkeme aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kamu görevlisinin ikametgahının bulunduğu yer idare mahkemesi",
+                "B": "Kamu görevlisinin son görev yaptığı yer idare mahkemesi",
+                "C": "Kamu görevlisinin nüfusa kayıtlı olduğu yer idare mahkemesi",
+                "D": "İşlemi tesis eden idarenin merkezinin bulunduğu yer idare mahkemesi",
+                "E": "Kamu görevlisinin ilk atandığı yer idare mahkemesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Kamu görevlilerinin görevlerine son verilmesi, emekli edilmeleri... ile ilgili davalarda yetkili mahkeme, kamu görevlisinin son görev yaptığı yer idare mahkemesidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, hâkim ve savcıların mali ve sosyal haklarına ilişkin konularda açacakları davalarda yetkili mahkeme aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Hâkim veya savcının bizzat görev yaptığı yer idare mahkemesi",
+                "B": "Hâkim veya savcının görev yaptığı yerin idari yargı yetkisi yönünden bağlı olduğu bölge idare mahkemesi",
+                "C": "Hâkim veya savcının görev yaptığı yerin idari yargı yetkisi yönünden bağlı olduğu bölge idare mahkemesine en yakın bölge idare mahkemesinin bulunduğu yer idare mahkemesi",
+                "D": "Hâkimler ve Savcılar Kurulu'nun bulunduğu yer idare mahkemesi",
+                "E": "Adalet Bakanlığı'nın bulunduğu yer idare mahkemesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'yetkili mahkeme, hâkim veya savcının görev yaptığı yerin idari yargı yetkisi yönünden bağlı olduğu bölge idare mahkemesine en yakın bölge idare mahkemesinin bulunduğu yer idare mahkemesidir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kamu görevlileriyle ilgili davalarda yetkili mahkemenin belirlenmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Atanma ve nakillerle ilgili davalarda yetkili mahkeme, kamu görevlilerinin yeni veya eski görev yeri idare mahkemesidir.",
+                "B": "Görevle ilişik kesilmesi sonucunu doğurmayan disiplin cezalarında yetkili mahkeme, ilgilinin görevli bulunduğu yer idare mahkemesidir.",
+                "C": "Emekli edilme ile ilgili davalarda yetkili mahkeme, kamu görevlisinin ikametgâhının bulunduğu yer idare mahkemesidir.",
+                "D": "Görevden uzaklaştırma ile ilgili davalarda yetkili mahkeme, kamu görevlisinin son görev yaptığı yer idare mahkemesidir.",
+                "E": "İlerleme, yükselme ve sicil ile ilgili davalarda yetkili mahkeme, ilgilinin görevli bulunduğu yer idare mahkemesidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'emekli edilmeleri... ile ilgili davalarda yetkili mahkeme, kamu görevlisinin son görev yaptığı yer idare mahkemesidir' hükmüne dayanmaktadır. İkametgâh esas alınmaz."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, köy, belediye ve özel idareleri ilgilendiren mevzuatın uygulanmasına ilişkin davalarla sınır uyuşmazlıklarında yetkili mahkeme aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Uyuşmazlığın çıktığı ilin valiliğinin bulunduğu yer idare mahkemesi",
+                "B": "Mülki idari birimin, köy, belediye veya mahallenin bulunduğu yahut yeni bağlandığı yer idare mahkemesi",
+                "C": "Davacının yerleşim yerinin bulunduğu yer idare mahkemesi",
+                "D": "İçişleri Bakanlığının bulunduğu yer idare mahkemesi",
+                "E": "Bölge İdare Mahkemesinin bulunduğu yer idare mahkemesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'yetkili mahkeme, mülki idari birimin, köy, belediye veya mahallenin bulunduğu yahut yeni bağlandığı yer idare mahkemesidir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, taşınmaz malların bulunduğu yer idare mahkemesinin yetkili olduğu davalar kapsamında;\n\nI. İmar ve kamulaştırma,\nII. Kamu mallarına ilişkin davalar,\nIII. Ruhsat ve iskan\n\nkonularından hangisi veya hangileri yer almaktadır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 34'ün 1. fıkrasında belirtilen 'İmar, kamulaştırma, yıkım, işgal, tahsis, ruhsat ve iskan gibi taşınmaz mallarla ilgili mevzuatın uygulanmasında veya bunlara bağlı her türlü haklara veya kamu mallarına ilişkin idari davalarda yetkili mahkeme taşınmaz malların bulunduğu yer idare mahkemesidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, taşınır mallara ilişkin davalarda yetkili mahkeme aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Davacının ikametgâhının bulunduğu yer idare mahkemesi",
+                "B": "Davalının idare merkezinin bulunduğu yer idare mahkemesi",
+                "C": "Taşınır malın bulunduğu yer idare mahkemesi",
+                "D": "Taşınır malın sicile kayıtlı olduğu yer idare mahkemesi",
+                "E": "İşlemin tesis edildiği yer idare mahkemesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen 'Taşınır mallara ilişkin davalarda yetkili mahkeme, taşınır malın bulunduğu yer idare mahkemesidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari sözleşmelerden doğanlar dışında kalan tam yargı davalarında; zarar, idarenin herhangi bir eyleminden doğmuş ise yetkili mahkeme aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Davacının ikametgâhının bulunduğu yer idare mahkemesi",
+                "B": "Eylemin yapıldığı yer idare mahkemesi",
+                "C": "Davalının bulunduğu yer idare mahkemesi",
+                "D": "Zararın öğrenildiği yer idare mahkemesi",
+                "E": "İşlemi yapan üst makamın bulunduğu yer idare mahkemesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'Zarar... idarenin herhangi bir eyleminden doğmuş ise, hizmetin görüldüğü veya eylemin yapıldığı yer... İdari mahkemesidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari sözleşmelerden doğanlar dışında kalan tam yargı davalarında yetkili mahkemenin belirlenmesi ile ilgili;\n\nI. Zararı doğuran idari uyuşmazlığı çözümlemeye yetkili yer\nII. Hizmetin görüldüğü veya eylemin yapıldığı yer\nIII. Davacının ikametgahının bulunduğu yer\n\nhususlarından hangisi veya hangileri kanunda sıralanan yetki ölçütleri arasında yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 36'da sırasıyla belirtilen a, b ve c bentlerindeki hükümlere dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, vergi uyuşmazlıklarında yetkili mahkemenin belirlenmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Amme Alacaklarının Tahsil Usulu Kanunun uygulanmasında, ödeme emrini düzenleyen dairenin bulunduğu yer mahkemesi yetkilidir.",
+                "B": "Gümrük Kanununa göre alınması gereken vergilerde, vergiyi tarh ve tahakkuk ettiren dairenin bulunduğu yer mahkemesi yetkilidir.",
+                "C": "Vergi Usul Kanunu gereğince şikayet yoluyla vergi düzeltme taleplerinin reddine ilişkin işlemlerde, vergiyi tarh ve tahakkuk ettiren dairenin bulunduğu yer mahkemesi yetkilidir.",
+                "D": "Uyuşmazlık konusu vergi, resim ve harçlarda; bunları tarh ve tahakkuk ettiren dairenin bulunduğu yer mahkemesi yetkilidir.",
+                "E": "Kanunda sayılanlar dışındaki diğer uyuşmazlıklarda, davacının iş yeri merkezinin bulunduğu yerdeki vergi mahkemesi yetkilidir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 37'nin (d) bendinde belirtilen 'Diğer uyuşmazlıklarda dava konusu işlemi yapan... Dairenin bulunduğu yerdeki vergi mahkemesidir.' hükmüne dayanmaktadır. Davacının iş yeri merkezi esas alınmaz."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Amme Alacaklarının Tahsil Usulü Kanunu'nun uygulanmasında ödeme emrine karşı açılacak davalarda yetkili mahkeme aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Davacının ikametgâhının bulunduğu yerdeki vergi mahkemesi",
+                "B": "Ödeme emrini düzenleyen dairenin bulunduğu yerdeki vergi mahkemesi",
+                "C": "Haciz işleminin yapıldığı yerdeki idare mahkemesi",
+                "D": "Borcun doğduğu yerdeki vergi mahkemesi",
+                "E": "Maliye Bakanlığının bulunduğu yerdeki idare mahkemesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 37'nin (c) bendinde belirtilen 'Amme Alacaklarının Tahsil Usulu Kanunun uygulanmasında, ödeme emrini düzenleyen... Dairenin bulunduğu yerdeki vergi mahkemesidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Gümrük Kanunu uyarınca alınması gereken vergilerle ilgili işlemlerde yetkili vergi mahkemesi belirlenirken, ilgili dairenin hangi işlemi yapmış olması esas alınır?",
+            "secenekler": {
+                "A": "Ödeme emrini düzenlemiş olması",
+                "B": "Vergi düzeltme talebini reddetmiş olması",
+                "C": "Vergi, resim, harç ve benzeri mali yükümleri tarh ve tahakkuk ettirmiş olması",
+                "D": "Gümrük malına el koymuş olması",
+                "E": "Dava konusu işlemi tebliğ etmiş olması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen 'Gümrük Kanununa göre alınması gereken vergilerle... vergi, resim, harç ve benzeri mali yükümleri tarh ve tahakkuk ettiren... Dairenin bulunduğu yerdeki vergi mahkemesidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, vergi uyuşmazlıklarında yetkili mahkemenin tespitinde;\n\nI. Ödeme emrini düzenleyen daire,\nII. Uyuşmazlık konusu vergiyi tarh ve tahakkuk ettiren daire,\nIII. Davacının iş yeri merkezinin bulunduğu yerdeki daire\n\nunsurlarından hangisi veya hangileri, davanın açılacağı vergi mahkemesinin yerini belirleyen ölçütler arasında yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen hükümlere dayanmaktadır. Madde metninde 'tarh ve tahakkuk ettiren' (II) ve 'ödeme emrini düzenleyen' (I) dairelerin bulunduğu yer mahkemeleri yetkili sayılmışken, 'iş yeri merkezi' (III) gibi bir ölçüte yer verilmemiştir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bağlantılı davaların dosyalarının gönderileceği merciler ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bağlantılı davalar değişik bölge idare mahkemesinin yargı çevrelerindeki mahkemelerde ise dosyalar Hâkimler ve Savcılar Kuruluna gönderilir.",
+                "B": "Bağlantılı davalardan birinin Danıştayda bulunması halinde dava dosyası Danıştaya gönderilir.",
+                "C": "Bağlantılı davalar aynı bölge idare mahkemesinin yargı çerçevesindeki mahkemelerde ise dosyalar Danıştaya gönderilir.",
+                "D": "Bağlantı kararı sadece tarafların isteği üzerine verilebilir, mahkeme re'sen karar veremez.",
+                "E": "Farklı idare mahkemelerinde açılan davalarda bağlantı kararı verilemez, davaların aynı mahkemede olması şarttır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 38'in 3. fıkrasinda belirtilen 'Bağlantılı davalardan birinin Danıştayda bulunması halinde dava dosyası Danıştaya gönderilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idare mahkemesi, vergi mahkemesi veya Danıştaya açılmış bulunan davalarda bağlantının varlığına karar verilmesi usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece davalı idarenin talebi üzerine karar verilebilir.",
+                "B": "Sadece davacının talebi üzerine karar verilebilir.",
+                "C": "Tarafların isteği olmaksızın mahkeme kendiliğinden karar veremez.",
+                "D": "Taraflardan birinin isteği üzerine veya doğrudan doğruya mahkemece karar verilir.",
+                "E": "Bağlantı kararı verilebilmesi için her iki tarafın da ortak rızası şarttır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 38'in 2. fıkrasında belirtilen '...bağlantının varlığına taraflardan birinin isteği üzerine veya doğrudan doğruya mahkemece karar verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bağlantılı davalarla ilgili aşağıdaki ifadelerden hangisi veya hangileri doğrudur?\n\nI. Aynı maddi veya hukuki sebepten doğan davalar bağlantılı dava sayılır.\nII. Biri hakkında verilecek hüküm diğerini etkileyecek nitelikte olan davalar bağlantılı dava sayılır.\nIII. Davalarda bağlantının varlığına sadece tarafların isteği üzerine karar verilebilir, mahkeme kendiliğinden karar veremez.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Aynı maddi veya hukuki sebepten doğan ya da biri hakkında verilecek hüküm, diğerini etkileyecek nitelikte olan davalar bağlantılı davalardır.' hükmüne ve bağlantı kararının 'doğrudan doğruya mahkemece' de verilebileceği hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bağlantılı davalarla ilgili olarak aşağıdaki durumların hangisinde veya hangilerinde dava dosyaları Danıştaya gönderilir?\n\nI. Bağlantılı davalardan birinin Danıştayda bulunması\nII. Bağlantılı davaların, değişik bölge idare mahkemesinin yargı çevrelerindeki mahkemelerde bulunması\nIII. Bağlantılı davaların, aynı bölge idare mahkemesinin yargı çerçevesindeki mahkemelerde bulunması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen hükümlere dayanmaktadır. Maddeye göre bağlantılı davalardan biri Danıştayda ise (I) veya davalar değişik bölge idare mahkemesi yargı çevrelerinde ise (II) dosyalar Danıştaya gönderilir. Ancak aynı bölge idare mahkemesi yargı çerçevesinde ise (III) o yer bölge idare mahkemesine gönderilir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Danıştayın bağlantılı dava dosyalarını incelemesi ve karara bağlaması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Danıştayın yetkili dairesi, bağlantılı dava dosyalarını öncelikle ve ivedilikle inceler.",
+                "B": "Davalardan biri Danıştayda açılmışsa ve uyuşmazlık Danıştayın görevine giriyorsa, davaların tümü Danıştayda görülür.",
+                "C": "Danıştayca verilen karar bağlantı bulunmadığı yolunda ise, dosyalar doğrudan uyuşmazlığı çıkaran idari mercie iade edilir.",
+                "D": "Davaların çözümlenmesi ayrı bölge idare mahkemelerinin görev alanına giriyorsa, Danıştay yetkili mahkemeyi belirtir ve dosyaları oraya gönderir.",
+                "E": "Danıştay tarafından yetkili kılınan mahkeme, durumu ilgililere duyurur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 39'un 2. fıkrasının (c) bendinde belirtilen 'Danıştayca verilen karar bağlantı bulunmadığı yolunda ise, dosyalar İlgili mahkemelere geri gönderilir.' hükmüne dayanmaktadır. Dosyalar idari mercie değil, mahkemelere gönderilir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Danıştay bağlantının bulunduğuna karar verdiği takdirde; davaların çözümlenmesi, ayrı bölge idare mahkemesinin yargı çevresindeki idare veya vergi mahkemelerinin görevlerine giren uyuşmazlıklarla ilgili ise yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Danıştayın ilgili dairesi yetkili mahkemeyi kararında belirtir ve dosyaları bu mahkemeye gönderir.",
+                "B": "Dosyalar, uyuşmazlığın çıktığı yerdeki en kıdemli idare mahkemesine gönderilir.",
+                "C": "Davaların tümü Danıştayda görülür ve karara bağlanır",
+                "D": "Dosyalar, tarafların üzerinde anlaştığı bölge idare mahkemesine devredilir.",
+                "E": "Bağlantı kararı kaldırılarak dosyalar ilk açıldıkları mahkemelere iade edilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen 'Danıştayın ilgili dairesi yetkili mahkemeyi kararında belirtir ve dosyaları bu mahkemeye göndererek diğer mahkemeye veya mahkemelere durumu bildirir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bağlantılı dava dosyalarından biri Danıştayda açılmış ve çözümlenmesi Danıştayın görevine dahil bir uyuşmazlıkla ilgili ise, davaların görülme yeri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Davaların tümü Danıştayda görülür.",
+                "B": "Davalar, uyuşmazlığın çıktığı yerdeki idare mahkemesinde birleştirilir.",
+                "C": "Danıştay, yetkili bölge idare mahkemesini belirler ve dosyaları oraya gönderir.",
+                "D": "Her dava açıldığı mahkemede görülmeye devam eder, sadece kararlar birbirine tebliğ edilir.",
+                "E": "Dosyalar, en kıdemli hakimin bulunduğu mahkemeye gönderilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 39'un 2. fıkrasının (a) bendinde belirtilen '...davaların tümü Danıştayda görülür...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bölge idare mahkemesince yapılan inceleme sonucunda bağlantının bulunduğu yolunda karar verilmesi hâlinde yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dosyalar ilgili mahkemelere geri gönderilir ve bağlantı olmadığı bildirilir.",
+                "B": "Yetkili mahkeme kararda belirtilmek suretiyle dosyalar yetkili mahkemeye gönderilir ve durum diğer mahkemeye de duyurulur.",
+                "C": "Karar taraflara tebliğ edilir ve tarafların on beş gün içinde Danıştay'a başvurması beklenir.",
+                "D": "Dosyalar doğrudan Danıştay'a sevk edilir ve nihai karar Danıştay tarafından verilir.",
+                "E": "Usuli işlemler durdurulmaksızın her mahkeme kendi elindeki davaya bakmaya devam eder."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Bölge idare mahkemesince verilen karar, bağlantının bulunduğu yolunda ise, yetkili mahkeme kararda belirtilmek suretiyle dosyalar yetkili mahkemeye gönderilir. Durum ayrıca diğer mahkemeye de duyurulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Bölge İdare Mahkemesince yapılan inceleme sonucunda bağlantı olmadığı yolunda karar verilmesi halinde yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dosyalar Danıştaya gönderilir.",
+                "B": "Dosyalar ilgili mahkemelere geri gönderilir.",
+                "C": "Bölge İdare Mahkemesi uyuşmazlığı kendisi karara bağlar.",
+                "D": "Dosyalar en yakın yetkili idare mahkemesine tevzi edilir.",
+                "E": "Karar kesinleşinceye kadar dosyalar Bölge İdare Mahkemesinde bekletilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 40'ın 2. fıkrasinda belirtilen 'Bölge idare mahkemesince verilen karar bağlantı olmadığı yolunda ise, dosyalar ilgili mahkemelere geri gönderilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bağlantı iddialarının mahkemelerce kabul edilmemesi üzerine verilen ara kararının tebliğini izleyen kaç gün içinde ilgili mercilere başvuruda bulunulabilir?",
+            "secenekler": {
+                "A": "7",
+                "B": "10",
+                "C": "15",
+                "D": "30",
+                "E": "60"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen 'Taraflar, tebliğ tarihini izleyen onbeş gün içerisinde... başvuruda bulunabilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bağlantı iddialarının mahkemelerce kabul edilmemesi halinde, aynı yargı çevresindeki mahkemeler için başvuru aşağıdaki mercilerin hangisine yapılmalıdır?",
+            "secenekler": {
+                "A": "Danıştay",
+                "B": "O yer bölge idare mahkemesi",
+                "C": "Adalet Bakanlığı",
+                "D": "Hakimler ve Savcılar Kurulu",
+                "E": "Uyuşmazlık Mahkemesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen 'aynı yargı çevresindeki mahkemeler için o yer bölge idare mahkemesine... başvuruda bulunabilirler.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bağlantı iddialarının reddi üzerine yapılacak başvuruları inceleyip karara bağlama yetkisi; \n\nI. Bölge idare mahkemesi, \n\nII. Danıştay görevli dairesi, \n\nIII. Uyuşmazlık Mahkemesi \n\nmercilerinden hangisine veya hangilerine ait olabilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 41'de belirtilen 'Başvuru üzerine bölge idare mahkemesi veya Danıştay görevli dairesince durum... karara bağlanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bağlantı iddiası ve bu konuda verilecek kararların usul ve sonuçları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bağlantının varlığı hakkında karar verilinceye kadar usuli işlemler durur.",
+                "B": "Bağlantının bulunup bulunmadığı yolundaki bölge idare mahkemesi kararları kesindir.",
+                "C": "Yetkili kılınan mahkeme veya Danıştay, davalara bırakıldığı yerden devam eder.",
+                "D": "Bağlantının bulunup bulunmadığı yolundaki Danıştay kararları kesindir.",
+                "E": "Bağlantıya ilişkin işlemler sonuçlandırıldıktan sonra yetkili kılınan mahkeme davaya en baştan başlar."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen '...yetkili kılınan mahkeme veya Danıştay, davalara bırakıldığı yerden devam eder.' hükmüne dayanmaktadır. Davanın en baştan başlaması söz konusu değildir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bağlantının varlığı yolunda idare ve vergi mahkemelerince veya bu konuda yapılacak itiraz üzerine yetkili merci tarafından bağlantı hakkında karar verilinceye kadar ortaya çıkan hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dava dosyası işlemden kaldırılır.",
+                "B": "Yürütmenin durdurulmasına kendiliğinden karar verilmiş sayılır.",
+                "C": "Usuli işlemler durur.",
+                "D": "Davalı idareye savunma için ek süre verilir.",
+                "E": "Dosya doğrudan Danıştay'a gönderilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen 'Bağlantının varlığı yolunda idare ve vergi mahkemelerince veya bu konuda yapılacak itiraz üzerine bölge idare mahkemesi veya Danıştayca bağlantı hakkında karar verilinceye kadar usuli işlemler durur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, görevsizlik veya yetkisizlik sebebiyle dosyanın gönderildiği mahkemenin de kendisini görevsiz veya yetkisiz görmesi halinde, söz konusu mahkeme ile ilk kararı veren mahkeme aynı bölge idare mahkemesinin yargı çevresinde ise bu uyuşmazlık aşağıdaki mercilerden hangisi tarafından çözümlenir?",
+            "secenekler": {
+                "A": "Danıştay",
+                "B": "Uyuşmazlık Mahkemesi",
+                "C": "Bölge İdare Mahkemesi",
+                "D": "Hakimler ve Savcılar Kurulu",
+                "E": "Adalet Bakanlığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen 'söz konusu mahkeme ile ilk görevsizlik veya yetkisizlik kararını veren mahkeme aynı bölge idare mahkemesinin yargı çevresinde ise, uyuşmazlık bölge idare mahkemesince... çözümlenir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, görev ve yetki uyuşmazlıklarına ilişkin hükümler gereğince verilen kararlar üzerine, görevli ve yetkili kılınan mahkemeye yeniden dava açılması halinde uygulanacak mali işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Başvuru harcı iki katı olarak alınır.",
+                "B": "Yeniden harç alınmaz.",
+                "C": "Sadece maktu karar harcı alınır.",
+                "D": "Harçların yarısı iade edilir.",
+                "E": "Nispi harç oranı uygulanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen 'Bu madde hükümleri gereğince verilen kararlar ile görevli ve yetkili kılınan mahkemeye yeniden dava açılması halinde harç alınmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, görev ve yetki uyuşmazlıklarına ilişkin verilen kararların hukuki niteliği ve sonuçları hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Danıştay ve bölge idare mahkemesince verilen bu kararlara karşı 15 gün içinde itiraz edilebilir.",
+                "B": "Görevli ve yetkili kılınan mahkemeye yeniden dava açılması halinde harcın yarısı peşin alınır.",
+                "C": "Danıştay ve bölge idare mahkemesince görev ve yetki uyuşmazlıkları ile ilgili olarak verilen kararlar kesindir.",
+                "D": "Bu kararlar sadece ilgili mahkemelere bildirilir, taraflara tebliğ edilmez.",
+                "E": "Verilen kararlar üzerine yeniden dava açılması halinde başvuru harcı iki katı olarak tahsil edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen 'Danıştay ve bölge idare mahkemesince görev ve yetki uyuşmazlıkları ile ilgili olarak verilen kararlar kesindir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, tarafların veya mahkemelerin istemi üzerine; \n\nI. Yetkili mahkemenin bir davaya bakmasına fiili veya hukuki bir engel çıkması, \nII. İki mahkemenin yargı çevresi sınırlarında tereddüt edilmesi, \nIII. İki mahkemenin de aynı davaya bakmaya yetkili olduklarına karar vermeleri, \n\ndurumlarından hangisinde veya hangilerinde dosyanın merci tayini için ilgili mercie gönderilmesi gerekir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Yetkili mahkemenin bir davaya bakmasına fiili veya hukuki bir engel çıktığı veya iki mahkemenin yargı çevresi sınırlarında tereddüt edildiği veya iki mahkemenin de aynı davaya bakmaya yetkili olduklarına karar verdikleri hallerde...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, yetkili mahkemenin bir davaya bakmasına fiili veya hukuki bir engel çıktığı hallerde, uyuşmazlığın aynı yargı çevresindeki mahkemeler arasında çıkması durumunda merci tayini için dosya aşağıdaki mercilerden hangisine gönderilir?",
+            "secenekler": {
+                "A": "Danıştay Başkanlığına",
+                "B": "Adalet Bakanlığına",
+                "C": "O yargı çevresindeki bölge idare mahkemesine",
+                "D": "Hakimler ve Savcılar Kuruluna",
+                "E": "Uyuşmazlık Mahkemesine"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Uyuşmazlığın aynı yargı çevresindeki mahkeme veya mahkemeler arasında çıkması halinde, o yargı çevresindeki bölge idare mahkemesine... Gönderilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, merci tayini talebi üzerine Danıştay ve bölge idare mahkemesinin görevli ve yetkili mahkemeyi kararlaştırmasına ilişkin verdiği kararlar hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu kararlara karşı tebliğ tarihinden itibaren yedi gün içinde itiraz edilebilir.",
+                "B": "Bu kararlar kesindir.",
+                "C": "Bu kararlara karşı on beş gün içinde temyiz yoluna başvurulabilir.",
+                "D": "Bu kararlar, tarafların onayı ile kesinleşir.",
+                "E": "Bu kararlar, sadece usul eksikliği durumunda bir üst mahkemeye taşınabilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Danıştay ve bölge idare mahkemesinin bu konuda vereceği kararlar kesindir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, istinaf incelemesi sonucunda bölge idare mahkemesinin vereceği kararlar ve uygulayacağı usuller ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bölge idare mahkemesi, ilk derece mahkemesi kararını hukuka uygun bulursa istinaf başvurusunun reddine karar verir.",
+                "B": "Karardaki maddi yanlışlıkların düzeltilmesi mümkün ise bölge idare mahkemesi gerekli düzeltmeyi yaparak aynı kararı verir.",
+                "C": "Bölge idare mahkemesi, ilk derece mahkemesi kararını hukuka uygun bulmadığı takdirde, işin esası hakkında karar vermeksizin dosyayı yeniden karar verilmek üzere ilk derece mahkemesine gönderir.",
+                "D": "İnceleme sırasında ihtiyaç duyulması hâlinde kararı veren mahkeme veya başka bir yer idare ya da vergi mahkemesi istinabe olunabilir.",
+                "E": "Davaya görevsiz veya yetkisiz mahkeme tarafından bakılmış olması hâlinde, bölge idare mahkemesi başvuruyu kabul ederek ilk derece mahkemesi kararını kaldırır ve dosyayı ilgili mahkemeye gönderir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 45'in 4. fıkrasında belirtilen 'Bölge idare mahkemesi, ilk derece mahkemesi kararını hukuka uygun bulmadığı takdirde... işin esası hakkında yeniden bir karar verir.' hükmüne dayanmaktadır. (Dosyayı geri gönderme sadece görevsizlik/yetkisiz gibi usulü durumlarda olur, esasta olmaz)."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bölge idare mahkemesinin istinaf incelemesi sonucunda verebileceği kararlar ile ilgili;\n\nI. İlk derece mahkemesi kararını hukuka uygun bulursa istinaf başvurusunun reddine karar verir.\nII. Karardaki maddi yanlışlıkların düzeltilmesi mümkün ise gerekli düzeltmeyi yaparak aynı kararı verir.\nIII. İlk derece mahkemesi kararını hukuka uygun bulmadığı takdirde, her durumda dosyayı yeniden karar verilmek üzere ilk derece mahkemesine geri gönderir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 45'te belirtilen hükümlere dayanmaktadır. I. ve II. öncüller Kanun'un 3. fıkrasına uygundur. Ancak III. öncül yanlıştır; çünkü Kanun'un 4. fıkrasına göre bölge idare mahkemesi kararı hukuka uygun bulmazsa kararı kaldırır ve 'işin esası hakkında yeniden bir karar verir' (dosyayı geri gönderme durumu sadece 5. fıkradaki istisnai hallerde geçerlidir)."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bölge idare mahkemesi, ilk inceleme üzerine verilen kararlara karşı yapılan istinaf başvurusunu haklı bulduğu takdirde, aşağıdaki hâllerden hangisinde işin esası hakkında karar vermez ve dosyayı ilgili mahkemeye gönderir?",
+            "secenekler": {
+                "A": "İlk derece mahkemesi kararını esastan hukuka aykırı bulduğu hâllerde",
+                "B": "Kararda düzeltilmesi mümkün maddi yanlışlıkların bulunduğu hâllerde",
+                "C": "İnceleme sırasında başka bir yer mahkemesinin istinabe edilmesine ihtiyaç duyulduğu hâllerde",
+                "D": "Davaya yasaklanmış hâkim tarafından bakılmış olması hâlinde",
+                "E": "Dava konusunun kanunda belirtilen parasal sınırı aştığı hâllerde"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 45'in 5. fıkrasında belirtilen 'davaya görevsiz veya yetkisiz mahkeme yahut reddedilmiş veya yasaklanmış hâkim tarafından bakılmış olması hâllerinde... dosyayı ilgili mahkemeye gönderir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bölge idare mahkemelerinin aşağıdaki davalar hakkında verdikleri kararlardan hangisi, temyiz edilebilecek kararlar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Düzenleyici işlemlere karşı açılan iptal davaları.",
+                "B": "Müşterek kararnameyle yapılan atama ve görevden alma işlemleri hakkında açılan iptal davaları.",
+                "C": "Belli bir ticari faaliyetin icrasını on beş gün süreyle engelleyen işlemlere karşı açılan iptal davaları.",
+                "D": "İmar planları ve parselasyon işlemlerinden kaynaklanan davalar.",
+                "E": "Serbest Bölgeler Kanununun uygulanmasından doğan davalar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 46'nın (e) bendinde belirtilen '...süresiz veya otuz gün yahut daha uzun süreyle engelleyen...' hükmüne dayanmaktadır. On beş günlük engelleme bu kapsama girmez."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, konusu iki yüz yetmiş bin Türk lirasını aşıp dokuz yüz yirmi bin Türk lirasını aşmayan vergi davaları, tam yargı davaları ve idari işlemler hakkında açılan davaların Danıştayda temyiz edilebilmesi için Kanun'da aranan şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kararın bölge idare mahkemesi tarafından oy birliği ile alınmış olması",
+                "B": "İstinaf kanun yolu incelemesinde kaldırma kararı üzerine yeniden karar verilmiş olması",
+                "C": "Davanın konusunun düzenleyici ve denetleyici kurulların kararlarına ilişkin olması",
+                "D": "İlgili işlemin müşterek kararname ile tesis edilmiş olması",
+                "E": "Davanın duruşmalı olarak yapılmış olması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'istinaf kanun yolu incelemesinde kaldırma kararı üzerine yeniden karar verilen davalar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bölge idare mahkemelerinin aşağıdaki davalar hakkında verdikleri kararlardan hangileri, başka kanunlarda aksine hüküm bulunsa dahi Danıştayda temyiz edilebilir?\n\nI. Düzenleyici işlemlere karşı açılan iptal davaları\nII. İmar planları ve parselasyon işlemlerinden kaynaklanan davalar\nIII. Ülke çapında uygulanan sınavlar hakkında açılan davalar",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 46'da yer alan (a), (g) ve (i) bentlerinde sayılan hükümlere dayanmaktadır. Metinde her üç dava türü de temyiz edilebilecek kararlar arasında sayılmıştır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, temyiz dilekçesi verilirken gerekli harç ve giderlerin tamamının ödenmemiş olması halinde, kararı veren merci tarafından verilecek tamamlama süresi ve bu süre içinde eksikliğin giderilmemesi üzerine verilen karara karşı başvuru süresi sırasıyla aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "On beş gün - Yedi gün",
+                "B": "Yedi gün - Yedi gün",
+                "C": "Otuz gün - On beş gün",
+                "D": "Yedi gün - Otuz gün",
+                "E": "On beş gün - Otuz gün"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 48'in 6. fıkrasında belirtilen '...yedi günlük süre içerisinde tamamlanması...' ve '...tebliğ tarihini izleyen günden itibaren yedi gün içinde temyiz yoluna başvurulabilir.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararı süresinde temyiz etmemiş olan tarafın, karşı tarafın temyiz dilekçesine verdiği cevap dilekçesinde temyiz isteminde bulunması durumu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Süresi geçtiği için bu istem dikkate alınmaz ve reddedilir.",
+                "B": "Cevap veren, kararı süresinde temyiz etmemiş olsa bile cevap dilekçesi temyiz dilekçesi yerine geçer.",
+                "C": "Bu şekilde yapılan temyiz başvurusu sadece yürütmenin durdurulması istemini içerebilir.",
+                "D": "Karşı tarafın açık muvafakati olmadıkça süresi geçen temyiz istemi incelenmez.",
+                "E": "Bu usul sadece duruşmalı işlerde geçerlidir, dosya üzerinden yapılan incelemelerde uygulanamaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 48'in 3. fıkrasında belirtilen 'Cevap veren, kararı süresinde temyiz etmemiş olsa bile düzenleyeceği dilekçesinde, temyiz isteminde bulunabilir. Bu takdirde bu dilekçeler temyiz dilekçesi yerine geçer.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, yürütmenin durdurulması isteği bulunan temyiz dilekçeleri ile ilgili yapılacak işlem hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Dilekçeler, karşı tarafa tebliğ edilmeden dosya ile birlikte ilgili mercie gönderilir.",
+                "B": "Danıştayda görevli daire veya kurul tarafından yürütmenin durdurulması istemi hakkında karar verilir.",
+                "C": "Yürütmenin durdurulması istemi hakkında karar verildikten sonra tebligat, kararı veren ilk derece mahkemesince yapılarak dosya tekemmül ettirilir.",
+                "D": "Danıştayın ilk derece mahkemesi olarak baktığı davalarda dosya, konusuna göre İdari veya Vergi Dava Daireleri Kuruluna gönderilir.",
+                "E": "Kararı veren bölge idare mahkemesince dosya, yürütmenin durdurulması istemi hakkında karar verilmek üzere Danıştay Başkanlığına gönderilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen 'Danıştayda görevli daire veya kurul tarafından yürütmenin durdurulması istemi hakkında karar verildikten sonra tebligat bu daire veya kurulca yapılarak dosya tekemmül ettirilir' hükmüne dayanmaktadır. Tebligatı ilk derece mahkemesi değil, ilgili daire veya kurul yapar."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, temyiz dilekçesi verilirken gerekli harç ve giderlerin tamamının ödenmemiş olması durumu ve sonuçları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kararı veren merci tarafından ilgiliye, eksikliğin tamamlanması için yedi günlük süre verilir.",
+                "B": "Süre verilmesine ilişkin bildirimde, eksikliğin tamamlanmaması halinde temyizden vazgeçilmiş sayılacağı hususu yazılı olarak belirtilir.",
+                "C": "Verilen süre içinde harç ve giderler tamamlanmadığı takdirde, ilgili merci kararın temyiz edilmemiş sayılmasına karar verir.",
+                "D": "İlgili merciin temyiz edilmemiş sayılmasına ilişkin verdiği kararlar kesindir ve bu kararlara karşı herhangi bir kanun yoluna başvurulamaz.",
+                "E": "Temyizin kanuni süre geçtikten sonra yapılması halinde de kararı veren merci, temyiz isteminin reddine karar verir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 48'in 6. fıkrasında belirtilen 'İlgili merciin bu kararları ile... temyiz isteminde bulunulmamış sayılmasına ilişkin kararlarına karşı, tebliğ tarihini izleyen günden itibaren yedi gün içinde temyiz yoluna başvurulabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, temyiz incelemesi sonucunda Danıştay'ın kararı 'düzelterek onaması' için aşağıdaki durumlardan hangisinin gerçekleşmiş olması gerekir?",
+            "secenekler": {
+                "A": "Kararın sonucu hukuka uygun olmakla birlikte gösterilen gerekçenin yanlış bulunması",
+                "B": "Kararda yeniden yargılama yapılmasına ihtiyaç duyulmayan maddi hataların bulunması",
+                "C": "Usul hükümlerinin uygulanmasında kararı etkileyebilecek nitelikte eksikliklerin bulunması",
+                "D": "Mahkemenin görev ve yetki dışında bir işe bakmış olması",
+                "E": "Kararın hukuka aykırı olması sebebiyle bozulmasının gerekmesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen 'Kararda yeniden yargılama yapılmasına ihtiyaç duyulmayan maddi hatalar ile düzeltilmesi mümkün eksiklik veya yanlışlıklar varsa kararı düzelterek onar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, temyiz incelemesi sonunda Danıştay, aşağıdakilerden hangisinin veya hangilerinin varlığı halinde incelenen kararı bozar?\n\nI. Görev ve yetki dışında bir işe bakılmış olması\nII. Hukuka aykırı karar verilmesi\nIII. Kararda yeniden yargılama yapılmasına ihtiyaç duyulmayan maddi hataların bulunması\nIV. Usul hükümlerinin uygulanmasında kararı etkileyebilecek nitelikte hata veya eksikliklerin bulunması",
+            "secenekler": {
+                "A": "Yalnız II",
+                "B": "I ve II",
+                "C": "I, II ve IV",
+                "D": "II, III ve IV",
+                "E": "I, II, III ve IV"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen bozma sebepleri hükmüne dayanmaktadır. III numaralı öncül (maddi hatalar) 'düzelterek onama' sebebidir, bozma sebebi değildir. I, II ve IV ise kanunda sayılan bozma sebepleridir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, temyiz incelemesi sonunda Danıştay, kararın sonucunu hukuka uygun bulmakla birlikte gösterilen gerekçeyi doğru bulmazsa veya eksik bulursa aşağıdaki kararlardan hangisini verir?",
+            "secenekler": {
+                "A": "Kararı, gerekçesini değiştirerek onar.",
+                "B": "Kararı usulden bozar.",
+                "C": "Kararı esastan bozar.",
+                "D": "Dosyayı yeniden inceleme yapılması için ilk derece mahkemesine iade eder.",
+                "E": "Kararı düzelterek onar."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 49'un 1. fıkrasının (a) bendinde belirtilen '...kararı, gerekçesini değiştirerek onar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bölge idare mahkemesinin Danıştayca verilen bozma kararına uymayarak kararında ısrar etmesi ve bu ısrar kararının temyiz edilmesi hâlinde, talep konusuna göre inceleme ve karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Danıştay Başsavcılığına",
+                "B": "Uyuşmazlığın türüne göre ilgili Danıştay Dairesine",
+                "C": "Danıştay İdari veya Vergi Dava Daireleri Kuruluna",
+                "D": "Kararı veren Bölge İdare Mahkemesi Başkanlar Kuruluna",
+                "E": "Anayasa Mahkemesine"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 50'de belirtilen '...ısrar kararının temyizi hâlinde, talep, konusuna göre Danıştay İdari veya Vergi Dava Daireleri Kurulunca incelenir ve karara bağlanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Danıştay ilgili dairesinin onamaya ilişkin kararları, dosyanın geldiği tarihten itibaren kaç gün içinde taraflara tebliğe çıkarılır?",
+            "secenekler": {
+                "A": "Beş",
+                "B": "Yedi",
+                "C": "On",
+                "D": "On beş",
+                "E": "Otuz"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 50'de belirtilen 'Bu kararlar, dosyanın geldiği tarihten itibaren yedi gün içinde taraflara tebliğe çıkarılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, 'kanun yararına temyiz' kurumu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İstinaf veya temyiz incelemesinden geçmeden kesinleşmiş kararlar için başvurulabilir.",
+                "B": "Kanun yararına temyiz istemi, ilgili bakanlıkların lüzum göstermesi üzerine veya kendiliğinden Başsavcı tarafından yapılır.",
+                "C": "Kanun yararına bozma kararı Resmi Gazete'de yayımlanır.",
+                "D": "Kanun yararına verilen bozma kararı, daha önce kesinleşmiş olan merci kararının hukuki sonuçlarını ortadan kaldırır.",
+                "E": "Nitelik bakımından yürürlükteki hukuka aykırı bir sonucun ifade edilmesi durumunda bu yola başvurulur."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 51'de belirtilen 'Bu bozma kararı, daha önce kesinleşmiş olan merci kararının hukuki sonuçlarını kaldırmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, aşağıdakilerden hangisi veya hangileri kanun yararına temyiz olunabilecek kararlar kapsamında yer alır?\n\nI. İdare ve vergi mahkemelerinin kesin olarak verdiği kararlar\nII. Bölge idare mahkemelerinin kesin olarak verdiği kararlar\nIII. İstinaf veya temyiz incelemesinden geçmeden kesinleşmiş bulunan kararlar",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 51'de belirtilen 'İdare ve vergi mahkemeleri ile bölge idare mahkemelerinin kesin olarak verdiği kararlar ile istinaf veya temyiz incelemesinden geçmeden kesinleşmiş bulunan kararlardan...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kanun yararına temyiz incelemesi sonucunda verilen bozma kararı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bozma kararı, daha önce kesinleşmiş olan merci kararının hukuki sonuçlarını ortadan kaldırır.",
+                "B": "Bozma kararı üzerine dosya, yeniden yargılama yapılması için ilgili mahkemeye gönderilir.",
+                "C": "Bozma kararı, daha önce kesinleşmiş olan merci kararının hukuki sonuçlarını kaldırmaz.",
+                "D": "Kanun yararına bozma kararı verildiğinde, kararın yürütülmesi kendiliğinden durur.",
+                "E": "Bozma kararının bir örneği sadece davacı tarafa tebliğ edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 51'de belirtilen 'Bu bozma kararı, daha önce kesinleşmiş olan merci kararının hukuki sonuçlarını kaldırmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, temyiz veya istinaf aşamasında yürütmenin durdurulması istemlerinde teminat alınması ile ilgili;\nI. İdare\nII. Adli yardımdan yararlananlar\nIII. İptal davası açan tüm gerçek kişiler\nyukarıdakilerden hangisinden veya hangilerinden Kanun gereği teminat alınmaz?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen 'İdareden ve adli yardımdan yararlananlardan teminat alınmaz.' hükmüne dayanmaktadır. İptal davalarında teminat istenmemesi takdire bağlıdır, kesin bir muafiyet değildir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, kararın bozulmasının yürütmeye etkisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kararın bozulması, kararın yürütülmesini kendiliğinden durdurur.",
+                "B": "Kararın bozulması, yürütmeyi ancak davacının talebi üzerine durdurur.",
+                "C": "Bozma kararı verilse dahi yürütmenin durması için ayrıca teminat yatırılması şarttır.",
+                "D": "Kararın bozulması, yürütmeyi durdurmaz; mahkemenin yeni bir karar vermesi beklenir.",
+                "E": "Bozma kararı üzerine yürütmenin durması için ilgili Danıştay dairesinin ayrıca karar vermesi gerekir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen 'Kararın bozulması, kararın yürütülmesini kendiliğinden durdurur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, temyiz veya istinaf başvurularının yürütmenin durdurulmasına etkisi ve teminat şartı ile ilgili;\n\nI. Temyiz veya istinaf yoluna başvurulmuş olması, mahkeme kararının yürütülmesini kendiliğinden durdurur.\nII. İdareden ve adli yardımdan yararlananlardan yürütmenin durdurulması için teminat alınmaz.\nIII. Kararın bozulması, kararın yürütülmesini kendiliğinden durdurur.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen 'Temyiz veya istinaf yoluna başvurulmuş olması... yürütülmesini durdurmaz.', 'İdareden ve adli yardımdan yararlananlardan teminat alınmaz.' ve 'Kararın bozulması, kararın yürütülmesini kendiliğinden durdurur.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, yargılamanın yenilenmesi sebepleri arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Bilirkişinin kasıtla gerçeğe aykırı beyanda bulunduğunun mahkeme kararıyla belirlenmesi",
+                "B": "Lehine karar verilen tarafın, karara etkisi olan bir hile kullanmış olması",
+                "C": "Karara esas olarak alınan bir ilam hükmünün, kesinleşen bir mahkeme kararıyla bozularak ortadan kalkması",
+                "D": "Vekil veya kanuni temsilci olmayan kimseler ile davanın görülüp karara bağlanmış bulunması",
+                "E": "Hükmün verilmesinden sonra, benzer konulardaki içtihatların davacı lehine değişmiş olması"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 53'te belirtilen yargılamanın yenilenmesi sebepleri arasında içtihat değişikliğinin sayılmamış olması hükmüne dayanmaktadır. Diğer seçenekler (A, B, C, D) kanun metninde açıkça sayılmıştır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, hükmün İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşmenin ihlali suretiyle verildiğinin Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmesi durumunda, yargılamanın yenilenmesi istemi, bu kararın kesinleştiği tarihten itibaren kaç yıl içinde yapılmalıdır?",
+            "secenekler": {
+                "A": "Bir yıl",
+                "B": "İki yıl",
+                "C": "Üç yıl",
+                "D": "Beş yıl",
+                "E": "On yıl"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 53/3'te belirtilen '(ı) bendinde yazılı sebep için Avrupa İnsan Hakları Mahkemesi kararının kesinleştiği tarihten itibaren bir yıl' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, tarafları, konusu ve sebebi aynı olan bir dava hakkında verilen karara aykırı yeni bir kararın verilmesine neden olabilecek kanuni bir dayanak yokken, önceki ilamın hükmüne aykırı bir karar verilmiş olması sebebiyle yargılamanın yenilenmesi isteminin, bu sebebin gerçekleştiği tarihi izleyen günden itibaren en geç kaç yıl içinde yapılması gerekir?",
+            "secenekler": {
+                "A": "Bir yıl",
+                "B": "İki yıl",
+                "C": "Beş yıl",
+                "D": "On yıl",
+                "E": "Yirmi yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 53'te belirtilen, (h) bendinde yazılı sebep (çelişkili kararlar) için yargılamanın yenilenmesi süresinin 'on yıl' olduğu hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, aşağıdakilerden hangisi veya hangileri yargılamanın yenilenmesi sebepleri arasında yer alır?\n\nI. Karara esas alınan belgenin sahteliğine hükmedilmiş olması\nII. Vekil olmayan kimseler ile davanın görülüp karara bağlanmış olması\nIII. Çekinmeye mecbur olan hakimin katılmasıyla karar verilmiş olması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 53'ün 1. fıkrasının (b), (f) ve (g) bentlerinde belirtilen sebeplerin tamamının kanunda sayılmış olması hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, yargılamanın yenilenmesi istemlerinde duruşma yapılması usulü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Taraflardan birinin talep etmesi halinde duruşma yapılması zorunludur.",
+                "B": "Yargılamanın yenilenmesi aşamasında duruşma yapılması kanunen yasaktır.",
+                "C": "Duruşma yapılması, görevli daire veya mahkemenin kararına bağlıdır.",
+                "D": "Sadece sahtelik iddiasına dayalı yenileme istemlerinde duruşma yapılır.",
+                "E": "Dosya tekemmül ettikten sonra mahkemece re'sen duruşma günü verilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 55/4'te belirtilen 'Yargılamanın yenilenmesi istemlerinde duruşma yapılması, görevli daire veya mahkemenin kararına bağlıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, yargılamanın yenilenmesi taleplerinde, isteklerin incelenmesi aşamasına hangi işlemden sonra geçilir?",
+            "secenekler": {
+                "A": "Dava dilekçesinin mahkeme kaydına girmesinden hemen sonra",
+                "B": "Yargılamanın yenilenmesi harcının yatırılmasından sonra",
+                "C": "Duruşma günü belirlendikten sonra",
+                "D": "Karşı tarafın savunması alındıktan sonra",
+                "E": "İlgili daire veya mahkeme tarafından görevsizlik kararı verildikten sonra"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 55'te belirtilen 'Karşı tarafın savunması alındıktan sonra istekler incelenir...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Danıştay dava dairesinde çekinen veya reddedilen başkan ve üyelerin sayısının ikiden fazla olması hâlinde, bu istemin incelenmesi usulü hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İstem, Danıştay Başkanı tarafından incelenerek karara bağlanır.",
+                "B": "İstem, noksan üyeliklerin diğer dairelerden tamamlanması suretiyle o daire kurulunca karara bağlanır.",
+                "C": "İstem, konusuna göre İdari Dava Daireleri Kurulu veya Vergi Dava Daireleri Kurulunda incelenir.",
+                "D": "İstem, en yakın bölge idare mahkemesine gönderilerek orada karara bağlanır.",
+                "E": "İstem, Adalet Bakanlığı tarafından görevlendirilen hakimlerce oluşturulan kurulda incelenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 56/2'de belirtilen 'Çekinen veya reddedilenler ikiden fazla ise bu husustaki istem, idari dava dairesi başkan ve üyeleri için İdari Dava Daireleri Kurulunda, vergi dava dairesi başkan ve üyeleri için Vergi Dava Daireleri Kurulunda incelenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Danıştay dava dairesi başkan ve üyeleri ile tetkik hâkimlerinin çekinmesi veya reddi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İdari ve Vergi Dava Daireleri Kurullarının toplanmasına engel olacak sayıda ret istemlerinde bulunulamaz.",
+                "B": "Danıştay tetkik hâkimleri ve savcıları sebeplerini bildirerek çekinebilecekleri gibi taraflarca da reddedilebilirler.",
+                "C": "Tetkik hâkimleri hakkındaki çekinme veya ret istemleri, davaya bakmakla görevli daire tarafından karara bağlanır.",
+                "D": "Dava dairesi başkan ve üyelerinin reddi halinde, bu kişiler hariç tutulmak suretiyle daire kurulu tamamlanarak inceleme yapılır.",
+                "E": "İdari Dava Daireleri Kurulunda çekinme veya ret istemi kabul edilirse, davanın esası hakkında karar verme yetkisi ilk derece mahkemesine geçer."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 56'da belirtilen 'Bu kurullarca çekinme veya ret istemi kabul edildiği takdirde davanın esası hakkında da bu kurullarca karar verilir.' hükmüne dayanmaktadır. Şıkta belirtilenin aksine yetki alt mahkemeye geçmez, Kurul karar verir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Danıştay tetkik hakimleri ve savcıları hakkındaki çekinme veya ret istemlerini inceleyerek karara bağlama yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Danıştay Başkanı",
+                "B": "Davaya bakmakla görevli daire",
+                "C": "İdari Dava Daireleri Kurulu",
+                "D": "Danıştay Başsavcısı",
+                "E": "Yüksek Disiplin Kurulu"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 56'da belirtilen 'Bunlar hakkındaki çekinme veya ret istemleri davaya bakmakla görevli daire tarafından incelenerek karara bağlanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bölge idare mahkemelerinde reddedilen başkan veya üye sayısının birden çok olması durumunda, bu istemi incelemeye yetkili merci aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Hakimler ve Savcılar Kurulu",
+                "B": "Uyuşmazlık Mahkemesi",
+                "C": "Danıştay",
+                "D": "Anayasa Mahkemesi",
+                "E": "En yakın Bölge İdare Mahkemesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 57'de belirtilen 'Bölge idare mahkemelerinde reddedilen başkan veya üye birden çok ise istem Danıştayca incelenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, mahkemelerde hakimin reddi isteminin yerinde görülmesi durumunda yapılacak işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dosya, yeniden incelenmek üzere Hakimler ve Savcılar Kuruluna gönderilir.",
+                "B": "Danıştayca ve ilgili mahkemelerce ret istemleri yerinde görülürse işin esası hakkında da karar verilir.",
+                "C": "Ret istemi kabul edilirse, dava dosyası yetkili asliye hukuk mahkemesine devredilir.",
+                "D": "Sadece usul yönünden karar verilir, esas hakkında karar verilmesi için dosya başka bir daireye gönderilir.",
+                "E": "Ret kararı üzerine dava, açılmamış sayılır ve harç iadesi yapılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 57'de belirtilen 'Danıştayca ve bu mahkemelerce ret istemleri yerinde görülürse işin esası hakkında da karar verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, hakimin reddi isteminin incelenmesiyle ilgili;\n\nI. İdare mahkemelerinde reddedilen başkan ve üye birden çok ise istem bölge idare mahkemesince incelenir.\nII. Bölge idare mahkemelerinde reddedilen başkan veya üye birden çok ise istem Danıştayca incelenir.\nIII. Tek hakimle görülen davalarda hakimin reddi istemi, reddedilen hakimin katılmadığı idare mahkemesince incelenir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 57'nin 1. ve 3. fıkralarında yer alan hükümlere dayanmaktadır. I, II ve III numaralı öncüllerin tamamı kanun metninde aynen yer almaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, idari davalara ilişkin delillerin tespiti ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Taraflar, delillerin tespitini ancak idari dava açtıktan sonra isteyebilirler.",
+                "B": "Delillerin tespiti istemi, davaya bakan Danıştay, idare ve vergi mahkemelerinden istenebilir.",
+                "C": "Mahkeme, tespitin mahalli idari veya adli yargı mercilerince yaptırılmasına karar verebilir.",
+                "D": "Delillerin tespiti istemi, mahkemenin iş yoğunluğuna göre olağan sürelerde karara bağlanır.",
+                "E": "Mahkeme istemi uygun görürse üyelerden birini bu işle görevlendirebilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 58'de belirtilen 'Delillerin tespiti istemi, ivedilikle karara bağlanır.' hükmüne dayanmaktadır. Şıkta geçen 'olağan sürelerde' ifadesi bu hükme aykırıdır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, davaya bakan mahkeme, delillerin tespiti istemini uygun gördüğü takdirde bu tespiti; \n\nI. Kendi üyelerinden biri,\nII. Mahalli idari yargı mercileri,\nIII. Mahalli adli yargı mercileri\n\nmakamlarından hangisine veya hangilerine yaptırabilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 58'de belirtilen 'üyelerden birini bu işle görevlendirebileceği gibi, tespitin mahalli idari veya adli yargı mercilerince yaptırılmasına da karar verebilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, keşif veya bilirkişi incelemesi için görevlendirilen Danıştay meslek mensuplarına ödenecek gündelikler zorunlu giderleri karşılamazsa, aradaki farkın belgelere dayalı olarak ayrıca ödenmesi durumunda, bu suretle yapılacak ödemeler gündeliklerin en çok yüzde kaçı oranında olabilir?",
+            "secenekler": {
+                "A": "Yüzde yirmi",
+                "B": "Yüzde yirmi beş",
+                "C": "Yüzde otuz",
+                "D": "Yüzde kırk",
+                "E": "Yüzde elli"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 59'da belirtilen 'Ancak, bu suretle yapılacak ödemeler, gündeliklerin yüzde ellisini geçemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Danıştay ile bölge idare, idare ve vergi mahkemelerine ait tebliğ işlerinin usulü ve ücreti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tebliğ işleri Hukuk Muhakemeleri Kanunu hükümlerine göre yapılır ve ücretler devletçe karşılanır.",
+                "B": "Tebliğ işleri Tebligat Kanunu hükümlerine göre yapılır ve ücretler ilgililer tarafından peşin ödenir.",
+                "C": "Tebliğ ücretleri, davanın sonucu beklendikten sonra haksız çıkan taraftan tahsil edilir.",
+                "D": "Tebliğ işleri Harçlar Kanunu'na göre yapılır ve ücretler taksitlendirilebilir.",
+                "E": "Tebliğ işlemleri sadece elektronik ortamda yapılır ve herhangi bir ücret talep edilmez."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 60'ta belirtilen 'tebliğ işleri, Tebligat Kanunu hükümlerine göre yapılır. Bu suretle yapılacak tebliğlere ait ücretler ilgililer tarafından peşin olarak ödenir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, tebliğ işlemleri ve buna ilişkin ücretler hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Tebliğ işleri Tebligat Kanunu hükümlerine göre yürütülür.",
+                "B": "Tebliğlere ait ücretler ilgililer tarafından ödenir.",
+                "C": "Tebliğ ücretlerinin ödenmesi peşin olarak yapılır.",
+                "D": "Danıştay'a ait tebliğ işleri de bu kapsamda değerlendirilir.",
+                "E": "Tebliğ ücretleri, tebliğ işlemi tamamlandıktan sonra mahkeme veznesine yatırılır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 60'ta belirtilen 'Bu suretle yapılacak tebliğlere ait ücretler ilgililer tarafından peşin olarak ödenir.' hükmüne dayanmaktadır. Kanun, ödemenin işlemden sonra değil, peşin yapılmasını emretmektedir."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, mahkemelerin çalışmaya ara vermesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bölge idare, idare ve vergi mahkemeleri her yıl yirmi temmuzdan otuz bir ağustosa kadar çalışmaya ara verirler.",
+                "B": "Yargı çevresine dahil olduğu bölge idare mahkemesinin bulunduğu il merkezi dışında kalan ve sadece bir idare mahkemesi bulunan yerlerdeki merciler çalışmaya ara vermeden yararlanamazlar.",
+                "C": "Çalışmaya ara vermeden yararlanamayan ve nöbetçi kalan hakimlerin yıllık izin hakları saklıdır.",
+                "D": "Çalışmaya ara verme süresi içinde nöbetçi mahkeme kurulmasına Adalet Bakanlığı resen karar verir.",
+                "E": "Nöbetçi daire, bölge idare mahkemesi başkanının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca belirlenir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 61'de belirtilen nöbetçi mahkemenin 'bölge idare mahkemesi başkanının önerisi üzerine, Hâkimler ve Savcılar Yüksek Kurulunca' kurulacağı hükmüne dayanmaktadır; Adalet Bakanlığı yetkili değildir.\n\tNot: Kanun metninde halen 'Hâkimler ve Savcılar Yüksek Kurulu' (HSYK) ifadesi yer alsa da, 2017 Anayasa değişikliği ile kurulun adı Hâkimler ve Savcılar Kurulu (HSK) olarak değiştirilmiştir. "
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, bölge idare, idare ve vergi mahkemelerinin çalışmaya ara verme süresi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "1 Temmuzdan 1 Eylüle kadar",
+                "B": "20 Temmuzdan 31 Ağustosa kadar",
+                "C": "1 Ağustostan 5 Eylüle kadar",
+                "D": "15 Hazirandan 1 Eylüle kadar",
+                "E": "1 Eylülden 20 Temmuza kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 61'de belirtilen 'yirmi temmuzdan otuz bir ağustosa kadar çalışmaya ara verirler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, yargı çevresine dahil olduğu bölge idare mahkemesinin bulunduğu il merkezi dışında kalan idari yargı mercilerinin, çalışmaya ara vermeden yararlanamaması için aranan koşul aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bulundukları yerde sadece bir idare veya bir vergi mahkemesi olması",
+                "B": "Yıllık iş yükünün kanunda belirtilen sayının üzerinde olması",
+                "C": "Bölge idare mahkemesi başkanının yazılı talimatının bulunması",
+                "D": "Nöbetçi mahkeme kuracak yeterli sayıda hakim bulunmaması",
+                "E": "Bulundukları ilin nüfusunun büyükşehir statüsünde olması"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 61'de belirtilen 'sadece bir idare veya bir vergi mahkemesi bulunan yerlerdeki idari yargı mercileri çalışmaya ara vermeden yararlanamazlar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, nöbetçi mahkeme çalışmaya ara verme süresi içinde; \n\nI. Yürütmenin durdurulmasına ait işler, \nII. Delillerin tespitine ait işler, \nIII. Kanunen belli süre içinde karara bağlanması gereken işler \n\nhususlarından hangisini veya hangilerini görür?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 62'de belirtilen nöbetçi mahkemenin görevleri arasında sayılan 'a) Yürütmenin durdurulmasına ve delillerin tespitine ait işler, b) Kanunen belli süre içinde karara bağlanması gereken işler' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Kanun'un yürürlük zamanı ile ilgili belirlenen esas aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "TBMM tarafından kabul edildiği tarihte yürürlüğe girmesi",
+                "B": "Yayımı tarihinde yürürlüğe girmesi",
+                "C": "Yayımını izleyen 45 gün sonra yürürlüğe girmesi",
+                "D": "Yayımını izleyen mali yılbaşında yürürlüğe girmesi",
+                "E": "Cumhurbaşkanı tarafından onaylandığı tarihte yürürlüğe girmesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 64'te belirtilen 'Bu Kanun yayımı tarihinde yürürlüğe girer.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, duruşma yapılmasının zorunlu olduğu davalar ile istinaf veya temyiz yoluna başvurulabilecek kararların belirlenmesinde aşağıdaki tarihlerden hangisindeki parasal sınır esas alınır?",
+            "secenekler": {
+                "A": "Kararın verildiği tarih",
+                "B": "Davanın açıldığı tarih",
+                "C": "İdari işlemin tesis edildiği tarih",
+                "D": "Kararın tebliğ edildiği tarih",
+                "E": "İlgili takvim yılının başı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen '...istinaf veya temyiz yoluna başvurulabilecek kararların belirlenmesinde davanın açıldığı tarihteki parasal sınır esas alınır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, Kanunda öngörülen parasal sınırların artırılması usulü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Sınırlar her yıl bir önceki yıla ilişkin yeniden değerleme oranında artırılır.",
+                "B": "Artışlar takvim yılı başından geçerli olmak üzere uygulanır.",
+                "C": "Yeniden değerleme oranı Vergi Usul Kanunu hükümleri uyarınca tespit edilir.",
+                "D": "Belirlenen sınırların bin Türk lirasını aşmayan kısımları dikkate alınmaz.",
+                "E": "Parasal sınırlar her yıl Bütçe Kanunu ile belirlenen oranlarda güncellenir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen sınırların 'Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında' artırılacağı hükmüne dayanmaktadır. Bütçe Kanunu ifadesi metinde yer almaz."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, belediyeler ile il özel idarelerinin seçilmiş organlarının organlık sıfatlarını kaybetmelerine ilişkin Danıştay tarafından verilen kararlara karşı yapılacak itiraz başvurusu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kararın tebliğini izleyen günden itibaren otuz gün içinde Danıştay Başkanlar Kuruluna yapılır.",
+                "B": "Kararın verildiği tarihten itibaren on beş gün içinde Bölge İdare Mahkemesine yapılır.",
+                "C": "Kararın tebliğini izleyen günden itibaren on beş gün içinde İdari Dava Daireleri Kuruluna yapılır.",
+                "D": "Kararın tebliğini izleyen günden itibaren yedi gün içinde Anayasa Mahkemesine yapılır.",
+                "E": "Kararın verildiği tarihten itibaren otuz gün içinde İdari İşler Kuruluna yapılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Bu kararlara karşı tebliğini izleyen günden itibaren onbeş gün içerisinde İdari Dava Daireleri Kuruluna itiraz edilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, belediye başkanlarının düşmesi istemine dair Danıştaya gönderilen dosyalarda savunma süresi ve usulü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İlgilinin savunması on beş gün içinde alınır.",
+                "B": "Süresi içinde savunma verilmediği takdirde sürenin bittiği tarihte dosya tekemmül etmiş sayılır.",
+                "C": "Kanunlarda gösterilen karar süreleri dosyanın tekemmül ettiği tarihten itibaren işlemeye başlar.",
+                "D": "Belediye meclislerinin feshi istemine ilişkin dosyalarda savunma meclis başkanvekilinden istenir.",
+                "E": "Karar, ilgilinin talebi üzerine duruşma yapılarak verilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'Karar dosya üzerinden verilir.' hükmüne dayanmaktadır. Duruşma yapılacağına dair bir hüküm bulunmamaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, belediyeler ile il özel idarelerinin seçilmiş organlarının organlık sıfatlarını kaybetmelerine ilişkin dosyaların incelenmesi ve karara bağlanması usulü ile ilgili;\n\nI. İlgililerin savunması onbeş gün içinde alınır.\nII. Karar, duruşma yapılarak verilir.\nIII. İtiraz üzerine verilen karar kesindir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen savunma süresinin onbeş gün olması, kararın dosya üzerinden verilmesi (duruşmalı değil) ve itiraz üzerine verilen kararın kesin olması hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "2577 Sayılı İdari Yargılama Usulü Kanunu'na göre, belediyeler ile il özel idarelerinin seçilmiş organlarının organlık sıfatlarını kaybetmelerine ilişkin Danıştaya gönderilen dosyalarda, ilgili makamların savunması kural olarak kaç gün içinde alınmalıdır?",
+            "secenekler": {
+                "A": "7",
+                "B": "10",
+                "C": "15",
+                "D": "30",
+                "E": "60"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 2'de belirtilen 'savunması onbeş gün içinde alındıktan sonra' hükmüne dayanmaktadır."
+        }
+    ]
+}

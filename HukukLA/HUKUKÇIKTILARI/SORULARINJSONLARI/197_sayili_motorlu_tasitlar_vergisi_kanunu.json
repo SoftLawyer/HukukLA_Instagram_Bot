@@ -1,0 +1,520 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, aşağıdakilerden hangisi Motorlu Taşıtlar Vergisine tabi olan taşıtlar arasında yer almaz?",
+            "secenekler": {
+                "A": "Karayolları Trafik Kanununa göre trafik şube veya bürolarına kayıt ve tescil edilmiş bulunan motorlu kara taşıtları",
+                "B": "Ulaştırma Bakanlığı Sivil Havacılık Genel Müdürlüğüne kayıt ve tescil edilmiş olan uçaklar",
+                "C": "Ulaştırma Bakanlığı Sivil Havacılık Genel Müdürlüğüne kayıt ve tescil edilmiş olan helikopterler",
+                "D": "Liman başkanlıklarına kayıt ve tescil edilmiş olan ticari gemiler",
+                "E": "Kanunda belirtilen tarifelerde yer alan ve trafik siciline tescilli motorlu kara taşıtları"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 1'de verginin konusuna giren taşıtların sınırlı olarak sayılmış olmasına dayanmaktadır. Kanun metninde sadece motorlu kara taşıtları ile uçak ve helikopterler vergiye tabi tutulmuştur.\n- Diğer seçenekler: A, B, C ve E seçeneklerinde belirtilen taşıtlar, Madde 1'de açıkça Motorlu Taşıtlar Vergisine tabi olarak sayılmıştır. Buna karşın, ticari gemiler gibi deniz taşıtları kanun metninde yer almadığı için vergi kapsamında değildir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, yapısı itibarıyla sürücüsü dahil dokuz ile onyedi oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu araç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Otomobil",
+                "B": "Otobüs",
+                "C": "Kaptıkaçtı",
+                "D": "Minibüs",
+                "E": "Panel van"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Minibüs: Yapısı itibarıyla sürücüsü dahil dokuz ile onyedi oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu araçtır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Otomobil (en çok sekiz oturma yeri), Otobüs (en az onsekiz oturma yeri), Kaptıkaçtı (şoföründen başka en çok yedi yolcu) ve Panel van (insan ve yük taşıma amaçlı) tanımları verilen oturma yeri kapasitesiyle uyuşmadığı için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, izin verilebilen azami yüklü ağırlığı 3,5 tonu geçmeyen ve yük taşımak için imal edilmiş motorlu araç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kamyon",
+                "B": "Kamyonet",
+                "C": "Çekici",
+                "D": "Arazi taşıtı",
+                "E": "Panel van"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Kamyonet: İzin verilebilen azami yüklü ağırlığı 3,5 tonu geçmeyen ve yük taşımak için imal edilmiş motorlu araçtır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kamyon (3,5 tondan fazla), Çekici (yük taşımayan), Arazi taşıtı (bütün tekerlekleri motordan güç alan) ve Panel van (azami toplam ağırlığı 3500 kg'ı geçmeyen kapalı kasalı) tanımları verilen özelliklerle uyuşmadığı için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, motorlu taşıtlarda 'yaş' kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Taşıtın trafiğe ilk tescil edildiği tarihe göre geçen süredir.",
+                "B": "Taşıtın imal edildiği fabrikadan çıktığı tarihe göre geçen süredir.",
+                "C": "Model yılına göre geçen süredir ve takvim yılı itibarıyla tespit edilir.",
+                "D": "Taşıtın son muayene tarihine göre geçen süredir ve ay olarak hesaplanır.",
+                "E": "Motorun fiili çalışma saatine göre belirlenen yıpranma süresidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Yaş: Motorlu taşıtlarda model yılına göre geçen süredir. Bu süre takvim yılı itibarıyla tespit edilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda yaş tanımı için tescil tarihi, imalat tarihi, muayene tarihi veya motorun çalışma saati gibi kriterler belirtilmediğinden yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, 'taşıt değeri' tanımıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Taşıtın sigorta poliçesinde belirtilen kasko bedelini ifade eder.",
+                "B": "Taşıtın ikinci el piyasasındaki rayiç bedelini ifade eder.",
+                "C": "Taşıtın motor silindir hacmi ile yaşının çarpılmasıyla bulunan değeri ifade eder.",
+                "D": "Vade farkı ile hesaplanan özel tüketim vergisi hariç, katma değer vergisi matrahını oluşturan unsurlardan teşekkül eden değeri ifade eder.",
+                "E": "Sadece taşıtın ithal edilmesi durumunda gümrükte beyan edilen değeri ifade eder."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Taşıt değeri: Taşıtların teslimi, ilk iktisabı ve ithalinde, katma değer vergisi matrahını oluşturan unsurlardan (vade farkı ile hesaplanan özel tüketim vergisi hariç) teşekkül eden değeri ifade eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanundaki tanımda kasko bedeli, piyasa rayici, motor hacmi veya sadece ithal değeri gibi unsurlar yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, aşağıdakilerden hangisi kanunda tanımı yapılan motorlu taşıt veya araç türlerinden biri değildir?",
+            "secenekler": {
+                "A": "Motorlu karavan",
+                "B": "Traktör",
+                "C": "Arazi taşıtı",
+                "D": "Kaptıkaçtı",
+                "E": "Çekici"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen tanımlar arasında 'Traktör'ün yer almamasına dayanmaktadır.\n- Diğer seçenekler: Motorlu karavan, Arazi taşıtı, Kaptıkaçtı ve Çekici, kanunun ilgili maddesinde açıkça tanımlanmış taşıt türleri arasında sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, Motorlu Taşıtlar Vergisinin mükellefi aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Trafik sicili veya sivil hava vasıtaları sicilinde adlarına motorlu taşıt kayıt ve tescil edilmiş olan gerçek ve tüzel kişiler.",
+                "B": "Sadece trafik sicilinde adlarına motorlu taşıt kayıt ve tescil edilmiş olan gerçek kişiler.",
+                "C": "Sadece Ulaştırma Bakanlığınca tutulan sivil hava vasıtaları sicilinde adlarına taşıt kayıtlı olan tüzel kişiler.",
+                "D": "Adına tescil olup olmadığına bakılmaksızın motorlu taşıtı fiilen kullanan veya işleten kişiler.",
+                "E": "Motorlu taşıtların satışını veya ithalatını gerçekleştiren ticari işletmeler."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Motorlu Taşıtlar Vergisinin mükellefi; trafik (...) sicili ile Ulaştırma Bakanlığınca tutulan sivil hava vasıtaları sicilinde adlarına motorlu taşıt kayıt ve tescil edilmiş olan gerçek ve tüzelkişilerdir' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen mükellef tanımını eksik veya yanlış yansıttığı için hatalıdır. Kanun, mükellefiyeti fiili kullanıma değil, ilgili sicillerdeki kayıt ve tescile bağlamış ve hem gerçek hem de tüzel kişileri kapsamıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, aşağıda sayılanlardan hangisi adına kayıt ve tescil edilen taşıtlar için motorlu taşıtlar vergisi istisnası tanınmamıştır?",
+            "secenekler": {
+                "A": "Belediyeler",
+                "B": "Sosyal güvenlik kurumları",
+                "C": "Türkiye Kızılay Derneği",
+                "D": "Genel bütçeli idarelere bağlı olup ayrı tüzel kişiliği olan işletmeler",
+                "E": "Köy tüzel kişilikleri"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'bu idarelere bağlı olup, ayrı tüzel kişiliği olan işletmeler ile özel kanunlarında malları Devlet malı sayılmış olan kuruluşların taşıtları hariç' hükmüne dayanmaktadır. Bu hüküm, belirtilen işletmelerin istisna kapsamında olmadığını açıkça ifade eder.\n- Diğer seçeneklerde yer alan belediyeler, sosyal güvenlik kurumları, Türkiye Kızılay Derneği ve köy tüzel kişilikleri, kanunda vergiden müstesna olduğu açıkça sayılan kurumlar arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, yabancı devletlerin Türkiye'deki temsilciliklerine ait taşıtlara ilişkin vergi istisnası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İstisnanın uygulanması, ilgili yabancı devletle karşılıklılık esasına bağlıdır.",
+                "B": "Fahri konsolosların adlarına kayıtlı taşıtlar da bu istisnadan yararlanır.",
+                "C": "Elçilik ve konsolosluklarda görevli memurların, istisnadan faydalanabilmesi için belirli bir devletin uyruğunda olma şartı aranmaz.",
+                "D": "Resmi bir görevle Türkiye'ye gelen yabancı heyetlere ait taşıtlar istisna kapsamı dışındadır.",
+                "E": "Merkezi Türkiye'de bulunan uluslararası kurulların tüm memurları, uyruklarına bakılmaksızın istisnadan faydalanır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Karşılıklı olmak şartiyle' hükmüne dayanmaktadır. Bu hüküm, diplomatik istisnanın temel koşulunun mütekabiliyet olduğunu ortaya koymaktadır.\n- Diğer seçenekler: Kanun metni; fahri konsolosları istisna dışında tuttuğu, elçilik ve konsolosluk memurlarının o devletin uyruğunda olmasını şart koştuğu, resmi heyetleri istisna kapsamına aldığı ve uluslararası kurullarda sadece yabancı uyruklu memurlara istisna tanıdığı için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, engellilik durumuna dayalı motorlu taşıtlar vergisi istisnası ile ilgili aşağıdaki durumlardan hangisinde istisnadan yararlanılması mümkündür?",
+            "secenekler": {
+                "A": "Engellilik oranı %80 olan bir kişinin, standart donanımlı ve herhangi bir özel tertibatı bulunmayan bir taşıtı kendi adına kaydettirmesi.",
+                "B": "Engellilik oranı %92 olan bir kişinin, kendi adına kaydettirdiği standart donanımlı bir taşıt.",
+                "C": "Engellilik oranı %75 olan bir kişinin, durumuna uygun hale getirilmiş özel tertibatlı bir taşıtı eşinin adına kaydettirmesi.",
+                "D": "Engellilik oranı %90 olan bir kişinin ortağı olduğu şirket adına kayıtlı bulunan taşıt.",
+                "E": "Durumuna uygun özel tertibatlı bir taşıtı, engellilik oranı %60 olan yakını için satın alıp kendi adına tescil ettiren bir kişi."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Engellilik oranı % 90 ve daha fazla olan malûl ve engellilerin adlarına kayıtlı taşıtlar' hükmüne dayanmaktadır. Bu durumda, engellilik oranı %90'ı aştığı için taşıtta özel bir tertibat aranmaz.\n- Diğer seçenekler: A seçeneğinde oran %90'ın altında ve özel tertibat yoktur. C, D ve E seçeneklerinde ise taşıt, istisna hakkı olan engelli bireyin kendi adına değil, başkası veya bir tüzel kişilik adına kayıtlı olduğu için kanunda belirtilen 'adlarına kayıtlı taşıtlar' şartını sağlamadığından yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, Türkiye'de bulunan ve karşılıklılık ilkesinin geçerli olduğu bir yabancı devlet elçiliği adına kayıt ve tescil edilmiş bir taşıtın vergi durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Elçilik bir tüzel kişilik olduğundan, adına kayıtlı taşıt için her durumda vergi mükellefidir.",
+                "B": "Söz konusu taşıt, yalnızca elçi tarafından kişisel amaçlarla kullanıldığında vergiden müstesna tutulur.",
+                "C": "Karşılıklılık şartı sağlandığı için elçilik adına kayıtlı bu taşıt vergiden müstesnadır.",
+                "D": "Fahri konsoloslara ait taşıtlar da aynı istisnadan herhangi bir ek şart aranmaksızın yararlanır.",
+                "E": "Bu tür bir istisnanın uygulanabilmesi için mutlaka ayrı bir uluslararası anlaşma hükmü bulunmalıdır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Karşılıklı olmak şartiyle, yabancı devletlerin Türkiye'de bulunan elçilik ve konsolosluklarıyla...ait taşıtlar' vergiden müstesnadır hükmüne dayanmaktadır. Bu hüküm, Madde 3'teki genel mükellefiyet kuralına bir istisna getirmektedir. - Diğer seçenekler: Kanunda belirtilen istisnanın şartlarını veya kapsamını yanlış yansıttığı için hatalıdır. Özellikle D seçeneği, kanunda açıkça 'Fahri konsoloslar hariç' denilerek, E seçeneği ise kanunun kendisinin bu istisnayı düzenlemesiyle çürütülmüştür."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, (İ) sayılı tarifede yer alan ve sadece elektrik motoru olan otomobil ve motosikletler, ilgili satırlarda yaşlarına ve taşıt değerlerine göre isabet eden vergi tutarlarının yüzde kaçı oranında vergilendirilir?",
+            "secenekler": {
+                "A": "%4",
+                "B": "%10",
+                "C": "%25",
+                "D": "%50",
+                "E": "%100"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen '...yer alan taşıt değerlerine ve yaşına isabet eden vergi tutarlarının %25’i oranında vergilendirilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: %10 ve %4 oranları, vergi tutarının kasko sigortası değerini aşması halinde Cumhurbaşkanına tanınan yetkilerle ilgili olup, genel vergilendirme oranı değildir. Diğer oranlar ise kanunda yer almamaktadır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, (İ) sayılı tarifede yer alan otomobil, kaptıkaçtı ve arazi taşıtlarının sonraki yıllardaki vergi tutarlarının belirlenmesinde esas alınacak temel ölçüt aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Taşıtın her yıl ocak ayında ilan edilen kasko sigortası değeri",
+                "B": "Taşıtın güncel piyasa rayiç bedeli",
+                "C": "Maliye Bakanlığı tarafından her yıl yeniden belirlenen tarife satırı",
+                "D": "İlk kayıt ve tescil edildiği tarih itibarıyla taşıt değerine isabet eden satır",
+                "E": "Taşıtın motor gücünün (kw) her yıl yeniden değerlendirilmesi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 5'te yer alan '...ilk kayıt ve tescil edildiği tarih itibarıyla taşıt değerine isabet eden satır, sonraki yıllarda da bu taşıtın vergi tutarlarının belirlenmesinde esas alınır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen temel ölçütle çelişmekte veya bu ölçütün yerine geçmemektedir. Kasko sigortası değeri, sadece vergi tutarının aşırı yüksek olması durumunda bir düzeltme mekanizması olarak kullanılır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, vergi tutarlarının Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından ilan edilen kasko sigortası değerlerinin %10'unu aşması halinde Cumhurbaşkanına tanınan yetkilerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Taşıtlara ait vergi tutarlarını, bir önceki satırdaki aynı yaş grubunda bulunan taşıtlara isabet eden vergi tutarı olarak belirleyebilir.",
+                "B": "Vergi tutarının kasko değerine oranını %4’e kadar indirmeye yetkilidir.",
+                "C": "Vergi tutarının kasko değerine oranını kanuni oranına kadar artırmaya yetkilidir.",
+                "D": "Bu yetkisini sadece otomobil, kaptıkaçtı ve arazi taşıtları için kullanabilir.",
+                "E": "Bu yetkisini kullanırken Ulaştırma Bakanlığından uygun görüş almak zorundadır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 5'te Cumhurbaşkanına tanınan yetkinin kullanımı için Ulaştırma Bakanlığından uygun görüş alınacağına dair bir şart öngörülmemiştir. Bu, kanunda yer almayan bir usul şartıdır.\n- Diğer seçenekler: Madde 5'te, vergi tutarlarının kasko değerini aşması durumunda Cumhurbaşkanına tanınan yetkileri (bir önceki satırdan vergilendirme, oranı %4'e indirme ve kanuni orana artırma) doğru bir şekilde yansıtmaktadır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, adına 55 kw motor gücüne sahip ve sadece elektrik motoru olan bir motosiklet kayıt ve tescil ettiren bir gerçek kişinin vergilendirilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mükellef, bu taşıt için ilgili tarifenin ikinci satırında yaşına isabet eden vergi tutarının %25'i oranında vergilendirilir.",
+                "B": "Sadece elektrik motorlu olduğu için bu tür motosikletler motorlu taşıtlar vergisinden tamamen muaftır.",
+                "C": "Mükellef, bu taşıt için ilgili tarifenin üçüncü satırında yaşına isabet eden vergi tutarının %25'i oranında vergilendirilir.",
+                "D": "Taşıtın vergi tutarı, Türkiye Sigorta Birliğince ilan edilen kasko değerinin %10'unu aşamaz.",
+                "E": "Mükellef, bu taşıt için ilgili tarifenin dördüncü satırında yaşına isabet eden vergi tutarının tamamını ödemekle yükümlüdür."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te yer alan '(I) sayılı tarifenin “2- Motosikletler” başlıklı bölümünde yer alan ve sadece elektrik motoru olan taşıtlardan, motor gücü...40 kw’ı geçen fakat 60 kw’ı geçmeyenler bu bölümün üçüncü satırında...yer alan vergi tutarlarının %25’i oranında vergilendirilir' hükmüne dayanmaktadır. 55 kw bu aralığa girmektedir ve mükellefiyet Madde 3 uyarınca doğmaktadır. - Diğer seçenekler: Kanunda belirtilen motor gücü aralıklarını, vergi oranlarını veya vergilendirme ölçütlerini yanlış yorumlamaktadır. D seçeneğindeki kasko değeri kuralı motosikletler için değil, otomobil ve benzeri taşıtlar için öngörülmüştür."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, sadece elektrik motoru olan otomobil, kaptıkaçtı, arazi taşıtları ve benzerleri ile motosikletlerin vergilendirilmesinde, ilgili tarifelerde yaşlarına ve taşıt değerlerine göre isabet eden vergi tutarları kural olarak hangi oranda uygulanır?",
+            "secenekler": {
+                "A": "%10",
+                "B": "%25",
+                "C": "%50",
+                "D": "%4",
+                "E": "%75"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen '...yer alan taşıt değerlerine ve yaşına isabet eden vergi tutarlarının %25’i oranında vergilendirilir.' hükmüne dayanmaktadır. Bu oran hem otomobil ve benzeri taşıtlar için hem de motosikletler için geçerlidir.\n- Diğer seçeneklerde yer alan oranlar, kanunun bu maddesinde belirtilen genel vergilendirme oranıyla uyumlu değildir. %10 ve %4 oranları, Cumhurbaşkanının belirli şartlar altında vergi tutarını ayarlama yetkisiyle ilgili farklı bağlamlarda geçen oranlardır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, Cumhurbaşkanının otomobil ve benzeri taşıtların vergi tutarlarını belirleme yetkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi tutarının, kasko sigortası değerinin %10’unu aşması halinde, vergi tutarını bir önceki satırdaki tutar olarak belirleyebilir.",
+                "B": "Kasko sigortası değerine göre belirlenen vergi oranı, yetki kullanılarak en fazla %10'a kadar indirilebilir.",
+                "C": "Bu yetki, Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği'nin talebi üzerine her yılın sonunda kullanılır.",
+                "D": "Zirai ilaçlama amacıyla kullanılan uçakların vergi tutarları da bu yetki kapsamında %25 oranında düşürülebilir.",
+                "E": "Yetki kullanıldığında, yeni vergi tutarı devir ve temlikin yapıldığı takvim yılının başından itibaren geçerli olur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 5'te yer alan '...vergi tutarlarının Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından her yılın ocak ayında ilan edilen kasko sigortası değerlerinin %10’unu aşması halinde, taşıtlara ait vergi tutarlarını, bir önceki satırdaki aynı yaş grubunda bulunan taşıtlara isabet eden vergi tutarı olarak belirlemeye... Cumhurbaşkanı yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler yanlıştır. B seçeneğindeki oran %4 olmalıdır. C seçeneğindeki yetki kullanımı şartı ve zamanı hatalıdır. D ve E seçenekleri ise sırasıyla Madde 6 ve Madde 7'de düzenlenen farklı konularla ilgili olup bu yetkinin kapsamı ve sonuçlarıyla ilgisizdir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, zirai ilaçlama amacıyla kullanılmak üzere kayıt ve tescil edilmiş uçaklar için uygulanacak vergilendirme ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu uçaklar vergiden tamamen muaftır.",
+                "B": "Türk Hava Kurumuna ait olanlarla aynı vergi istisnasından yararlanırlar.",
+                "C": "İlgili tarifede yer alan vergi tutarları yüzde 25 oranında uygulanır.",
+                "D": "Vergi tutarları yüzde 75 oranında indirimli olarak uygulanır.",
+                "E": "Sadece elektrik motoruna sahip olanları için özel bir vergi oranı belirlenmiştir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Zirai ilaçlama amacıyla kullanılmak üzere kayıt ve tescil edilmiş uçaklar için (IV) sayılı tarifede yer alan vergi tutarları yüzde 25 oranında uygulanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler yanlıştır çünkü kanun bu uçaklar için tam bir muafiyet değil, belirli bir oranda vergilendirme öngörmektedir. Türk Hava Kurumuna ait uçaklar vergiden hariç tutulurken, zirai ilaçlama uçakları için %25 oranı uygulanır; bu oran %75 indirim anlamına gelmemektedir ve elektrik motoru şartı bu kategori için düzenlenmemiştir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, sadece elektrik motoru olan taşıtların vergilendirilmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Motor gücü 70 kw’ı geçen tüm otomobiller, vergi tutarlarının %50’si oranında vergilendirilir.",
+                "B": "Motor gücü 40 kw’ı geçmeyen tüm motosikletler, vergi tutarlarının %25’i oranında vergilendirilir.",
+                "C": "Minibüs, otobüs ve kamyonet gibi taşıtlar, ilgili tarifede yaşları itibarıyla yer alan vergi tutarlarının %25’i oranında vergilendirilir.",
+                "D": "Motor gücü 120 kw’ı geçen panel vanlar, vergi tutarlarının yarısı oranında vergilendirilir.",
+                "E": "Motor silindir hacmi ne olursa olsun tüm motorlu karavanlar vergiden muaftır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'minibüs, otobüs, kamyonet, kamyon, çekici ve benzeri taşıtlardan sadece elektrik motoru olanlar, bu taşıtlara ilişkin tarifede yaşları itibarıyla yer alan vergi tutarlarının %25’i oranında vergilendirilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen motor gücü (kw) sınırlarına, taşıt türlerine veya vergi oranlarına aykırı ifadeler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, 15 Eylül tarihinde yeni bir otomobil satın alıp trafik siciline ilk defa kayıt ve tescil ettiren bir kişinin vergi mükellefiyeti ne zaman başlar?",
+            "secenekler": {
+                "A": "Kayıt ve tescilin yapıldığı takvim yılı başından itibaren",
+                "B": "Takip eden takvim yılı başından itibaren",
+                "C": "Takip eden son altı aylık dönemin başından itibaren",
+                "D": "Kayıt ve tescil işleminin tamamlandığı günden itibaren",
+                "E": "Kayıt ve tescilin yapıldığı tarihteki son altı aylık dönemin başından itibaren"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'takvim yılının ... son altı ayı içinde yeni kayıt ve tescil edilen taşıtlarda ise, son altı aylık dönemin başından itibaren' mükellefiyetin başlayacağı hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda farklı durumlar (ilk altı ayda tescil veya devir) için öngörülen başlangıç zamanlarını belirttiği veya hatalı bilgi içerdiği için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, trafik siciline kayıtlı olan aracını 20 Mart tarihinde başka bir kişiye devreden alıcı için yeni mükellefiyetin başlangıcıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mükellefiyet, takip eden son altı aylık dönemin başından itibaren başlar.",
+                "B": "Mükellefiyet, takip eden takvim yılı başından itibaren başlar.",
+                "C": "Mükellefiyet, devrin yapıldığı takvim yılının başından itibaren başlar.",
+                "D": "Mükellefiyet, aracın kasko sigortası değerinin güncellenmesiyle birlikte başlar.",
+                "E": "Mükellefiyet, devir işleminin gerçekleştiği günden itibaren başlar."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'kayıt ve tescilli olup da devir ve temlik sebebiyle kayıt ve tescil yapılan taşıtlarda değişiklik, takvim yılının ilk altı ayında yapılmış ise takip eden son altı aylık dönemin başından' itibaren mükellefiyetin başlayacağı hükmüne dayanmaktadır.\n- Diğer seçenekler kanundaki farklı durumları veya hatalı bilgileri yansıtmaktadır. Özellikle D seçeneğindeki kasko değeri, vergi tutarının belirlenmesinde bir ölçüt olabilse de mükellefiyetin başlangıcıyla ilgili değildir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, bir çiftçinin zirai ilaçlama amacıyla kullanmak üzere 15 Ağustos'ta yeni bir uçak satın alıp sivil hava vasıtaları siciline tescil ettirmesi durumunda, bu taşıtın vergilendirilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi mükellefiyeti, takip eden takvim yılı başından itibaren başlar ve vergi tam olarak uygulanır.",
+                "B": "Bu uçak Türkkuşu'na ait olmadığı için vergiden istisna tutulamaz ve mükellefiyet kayıt tarihinden itibaren başlar.",
+                "C": "Vergi mükellefiyeti, son altı aylık dönemin başından itibaren başlar ve ilgili tarifedeki vergi tutarı yüzde 25 oranında uygulanır.",
+                "D": "Vergi mükellefiyeti, kayıt ve tescilin yapıldığı takvim yılı başından itibaren başlar ve vergi tutarı yüzde 50 oranında uygulanır.",
+                "E": "Zirai ilaçlama uçakları vergiden tamamen muaf olduğundan herhangi bir vergi mükellefiyeti başlamaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'son altı ayı içinde yeni kayıt ve tescil edilen taşıtlarda ise, son altı aylık dönemin başından itibaren' mükellefiyetin başlayacağı hükmü ile Madde 6'da yer alan 'Zirai ilaçlama amacıyla kullanılmak üzere kayıt ve tescil edilmiş uçaklar için (IV) sayılı tarifede yer alan vergi tutarları yüzde 25 oranında uygulanır' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Mükellefiyetin başlama zamanını, vergi oranını veya muafiyet durumunu hatalı belirttiği için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, daha önceden trafik siciline kayıtlı olan bir otomobili Ağustos ayında devralan bir kişinin vergi mükellefiyeti ne zaman başlar?",
+            "secenekler": {
+                "A": "Devir işleminin yapıldığı tarihten itibaren",
+                "B": "İçinde bulunulan takvim yılının başından itibaren",
+                "C": "İçinde bulunulan takvim yılının son altı aylık döneminin başından itibaren",
+                "D": "Takip eden son altı aylık dönemin başından itibaren",
+                "E": "Takip eden takvim yılı başından itibaren"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Kayıt ve tescilli olup da devir ve temlik sebebiyle kayıt ve tescil yapılan taşıtlarda değişiklik, ... son altı ayında yapılmış ise takip eden takvim yılı başından itibaren' nazara alınacağı hükmüne dayanmaktadır. Olayda devir işlemi takvim yılının son altı ayı içinde (Ağustos) yapılmıştır.\n- Diğer seçenekler: Madde 7'de belirtilen mükellefiyetin başlama zamanlarına ilişkin diğer durumlarla (yeni kayıt ve tescil veya ilk altı ayda devir) karıştırıldığı veya kanunda yer almayan bir başlangıç tarihi belirttiği için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, bir taşıtın mülkiyetinin devri sebebiyle yapılan kayıt ve tescil değişikliğinin Mart ayında gerçekleşmesi durumunda, yeni malikin vergi mükellefiyetinin başlangıcıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yeni malikin mükellefiyeti, devrin yapıldığı takvim yılı başından itibaren başlar.",
+                "B": "Yeni malikin mükellefiyeti, devir işleminin yapıldığı tarihten itibaren bir ay içinde başlar.",
+                "C": "Yeni malikin mükellefiyeti, devri takip eden takvim yılının başından itibaren başlar.",
+                "D": "Yeni malikin mükellefiyeti, devrin yapıldığı yılı takip eden son altı aylık dönemin başından itibaren başlar.",
+                "E": "Devir işlemi Mart ayında yapıldığı için, verginin tamamının devirden önce ödenmesi zorunludur."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'kayıt ve tescilli olup da devir ve temlik sebebiyle kayıt ve tescil yapılan taşıtlarda değişiklik, takvim yılının ilk altı ayında yapılmış ise takip eden son altı aylık dönemin başından itibaren nazara alınır' hükmüne dayanmaktadır. Mart ayı ilk altı aylık dönemde olduğundan, yeni malikin mükellefiyeti takip eden son altı aylık dönemin (Temmuz ayının) başında başlar.\n- Diğer seçenekler: E seçeneğindeki devir öncesi ödeme zorunluluğu Madde 9 uyarınca sadece Ocak ve Temmuz ayları içindeki devirler için geçerlidir; diğer seçeneklerde belirtilen başlangıç tarihleri ise kanundaki düzenlemeye aykırıdır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, takvim yılının Ağustos ayında ilk defa kayıt ve tescili yapılan bir taşıtın vergi mükellefiyeti ve ödemesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mükellefiyet, kayıt ve tescilin yapıldığı takvim yılı başından itibaren başlar ve yıllık verginin tamamı tahakkuk eder.",
+                "B": "Mükellefiyet, takip eden takvim yılı başından itibaren başlar ve o yıl için vergi ödenmez.",
+                "C": "Mükellefiyet, son altı aylık dönemin başından itibaren başlar ve sadece ikinci altı aylık döneme ilişkin vergi tahakkuk eder ve ödenir.",
+                "D": "Mükellefiyet, kayıt ve tescil tarihinden itibaren başlar ve yıllık verginin yarısı bir ay içinde ödenir.",
+                "E": "Mükellefiyet, son altı aylık dönemin başından itibaren başlar ancak vergi, takip eden yılın Ocak ayında yıllık olarak ödenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'son altı ayı içinde yeni kayıt ve tescil edilen taşıtlarda mükellefiyetin son altı aylık dönemin başından itibaren' başlayacağı ve Madde 9'da yer alan 'ilk altı aylık dönem geçtikten sonra yapılacak kayıt ve tescil işlemlerinde, sadece ikinci altı aylık döneme ilişkin vergi tahakkuk eder ve ödenir' hükümlerinin birleşimine dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen mükellefiyet başlangıç zamanı ve tahakkuk edecek vergi miktarı ile ilgili kurallara aykırı oldukları için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, sahibi olduğu aracın trafik sicil kaydını Eylül ayında sildiren bir kişinin motorlu taşıtlar vergisi mükellefiyeti ne zaman sona erer?",
+            "secenekler": {
+                "A": "Kaydın silindiği tarihten itibaren",
+                "B": "İkinci altı aylık dönemin başından itibaren",
+                "C": "Takip eden takvim yılı başından itibaren",
+                "D": "İçinde bulunulan takvim yılının sonundan itibaren",
+                "E": "Kaydın silindiği ayı takip eden ayın başından itibaren"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen '...silinme... ikinci altı aylık dönem içinde yapılmışsa takipeden takvim yılı başından itibaren mükellefiyet sona erer.' hükmüne dayanmaktadır. Olayda kayıt silme işlemi ikinci altı aylık dönemde (Eylül) yapılmıştır.\n- Diğer seçenekler: B seçeneği, kaydın ilk altı ayda silinmesi durumunda geçerli olan kuraldır. Diğer şıklar ise kanunda belirtilen sona erme zamanlarına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, motorlu taşıtlar vergisinin ödenmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi, her yıl Mart ve Eylül aylarında dört eşit taksitte ödenir.",
+                "B": "Vergi, her yılın başında tek seferde ve peşin olarak ödenir.",
+                "C": "Takvim yılının ilk altı ayında taşıtın bünyesinde bir değişiklik olması halinde, o yıla ait verginin tamamı takip eden yıla ertelenir.",
+                "D": "Motorlu taşıtlar vergisi her yıl Ocak ve Temmuz aylarında iki eşit taksitte ödenir.",
+                "E": "Devir ve temlik sebebiyle malik değişikliğinde vergi, değişikliğin yapılmasından sonraki bir ay içinde ödenir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Motorlu taşıtlar vergisi her yıl Ocak ve Temmuz aylarında iki eşit taksitte ödenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen ödeme zamanı, taksit sayısı, değişiklik durumundaki usul ve devir anındaki ödeme yükümlülüğü gibi konularda Madde 9'daki düzenlemelere aykırı bilgiler içerdiği için yanlıştır. Özellikle devir halinde verginin değişiklikten önce ödenmesi gerekir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, bir taşıtın yıl içinde ilk defa Ağustos ayında kayıt ve tescilinin yapılması halinde verginin tahakkuku ve ödenmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi yıllık olarak tahakkuk eder ve tamamı kayıt tarihinden itibaren bir ay içinde ödenir.",
+                "B": "O yıla ait vergi tahakkuk etmez, vergi ödemesi takip eden takvim yılı başında başlar.",
+                "C": "Sadece ikinci altı aylık döneme ilişkin vergi tahakkuk eder ve ödenir.",
+                "D": "Hem birinci hem de ikinci altı aylık döneme ilişkin vergi tahakkuk eder, ancak sadece ikinci taksit ödenir.",
+                "E": "Vergi yıllık olarak tahakkuk eder ve takip eden Ocak ve Temmuz aylarındaki genel taksit sürelerinde ödenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen '...ilk altı aylık dönem geçtikten sonra yapılacak kayıt ve tescil işlemlerinde, sadece ikinci altı aylık döneme ilişkin vergi tahakkuk eder ve ödenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Yılın ikinci yarısında yapılan ilk tescil işlemine ilişkin özel kuralı göz ardı ettiği veya yanlış yorumladığı için hatalıdır. Genel kural olan verginin yıllık tahakkuk edip geçmiş taksitlerin bir ay içinde ödenmesi, yılın ilk yarısındaki tesciller için geçerlidir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, taşıtların kayıt ve tescilinin yapıldığı yerle sınırlı olmaksızın, motorlu taşıtlar vergisinin tarh, tahakkuk ve tahsil işlemlerini yürütecek vergi dairesini tespit etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Ulaştırma ve Altyapı Bakanlığı",
+                "B": "İçişleri Bakanlığı",
+                "C": "Gelir İdaresi Başkanlığı",
+                "D": "Maliye Bakanlığı",
+                "E": "Taşıtın kayıtlı olduğu ilin valiliği"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Maliye Bakanlığı, taşıtların kayıt ve tescilinin yapıldığı yerle sınırlı olmaksızın, motorlu taşıtlar vergisinin tarh, tahakkuk ve tahsil işlemlerini yürütecek vergi dairesini tespit etmeye yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bu yetkinin açıkça Maliye Bakanlığı'na verildiği belirtildiğinden, diğer bakanlıklar, idari birimler veya yerel makamlar yetkili değildir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, bir taşıtın vergi miktarında takvim yılının son altı ayı içinde bir değişiklik olması halinde, bu değişikliğe göre ödenecek verginin tahakkuk zamanı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Değişikliğin yapıldığı takvim yılı başından itibaren tahakkuk etmiş sayılır.",
+                "B": "Değişikliğin yapıldığı son altı aylık dönemin başından itibaren tahakkuk etmiş sayılır.",
+                "C": "Takip eden takvim yılı başında tahakkuk ettirilmiş sayılır.",
+                "D": "Değişikliğin yapıldığı ayı takip eden ay başında tahakkuk ettirilmiş sayılır.",
+                "E": "Takip eden son altı aylık dönemin başında tahakkuk ettirilmiş sayılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen '...değişiklik, ... son altı ayında yapılmış ise takip eden takvim yılı başında tahakkuk ettirilmiş sayılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 9'da yer alan ve vergi miktarındaki değişikliğin zamanına göre farklılaşan tahakkuk kurallarını yanlış yansıtmaktadır. A ve B seçenekleri, mükellefiyetin başlamasına ilişkin Madde 7'deki kurallarla karıştırılabilecek güçlü çeldiricilerdir. E seçeneği ise değişikliğin ilk altı ayda yapılması durumunda geçerli olan kuraldır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, motorlu taşıtlar vergisi kural olarak hangi dönemlerde ve nasıl ödenir?",
+            "secenekler": {
+                "A": "Her yıl Mart ve Eylül aylarında iki eşit taksitte",
+                "B": "Her yıl Ocak ayının başında tek seferde yıllık olarak",
+                "C": "Her yıl Ocak ve Temmuz aylarında iki eşit taksitte",
+                "D": "Her yıl Haziran ve Aralık aylarında iki eşit taksitte",
+                "E": "Her yılın son iş gününe kadar tek seferde"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Motorlu taşıtlar vergisi her yıl Ocak ve Temmuz aylarında iki eşit taksitte ödenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen ödeme dönemleri ve şekilleri kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, taşıtların kayıt ve tescilinin yapıldığı yerle sınırlı olmaksızın, motorlu taşıtlar vergisinin tarh, tahakkuk ve tahsil işlemlerini yürütecek vergi dairesini tespit etme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhurbaşkanı",
+                "B": "İçişleri Bakanlığı",
+                "C": "Taşıtın kayıtlı olduğu il valiliği",
+                "D": "Maliye Bakanlığı",
+                "E": "Ulaştırma ve Altyapı Bakanlığı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Maliye Bakanlığı, taşıtların kayıt ve tescilinin yapıldığı yerle sınırlı olmaksızın, motorlu taşıtlar vergisinin tarh, tahakkuk ve tahsil işlemlerini yürütecek vergi dairesini tespit etmeye yetkilidir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda bir yetkisi bulunmamaktadır. Cumhurbaşkanı'nın yetkileri ise vergi oran ve değerlerini belirlemekle ilgilidir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, bir taşıtın ilk defa kayıt ve tescili Ağustos ayında yapılırsa, vergi tahakkuku ve ödemesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi yıllık olarak tahakkuk eder ve tamamı kayıt tarihinden itibaren bir ay içinde ödenir.",
+                "B": "Sadece ikinci altı aylık döneme ilişkin vergi tahakkuk eder ve ödenir.",
+                "C": "O yıl için vergi tahakkuk etmez, mükellefiyet takip eden takvim yılı başında başlar.",
+                "D": "Vergi yıllık olarak tahakkuk eder ancak sadece ilk taksiti ödenir.",
+                "E": "Vergi, takip eden takvim yılı başında tahakkuk ettirilmiş sayılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'ilk altı aylık dönem geçtikten sonra yapılacak kayıt ve tescil işlemlerinde, sadece ikinci altı aylık döneme ilişkin vergi tahakkuk eder ve ödenir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen bu özel duruma aykırı olduğu veya genel kuralı yanlış yansıttığı için hatalıdır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, bir taşıtın motor silindir hacminde verginin artmasını gerektiren bir değişiklik Mart ayında yapıldığında, bu değişikliğin vergi ödemesine etkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Değişiklik, takip eden takvim yılı başından itibaren dikkate alınır ve vergi artışı bir sonraki yılın Ocak taksitine yansıtılır.",
+                "B": "Vergi dairesi tarafından derhal ikmalen tarh işlemi yapılır ve fark vergisi mükellefe tebliğ edilir.",
+                "C": "Temmuz ayında ödenecek olan ikinci taksit, değişikliğe göre hesaplanan yeni ve artırılmış tutar üzerinden ödenir.",
+                "D": "Yıllık verginin tamamı yeniden hesaplanır ve Ocak ayında ödenen ilk taksitle arasındaki fark bir ay içinde ödenmelidir.",
+                "E": "Değişiklik, yapıldığı ayı takip eden ayın başından itibaren geçerli olur ve vergi farkı aylık olarak ödenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9 ve Madde 11'in birlikte değerlendirilmesine dayanmaktadır. Madde 11'e göre, takvim yılının ilk altı ayında yapılan değişiklik takip eden son altı aylık dönemin başından itibaren dikkate alınır. Madde 9 ise bu durumu teyit ederek, ilk altı aydaki değişiklik halinde ikinci taksitin yeni duruma göre ödeneceğini belirtir.\n- Diğer seçenekler: A seçeneği, değişikliğin son altı ayda yapılması durumunda geçerli olan kuralı belirtir. B seçeneği, eksik veya hiç tahakkuk olmaması halinde uygulanan bir usuldür. D ve E seçenekleri ise kanunda yer almayan ödeme usullerini içerdiği için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, bir taşıtın yıl içinde ilk defa kayıt ve tescilinin Ağustos ayında yapılması durumunda, tahakkuk edecek vergi ve ödeme süreci ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Vergi yıllık olarak tahakkuk eder ve taksit süresi geçmiş olan ilk taksit, kayıt tarihinden itibaren bir ay içinde ödenir.",
+                "B": "Sadece ikinci altı aylık döneme ilişkin vergi tahakkuk eder ve bu vergi ödenir.",
+                "C": "Vergi, takip eden takvim yılının Ocak ayının başında tahakkuk ettirilmiş sayılır ve ödeme o zaman başlar.",
+                "D": "Yıllık verginin tamamı tahakkuk eder ve Ocak ile Temmuz aylarındaki taksit dönemlerinde iki eşit parça halinde ödenir.",
+                "E": "Vergi dairesi tarafından ikmalen tarh yapılır ve verginin tamamı mükellefe tebliğ edilerek tahsil edilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'ilk altı aylık dönem geçtikten sonra yapılacak kayıt ve tescil işlemlerinde, sadece ikinci altı aylık döneme ilişkin vergi tahakkuk eder ve ödenir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği, ilk altı ay içinde yapılan ilk tesciller için geçerli olan genel kuraldır. C seçeneği, mevcut taşıtlardaki değişikliklerle ilgili bir kuraldır. D ve E seçenekleri ise ilk defa ve ikinci yarıda yapılan tescil işlemine ilişkin özel hükme aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, Cumhurbaşkanının vergi miktarlarını ve taşıt değerlerini belirleme yetkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yeniden değerleme oranının %60 fazlasını geçmemek ve %10’undan az olmamak üzere yeni oranlar tespit edebilir.",
+                "B": "EURO normlarını sağlayan katalitik konvertörlü taşıtlarda vergi miktarlarını %75 nispetine kadar indirebilir.",
+                "C": "Yeniden değerleme oranının %50 fazlasını geçmemek, %20’sinden az olmamak üzere yeni oranlar tespit etmeye yetkilidir.",
+                "D": "Verginin tarh, tahakkuk ve tahsil işlemlerini yürütecek vergi dairesini tespit etmeye yetkilidir.",
+                "E": "Taşıt değerlerinin hesabında on Türk lirasına kadar olan kesirlerin dikkate alınmamasını kararlaştırabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'Yeniden değerleme oranının %50 fazlasını geçmemek, %20’sinden az olmamak üzere yeni oranlar tespit etmeye' dair Cumhurbaşkanının yetkisine ilişkin hükme dayanmaktadır.\n- Diğer seçenekler: A, B ve E seçenekleri Madde 10'da belirtilen oran ve miktarlarla çeliştiği için yanlıştır. D seçeneğinde belirtilen yetki ise Cumhurbaşkanına değil, Maliye Bakanlığına aittir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, aracının motor silindir hacmini vergi miktarını artıracak şekilde Eylül ayında değiştiren bir mükellefin yeni vergi durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Değişiklik, içinde bulunulan takvim yılının son altı aylık döneminin başından itibaren dikkate alınır.",
+                "B": "Değişiklik, yapıldığı ayı takip eden ayın başından itibaren dikkate alınır ve vergi yeni duruma göre ödenir.",
+                "C": "Değişiklik, takip eden takvim yılı başından itibaren dikkate alınır ve vergi yeni duruma göre ödenir.",
+                "D": "Değişiklik yapıldığı andan itibaren vergi derhal yeni duruma göre tahakkuk ettirilir.",
+                "E": "Değişiklik, içinde bulunulan takvim yılının başından itibaren geçerli sayılarak ek vergi tarh edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen '...değişiklik, ... son altı ayında yapılmış ise takip eden takvim yılı başından itibaren dikkate alınır ve vergi, yeni duruma göre ödenir' hükmüne dayanmaktadır. Olayda değişiklik Eylül ayında, yani yılın son altı ayında yapılmıştır.\n- Diğer seçenekler, kanunda belirtilen altı aylık dönem ve takvim yılı başı ayrımına aykırı olduğundan yanlıştır. A seçeneği, değişikliğin yılın ilk altı ayında yapılması durumunda geçerli olacak kuralı belirttiği için güçlü bir çeldiricidir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, bir taşıtın vergilendirilmesine esas olan motor silindir hacminde, takvim yılının Nisan ayında verginin artmasını gerektiren bir değişiklik yapılmıştır. Bu değişikliğe bağlı olarak vergi, hangi andan itibaren yeni duruma göre ödenir?",
+            "secenekler": {
+                "A": "Değişikliğin yapıldığı tarihten itibaren derhal.",
+                "B": "Takip eden son altı aylık dönemin başından itibaren.",
+                "C": "Değişikliğin ilgili vergi dairesine bildirildiği tarihten itibaren.",
+                "D": "Takip eden takvim yılı başından itibaren.",
+                "E": "Değişikliğin tespit olunduğu tarihten itibaren bir ay içinde."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'bu değişiklik, takvim yılının ilk altı ayında yapılmış ise takip eden son altı aylık dönemin başından ... itibaren dikkate alınır' hükmüne dayanmaktadır. Olayda değişiklik Nisan ayında, yani takvim yılının ilk altı ayında yapıldığı için vergi, takip eden son altı aylık dönemin başından itibaren yeni duruma göre ödenir.\n- Diğer seçenekler: D seçeneği, değişikliğin yılın son altı ayında yapılması durumunda uygulanacak kuralı belirttiği için; diğer seçenekler ise kanunda verginin yürürlüğe girme anı olarak düzenlenmediği için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, bir taşıt sahibi, aracının motor silindir hacmini takvim yılının Ağustos ayında verginin artmasını gerektirecek şekilde değiştirdiğinde, bu durumla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Değişiklik derhal vergi dairesine bildirilmeli ve artan vergi farkı o aydan itibaren ödenmelidir.",
+                "B": "Vergi artışı takip eden son altı aylık dönemin başından itibaren uygulanacağından, bildirim yükümlülüğü bulunmamaktadır.",
+                "C": "Taşıt sahibi, bu değişikliği takip eden takvim yılı başından itibaren bir ay içinde ilgili vergi dairesine bildirmekle yükümlüdür.",
+                "D": "Değişiklik, takip eden takvim yılı başından itibaren dikkate alınır ve taşıt sahibinin bu değişikliği meydana geldiği tarihten itibaren bir ay içinde ilgili vergi dairesine bildirme mecburiyeti vardır.",
+                "E": "Değişikliğin takip eden takvim yılı başından itibaren dikkate alınması için, durumun yıl sonuna kadar vergi dairesine bildirilmesi yeterlidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'son altı ayında yapılmış ise takip eden takvim yılı başından itibaren dikkate alınır' hükmü ile Madde 13(b)'de yer alan 'değişikliğin meydana geldiği tarihten itibaren bir ay içinde ilgili vergi dairesine bildirmeye mecburdurlar' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Vergi artışının yürürlüğe girme zamanını (Madde 11) veya bildirim süresini ve yükümlülüğünü (Madde 13) hatalı belirttiği için yanlıştır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, taşıtların satış işlemlerini yapan noterlerin veya fenni muayenelerini gerçekleştiren yetkili kişilerin, işlemden önce vergi borcunun ödendiğini kontrol etme zorunluluğuna uymamaları durumunda ortaya çıkan hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Sadece idari para cezası ile sorumlu olurlar.",
+                "B": "Yaptıkları işlem hukuken geçersiz sayılır.",
+                "C": "Mükellefin vergi borcundan dolayı rücu hakları olmaksızın sorumlu tutulurlar.",
+                "D": "Haklarında usulsüzlük cezası kesilir.",
+                "E": "Ödenmeyen vergilerden mükellefle birlikte müteselsilen sorumlu olurlar."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'zorunluluklara uymadan işlem yapanlar, ödenmeyen veya noksan ödenen vergiler ile gecikme zamları, gecikme faizleri ve vergi cezalarından, mükelleflerle birlikte müteselsilen sorumludurlar' hükmüne dayanmaktadır.\n- Diğer seçenekler kanunda öngörülen hukuki sonucu yanlış yansıtmaktadır. Kanun, bu kişilerin müteselsil sorumluluğunu düzenlemiş ve ayrıca sorumlu sıfatıyla ödedikleri vergiler için mükellefe rücu hakları olduğunu belirtmiştir; usulsüzlük cezası ise bu durumda değil, mükelleflerin bildirim yükümlülüğünü ihlali halinde uygulanır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, aşağıdakilerden hangisi bir işlem yapmadan önce motorlu taşıtlar vergisinin ödenip ödenmediğini araştırmakla yükümlü olanlar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Noterler",
+                "B": "Taşıtlarla ilgili fenni muayene yapma yetkisi verilen gerçek ve tüzel kişiler",
+                "C": "Taşıt kiralama faaliyeti ile uğraşan işletmeler",
+                "D": "Taşıtların her türlü satış veya devir işlemlerini yapanlar",
+                "E": "Uçuşa elverişli belgelerini veren Ulaştırma Bakanlığı sivil havacılık genel müdürlüğü"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te verginin ödenip ödenmediğini araştırmakla yükümlü olanlar arasında sayılmadığı için doğrudur. Kanun bu yükümlülüğü noterler, satış/devir yapanlar, fenni muayene yapanlar ve uçuşa elverişlilik belgesi verenler için düzenlemiştir.\n- Diğer seçeneklerde belirtilen kişi ve kurumlar, kanunda açıkça vergiyi kontrol etme yükümlülüğü altında olanlar olarak sayılmıştır. Taşıt kiralama faaliyeti ile uğraşan işletmeler ise verginin gider kaydedilmemesiyle ilgili bir istisna kapsamında zikredilmiş olup, vergi kontrol yükümlülükleri bulunmamaktadır."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, ticari maksatla kullanılmayan ve (İ) sayılı tarifede yer alan bir taşıtın fenni muayenesini yapma yetkisi olan bir tüzel kişi, vergisinin ödenmemiş olmasına rağmen muayeneyi gerçekleştirirse ve daha sonra bu vergiyi mükellef adına ödemek zorunda kalırsa, bu durumla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tüzel kişi, ödediği vergi ve cezaları gelir veya kurumlar vergisi matrahının tespitinde gider olarak kabul edebilir.",
+                "B": "Tüzel kişi, ödediği vergiler dolayısıyla mükellefe rücu etme hakkına sahip olur ancak ödediği tutarı ticari kazancından gider olarak düşemez.",
+                "C": "Tüzel kişinin mükellefe rücu hakkı yoktur ve ödediği vergiyi gider olarak da kaydedemez.",
+                "D": "Tüzel kişi, ödediği vergi ve cezaları gider olarak kaydedebilir ve ayrıca mükellefe rücu etme hakkına da sahiptir.",
+                "E": "Tüzel kişinin sorumluluğu sadece idari para cezası ile sınırlı olduğundan, vergiyi ödeme yükümlülüğü doğmaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 13'ün son fıkrasında belirtilen 'sorumlu sıfatı ile ödemek mecburiyetinde kaldıkları vergiler dolayısıyla mükelleflere rücu hakkına sahiptirler' hükmü ile Madde 14'te yer alan 'alınan vergi ve cezalar ile gecikme zamları gelir ve kurumlar vergilerinin matrahlarının tespitinde gider olarak kabul edilmez' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Rücu hakkının varlığını veya gider kaydetme yasağını yanlış belirttiği için hatalıdır. Tüzel kişinin sorumluluğu, müteselsil sorumluluk olup sadece idari para cezası ile sınırlı değildir."
+        },
+        {
+            "soru": "197 Sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, belirli tarifelerde yer alan taşıtlar için ödenen vergi ve cezaların gelir ve kurumlar vergisi matrahından indirilememesi kuralının istisnalarından biri aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Fenni muayenesi zamanında yaptırılmış olan taşıtlar",
+                "B": "Model yılı bir yaşında kabul edilen yeni tescil edilmiş taşıtlar",
+                "C": "Şahsi kullanım amacıyla satın alınan helikopterler",
+                "D": "Noter satışı ile devralınan ve vergisi tam ödenmiş taşıtlar",
+                "E": "Taşıt kiralama faaliyeti ile uğraşan işletmelerin bu amaçla kiraya verdikleri taşıtlar"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen '...taşıt kiralama faaliyeti ile uğraşan işletmelerin bu amaçla kiraya verdikleri taşıtlar hariç...' hükmüne dayanmaktadır. Bu hüküm, genel kuralın bir istisnası olarak, bu tür taşıtlar için ödenen vergilerin gelir ve kurumlar vergisi matrahının tespitinde gider olarak kabul edileceğini belirtir.\n- Diğer seçenekler, kanunda sayılan gider kaydedilmeme kuralının istisnaları arasında yer almadığı için yanlıştır. C seçeneği ise kanundaki 'ticari maksatla' kullanım şartına aykırı olduğu için hatalıdır."
+        }
+    ]
+}

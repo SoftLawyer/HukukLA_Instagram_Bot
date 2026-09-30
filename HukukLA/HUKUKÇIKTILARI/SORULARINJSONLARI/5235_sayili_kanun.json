@@ -1,0 +1,1480 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bu Kanun'un amacı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Adlî yargı ilk derece mahkemeleri ile bölge adliye mahkemelerinin kuruluş, görev ve yetkilerini düzenlemek.",
+                "B": "Yalnızca adlî yargı ilk derece mahkemelerinin kuruluş esaslarını belirlemek.",
+                "C": "Sadece bölge adliye mahkemelerinin görev ve yetki alanlarını çizmek.",
+                "D": "Adlî yargı ilk derece mahkemelerinin görevlerini, bölge adliye mahkemelerinin ise sadece kuruluşunu düzenlemek.",
+                "E": "İdarî yargı mahkemelerinin kuruluş ve yetkilerini yeniden yapılandırmak."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Bu Kanun, adlî yargı ilk derece mahkemeleri ile bölge adliye mahkemelerinin kuruluş, görev ve yetkilerini düzenler.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunun kapsamını eksik (sadece bir mahkeme türünü veya tek bir yetkiyi içermesi) veya yanlış (idarî yargı gibi ilgisiz bir alanı dahil etmesi) yansıttığı için hatalıdır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, adlî yargı ilk derece mahkemelerini oluşturan temel mahkeme türleri aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Hukuk ve ceza mahkemeleri",
+                "B": "Sulh hukuk ve asliye hukuk mahkemeleri",
+                "C": "Bölge adliye mahkemeleri",
+                "D": "Yalnızca özel kanunlarla kurulan mahkemeler",
+                "E": "İdare ve vergi mahkemeleri"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Adlî yargı ilk derece mahkemeleri, hukuk ve ceza mahkemeleridir.' hükmüne dayanmaktadır. - Diğer seçenekler, adlî yargı ilk derece mahkemelerinin temel ayrımını yansıtmadığı, ikinci derece mahkemeleri olduğu veya farklı bir yargı koluna ait olduğu için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, adlî yargı ikinci derece mahkemeleri olarak tanımlanan mahkemeler aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Sulh hukuk ve asliye hukuk mahkemeleri",
+                "B": "Hukuk ve ceza mahkemeleri",
+                "C": "Bölge adliye mahkemeleri",
+                "D": "Özel kanunlarla kurulan diğer hukuk mahkemeleri",
+                "E": "Adlî yargı ilk derece mahkemeleri"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'Adlî yargı ikinci derece mahkemeleri, bölge adliye mahkemeleridir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen mahkemeler, kanunda adlî yargı ilk derece mahkemeleri olarak düzenlendiği için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, hukuk mahkemeleri arasında aşağıdakilerden hangisi sayılmıştır?",
+            "secenekler": {
+                "A": "Sulh hukuk mahkemeleri",
+                "B": "Ceza mahkemeleri",
+                "C": "Bölge adliye mahkemeleri",
+                "D": "İdare mahkemeleri",
+                "E": "Vergi mahkemeleri"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Hukuk mahkemeleri, sulh hukuk ve asliye hukuk mahkemeleri ile özel kanunlarla kurulan diğer hukuk mahkemeleridir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 4'te sayılan hukuk mahkemeleri arasında yer almadığı için yanlıştır. Ceza mahkemeleri (Madde 2) ve bölge adliye mahkemeleri (Madde 3) kanunda farklı mahkeme türleri olarak düzenlenmiş olup, idare ve vergi mahkemeleri ise metinde hiç zikredilmemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, adlî yargı mahkemelerinin yapısı ve türleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemeleri, adlî yargı ilk derece mahkemeleri olarak kabul edilir.",
+                "B": "Sulh hukuk ve asliye hukuk mahkemeleri, hukuk mahkemelerini oluşturan mahkeme türlerindendir.",
+                "C": "Adlî yargı ilk derece mahkemeleri yalnızca sulh hukuk ve asliye hukuk mahkemelerinden oluşur.",
+                "D": "Kanun, sadece adlî yargı ilk derece mahkemelerinin kuruluşunu düzenlemekte olup, bölge adliye mahkemelerini kapsamaz.",
+                "E": "Ceza mahkemeleri, adlî yargı ikinci derece mahkemeleri arasında yer alır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Hukuk mahkemeleri, sulh hukuk ve asliye hukuk mahkemeleri ile özel kanunlarla kurulan diğer hukuk mahkemeleridir.' hükmüne dayanmaktadır. Bu hüküm, sulh ve asliye hukuk mahkemelerinin, hukuk mahkemeleri kategorisinde yer aldığını göstermektedir.\n- Diğer seçenekler: Kanunda bölge adliye mahkemelerinin ikinci derece (Madde 3), ceza mahkemelerinin ise ilk derece (Madde 2) mahkemesi olarak düzenlendiği ve kanunun kapsamının hem ilk derece hem de bölge adliye mahkemelerini içerdiği (Madde 1) belirtildiğinden yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, hukuk mahkemeleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hukuk mahkemeleri yalnızca sulh hukuk ve asliye hukuk mahkemelerinden oluşur.",
+                "B": "Hukuk mahkemeleri; sulh hukuk, asliye hukuk ve özel kanunlarla kurulan diğer hukuk mahkemeleridir.",
+                "C": "Tüm hukuk mahkemeleri yalnızca özel kanunlarla kurulur.",
+                "D": "Asliye hukuk mahkemeleri, hukuk mahkemeleri tanımının dışında tutulmuştur.",
+                "E": "Hukuk mahkemeleri, ceza mahkemelerini de kapsayan üst bir kategoridir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Hukuk mahkemeleri, sulh hukuk ve asliye hukuk mahkemeleri ile özel kanunlarla kurulan diğer hukuk mahkemeleridir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda yer alan tanımı eksik, yanlış veya kapsamı dışında yorumladığı için hatalıdır. A seçeneği tanımı eksik bırakmakta, C ve D seçenekleri kanundaki açık ifadeyle çelişmekte, E seçeneği ise kanunda yer almayan bir unsuru tanıma dahil etmektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, asliye ticaret mahkemesinde bir başkan ve iki üyeden oluşan heyetçe yürütülecek ve sonuçlandırılacak dava ve işler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "İflasın kaldırılması ve konkordatodan kaynaklanan davalar",
+                "B": "Şirketlerin yönetim organları aleyhine açılacak sorumluluk davaları",
+                "C": "Yabancı hakem kararlarının tanıma ve tenfizine yönelik davalar",
+                "D": "Vasiyetnamenin iptaline ilişkin davalar",
+                "E": "Konusu parayla ölçülebilen ve dava değeri bir milyon Türk lirasının üzerinde olan davalar"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 5'te asliye ticaret mahkemesinde heyetçe bakılacak dava ve işlerin sınırlı olarak sayıldığı ve vasiyetnamenin iptali davalarının bu listede yer almadığı hükmüne dayanmaktadır.\n- Diğer seçenekler: A, B, C ve E seçeneklerinde yer alan uyuşmazlıklar, kanunda açıkça heyet tarafından görülmesi gerektiği belirtilen dava ve işler arasında sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, iş durumunun gerekli kıldığı yerlerde hukuk mahkemelerinin birden fazla dairesi oluşturulması durumunda, özel kanunlarda başkaca hüküm bulunmadığı takdirde, daireler arasındaki iş dağılımını belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Mahkeme başkanı",
+                "C": "Hâkimler ve Savcılar Yüksek Kurulu",
+                "D": "Bulundukları ilin baro başkanlığı",
+                "E": "Yargıtay Birinci Başkanlık Kurulu"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'daireler arasındaki iş dağılımı Hâkimler ve Savcılar Yüksek Kurulu tarafından belirlenebilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bu yetkinin Adalet Bakanlığına, mahkeme başkanına veya başka bir kuruma verildiğine dair bir düzenleme bulunmadığı için yanlıştır. Mahkeme başkanının iş dağıtımına ilişkin yetkisi, asliye ticaret mahkemesindeki hâkimler arasındaki dağılımla sınırlıdır, daireler arasındaki dağıtımla değil."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, adlî yargı ilk derece hukuk mahkemelerinin yapısı ve görevlerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Sulh hukuk ve asliye hukuk mahkemeleri tek hâkimli olarak görev yapar.",
+                "B": "Asliye hukuk mahkemeleri, sulh hukuk mahkemelerinin görevleri dışında kalan ve özel hukuk ilişkilerinden doğan her türlü dava ve işe bakar.",
+                "C": "Asliye ticaret mahkemesi kurulan yerlerde, iflas davaları gibi belirli uyuşmazlıklar bir başkan ve iki üyeden oluşan heyetçe yürütülür.",
+                "D": "Hukuk mahkemelerinin birden fazla dairesi oluşturulduğunda, daireler arasındaki iş dağılımını Adalet Bakanlığı belirler.",
+                "E": "Hukuk mahkemeleri, bulundukları il veya ilçenin adı ile anılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'daireler arasındaki iş dağılımı Hâkimler ve Savcılar Yüksek Kurulu tarafından belirlenebilir' hükmüne dayanmaktadır. Seçenekte bu yetkinin Adalet Bakanlığına ait olduğu belirtildiği için ifade yanlıştır.\n- Diğer seçenekler: Madde 5 ve 6'da yer alan hukuk mahkemelerinin tek hâkimli olması, görev alanları, asliye ticaret mahkemesinin heyet yapısı ve mahkemelerin isimlendirilmesine ilişkin doğru bilgileri içermektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, asliye ticaret mahkemesi kurulan yerlerde, dava değerine bakılmaksızın bir başkan ve iki üyeden oluşan heyetçe görülecek işler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Şirketlerin yönetim organları aleyhine açılacak sorumluluk davaları.",
+                "B": "Konkordato ve iflasın kaldırılmasına ilişkin iş ve davalar.",
+                "C": "Yabancı hakem kararlarının tanınması ve tenfizine yönelik davalar.",
+                "D": "Şirketlerin fesih, infisah ve tasfiyesine yönelik davalar.",
+                "E": "Marka ve patent haklarının ihlalinden doğan tazminat davaları."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 5'te asliye ticaret mahkemesi heyetinin bakacağı dava ve işler arasında sayılmadığı için 'Marka ve patent haklarının ihlalinden doğan tazminat davaları' seçeneğidir.\n- Diğer seçenekler: Madde 5'te, şirketler hukuku, iflas ve konkordato ile tahkim yargılamasına ilişkin belirli davaların heyetçe görüleceği açıkça sayılmıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, asliye hukuk mahkemelerinin görevleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece özel kanunlarla kendilerine verilen görevleri yerine getirir.",
+                "B": "Sulh hukuk mahkemeleri ile görev alanını paylaşır ve her iki mahkeme de aynı davalara bakabilir.",
+                "C": "Sulh hukuk mahkemelerinin görevleri dışında kalan ve özel hukuk ilişkilerinden doğan her türlü dava ve işlere bakar.",
+                "D": "Yalnızca Hukuk Usulü Muhakemeleri Kanunu'nda belirtilen görevleri yerine getirir.",
+                "E": "Özel kanunlarla kurulan hukuk mahkemelerinin görevlerini de üstlenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Asliye hukuk mahkemeleri, sulh hukuk mahkemelerinin görevleri dışında kalan ve özel hukuk ilişkilerinden doğan her türlü dava ve işler ile kanunların verdiği diğer dava ve işlere bakar.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda asliye hukuk mahkemeleri için tanımlanan genel ve tamamlayıcı görev tanımına aykırıdır. D seçeneği sulh hukuk mahkemesinin görev tanımıyla karıştırılmıştır, E seçeneği ise özel kanunlarla kurulan mahkemelerin görevlerinin saklı olduğu ilkesiyle çelişmektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, hukuk mahkemelerinin görevlerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sulh hukuk mahkemeleri, asliye hukuk mahkemelerinin görev alanı dışında kalan tüm uyuşmazlıklara bakmakla görevlidir.",
+                "B": "Asliye hukuk mahkemeleri, sulh hukuk mahkemelerinin görevleri dışında kalan ve özel hukuk ilişkilerinden doğan her türlü dava ve işlere bakar.",
+                "C": "Özel kanunlarla kurulan hukuk mahkemelerinin görevleri, bu kanunun yürürlüğe girmesiyle asliye hukuk mahkemelerine devredilmiştir.",
+                "D": "Sulh hukuk mahkemelerinin görevleri yalnızca Hukuk Usulü Muhakemeleri Kanununda belirtilen işlerle sınırlıdır.",
+                "E": "Tüm özel hukuk ilişkilerinden doğan dava ve işler öncelikle sulh hukuk mahkemelerinde görülür."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Asliye hukuk mahkemeleri, sulh hukuk mahkemelerinin görevleri dışında kalan ve özel hukuk ilişkilerinden doğan her türlü dava ve işler ile kanunların verdiği diğer dava ve işlere bakar.' hükmüne dayanmaktadır. Bu hüküm, asliye hukuk mahkemelerinin genel görevli mahkeme olduğunu ve sulh hukuk mahkemelerinin görev alanına girmeyen özel hukuk uyuşmazlıklarına baktığını açıkça ifade eder.\n- Diğer seçenekler: Madde 6'da belirtilen görev dağılımına aykırı ifadeler içerdiği için yanlıştır. A ve E seçenekleri görev dağılımını tersine çevirmekte, D seçeneği sulh hukuk mahkemelerinin görev kaynağını eksik belirtmekte ve C seçeneği ise özel kanunlarla kurulan mahkemelerin görevlerinin saklı olduğu ilkesine aykırı bir iddiada bulunmaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, hukuk mahkemelerinin yargı çevresinin belirlenmesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Hukuk mahkemelerinin yargı çevresi, kural olarak bulundukları il merkezi ve ilçeler ile bunlara adlî yönden bağlanan ilçelerin idarî sınırlarıdır.",
+                "B": "İl ve ilçe sınırlarına bakılmaksızın yargı çevresi, Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Kurulunca belirlenebilir.",
+                "C": "Coğrafî durum ve iş yoğunluğu, bir hukuk mahkemesinin kaldırılmasına veya yargı çevresinin değiştirilmesine karar verilirken göz önünde tutulan unsurlardır.",
+                "D": "Özel kanunlarında yargı çevresi belirtilmemiş olan hukuk mahkemelerinin yargı çevresinin belirlenmesine, Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir.",
+                "E": "Yargı çevresinin değiştirilmesine ilişkin kararlar doğrudan Adalet Bakanlığınca verilir ve bu kararların Resmî Gazete’de yayımlanması zorunludur."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'bir hukuk mahkemesinin kaldırılmasına veya yargı çevresinin değiştirilmesine... Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir' hükmüne dayanmaktadır. Bu hükme göre kararı veren makam Adalet Bakanlığı değil, onun önerisi üzerine Hâkimler ve Savcılar Yüksek Kuruludur. Ayrıca, ilgili maddede bu kararların Resmî Gazete'de yayımlanacağına dair bir düzenleme bulunmamaktadır.\n- Diğer seçeneklerdeki ifadeler, Madde 7'de yer alan hukuk mahkemelerinin yargı çevresinin belirlenmesine ilişkin usul ve esaslarla uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, adlî yargı ilk derece mahkemelerinin kuruluşu ve yargı çevrelerinin belirlenmesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ceza mahkemeleri, bölgelerin coğrafî durumları ve iş yoğunluğu dikkate alınarak belirlenen ilçelerde, Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü alınarak Adalet Bakanlığınca kurulur.",
+                "B": "Hukuk mahkemelerinin yargı çevresi, il ve ilçe sınırlarına bağlı kalmaksızın Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Kurulunca belirlenebilir.",
+                "C": "Bir hukuk mahkemesinin kaldırılmasına veya yargı çevresinin değiştirilmesine Hâkimler ve Savcılar Kurulunun olumlu görüşü üzerine Adalet Bakanlığınca karar verilir.",
+                "D": "İş durumunun gerektirdiği yerlerde ceza mahkemelerinin birden fazla dairesi oluşturulabilir ve bu daireler arasındaki iş dağılımı Hâkimler ve Savcılar Yüksek Kurulu tarafından belirlenebilir.",
+                "E": "Asliye hukuk mahkemeleri, sulh hukuk mahkemelerinin görevleri dışında kalan ve özel hukuk ilişkilerinden doğan her türlü dava ve işlere bakar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'bir hukuk mahkemesinin kaldırılmasına veya yargı çevresinin değiştirilmesine, Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir' hükmüne dayanmaktadır. Seçenekte, Adalet Bakanlığı ile Hâkimler ve Savcılar Kurulunun rolleri (öneri ve karar) yanlış bir şekilde yer değiştirilmiş ve ceza mahkemelerinin kuruluşuna özgü olan 'olumlu görüş' şartı eklenmiştir.\n- Diğer seçenekler: Madde 6, 7 ve 9'da yer alan hukuk ve ceza mahkemelerinin görev, kuruluş ve yargı çevresi belirleme usullerine ilişkin doğru ifadeler içerdiği için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre,\n\nİ. Bir hukuk mahkemesinin yargı çevresinin değiştirilmesi\nIİ. Bir ceza mahkemesinin kurulacağı ilçenin belirlenmesi\nIİİ. Ceza mahkemesi daireleri arasında iş dağılımı yapılması\n\nyukarıdaki durumlardan hangisi veya hangilerinde 'iş yoğunluğu' dikkate alınan bir ölçüttür?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7 ve Madde 9'da belirtilen hükümlere dayanmaktadır. Kanuna göre 'iş yoğunluğu'; hem hukuk mahkemelerinin yargı çevresinin değiştirilmesinde (Madde 7), hem ceza mahkemelerinin kurulacağı ilçelerin belirlenmesinde (Madde 9) hem de bu mahkemelerin daireleri arasındaki iş dağılımının yapılmasında (Madde 9) dikkate alınan ortak bir ölçüttür.\n- Diğer seçenekler: Her üç öncülde de 'iş yoğunluğu' bir ölçüt olarak sayıldığından, bu öncülleri eksik içeren diğer tüm seçenekler yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi ceza mahkemeleri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Asliye ceza mahkemeleri",
+                "B": "Ağır ceza mahkemeleri",
+                "C": "Özel kanunlarla kurulan diğer ceza mahkemeleri",
+                "D": "Sulh hukuk mahkemeleri",
+                "E": "İş mahkemeleri"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 8'de ceza mahkemeleri 'asliye ceza ve ağır ceza mahkemeleri ile özel kanunlarla kurulan diğer ceza mahkemeleri' olarak sayılmıştır. Bu tanıma göre sulh hukuk mahkemeleri bu kapsamda yer almaz. \n- Diğer seçenekler: A, B ve C seçenekleri kanunda açıkça ceza mahkemesi olarak belirtilmiştir. E seçeneği ise, metnin dışında kalan ve farklı bir uzmanlık alanına sahip bir mahkeme türü olduğu için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ceza mahkemelerinin kurulmasına ilişkin yetki ve usul ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mahkemeler, Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü alınarak Adalet Bakanlığınca kurulur.",
+                "B": "Mahkemeler, Adalet Bakanlığının talebi üzerine doğrudan Hâkimler ve Savcılar Yüksek Kurulu tarafından kurulur.",
+                "C": "Her ilçede, coğrafi duruma bakılmaksızın zorunlu olarak bir ceza mahkemesi kurulur.",
+                "D": "Ceza mahkemelerinin birden fazla dairesi oluşturulmasına karar verme yetkisi Yargıtaya aittir.",
+                "E": "Özel kanunlarla kurulmuş olan mahkemeler bu kanunla kaldırılmış olup, kuruluşları yeniden düzenlenmiştir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Ceza mahkemeleri, ... Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü alınarak Adalet Bakanlığınca kurulur.' hükmüne dayanmaktadır. \n- Diğer seçenekler, kanunda belirtilen kuruluş usulüne, yetkili makamlara veya şartlara aykırı bilgiler içerdiği için yanlıştır. Örneğin, mahkemeler Adalet Bakanlığınca kurulur, HSK sadece olumlu görüş verir; ayrıca özel kanunlarla kurulan mahkemelerin hükümleri saklı tutulmuştur."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, iş durumunun gerekli kıldığı yerlerde oluşturulan ceza mahkemesi daireleri arasındaki iş dağılımını, ihtisaslaşmanın sağlanması amacıyla belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Mahkemenin kendi başkanı",
+                "C": "Yargıtay ilgili ceza dairesi",
+                "D": "Hâkimler ve Savcılar Yüksek Kurulu",
+                "E": "Bölge adliye mahkemesi başsavcılığı"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9'da yer alan '...daireler arasındaki iş dağılımı, Hâkimler ve Savcılar Yüksek Kurulu tarafından belirlenebilir.' hükmüne dayanmaktadır. \n- Diğer seçeneklerde belirtilen makamların kanunda bu konuda bir yetkisi düzenlenmediği için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemesinin toplanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mahkeme, asliye ceza mahkemesi gibi tek hâkimli olarak toplanır.",
+                "B": "Mahkemenin toplanabilmesi için bir başkan ve en az üç üyenin hazır bulunması gerekir.",
+                "C": "Mahkeme, bir başkan ve iki üye ile toplanır.",
+                "D": "Mahkemenin yargı çevresi, il sınırlarına bakılmaksızın Adalet Bakanlığının önerisiyle belirlenir.",
+                "E": "Mahkeme, sulh hukuk mahkemelerinin görevleri dışında kalan özel hukuk uyuşmazlıklarına bakar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Bu mahkeme bir başkan ve iki üye ile toplanır.' hükmüne dayanmaktadır. \n- A seçeneği asliye ceza mahkemesinin yapısıdır. B seçeneğindeki üye sayısı yanlıştır. D ve E seçenekleri ise hukuk mahkemelerinin görev ve yargı çevresine ilişkin olup (Madde 6 ve 7), ağır ceza mahkemesi için geçerli değildir, bu nedenle eleyici çeldiricilerdir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ceza mahkemelerinin kuruluşu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ceza mahkemeleri, yalnızca il merkezlerinde Adalet Bakanlığınca kurulur.",
+                "B": "Ağır ceza mahkemeleri, bir başkan ve üç üye ile toplanır.",
+                "C": "Ceza mahkemeleri, Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü alınarak Adalet Bakanlığınca kurulur.",
+                "D": "Asliye ceza mahkemeleri, bir başkan ve iki üyeden oluşan bir heyetle görev yapar.",
+                "E": "Ceza mahkemeleri, bulundukları adli yargı adalet komisyonunun adı ile anılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Ceza mahkemeleri, her il merkezi ile ... ilçelerde Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü alınarak Adalet Bakanlığınca kurulur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği sadece il merkezlerini belirttiği için, B seçeneği üye sayısını yanlış belirttiği için (doğrusu iki üye), D seçeneği asliye ceza mahkemelerinin tek hâkimli olduğunu göz ardı ettiği için ve E seçeneği mahkemelerin bulundukları il veya ilçenin adıyla anılacağını belirttiği için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, iş durumunun gerekli kıldığı yerlerde oluşturulan ceza mahkemesi daireleri arasındaki iş dağılımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İş dağılımı, gelen işlerin yoğunluğu ve niteliği dikkate alınarak belirlenebilir.",
+                "B": "Daireler arasındaki iş dağılımını belirleme yetkisi Hâkimler ve Savcılar Yüksek Kuruluna aittir.",
+                "C": "İş dağılımına ilişkin kararlar Resmî Gazete’de yayımlanır.",
+                "D": "Daireler, iş dağılımının yapıldığı tarih itibarıyla görülmekte olan davaları iş bölümü gerekçesiyle diğer bir daireye gönderebilir.",
+                "E": "Daireler, kendilerine tevzi edilen davalara bakmakla yükümlüdür."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9'da yer alan 'Hâkimler ve Savcılar Yüksek Kurulunca iş dağılımının yapıldığı tarih itibarıyla görülmekte olan davalarda daireler, iş bölümü gerekçesiyle dosyaları diğer bir daireye gönderemez.' hükmüne aykırı olduğu için D seçeneğidir.\n- Diğer seçenekler: A, B, C ve E seçeneklerinde yer alan ifadeler, Madde 9'da belirtilen iş dağılımına ilişkin usul ve esaslarla uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ceza mahkemelerinin yapısı ve toplanma usulü hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ağır ceza mahkemesi bir başkan ve iki üye ile toplanır.",
+                "B": "Asliye ceza mahkemeleri, iş yoğunluğuna göre bir veya daha fazla hâkimle toplanabilir.",
+                "C": "Sulh ceza hâkimliğinde görevli hâkimler, ihtiyaç halinde adli yargı adalet komisyonlarınca asliye ceza mahkemelerinde de görevlendirilebilir.",
+                "D": "Tüm ceza mahkemeleri, bir başkan ve iki üyeden oluşan heyetle karar verir.",
+                "E": "Ağır ceza mahkemeleri, en az üç üyenin katılımıyla toplanmak zorundadır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Bu mahkeme [ağır ceza mahkemesi] bir başkan ve iki üye ile toplanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: B seçeneği asliye ceza mahkemelerinin tek hâkimli olması kuralına, C seçeneği Madde 10'daki müstakilen görevlendirme kuralına, D ve E seçenekleri ise hem asliye ceza mahkemelerinin yapısına hem de ağır ceza mahkemesinin toplanma yeter sayısına aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ceza mahkemelerinin kuruluşu, işleyişi ve yetkilerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ceza mahkemeleri, her il merkezi ile coğrafî durum ve iş yoğunluğuna göre belirlenen ilçelerde, Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü alınarak Adalet Bakanlığınca kurulur.",
+                "B": "Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulu, coğrafi durum ve iş yoğunluğunu gözeterek bir sulh ceza hâkimliğinin kaldırılmasına karar verebilir.",
+                "C": "Müstakilen sulh ceza hâkimliğinde görevlendirilen hâkimler, adli yargı adalet komisyonlarınca başka mahkemelerde veya işlerde görevlendirilemez.",
+                "D": "İhtisaslaşmanın sağlanması amacıyla ceza mahkemesi daireleri arasındaki iş dağılımı, Adalet Bakanlığı tarafından belirlenir ve Resmî Gazete’de yayımlanır.",
+                "E": "Ağır ceza mahkemesi bir başkan ve iki üye ile toplanır ve bu mahkemeler bulundukları il veya ilçenin adı ile anılır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'daireler arasındaki iş dağılımı, Hâkimler ve Savcılar Yüksek Kurulu tarafından belirlenebilir' hükmüne dayanmaktadır. Seçenekte bu yetkinin Adalet Bakanlığına ait olduğu belirtildiği için ifade yanlıştır.\n- Diğer seçenekler: Madde 9 ve Madde 10'da yer alan ceza mahkemelerinin kuruluşu, sulh ceza hâkimliğinin kaldırılması, sulh ceza hâkimlerinin başka işlerde görevlendirilememesi ve ağır ceza mahkemesinin toplanma usulüne ilişkin kuralları doğru bir şekilde yansıtmaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, coğrafi durum ve iş yoğunluğu göz önünde tutularak bir sulh ceza hâkimliğinin yargı çevresinin değiştirilmesine karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "Hâkimler ve Savcılar Yüksek Kurulu",
+                "C": "Adli yargı adalet komisyonu",
+                "D": "Bulunduğu yer ağır ceza mahkemesi",
+                "E": "Yargıtay ilgili ceza dairesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'bir sulh ceza hâkimliğinin kaldırılmasına veya yargı çevresinin değiştirilmesine, Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bu yetkiye sahip olarak belirtilmemiştir. Adalet Bakanlığı bu konuda karar mercii değil, yalnızca öneride bulunan makam olduğu için A seçeneği güçlü bir çeldiricidir. Diğer kurumların ise bu süreçte bir rolü bulunmamaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, müstakilen sulh ceza hâkimliğinde görevlendirilen hâkimlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İş durumuna göre Hâkimler ve Savcılar Yüksek Kurulu tarafından geçici olarak başka mahkemelerde görevlendirilebilirler.",
+                "B": "Adli yargı adalet komisyonlarınca başka mahkemelerde veya işlerde görevlendirilemezler.",
+                "C": "Adalet Bakanlığının onayı ile asliye ceza mahkemelerindeki duruşmalara katılabilirler.",
+                "D": "Ağır ceza mahkemesi başkanının talebi üzerine bu mahkemenin heyetine dâhil edilebilirler.",
+                "E": "Yalnızca soruşturma dosyalarına bakmak kaydıyla, bulundukları yerdeki tüm ceza mahkemelerinde görev yapabilirler."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da yer alan 'Müstakilen sulh ceza hâkimliğinde görevlendirilen hâkimler, adli yargı adalet komisyonlarınca başka mahkemelerde veya işlerde görevlendirilemez' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen bu açık yasakla çeliştiği için yanlıştır ve metinde yer almayan varsayımsal yetkilere dayanmaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, büyükşehir belediyesi bulunan illerde, büyükşehir belediyesi sınırları içerisindeki sulh ceza hâkimliğinin yargı çevresinin belirlenmesi usulüyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yargı çevresi, adli yargı adalet komisyonu tarafından il sınırları esas alınarak belirlenir.",
+                "B": "Yargı çevresi, valiliğin görüşü alınarak Adalet Bakanlığınca doğrudan belirlenir.",
+                "C": "Yargı çevresi, il veya ilçe sınırlarına bakılmaksızın Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca belirlenir.",
+                "D": "Yargı çevresi, ilgili ağır ceza mahkemesinin yargı çevresi ile otomatik olarak aynı kabul edilir.",
+                "E": "Yargı çevresi, büyükşehir belediye meclisinin alacağı karar doğrultusunda Hâkimler ve Savcılar Yüksek Kurulunca belirlenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da geçen 'büyükşehir belediyesi bulunan illerde, büyükşehir belediyesi sınırları içerisindeki il ve ilçenin adı ile anılan sulh ceza hâkimliğinin yargı çevresi, il veya ilçe sınırlarına bakılmaksızın Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca belirlenir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen yetkili makamlar (Adalet Bakanlığı ve HSYK) ve usul ile uyumlu olmadığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, sulh ceza hâkimliğinin temel kuruluş amacı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Ağır ceza mahkemelerinin görev alanına girmeyen suçlarla ilgili davalara bakmak",
+                "B": "Asliye ceza mahkemelerinin iş yükünü hafifletmek amacıyla belirli dava türlerini devralmak",
+                "C": "Yürütülen soruşturmalarda hâkim tarafından verilmesi gerekli kararları almak, işleri yapmak ve itirazları incelemek",
+                "D": "Özel kanunlarla kurulan diğer ceza mahkemeleri arasındaki iş dağılımını düzenlemek",
+                "E": "Hukuk mahkemeleri ile ceza mahkemeleri arasındaki görev uyuşmazlıklarını çözmek"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'yürütülen soruşturmalarda hâkim tarafından verilmesi gerekli kararları almak, işleri yapmak ve bunlara karşı yapılan itirazları incelemek amacıyla sulh ceza hâkimliği kurulmuştur' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 10'da sayılan kuruluş amacını yansıtmadığı veya diğer mahkemelerin görev alanına girdiği için yanlıştır. Bu soru, sulh ceza hâkimliğinin kovuşturma değil, soruşturma evresindeki rolünü vurgulamaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, asliye ceza mahkemesinin görevi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sulh ceza hâkimliği ve ağır ceza mahkemelerinin görevleri dışında kalan dava ve işlere bakar.",
+                "B": "Yalnızca kanunların özel olarak görevli kıldığı istisnai dava ve işlere bakar.",
+                "C": "Ağır ceza mahkemelerinin görev alanına giren tüm dava ve işlere bakar.",
+                "D": "Sadece sulh ceza hâkimliğinin görevleri dışında kalan işlere bakmakla yetkilidir.",
+                "E": "Sulh ceza hâkimliği ve ağır ceza mahkemelerinin kararlarına karşı yapılan itirazları inceler."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'sulh ceza hâkimliği ve ağır ceza mahkemelerinin görevleri dışında kalan dava ve işlere asliye ceza mahkemelerince bakılır' hükmüne dayanmaktadır. Bu hüküm, asliye ceza mahkemesinin genel görevli bir mahkeme olduğunu ve diğer iki mahkemenin görev alanına girmeyen işlere baktığını açıkça ifade eder.\n- Diğer seçenekler, asliye ceza mahkemesinin görev tanımını yanlış veya eksik yansıttığı için hatalıdır. Kanun, bu mahkemeyi diğer iki mahkemenin görev alanı dışında kalan işler için genel görevli olarak belirlemiştir, özel bir görev alanı veya itiraz mercii olarak tanımlamamıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, adlî yargı ilk derece ceza mahkemelerinin görev dağılımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yürütülen soruşturmalarda hâkim tarafından verilmesi gereken kararları almak ve bunlara karşı yapılan itirazları incelemek asliye ceza mahkemesinin görevidir.",
+                "B": "Ağırlaştırılmış müebbet hapis cezasını gerektiren suçlarla ilgili dava ve işlere, davanın açıldığı yerdeki asliye ceza mahkemesi bakar.",
+                "C": "Kanunların ayrıca görevli kıldığı hâller saklı kalmak üzere, sulh ceza hâkimliği ve ağır ceza mahkemelerinin görevleri dışında kalan dava ve işlere asliye ceza mahkemelerince bakılır.",
+                "D": "Hileli iflâs suçları ile ilgili davalara bakmak, kanunda özel bir hüküm bulunmadıkça sulh ceza hâkimliğinin görevidir.",
+                "E": "Türk Ceza Kanununda yer alan yağma suçlarına, ceza miktarı on yılı aşmadığı sürece asliye ceza mahkemeleri bakmakla görevlidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'de belirtilen 'sulh ceza hâkimliği ve ağır ceza mahkemelerinin görevleri dışında kalan dava ve işlere asliye ceza mahkemelerince bakılır' hükmüne dayanmaktadır. Bu hüküm, asliye ceza mahkemesinin görevini, diğer mahkemelerin görev alanını dışlayarak tanımlamaktadır.\n- Diğer seçenekler: Madde 10'da sulh ceza hâkimliğinin, Madde 12'de ise ağır ceza mahkemesinin görevleri açıkça sayıldığı için yanlıştır. Yağma ve hileli iflas gibi suçlar ile ağırlaştırılmış müebbet hapis cezasını gerektiren işler ağır ceza mahkemesinin, soruşturma evresindeki hâkim kararları ise sulh ceza hâkimliğinin görev alanındadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi ağır ceza mahkemelerinin görevli olduğu dava ve işler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Yağma suçuyla ilgili davalar",
+                "B": "Hileli iflâs suçuyla ilgili davalar",
+                "C": "Kasten yaralama suçuyla ilgili davalar",
+                "D": "Ağırlaştırılmış müebbet hapis cezasını gerektiren suçlarla ilgili dava ve işler",
+                "E": "Terörle Mücadele Kanununun kapsamına giren suçlar dolayısıyla açılan davalar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen ağır ceza mahkemelerinin görevli olduğu suçlar listesinde 'kasten yaralama' suçunun yer almamasına dayanmaktadır.\n- Diğer seçeneklerdeki yağma, hileli iflâs, ağırlaştırılmış müebbet hapis cezasını gerektiren suçlar ve Terörle Mücadele Kanunu kapsamındaki suçlar, maddede açıkça ağır ceza mahkemesinin görev alanında olarak listelenmiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemelerinin görevli olduğu, kanunda özel olarak sayılan suçlardan biri aşağıdakilerden hangisi değildir?",
+            "secenekler": {
+                "A": "Yağma",
+                "B": "İrtikâp",
+                "C": "Resmî belgede sahtecilik",
+                "D": "Taksirle yaralama",
+                "E": "Hileli iflâs"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 12'de ağır ceza mahkemesinin görevli olduğu suçlar arasında yağma, irtikâp, resmî belgede sahtecilik ve hileli iflâsın sayılmasına karşın, taksirle yaralama suçunun bu katalogda yer almamasına dayanmaktadır.\n- Diğer seçeneklerde belirtilen suçlar, kanunda açıkça ağır ceza mahkemesinin görev alanında sayılmıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemelerinin görevi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "On yıldan fazla hapis cezalarını gerektiren suçlarla ilgili dava ve işlere bakmakla görevlidir.",
+                "B": "Terörle Mücadele Kanununun kapsamına giren suçlar, ağır ceza mahkemelerinin görev alanı dışındadır.",
+                "C": "Çocuklara özgü kovuşturma hükümleri, görev alanı belirlenirken saklı tutulmuştur.",
+                "D": "Anayasa Mahkemesi ve Yargıtayın yargılayacağı kişilere ilişkin hükümler saklıdır.",
+                "E": "Ağırlaştırılmış müebbet ve müebbet hapis cezalarını gerektiren suçlarla ilgili davalara bakar."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen '3713 sayılı Terörle Mücadele Kanununun kapsamına giren suçlar dolayısıyla açılan davalar ... ağır ceza mahkemeleri görevlidir' hükmüne dayanmaktadır. Bu hüküm uyarınca, Terörle Mücadele Kanunu kapsamındaki suçlar ağır ceza mahkemelerinin görev alanındadır; bu nedenle B seçeneğindeki ifade yanlıştır.\n- Diğer seçeneklerdeki ifadeler, maddede sayılan görev ve istisnalarla uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemeleri dışında kalan diğer ceza mahkemelerinin görevleri nasıl belirlenir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca belirlenir.",
+                "B": "Suçun cezasının üst sınırı göz önünde bulundurularak belirlenir.",
+                "C": "Özel kanunlarla belirlenen dava ve işleri görürler.",
+                "D": "Bulundukları ilin coğrafî durumu ve iş yoğunluğuna göre belirlenir.",
+                "E": "Yalnızca on yıldan az hapis cezasını gerektiren suçlarla ilgili davalara bakarlar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 13'te belirtilen 'Diğer ceza mahkemeleri, özel kanunlarla belirlenen dava ve işleri görür.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A ve D seçenekleri mahkemelerin yargı çevresinin belirlenmesiyle (Madde 15), B seçeneği ise mahkemelerin görevlerinin belirlenmesindeki bir usulle (Madde 14) ilgilidir. E seçeneğindeki gibi bir ceza süresi sınırlaması ise kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, coğrafî durum ve iş yoğunluğu göz önünde tutularak bir ceza mahkemesinin kaldırılmasına veya yargı çevresinin değiştirilmesine karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yargıtay Ceza Genel Kurulu",
+                "B": "Anayasa Mahkemesi",
+                "C": "Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulu",
+                "D": "Sadece Adalet Bakanlığı",
+                "E": "İlgili ilin valiliği ve belediye meclisi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'bir ceza mahkemesinin kaldırılmasına veya yargı çevresinin değiştirilmesine, Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen mercilerin bu konuda bir yetkisi bulunmamaktadır; özellikle D seçeneğindeki Adalet Bakanlığı tek başına karar veremez, sadece öneride bulunur."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, büyükşehir belediyesi bulunan illerdeki asliye ceza mahkemelerinin yargı çevresinin belirlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yargı çevresi, mahkemenin görevini belirleyen cezanın üst sınırı dikkate alınarak tespit edilir.",
+                "B": "Yargı çevresi, her durumda bulundukları ilçenin idarî sınırları olarak kabul edilir.",
+                "C": "Yargı çevresi, ağır ceza mahkemesinin görev alanına giren suçlara göre otomatik olarak genişler.",
+                "D": "Yargı çevresi, sadece coğrafî durum ve iş yoğunluğu göz önünde tutularak resen Hâkimler ve Savcılar Yüksek Kurulunca değiştirilebilir.",
+                "E": "İl veya ilçe sınırlarına bakılmaksızın Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca belirlenir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 15'te yer alan 'büyükşehir belediyesi bulunan illerde... asliye ceza mahkemelerinin yargı çevresi, il veya ilçe sınırlarına bakılmaksızın Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca belirlenir' hükmüne dayanmaktadır.\n- Diğer seçenekler yanlıştır: A seçeneği, Madde 14'teki mahkemenin 'görevini' belirleme kuralını 'yargı çevresi' ile karıştırmaktadır; B seçeneği, kanundaki özel düzenlemeyi göz ardı ederek genel kuralı mutlaklaştırmaktadır; D ve C seçenekleri ise kanunda yer almayan usul ve şartlar içermektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, Türk Ceza Kanununun İkinci Kitap Dördüncü Kısmının belirli bölümlerinde tanımlanan suçlar ile Terörle Mücadele Kanunu kapsamına giren suçlar sebebiyle açılan davalarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu davalar, suçun işlendiği yere en yakın asliye ceza mahkemesinde görülür.",
+                "B": "Bu davalar, sanığın yerleşim yerinin bulunduğu ilin adıyla anılan ağır ceza mahkemesinde görülür.",
+                "C": "Bu davalar, suçun işlendiği yerin bağlı olduğu ilin adıyla anılan ağır ceza mahkemesinde görülür.",
+                "D": "Bu davalarda yargı çevresini belirleme yetkisi, Adalet Bakanlığının önerisi olmaksızın doğrudan Hâkimler ve Savcılar Yüksek Kuruluna aittir.",
+                "E": "Bu suçlar için görevli mahkeme, iş yoğunluğuna göre sulh veya asliye ceza mahkemesi olarak değiştirilebilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te yer alan '...suçlar sebebiyle açılan davalar, suçun işlendiği yerin bağlı olduğu ilin adıyla anılan ağır ceza mahkemesinde görülür.' hükmüne dayanmaktadır. Bu kural, Madde 12'de ağır ceza mahkemesinin görevli olduğu belirtilen suç türlerinden bir kısmına özgü bir yargı çevresi düzenlemesi getirmektedir.\n- Diğer seçenekler: Davanın görüleceği mahkemenin türünü (asliye ceza), yerini (sanığın yerleşim yeri) veya yetkili mercii yanlış belirttikleri için hatalıdır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, büyükşehir belediyesi bulunan illerde, büyükşehir belediyesi sınırları içerisindeki sulh veya asliye ceza mahkemelerinin yargı çevresini belirleme yetkisi, Adalet Bakanlığının önerisi üzerine aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "İlgili ilin valiliği",
+                "B": "Yargıtay Ceza Genel Kurulu",
+                "C": "Hâkimler ve Savcılar Yüksek Kurulu",
+                "D": "İçişleri Bakanlığı",
+                "E": "Büyükşehir Belediye Meclisi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen '...büyükşehir belediyesi sınırları içerisindeki il ve ilçenin adı ile anılan sulh veya asliye ceza mahkemelerinin yargı çevresi, il veya ilçe sınırlarına bakılmaksızın Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca belirlenir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurumların bu konuda bir yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bir ceza mahkemesinin kaldırılmasına veya yargı çevresinin değiştirilmesine karar verilirken göz önünde tutulan unsurlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Karar verilirken coğrafî durum göz önünde tutulur.",
+                "B": "Karar verilirken iş yoğunluğu dikkate alınır.",
+                "C": "Karar, Adalet Bakanlığının önerisi üzerine verilir.",
+                "D": "Karar verme yetkisi Hâkimler ve Savcılar Yüksek Kuruluna aittir.",
+                "E": "Karar sürecinde Cumhuriyet başsavcısının soruşturmayı sonlandıran kararları esas alınır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'Coğrafî durum ve iş yoğunluğu göz önünde tutularak bir ceza mahkemesinin kaldırılmasına veya yargı çevresinin değiştirilmesine... Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir.' hükmüne dayanmaktadır.\n- E seçeneğindeki ifade, Cumhuriyet başsavcısının farklı bir görevine (Madde 18) atıfta bulunduğu ve ceza mahkemesinin yargı çevresinin değiştirilmesi sürecinde bir unsur olmadığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, Türk Ceza Kanununda tanımlanan devlete karşı işlenen belirli suçlar sebebiyle açılan bir davada, soruşturmayı yürüten Cumhuriyet savcıları ile bağlı birimler üzerinde gözetim ve denetim yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Suçun işlendiği ilçenin asliye ceza mahkemesi Cumhuriyet başsavcısına",
+                "B": "Suçun işlendiği yerin bağlı olduğu ilin adıyla anılan ağır ceza mahkemesi Cumhuriyet başsavcısına",
+                "C": "Adalet Bakanlığı tarafından özel olarak görevlendirilen bir denetçiye",
+                "D": "Hâkimler ve Savcılar Yüksek Kurulu tarafından atanan bir müfettişe",
+                "E": "Davanın görüldüğü mahkemenin başkanına"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'suçun işlendiği yerin bağlı olduğu ilin adıyla anılan ağır ceza mahkemesinde görülür' hükmü ile Madde 18'de yer alan 'Ağır ceza mahkemesi Cumhuriyet başsavcısının; ağır ceza mahkemesinin yargı çevresinde görevli ... Cumhuriyet savcıları ile bağlı birimler üzerinde gözetim ve denetim yetkisi vardır' hükmünün birleştirilmesine dayanmaktadır. Belirtilen suçlara bu mahkeme baktığı için, denetim yetkisi de o yer ağır ceza mahkemesi Cumhuriyet başsavcısına aittir.\n- Diğer seçenekler: Kanunda bu yönde bir yetki veya görevlendirme düzenlenmediği için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, coğrafî durum ve iş yoğunluğu göz önünde tutularak bir ceza mahkemesinin yargı çevresinin değiştirilmesi ile gerekli görülen yerlere Cumhuriyet başsavcivekili atanması işlemlerinde izlenen ortak usul aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilmesi",
+                "B": "Doğrudan Hâkimler ve Savcılar Yüksek Kurulu tarafından resen karar verilmesi",
+                "C": "İlgili ağır ceza mahkemesi Cumhuriyet başsavcısının talebi üzerine Adalet Bakanlığınca karar verilmesi",
+                "D": "Yargıtay Ceza Dairelerinin ortak görüşü üzerine Cumhurbaşkanınca karar verilmesi",
+                "E": "İlgili mahkemenin talebi ve Cumhuriyet başsavcılığının görüşü alınarak resen Adalet Bakanlığınca karar verilmesi"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, hem Madde 15'te yer alan 'yargı çevresinin değiştirilmesine, Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir' hükmü hem de Madde 16'da belirtilen 'Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunun kararıyla bir veya birden fazla Cumhuriyet başsavcıvekili atanır' hükmüne dayanmaktadır. Her iki işlem için de ortak usul, Adalet Bakanlığının önerisi ve Hâkimler ve Savcılar Yüksek Kurulunun kararıdır.\n- Diğer seçenekler: Kanunda belirtilen usule aykırı oldukları için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, Cumhuriyet başsavcılığının kuruluşu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Mahkeme kuruluşu bulunan her il merkezi ve ilçede, o yerin adıyla anılan bir Cumhuriyet başsavcılığı kurulur.",
+                "B": "Her Cumhuriyet başsavcılığında zorunlu olarak bir Cumhuriyet başsavcısı ve en az bir Cumhuriyet başsavcıvekili bulunur.",
+                "C": "Cumhuriyet başsavcılıkları sadece il merkezlerinde kurulabilir, ilçelerde kurulması özel izne tabidir.",
+                "D": "Bir yerde Cumhuriyet başsavcıvekili atanması için Cumhuriyet başsavcısının talebi yeterlidir.",
+                "E": "Cumhuriyet başsavcılıkları, Adalet Bakanlığının doğrudan kararıyla kurulur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Mahkeme kuruluşu bulunan her il merkezi ve ilçede o il veya ilçenin adı ile anılan bir Cumhuriyet başsavcılığı kurulur' hükmüne dayanmaktadır.\n- Diğer seçenekler, Cumhuriyet başsavcıvekilinin atanmasının zorunlu olmadığı, başsavcılığın hem il hem ilçelerde kurulabildiği ve başsavcıvekili atama usulünün farklı olduğu gibi Madde 16'da yer alan hükümlere aykırı veya yanlış bilgiler içermektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, gerekli görülen yerlere bir veya birden fazla Cumhuriyet başsavcivekili atanmasına karar verme yetkisi, Adalet Bakanlığının önerisi üzerine aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Ağır ceza mahkemesi Cumhuriyet başsavcısı",
+                "B": "Adalet Bakanlığı",
+                "C": "Hâkimler ve Savcılar Yüksek Kurulu",
+                "D": "O yerdeki Cumhuriyet başsavcısı",
+                "E": "İlgili ilin valiliği"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Gerekli görülen yerlerde Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunun kararıyla bir veya birden fazla Cumhuriyet başsavcıvekili atanır' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların bu konuda karar verme yetkisi bulunmamaktadır. Adalet Bakanlığı karar mercii değil, sadece öneride bulunan makamdır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi Cumhuriyet başsavcılığının görevleri arasında yer almaz?",
+            "secenekler": {
+                "A": "Kamu davasının açılmasına yer olup olmadığına karar vermek üzere soruşturma yapmak veya yaptırmak.",
+                "B": "Yargılama faaliyetlerini kamu adına izlemek ve gerektiğinde kanun yollarına başvurmak.",
+                "C": "Kesinleşen mahkeme kararlarının yerine getirilmesi ile ilgili işlemleri yapmak ve izlemek.",
+                "D": "Cumhuriyet başsavcılığını temsil etmek ve başsavcılığın iş bölümünü yapmak.",
+                "E": "Kanunlarla verilen diğer görevleri yapmak."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 18'de bizzat Cumhuriyet başsavcısının görevleri olarak belirtilen 'Cumhuriyet başsavcılığını temsil etmek' ve 'iş bölümünü yapmak' hükümlerini içermektedir. Bu görevler, Madde 17'de sayılan Cumhuriyet başsavcılığının kurumsal görevleri arasında yer almaz.\n- Diğer seçenekler, Madde 17'de Cumhuriyet başsavcılığının görevleri arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemesi Cumhuriyet başsavcısının gözetim ve denetim yetkisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Gözetim ve denetim yetkisi, yalnızca o yer yargı çevresinde görevli Cumhuriyet savcıları ile sınırlıdır.",
+                "B": "Ağır ceza mahkemesinin yargı çevresinde görevli Cumhuriyet başsavcıvekilleri üzerinde de gözetim ve denetim yetkisi vardır.",
+                "C": "Yalnızca Cumhuriyet savcılarının soruşturmayı sonlandıran kararlarının kanuna uygunluğunu denetlemekle yetkilidir.",
+                "D": "Sadece başsavcılığın verimli çalışmasını sağlamakla görevli olup, diğer Cumhuriyet başsavcıları üzerinde bir yetkisi yoktur.",
+                "E": "Yalnızca bağlı birimler üzerinde gözetim yetkisine sahip olup, Cumhuriyet savcıları bu yetkinin dışındadır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'Ağır ceza mahkemesi Cumhuriyet başsavcısının; ağır ceza mahkemesinin yargı çevresinde görevli Cumhuriyet başsavcıları, Cumhuriyet başsavcıvekilleri, Cumhuriyet savcıları ile bağlı birimler üzerinde gözetim ve denetim yetkisi vardır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, ağır ceza mahkemesi Cumhuriyet başsavcısının gözetim ve denetim yetkisinin kapsamını yanlış veya eksik yansıttığı için hatalıdır. A seçeneği asliye ceza mahkemesi başsavcısının yetkisini tanımlarken, diğer seçenekler kanunda belirtilen yetkileri hatalı bir şekilde sınırlandırmaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi Cumhuriyet başsavcısının görevleri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Cumhuriyet başsavcılığını temsil etmek.",
+                "B": "Başsavcılığın verimli, uyumlu ve düzenli bir şekilde çalışmasını sağlamak ve iş bölümünü yapmak.",
+                "C": "Gerektiğinde adlî göreve ilişkin işlemleri yapmak ve duruşmalara katılmak.",
+                "D": "Cumhuriyet savcılarının soruşturmayı sonlandıran kararları arasında oluşabilecek farklılıkların giderilmesini sağlamak.",
+                "E": "Mahkemenin yargı çevresinin değiştirilmesine tek başına karar vermek."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 18'de Cumhuriyet başsavcısının görevleri arasında sayılmadığı için E seçeneğidir. Kanunun diğer maddelerine göre yargı çevresinin değiştirilmesi Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca kararlaştırılır.\n- Diğer seçeneklerde belirtilen hususlar, Madde 18'de açıkça Cumhuriyet başsavcısının görevleri olarak düzenlenmiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi Cumhuriyet başsavcısının görevleri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Cumhuriyet başsavcılığını temsil etmek.",
+                "B": "Başsavcılığın verimli ve düzenli bir şekilde çalışmasını sağlamak.",
+                "C": "Gerektiğinde duruşmalara katılmak ve kanun yollarına başvurmak.",
+                "D": "Cumhuriyet savcılarının soruşturmayı sonlandıran kararları arasındaki farklılıkların giderilmesini sağlamak.",
+                "E": "Cumhuriyet savcılarının disiplin soruşturmalarını yürüterek doğrudan meslekten çıkarma cezası vermek."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 18'de Cumhuriyet başsavcısının görevleri arasında disiplin cezası vermek gibi bir yetki tanımlanmamış olmasıdır.\n- Diğer seçeneklerde belirtilen hususlar (temsil etmek, verimli çalışmayı sağlamak, duruşmalara katılmak, kararlar arasındaki farklılıkları gidermek) Madde 18'de açıkça sayılan görevlerdendir ve bu nedenle yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemesi Cumhuriyet başsavcısının gözetim ve denetim yetkisi, kendi yargı çevresindeki görevlilerden hangisini kapsamaz?",
+            "secenekler": {
+                "A": "Sulh ceza hâkimleri",
+                "B": "Cumhuriyet başsavcıvekilleri",
+                "C": "Cumhuriyet savcıları",
+                "D": "Bağlı birimler",
+                "E": "Cumhuriyet başsavcıları"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 18'de belirtilen 'ağır ceza mahkemesi Cumhuriyet başsavcısının... gözetim ve denetim yetkisi vardır' hükmüne dayanmaktadır. Bu yetki, yargı çevresindeki Cumhuriyet başsavcıları, başsavcıvekilleri, savcılar ve bağlı birimleri kapsar, ancak yargı mensubu olan hâkimleri kapsamaz.\n- Diğer seçenekler: Madde 18'de ağır ceza mahkemesi Cumhuriyet başsavcısının gözetim ve denetim yetkisi altında olduğu açıkça sayılan kişiler ve birimler olduğu için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, Cumhuriyet savcılarının yetkisine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Cumhuriyet savcıları, bulundukları il merkezi veya ilçenin idarî sınırları içerisinde yetkilidirler.",
+                "B": "Büyükşehir belediye sınırları içerisindeki Cumhuriyet başsavcıları, bu yer ceza mahkemelerinin yargı çevresinde yetkilidir.",
+                "C": "Gecikmesinde sakınca bulunan hâllerde suçun işlendiği yer Cumhuriyet savcısı zorunlu olan delilleri toplayabilir.",
+                "D": "İl Cumhuriyet savcısı, belirli suçlarda soruşturmanın kısmen veya tamamen yapılmasını suçun işlendiği yer Cumhuriyet savcısından isteyebilir.",
+                "E": "Cumhuriyet savcıları, görevlerini yaparken Cumhuriyet başsavcısının gözetim ve denetim yetkisinden muaftır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 18'de yer alan 'Ağır ceza mahkemesi Cumhuriyet başsavcısının; ağır ceza mahkemesinin yargı çevresinde görevli ... Cumhuriyet savcıları ... üzerinde gözetim ve denetim yetkisi vardır.' hükmüyle çelişmektedir. Cumhuriyet savcıları, başsavcının gözetim ve denetimine tabidir.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde yer alan ifadeler, Madde 21'de düzenlenen Cumhuriyet savcılarının yetkisine ilişkin doğru hükümlerdir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aynı yerde görev yapan birden çok Cumhuriyet başsavcivekili bulunduğunda, Cumhuriyet başsavcısına kimin vekâlet edeceğiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "En kıdemli Cumhuriyet başsavcıvekili kendiliğinden vekil olur.",
+                "B": "Vekâlet edecek olanı Cumhuriyet başsavcısı belirler.",
+                "C": "Vekâlet edecek olan, o yerdeki Cumhuriyet savcılarının oylamasıyla seçilir.",
+                "D": "Vekâlet görevi, başsavcıvekilleri arasında alfabetik sırayla yürütülür.",
+                "E": "Adalet Bakanlığı tarafından görevlendirilen başsavcıvekili vekâlet eder."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen 'Aynı yerde görev yapan birden çok Cumhuriyet başsavcıvekili bulunduğunda, Cumhuriyet başsavcısına vekâlet edecek olanı Cumhuriyet başsavcısı belirler.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kıdem, oylama, alfabetik sıra veya Bakanlık görevlendirmesi gibi usuller kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi Cumhuriyet başsavcivekilinin görevleri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Cumhuriyet başsavcısının verdiği görevleri yerine getirmek.",
+                "B": "Cumhuriyet savcılarının adlî ve idarî görevlerine ilişkin işlemlerini inceleyip Cumhuriyet başsavcısına bilgi vermek.",
+                "C": "Cumhuriyet başsavcılığını temsil etmek.",
+                "D": "Gerektiğinde adlî göreve ilişkin işlemleri yapmak ve duruşmalara katılmak.",
+                "E": "Cumhuriyet başsavcısının yokluğunda ona vekâlet etmek."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 19'da Cumhuriyet başsavcıvekilinin görevleri arasında sayılmamıştır. Cumhuriyet başsavcılığını temsil etme görevi, Madde 18 uyarınca Cumhuriyet başsavcısına aittir.\n- Diğer seçenekler, Madde 19'da açıkça Cumhuriyet başsavcıvekilinin görevleri olarak belirtilmiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aynı yerde görev yapan bir Cumhuriyet başsavcivekili bulunmadığı durumda, Cumhuriyet başsavcısına vekâlet edecek olanı belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Ağır ceza mahkemesi başkanı",
+                "B": "Adalet Bakanı",
+                "C": "Cumhuriyet başsavcısı",
+                "D": "Hakimler ve Savcılar Kurulu",
+                "E": "O yerdeki en kıdemli Cumhuriyet savcısı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Aynı yerde görev yapan Cumhuriyet başsavcıvekili bulunmadığında, Cumhuriyet başsavcısına vekâlet edecek olanı Cumhuriyet başsavcısı belirler.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamların veya kişilerin bu konuda bir belirleme yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, Cumhuriyet başsavcısının yokluğunda ona vekâlet etme göreviyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Aynı yerde görev yapan Cumhuriyet başsavcıvekili bulunmadığında, vekâlet edecek olan Cumhuriyet savcısını Cumhuriyet başsavcısı belirler.",
+                "B": "Cumhuriyet başsavcıvekili bulunmadığı takdirde, vekâlet edecek Cumhuriyet savcısını ağır ceza mahkemesi başkanı belirler.",
+                "C": "Birden çok Cumhuriyet başsavcıvekili varsa, en kıdemli olanı başsavcıya kendiliğinden vekâlet eder.",
+                "D": "Cumhuriyet başsavcısının yokluğunda vekâlet yetkisi, sadece adlî görevleri kapsar, idarî görevleri kapsamaz.",
+                "E": "Vekâlet edecek başsavcıvekilini, birden çok vekil olması durumunda o yerdeki Cumhuriyet savcıları kendi aralarından seçer."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Aynı yerde görev yapan Cumhuriyet başsavcıvekili bulunmadığında, Cumhuriyet başsavcısına vekâlet edecek olanı Cumhuriyet başsavcısı belirler.' hükmüne dayanmaktadır. Bu hüküm, Madde 19'daki başsavcıvekilinin vekâlet etme kuralının bir istisnasını ve tamamlayıcısını oluşturmaktadır.\n- Diğer seçenekler: Madde 19'a göre birden çok başsavcıvekili varsa vekili başsavcının kendisi belirler; vekili belirleme yetkisi başka bir makama verilmemiştir ve kanunda vekâletin kapsamına ilişkin bir ayrım yapılmamıştır. Bu nedenle diğer ifadeler yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, Türk Ceza Kanununun belirli bölümlerinde tanımlanan suçlar ile 3713 sayılı Kanun kapsamına giren suçlar sebebiyle açılan soruşturmaları yürütme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Suçun işlendiği yerdeki ağır ceza mahkemesi Cumhuriyet başsavcılığına",
+                "B": "Suçun işlendiği yerdeki sulh ceza hâkimliğine",
+                "C": "Suçun işlendiği yer Cumhuriyet savcısına",
+                "D": "Büyükşehir belediye sınırları içerisindeki herhangi bir Cumhuriyet başsavcılığına",
+                "E": "Suçun işlendiği yerin bağlı olduğu ilin adıyla anılan Cumhuriyet başsavcılığına"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen '...suçlar sebebiyle açılan soruşturmalar suçun işlendiği yerin bağlı olduğu ilin adıyla anılan Cumhuriyet başsavcılığınca yürütülür.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 21'de belirtilen bu özel suç tipleri için yetkili makamın ilin adıyla anılan Cumhuriyet başsavcılığı olduğu açıkça düzenlendiğinden diğer seçenekler yanlıştır. Suçun işlendiği yer Cumhuriyet savcısı ancak il Cumhuriyet savcısının talebiyle veya gecikmesinde sakınca bulunan hallerde sınırlı işlemler yapabilir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemesinin yargı çevresinde yer alan bir Cumhuriyet başsavcılığı, bu mahkemenin görevine giren bir suçla ilgili soruşturma yürüttüğünde, ivedi ve zorunlu işleri tamamladıktan sonra yapması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Soruşturmayı sonlandırarak doğrudan iddianame düzenlemek",
+                "B": "Soruşturma evrakını bulunduğu yer sulh ceza hâkimliğine sunmak",
+                "C": "Düşünce yazısına soruşturma evrakını ekleyip ağır ceza mahkemesi Cumhuriyet başsavcılığına göndermek",
+                "D": "İl Cumhuriyet savcısından soruşturmanın devralınmasını talep etmek",
+                "E": "Sadece soruşturma evrakını üst yazı olmaksızın yetkili başsavcılığa iletmek"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen '...ivedi, zorunlu işlerin tamamlanmasından sonra düşünce yazısına soruşturma evrakını ekleyip ağır ceza mahkemesi ... Cumhuriyet başsavcılığına gönderirler.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun, bu durumda soruşturma evrakının bir düşünce yazısı ile birlikte yetkili ağır ceza mahkemesi Cumhuriyet başsavcılığına gönderilmesini emrettiği için diğer usuli işlemlerin yapılması veya evrakın eksik gönderilmesi hukuka aykırıdır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bir ilçede görevli Cumhuriyet savcısının yürüttüğü soruşturma, Türk Ceza Kanununun İkinci Kitap Dördüncü Kısmının Beşinci Bölümünde tanımlanan bir suça ilişkin ise, soruşturmanın yürütülmesi ve yetkiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Soruşturma, suçun işlendiği yerin bağlı olduğu ilin adıyla anılan Cumhuriyet başsavcılığınca yürütülür.",
+                "B": "Soruşturmayı yürüten Cumhuriyet savcısı üzerinde sadece ağır ceza mahkemesi Cumhuriyet başsavcısının denetim yetkisi bulunur.",
+                "C": "Cumhuriyet savcısı, soruşturmayı tamamlayıp düşünce yazısı eklemeden doğrudan yetkili mahkemeye göndermelidir.",
+                "D": "Bu tür suçlarda soruşturma yetkisi, yalnızca büyükşehir belediye sınırları içerisindeki Cumhuriyet başsavcılıklarına aittir.",
+                "E": "İl Cumhuriyet savcısı, bu tür özel nitelikli soruşturmaların hiçbir aşamasına müdahale edemez."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Türk Ceza Kanununun İkinci Kitap Dördüncü Kısmının Dördüncü, Beşinci, Altıncı ve Yedinci Bölümlerinde tanımlanan suçlar (...) sebebiyle açılan soruşturmalar suçun işlendiği yerin bağlı olduğu ilin adıyla anılan Cumhuriyet başsavcılığınca yürütülür.' hükmüne dayanmaktadır. Bu, genel yetki kuralına getirilmiş özel bir istisnadır.\n- Diğer seçenekler: Madde 18'deki genel gözetim ve denetim yetkisi ile Madde 21'deki özel soruşturma usulü ve yetkisi birbiriyle çelişmemektedir; il Cumhuriyet savcısının soruşturmanın kısmen yapılmasını isteme yetkisi bulunmakta ve büyükşehir belediyelerine ilişkin kural farklı bir durumu düzenlemektedir. Bu nedenle diğer şıklar yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemesinin görevine giren bir suçla ilgili soruşturma yürüten Cumhuriyet başsavcılığı, ıvedi ve zorunlu işleri tamamladıktan sonra yapması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Soruşturmayı suçun işlendiği yerin bağlı olduğu ilin adıyla anılan Cumhuriyet başsavcılığına devretmek.",
+                "B": "Düşünce yazısına soruşturma evrakını ekleyip ağır ceza mahkemesi Cumhuriyet başsavcılığına göndermek.",
+                "C": "Soruşturmayı tamamlayarak doğrudan ağır ceza mahkemesinde kamu davası açmak.",
+                "D": "Gecikmesinde sakınca bulunan hâllere ilişkin zorunlu delilleri toplayıp soruşturmayı sonlandırmak.",
+                "E": "Bulunduğu yer sulh ceza hâkimliğinden soruşturmanın devri için talepte bulunmak."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'ivedi, zorunlu işlerin tamamlanmasından sonra düşünce yazısına soruşturma evrakını ekleyip ağır ceza mahkemesi veya özel kanunlarla kurulan diğer ceza mahkemelerinin Cumhuriyet başsavcılığına gönderirler' hükmüne dayanmaktadır. - Diğer seçenekler, kanunda belirtilen bu özel usulü yanlış yansıtmakta veya farklı suç tipleri için öngörülen yetki kurallarını (örneğin ilin adıyla anılan başsavcılığın yetkisi gibi) bu durumla karıştırdığı için hatalıdır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemelerinin bulunduğu bir yargı çevresindeki adlı teşkilat ve Cumhuriyet savcılarının yetkileriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bu yargı çevresinde görev yapmak üzere bir adlî yargı ilk derece mahkemesi adalet komisyonu kurulur.",
+                "B": "Büyükşehir belediye sınırları içindeki Cumhuriyet başsavcıları, bu yer ceza mahkemelerinin yargı çevresinde yetkilidir.",
+                "C": "Her Cumhuriyet başsavcılığında bir yazı işleri müdürlüğü kurulması zorunludur.",
+                "D": "Adlî yargı ilk derece mahkemesi adalet komisyonu, Cumhuriyet savcılarının yetki alanlarının idarî sınırlarını belirler.",
+                "E": "Belirli katalog suçlarda soruşturma, suçun işlendiği yerin bağlı olduğu ilin adıyla anılan Cumhuriyet başsavcılığınca yürütülür."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, kanunda adalet komisyonuna böyle bir yetki verilmemiş olmasına dayanmaktadır. Madde 21, Cumhuriyet savcılarının yetkisini bulundukları il merkezi veya ilçenin idarî sınırları gibi esaslara göre belirlemiştir; bu yetkiyi komisyonun belirlediğine dair bir hüküm yoktur.\n- Diğer seçenekler: A seçeneği Madde 23'te, B ve E seçenekleri Madde 21'de, C seçeneği ise Madde 24'te açıkça belirtilen doğru hükümler olduğu için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, kanunlarda Cumhuriyet savcılığının görev yapacağı belirtilen mahkemelerdeki duruşmalarda Cumhuriyet başsavcılığının temsili ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Cumhuriyet başsavcısı duruşmalara katılabilir.",
+                "B": "Cumhuriyet başsavcısının görevlendireceği Cumhuriyet başsavcıvekili duruşmalara katılabilir.",
+                "C": "Duruşmalara katılım her durumda tek bir Cumhuriyet savcısı ile sınırlıdır.",
+                "D": "Gerektiğinde duruşmalara birden çok Cumhuriyet savcısı katılabilir.",
+                "E": "Cumhuriyet savcısı duruşmalara katılabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Gerektiğinde duruşmalara birden çok Cumhuriyet savcısı katılabilir.' hükmüne dayanmaktadır. Bu hüküm, duruşmalara katılımın tek bir savcı ile sınırlı olduğu yönündeki ifadenin yanlış olduğunu göstermektedir.\n- Diğer seçeneklerde belirtilen Cumhuriyet başsavcısı, görevlendireceği Cumhuriyet başsavcıvekili ve Cumhuriyet savcısının duruşmalara katılabileceği bilgisi, aynı maddede yer alan doğru ifadelerdir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemesinin görevine giren bir suçla ilgili soruşturmayı yürüten bir Cumhuriyet başsavcılığının, soruşturma evrakını düşünce yazısıyla birlikte ilgili ağır ceza mahkemesi Cumhuriyet başsavcılığına göndermesi sonrasında açılan davada, duruşmalarda savcılık makamının temsiliyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Duruşmalara sadece soruşturmayı ilk başlatan Cumhuriyet savcısı katılabilir.",
+                "B": "Duruşmalara birden çok Cumhuriyet savcısının katılması kanunen mümkün değildir.",
+                "C": "Cumhuriyet başsavcısı, duruşmaya katılması için bir Cumhuriyet başsavcıvekili veya Cumhuriyet savcısı görevlendirebilir.",
+                "D": "Duruşmalarda savcılık makamını temsil etme görevi, her durumda bizzat Cumhuriyet başsavcısına aittir.",
+                "E": "Gerektiğinde duruşmalara yazı işleri müdürü de Cumhuriyet savcısı ile birlikte katılabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'Cumhuriyet başsavcısı, görevlendireceği Cumhuriyet başsavcıvekili veya Cumhuriyet savcısı katılır' hükmüne dayanmaktadır. Bu kural, Madde 21'de düzenlenen özel yetkili soruşturmalar sonucunda açılan davalar için de geçerlidir.\n- Diğer seçenekler: Madde 22'de, duruşmalara birden çok savcının katılabileceği açıkça belirtilmiş, temsil görevinin devredilebileceği düzenlenmiş ve yazı işleri müdürünün katılımına dair bir hüküm bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, adlî yargı ilk derece mahkemesi adalet komisyonunun kurulacağı yer ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ağır ceza mahkemelerinin bulunduğu yargı çevresinde görev yapmak üzere kurulur.",
+                "B": "Büyükşehir belediye sınırları içerisinde bulunan her adliyede kurulur.",
+                "C": "Her il merkezi veya ilçenin idarî sınırları içerisinde bir adet kurulur.",
+                "D": "Her Cumhuriyet başsavcılığında zorunlu olarak kurulur.",
+                "E": "Adalet Bakanlığınca gerekli görülen tüm mahkemelerde kurulur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'Ağır ceza mahkemelerinin bulunduğu yargı çevresinde görev yapmak üzere bir adlî yargı ilk derece mahkemesi adalet komisyonu kurulur.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen yerler, kanunda adalet komisyonunun kurulacağı yer olarak tanımlanmamıştır; kanun bu komisyonu spesifik olarak ağır ceza mahkemelerinin yargı çevresine özgülemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, Cumhuriyet başsavcılıklarında kurulabilecek müdürlükler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Yazı işleri müdürlüğü",
+                "B": "İdarî işlerle ilgili müdürlükler",
+                "C": "Malî işlerle ilgili müdürlükler",
+                "D": "Denetim işleri müdürlüğü",
+                "E": "Teknik işlerle ilgili müdürlükler"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 24'te Cumhuriyet başsavcılıklarında kurulabilecek müdürlüklerin 'yazı işleri müdürlüğü ile idarî, malî ve teknik işlerle ilgili müdürlükler' olarak sayılmasına dayanmaktadır. Kanunda 'denetim işleri müdürlüğü' şeklinde bir müdürlük türü düzenlenmemiştir.\n- Diğer seçenekler, maddede Adalet Bakanlığınca gerekli görülen yerlerde kurulabileceği açıkça belirtilen müdürlük türleri olduğu için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, Cumhuriyet başsavcılığında kurulabilecek müdürlükler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Yazı işleri müdürlüğü",
+                "B": "İdarî işlerle ilgili müdürlükler",
+                "C": "Malî işlerle ilgili müdürlükler",
+                "D": "Denetim işleri ile ilgili müdürlükler",
+                "E": "Teknik işlerle ilgili müdürlükler"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen 'Her Cumhuriyet başsavcılığında, yazı işleri müdürlüğü ile Adalet Bakanlığınca gerekli görülen yerlerde ayrıca idarî, malî ve teknik işlerle ilgili müdürlükler kurulur' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda Cumhuriyet başsavcılığında kurulabileceği açıkça sayılan birimler olduğu için yanlıştır. Kanunda 'denetim işleri' ile ilgili bir müdürlük kurulacağına dair bir düzenleme bulunmamaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, kurulmuş olan bir bölge adliye mahkemesinin kaldırılmasına veya yargı çevresinin değiştirilmesine karar verme yetkisi aşağıdaki mercilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanlığına, Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşünü alarak",
+                "B": "Doğrudan Adalet Bakanlığına",
+                "C": "Hâkimler ve Savcılar Yüksek Kuruluna, Adalet Bakanlığının önerisi üzerine",
+                "D": "İlgili bölge adliye mahkemesi adalet komisyonuna",
+                "E": "Yalnızca Hâkimler ve Savcılar Yüksek Kuruluna, resen"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen 'Bölge adliye mahkemelerinin yargı çevrelerinin belirlenmesine, değiştirilmesine veya bu mahkemelerin kaldırılmasına Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Yetkili makamları ve usulü yanlış belirttiği için hatalıdır.\n- A seçeneği: Adalet Bakanlığının, Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşünü alarak hareket etmesi, mahkemelerin kaldırılması veya yargı çevresinin değiştirilmesi için değil, kurulması aşamasında geçerli olan bir usuldür."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemelerini oluşturan birimler arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Başkanlık",
+                "B": "Hukuk daireleri başkanlar kurulu",
+                "C": "Bölge adliye mahkemesi Cumhuriyet başsavcılığı",
+                "D": "Disiplin kurulu",
+                "E": "Bölge adliye mahkemesi adalet komisyonu"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen bölge adliye mahkemelerini oluşturan birimler arasında 'Disiplin kurulu'nun sayılmamış olmasıdır.\n- Diğer seçenekler, Madde 26'da bölge adliye mahkemesinin birimleri olarak açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemelerinin oluşumunda yer alan birimlerden biri değildir?",
+            "secenekler": {
+                "A": "Başkanlık",
+                "B": "Ceza daireleri başkanlar kurulu",
+                "C": "Bölge adliye mahkemesi adalet komisyonu",
+                "D": "Müdürlükler",
+                "E": "Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 26'da bölge adliye mahkemelerinin oluşumunu düzenleyen hükümlere dayanmaktadır. 'Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü', Madde 25 uyarınca mahkemenin bir birimi değil, kuruluş şartıdır.\n- Diğer seçenekler: Madde 26'da bölge adliye mahkemesini oluşturan birimler arasında açıkça sayılmıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi başkanlığı aşağıdakilerden hangilerinden oluşur?",
+            "secenekler": {
+                "A": "Başkan ile ceza daireleri başkanlar kurulu",
+                "B": "Başkan ile bölge adliye mahkemesi adalet komisyonu",
+                "C": "Başkan ile yazı işleri müdürlüğü",
+                "D": "Başkan ile hukuk daireleri başkanlar kurulu",
+                "E": "Başkan ile bölge adliye mahkemesi Cumhuriyet başsavcılığı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Başkanlık, başkan ile yazı işleri müdürlüğünden oluşur.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen kurullar, komisyon ve başsavcılık, bölge adliye mahkemesinin genel yapısı içinde yer alan birimler olsalar da, kanunda başkanlığın unsurları olarak tanımlanmamışlardır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, adlı yargı mahkemelerindeki müdürlüklerin kurulması ve yapısıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her bölge adliye mahkemesi başkanlığı, bir başkan ile yazı işleri müdürlüğünden oluşur.",
+                "B": "Her ilk derece mahkemesinde yazı işleri müdürlüğüne ek olarak idarî ve malî işler müdürlüğü de kurulması zorunludur.",
+                "C": "Bölge adliye mahkemelerinde müdürlük kurulması, Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşüne bağlıdır.",
+                "D": "Her Cumhuriyet başsavcılığında sadece bir yazı işleri müdürlüğü kurulabilir, başka türde bir müdürlük kurulamaz.",
+                "E": "Bölge adliye mahkemesi adalet komisyonu, kendi bünyesinde bir yazı işleri müdürlüğü kurmakla yetkilidir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Başkanlık, başkan ile yazı işleri müdürlüğünden oluşur.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 24 ve 26'da belirtilen müdürlüklerin kurulma usulü ve yapılarına aykırı veya metinde yer almayan bilgiler içerdiği için yanlıştır. Özellikle C seçeneği, mahkemenin genel kuruluşu için gereken Hâkimler ve Savcılar Yüksek Kurulu görüşünü (Madde 25) yanlış bir şekilde müdürlüklerin kurulmasına atfetmektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi başkanlığı aşağıdakilerden hangilerinden oluşur?",
+            "secenekler": {
+                "A": "Başkan ile ilgili dairelerin başkanları",
+                "B": "Başkan ile yazı işleri müdürlüğü",
+                "C": "Başkan ile dairelerin en kıdemli üyeleri",
+                "D": "Yalnızca başkan",
+                "E": "Cumhuriyet başsavcısı ile yazı işleri müdürlüğü"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Başkanlık, başkan ile yazı işleri müdürlüğünden oluşur.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen bölge adliye mahkemesi başkanlığının tanımına uymadığı veya bu yapıda yer almayan farklı birimleri içerdiği için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi hukuk daireleri başkanlar kurulunun toplanacağı gün, bölge adliye mahkemesi başkanının bulunmaması ve bir daire başkanının da mazereti nedeniyle toplantıya katılamaması durumunda, kurula kimin başkanlık edeceği ve mazeretli başkanın yerine kimin katılacağı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kurulun başkanlığını en yaşlı daire başkanı yapar ve mazeretli başkanın yerine herhangi bir üye katılır.",
+                "B": "Bölge adliye mahkemesi başkanının yokluğunda kurul toplanamayacağı için toplantı ertelenir.",
+                "C": "Kurula, mazeretli başkanın dairesindeki en kıdemli üye başkanlık eder ve diğer daire başkanları katılır.",
+                "D": "Kurula ilgili daire başkanlarından en kıdemli olanı başkanlık eder ve mazeretli başkanın yerine o dairenin en kıdemli üyesi kurula katılır.",
+                "E": "Bölge adliye mahkemesi başkanı yerine bir vekil atanır ve mazeretli başkanın yeri toplantıda boş kalır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Bölge adliye mahkemesi başkanının bulunmadığı hâllerde kurulun başkanlığını ilgili daire başkanlarından kıdemli olanı yerine getirir.' ve 'Daire başkanının mazereti hâlinde, o dairenin kıdemli üyesi kurula katılır.' hükümlerine dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen başkanlık ve katılım usullerine aykırı veya yanlış yorumlar içerdiği için hatalıdır. Kanun, başkanın yokluğunda en kıdemli daire başkanının, mazeretli daire başkanının yerine ise o dairenin en kıdemli üyesinin görevi devralacağını açıkça düzenlemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemelerinin kuruluşu ve organlarının oluşumuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesi başkanlığı, başkan ile yazı işleri müdürlüğünden oluşur.",
+                "B": "Bölge adliye mahkemesi ceza daireleri başkanlar kurulu, bölge adliye mahkemesi başkanı ve ilgili dairelerin başkanlarından meydana gelir.",
+                "C": "Bölge adliye mahkemesi Cumhuriyet başsavcılığı; Cumhuriyet başsavcısı, Cumhuriyet başsavcıvekili ve yeteri kadar Cumhuriyet savcısından oluşur.",
+                "D": "Bölge adliye mahkemesi hukuk daireleri başkanlar kuruluna, başkanın yokluğunda en kıdemli üye başkanlık eder.",
+                "E": "Bölge adliye mahkemesi daireleri, bir başkan ile yeteri kadar üyeden oluşur."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'Bölge adliye mahkemesi başkanının bulunmadığı hâllerde kurulun başkanlığını ilgili daire başkanlarından kıdemli olanı yerine getirir.' hükmüne aykırı olduğu için D seçeneğidir. Kurula başkanın yokluğunda en kıdemli üye değil, en kıdemli daire başkanı başkanlık eder. Dairenin kıdemli üyesinin kurula katılması ise ancak daire başkanının mazereti hâlinde söz konusu olur.\n- Diğer seçenekler: A, B, C ve E seçenekleri sırasıyla Madde 27, Madde 28, Madde 30 ve Madde 29'da belirtilen organların oluşum şekillerini doğru bir şekilde yansıtmaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, gerekli hâllerde bölge adliye mahkemesi dairelerinin sayısını artırıp azaltma kararı, hangi makamın önerisi üzerine kim tarafından verilir?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesi başkanının önerisi üzerine Adalet Bakanlığınca",
+                "B": "Hâkimler ve Savcılar Yüksek Kurulunun önerisi üzerine Adalet Bakanlığınca",
+                "C": "Bölge adliye mahkemesi hukuk daireleri başkanlar kurulunun önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca",
+                "D": "Bölge adliye mahkemesi Cumhuriyet başsavcılığının önerisi üzerine Adalet Bakanlığınca",
+                "E": "Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Gerekli hâllerde dairelerin sayısı, Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca artırılıp azaltılabilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makamlar veya yetki sıralaması kanunda bu şekilde düzenlenmediği için yanlıştır. Özellikle B seçeneğinde öneri ve karar mercileri ters çevrilerek çeldirici oluşturulmuştur."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, her bölge adliye mahkemesinde bulunması gereken en az hukuk ve ceza dairesi sayısı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "En az iki hukuk ve en az iki ceza dairesi bulunur.",
+                "B": "En az üç hukuk ve en az üç ceza dairesi bulunur.",
+                "C": "En az üç hukuk ve en az iki ceza dairesi bulunur.",
+                "D": "En az iki hukuk ve en az üç ceza dairesi bulunur.",
+                "E": "Hukuk ve ceza dairelerinin sayısı ihtiyaca göre başkanlık tarafından belirlenir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Her bölge adliye mahkemesinde en az üç hukuk ve en az iki ceza dairesi bulunur.' hükmüne dayanmaktadır.\n- Diğer seçeneklerdeki sayılar veya belirleme usulü kanundaki düzenlemeyle uyuşmadığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemelerinin dairelerinin yapısı ve sayılarının belirlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Her bölge adliye mahkemesinde en az iki hukuk ve en az üç ceza dairesi bulunması zorunludur.",
+                "B": "Dairelerin sayısının artırılıp azaltılmasına Adalet Bakanlığı tek başına karar verir.",
+                "C": "Gerekli hâllerde dairelerin sayısı, Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca değiştirilebilir.",
+                "D": "Bölge adliye mahkemesi Cumhuriyet başsavcılığı, dairelerin sayısının artırılması yönünde Hâkimler ve Savcılar Yüksek Kuruluna öneride bulunabilir.",
+                "E": "Bir bölge adliye mahkemesindeki hukuk ve ceza dairelerinin toplam sayısı hiçbir surette beşten az olamaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da yer alan 'Gerekli hâllerde dairelerin sayısı, Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca artırılıp azaltılabilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneğinde hukuk ve ceza dairelerinin asgari sayıları yanlış verilmiştir; D seçeneğinde öneri yetkisi yanlış makama atfedilmiştir; B seçeneği ise Adalet Bakanlığının tek başına karar veremeyeceğini göz ardı etmektedir. E seçeneği ise kanunda açıkça belirtilmeyen bir toplam sayı kuralı getirdiği için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi Cumhuriyet başsavcılığı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İş durumunun gerekli kıldığı yerlere birden fazla Cumhuriyet başsavcıvekili atanabilir.",
+                "B": "Cumhuriyet başsavcılığı, yalnızca Cumhuriyet başsavcısı ve yeteri kadar Cumhuriyet savcısından oluşur.",
+                "C": "Her bölge adliye mahkemesinde iş durumuna göre birden fazla Cumhuriyet başsavcılığı kurulabilir.",
+                "D": "Her Cumhuriyet başsavcılığına atanacak Cumhuriyet başsavcıvekili sayısı kanunla bir olarak sabitlenmiştir.",
+                "E": "Cumhuriyet başsavcıvekilinin görevleri, bölge adliye mahkemesi başkanı tarafından belirlenir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'İş durumunun gerekli kıldığı yerlere birden fazla Cumhuriyet başsavcıvekili atanabilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen bölge adliye mahkemesi Cumhuriyet başsavcılığının kuruluşu ve yapısına ilişkin hükümlere aykırı olduğu için yanlıştır. Kanun, her bölge adliye mahkemesinde bir başsavcılık bulunacağını ve bu başsavcılığın Cumhuriyet başsavcısı, başsavcıvekili ve savcılardan oluşacağını açıkça belirtmektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi Cumhuriyet başsavcılığına birden fazla Cumhuriyet başsavcivekili atanabilmesinin koşulu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İş durumunun gerekli kılması",
+                "B": "Cumhuriyet başsavcısının teklifte bulunması",
+                "C": "Bölge adliye mahkemesi başkanının onay vermesi",
+                "D": "Yeterli sayıda Cumhuriyet savcısı bulunmaması",
+                "E": "Adalet komisyonunun oybirliğiyle karar alması"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen 'İş durumunun gerekli kıldığı yerlere birden fazla Cumhuriyet başsavcıvekili atanabilir.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen koşullar, kanunda bu atama için bir şart olarak düzenlenmemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi adalet komisyonunun yapısı ve işleyişi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Komisyonun asıl üyesi, bölge adliye mahkemesi başkanı tarafından daire başkanları arasından belirlenir.",
+                "B": "Başkanın yokluğunda, komisyona en kıdemli daire başkanı katılır.",
+                "C": "Cumhuriyet başsavcısının yokluğunda komisyona yedek üye katılır.",
+                "D": "Komisyonun kararları, katılanların oybirliği ile alınır.",
+                "E": "Yedek üye, yalnızca Cumhuriyet başsavcıvekilleri arasından belirlenebilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'Başkanın yokluğunda en kıdemli daire başkanı ... komisyona katılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği, asıl üyeyi Hâkimler ve Savcılar Yüksek Kurulunun belirlemesi; C seçeneği, başsavcının yokluğunda başsavcıvekilinin katılması; D seçeneği, kararların çoğunlukla alınması; E seçeneği ise yedek üyenin daire başkan veya üyeleri arasından belirlenmesi nedeniyle Madde 31'deki hükümlere aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi adalet komisyonunun yapısı ve toplanma usulü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Komisyon, bölge adliye mahkemesi başkanının başkanlığında toplanır.",
+                "B": "Bölge adliye mahkemesi Cumhuriyet başsavcısı, komisyonun üyeleri arasında yer alır.",
+                "C": "Başkanın yokluğunda, komisyona en kıdemli daire başkanı başkanlık eder.",
+                "D": "Cumhuriyet başsavcısının yokluğunda, komisyona Cumhuriyet başsavcıvekili katılır.",
+                "E": "Komisyon, üyelerinden birinin eksik olması durumunda dahi toplanıp çoğunlukla karar verebilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'Komisyon eksiksiz toplanır ve çoğunlukla karar verir' hükmüne dayanmaktadır. Bu hüküm, komisyonun toplanabilmesi için tüm üyelerin hazır bulunmasının zorunlu olduğunu, eksik üye ile toplanamayacağını açıkça ifade etmektedir.\n- Diğer seçenekler: Madde 31'de belirtilen adalet komisyonunun başkanı, üyeleri ve üyelerin yokluğunda kimlerin katılacağına ilişkin kurallara uygun olduğu için yanlıştır. Bu seçenekler, Madde 30'da tanımlanan Cumhuriyet başsavcıvekilinin görevini Madde 31'deki komisyon yapısıyla birleştirmektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi müdürlüklerinde çalışanların atama, disiplin ve diğer özlük işlerinde uygulanacak hükümlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu personelin işlemleri için bölge adliye mahkemesi başkanlığınca özel bir yönetmelik hazırlanır.",
+                "B": "Cumhuriyet başsavcılığının belirlediği usul ve esaslar çerçevesinde yürütülür.",
+                "C": "Adlî yargı ilk derece mahkemelerinde görevli personelin tâbi oldukları hükümler uygulanır.",
+                "D": "Hâkimler ve Savcılar Yüksek Kurulunun bu konudaki kararları esas alınır.",
+                "E": "Her bölge adliye mahkemesi adalet komisyonu kendi personel rejimini belirler."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'Müdürlüklerde çalışanların atama, disiplin ve diğer özlük işlerinde adlî yargı ilk derece mahkemelerinde görevli personelin tâbi oldukları hükümler uygulanır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen usuller kanunda yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemelerindeki müdürlüklerin kurulması ve bu müdürlüklerde çalışan personelin durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesi adalet komisyonunda hem yazı işleri hem de idarî işler müdürlüğü kurulur.",
+                "B": "Cumhuriyet başsavcılığında sadece bir idarî işler müdürlüğü kurulması zorunludur.",
+                "C": "Müdürlüklerde çalışan personelin atama ve disiplin işleri, bölge adliye mahkemeleri için çıkarılan özel hükümlere tâbidir.",
+                "D": "Bölge adliye mahkemesi başkanlığında, dairelerinde, Cumhuriyet başsavcılığında ve adalet komisyonunda birer yazı işleri müdürlüğü kurulur.",
+                "E": "Her müdürlükte yalnızca bir müdür bulunur ve yeterli sayıda memur bulunması ihtiyaca bağlıdır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'Bölge adliye mahkemesi başkanlığında, dairelerinde, Cumhuriyet başsavcılığında ve adalet komisyonunda birer yazı işleri müdürlüğü... kurulur' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 32'de belirtilen müdürlüklerin kurulacağı birimler, türleri ve personelin tâbi olduğu hükümlere aykırı bilgiler içerdiği için yanlıştır. Kanun, Cumhuriyet başsavcılığında hem yazı işleri hem de idarî işler müdürlüğü kurulacağını ve personelin adlî yargı ilk derece mahkemelerindeki personele ilişkin hükümlere tâbi olacağını belirtmektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemelerinin görevleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Adlî yargı ilk derece mahkemelerince verilen ve kesin olmayan hüküm ve kararlara karşı yapılacak başvuruları inceleyip karara bağlamak.",
+                "B": "Adlî yargı ilk derece mahkemelerince verilen tüm hüküm ve kararlara karşı yapılacak başvuruları istisnasız olarak incelemek.",
+                "C": "Yalnızca kesinleşmiş hükümlere karşı yapılan olağanüstü kanun yolu başvurularını değerlendirmek.",
+                "D": "Bölge adliye mahkemesi adalet komisyonunun idari kararlarını denetlemek.",
+                "E": "Kanunlarla başka bir görev verilmemişse yalnızca ilk derece mahkemesi kararlarını incelemek."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Adlî yargı ilk derece mahkemelerince verilen ve kesin olmayan hüküm ve kararlara karşı yapılacak başvuruları inceleyip karara bağlamak' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen görevin kapsamını (sadece 'kesin olmayan' kararlar olması) yanlış yansıttığı veya kanunda sayılmayan görevler içerdiği için hatalıdır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemelerinin görevleri arasında sayılmıştır?",
+            "secenekler": {
+                "A": "Adlî yargı ilk derece mahkemelerince verilen ve kesin olmayan hüküm ve kararlara karşı yapılacak başvuruları inceleyip karara bağlamak",
+                "B": "Mahkemeyi temsil etmek ve adalet komisyonuna başkanlık etmek",
+                "C": "Daireler arasında çıkan iş bölümü uyuşmazlıklarını karara bağlamak",
+                "D": "Benzer olaylarda farklı dairelerce verilen kesin nitelikteki kararlar arasındaki uyuşmazlığın giderilmesi için Yargıtaydan karar verilmesini istemek",
+                "E": "Mahkemenin uyumlu, verimli ve düzenli çalışmasını sağlamak ve genel yönetim işlerini yürütmek"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'Adlî yargı ilk derece mahkemelerince verilen ve kesin olmayan hüküm ve kararlara karşı yapılacak başvuruları inceleyip karara bağlamak' hükmüne dayanmaktadır.\n- Diğer seçenekler: B ve E seçenekleri bölge adliye mahkemesi başkanının, C ve D seçenekleri ise başkanlar kurulunun görevleri arasında yer aldığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi hukuk daireleri arasında bir iş bölümü uyuşmazlığı çıktığında veya dairelerin kesin nitelikteki kararları arasında bir uyuşmazlık tespit edildiğinde, bu durumların çözümü sürecinde bölge adliye mahkemesi başkanının rolü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Uyuşmazlığı re'sen inceleyerek hangi dairenin görevli olduğuna tek başına karar vermek.",
+                "B": "İlgili başkanlar kuruluna başkanlık etmek ve kurul tarafından alınan kararları yürütmek.",
+                "C": "Uyuşmazlığın giderilmesi için kendi görüşünü ekleyerek doğrudan Yargıtaya başvurmak.",
+                "D": "Hukukî nedenlerle toplanamayan daireye geçici olarak başka daireden üye görevlendirmek.",
+                "E": "İş bölümünü yeniden belirlemek üzere Adalet Bakanlığına teklifte bulunmak."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'hukuk daireleri başkanlar kuruluna ... başkanlık etmek ... ve ... kurul kararlarını yürütmek' hükmüne dayanmaktadır. Madde 35'te ise başkanlar kurulunun görevleri arasında iş bölümü uyuşmazlıklarını ve kararlar arası uyuşmazlıkları çözmek sayılmıştır. Bu iki madde, başkanın rolünün kurula başkanlık etmek ve kararları infaz etmek olduğunu göstermektedir.\n- Diğer seçenekler: D seçeneği başkanın bir görevi olsa da (Madde 34), soruda belirtilen uyuşmazlık çözüm süreciyle ilgili değildir. Diğer seçeneklerde belirtilen tek başına karar verme, doğrudan Yargıtaya başvurma veya teklifte bulunma gibi yetkiler kanunda başkana tanınmamıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemesi başkanının görevleri arasında yer almaz?",
+            "secenekler": {
+                "A": "Mahkemeyi temsil etmek.",
+                "B": "Adalet komisyonuna başkanlık etmek ve komisyon kararlarını yürütmek.",
+                "C": "Daireler arasında çıkan iş bölümü uyuşmazlıklarını karara bağlamak.",
+                "D": "Mahkemenin uyumlu, verimli ve düzenli çalışmasını sağlamak ve bu yolda uygun göreceği önlemleri almak.",
+                "E": "Hukukî veya fiilî nedenlerle bir dairenin kendi üyeleri ile toplanamadığı hâllerde diğer dairelerden üye görevlendirmek."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen 'Daireler arasında çıkan iş bölümü uyuşmazlıklarını karara bağlamak' görevinin, bölge adliye mahkemesi başkanının değil, başkanlar kurulunun görevi olmasıdır.\n- Diğer seçenekler, Madde 34'te açıkça bölge adliye mahkemesi başkanının görevleri arasında sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, gelen işlerin yoğunluğu ve niteliği dikkate alınarak bölge adliye mahkemeleri ceza ve hukuk daireleri arasındaki iş bölümünü belirleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesi ceza daireleri başkanlar kurulu",
+                "B": "Bölge adliye mahkemesi hukuk daireleri başkanlar kurulu",
+                "C": "Bölge adliye mahkemesi başkanı",
+                "D": "Yargıtayın ilgili hukuk veya ceza dairesi",
+                "E": "Hâkimler ve Savcılar Kurulu"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen 'gelen işlerin yoğunluğu ve niteliği dikkate alınarak bölge adliye mahkemeleri ceza ve hukuk daireleri arasındaki iş bölümü, Hâkimler ve Savcılar Kurulu tarafından belirlenir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Bölge adliye mahkemesi başkanlar kurullarının görevi, belirlenmiş olan iş bölümünden kaynaklanan uyuşmazlıkları karara bağlamaktır; iş bölümünü ilk elden belirlemek değildir. Diğer mercilerin de bu konuda bir yetkisi kanunda düzenlenmemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, istinaf incelemesi için dosya kendisine gönderilen bir hukuk dairesi, iş bölümü bakımından kendisini görevli görmezse, dosyayı görevli olduğunu düşündüğü daireye gönderme kararını en geç ne kadar süre içinde vermelidir?",
+            "secenekler": {
+                "A": "İki hafta içinde",
+                "B": "On beş gün içinde",
+                "C": "Bir ay içinde",
+                "D": "İki ay içinde",
+                "E": "Üç ay içinde"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 35/A'da belirtilen 'ilgili hukuk dairesi, bir ay içinde yapacağı ön inceleme sonucunda iş bölümü bakımından kendisini görevli görmez ise ... dosyayı görevli olduğu kanısına vardığı ilgili hukuk dairesine gönderir' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneğindeki iki haftalık süre, gönderme kararı üzerine dosyayı alan ikinci dairenin inceleme süresidir. Diğer süreler ise kanunda yer almamaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bir hukuk dairesinin gönderme kararı üzerine dosyayı alan diğer hukuk dairesi de görevli olmadığı kanaatine varırsa, dosyayı göndereceği merci ve bu merciin vereceği kararın niteliği hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Dosya, bölge adliye mahkemesi başkanına gönderilir ve başkanın kararı kesindir.",
+                "B": "Dosya, hukuk daireleri başkanlar kuruluna gönderilir ve kurulun kararı kesindir.",
+                "C": "Dosya, Yargıtay ilgili hukuk dairesine gönderilir ve bu dairenin kararına karşı karar düzeltme istenebilir.",
+                "D": "Dosya, Hâkimler ve Savcılar Kuruluna gönderilir ve Kurulun kararı tavsiye niteliğindedir.",
+                "E": "Dosya, ilk derece mahkemesine iade edilir ve mahkemenin görevli daireyi belirtmesi istenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 35/A'da belirtilen 'dosyayı hukuk daireleri başkanlar kuruluna gönderir. ... Kurul tarafından yapılan ön inceleme sonunda verilen iş bölümüne ilişkin karar kesindir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen usule ve yetkili mercilere aykırı olduğu için yanlıştır. Uyuşmazlığı çözme yetkisi bölge adliye mahkemesi başkanı, Yargıtay, HSK veya ilk derece mahkemesine verilmemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, istinaf incelemesi için kendisine dosya gönderilen bir hukuk dairesinin iş bölümü bakımından kendisini görevli görmemesi ve dosyayı başka bir hukuk dairesine göndermesi üzerine, dosyayı alan ikinci dairenin de kendisini görevli görmemesi durumunda, iş bölümü uyuşmazlığını kesin olarak karara bağlama yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesi başkanı",
+                "B": "Hâkimler ve Savcılar Kurulu",
+                "C": "Yargıtay ilgili hukuk dairesi",
+                "D": "Hukuk daireleri başkanlar kurulu",
+                "E": "Dosyayı ilk gönderen hukuk dairesi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 35/A'da belirtilen 'Kurul tarafından yapılan ön inceleme sonunda verilen iş bölümüne ilişkin karar kesindir' hükmüne dayanmaktadır. Bu hüküm, iki hukuk dairesinin görevli olmadığı kanaatine varması durumunda dosyanın gönderileceği hukuk daireleri başkanlar kurulunun nihai karar mercii olduğunu düzenlemektedir.\n- Diğer seçenekler: Madde 35'e göre Hâkimler ve Savcılar Kurulu genel iş bölümünü belirlese de, daireler arasında çıkan spesifik uyuşmazlıkları çözme yetkisi başkanlar kuruluna aittir. Bölge adliye mahkemesi başkanı, Yargıtay veya dosyayı ilk gönderen dairenin bu konuda kesin karar verme yetkisi bulunmamaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, istinaf incelemesi yapan bölge adliye mahkemesi hukuk daireleri arasında iş bölümü konusunda bir uyuşmazlık çıktığında, bu uyuşmazlığı kesin olarak karara bağlama yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Dosyayı ilk inceleyen hukuk dairesi başkanına",
+                "B": "Yargı çevresindeki ilk derece hukuk mahkemesine",
+                "C": "Bölge adliye mahkemesi adalet komisyonuna",
+                "D": "Dosyanın gönderildiği ikinci hukuk dairesine",
+                "E": "Hukuk daireleri başkanlar kuruluna"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 35/A'da belirtilen 'Kurul tarafından yapılan ön inceleme sonunda verilen iş bölümüne ilişkin karar kesindir' hükmüne dayanmaktadır. Bu hükme göre, iki hukuk dairesinin de kendisini görevsiz görmesi durumunda dosya hukuk daireleri başkanlar kuruluna gönderilir ve kurulun bu konudaki kararı nihaidir.\n- Diğer seçeneklerde belirtilen mercilerin veya dairelerin, iş bölümü uyuşmazlıklarında kesin karar verme yetkisi bulunmamaktadır. Adalet komisyonunun görevleri ise farklıdır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, istinaf incelemesi için bir hukuk dairesine gönderilen dosyada, dosyanın gönderildiği ikinci hukuk dairesinin de kendisini görevli görmemesi halinde izlenecek usul ve bu süreçteki yetkili merci ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İkinci hukuk dairesi, görevli olmadığına iki hafta içinde karar verirse, dosyayı görevli daireyi belirlemesi için daire başkanına gönderir.",
+                "B": "Dosya kendisine gelen ikinci hukuk dairesi, görevli olmadığı kanaatine varırsa, dosyayı hukuk daireleri başkanlar kuruluna gönderir ve kurulun bu konuda verdiği karar kesindir.",
+                "C": "İkinci hukuk dairesinin görevsizlik kararı üzerine dosya, görevli mahkemenin tespiti için ilk derece mahkemesine iade edilir.",
+                "D": "Görev uyuşmazlığı, ilk dairenin bir aylık, ikinci dairenin ise iki haftalık süreleri geçirmesi durumunda kendiliğinden ortadan kalkar ve son gelen daire dosyaya bakmak zorunda kalır.",
+                "E": "İkinci hukuk dairesi, görevli olmadığına karar verirse, varsa geçici hukuki koruma tedbirlerine dair talepleri karara bağlamadan dosyayı başkanlar kuruluna gönderir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 35/A'da belirtilen 'dosya kendisine gelen hukuk dairesi, iki hafta içinde yapacağı ön inceleme sonucunda görevli olmadığı kanaatine varırsa... dosyayı hukuk daireleri başkanlar kuruluna gönderir. Kurul tarafından... verilen iş bölümüne ilişkin karar kesindir' hükmüne dayanmaktadır.\n- Diğer seçenekler, yetkili merciyi (daire başkanı, ilk derece mahkemesi), usulü (karar vermeden gönderme) veya sürecin sonuçlarını hatalı belirttiği için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi hukuk ve ceza dairelerinin, yargı çevresindeki bir davaya bakılmasına engel çıkması durumundaki görev ve yetkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hem hukuk hem de ceza daireleri, bir davaya bakılmasına fiilî veya hukukî bir engel çıktığında, o davanın başka bir mahkemeye nakline veya yetkili mahkemenin tayinine karar verebilir.",
+                "B": "Hukuk daireleri, iki mahkemenin yargı sınırları kapsamının belirlenmesinde tereddüt edilmesi halinde yetkili mahkemenin tayinine karar verebilirken, ceza dairelerine bu konuda bir görev verilmemiştir.",
+                "C": "Ceza daireleri, hâkimlerin davayı görmeye hukukî engellerinin çıkması hâlinde yetkili mahkemenin tayinine karar verirken, hukuk daireleri sadece davanın nakline karar verebilir.",
+                "D": "Bir davaya bakılmasına engel çıkması durumunda davanın nakli veya yetkili mahkemenin tayini yetkisi, yalnızca daire başkanlarına aittir.",
+                "E": "Hukuk ve ceza daireleri arasındaki görev ayrımı nedeniyle, bir davaya bakılmasına engel çıkması halinde her iki daire türü de bu konuda karar veremez."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 36 ve Madde 37'de belirtilen hükümlerin karşılaştırılmasına dayanmaktadır. Madde 36, hukuk dairelerine 'iki mahkemenin yargı sınırları kapsamının belirlenmesinde tereddüt edildiği takdirde... yetkili mahkemenin tayinine karar vermek' yetkisini tanırken, Madde 37'de ceza daireleri için böyle bir görev sayılmamıştır.\n- Diğer seçenekler, kanunda belirtilen hukuk ve ceza dairelerinin görevlerini yanlış bir şekilde yansıttığı, karıştırdığı veya yetkili makamı hatalı belirttiği için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemesi hukuk dairelerinin görevleri arasında yer almaz?",
+            "secenekler": {
+                "A": "Adlî yargı ilk derece hukuk mahkemelerinden verilen ve kesin olmayan hüküm ve kararlara karşı yapılan başvuruları inceleyip karara bağlamak.",
+                "B": "Yargı çevresi içerisinde bulunan adlî yargı ilk derece hukuk mahkemeleri arasındaki yetki ve görev uyuşmazlıklarını çözmek.",
+                "C": "Yargı çevresindeki yetkili adlî yargı ilk derece hukuk mahkemesinin bir davaya bakmasına fiilî veya hukukî bir engel çıktığında, o davanın başka bir hukuk mahkemesine nakline karar vermek.",
+                "D": "İki mahkemenin yargı sınırları kapsamının belirlenmesinde tereddüt edildiği takdirde, yetkili mahkemenin tayinine karar vermek.",
+                "E": "Yargı çevresindeki adlî yargı ilk derece ceza mahkemeleri hâkimlerinin davayı görmeye hukukî veya fiilî engellerinin çıkması hâlinde, davanın başka bir ceza mahkemesine nakli hakkında karar vermek."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen ve bölge adliye mahkemesi ceza dairelerine ait olan bir görevi ifade etmektedir. Hukuk daireleri, hukuk mahkemeleriyle ilgili görevleri yerine getirirken, ceza mahkemeleriyle ilgili davaların nakli ceza dairelerinin yetkisindedir.\n- Diğer seçenekler, Madde 36'da bölge adliye mahkemesi hukuk dairelerinin görevleri arasında açıkça sayıldığı için doğrudur."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemesi ceza dairelerinin görevleri arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Adlî yargı ilk derece ceza mahkemelerince verilen ve kesin olmayan hüküm ve kararlara karşı yapılacak başvuruları inceleyip karara bağlamak",
+                "B": "Yargı çevresi içerisinde bulunan adlî yargı ilk derece ceza mahkemeleri arasındaki yetki ve görev uyuşmazlıklarını çözmek",
+                "C": "Dairenin kendi kararları arasında meydana gelen farklılık ve uyumsuzlukların giderilmesi için tedbirler almak",
+                "D": "Yargı çevresindeki adlî yargı ilk derece ceza mahkemeleri hâkimlerinin davayı görmeye hukukî veya fiilî engellerinin çıkması hâlinde, davanın başka bir mahkemeye nakline karar vermek",
+                "E": "Kanunlarla verilen diğer görevleri yapmak"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 37'de bölge adliye mahkemesi ceza dairelerinin görevleri arasında sayılmamıştır. Belirtilen görev, Madde 38 uyarınca daire başkanlarına aittir.\n- Diğer seçenekler, Madde 37'de ceza dairelerinin görevleri olarak açıkça listelenmiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, yargı çevresindeki bir adlî yargı ilk derece ceza mahkemesi hâkiminin davayı görmeye hukukî veya fiilî bir engelinin çıkması hâlinde, bölge adliye mahkemesi ceza dairesince yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Davanın bölge adliye mahkemesi yargı çevresi içerisinde başka bir adlî yargı ilk derece ceza mahkemesine nakli hakkında karar vermek",
+                "B": "İki mahkemenin yargı sınırları kapsamının belirlenmesinde tereddüt edildiği gerekçesiyle yetkili mahkemenin tayinine karar vermek",
+                "C": "Dosyayı iş bölümü bakımından görevli olduğu kanısına vardığı ilgili hukuk dairesine göndermek",
+                "D": "Dosya hakkında rapor hazırlayacak üyeyi tespit etmek ve kararın yazılmasını sağlamak",
+                "E": "Yetki ve görev uyuşmazlığını çözmek üzere dosyayı hukuk daireleri başkanlar kuruluna göndermek"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen 'o davanın bölge adliye mahkemesi yargı çevresi içerisinde başka bir adlî yargı ilk derece ceza mahkemesine nakli hakkında karar vermek' hükmüne dayanmaktadır.\n- Diğer seçenekler, hukuk dairelerinin görevleri (Madde 36), daireler arası iş bölümü usulü (Madde 35/A) veya daire başkanlarının görevleri (Madde 38) ile ilgili olup, ceza dairesinin belirtilen durumdaki görevini yansıtmamaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemesi daire başkanlarının görevleri arasında yer almaz?",
+            "secenekler": {
+                "A": "Dairelerinde uyumlu, verimli ve düzenli bir çalışmanın gerçekleşmesini sağlamak.",
+                "B": "Personelin sicil raporlarını düzenlemek ve izin isteklerini düşünceleriyle birlikte adalet komisyonuna aktarmak.",
+                "C": "Yargı çevresindeki ilk derece mahkemeleri arasındaki yetki ve görev uyuşmazlıklarını çözmek.",
+                "D": "Dairede görevli yazı işleri müdürlüğünün işleyişini denetlemek ve personel hakkında disiplin cezalarını uygulamak.",
+                "E": "Dairenin kendi kararları arasında meydana gelen farklılık ve uyumsuzlukların giderilmesi için tedbirler almak."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38'de sayılan bölge adliye mahkemesi daire başkanlarının görevleri arasında yer almamaktadır. 'Yargı çevresindeki ilk derece mahkemeleri arasındaki yetki ve görev uyuşmazlıklarını çözmek' görevi, Madde 36'da belirtildiği üzere bölge adliye mahkemesi hukuk dairelerine aittir, daire başkanına değil. - Diğer seçeneklerde belirtilen hususlar, Madde 38'de daire başkanının idari ve denetim görevleri olarak açıkça sayılmıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemesi üyelerinin görevleri arasında yer almaz?",
+            "secenekler": {
+                "A": "Daire başkanı tarafından verilen dosyaları zamanında inceleyerek heyete sunmak, rapor hazırlamak ve kararları yazmak.",
+                "B": "Dairelerindeki duruşma ve müzakerelere katılmak.",
+                "C": "İşlerin makul süre içinde incelenip karara bağlanmasında daire başkanına yardım etmek.",
+                "D": "Personelin sicil raporlarını düzenlemek ve izin isteklerini adalet komisyonuna aktarmak.",
+                "E": "Dairenin uyumlu ve verimli çalışmasının sağlanmasında daire başkanına yardım etmek."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 39'da bölge adliye mahkemesi üyelerinin görevleri arasında personelin sicil raporlarını düzenleme görevinin sayılmamış olmasıdır. Bu görev, Madde 38 uyarınca daire başkanlarına aittir.\n- Diğer seçeneklerde belirtilen hususlar, Madde 39'da bölge adliye mahkemesi üyelerinin görevleri arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemesi daire başkanlarının görevleri arasında yer almaz?",
+            "secenekler": {
+                "A": "Dairelerinde uyumlu, verimli ve düzenli bir çalışmanın gerçekleşmesini sağlamak.",
+                "B": "Personelin sicil raporlarını düzenlemek ve izin isteklerini düşünceleriyle birlikte adalet komisyonuna aktarmak.",
+                "C": "Dairenin kendi kararları arasında meydana gelen farklılık ve uyumsuzlukların giderilmesi için tedbirler almak.",
+                "D": "Dairede görevli yazı işleri müdürlüğünün işleyişini denetlemek.",
+                "E": "Dairelerin benzer olaylarda kesin olarak verdikleri kararlar arasındaki uyuşmazlığın giderilmesi için başkanlar kuruluna başvurmak."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Dairelerin benzer olaylarda kesin olarak verdikleri kararlar arasındaki uyuşmazlığın giderilmesi için ... başkanlar kuruluna başvurmak' hükmünün bölge adliye mahkemesi Cumhuriyet başsavcısının görevi olmasına dayanmaktadır. Bu görev, daire başkanına ait değildir.\n- Diğer seçenekler, Madde 38'de daire başkanlarının görevleri arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi dairelerinin benzer olaylarda kesin olarak verdikleri kararlar arasında bir uyuşmazlık ortaya çıktığında, bu uyuşmazlığın giderilmesi için ceza veya hukuk daireleri başkanlar kuruluna başvurma görevi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesi daire başkanına",
+                "B": "Bölge adliye mahkemesi Cumhuriyet başsavcısına",
+                "C": "Bölge adliye mahkemesi üyesine",
+                "D": "Bölge adliye mahkemesi Cumhuriyet savcısına",
+                "E": "Dairede görevli yazı işleri müdürüne"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Dairelerin benzer olaylarda kesin olarak verdikleri kararlar arasındaki uyuşmazlığın giderilmesi için ceza daireleri başkanlar kuruluna veya hukuk daireleri başkanlar kuruluna başvurmak' hükmüne dayanmaktadır. Bu görev, bölge adliye mahkemesi Cumhuriyet başsavcısına verilmiştir.\n- Diğer seçeneklerde belirtilen makamların bu özel görevi üstlendiğine dair bir düzenleme ilgili maddelerde yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemesi Cumhuriyet başsavcısının görevleri arasında yer almaz?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesi Cumhuriyet savcıları üzerinde gözetim ve denetim yetkisini kullanmak.",
+                "B": "Cumhuriyet başsavcılığında görevli personel hakkında ilgili kanunda belirtilen disiplin cezalarını uygulamak.",
+                "C": "Dairenin kendi kararları arasında meydana gelen farklılık ve uyumsuzlukların giderilmesi için tedbirler almak.",
+                "D": "Bölge adliye mahkemesinin genel yönetim işlerini yürütmek.",
+                "E": "Cumhuriyet savcılarının soruşturmayı sonlandıran kararları arasında oluşabilecek farklılıkların giderilmesini sağlamak."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 40'ta bölge adliye mahkemesi Cumhuriyet başsavcısının görevleri arasında sayılmamıştır. Bu görev, Madde 38 uyarınca bölge adliye mahkemesi daire başkanlarına aittir.\n- Diğer seçenekler, Madde 40'ta Cumhuriyet başsavcısının görevleri olarak açıkça listelenen hükümler olduğu için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemesi Cumhuriyet savcılarının görevleri arasında yer almaz?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesine gelen ceza davalarına ilişkin hüküm ve kararlara ait dosyaların duruşmalarına katılmak.",
+                "B": "Ceza daireleri kararlarına karşı gerektiğinde kanun yollarına başvurmak.",
+                "C": "Cumhuriyet başsavcısının vereceği diğer görevleri yapmak.",
+                "D": "Bölge adliye mahkemesi Cumhuriyet savcıları üzerinde gözetim ve denetim yetkisini kullanmak.",
+                "E": "Kanunlarla verilen diğer görevleri yapmak."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Bölge adliye mahkemesi Cumhuriyet savcıları üzerinde gözetim ve denetim yetkisini kullanmak' hükmünün, bölge adliye mahkemesi Cumhuriyet başsavcısının görevi olmasına dayanmaktadır.\n- Diğer seçenekler: Madde 41'de bölge adliye mahkemesi Cumhuriyet savcılarının görevleri arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi dairelerinin benzer olaylarda kesin olarak verdikleri kararlar arasında bir uyuşmazlık ortaya çıktığında, bu uyuşmazlığın giderilmesi için ilgili başkanlar kuruluna başvurma görevi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Uyuşmazlığın çıktığı dairenin başkanı",
+                "B": "Bölge adliye mahkemesi Cumhuriyet başsavcısı",
+                "C": "Dosyayı inceleyen bölge adliye mahkemesi üyesi",
+                "D": "Bölge adliye mahkemesi Cumhuriyet savcısı",
+                "E": "Dairede görevli yazı işleri müdürü"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen Cumhuriyet başsavcısının 'Dairelerin benzer olaylarda kesin olarak verdikleri kararlar arasındaki uyuşmazlığın giderilmesi için ceza daireleri başkanlar kuruluna veya hukuk daireleri başkanlar kuruluna başvurmak' görevine dayanmaktadır.\n- Diğer seçenekler: Daire başkanının görevi kendi dairesinin kararları arasındaki uyumsuzlukları gidermekle sınırlıdır (Madde 38), diğer belirtilen kişilerin ise kanunda böyle bir yetkisi tanımlanmamıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi daire başkanının ve Cumhuriyet başsavcısının personel yönetimine ilişkin görevleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Daire başkanı, bölge adliye mahkemesi Cumhuriyet savcılarının ilerleme belgelerini düzenler.",
+                "B": "Cumhuriyet başsavcısı, dairede görevli yazı işleri müdürlüğünün işleyişini denetler.",
+                "C": "Daire başkanı, Cumhuriyet başsavcılığında görevli personel hakkında disiplin cezalarını uygular.",
+                "D": "Cumhuriyet başsavcısı, bölge adliye mahkemesi Cumhuriyet savcıları üzerinde gözetim ve denetim yetkisini kullanır.",
+                "E": "Cumhuriyet başsavcısı, daire personelinin izin isteklerini düşüncesiyle birlikte adalet komisyonuna aktarır."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 40'ta Cumhuriyet başsavcısının görevleri arasında sayılan 'Bölge adliye mahkemesi Cumhuriyet savcıları üzerinde gözetim ve denetim yetkisini kullanmak' hükmüne dayanmaktadır.\n- Diğer seçenekler: A, B, C ve E seçeneklerinde belirtilen görevler, daire başkanı ile Cumhuriyet başsavcısının yetki alanlarının karıştırılmasıyla yanlış olarak sunulmuştur. Her biri kendi birimindeki personelden sorumludur."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi Cumhuriyet savcıları ile bölge adliye mahkemesi adalet komisyonunun görevlerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesi Cumhuriyet savcıları, ceza daireleri kararlarına karşı gerektiğinde kanun yollarına başvurmakla görevlidir.",
+                "B": "Bölge adliye mahkemesi adalet komisyonu, bölge adliye mahkemelerinin hâkim ve savcıları dışındaki personeliyle ilgili görevleri yerine getirir.",
+                "C": "Bölge adliye mahkemesine gelen ceza davalarına ilişkin hüküm ve kararlara ait dosyaların duruşmalarına katılmak, adalet komisyonunun görevleri arasındadır.",
+                "D": "Cumhuriyet başsavcısının vereceği diğer görevleri yapmak, bölge adliye mahkemesi Cumhuriyet savcılarının görevlerindendir.",
+                "E": "Hem adalet komisyonu hem de Cumhuriyet savcıları, kanunlarla kendilerine verilen diğer görevleri yapmakla yükümlüdür."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 41'de ceza davalarına ilişkin duruşmalara katılma görevinin Cumhuriyet savcılarına ait olduğunun belirtilmesine dayanmaktadır; bu görev adalet komisyonuna ait değildir.\n- Diğer seçenekler: A ve D seçenekleri Madde 41'de sayılan Cumhuriyet savcılarının görevleridir. B seçeneği Madde 42'de belirtilen adalet komisyonunun görevini doğru bir şekilde ifade etmektedir. E seçeneği ise hem Madde 41 hem de Madde 42'de yer alan ortak bir hükümdür."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi Cumhuriyet savcılarının görevleri arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesine gelen ceza davalarına ilişkin hüküm ve kararlara ait dosyaların duruşmalarına katılmak",
+                "B": "Ceza daireleri kararlarına karşı gerektiğinde kanun yollarına başvurmak",
+                "C": "Cumhuriyet başsavcısının vereceği diğer görevleri yapmak",
+                "D": "Bölge adliye mahkemelerinin hâkim ve savcıları dışında kalan personeli hakkındaki görevleri yerine getirmek",
+                "E": "Kanunlarla verilen diğer görevleri yapmak"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen 'Bölge adliye mahkemelerinin hâkim ve savcıları dışında kalan personeli hakkında... görevleri yerine getirmek' hükmünün bölge adliye mahkemesi adalet komisyonuna ait bir görev olmasına dayanmaktadır.\n- Diğer seçenekler: Madde 41'de bölge adliye mahkemesi Cumhuriyet savcılarının görevleri arasında açıkça sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi adalet komisyonunun görevleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemelerinin hâkim ve savcıları dışında kalan personeli hakkında, kanunlarla adlî yargı ilk derece mahkemesi adalet komisyonuna verilen görevleri yerine getirir.",
+                "B": "Bölge adliye mahkemelerinin tüm personeli hakkında, kanunlarla adlî yargı ilk derece mahkemesi adalet komisyonuna verilen görevleri yerine getirir.",
+                "C": "Öncelikli olarak bölge adliye mahkemesi hâkim ve savcılarının disiplin ve atama işlemlerini yürütür.",
+                "D": "Ceza daireleri tarafından verilen kararlara karşı gerektiğinde kanun yollarına başvurur.",
+                "E": "Bölge adliye mahkemesi başkanı ve daire başkanlarının atanması için Hâkimler ve Savcılar Yüksek Kuruluna tavsiyede bulunur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen 'Bölge adliye mahkemelerinin hâkim ve savcıları dışında kalan personeli hakkında, kanunlarla adlî yargı ilk derece mahkemesi adalet komisyonuna verilen tüm görevleri yerine getirmek' hükmüne dayanmaktadır.\n- Diğer seçenekler, komisyonun görev tanımına aykırıdır veya kanunda yer almamaktadır. Komisyonun görevi, hâkim ve savcılar dışındaki personel ile sınırlıdır; ceza kararlarına karşı kanun yoluna başvurmak veya hâkim ve savcıların atanma süreçlerine müdahil olmak gibi görevler komisyonun yetki alanında değildir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi başkanı, daire başkanları ve üyelerinin nitelikleri ve atanmaları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Daire üyelerinin en az ikinci sınıfa ayrılmış adli yargı hâkim ve savcıları arasından atanması yeterlidir.",
+                "B": "Bölge adliye mahkemesi başkanı, daire başkanları ve üyelerin ataması Adalet Bakanlığınca yapılır.",
+                "C": "Daire üyelerinin, birinci sınıfa ayrılmış olmaları yeterli olup, bu nitelikleri sonradan yitirmeleri atanmalarına engel teşkil etmez.",
+                "D": "Bölge adliye mahkemesi başkanı olabilmek için birinci sınıfa ayrılmış olmak yeterlidir, hâlihazırda birinci sınıf olma şartı aranmaz.",
+                "E": "Bölge adliye mahkemesi başkanı ve daire başkanları, birinci sınıf olup birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş adli yargı hâkim ve savcıları arasından atanır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen 'Bölge adliye mahkemesi başkanı ve daire başkanları birinci sınıf olup, birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş... adli yargı hâkim ve savcıları arasından Hâkimler ve Savcılar Yüksek Kurulunca atanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, Madde 43'te belirtilen atama mercii (Hâkimler ve Savcılar Yüksek Kurulu) ve hem başkanlar hem de üyeler için aranan niteliklere (birinci sınıf olma veya en az birinci sınıfa ayrılmış olma ve bu nitelikleri yitirmemiş olma) aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi başkanı, daire üyeleri ve Cumhuriyet savcılarının nitelik ve atanmalarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesi daire üyelerinin atanabilmesi için hâkimlik ve savcılık mesleğinde fiilen en az sekiz yıl görev yapmış olmaları şarttır.",
+                "B": "Bölge adliye mahkemesi başkanı ve Cumhuriyet başsavcıları, Adalet Bakanlığı tarafından atanır.",
+                "C": "Bölge adliye mahkemesi Cumhuriyet savcıları, birinci sınıfa ayrılmış olmaları koşuluyla mesleki tecrübe süresine bakılmaksızın atanabilirler.",
+                "D": "Bölge adliye mahkemesi daire üyeleri, en az birinci sınıfa ayrılmış ve bu nitelikleri yitirmemiş adli yargı hâkim ve savcıları arasından Hâkimler ve Savcılar Yüksek Kurulunca atanır.",
+                "E": "Birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmiş olmak, bölge adliye mahkemesi başkanı olarak atanmaya engel teşkil etmez."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen 'daire üyeleri ise en az birinci sınıfa ayrılmış olup, birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş adli yargı hâkim ve savcıları arasından Hâkimler ve Savcılar Yüksek Kurulunca atanır' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 43 ve 44'teki nitelik ve atama usullerine aykırı bilgiler içermektedir. A ve C seçenekleri, Cumhuriyet savcıları için aranan sekiz yıllık görev süresi şartını (Madde 44) daire üyelerine yanlış bir şekilde atfetmekte veya savcılar için göz ardı etmektedir. B seçeneği atama makamını yanlış belirtmekte, E seçeneği ise aranan niteliklerle çelişmektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi Cumhuriyet savcılarının atanma şartlarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Birinci sınıfa ayrılmış olmaları yeterli olup, mesleki tecrübe süresi aranmaz.",
+                "B": "Hâkimlik ve savcılık mesleğinde fiilen en az sekiz yıl görev yapmış olmaları gerekir.",
+                "C": "Atamaları Adalet Bakanı tarafından doğrudan yapılır.",
+                "D": "Meslekte fiilen en az on yıl görev yapmış olmaları ve üstün başarı göstermeleri şarttır.",
+                "E": "Yalnızca Cumhuriyet savcıları arasından atanabilirler, hâkimler bu göreve atanamaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Cumhuriyet savcıları ise hâkimlik ve savcılık mesleğinde fiilen en az sekiz yıl görev yapmış ve üstün başarısı ile bölge adliye mahkemesinde yararlı olacağı anlaşılmış bulunan adli yargı hâkim ve savcıları arasından Hâkimler ve Savcılar Yüksek Kurulunca atanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen görev süresi, atama mercii, meslek grubu ve sınıf şartlarına ilişkin yanlış bilgiler içerdiği için hatalıdır. Örneğin, atama yetkisi Hâkimler ve Savcılar Yüksek Kuruluna aittir, gereken asgari hizmet süresi on yıl değil sekiz yıldır ve atama hem hâkimler hem de savcılar arasından yapılabilir. Birinci sınıf olma şartı ise Cumhuriyet başsavcıları ve başsavcıvekilleri için aranmaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, aşağıdakilerden hangisi bölge adliye mahkemesi Cumhuriyet savcılarının atanmasında aranan niteliklerden veya usullerden biri değildir?",
+            "secenekler": {
+                "A": "Hâkimlik ve savcılık mesleğinde fiilen en az sekiz yıl görev yapmış olmak.",
+                "B": "Üstün başarısı ile bölge adliye mahkemesinde yararlı olacağının anlaşılması.",
+                "C": "Hâkimler ve Savcılar Yüksek Kurulunca atanmak.",
+                "D": "Yargıtay üyeliği sıfatını dört yıllığına taşımak.",
+                "E": "Adli yargı hâkim ve savcıları arasından seçilmiş olmak."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen bölge adliye mahkemesi Cumhuriyet savcılarının atanma şartları arasında 'Yargıtay üyeliği sıfatını taşımak' gibi bir hükmün bulunmamasına dayanmaktadır.\n- Diğer seçeneklerde yer alan hususlar (en az sekiz yıl görev, yararlı olacağının anlaşılması, Hâkimler ve Savcılar Yüksek Kurulunca atanma ve adli yargı hâkim/savcıları arasından seçilme) Madde 44'te sayılan geçerli şartlardır. Yargıtay üyelerinin belirli görevlere atanması ise farklı bir maddede ve usulde düzenlenmiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi Cumhuriyet başsavcılığına yapılacak atamalarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hâkimlik ve savcılık mesleğinde fiilen en az on yıl görev yapmış adli yargı hâkim ve savcıları arasından atanırlar.",
+                "B": "Yargıtay üyeleri, istekleri üzerine bu göreve süresiz olarak atanabilir ve Yargıtaydaki tüm haklarını kaybederler.",
+                "C": "Atanacak başsavcıların birinci sınıf olup, birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş olmaları gerekir.",
+                "D": "Adalet Bakanlığı genel müdürleri, hâkim sınıfından olmasalar dahi istekleri üzerine bu göreve atanabilirler.",
+                "E": "Atama yetkisi, ilgili bölge adliye mahkemesi başkanının teklifi üzerine Adalet Bakanına aittir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen 'Bölge adliye mahkemesi Cumhuriyet başsavcıları (...) birinci sınıf olup, birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen süre, statü ve yetkili makam bilgilerine aykırıdır. Yargıtay üyelerinin atanması dört yıllığına olup özlük hakları korunur; Adalet Bakanlığı yöneticilerinin ise hâkim sınıfından olması şarttır ve atama yetkisi Hâkimler ve Savcılar Kuruluna aittir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, Yargıtay daire başkanı ve üyelerinin istekleri üzerine bölge adliye mahkemelerine atanmalarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bu şekilde atananlar, Hâkimler ve Savcılar Yüksek Kurulu üyeliği seçimleri de dâhil olmak üzere Yargıtaydaki hiçbir seçimde aday olamaz ve oy kullanamazlar.",
+                "B": "Atama, Hâkimler ve Savcılar Yüksek Kurulunca dört yıllık bir süre için yapılır.",
+                "C": "Atananların Yargıtay üyeliği sıfatı, kadrosu ve her türlü özlük hakları korunur.",
+                "D": "Bu görevde geçirdikleri süre, Yargıtay üyeliğinde geçmiş sayılır.",
+                "E": "Bu kişiler, istekleri üzerine Yargıtaydaki görevlerine geri dönebilirler."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 45'te belirtilen 'Hâkimler ve Savcılar Yüksek Kurulu üyeliği seçimleri hariç Yargıtaydaki seçimlerde aday olamaz ve oy kullanamazlar' hükmüne dayanmaktadır. Bu hüküm, söz konusu kişilerin Hâkimler ve Savcılar Yüksek Kurulu üyeliği seçimlerine katılabileceğini açıkça belirtmekte, dolayısıyla A seçeneğindeki ifadenin aksini düzenlemektedir.\n- Diğer seçeneklerde yer alan ifadeler (atanma süresi, özlük haklarının korunması, görevin Yargıtay üyeliğinden sayılması ve geri dönebilme) Madde 45'teki düzenlemelerle uyumlu olduğu için doğrudur."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, hukukî veya fiilî nedenlerle bir bölge adliye mahkemesi dairesi toplanamazsa, eksikliği tamamlama yetkisi öncelikli olarak aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemesi başkanı",
+                "B": "Hâkimler ve Savcılar Kurulu",
+                "C": "Dairenin en kıdemli üyesi",
+                "D": "Yargıtayın görevli ceza dairesi",
+                "E": "Adalet Bakanlığı Teftiş Kurulu Başkanı"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'Hukukî veya fiilî nedenlerle bir daire toplanamazsa, bölge adliye mahkemesi başkanının kararıyla diğer dairelerden ... üyelerle eksiklik tamamlanır.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Hâkimler ve Savcılar Kurulu'nun yetkisi, bu yolun mümkün olmaması halinde başvurulan ikincil bir mercidir. Dairenin en kıdemli üyesi ise dairenin toplanamaması durumunda değil, daire başkanının bulunamaması halinde daireye başkanlık yapar. Diğer mercilerin bu konuda bir yetkisi düzenlenmemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi dairelerinin toplantı ve karar usulüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Her daire, bir başkan ve iki üyenin katılımıyla toplanır.",
+                "B": "Kararların oy birliği ile alınması zorunludur.",
+                "C": "Görüşmeler gizli olarak yapılır.",
+                "D": "Daire başkanının bulunamaması halinde daireye en kıdemli üye başkanlık eder.",
+                "E": "İş yoğunluğuna göre dairelerde birden fazla heyet oluşturulabilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'kararlar çoğunlukla verilir' hükmüne aykırı olduğu için B seçeneğidir. Kanun, kararların oy birliği ile değil, çoğunlukla alınacağını açıkça düzenlemiştir.\n- Diğer seçenekler: A, C, D ve E seçeneklerinde yer alan ifadeler, Madde 46'da belirtilen toplantı ve karar usulüne ilişkin doğru hükümlerdir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bir bölge adliye mahkemesi üyesinin şahsî suçları hakkındaki soruşturma ve kovuşturma görevi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yargıtayın görevli ceza dairesine",
+                "B": "En yakın bölge adliye mahkemesi Cumhuriyet başsavcısı ile bu mahkemenin ilgili ceza dairesine",
+                "C": "Suça bakan daireyi numara itibarıyla izleyen ceza dairesi başkanına",
+                "D": "Kanunda genel olarak yazılı olan ağır ceza mahkemesine",
+                "E": "Hâkimler ve Savcılar Kurulunca görevlendirilen özel bir heyete"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'Bölge adliye mahkemesi başkanı, daire başkanları, üyeleri, Cumhuriyet başsavcısı ve Cumhuriyet savcılarının şahsî suçları hakkında genel hükümlere göre yapılacak soruşturma ve kovuşturma görevi, en yakın bölge adliye mahkemesi Cumhuriyet başsavcısı ile bu bölge adliye mahkemesi ceza dairesinin suç türüne göre görevli ceza dairesine aittir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A seçeneği görev suçlarının kovuşturma merciini, C seçeneği soruşturma aşamasındaki bazı usuli kararları veren mercii, D seçeneği ise kanunun özel hükümle istisna getirdiği genel kuralı ifade ettiği için yanlıştır. E seçeneğinde belirtilen merciin ise kanunda böyle bir görevi düzenlenmemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bir bölge adliye mahkemesi daire başkanının şahsî bir suç işlediği şüphesiyle hakkında soruşturma başlatılması ve bu nedenle görevine devam edememesi durumunda ortaya çıkacak hukuki sonuçlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Soruşturma görevi, Hâkimler ve Savcılar Kurulunca görevlendirilen bir müfettişe aittir ve daireye yeni bir başkan atanana kadar toplantı yapılamaz.",
+                "B": "Soruşturma, görev yaptığı bölge adliye mahkemesi Cumhuriyet başsavcısı tarafından yürütülür ve daireye bölge adliye mahkemesi başkanı geçici olarak başkanlık eder.",
+                "C": "Soruşturma en yakın bölge adliye mahkemesi Cumhuriyet başsavcısınca yürütülür ve daire başkanının yokluğunda daireye en kıdemli üye başkanlık yapar.",
+                "D": "Kovuşturma mercii Yargıtayın görevli ceza dairesi olup, dairenin toplanamaması halinde eksiklik Hâkimler ve Savcılar Kurulunca diğer bölge adliye mahkemelerinden görevlendirilen üyelerle tamamlanır.",
+                "E": "Şahsî suçlarda soruşturma iznini Adalet Bakanı verir ve dairenin işleri, bölge adliye mahkemesi başkanının kararıyla diğer dairelere devredilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'şahsî suçları hakkında (...) soruşturma ve kovuşturma görevi, en yakın bölge adliye mahkemesi Cumhuriyet başsavcısına aittir' hükmü ile Madde 46'da yer alan 'Daire başkanının hukukî veya fiilî nedenlerle bulunamaması halinde dairenin en kıdemli üyesi daireye başkanlık yapar' hükmünün birleşimine dayanmaktadır.\n- Diğer seçenekler: Soruşturma merciini, başkanın yokluğunda kimin daireye başkanlık edeceğini veya görevden doğan suç ile şahsî suç ayrımını hatalı bir şekilde belirtmektedir. Kovuşturma merciinin Yargıtay olması görev suçlarına özgüdür ve dairenin toplanamaması durumundaki Hâkimler ve Savcılar Kurulu yetkisi, en kıdemli üyenin başkanlık yapması kuralından sonra gelen bir istisnadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi üyelerinin görevden doğan veya görev sırasında işledikleri suçlar nedeniyle kovuşturma yapma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "En yakın bölge adliye mahkemesi ceza dairesi",
+                "B": "Yargıtayın görevli ceza dairesi",
+                "C": "En yakın bölge adliye mahkemesi Cumhuriyet başsavcısı",
+                "D": "Birinci ceza dairesi başkanı",
+                "E": "Suçun en ağırına bakmakla görevli ceza dairesini numara itibarıyla izleyen ceza dairesi başkanı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'Kovuşturma mercii Yargıtayın görevli ceza dairesidir.' hükmüne dayanmaktadır. Diğer seçeneklerde belirtilen merciler, soruşturma aşamasındaki farklı görevlere veya şahsi suçlara ilişkin yetkilere sahip olup, görev suçlarında nihai kovuşturma mercii olarak belirlenmemiştir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bir bölge adliye mahkemesi Cumhuriyet savcısının şahsî suçu hakkında soruşturma ve kovuşturma yürütme görevi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yargıtayın görevli ceza dairesi",
+                "B": "Hâkimler ve Savcılar Yüksek Kurulu başmüfettişleri",
+                "C": "En yakın bölge adliye mahkemesi Cumhuriyet başsavcısı ile bu mahkemenin görevli ceza dairesi",
+                "D": "Sıfat ve görevleri gereklerine uymayan tutumları inceleyen özel komisyon",
+                "E": "Bölge adliye mahkemesi ceza dairesini numara itibarıyla izleyen ceza dairesi başkanı"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 47'de yer alan 'şahsî suçları hakkında genel hükümlere göre yapılacak soruşturma ve kovuşturma görevi, en yakın bölge adliye mahkemesi Cumhuriyet başsavcısı ile bu bölge adliye mahkemesi ceza dairesinin suç türüne göre görevli ceza dairesine aittir' hükmüne dayanmaktadır. Diğer seçenekler, görev suçlarına ilişkin kovuşturma merciini (A), denetim makamını (B) veya soruşturma aşamasındaki özel usulleri (E) belirttiği için yanlıştır. D seçeneğindeki merci ise kanunda yer almamaktadır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi mensupları hakkındaki bir soruşturma aşamasında, Cumhuriyet başsavcılığının kovuşturmaya yer olmadığına dair kararına yapılan itirazı inceleme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yargıtayın görevli ceza dairesi",
+                "B": "En yakın bölge adliye mahkemesi Cumhuriyet başsavcısı",
+                "C": "Soruşturma konusu suçların en ağırına bakmakla görevli bölge adliye mahkemesi ceza dairesini numara itibarıyla izleyen ceza dairesi başkanı",
+                "D": "Birinci ceza dairesi başkanı",
+                "E": "En yakın bölge adliye mahkemesi ceza dairesi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'kovuşturmaya yer olmadığına dair kararlara yapılan itirazlar hakkında, soruşturma konusu suçların en ağırına bakmakla görevli bölge adliye mahkemesi ceza dairesini numara itibarıyla izleyen ceza dairesi başkanı tarafından karar verilir' hükmüne dayanmaktadır. D seçeneği yalnızca özel bir durumda (suçun son numaralı dairenin görevine girmesi) geçerlidir. Diğer seçenekler ise bu özel itiraz usulü için yetkili merciler değildir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemesi üyelerinin görevleriyle ilgili denetimleri ile sıfat ve görevleri gereklerine uymayan tutum ve davranışlarından dolayı haklarında yapılacak işlemlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Bölge adliye mahkemelerinin denetimleri adalet başmüfettişlerince yapılabilir.",
+                "B": "Sıfat ve görev gereklerine uymayan tutum ve davranışları nedeniyle haklarında soruşturma ve kovuşturma yapılabilir.",
+                "C": "Görevden doğan suçları nedeniyle yapılacak kovuşturmalarda görevli merci Yargıtayın ilgili ceza dairesidir.",
+                "D": "Bölge adliye mahkemelerinin denetimleri Hâkimler ve Savcılar Yüksek Kurulu başmüfettişlerince yapılabilir.",
+                "E": "Sıfat ve görev gereklerine uymayan tutum ve davranışlarından dolayı yapılacak soruşturma, doğrudan Hâkimler ve Savcılar Yüksek Kurulu başmüfettişleri tarafından yürütülür."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'sıfat ve görevleri gereklerine uymayan tutum ve davranışlarından dolayı haklarında yapılacak soruşturma ve kovuşturmalarda özel kanunlarında yazılı hükümler uygulanır' hükmü ile Madde 48'de belirtilen denetim görevinin farklı usullere tabi olmasına dayanmaktadır. Madde 47, soruşturma usulünü düzenlerken, Madde 48'deki başmüfettişlerin görevi 'denetleme' ile sınırlıdır; kanun metni soruşturmayı doğrudan başmüfettişlerin yürüteceğini belirtmemektedir.\n- Diğer seçenekler: A ve D seçenekleri Madde 48'de, B ve C seçenekleri ise Madde 47'de açıkça belirtilen doğru hükümlerdir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bölge adliye mahkemeleri adalet komisyonlarının denetimini yapma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Yargıtayın görevli ceza dairesi başkanına",
+                "B": "En yakın ağır ceza mahkemesi başkanına",
+                "C": "Adalet Bakanlığı Teftiş Kurulu başkanlarına",
+                "D": "Hâkimler ve Savcılar Yüksek Kurulu başmüfettişleri veya adalet başmüfettişlerine",
+                "E": "Türkiye Büyük Millet Meclisi Adalet Komisyonu üyelerine"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen 'Bölge adliye mahkemeleri ... adalet komisyonlarının denetimleri, ilgisine göre Hâkimler ve Savcılar Yüksek Kurulu başmüfettişleri veya adalet başmüfettişlerince yapılır.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen makam ve kurulların, kanunda bölge adliye mahkemeleri adalet komisyonlarını denetleme görevi bulunmadığı için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bir bölge adliye mahkemesinin yargı çevresinin değiştirilmesinden önce istinaf incelemesinden geçmiş bir dosyanın, yeniden istinaf incelemesine konu edilmesi halinde izlenmesi gereken usul aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Yargı çevresi değişikliği gerekçesiyle yetkisizlik kararı verilir ve dosya görevli mahkemeye gönderilir.",
+                "B": "Dosya, yargı çevresi yeni belirlenen yetkili bölge adliye mahkemesine devredilir.",
+                "C": "Dosya, soruşturmayı yürüten Cumhuriyet başsavcılığının bulunduğu yerdeki mahkemede görülür.",
+                "D": "İlk derece mahkemesinin kararı kesinleşmiş sayıldığından yeniden inceleme yapılamaz.",
+                "E": "Dosya, ilk incelemeyi yapan bölge adliye mahkemesince sonuçlandırılır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'Yargı çevresinin değiştirilmesinden önce istinaf incelemesinden geçen dosyalar, yeniden istinaf incelemesine konu edilmesi halinde de ilk incelemeyi yapan bölge adliye mahkemesince sonuçlandırılır.' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen usule aykırı olduğundan veya yargı çevresi değişikliğinin sonuçlarına ilişkin yanlış bilgiler içerdiğinden hatalıdır. Kanun, bu durumda yetkisizlik kararı verilmesini veya dosyanın yeni yetkili mahkemeye gönderilmesini değil, ilk incelemeyi yapan mahkemenin dosyayı sonuçlandırmasını emretmektedir."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, bir bölge adliye mahkemesi Cumhuriyet savcısının şahsî suçu hakkında soruşturma yürütülmekteyken, bölge adliye mahkemelerinin yargı çevresinin değişmesi ve bu değişikliğin Resmî Gazetede belirlenen tarihte yürürlüğe girmesi durumunda, soruşturmayı yürüten en yakın bölge adliye mahkemesi Cumhuriyet başsavcılığının izlemesi gereken usul aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Soruşturmayı derhal durdurarak dosyayı Hâkimler ve Savcılar Yüksek Kuruluna göndermelidir.",
+                "B": "Yargı çevresinin değiştiği gerekçesiyle yetkisizlik kararı vererek dosyayı yeni yetkili mahkemeye devretmelidir.",
+                "C": "Yargı çevresinin değiştiği gerekçesiyle yetkisizlik kararı veremez ve soruşturmaya devam ederek neticesinde açılacak kamu davasının da aynı yerde görülmesini sağlar.",
+                "D": "Soruşturmayı sonlandırarak kovuşturma için dosyayı doğrudan Yargıtayın görevli ceza dairesine göndermelidir.",
+                "E": "Şahsî suç olduğundan dosyayı genel hükümlere göre görevli olan yerel Cumhuriyet başsavcılığına göndermelidir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Ek Madde 1'de belirtilen 'bölge adliye mahkemeleri Cumhuriyet başsavcılığınca açılan soruşturmalarda (...) yargı çevresinin değiştiği gerekçesiyle yetkisizlik kararı verilemez. Soruşturma neticesinde açılacak kamu davaları da aynı yer bölge adliye mahkemesinde görülür' hükmü ile Madde 47'de belirtilen şahsî suçlarda soruşturma görevinin 'en yakın bölge adliye mahkemesi Cumhuriyet başsavcısı'na ait olması kuralının birleşimine dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen usule aykırıdır. B seçeneği, Ek Madde 1 ile açıkça yasaklanan bir durumu ifade ettiği için; diğer seçenekler ise metinlerde yer almayan mercileri veya usulleri içerdiği için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ceza mahkemelerinin görevlerinin belirlenmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kanunda yer alan suçun cezasının üst sınırı, ağırlaştırıcı veya hafifletici nedenler gözetilmeksizin dikkate alınır.",
+                "B": "Suçun cezasının alt sınırı, ağırlaştırıcı nedenler göz önünde bulundurularak belirlenir.",
+                "C": "Yalnızca hafifletici nedenler dikkate alınmaksızın cezanın üst sınırı üzerinden görev belirlenir.",
+                "D": "Hem ağırlaştırıcı hem de hafifletici nedenler değerlendirildikten sonra ortaya çıkan muhtemel ceza miktarı esas alınır.",
+                "E": "Mahkemenin iş yoğunluğu ve coğrafi durumu, ceza sınırından daha öncelikli bir ölçüttür."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Mahkemelerin görevlerinin belirlenmesinde ağırlaştırıcı veya hafifletici nedenler gözetilmeksizin kanunda yer alan suçun cezasının üst sınırı göz önünde bulundurulur.' hükmüne dayanmaktadır.\n- Diğer seçenekler, görev belirlemesinde ağırlaştırıcı veya hafifletici nedenlerin dikkate alınacağını, cezanın alt sınırının esas alınacağını veya görevle ilgisi olmayan iş yoğunluğu gibi kriterlerin öncelikli olduğunu belirterek Madde 14'e aykırı olduğu için yanlıştır."
+        },
+        {
+            "soru": "5235 Sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun'a göre, ağır ceza mahkemelerinin görevli olduğu ön yıldan fazla hapis cezasını gerektiren bir suçla ilgili davanın görevli mahkemesinin belirlenmesi hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Görevin belirlenmesinde suçun cezasının hem alt hem de üst sınırı birlikte dikkate alınır.",
+                "B": "Mahkemenin görevini belirlerken kanunda yer alan suçun cezasının üst sınırı, ağırlaştırıcı veya hafifletici nedenler gözetilmeksizin göz önünde bulundurulur.",
+                "C": "Suçun cezasının üst sınırı on yılı aşsa bile, olası hafifletici nedenler göz önünde bulundurularak dava asliye ceza mahkemesinde görülebilir.",
+                "D": "Ağırlaştırıcı nedenlerin varlığı halinde, cezanın üst sınırı on yılı aşmasa dahi görevli mahkeme ağır ceza mahkemesi olur.",
+                "E": "Görevli mahkemenin belirlenmesinde sadece kanunda yer alan suçun cezasının alt sınırı esas alınır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'Mahkemelerin görevlerinin belirlenmesinde ağırlaştırıcı veya hafifletici nedenler gözetilmeksizin kanunda yer alan suçun cezasının üst sınırı göz önünde bulundurulur.' hükmüne dayanmaktadır. Bu kural, Madde 12'de belirtilen ağır ceza mahkemelerinin görev alanına giren suçlar için de geçerlidir.\n- Diğer seçenekler: Ağırlaştırıcı veya hafifletici nedenlerin dikkate alınacağını ya da cezanın alt sınırının esas alınacağını belirterek Madde 14'teki açık kurala aykırı oldukları için yanlıştır."
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, bu Kanunun amaçları arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Çek defterlerinin içeriklerine ilişkin esasları belirlemek",
+                "B": "Çek hamillerinin korunmalarını sağlamaya yönelik düzenlemeler yapmak",
+                "C": "Kayıt dışı ekonominin denetim altına alınması önlemlerine katkıda bulunmak",
+                "D": "Çekin karşılıksız çıkması hâlinde uygulanacak yaptırımları belirlemek",
+                "E": "Ticari işletmelerin kuruluş ve devir işlemlerini düzenlemek"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 1'de kanunun amaçlarının sayıldığı hükme dayanmaktadır. Ticari işletmelerin kuruluş ve devir işlemlerini düzenlemek, kanunda sayılan amaçlardan biri değildir.\n- Diğer seçenekler: Madde 1'de açıkça kanunun amaçları arasında sayıldığı için yanlıştır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, bankaların çek hesabı açtırmak isteyenlerden almakla yükümlü olduğu belgeler arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Fotoğraflı nüfus cüzdanı, pasaport veya sürücü belgesi örnekleri",
+                "B": "Yerleşim yeri belgeleri",
+                "C": "Vergi kimlik numaraları",
+                "D": "Tacir olanlar için ticaret sicili kayıtları",
+                "E": "Noter onaylı imza sirküleri"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 2(2)'de bankaların çek hesabı açarken almakla yükümlü olduğu belgelerin sayıldığı hükme dayanmaktadır.\n- Diğer seçenekler (A, B, C, D) kanun metninde açıkça sayılan belgeler arasında yer alırken, 'noter onaylı imza sirküleri' bu belgeler arasında zikredilmemiştir."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, bankalar çek hesabı açılışında aldıkları belgeleri, hesabın kapatılması hâlinde bu tarihten itibaren ne kadar süreyle saklamakla yükümlüdür?",
+            "secenekler": {
+                "A": "Bir yıl",
+                "B": "Beş yıl",
+                "C": "On yıl",
+                "D": "Yirmi yıl",
+                "E": "Süresiz olarak"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2(2)'de belirtilen 'çek hesabının kapatılması hâlinde bunları, hesabın kapatıldığı tarihten itibaren on yıl süreyle saklamakla yükümlüdür' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler kanuni düzenleme ile uyumlu değildir."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, hamiline düzenlenecek çekler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Hamiline düzenlenecek çekler için sadece bu işlemlere özgü ayrı çek hesapları açılır.",
+                "B": "Çek yapraklarının üzerinde 'hamiline' ibaresinin matbu olarak yer alması gerekir.",
+                "C": "Hamiline düzenlenecek çeklerde, hamiline çek defteri yapraklarının kullanılması zorunludur.",
+                "D": "Tacir olan ve olmayan kişilere verilecek çekler ile hamiline çekler, açıkça ayırt edilebilecek biçimde bastırılır.",
+                "E": "Hamiline ibaresi, çeki düzenleyen tarafından çekin üzerine el yazısıyla eklenmelidir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 2(6)'da yer alan 'Çek yapraklarının üzerinde “hamiline” ibaresi matbu olarak yer alır' hükmüne dayanmaktadır. Bu hüküm, ifadenin el yazısıyla eklenemeyeceğini, basılı olması gerektiğini belirtir.\n- Diğer seçeneklerdeki ifadeler, aynı fıkrada yer alan hamiline çeklere ilişkin doğru kurallardır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, çek defterinin her bir yaprağında bulunması zorunlu olan bilgilerle ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Çek hesabı sahibi gerçek kişinin hem Türkiye Cumhuriyeti kimlik numarası hem de MERSİS numarası yazılmalıdır.",
+                "B": "Çek hesabı sahibi ile düzenleyenin farklı kişiler olması hâlinde, ayrıca düzenleyenin Türkiye Cumhuriyeti kimlik numarası yazılır.",
+                "C": "Çekin basıldığı tarihin yanı sıra basıldığı saat de belirtilmelidir.",
+                "D": "Çek hesabının bulunduğu bankanın genel müdürlüğünün adı yazılmalıdır.",
+                "E": "Tüzel kişinin vergi kimlik numarası yerine sadece ticaret sicil numarası yazılması yeterlidir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 2(7)(f)'de belirtilen 'Çek hesabı sahibi ile düzenleyenin farklı kişiler olması hâlinde, ayrıca düzenleyenin Türkiye Cumhuriyeti kimlik numarası, yazılır' hükmüne dayanmaktadır.\n- Diğer seçenekler yanlıştır çünkü; A'da MERSİS numarası tüzel kişiler için 'varsa' yazılır, C'de saat bilgisi istenmez, D'de şube adı istenir, E'de ise vergi kimlik numarası zorunludur."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, aşağıdakilerden hangisi bir çek hesabının kapatılabileceği hukuki sebeplerden biridir?",
+            "secenekler": {
+                "A": "Hesap sahibinin tacir sıfatını kaybetmesi",
+                "B": "Hesapta altı aydan uzun süre işlem yapılmaması",
+                "C": "Mevduat veya katılım fonu zamanaşımı süresinin dolması",
+                "D": "Bankanın ticari gerekçelerle tek taraflı karar alması",
+                "E": "Hesap sahibinin yerleşim yerini yurt dışına taşıması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2(10)'da belirtilen 'Çek hesabı, ancak sahibinin veya yasal temsilcisinin yazılı talebi ya da mevduat veya katılım fonu zamanaşımı süresinin dolması üzerine kapatılabilir' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda sayılan çek hesabı kapatma sebepleri arasında yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, çekin üzerinde yazılı baskı tarihinden itibaren belirli bir süre içinde ibraz edilmemesi hâlinde, muhatap bankanın kanunen ödemekle yükümlü olduğu tutara ilişkin sorumluluğu sona erer. Bu süre ne kadardır?",
+            "secenekler": {
+                "A": "Bir yıl",
+                "B": "İki yıl",
+                "C": "Üç yıl",
+                "D": "Beş yıl",
+                "E": "On yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3(9)'da belirtilen 'Çekin, üzerinde yazılı baskı tarihinden itibaren beş yıl içinde ibraz edilmemesi hâlinde, muhatap bankanın üçüncü fıkraya göre ödemekle yükümlü olduğu tutara ilişkin sorumluluğu sona erer.' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen süreler kanunda yer almamaktadır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, hamilin talebi üzerine 'karşılıksızdır' işlemi yapılırken çekin arka yüzüne yazılan bilgiler arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Tahsil için bankaya ibraz edildiği tarih",
+                "B": "Banka tarafından ödenen miktar düşüldükten sonra karşılıksız kalan tutar",
+                "C": "İbraz eden gerçek kişinin adı ve soyadı",
+                "D": "Hesap sahibinin vergi kimlik numarası",
+                "E": "Hesap durumu"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3(4)'te belirtilen 'karşılıksızdır işlemi; çekin arka yüzüne tahsil için bankaya ibraz edildiği tarih, hesap durumu, bankanın yükümlülüğü çerçevesinde ödediği miktar ve ibraz eden gerçek kişinin adı ve soyadı yazılmak ... suretiyle yapılır' hükmüne dayanmaktadır.\n- Bu hükümde sayılanlar arasında hesap sahibinin vergi kimlik numarası bulunmamaktadır; diğer seçenekler ise açıkça listelenmiştir."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, bedeli 8.000 Türk Lirası olan bir çek bankaya ibraz edildiğinde, çek hesabında 2.000 Türk Lirası bulunduğu anlaşılmıştır. Bu durumda muhatap bankanın, düzenleyici dışındaki hamile ödemekle yükümlü olduğu toplam miktar ne kadardır?",
+            "secenekler": {
+                "A": "1.000 Türk Lirası",
+                "B": "2.000 Türk Lirası",
+                "C": "3.000 Türk Lirası",
+                "D": "7.000 Türk Lirası",
+                "E": "8.000 Türk Lirası"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3(3)(b)(2)'de belirtilen, çek bedeli bin Türk Lirasının üzerinde ise 'kısmî karşılığa ilave olarak bin Türk Lirasını' ödeme yükümlülüğüne dayanmaktadır. Bu olayda, 2.000 TL'lik kısmî karşılığa 1.000 TL eklenerek toplam 3.000 TL ödenmelidir.\n- Diğer seçenekler, kanunda belirtilen hesaplama yöntemine aykırıdır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, bankanın çekin karşılığının hesapta bulunmasına rağmen hamiline ödemeyi geciktirmesi durumunda uygulanacak gecikme cezasının oranı nedir?",
+            "secenekler": {
+                "A": "Her geçen gün için binde bir",
+                "B": "Her geçen gün için binde üç",
+                "C": "Her geçen ay için yüzde bir",
+                "D": "Kanuni temerrüt faizi oranı",
+                "E": "Her geçen gün için yüzde üç"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 3(7)'de belirtilen 'çek hamiline, her geçen gün için binde üç gecikme cezası öder' hükmüne dayanmaktadır. Aynı fıkra, bu hallerde Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun hükümlerinin uygulanmayacağını da belirtir.\n- Diğer seçeneklerdeki oranlar ve faiz türleri kanunun bu maddesinde düzenlenmemiştir."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, ileri düzenleme tarihli çeklerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Hukukî takip yapılabilmesi için çekin, üzerindeki düzenleme tarihine göre kanunî ibraz süresi içinde bankaya ibraz edilmesi şarttır.",
+                "B": "Üzerinde yazılı düzenleme tarihinden önce ibraz edilen ve karşılığı ödenmeyen çekle ilgili olarak hukukî takip yapılamaz.",
+                "C": "Hukukî takip başlatılabilmesi için çekin 'karşılıksızdır' işlemine tabi tutulması gerekir.",
+                "D": "Çekin düzenleme tarihinden önce ibrazı, hukuki takibi başlatmak için yeterli bir sebeptir.",
+                "E": "İleri tarihli çekin karşılığının kısmen veya tamamen ödenmemiş olması, takip sürecinin temelini oluşturur."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 3(8)'de yer alan 'Üzerinde yazılı bulunan düzenleme tarihinden önce ibraz edilen çekin karşılığının ... kısmen veya tamamen ödenmemiş olması hâlinde, bu çekle ilgili olarak hukukî takip yapılamaz.' hükmüne dayanmaktadır. D seçeneği bu hükmün tam tersini iddia ettiği için yanlıştır.\n- Diğer seçenekler, aynı fıkrada belirtilen hukuki takip şartları ve yasaklarıyla uyumludur."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, bankaların, hamiline çek defteri yaprağı kullanılmadan hamiline çek düzenlendiğini tespit etmeleri hâlinde, durumu bildirmekle yükümlü oldukları merciler ve bu bildirim için tanınan azami süre aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Tespit tarihinden itibaren en geç bir ay içinde yalnızca Gelir İdaresi Başkanlığına",
+                "B": "Tespit tarihinden itibaren en geç on beş gün içinde Cumhuriyet başsavcılığına ve Türkiye Bankalar Birliğine",
+                "C": "Tespit tarihinden itibaren en geç bir hafta içinde Cumhuriyet başsavcılığına ve Gelir İdaresi Başkanlığına",
+                "D": "İşlem yapıldığı anda derhal Hazine ve Maliye Bakanlığına ve Gelir İdaresi Başkanlığına",
+                "E": "Tespit tarihinden itibaren en geç üç iş günü içinde yalnızca Cumhuriyet başsavcılığına"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4(3)'te belirtilen '...durumu, tespit tarihinden itibaren en geç bir hafta içinde Cumhuriyet başsavcılığına ve Gelir İdaresi Başkanlığına bildirmekle yükümlüdür.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen bildirim süresi ve yetkili mercileri yanlış içerdiği için hatalıdır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, bir tacir tüzel kişinin faaliyetleriyle ilişkilendirilmek kaydıyla, aşağıdaki kişilerden hangisi adına açılmış olan çek hesapları, o tacir tüzel kişiye ait kabul edilen hesaplar arasında sayılmamıştır?",
+            "secenekler": {
+                "A": "Tüzel kişinin gerçek kişi ortakları",
+                "B": "Tüzel kişinin yönetim organında görev alan gerçek kişiler",
+                "C": "Tüzel kişinin veya ortaklarının etkisi altında bulundurduğu gerçek kişiler",
+                "D": "Tüzel kişinin mal veya hizmet aldığı tedarikçileri",
+                "E": "Tüzel kişinin temsilcisi sıfatını taşıyan gerçek kişiler"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 4(2)'de tacir tüzel kişiye ait kabul edilecek hesapların kimler adına açılabileceğinin sınırlı olarak sayılmış olmasına dayanmaktadır. Bu sayımda 'tedarikçiler' yer almamaktadır.\n- Diğer seçenekler: Kanun metninde; tüzel kişinin gerçek kişi ortakları, yönetim organında görev alanlar, temsilcileri ve etki altında bulundurduğu kişiler adına açılan hesapların tüzel kişiye ait kabul edileceği açıkça belirtilmiştir."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, kanuni ibraz süresi içinde ibrazında “karşılıksızdır” işlemi yapılmasına sebebiyet verme suçundan dolayı açılan davalarda, aşağıdakilerden hangisi yetkili mahkemelerden biri olarak sayılmamıştır?",
+            "secenekler": {
+                "A": "Çekin tahsil için bankaya ibraz edildiği yer mahkemesi",
+                "B": "Çek hesabının açıldığı banka şubesinin bulunduğu yer mahkemesi",
+                "C": "Hesap sahibinin yerleşim yeri mahkemesi",
+                "D": "Şikâyetçinin yerleşim yeri mahkemesi",
+                "E": "Lehtarın ticari merkezinin bulunduğu yer mahkemesi"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 5(1)'de belirtilen 'Bu davalar çekin tahsil için bankaya ibraz edildiği veya çek hesabının açıldığı banka şubesinin bulunduğu yer ya da hesap sahibinin yahut şikâyetçinin yerleşim yeri mahkemesinde görülür.' hükmüne dayanmaktadır.\n- Diğer seçenekler: A, B, C ve D seçeneklerinde belirtilen mahkemeler kanunda açıkça yetkili olarak sayılmıştır. E seçeneğindeki 'Lehtarın ticari merkezinin bulunduğu yer mahkemesi' ise yetkili mahkemeler arasında yer almadığı için yanlıştır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, hakkında çek düzenleme ve çek hesabı açma yasağı kararı verilmiş olan kişi, kararın kendisine tebliğ edildiği tarihten itibaren kaç gün içinde, düzenlemiş bulunduğu ve henüz karşılığı tahsil edilmemiş olan çekleri bir liste hâlinde muhatap bankaya vermekle yükümlüdür?",
+            "secenekler": {
+                "A": "Üç",
+                "B": "Yedi",
+                "C": "On",
+                "D": "On beş",
+                "E": "Otuz"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5(7)'de belirtilen 'kararın kendisine tebliğ edildiği tarihten itibaren on gün içinde, düzenlemiş bulunduğu ve henüz karşılığı tahsil edilmemiş olan çekleri... muhatap bankaya liste hâlinde vermekle yükümlüdür.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen süre 'on gün' olduğundan, diğer seçeneklerde yer alan süreler yanlıştır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, çek hesabı sahibi gerçek kişinin temsilcisi veya vekili olarak bir çek düzenlenmesi hâlinde, bu çekten doğan hukukî ve cezai sorumluluk kime aittir?",
+            "secenekler": {
+                "A": "Sadece çeki düzenleyen temsilci veya vekile",
+                "B": "Çek hesabı sahibine",
+                "C": "Temsilci veya vekil ile çek hesabı sahibine müteselsilen",
+                "D": "Çeki ibraz eden hamile",
+                "E": "Muhatap bankanın ilgili şubesine"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5(3)'te belirtilen 'Gerçek kişinin temsilcisi veya vekili olarak çek düzenlenmesi hâlinde, bu çekten dolayı hukukî ve cezai sorumluluk çek hesabı sahibine aittir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun, sorumluluğun doğrudan çek hesabı sahibine ait olduğunu açıkça düzenlediği için diğer şıklarda belirtilen kişilerin sorumluluğuna gidilmesi söz konusu değildir."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, hakkında çek düzenleme ve çek hesabı açma yasağı kararı verilen bir kişinin, bir sermaye şirketindeki mevcut yönetim organı üyeliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yasaklama kararının tebliği ile birlikte organ üyeliği derhal sona erer.",
+                "B": "Mevcut organ üyeliği görev süresinin sonuna kadar devam eder.",
+                "C": "Sadece mali işlerden sorumlu olmamak kaydıyla görevine devam edebilir.",
+                "D": "Yasaklılık süresince yönetim organı toplantılarına katılamaz ancak üyeliği devam eder.",
+                "E": "Şirketin talebi üzerine mahkeme kararıyla görevden alınır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 5(2)'de belirtilen 'Ancak, hakkında yasaklama kararı verilenlerin mevcut organ üyelikleri görev sürelerinin sonuna kadar devam eder.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanun, mevcut üyeliğin görev süresi sonuna kadar devam edeceğini açıkça belirttiğinden, üyeliğin derhal sona ereceği veya kısıtlanacağı yönündeki ifadeler yanlıştır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, karşılıksızdır işlemi yapılmasına sebebiyet verme suçu nedeniyle aşağıdaki hükümlerden hangisinin uygulanması mümkündür?",
+            "secenekler": {
+                "A": "Ön ödeme",
+                "B": "Uzlaşma",
+                "C": "Hükmün açıklanmasının geri bırakılması",
+                "D": "Adli para cezasının ödenmemesi durumunda doğrudan hapis cezasına çevrilmesi",
+                "E": "Kamuya yararlı bir işte çalıştırma kararı verilmesi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 5(11)'de belirtilen 'verilen adli para cezalarının ödenmemesi durumunda, bu ceza... kamuya yararlı bir işte çalıştırma kararı verilmeksizin doğrudan hapis cezasına çevrilir.' hükmüne dayanmaktadır.\n- Diğer seçenekler: Madde 5(10)'da ön ödeme, uzlaşma ve hükmün açıklanmasının geri bırakılması hükümlerinin uygulanmayacağı açıkça belirtilmiştir. Madde 5(11) ise adli para cezasının kamuya yararlı bir işte çalıştırma kararı verilmeksizin hapse çevrileceğini belirttiğinden E seçeneği de yanlıştır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, mahkûm olduğu cezanın tamamen infaz edildiği tarihten sonra, kişinin hükmü veren mahkemeden çek düzenleme ve çek hesabı açma yasağının kaldırılmasını isteyebilmesi için gereken süre şartı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Cezanın tamamen infaz edildiği tarihten itibaren bir yıl ve her halde yasağın konulduğu tarihten itibaren beş yıl geçmesi",
+                "B": "Cezanın tamamen infaz edildiği tarihten itibaren üç yıl ve her halde yasağın konulduğu tarihten itibaren on yıl geçmesi",
+                "C": "Sadece cezanın tamamen infaz edildiği tarihten itibaren beş yıl geçmesi",
+                "D": "Sadece yasağın konulduğu tarihten itibaren on yıl geçmesi",
+                "E": "Cezanın infazına başlandığı tarihten itibaren üç yıl geçmesi"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Kişi, mahkûm olduğu cezanın tamamen infaz edildiği tarihten itibaren üç yıl ve her halde yasağın konulduğu tarihten itibaren on yıl geçtikten sonra, hükmü veren mahkemeden çek düzenleme ve çek hesabı açma yasağının kaldırılmasını isteyebilir' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda belirtilen süreleri, bu sürelerin başlangıç anını veya aranan şartların bütünlüğünü yanlış ifade ettiği için hatalıdır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre;\n\nİ. Karşılıksız kalan çek bedelinin, ticarî işlerde temerrüt faiz oranı üzerinden hesaplanacak faizi ile birlikte tamamen ödenmesi\nIİ. Mahkûm olunan cezanın tamamen infaz edildiği tarihten itibaren üç yıl geçmesi\nIİİ. Tacirin ticarî işletmesiyle ilgili iş ve işlemlerinde, tacir olmayan kişinin çek defterini kullanarak çek düzenlenmesi\n\nyukarıdaki durumlardan hangisi veya hangileri, çek düzenleme ve çek hesabı açma yasağının kaldırılmasına veya bu yasağa ilişkin bir davanın düşmesine yol açan bir sebep olarak düzenlenmiştir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'nın (1) ve (3). fıkralarında belirtilen hükümlere dayanmaktadır. Madde 6(1)'e göre, karşılıksız çek bedelinin faiziyle ödenmesi halinde dava düşer veya hüküm ortadan kaldırılır. Madde 6(3)'e göre ise cezanın infazından itibaren üç yıl geçtikten sonra yasağın kaldırılması mahkemeden istenebilir.\n- Diğer seçenekler: III. öncülde belirtilen durum (Madde 7(1)), yasağın kaldırılmasına yönelik bir sebep değil, tam aksine altı aydan iki yıla kadar hapis cezasını gerektiren ayrı bir suç tipi olduğu için yanlıştır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, hakkında çek düzenleme ve çek hesabı açma yasağı kararı verilmiş olan bir kişi, bu yasağa rağmen yeni bir çek düzenlerse, fiil daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bir yıldan üç yıla kadar hapis cezası",
+                "B": "Altı aydan iki yıla kadar hapis cezası",
+                "C": "İki yıldan beş yıla kadar hapis ve binbeşyüz güne kadar adlî para cezası",
+                "D": "Bir yıla kadar hapis cezası",
+                "E": "Üç aydan bir yıla kadar hapis cezası"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 7'nin 6. fıkrasında belirtilen 'Hakkında çek düzenleme ve çek hesabı açma yasağı kararı verilmiş olan kişi, buna rağmen çek düzenlerse, fiil daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır' hükmüne dayanmaktadır. - Diğer seçeneklerde belirtilen yaptırımlar, kanunun farklı fıkralarında düzenlenen başka suçlar için öngörülmüş cezalardır ve soruda belirtilen fiile uygulanamaz."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, aşağıdaki fiillerden hangisini gerçekleştiren kişi veya kurum hakkında Cumhuriyet savcısı tarafından idarî para cezası uygulanmaz?",
+            "secenekler": {
+                "A": "Hamiline çek defteri yaprağını kullanmadan hamiline çek düzenleyen kişi",
+                "B": "Çekin karşılıksız çıkması üzerine hamili tarafından talep edilmesine rağmen düzenleyicinin adresini vermeyen banka",
+                "C": "Sağlanması ve saklanması gereken bilgi ve belgelere ilişkin hükme aykırı hareket eden banka",
+                "D": "Tacir olmayan kişiye tacir kişiye verilmesi gereken çek defterini veren banka görevlisi",
+                "E": "Karşılıksız kalan çek bedelini faiziyle birlikte ödeyerek etkin pişmanlıktan yararlanan kişi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7'nin 2. fıkrasında belirtilen 'Tacir olmayan kişiye tacir kişiye verilmesi gereken çek defteri veren banka görevlisi hakkında ... adlî para cezasına hükmolunur' hükmüne dayanmaktadır. Bu ceza, mahkeme tarafından hükmedilen adlî bir para cezası olup Cumhuriyet savcısı tarafından verilen bir idarî para cezası değildir. - A, B ve C seçenekleri Madde 7'de Cumhuriyet savcısının idarî para cezası vereceği haller olarak sayılmıştır. E seçeneği ise Madde 6'da düzenlenen ve bir ceza yaptırımı olmayan, aksine cezanın ortadan kaldırılmasına yönelik bir etkin pişmanlık halidir."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, hakkında çek düzenleme ve çek hesabı açma yasağı kararı verilmiş olan (A), bu yasağa rağmen yeni bir çek düzenlemiştir. (A)'nın bu durumunu bilerek kendisine yeni bir çek hesabı açan banka görevlisi (B) de tespit edilmiştir. Bu olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hem (A) hem de (B) hakkında şikâyet üzerine bir yıla kadar hapis cezasına hükmolunur.",
+                "B": "(A) bir yıldan üç yıla kadar hapis cezası ile, (B) ise üç aydan bir yıla kadar hapis cezası ile cezalandırılır.",
+                "C": "(A) karşılıksız kalan çek bedelini faiziyle öderse hem kendisi hem de banka görevlisi (B) hakkındaki dava düşer.",
+                "D": "(A) hakkında idari para cezası uygulanırken, (B) hakkında elli günden yüzelli güne kadar adli para cezasına hükmolunur.",
+                "E": "(A) fiili daha ağır bir suç oluşturmadığı sürece hapis cezası alırken, banka görevlisi (B) hakkında herhangi bir ceza öngörülmemiştir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7'nin (6) ve (7). fıkralarında belirtilen hükümlere dayanmaktadır. Madde 7(6)'ya göre, yasağa rağmen çek düzenleyen kişi bir yıldan üç yıla kadar hapis cezası alır. Madde 7(7)'ye göre ise bu kişi adına hesap açan banka görevlisi üç aydan bir yıla kadar hapis cezası ile cezalandırılır.\n- Diğer seçenekler: C seçeneğindeki etkin pişmanlık hükmü (Madde 6) sadece çek düzenleyenin karşılıksız çek suçuna ilişkindir ve banka görevlisinin fiilini kapsamaz. Diğer seçeneklerde belirtilen ceza türleri ve süreleri ise olayla ilgili kanuni düzenlemelere aykırıdır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, karşılığı tahsil edilmek üzere bankaya ibraz edilen bir çekin karşılığının hesapta mevcut olmasına rağmen, hamile ödemede bulunmayan veya bankanın kanunen ödemekle yükümlü olduğu miktarı ödemeyen banka görevlisi hakkında aşağıdaki yaptırımlardan hangisi uygulanır?",
+            "secenekler": {
+                "A": "Elli günden yüzelli güne kadar adlî para cezası",
+                "B": "Şikâyet üzerine bir yıla kadar hapis cezası",
+                "C": "Üç aydan bir yıla kadar hapis cezası",
+                "D": "İki yıldan beş yıla kadar hapis ve binbeşyüz güne kadar adlî para cezası",
+                "E": "Cumhuriyet savcısı tarafından beşyüz Türk Lirasından beşbin Türk Lirasına kadar idarî para cezası"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 7(5)'te belirtilen 'karşılığının hesapta mevcut olmasına rağmen, hamile ödemede bulunmayan ya da bankanın kanunen ödemekle yükümlü olduğu miktarı hamile ödemeyen banka görevlisi, şikâyet üzerine bir yıla kadar hapis cezası ile cezalandırılır' hükmüne dayanmaktadır.\n- Diğer seçeneklerde belirtilen cezalar, kanunda farklı fiiller veya kişiler için öngörülen yaptırımlar olduğu için yanlıştır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, hakkında çek düzenleme ve çek hesabı açma yasağı kararı verilmiş olan bir kişi, bu yasağa rağmen çek düzenlerse, fiili daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, hangi yaptırımla karşılaşır?",
+            "secenekler": {
+                "A": "Altı aydan iki yıla kadar hapis cezası",
+                "B": "Üç aydan iki yıla kadar hapis cezası",
+                "C": "Bir yıldan üç yıla kadar hapis cezası",
+                "D": "İki yıldan beş yıla kadar hapis ve binbeşyüz güne kadar adlî para cezası",
+                "E": "Cumhuriyet savcısı tarafından idarî para cezası"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7(6)'da belirtilen 'Hakkında çek düzenleme ve çek hesabı açma yasağı kararı verilmiş olan kişi, buna rağmen çek düzenlerse ... bir yıldan üç yıla kadar hapis cezası ile cezalandırılır' hükmüne dayanmaktadır.\n- Diğer seçeneklerdeki cezalar, kanunda farklı suçlar için öngörülen hapis cezası süreleri veya farklı türde yaptırımlardır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, hamiline çek defteri yaprağını kullanmadan hamiline çek düzenleyen kişiye, bu aykırılığı içeren her bir çekle ilgili olarak hangi yaptırım uygulanır?",
+            "secenekler": {
+                "A": "Altı aydan iki yıla kadar hapis cezası",
+                "B": "Elli günden yüzelli güne kadar adlî para cezası",
+                "C": "Şikâyet üzerine bir yıla kadar hapis cezası",
+                "D": "Cumhuriyet savcısı tarafından üçyüz Türk Lirasından üçbin Türk Lirasına kadar idarî para cezası",
+                "E": "Bir yıldan üç yıla kadar hapis cezası"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 7(9)'da belirtilen 'Hamiline çek defteri yaprağını kullanmadan hamiline çek düzenleyen kişi, ... Cumhuriyet savcısı tarafından üçyüz Türk Lirasından üçbin Türk Lirasına kadar idarî para cezası ile cezalandırılır' hükmüne dayanmaktadır.\n- Diğer seçenekler, kanunda farklı suçlar için öngörülen hapis veya adlî para cezası niteliğindeki yaptırımlar olduğu için yanlıştır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, aşağıdakilerden hangisi banka görevlilerinin cezai sorumluluğunu doğuran fiillerden biri değildir?",
+            "secenekler": {
+                "A": "Tacir olmayan kişiye, tacir kişiye verilmesi gereken bir çek defteri vermek.",
+                "B": "Talebe rağmen, karşılığı bulunmayan bir çekle ilgili olarak 'karşılıksızdır' işlemi yapmamak.",
+                "C": "Hakkında çek düzenleme yasağı bulunan bir kişi adına çek hesabı açmak.",
+                "D": "Çeklerin bankalararası takas odaları aracılığı ile elektronik ortamda işlem görmesini sağlamak.",
+                "E": "Bankanın kanunen ödemekle yükümlü olduğu miktarı, karşılık olmasına rağmen hamile ödememek."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen ve Türkiye Cumhuriyet Merkez Bankasına verilen bir yetki olan 'çeklerin ... elektronik ortamda ... işlem görmesi' hükmüne dayanmaktadır; bu durum bir banka görevlisi için suç teşkil etmez.\n- Diğer seçenekler, Madde 7'nin farklı fıkralarında (2, 4, 5 ve 7) açıkça banka görevlileri için suç olarak tanımlanan ve cezai yaptırıma bağlanan fiillerdir."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, çeklerin banka şubeleri arasında hesaben ödenmesini sağlayacak tüzel kişiliği haiz sistemi kurma ve gözetimi altında yürütme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Türkiye Cumhuriyet Merkez Bankası",
+                "B": "Hazine ve Maliye Bakanlığı",
+                "C": "Bankacılık Düzenleme ve Denetleme Kurumu",
+                "D": "Türkiye Bankalar Birliği",
+                "E": "Cumhuriyet savcısı"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Türkiye Cumhuriyet Merkez Bankası, çeklerin banka şubeleri arasında hesaben ödenmesini sağlayacak tüzel kişiliği haiz sistemi kurmaya ve gözetimi altında yürütmeye yetkilidir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda bu yetkinin verildiği kurum açıkça Türkiye Cumhuriyet Merkez Bankası olarak belirtilmiştir. E seçeneğindeki Cumhuriyet savcısı kanunun farklı maddelerinde idari para cezası verme gibi yetkilere sahipken, diğer seçeneklerdeki kurumların bu konuda bir yetkisi düzenlenmemiştir."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, takas odaları aracılığıyla ibraz edilen bir çekin hesapta yeterli karşılığının olmadığının belirlenmesi hâlinde, muhatap bankanın hesapta bulunan kısmî karşılık tutarı ile ilgili yapması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Çeki ibraz eden hamil lehine onbeş gün süreyle bloke edilir.",
+                "B": "Çeki düzenleyen lehine otuz gün süreyle bloke edilir.",
+                "C": "Bankanın kanuni sorumluluk miktarı ile birlikte derhal hamile ödenir.",
+                "D": "Türkiye Cumhuriyet Merkez Bankasına on gün içinde bildirilir.",
+                "E": "Herhangi bir işlem yapılmaksızın çek karşılıksız işlemiyle iade edilir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'muhatap banka tarafından, hesapta bulunan kısmî karşılık tutarı, çeki ibraz eden hamil lehine onbeş gün süreyle bloke edilir' hükmüne dayanmaktadır.\n- Diğer seçenekler: Kanunda belirtilen süre, lehtar veya işlem açısından hatalı bilgiler içerdiği için yanlıştır. Özellikle C seçeneği, takas odaları aracılığıyla ibraz edilen çeklerde kısmî ödeme yapılmayacağı kuralına aykırıdır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, takas odaları aracılığıyla ibraz edilen bir çekin hesapta yeterli karşılığının olmadığının belirlenmesi durumunda, muhatap bankanın yapması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Hamilin talebine bakılmaksızın çekin karşılıksız olduğunu sisteme kaydetmek.",
+                "B": "Sorumluluk miktarını da içerecek şekilde derhal kısmî ödeme yapmak.",
+                "C": "Hesapta bulunan kısmî karşılık tutarını çeki ibraz eden hamil lehine onbeş gün süreyle bloke etmek.",
+                "D": "Durumu Türkiye Cumhuriyet Merkez Bankasına bildirerek talimat beklemek.",
+                "E": "Çeki düzenleyicisi hakkında Cumhuriyet savcılığına suç duyurusunda bulunmak."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 8(4)'te belirtilen 'takas odaları aracılığıyla ibraz edilen çekin, hesapta yeterli karşılığının olmadığının belirlenmesi hâlinde muhatap banka tarafından, hesapta bulunan kısmî karşılık tutarı, çeki ibraz eden hamil lehine onbeş gün süreyle bloke edilir' hükmüne dayanmaktadır. Bu soru, Madde 7'deki genel karşılıksızlık durumları ile Madde 8'deki takas odalarına özgü istisnai usulü birleştirmektedir.\n- Diğer seçenekler: Madde 8'de belirtilen bu özel usule aykırı olduğu veya kanunda böyle bir yükümlülük tanımlanmadığı için yanlıştır. B seçeneği, kanunun aynı fıkrada takas odaları aracılığıyla ibrazda kısmî ödeme yapılmayacağını açıkça belirttiği için hatalıdır."
+        },
+        {
+            "soru": "5941 Sayılı Çek Kanunu'na göre, çeklerin fizikî olarak ibraz edilmeksizin elektronik ortamda muhatap bankaya gönderilmesi takas odasına ibraz hükmünde olup, bu şekilde ibraz edilen bir çekin karşılığı hesapta mevcut olmasına rağmen hamile ödemede bulunmayan banka görevlisi hakkında uygulanacak yaptırım aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Şikâyet üzerine bir yıla kadar hapis cezası.",
+                "B": "Elli günden yüzelli güne kadar adlî para cezası.",
+                "C": "Üç aydan bir yıla kadar hapis cezası.",
+                "D": "Cumhuriyet savcısı tarafından beşbin Türk Lirasına kadar idarî para cezası.",
+                "E": "İki yıldan beş yıla kadar hapis ve binbeşyüz güne kadar adlî para cezası."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 8(3)'e göre elektronik ibrazın geçerli bir ibraz sayılması ve Madde 7(5)'te belirtilen 'karşılığının hesapta mevcut olmasına rağmen, hamile ödemede bulunmayan ... banka görevlisi, şikâyet üzerine bir yıla kadar hapis cezası ile cezalandırılır' hükmünün birleşimine dayanmaktadır. Soru, elektronik ibrazın hukuki sonucunu, banka görevlisinin cezai sorumluluğu ile sentezlemektedir.\n- Diğer seçeneklerde belirtilen cezalar, Madde 7'de farklı suçlar (gerçek dışı beyan, yasaklı kişiye çek defteri verme, kanuna aykırı çek basma vb.) için öngörülen yaptırımlar olduğu için yanlıştır."
+        }
+    ]
+}

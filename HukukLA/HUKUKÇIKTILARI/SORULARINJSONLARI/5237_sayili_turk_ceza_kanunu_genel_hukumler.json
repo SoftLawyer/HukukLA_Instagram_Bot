@@ -1,0 +1,2057 @@
+{
+    "KLASIKSORULAR": [
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, Kanunun amacı kapsamında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Kişi hak ve özgürlüklerini korumak",
+                "B": "Kamu düzen ve güvenliğini korumak",
+                "C": "Ülkenin ekonomik kalkınmasını sağlamak",
+                "D": "Toplum barışını korumak",
+                "E": "Suç işlenmesini önlemek"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen Kanunun amacı; 'kişi hak ve özgürlüklerini, kamu düzen ve güvenliğini, hukuk devletini, kamu sağlığını ve çevreyi, toplum barışını korumak, suç işlenmesini önlemektir' hükmüne dayanmaktadır. Ekonomik kalkınma bu amaçlar arasında sayılmamıştır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, Kanun'un amacının gerçekleştirilmesi için Kanun'da düzenlendiği belirtilen hususlardan hangisi açıkça sayılmamıştır?",
+            "secenekler": {
+                "A": "Ceza sorumluluğunun temel esasları",
+                "B": "Suçlar",
+                "C": "Ceza türleri",
+                "D": "Güvenlik tedbirlerinin türleri",
+                "E": "Yargılama usulleri"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 1'de belirtilen 'Kanunda, bu amacın gerçekleştirilmesi için ceza sorumluluğunun temel esasları ile suçlar, ceza ve güvenlik tedbirlerinin türleri düzenlenmiştir.' hükmüne dayanmaktadır. Yargılama usulleri kanunda yer almamaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suç ve ceza içeren hükümlerin yorumlanması ve uygulanması ile ilgili;\nI. Kıyas yapılamaz.\nII. Kıyasa yol açacak biçimde geniş yorumlanamaz.\nIII. İdarenin düzenleyici işlemleriyle kapsam genişletilebilir.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 2'de belirtilen 'Kanunların suç ve ceza içeren hükümlerinin uygulanmasında kıyas yapılamaz. Suç ve ceza içeren hükümler, kıyasa yol açacak biçimde geniş yorumlanamaz.' hükmüne dayanmaktadır. III. öncül ise aynı maddenin 2. fıkrasına aykırıdır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ceza kanununun uygulanması ve yaptırımların belirlenmesi ile ilgili;\n\nI. Suç işleyen kişi hakkında işlenen fiilin ağırlığıyla orantılı ceza ve güvenlik tedbirine hükmolunması,\nII. Kişiler arasında ekonomik ve diğer toplumsal konumları yönünden ayrım yapılamaması,\nIII. Belirli bir zümreye sosyal kökenleri nedeniyle ayrıcalık tanınabilmesi\n\nhususlarından hangisi veya hangileri Kanun'un benimsediği ilkeler arasında yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 3'te belirtilen 'işlenen fiilin ağırlığıyla orantılı ceza... hükmolunur' ve 'ayrım yapılamaz ve hiçbir kimseye ayrıcalık tanınamaz' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, Kanun'un uygulamasında; I. Felsefi inanç, II. Siyasi düşünce, III. Milli köken, unsurlarından hangileri yönünden kişiler arasında ayrım yapılamaz?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 3(2)'de belirtilen 'siyasal veya diğer fikir yahut düşünceleri, felsefi inanç, milli veya sosyal köken... yönünden ayrım yapılamaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir suç işleyen A kişisinin, işlediği fiilin kanunen suç olduğunu bilmediğini iddia etmesi durumunda, A'nın sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "A'nın cezası yarı oranında indirilir.",
+                "B": "A hakkında ceza verilmesine yer olmadığına karar verilir.",
+                "C": "Ceza kanunlarını bilmemek mazeret sayılmaz.",
+                "D": "A'nın eğitim durumu dikkate alınarak ceza ertelenir.",
+                "E": "Fiil suç olmaktan çıkar ve idari yaptırım uygulanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 4'te belirtilen 'Ceza kanunlarını bilmemek mazeret sayılmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, \"Bu Kanunun genel hükümleri, özel ceza kanunları ve ______ hakkında da uygulanır.\" cümlesinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+            "secenekler": {
+                "A": "idari para cezaları",
+                "B": "disiplin cezaları",
+                "C": "ceza içeren kanunlardaki suçlar",
+                "D": "kabahatler kanunu hükümleri",
+                "E": "hukuki uyuşmazlıklar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 5'te belirtilen 'ceza içeren kanunlardaki suçlar' ifadesine dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, 'itiyadi suçlu' deyiminin tanımı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kısmen de olsa geçimini suçtan elde ettiği kazançla sağlamaya alışmış kişi.",
+                "B": "Kasıtlı bir suçun temel şeklini ya da nitelikli şekillerini bir yıl içinde ve farklı zamanlarda ikiden fazla kez işleyen kişi.",
+                "C": "Bir suç örgütünü kuran, yöneten veya örgüte katılan kişi.",
+                "D": "Kasıtlı veya taksirli herhangi bir suçu beş yıl içinde birden fazla kez işleyen kişi.",
+                "E": "Suç işlemeyi bir yaşam tarzı haline getirmiş ve sabıka kaydı bulunan kişi."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 6/1-h'de belirtilen 'İtiyadi suçlu deyiminden; kasıtlı bir suçun temel şeklini ya da daha ağır veya daha az cezayı gerektiren nitelikli şekillerini bir yıl içinde ve farklı zamanlarda ikiden fazla işleyen kişi... anlaşılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, \"gece vakti\" deyiminden anlaşılması gereken zaman aralığı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Güneşin batmasıyla başlayan ve doğmasına kadar devam eden zaman süresi",
+                "B": "Güneşin batmasından iki saat sonra başlayan ve doğmasından iki saat evvele kadar devam eden zaman süresi",
+                "C": "Güneşin batmasından bir saat sonra başlayan ve doğmasından bir saat evvele kadar devam eden zaman süresi",
+                "D": "Güneşin batmasından bir saat önce başlayan ve doğmasından bir saat sonraya kadar devam eden zaman süresi",
+                "E": "Güneşin batmasından yarım saat sonra başlayan ve doğmasından yarım saat evvele kadar devam eden zaman süresi"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Gece vakti deyiminden; güneşin batmasından bir saat sonra başlayan ve doğmasından bir saat evvele kadar devam eden zaman süresi' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, \"yargı görevi yapan\" deyimi; I. Cumhuriyet savcısı, II. Avukatlar, III. Yüksek mahkemeler üye ve hakimleri, kişilerinden hangilerini kapsamaktadır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Yargı görevi yapan deyiminden; yüksek mahkemeler, adlî ve idarî mahkemeler üye ve hakimleri ile Cumhuriyet savcısı ve avukatlar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, \"silah\" deyiminin kapsamı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sadece ateşli silahlar ve patlayıcı maddeler silah kapsamında değerlendirilir.",
+                "B": "Bir nesnenin silah sayılabilmesi için mutlaka saldırı veya savunma amacıyla üretilmiş olması gerekir.",
+                "C": "Saldırı ve savunma amacıyla yapılmış olmasa bile fiilen saldırı ve savunmada kullanılmaya elverişli diğer şeyler de silah sayılır.",
+                "D": "Kesici ve delici aletler, sadece ruhsatlı olmaları halinde silah tanımına girer.",
+                "E": "Kimyasal ve biyolojik maddeler, öldürücü etkileri olsa dahi silah tanımı kapsamında yer almaz."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'Saldırı ve savunma amacıyla yapılmış olmasa bile fiilen saldırı ve savunmada kullanılmaya elverişli diğer şeyler' ifadesinin silah tanımı içinde yer aldığı hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir kişinin \"itiyadi suçlu\" sayılabilmesi için gerekli koşullar bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kasıtlı bir suçu, bir yıl içinde ve farklı zamanlarda ikiden fazla kez işlemesi gerekir.",
+                "B": "Taksirli veya kasıtlı fark etmeksizin herhangi bir suçu bir yıl içinde en az üç kez işlemesi gerekir.",
+                "C": "Suç işleme kararını bir örgüt faaliyeti çerçevesinde vermiş olması gerekir.",
+                "D": "Geçimini kısmen de olsa suçtan elde ettiği kazançla sağlamaya alışmış olması gerekir.",
+                "E": "Aynı suçu beş yıl içinde farklı zamanlarda en az iki kez işlemesi gerekir."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 6'da belirtilen 'İtiyadi suçlu deyiminden; kasıtlı bir suçun temel şeklini ya da daha ağır veya daha az cezayı gerektiren nitelikli şekillerini bir yıl içinde ve farklı zamanlarda ikiden fazla işleyen kişi' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kanunların zaman bakımından uygulanması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "İşlendiği zaman yürürlükte bulunan kanuna göre suç sayılmayan bir fiilden dolayı kimseye ceza verilemez.",
+                "B": "Suçun işlendiği zaman yürürlükte bulunan kanun ile sonradan yürürlüğe giren kanunların hükümleri farklı ise, failin lehine olan kanun uygulanır.",
+                "C": "Geçici veya süreli kanunların, yürürlükte bulundukları süre içinde işlenmiş olan suçlar hakkında uygulanmasına, süreleri dolsa bile devam edilir.",
+                "D": "İşlendikten sonra yürürlüğe giren kanuna göre suç sayılmayan bir fiilden dolayı hükmolunmuş bir ceza varsa, infazı ve kanuni neticeleri kendiliğinden kalkar.",
+                "E": "İşlendiği zaman suç sayılan bir fiil sonradan yürürlüğe giren kanunla suç olmaktan çıkarılsa dahi, verilmiş olan cezanın infazına aynen devam edilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'İşlendikten sonra yürürlüğe giren kanuna göre suç sayılmayan bir fiilden dolayı da kimse cezalandırılamaz... Böyle bir ceza veya güvenlik tedbiri hükmolunmuşsa infazı ve kanuni neticeleri kendiliğinden kalkar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, infaz rejimine ilişkin hükümlerin derhal uygulanması ilkesi;\nI. Hapis cezasının ertelenmesi,\nII. Koşullu salıverilme,\nIII. Tekerrür\nkurumlarından hangileri ile ilgili olanlar hariç tutularak uygulanır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Hapis cezasının ertelenmesi, koşullu salıverilme ve tekerrürle ilgili olanlar hariç; infaz rejimine ilişkin hükümler, derhal uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, işlendikten sonra yürürlüğe giren kanuna göre suç sayılmayan bir fiilden dolayı hükmolunmuş bir ceza veya güvenlik tedbiri bulunması halinde doğacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Cezanın infazı durur ancak kanuni neticeleri devam eder.",
+                "B": "Mahkeme kararı ile ceza, güvenlik tedbirine çevrilir.",
+                "C": "İnfazı ve kanuni neticeleri kendiliğinden kalkar.",
+                "D": "Failin lehine olan kanun belirlenerek yeniden yargılama yapılır.",
+                "E": "Cezanın infazına aynen devam edilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Böyle bir ceza veya güvenlik tedbiri hükmolunmuşsa infazı ve kanuni neticeleri kendiliğinden kalkar.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, infaz rejimine ilişkin hükümlerin derhal uygulanması kuralı, aşağıdaki hallerden hangisinde geçerli değildir?",
+            "secenekler": {
+                "A": "Koşullu salıverilme",
+                "B": "Adli para cezalarının tahsili",
+                "C": "Güvenlik tedbirlerinin infazı",
+                "D": "Müsadere hükümleri",
+                "E": "Geçici kanunların uygulanması"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen 'Hapis cezasının ertelenmesi, koşullu salıverilme ve tekerrürle ilgili olanlar hariç; infaz rejimine ilişkin hükümler, derhal uygulanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suçun işlendiği zaman yürürlükte bulunan kanun ile sonradan yürürlüğe giren kanunların hükümlerinin farklı olması durumunda uygulanacak temel ilke aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Suçun işlendiği tarihteki kanun hükümleri esas alınır ve uygulanır.",
+                "B": "Sonradan yürürlüğe giren kanun, her durumda önceki kanunun yerini alır.",
+                "C": "Failin lehine olan kanun uygulanır ve infaz olunur.",
+                "D": "Kanunların hangisinin uygulanacağına Cumhuriyet savcısı karar verir.",
+                "E": "İnfaz rejimine ilişkin hükümler dikkate alınarak en ağır cezayı öngören kanun uygulanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7/2'de belirtilen 'Suçun işlendiği zaman yürürlükte bulunan kanun ile sonradan yürürlüğe giren kanunların hükümleri farklı ise, failin lehine olan kanun uygulanır ve infaz olunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kanunların zaman bakımından uygulanması ile ilgili; \nI. Suçun işlendiği zaman yürürlükte bulunan kanun ile sonradan yürürlüğe giren kanunların hükümleri farklı ise, failin lehine olan kanun uygulanır.\nII. Geçici veya süreli kanunların, yürürlükte bulundukları süre içinde işlenmiş olan suçlar hakkında uygulanmasına devam edilir.\nIII. İnfaz rejimine ilişkin hükümler, hapis cezasının ertelenmesi ve koşullu salıverilme dahil olmak üzere istisnasız derhal uygulanır.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 7'de belirtilen lehe kanun uygulaması ve geçici kanunların devamlılığı hükümlerine dayanmaktadır. III. öncül yanlıştır çünkü aynı maddede 'Hapis cezasının ertelenmesi, koşullu salıverilme ve tekerrürle ilgili olanlar hariç' ifadesiyle istisnalar belirtilmiştir."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir suçun Türkiye'de işlenmiş sayılması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Suçun Türkiye'de işlenmiş sayılması için fiilin tamamen Türkiye sınırları içerisinde tamamlanmış olması şarttır.",
+                "B": "Fiilin Türkiye'de işlenmemiş olmasına rağmen neticenin Türkiye'de gerçekleşmesi halinde suç Türkiye'de işlenmiş sayılır.",
+                "C": "Türkiye'de işlenen suçlar hakkında, failin sadece Türk vatandaşı olması durumunda Türk kanunları uygulanır.",
+                "D": "Fiilin kısmen Türkiye'de işlenmesi, suçun Türkiye'de işlenmiş sayılması için tek başına yeterli bir sebep değildir.",
+                "E": "Suçun Türkiye'de işlenmiş sayılabilmesi için hem hareketin hem de sonucun Türkiye kara sahasında gerçekleşmesi gerekir.",
+                "dogru_cevap": "B"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen 'Fiilin kısmen veya tamamen Türkiye'de işlenmesi veya neticenin Türkiye'de gerçekleşmesi halinde suç, Türkiye'de işlenmiş sayılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suçun Türkiye'de işlenmiş sayılacağı haller arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Türk karasularında işlenen suçlar",
+                "B": "Açık denizde Türk deniz araçlarında işlenen suçlar",
+                "C": "Türkiye'nin kıt'a sahanlığında tesis edilmiş sabit platformlarda işlenen suçlar",
+                "D": "Türk hava savaş araçlarıyla işlenen suçlar",
+                "E": "Yabancı bir ülkenin hava sahasındaki yabancı sivil hava araçlarında işlenen suçlar"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 8'de sayılan yerler ve araçlar arasında yabancı ülke hava sahasındaki yabancı araçların bulunmaması hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir suçun;\nI. Türk hava sahasında,\nII. Açık denizde Türk deniz araçlarında,\nIII. Türkiye'nin kıt'a sahanlığında tesis edilmiş sabit platformlarda\nişlenmesi hallerinden hangilerinde ilgili suç Türkiye'de işlenmiş sayılır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 8'de belirtilen Türk hava sahası, açık denizde Türk deniz araçları ve kıt'a sahanlığındaki sabit platformların tamamının Türkiye'de işlenmiş sayılacağı hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, Türkiye'de işlediği suçtan dolayı yabancı ülkede hakkında hüküm verilmiş olan kimse ile ilgili yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Yabancı mahkeme kararı Türkiye'de aynen infaz edilir.",
+                "B": "Yabancı ülkede verilen ceza Türkiye'deki cezadan mahsup edilerek dava düşer.",
+                "C": "Türkiye'de yeniden yargılanır.",
+                "D": "Yabancı ülkede hüküm verildiği için Türkiye'de kovuşturmaya yer olmadığına karar verilir.",
+                "E": "Sadece Adalet Bakanı'nın talebi üzerine yargılama yapılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Türkiye'de işlediği suçtan dolayı yabancı ülkede hakkında hüküm verilmiş olan kimse, Türkiye'de yeniden yargılanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, Türkiye'de işlediği bir suçtan dolayı yabancı bir ülkede hakkında hüküm verilmiş olan bir kişi ile ilgili yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Yabancı mahkemenin verdiği karar Türkiye'de aynen infaz edilir.",
+                "B": "Kişi hakkında Türkiye'de yeniden yargılama yapılır.",
+                "C": "Yabancı ülkede hüküm verildiği için Türkiye'deki dava düşer.",
+                "D": "Verilen ceza Türk kanunlarına uygunsa onanır, değilse bozulur.",
+                "E": "Kişi cezasını yabancı ülkede çektiyse Türkiye'de işlem yapılmaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Türkiye'de işlediği suçtan dolayı yabancı ülkede hakkında hüküm verilmiş olan kimse, Türkiye'de yeniden yargılanır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, yabancı ülkede hakkında hüküm verilmiş olan bir kimsenin, bu hüküm nedeniyle Türkiye'de yeniden yargılanabilmesi için aranan temel şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Suçun yabancı ülkede işlenmiş olması",
+                "B": "Failin Türk vatandaşı olması",
+                "C": "Suçun Türkiye'de işlenmiş olması",
+                "D": "Failin yabancı ülke vatandaşı olması",
+                "E": "Suçun bir kamu görevlisi tarafından işlenmiş olması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 9'da belirtilen 'Türkiye'de işlediği suçtan dolayı...' ifadesindeki suçun işlendiği yer şartına dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, yabancı ülkede Türkiye namına memuriyet veya görev üstlenmiş olup da bundan dolayı bir suç işleyen kimse hakkında uygulanacak yargılama usulü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Yabancı ülkede beraat etmişse Türkiye'de yargılanmaz.",
+                "B": "Yabancı ülkede hakkında mahkûmiyet hükmü verilmiş bulunsa bile Türkiye'de yeniden yargılanır.",
+                "C": "Sadece yabancı ülkede soruşturma açılmamışsa Türkiye'de yargılanır.",
+                "D": "Türkiye'de yargılanabilmesi için Adalet Bakanının izni gerekir.",
+                "E": "Yabancı ülkede verilen ceza Türkiye'deki cezadan mahsup edilir ve yeniden yargılama yapılmaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'bu fiile ilişkin olarak yabancı ülkede hakkında mahkûmiyet hükmü verilmiş bulunsa bile, Türkiye'de yeniden yargılanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, yabancı ülkede Türkiye namına görev üstlenen bir kimsenin işlediği suçla ilgili olarak; \nI. Suçun, üstlenilen memuriyet veya görevden dolayı işlenmiş olması gerekir.\nII. Yabancı ülkede mahkûmiyet hükmü verilmiş olması, Türkiye'de yargılama yapılmasına engel değildir.\nIII. Yeniden yargılama yapılabilmesi için suçun Türkiye sınırları içinde işlenmiş olması şarttır.\nifadelerinden hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 10'da belirtilen 'bundan dolayı bir suç işleyen' (I) ve 'mahkûmiyet hükmü verilmiş bulunsa bile, Türkiye'de yeniden yargılanır' (II) hükümlerine dayanmaktadır. III. öncül yanlıştır çünkü metin 'yabancı ülkede' işlenen suçları düzenlemektedir."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir Türk vatandaşının yabancı ülkede işlediği suçun aşağı sınırının bir yıldan az hapis cezasını gerektirmesi durumunda, yapılacak şikayetin vatandaşın Türkiye'ye girdiği tarihten itibaren en geç ne kadar süre içinde yapılması gerekir?",
+            "secenekler": {
+                "A": "Üç ay",
+                "B": "Altı ay",
+                "C": "Bir yıl",
+                "D": "İki yıl",
+                "E": "Beş yıl"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 11'in 2. fıkrasında belirtilen 'şikayet, vatandaşın Türkiye'ye girdiği tarihten itibaren altı ay içinde yapılmalıdır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir Türk vatandaşının yabancı ülkede işlediği (13. madde dışındaki) bir suçtan dolayı Türk kanunlarına göre cezalandırılabilmesi için aşağıdaki şartlardan hangilerinin birlikte gerçekleşmesi gerekir?\n\nI. Failin Türkiye'de bulunması\nII. Suçtan dolayı yabancı ülkede hüküm verilmemiş olması\nIII. Suçun aşağı sınırının bir yıldan az olması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 11'in 1. fıkrasında belirtilen '...kendisi Türkiye'de bulunduğu takdirde, bu suçtan dolayı yabancı ülkede hüküm verilmemiş olması... koşulu ile Türk kanunlarına göre cezalandırılır.' hükmüne dayanmaktadır. III. öncül bir şart değil, ceza miktarına göre usulü değiştiren bir durumdur; asıl kural 'bir yıldan az olmayan' cezalar içindir."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, mağdurun yabancı olduğu durumlarda, bir yabancının yabancı ülkede işlediği suçtan dolayı Türkiye'de yargılanabilmesi için; \nI. Suçun Türk kanunlarına göre aşağı sınırının en az üç yıl hapis cezasını gerektirmesi,\nII. Yargılama yapılmasının suçtan zarar görenin şikâyetine bağlı olması,\nIII. Suçluların geri verilmesi anlaşmasının bulunmaması veya geri verilme isteminin kabul edilmemiş olması,\nşartlarından hangilerinin birlikte gerçekleşmesi aranır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'Suçun, Türk kanunlarına göre aşağı sınırı üç yıldan az olmayan hapis cezasını gerektirmesi' ve 'Suçluların geri verilmesi anlaşmasının bulunmaması veya geri verilme isteminin... kabul edilmemiş olması' hükümlerine dayanmaktadır. Şikâyet şartı bu fıkrada yer almamaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir yabancının yabancı ülkede Türkiye'nin zararına işlediği ve Türk kanunlarına göre aşağı sınırı en az bir yıl hapis cezasını gerektiren bir suçla ilgili yargılama koşulları hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Fail Türkiye'de bulunuyorsa Türk kanunlarına göre cezalandırılır.",
+                "B": "Yargılama yapılması kural olarak Adalet Bakanının istemine bağlıdır.",
+                "C": "Suç rüşvet veya nüfuz ticareti ise yargılama için Adalet Bakanının istemi aranmaz.",
+                "D": "Yabancı mahkemece mahkûm edilen fail hakkında, Adalet Bakanının istemi üzerine Türkiye'de yeniden yargılama yapılır.",
+                "E": "Bu kapsamdaki suçlardan dolayı yabancı ülkede beraat kararı verilmişse, Türkiye'de hiçbir koşulda yeniden yargılama yapılamaz."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 12'de belirtilen 'yabancı mahkemece mahkûm edilen veya... beraat eden... yabancı hakkında Adalet Bakanının istemi üzerine Türkiye'de yeniden yargılama yapılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, yabancı bir ülkede işlenen suçta mağdurun yabancı olması durumunda, failin Adalet Bakanının istemi ile Türkiye'de yargılanabilmesi için suçun Türk kanunlarına göre gerektirdiği hapis cezasının aşağı sınırı en az ne kadar olmalıdır?",
+            "secenekler": {
+                "A": "Altı ay",
+                "B": "Bir yıl",
+                "C": "İki yıl",
+                "D": "Üç yıl",
+                "E": "Beş yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 12'nin 3. fıkrasının (a) bendinde belirtilen 'Suçun, Türk kanunlarına göre aşağı sınırı üç yıldan az olmayan hapis cezasını gerektirmesi' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir yabancının yabancı ülkede Türkiye'nin zararına işlediği suçlardan dolayı yargılama yapılması kural olarak Adalet Bakanının istemine bağlıyken, Kanun'da açıkça belirtilen hangi suçlar için bu istem şartı aranmaz?",
+            "secenekler": {
+                "A": "İşkence ve eziyet",
+                "B": "Rüşvet ve nüfuz ticareti",
+                "C": "Uyuşturucu madde ticareti ve kullanımı",
+                "D": "Parada ve mühürde sahtecilik",
+                "E": "Deniz ve demiryolu araçlarının kaçırılması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 12'nin 5. fıkrasında belirtilen 'rüşvet ve nüfuz ticareti suçlarından dolayı yargılama yapılması Adalet Bakanının istemine bağlı değildir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir yabancının yabancı ülkede bir başka yabancıya karşı işlediği suçtan dolayı Türkiye'de yargılanabilmesi için gerekli olan koşullardan biri aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Suçun, Türk kanunlarına göre aşağı sınırı üç yıldan az olmayan hapis cezasını gerektirmesi.",
+                "B": "Suçun, Türk kanunlarına göre aşağı sınırı bir yıldan az olmayan hapis cezasını gerektirmesi.",
+                "C": "Failin, suçun işlendiği ülkenin vatandaşı olması.",
+                "D": "Yargılama yapılmasının Dışişleri Bakanının talebine bağlı olması.",
+                "E": "Suçluların geri verilmesi anlaşmasının bulunması ve iade talebinin kabul edilmiş olması."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 12'nin 3. fıkrasının (a) bendinde belirtilen 'Suçun, Türk kanunlarına göre aşağı sınırı üç yıldan az olmayan hapis cezasını gerektirmesi.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, vatandaş veya yabancı tarafından yabancı ülkede işlenmesi halinde Türk kanunlarının uygulanacağı suçlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "İşkence",
+                "B": "Çevrenin kasten kirletilmesi",
+                "C": "Fuhuş",
+                "D": "Hırsızlık",
+                "E": "Parada sahtecilik"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 13'ün 1. fıkrasında sayılan suçlar listesinde 'Hırsızlık' suçunun yer almaması hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kanunda atıf yapılan belirli hallerde yabancı ülkede vatandaş veya yabancı tarafından işlenen suçlarda soruşturma veya kovuşturma açılmamasının şartı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Suçun şikayete bağlı olması ve şikayet süresinin dolması.",
+                "B": "Failin suç tarihinde on sekiz yaşını doldurmamış olması.",
+                "C": "Soruşturma konusu suçun yer aldığı kanun maddesinde hapis cezası ile adli para cezasından birinin uygulanmasının seçimlik sayılması.",
+                "D": "Suçun işlendiği yerin belirsiz olması.",
+                "E": "Failin kamu görevlisi olması ve disiplin cezası almış olması."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 14'te belirtilen 'hapis cezası ile adli para cezasından birinin uygulanması seçimlik sayılmış ise soruşturma veya kovuşturma açılmaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, miktarının soruşturma koşulu oluşturduğu hallerde ceza hesaplanırken kanuni ağırlaştırıcı ve hafifletici nedenler bakımından esas alınacak ölçüt aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Kanuni ağırlaştırıcı nedenlerin yukarı sınırı ve kanuni hafifletici nedenlerin aşağı sınırı",
+                "B": "Kanuni ağırlaştırıcı nedenlerin aşağı sınırı ve kanuni hafifletici nedenlerin yukarı sınırı",
+                "C": "Her iki durumda da kanunda belirtilen yukarı sınırlar",
+                "D": "Her iki durumda da kanunda belirtilen aşağı sınırlar",
+                "E": "Kanuni ağırlaştırıcı nedenlerin ortalaması ve kanuni hafifletici nedenlerin alt sınırı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 15'te belirtilen 'kanuni ağırlaştırıcı nedenlerin aşağı sınırı ve kanuni hafifletici nedenlerin yukarı sınırı göz önünde bulundurularak hesaplanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, nerede işlenmiş olursa olsun bir suçtan dolayı yabancı ülkede geçirilen sürelerin mahsubu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Yabancı ülkede sadece hükümlülükte geçen süreler Türkiye'deki cezadan mahsup edilir, tutukluluk süreleri dikkate alınmaz.",
+                "B": "Mahsup işleminin yapılabilmesi için suçun mutlaka Türkiye sınırları içerisinde işlenmiş olması gerekir.",
+                "C": "Yabancı ülkede gözaltında, gözlem altında, tutuklulukta veya hükümlülükte geçen süre, aynı suçtan dolayı Türkiye'de verilecek cezadan mahsup edilir.",
+                "D": "Farklı bir suçtan dolayı yabancı ülkede geçirilen tutukluluk süresi, Türkiye'de işlenen başka bir suçun cezasından mahsup edilebilir.",
+                "E": "Yabancı ülkede geçen sürelerin mahsup edilebilmesi için sanığın Türk vatandaşı olması zorunludur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 16'da belirtilen 'Nerede işlenmiş olursa olsun bir suçtan dolayı, yabancı ülkede gözaltında, gözlem altında, tutuklulukta veya hükümlülükte geçen süre, aynı suçtan dolayı Türkiye'de verilecek cezadan mahsup edilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, yabancı mahkemelerden verilen ve Türk hukuk düzenine aykırı düşmeyen hükmün, Türk kanunlarına göre bir haktan yoksunluğu gerektirmesi halinde, Türk kanunlarındaki sonuçlarının geçerli olmasına karar verilmesi için mahkemeye istemde bulunma yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Adalet Bakanı",
+                "B": "Cumhuriyet savcısı",
+                "C": "Dışişleri Bakanlığı",
+                "D": "İlgili kolluk birimi amiri",
+                "E": "Hükümlünün kendisi veya vekili"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 17'de belirtilen 'Cumhuriyet savcısının istemi üzerine' ifadesine dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, Türkiye'nin egemenlik alanı dışında işlenen suçlar dolayısıyla Türkiye'de yargılama yapılırken, Türk kanununa göre verilecek olan cezanın suçun işlendiği ülke kanununda öngörülen cezanın üst sınırından fazla olamayacağı kuralı, aşağıdaki durumlardan hangisinde uygulanmaz?",
+            "secenekler": {
+                "A": "Suçun yabancı bir devletin güvenliğine karşı işlenmesi durumunda",
+                "B": "Suçun yabancı bir vatandaşa karşı işlenmesi durumunda",
+                "C": "Suçun Türk kanunlarına göre kurulmuş özel hukuk tüzel kişisi zararına olarak işlenmesi durumunda",
+                "D": "Suçun failinin yabancı olması durumunda",
+                "E": "Suçun taksirle işlenen bir suç olması durumunda"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 19'da belirtilen istisnalar arasında yer alan 'Türk kanunlarına göre kurulmuş özel hukuk tüzel kişisi zararına olarak' işlenmesi durumunda üst sınır kuralının uygulanmayacağı hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, tüzel kişiler hakkında uygulanacak yaptırımlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Tüzel kişiler hakkında hapis cezası uygulanabilir.",
+                "B": "Tüzel kişiler hakkında adli para cezası uygulanabilir.",
+                "C": "Tüzel kişiler hakkında ceza yaptırımı uygulanamaz; ancak güvenlik tedbiri niteliğindeki yaptırımlar saklıdır.",
+                "D": "Tüzel kişilerin ceza sorumluluğu yöneticilerinin sorumluluğu ile sınırlıdır.",
+                "E": "Tüzel kişiler hakkında sadece idari para cezası uygulanabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Tüzel kişiler hakkında ceza yaptırımı uygulanamaz. Ancak, suç dolayısıyla kanunda öngörülen güvenlik tedbiri niteliğindeki yaptırımlar saklıdır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ceza sorumluluğunun esasları ile ilgili;\nI. Ceza sorumluluğu şahsidir.\nII. Kimse başkasının fiilinden dolayı sorumlu tutulamaz.\nIII. Tüzel kişiler hakkında ceza yaptırımı uygulanabilir.\nifadelerinden hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 20'de belirtilen 'Ceza sorumluluğu şahsidir. Kimse başkasının fiilinden dolayı sorumlu tutulamaz.' ve 'Tüzel kişiler hakkında ceza yaptırımı uygulanamaz.' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kişinin suçun kanuni tanımındaki unsurların gerçekleşebileceğini öngörmesine rağmen fiili işlemesi (olası kast) halinde, ağırlaştırılmış müebbet ve müebbet hapis cezasını gerektiren suçlar dışındaki diğer suçlarda temel cezada yapılacak indirim oranı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dörtte birden yarısına kadar",
+                "B": "Üçte birden yarısına kadar",
+                "C": "Yarısından üçte ikisine kadar",
+                "D": "Altıda birden üçte bire kadar",
+                "E": "Beşte birden üçte bire kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'diğer suçlarda ise temel ceza üçte birden yarısına kadar indirilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kast ve olası kast kavramları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Suçun oluşması için kastın varlığı zorunlu değildir.",
+                "B": "Kast, kişinin suçun kanuni tanımındaki unsurların gerçekleşebileceğini öngöremeyerek fiili işlemesidir.",
+                "C": "Olası kast, suçun kanuni tanımındaki unsurların bilerek ve istenerek gerçekleştirilmesidir.",
+                "D": "Kişinin, suçun kanuni tanımındaki unsurların gerçekleşebileceğini öngörmesine rağmen fiili işlemesi halinde olası kast vardır.",
+                "E": "Olası kast halinde, ağırlaştırılmış müebbet hapis cezasını gerektiren suçlarda ceza verilmesine yer olmadığına karar verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 21'in 2. fıkrasında belirtilen 'Kişinin, suçun kanuni tanımındaki unsurların gerçekleşebileceğini öngörmesine rağmen, fiili işlemesi halinde olası kast vardır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, müebbet hapis cezasını gerektiren bir suçun olası kastla işlenmesi halinde ortaya çıkan hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Ağırlaştırılmış müebbet hapis cezasına hükmolunur.",
+                "B": "Yirmi yıldan yirmibeş yıla kadar hapis cezasına hükmolunur.",
+                "C": "Temel ceza üçte birden yarısına kadar indirilir.",
+                "D": "Müebbet hapis cezası aynen uygulanır, indirim yapılmaz.",
+                "E": "On beş yıldan yirmi yıla kadar hapis cezasına hükmolunur."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 21'in 2. fıkrasında belirtilen '...müebbet hapis cezasını gerektiren suçlarda yirmi yıldan yirmibeş yıla kadar hapis cezasına hükmolunur...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, 'Kast, suçun kanuni tanımındaki unsurların ... gerçekleştirilmesidir.' cümlesinde boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+            "secenekler": {
+                "A": "öngörülmeyerek",
+                "B": "bilerek ve istenerek",
+                "C": "öngörülmesine rağmen istenmeyerek",
+                "D": "dikkat ve özen yükümlülüğüne aykırı olarak",
+                "E": "tasarlayarak ve planlayarak"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Kast, suçun kanuni tanımındaki unsurların bilerek ve istenerek gerçekleştirilmesidir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kişinin suçun kanuni tanımındaki unsurların gerçekleşebileceğini öngörmesine rağmen fiili işlemesi hali, aşağıdaki kavramlardan hangisiyle ifade edilir?",
+            "secenekler": {
+                "A": "Doğrudan kast",
+                "B": "Bilinçli taksir",
+                "C": "Olası kast",
+                "D": "Basit taksir",
+                "E": "Neticesi sebebiyle ağırlaşmış suç"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 21'de belirtilen 'Kişinin, suçun kanuni tanımındaki unsurların gerçekleşebileceğini öngörmesine rağmen, fiili işlemesi halinde olası kast vardır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, taksirli hareket sonucu neden olunan neticenin münhasıran failin kişisel ve ailevi durumu bakımından mağdur olmasına yol açması durumu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu durumda fail hakkında her zaman cezanın tamamı uygulanır.",
+                "B": "Bilinçli taksir söz konusu ise ceza verilmez.",
+                "C": "Bilinçli taksir halinde verilecek ceza yarıdan altıda bire kadar indirilebilir.",
+                "D": "Basit taksir halinde ceza üçte birden yarısına kadar artırılır.",
+                "E": "Mağduriyet derecesine bakılmaksızın cezada indirim yapılır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen '...bilinçli taksir halinde verilecek ceza yarıdan altıda bire kadar indirilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kişinin öngördüğü neticeyi istememesine karşın, neticenin meydana gelmesi halinde bilinçli taksirin varlığı kabul edilmektedir. Bu durumda taksirli suça ilişkin cezada yapılacak artırım oranı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dörtte birden yarısına kadar",
+                "B": "Üçte birden yarısına kadar",
+                "C": "Yarısından bir katına kadar",
+                "D": "Altıda birden üçte bire kadar",
+                "E": "Beşte birden üçte bire kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 22'de belirtilen 'bu halde taksirli suça ilişkin ceza üçte birden yarısına kadar artırılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kastedilenden daha ağır veya başka bir neticenin oluşması durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kişi, meydana gelen ağır neticeden her koşulda kusursuz olarak sorumlu tutulur.",
+                "B": "Kişinin sorumlu tutulabilmesi için netice bakımından en azından taksirle hareket etmesi şarttır.",
+                "C": "Kişi sadece kastettiği neticeden sorumlu olur, oluşan başka neticeden sorumlu tutulamaz.",
+                "D": "Kişinin sorumlu tutulabilmesi için netice bakımından mutlaka kastla hareket etmesi zorunludur.",
+                "E": "Kişinin sorumluluğu için fiilin teşebbüs aşamasında kalmış olması gerekir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 23'te belirtilen 'kişinin bundan dolayı sorumlu tutulabilmesi için bu netice bakımından en azından taksirle hareket etmesi gerekir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, konusu suç teşkil eden bir emrin yerine getirilmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Emir yetkili bir merciden verilmişse, yerine getiren sorumlu tutulamaz.",
+                "B": "Emir görev gereği zorunlu ise, konusu suç olsa dahi yerine getirilmelidir.",
+                "C": "Konusu suç teşkil eden emir hiçbir surette yerine getirilemez; aksi takdirde yerine getiren ile emri veren sorumlu olur.",
+                "D": "Emrin hukuka uygunluğunun denetlenmesi kanunla engellenmişse, yerine getiren sorumlu olur.",
+                "E": "Konusu suç teşkil eden emri yerine getiren kişi, sadece idari yaptırımla karşılaşır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 24'te belirtilen '(3) Konusu suç teşkil eden emir hiçbir surette yerine getirilemez. Aksi takdirde yerine getiren ile emri veren sorumlu olur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ağır ve muhakkak bir tehlikeden kurtulmak veya başkasını kurtarmak zorunluluğu ile işlenen fiillerden dolayı faile ceza verilmemesi için aranan koşullardan biri değildir?",
+            "secenekler": {
+                "A": "Tehlikenin bilerek neden olunmamış bir tehlike olması",
+                "B": "Tehlikeden başka suretle korunmak olanağının bulunmaması",
+                "C": "Tehlikenin sadece kişinin kendisine ait bir hakka yönelik olması",
+                "D": "Tehlikenin ağırlığı ile konu ve kullanılan vasıta arasında orantı bulunması",
+                "E": "Tehlikenin ağır ve muhakkak olması"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen '(2) Gerek kendisine gerek başkasına ait bir hakka yönelik olup...' ifadesi gereği, tehlikenin sadece kişiye değil başkasına ait bir hakka yönelik de olabileceği hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, meşru savunma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Saldırının, kendisine veya başkasına ait bir hakka yönelmiş olması mümkündür.",
+                "B": "Saldırının gerçekleşen, gerçekleşmesi veya tekrarı muhakkak olan haksız bir saldırı olması gerekir.",
+                "C": "Savunma, o anda hal ve koşullara göre saldırı ile orantılı biçimde yapılmalıdır.",
+                "D": "Fiil, saldırıyı defetmek zorunluluğu ile işlenmelidir.",
+                "E": "Saldırıya uğrayan kişinin, tehlikeye bilerek neden olmamış olması şarttır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 25'te belirtilen hükümlere dayanmaktadır. 'Bilerek neden olmama' şartı meşru savunma (fıkra 1) için değil, zorunluluk hali (fıkra 2) için öngörülmüştür."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir kimsenin kendisine veya başkasına ait bir hakka yönelmiş haksız bir saldırıyı defetmek amacıyla işlediği fiillerden dolayı ceza almaması (meşru savunma) için aşağıdaki koşullardan hangisinin varlığı aranmaz?",
+            "secenekler": {
+                "A": "Saldırının gerçekleşmiş, gerçekleşmesi veya tekrarı muhakkak olması",
+                "B": "Savunmanın, o anda hal ve koşullara göre saldırı ile orantılı biçimde yapılması",
+                "C": "Saldırının haksız bir nitelik taşıması",
+                "D": "Saldırının sadece kişinin kendisine ait bir hakka yönelmiş olması",
+                "E": "Saldırıyı defetmek zorunluluğu ile hareket edilmesi"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 25(1)'de belirtilen 'Gerek kendisine ve gerek başkasına ait bir hakka yönelmiş...' ifadesi gereği, saldırının başkasına ait bir hakka yönelmesi durumunda da meşru savunmanın geçerli olması hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ilgilinin rızası çerçevesinde işlenen fiilden dolayı kimseye ceza verilmemesi için, rızanın konusu olan hakka ilişkin aranan temel nitelik aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Hakkın, kişinin üzerinde mutlak surette tasarruf edebileceği bir hak olması",
+                "B": "Hakkın, kamu düzenini ilgilendirmeyen bir hak olması",
+                "C": "Hakkın, sadece malvarlığına ilişkin bir hak olması",
+                "D": "Hakkın, devredilemez nitelikte bir kişilik hakkı olması",
+                "E": "Hakkın, mahkeme kararıyla tescil edilmiş bir hak olması"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen '(2) Kişinin üzerinde mutlak surette tasarruf edebileceği bir hakkına ilişkin olmak üzere...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ilgilinin rızası çerçevesinde işlenen bir fiilden dolayı kimseye ceza verilmemesi için;\n\nI. Kişinin üzerinde mutlak surette tasarruf edebileceği bir hakka ilişkin olması,\nII. Rızanın noter huzurunda veya yazılı olarak beyan edilmiş olması,\nIII. Fiilin açıklanan rıza çerçevesinde işlenmesi,\n\nşartlarından hangisinin veya hangilerinin gerçekleşmesi zorunludur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'Kişinin üzerinde mutlak surette tasarruf edebileceği bir hakkına ilişkin olmak üzere, açıkladığı rızası çerçevesinde işlenen fiilden dolayı kimseye ceza verilmez.' hükmüne dayanmaktadır. Kanunda rızanın şekli (noter/yazılı) hakkında bir şart bulunmamaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ilgilinin rızası hükmünün uygulanabilmesi ve bu kapsamda ceza verilmemesi için aranan şartlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kişinin rızası, üzerinde mutlak surette tasarruf edebileceği bir hakka ilişkin olmalıdır.",
+                "B": "Fiil, kişinin açıkladığı rızası çerçevesinde işlenmelidir.",
+                "C": "Kişinin üzerinde tasarruf edemeyeceği haklara ilişkin rızası ceza sorumluluğunu kaldırmaz.",
+                "D": "Rızanın geçerli olabilmesi için mutlaka açıklanmış olması gerekir.",
+                "E": "Kişinin rızası bulunsa dahi, hakkın konusu ne olursa olsun fiili işleyen kişiye ceza verilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen 'Kişinin üzerinde mutlak surette tasarruf edebileceği bir hakkına ilişkin olmak üzere, açıkladığı rızası çerçevesinde işlenen fiilden dolayı kimseye ceza verilmez.' hükmüne dayanmaktadır. E şıkkı bu hükmün tam tersini iddia etmektedir."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kişinin üzerinde mutlak surette tasarruf edebileceği bir hakkına ilişkin olmak üzere, açıkladığı rızası çerçevesinde işlenen fiilin hukuki sonucu aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Fiili işleyen kimseye ceza verilmez.",
+                "B": "Fiili işleyen kimsenin cezası yarı oranında indirilir.",
+                "C": "Fiil şikâyete bağlı suç kapsamında değerlendirilir.",
+                "D": "Fiili işleyen hakkında sadece güvenlik tedbiri uygulanır.",
+                "E": "Rıza, fiilin hukuka aykırılığını ortadan kaldırmaz ancak hafifletici neden sayılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 26'da belirtilen '...açıkladığı rızası çerçevesinde işlenen fiilden dolayı kimseye ceza verilmez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ceza sorumluluğunu kaldıran nedenlerde sınırın kast olmaksızın aşılması halinde, fiil taksirle işlendiğinde de cezalandırılıyorsa taksirli suç için kanunda yazılı cezada uygulanacak indirim oranı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Dörtte birinden yarısına kadar",
+                "B": "Yarısından üçte ikisine kadar",
+                "C": "Beşte birinden dörtte birine kadar",
+                "D": "Üçte birinden yarısına kadar",
+                "E": "Altıda birinden üçte birine kadar"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen '(1) ...taksirli suç için kanunda yazılı cezanın altıda birinden üçte birine kadarı indirilerek hükmolunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, meşru savunmada sınırın aşılması mazur görülebilecek bir heyecan, korku veya telaştan ileri gelmiş ise uygulanacak hukuki sonuç aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Faile verilecek ceza yarı oranında indirilir.",
+                "B": "Faile ceza verilmez.",
+                "C": "Faile verilecek ceza altıda bir oranında indirilir.",
+                "D": "Fail hakkında sadece güvenlik tedbiri uygulanır.",
+                "E": "Failin cezası ertelenir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 27'de belirtilen 'Meşru savunmada sınırın aşılması mazur görülebilecek bir heyecan, korku veya telaştan ileri gelmiş ise faile ceza verilmez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, karşı koyamayacağı veya kurtulamayacağı cebir ve şiddet veya muhakkak ve ağır bir korkutma veya tehdit sonucu suç işleyen kimsenin sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Suçu işleyen kimseye ceza verilmez; cebir ve şiddet, korkutma ve tehdidi kullanan kişi suçun faili sayılır.",
+                "B": "Suçu işleyen kimsenin cezası yarı oranında indirilir; tehdidi kullanan kişi azmettiren sayılır.",
+                "C": "Suçu işleyen kimse taksirle sorumlu tutulur; tehdidi kullanan kişi asli fail sayılır.",
+                "D": "Her iki taraf da suçun müşterek faili olarak cezalandırılır.",
+                "E": "Suçu işleyen kimseye ceza verilmez ancak hakkında güvenlik tedbiri uygulanır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen '...suç işleyen kimseye ceza verilmez. Bu gibi hallerde cebir ve şiddet, korkutma ve tehdidi kullanan kişi suçun faili sayılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir kimsenin korkutma veya tehdit sonucu suç işlemesi hâlinde kendisine ceza verilmemesi için, maruz kalınan korkutma veya tehdidin kanunda belirtilen niteliği aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Öngörülemez ve ani olması",
+                "B": "Sürekli ve sistematik olması",
+                "C": "Maddi ve fiziksel olması",
+                "D": "Muhakkak ve ağır olması",
+                "E": "Yazılı ve ispatlanabilir olması"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 28'de belirtilen 'muhakkak ve ağır bir korkutma veya tehdit' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, haksız bir fiilin meydana getirdiği hiddet veya şiddetli elemin etkisi altında suç işleyen kimseye, ağırlaştırılmış müebbet hapis cezası yerine verilecek ceza miktarı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Oniki yıldan onsekiz yıla kadar hapis cezası",
+                "B": "Onbeş yıldan yirmi yıla kadar hapis cezası",
+                "C": "Onsekiz yıldan yirmidört yıla kadar hapis cezası",
+                "D": "Yirmi yıldan yirmibeş yıla kadar hapis cezası",
+                "E": "Yirmidört yıldan otuz yıla kadar hapis cezası"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen '...ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla... kadar hapis cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, haksız tahrik altında işlenen suçlarda uygulanacak indirim oranları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ağırlaştırılmış müebbet hapis cezası yerine süreli hapis cezası verilir.",
+                "B": "Müebbet hapis cezası yerine on iki yıldan on sekiz yıla kadar hapis cezası verilir.",
+                "C": "Süreli hapis cezası gerektiren hallerde cezanın yarısından tamamına kadarı indirilir.",
+                "D": "Ağırlaştırılmış müebbet ve müebbet hapis dışındaki hallerde cezanın dörtte birinden dörtte üçüne kadarı indirilir.",
+                "E": "Haksız fiilin meydana getirdiği hiddet veya şiddetli elemin etkisi altında işlenen suçlarda ceza indirimi uygulanır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 29'da belirtilen 'Diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir.' hükmüne dayanmaktadır; metinde 'yarısından tamamına kadar' ifadesi yer almamaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, fiilin icrası sırasında suçun kanuni tanımındaki maddi unsurları bilmeyen bir kimse ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kasten hareket etmiş sayılır ancak cezası indirilir.",
+                "B": "Bu kişi hakkında sadece güvenlik tedbiri uygulanır.",
+                "C": "Kasten hareket etmiş olmaz; bu hata dolayısıyla taksirli sorumluluk hali saklıdır.",
+                "D": "Fiilin haksızlık oluşturduğu hususunda hataya düştüğü kabul edilir ve ceza verilmez.",
+                "E": "Suçun maddi unsurlarını bilmemesi ceza sorumluluğunu etkilemez."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 30/1'de belirtilen 'Fiilin icrası sırasında suçun kanuni tanımındaki maddi unsurları bilmeyen bir kimse, kasten hareket etmiş olmaz. Bu hata dolayısıyla taksirli sorumluluk hali saklıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hata halleri ile ilgili aşağıdaki ifadelerden hangileri doğrudur?\n\nI. Fiilin icrası sırasında suçun kanuni tanımındaki maddi unsurları bilmeyen bir kimse, kasten hareket etmiş olmaz.\nII. Bir suçun daha ağır cezayı gerektiren nitelikli hallerinin gerçekleştiği hususunda hataya düşen kişi, bu hatasından yararlanamaz.\nIII. İşlediği fiilin haksızlık oluşturduğu hususunda kaçınılmaz bir hataya düşen kişi, cezalandırılmaz.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 30'da belirtilen maddi unsurlarda hatada kastın bulunmadığı (I) ve haksızlık yanılgısında kaçınılmazlık varsa ceza verilmeyeceği (III) hükümlerine dayanmaktadır. II. öncül yanlıştır çünkü kanun 'bu hatasından yararlanır' demektedir."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, fiili işlediği sırada oniki yaşını doldurmuş olup da onbeş yaşını doldurmamış olan ve işlediği fiilin hukukî anlam ve sonuçlarını algılama yeteneği gelişmiş olan bir çocuk hakkında verilecek cezalarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Ağırlaştırılmış müebbet hapis cezası yerine onsekiz yıldan yirmidört yıla kadar hapis cezasına hükmolunur.",
+                "B": "Müebbet hapis cezası yerine dokuz yıldan onbir yıla kadar hapis cezasına hükmolunur.",
+                "C": "Diğer cezaların üçte biri indirilir.",
+                "D": "Her fiil için verilecek hapis cezası oniki yıldan fazla olamaz.",
+                "E": "Bu kişiler hakkında ceza kovuşturması yapılamaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'müebbet hapis cezasını gerektirdiği takdirde dokuz yıldan onbir yıla kadar hapis cezasına hükmolunur' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, fiili işlediği sırada onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olan kişiler hakkında, ağırlaştırılmış müebbet ve müebbet hapis cezası dışındaki diğer cezalar söz konusu olduğunda, her fiil için verilecek hapis cezası en fazla kaç yıl olabilir?",
+            "secenekler": {
+                "A": "Yedi yıl",
+                "B": "Dokuz yıl",
+                "C": "Oniki yıl",
+                "D": "Onbeş yıl",
+                "E": "Onsekiz yıl"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 31'in 3. fıkrasında belirtilen 'bu hâlde her fiil için verilecek hapis cezası oniki yıldan fazla olamaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, fiili işlediği sırada onaltı yaşında olan bir kişinin işlediği suçun, kanunda öngörülen cezasının ağırlaştırılmış müebbet hapis cezasını gerektirmesi durumunda, bu kişi hakkında hükmolunacak ceza aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Oniki yıldan onbeş yıla kadar hapis cezası",
+                "B": "Onsekiz yıldan yirmidört yıla kadar hapis cezası",
+                "C": "Yirmidört yıldan otuz yıla kadar hapis cezası",
+                "D": "Dokuz yıldan onbir yıla kadar hapis cezası",
+                "E": "Müebbet hapis cezası"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 31'de belirtilen 'Fiili işlediği sırada onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olan kişiler hakkında suç, ağırlaştırılmış müebbet hapis cezasını gerektirdiği takdirde onsekiz yıldan yirmidört yıla... kadar hapis cezasına hükmolunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, akıl hastalığı nedeniyle işlediği fiilin hukuki anlam ve sonuçlarını algılayamayan kişi hakkında yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Fiili işlediği sırada oniki yaşını doldurmamış çocuklara uygulanan hükümler uygulanır.",
+                "B": "Cezası altıda birden fazla olmamak üzere indirilir.",
+                "C": "Ağırlaştırılmış müebbet hapis cezası yerine yirmibeş yıl hapis cezası verilir.",
+                "D": "Ceza verilmez, ancak güvenlik tedbirine hükmolunur.",
+                "E": "Ceza sorumluluğu tam olduğundan normal ceza verilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen 'kişiye ceza verilmez. Ancak, bu kişiler hakkında güvenlik tedbirine hükmolunur' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, işlediği fiille ilgili olarak davranışlarını yönlendirme yeteneği azalmış olan kişiye verilecek cezalarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ağırlaştırılmış müebbet hapis cezası yerine yirmibeş yıl hapis cezası verilir.",
+                "B": "Müebbet hapis cezası yerine yirmi yıl hapis cezası verilir.",
+                "C": "Kişi hakkında ayrıca akıl hastalarına özgü güvenlik tedbirine hükmolunur.",
+                "D": "Diğer hallerde verilecek ceza, altıda birden fazla olmamak üzere indirilebilir.",
+                "E": "Bu kişiler hakkında ceza kovuşturması basit yargılama usulüne göre yapılır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 32'de belirtilen indirim oranları ve güvenlik tedbiri hükümleri saklı kalmak kaydıyla, bu kişiler hakkında ceza kovuşturmasının basit yargılama usulüne göre yapılacağına dair bir hüküm bulunmamaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, sağır ve dilsizler hakkında yaş gruplarına ilişkin hükümlerin uygulanmasıyla ilgili aşağıdaki eşleşmelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Onbeş yaşını doldurmamış olanlar hakkında, oniki yaşını doldurmamış çocuklara ilişkin hükümler uygulanır.",
+                "B": "Onbeş yaşını doldurmuş olanlar hakkında, oniki yaşını doldurmamış çocuklara ilişkin hükümler uygulanır.",
+                "C": "Onsekiz yaşını doldurmuş olanlar hakkında, oniki-onbeş yaş grubuna ilişkin hükümler uygulanır.",
+                "D": "Yirmibir yaşını doldurmuş olanlar hakkında, onbeş-onsekiz yaş grubuna ilişkin hükümler uygulanır.",
+                "E": "Sağır ve dilsizlerde yaş sınırı aranmaksızın ceza sorumluluğu yoktur."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'oniki yaşını doldurmamış olan çocuklara ilişkin hükümleri, onbeş yaşını doldurmamış olan sağır ve dilsizler hakkında... uygulanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, Kanun'un onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olan çocuklara ilişkin hükümleri, sağır ve dilsizler hakkında hangi yaş aralığında uygulanır?",
+            "secenekler": {
+                "A": "Onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olanlar",
+                "B": "Onsekiz yaşını doldurmuş olup da yirmibir yaşını doldurmamış olanlar",
+                "C": "Oniki yaşını doldurmuş olup da onbeş yaşını doldurmamış olanlar",
+                "D": "Yirmibir yaşını doldurmuş olup da yirmibeş yaşını doldurmamış olanlar",
+                "E": "Onsekiz yaşını doldurmuş olup da yirmibeş yaşını doldurmamış olanlar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 33'te belirtilen 'onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olanlara ilişkin hükümleri, onsekiz yaşını doldurmuş olup da yirmibir yaşını doldurmamış olan sağır ve dilsizler hakkında da uygulanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, geçici bir neden ya da alkol veya uyuşturucu madde etkisiyle işlenen fiillerde ceza sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "İradi olarak alınan alkol etkisinde suç işleyen kişi hakkında ceza verilmez.",
+                "B": "Geçici bir nedenle davranışlarını yönlendirme yeteneği azalan kişiye ceza indirimi yapılarak ceza verilir.",
+                "C": "İrade dışı alınan uyuşturucu madde etkisiyle, işlediği fiilin hukuki anlamını algılayamayan kişiye ceza verilmez.",
+                "D": "Alkol veya uyuşturucu madde etkisiyle işlenen suçlarda, maddenin alınış şekline bakılmaksızın fail cezalandırılır.",
+                "E": "Kişinin irade dışı aldığı alkol etkisiyle işlediği suçlarda, davranışlarını yönlendirme yeteneği azalmış olsa bile tam ceza verilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 34'te belirtilen 'irade dışı alınan alkol veya uyuşturucu madde etkisiyle, işlediği fiilin hukuki anlam ve sonuçlarını algılayamayan... kişiye ceza verilmez' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kişinin suça teşebbüsten dolayı sorumlu tutulabilmesi için gerçekleşmesi gereken şartlardan biri değildir?",
+            "secenekler": {
+                "A": "Kişi suçu işlemeyi kastetmiş olması",
+                "B": "Suçun icrasına elverişli hareketlerle başlanması",
+                "C": "İcra hareketlerine doğrudan doğruya başlanması",
+                "D": "Suçun failin elinde olmayan nedenlerle tamamlanamaması",
+                "E": "Suçun tamamlanmasının failin kendi iradesiyle engellenmiş olması"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen 'elinde olmayan nedenlerle tamamlayamaz ise' hükmüne dayanmaktadır; failin kendi iradesiyle tamamlamaması teşebbüs tanımı kapsamında değildir."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suça teşebbüs halinde, suçun kanundaki cezası ağırlaştırılmış müebbet hapis ise fail hakkında uygulanacak ceza aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Müebbet hapis cezası",
+                "B": "On yıldan onsekiz yıla kadar hapis cezası",
+                "C": "Ondört yıldan yirmibir yıla kadar hapis cezası",
+                "D": "Cezanın dörtte birinden dörtte üçüne kadarı indirilir",
+                "E": "Yirmi yıldan otuz yıla kadar hapis cezası"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen 'ağırlaştırılmış müebbet hapis cezası yerine ondört yıldan yirmibir yıla kadar... hapis cezası ile cezalandırılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir kişinin suça teşebbüsten dolayı sorumlu tutulabilmesi için;\n\nI. Kişinin bir suçu işlemeyi kastetmesi,\nII. Elverişli hareketlerle doğrudan doğruya icraya başlaması,\nIII. Suçun, failin elinde olmayan nedenlerle tamamlanamaması\n\ndurumlarından hangisinin veya hangilerinin gerçekleşmesi gerekir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 35'te belirtilen 'Kişi, işlemeyi kastettiği bir suçu elverişli hareketlerle doğrudan doğruya icraya başlayıp da elinde olmayan nedenlerle tamamlayamaz ise teşebbüsten dolayı sorumlu tutulur' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, failin suçun icra hareketlerinden gönüllü vazgeçmesi veya kendi çabalarıyla suçun tamamlanmasını önlemesi hâlinde uygulanacak yaptırım rejimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Fail, her durumda teşebbüs hükümlerine göre cezalandırılır.",
+                "B": "Fail hakkında hiçbir şekilde ceza kovuşturması yapılamaz.",
+                "C": "Fail teşebbüsten dolayı cezalandırılmaz; fakat tamam olan kısım esasen bir suç oluşturuyorsa sadece o suça ait ceza ile cezalandırılır.",
+                "D": "Failin cezası, gönüllü vazgeçme nedeniyle üçte bir oranında indirilir.",
+                "E": "Fail, ancak suçun neticesi gerçekleşirse cezalandırılır; aksi takdirde beraat eder."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 36'da belirtilen 'teşebbüsten dolayı cezalandırılmaz; fakat tamam olan kısım esasen bir suç oluşturduğu takdirde, sadece o suça ait ceza ile cezalandırılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kusur yeteneği olmayanları suçun işlenmesinde araç olarak kullanan kişinin cezası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Kişi azmettiren olarak sorumlu tutulur ve cezası artırılmaz.",
+                "B": "Kişinin cezası, üçte birden yarısına kadar artırılır.",
+                "C": "Kişinin cezası, yarı oranında indirilir.",
+                "D": "Kişi yardım eden olarak sorumlu tutulur ve cezası üçte bir oranında indirilir.",
+                "E": "Kişi hakkında ceza verilmesine yer olmadığına karar verilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 37'de belirtilen 'Kusur yeteneği olmayanları suçun işlenmesinde araç olarak kullanan kişinin cezası, üçte birden yarısına kadar artırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, azmettirenin belli olmaması halinde, kim olduğunun ortaya çıkmasını sağlayan fail veya diğer suç ortağı hakkında ağırlaştırılmış müebbet hapis cezası yerine verilecek ceza aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Müebbet hapis cezası",
+                "B": "Otuz yıl hapis cezası",
+                "C": "Yirmi yıldan yirmibeş yıla kadar hapis cezası",
+                "D": "Onbeş yıldan yirmi yıla kadar hapis cezası",
+                "E": "On yıldan onbeş yıla kadar hapis cezası"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen '...kim olduğunun ortaya çıkmasını sağlayan fail veya diğer suç ortağı hakkında ağırlaştırılmış müebbet hapis cezası yerine yirmi yıldan yirmibeş yıla kadar... hapis cezasına hükmolunabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suça azmettirme ve azmettiren kişinin cezai sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Başkasını suç işlemeye azmettiren kişi, işlenen suçun cezası ile cezalandırılır.",
+                "B": "Üstsoy ve altsoy ilişkisinden doğan nüfuz kullanılmak suretiyle suça azmettirme halinde ceza artırılır.",
+                "C": "Çocukların suça azmettirilmesi halinde, cezanın artırılabilmesi için mutlaka üstsoy ve altsoy ilişkisinin bulunması gerekir.",
+                "D": "Azmettirenin belli olmaması halinde, kim olduğunun ortaya çıkmasını sağlayan fail hakkında ceza indirimi uygulanabilir.",
+                "E": "Azmettirenin ortaya çıkmasını sağlayan suç ortağı hakkında, ağırlaştırılmış müebbet hapis cezası yerine süreli hapis cezasına hükmolunabilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen 'Çocukların suça azmettirilmesi halinde, bu fıkra hükmüne göre cezanın artırılabilmesi için üstsoy ve altsoy ilişkisinin varlığı aranmaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, azmettirenin belli olmaması halinde, kim olduğunun ortaya çıkmasını sağlayan fail veya diğer suç ortağı hakkında verilecek cezalarla ilgili;\n\nI. Ağırlaştırılmış müebbet hapis cezası yerine yirmi yıldan yirmibeş yıla kadar hapis cezasına hükmolunabilir.\nII. Müebbet hapis cezası yerine onbeş yıldan yirmi yıla kadar hapis cezasına hükmolunabilir.\nIII. Diğer hallerde verilecek cezada, yarısı oranında indirim yapılabilir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 38'de belirtilen hükümlere dayanmaktadır. I ve II numaralı öncüller kanun metniyle birebir örtüşmektedir. Ancak III. öncül yanlıştır; kanunda 'Diğer hallerde verilecek cezada, üçte bir oranında indirim yapılabilir' ifadesi yer almaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir kişinin işlenen suçtan dolayı 'yardım eden' sıfatıyla sorumlu tutulabileceği haller arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Suç işlemeye teşvik etmek.",
+                "B": "Suç işleme kararını kuvvetlendirmek.",
+                "C": "Fiilin işlenmesinden sonra yardımda bulunacağını vaat etmek.",
+                "D": "Suçun nasıl işleneceği hususunda yol göstermek.",
+                "E": "Faili suçun işlenmesi için aracı olarak kullanmak."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen yardım etme halleri arasında (teşvik, karar kuvvetlendirme, vaat, yol gösterme, araç sağlama, icrayı kolaylaştırma) yer almamaktadır. "
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, işlenen suçun ağırlaştırılmış müebbet hapis cezasını gerektirmesi halinde, suçun işlenmesine yardım eden kişiye verilecek hapis cezası aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "On yıldan onbeş yıla kadar",
+                "B": "Onbeş yıldan yirmi yıla kadar",
+                "C": "Yirmi yıldan yirmibeş yıla kadar",
+                "D": "Sekiz yıla kadar",
+                "E": "Cezanın yarısı kadar"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 39'da belirtilen 'işlenen suçun ağırlaştırılmış müebbet hapis cezasını gerektirmesi halinde, onbeş yıldan yirmi yıla... kadar hapis cezası verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suça iştirak ile ilgili; \nI. Suça iştirak için kasten ve hukuka aykırı işlenmiş bir fiilin varlığı yeterlidir.\nII. Özgü suçlarda, özel faillik niteliğini taşımayan kişiler de fail olabilir.\nIII. Suça iştirakten dolayı sorumlu tutulabilmek için ilgili suçun en azından teşebbüs aşamasına varmış olması gerekir.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Suça iştirak için kasten ve hukuka aykırı işlenmiş bir fiilin varlığı yeterlidir.' ve 'ilgili suçun en azından teşebbüs aşamasına varmış olması gerekir.' hükümlerine dayanmaktadır. II. öncül yanlıştır çünkü özgü suçlarda ancak özel faillik niteliğini taşıyan kişi fail olabilir."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, özgü suçlarda özel faillik niteliğini taşımayan ancak suçun işlenişine iştirak eden kişilerin sorumluluk statüsü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Müşterek fail",
+                "B": "Dolaylı fail",
+                "C": "Sadece yardım eden",
+                "D": "Azmettiren veya yardım eden",
+                "E": "Suçu bildirmeyen"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 40'ta belirtilen 'Bu suçların işlenişine iştirak eden diğer kişiler ise azmettiren veya yardım eden olarak sorumlu tutulur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, iştirak halinde işlenen suçlarda gönüllü vazgeçme kurumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Suç ortaklarından biri gönüllü vazgeçtiğinde, bu durumdan diğer suç ortakları da yararlanır.",
+                "B": "Gönüllü vazgeçenin bütün gayretine rağmen suç işlenmişse, gönüllü vazgeçme hükümleri uygulanmaz.",
+                "C": "Suçun, gönüllü vazgeçenin gayreti dışında başka bir sebeple işlenmemiş olması halinde de gönüllü vazgeçme hükümleri uygulanır.",
+                "D": "İştirak halinde işlenen suçlarda gönüllü vazgeçme hükümleri uygulanamaz.",
+                "E": "Gönüllü vazgeçme hükümlerinin uygulanabilmesi için suçun mutlaka işlenmemiş olması şarttır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 41'in 2. fıkrasının (a) bendinde belirtilen 'Gönüllü vazgeçenin gösterdiği gayreti dışında başka bir sebeple işlenmemiş olması... Hallerinde de gönüllü vazgeçme hükümleri uygulanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, iştirak halinde işlenen suçlarda;\nI. Gönüllü vazgeçenin gösterdiği gayreti dışında başka bir sebeple suçun işlenmemiş olması,\nII. Gönüllü vazgeçenin bütün gayretine rağmen suçun işlenmiş olması,\nIII. Suçun işlenmesinden sonra failin pişmanlık göstererek teslim olması,\ndurumlarından hangisinde veya hangilerinde gönüllü vazgeçme hükümleri uygulanır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 41'in 2. fıkrasında belirtilen 'Gönüllü vazgeçenin gösterdiği gayreti dışında başka bir sebeple işlenmemiş olması' ve 'Gönüllü vazgeçenin bütün gayretine rağmen işlenmiş olması' hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, biri diğerinin unsurunu veya ağırlaştırıcı nedenini oluşturması dolayısıyla tek fiil sayılan bileşik suç ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu tür suçlarda içtima hükümleri uygulanmaz.",
+                "B": "Bu suçlarda ceza her zaman yarı oranında artırılır.",
+                "C": "Ağırlaştırıcı neden oluşturan suç için ayrıca ceza verilir.",
+                "D": "Bu tür suçlar zincirleme suç kapsamında değerlendirilir.",
+                "E": "Unsuru oluşturan suçtan dolayı fail ayrıca cezalandırılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 42'de belirtilen 'Bu tür suçlarda içtima hükümleri uygulanmaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir suç işleme kararının icrası kapsamında, değişik zamanlarda bir kişiye karşı aynı suçun birden fazla işlenmesi durumunda hükmedilecek ceza hangi oranda artırılır?",
+            "secenekler": {
+                "A": "Altıda birinden yarısına kadar",
+                "B": "Üçte birinden yarısına kadar",
+                "C": "Dörtte birinden dörtte üçüne kadar",
+                "D": "Yarısından bir katına kadar",
+                "E": "Beşte birinden üçte ikisine kadar"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 43'te belirtilen 'Ancak bu ceza, dörtte birinden dörtte üçüne kadar artırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, aynı suçun birden fazla işlenmesiyle ilgili ceza artırım hükümlerinin uygulanmayacağı suçlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+            "secenekler": {
+                "A": "Kasten öldürme",
+                "B": "Kasten yaralama",
+                "C": "İşkence",
+                "D": "Yağma",
+                "E": "Cinsel saldırı"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 43'ün 3. fıkrasında belirtilen istisnalar arasında 'Cinsel saldırı' suçunun yer almaması hükmüne dayanmaktadır. İlgili fıkra sadece kasten öldürme, kasten yaralama, işkence ve yağma suçlarını saymıştır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, işlediği bir fiil ile birden fazla farklı suçun oluşmasına sebebiyet veren kişi hakkında uygulanacak yaptırım usulü aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Oluşan her bir suçtan dolayı ayrı ayrı cezalandırılır.",
+                "B": "Oluşan suçlardan en ağır cezayı gerektiren suçtan dolayı cezalandırılır.",
+                "C": "Oluşan suçlardan en hafif cezayı gerektiren suçtan dolayı cezalandırılır.",
+                "D": "Oluşan suçların cezaları toplanarak hüküm kurulur.",
+                "E": "Temel ceza belirlenip yarı oranında artırılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 44'te belirtilen '...bunlardan en ağır cezayı gerektiren suçtan dolayı cezalandırılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suç karşılığında uygulanan yaptırım olarak belirlenen cezalar aşağıdakilerden hangisi veya hangileridir?\n\nI. Hapis\nII. Adlî para\nIII. İdari para",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 45'te belirtilen 'cezalar, hapis ve adlî para cezalarıdır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hapis cezalarının türleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hapis cezaları sadece ağırlaştırılmış müebbet ve müebbet hapis cezalarından oluşur.",
+                "B": "Süreli hapis cezası, Kanun'da sayılan hapis cezası türlerinden biridir.",
+                "C": "Adli para cezası, hapis cezaları başlığı altında açıkça düzenlenmiştir.",
+                "D": "Hapis cezaları; hafif hapis ve ağır hapis cezası olmak üzere ikiye ayrılır.",
+                "E": "Kanun'da hapis cezası türleri ismen sayılmamış, hakimin takdirine bırakılmıştır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 46'da belirtilen 'Hapis cezaları şunlardır: ... c) Süreli hapis cezası.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ağırlaştırılmış müebbet hapis cezasının çektirileceği sıkı güvenlik rejimine ilişkin yönetmelik aşağıdakilerden hangisi tarafından çıkarılır?",
+            "secenekler": {
+                "A": "Adalet Bakanlığı",
+                "B": "İçişleri Bakanlığı",
+                "C": "Türkiye Büyük Millet Meclisi",
+                "D": "Cumhurbaşkanı",
+                "E": "Hâkimler ve Savcılar Kurulu"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen '...Cumhurbaşkanınca çıkarılan yönetmelikte belirtilen sıkı güvenlik rejimine göre çektirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ağırlaştırılmış müebbet hapis cezası ile ilgili;\n\nI. Hükümlünün hayatı boyunca devam eder.\nII. Sıkı güvenlik rejimine göre çektirilir.\nIII. Kanunda aksi belirtilmedikçe yirmi yıl sürer.\n\nifadelerinden hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 47'de belirtilen 'Ağırlaştırılmış müebbet hapis cezası hükümlünün hayatı boyunca devam eder, ... sıkı güvenlik rejimine göre çektirilir.' hükmüne dayanmaktadır. "
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, müebbet hapis cezasının süresi hakkında Kanun'da yer alan düzenleme aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Yirmi dört yıl süreyle devam eder.",
+                "B": "Hükümlü altmış beş yaşını doldurana kadar sürer.",
+                "C": "Hükümlünün hayatı boyunca devam eder.",
+                "D": "Otuz yıl süreyle uygulanır.",
+                "E": "Hâkimin takdir ettiği süre boyunca devam eder."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 48'de belirtilen 'Müebbet hapis cezası, hükümlünün hayatı boyunca devam eder' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, süreli hapis cezası, kanunda aksi belirtilmeyen hâllerde asgari ve azami olarak hangi süreler arasında hükmedilebilir?",
+            "secenekler": {
+                "A": "Üç aydan az, yirmi yıldan fazla olamaz.",
+                "B": "Bir aydan az, yirmi yıldan fazla olamaz.",
+                "C": "Bir aydan az, otuz yıldan fazla olamaz.",
+                "D": "Altı aydan az, yirmi beş yıldan fazla olamaz.",
+                "E": "Bir yıldan az, yirmi yıldan fazla olamaz."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 49/1'de belirtilen 'Süreli hapis cezası, kanunda aksi belirtilmeyen hallerde bir aydan az, yirmi yıldan fazla olamaz.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hükmedilen hapis cezasının 'kısa süreli hapis cezası' olarak nitelendirilebilmesi için ceza süresi en fazla ne kadar olmalıdır?",
+            "secenekler": {
+                "A": "Bir ay",
+                "B": "Üç ay",
+                "C": "Altı ay",
+                "D": "Bir yıl",
+                "E": "İki yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 49'da belirtilen 'Hükmedilen bir yıl veya daha az süreli hapis cezası, kısa süreli hapis cezasıdır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kısa süreli hapis cezası seçenek tedbire çevrilen bir hükümlünün, hüküm kesinleştikten sonra Cumhuriyet savcılığınca yapılan tebligata rağmen otuz gün içinde seçenek tedbirin gereklerinin yerine getirilmesine başlamaması halinde infaz hâkimliği tarafından yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Seçenek tedbirin süresinin iki katına çıkarılmasına karar verilir.",
+                "B": "Kısa süreli hapis cezasının tamamen veya kısmen infazına karar verilir.",
+                "C": "Hükümlü hakkında kamu davası açılması için suç duyurusunda bulunulur.",
+                "D": "Seçenek tedbirin türü değiştirilerek yeniden tebligat yapılır.",
+                "E": "Hükümlünün denetim süresi bir yıl daha uzatılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 50/6'da belirtilen '...infaz hâkimliği kısa süreli hapis cezasının tamamen veya kısmen infazına karar verir...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hapis cezasının adlî para cezasına çevrilmesi ile ilgili aşağıdaki durumlardan hangisinde çevirme işlemi yapılamaz?",
+            "secenekler": {
+                "A": "Taksirli suçlardan dolayı hükmolunan uzun süreli hapis cezalarında.",
+                "B": "Suç tanımında hapis ile adlî para cezasının seçenek olduğu ve hakimin hapis cezasına hükmettiği hallerde.",
+                "C": "Kısa süreli hapis cezasına mahkûm edilen kişinin suç işlemesindeki özelliklerine göre.",
+                "D": "Daha önce hapis cezasına mahkûm edilmemiş kişinin otuz gün süreli hapis cezasında.",
+                "E": "Fiili işlediği tarihte on sekiz yaşını doldurmamış kişinin bir yıl süreli hapis cezasında."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 50/2'de belirtilen '...hapis cezasına hükmedilmişse; bu ceza artık adlî para cezasına çevrilmez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, daha önce hapis cezasına mahkûm edilmemiş olmak koşuluyla, fiili işlediği tarihte altmış beş yaşını bitirmiş bulunanların mahkûm edildiği bir yıl veya daha az süreli hapis cezası hakkında uygulanması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Hâkimin takdirine bağlı olarak seçenek yaptırımlara çevrilebilir.",
+                "B": "Cezanın infazı, hükümlünün yaşı sebebiyle ertelenir.",
+                "C": "Kanunda yazılı seçenek yaptırımlardan birine çevrilmesi zorunludur.",
+                "D": "Sadece adlî para cezasına çevrilebilir, diğer tedbirler uygulanamaz.",
+                "E": "Hükmün açıklanmasının geri bırakılmasına karar verilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 50/3'te belirtilen '...altmışbeş yaşını bitirmiş bulunanların mahkûm edildiği bir yıl veya daha az süreli hapis cezası, birinci fıkrada yazılı seçenek yaptırımlardan birine çevrilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, denetim süresi içinde gerçekleşen aşağıdaki durumların hangisinde veya hangilerinde, ertelenen cezanın kısmen veya tamamen infaz kurumunda çektirilmesine karar verilir?\n\nI. Hükümlünün kasıtlı bir suç işlemesi\nII. Hükümlünün taksirli bir suç işlemesi\nIII. Hükümlünün, kendisine yüklenen yükümlülüklere infaz hâkiminin uyarısına rağmen uymamakta ısrar etmesi",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 51/7'de belirtilen 'Hükümlünün denetim süresi içinde kasıtlı bir suç işlemesi veya kendisine yüklenen yükümlülüklere, infaz hâkiminin uyarısına rağmen, uymamakta ısrar etmesi halinde...' hükmüne dayanmaktadır. Taksirli suçlar bu kapsama alınmamıştır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir kişinin hapis cezasının ertelenebilmesi için; \nI. Daha önce kasıtlı bir suçtan dolayı üç aydan fazla hapis cezasına mahkûm edilmemiş olması,\nII. Suçu işledikten sonra yargılama sürecinde gösterdiği pişmanlık dolayısıyla tekrar suç işlemeyeceği konusunda mahkemede bir kanaatin oluşması,\nIII. Mağdurun veya kamunun uğradığı zararın hükümden önce tamamen giderilmiş olması,\nkoşullarından hangisinin veya hangilerinin gerçekleşmesi zorunludur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 51/1'de (a) ve (b) bentlerinde sayılan zorunlu şartlara dayanmaktadır. Zararın giderilmesi Madde 51/2'ye göre zorunlu bir ön şart değil, hakimin takdirine bağlı bir koşuldur."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hapis cezasının ertelenmesi kurumuyla ilgili; \nI. Fiili işlediği sırada altmış beş yaşını bitirmiş kişiler bakımından erteleme süresinin üst sınırı üç yıldır.\nII. Erteleme kararı verilebilmesi için kişinin daha önce kasıtlı bir suçtan dolayı üç aydan fazla hapis cezasına mahkûm edilmemiş olması gerekir.\nIII. Denetim süresinin alt sınırı, mahkûm olunan ceza süresinden az olabilir.\nifadelerinden hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 51'de belirtilen yaşa bağlı süre sınırı (I. öncül) ve kasıtlı suç geçmişi şartı (II. öncül) hükümlerine dayanmaktadır. III. öncül yanlıştır çünkü Kanun 'Bu sürenin alt sınırı, mahkûm olunan ceza süresinden az olamaz' hükmünü içermektedir."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, adlî para cezasının belirlenmesi ve infazı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Adlî para cezası, kanunda aksine hüküm bulunmayan hallerde beş günden az ve yediyüzotuz günden fazla olamaz.",
+                "B": "En az yüz ve en fazla beşyüz Türk Lirası olan bir gün karşılığı miktar, kişinin ekonomik ve diğer şahsi halleri göz önünde bulundurularak takdir edilir.",
+                "C": "Hakim, kişiye adlî para cezasını ödemesi için hükmün kesinleşme tarihinden itibaren en fazla üç yıl mehil verebilir.",
+                "D": "Taksit süresi iki yılı geçemez ve taksit miktarı dörtten az olamaz.",
+                "E": "Kararda, taksitlerden birinin zamanında ödenmemesi halinde geri kalan kısmın tamamının tahsil edileceği belirtilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen 'hükmün kesinleşme tarihinden itibaren bir yıldan fazla olmamak üzere mehil verebileceği' hükmüne dayanmaktadır. Seçenekteki 'üç yıl' ifadesi yanlıştır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hakimin adlî para cezasının ödenmesi konusunda sahip olduğu yetkiler ve taksitlendirme usulü hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hakim, adlî para cezasının ödenmesi için hükmün kesinleşme tarihinden itibaren en fazla iki yıl mehil verebilir.",
+                "B": "Taksitlendirme yapılması durumunda taksit süresi üç yılı geçemez.",
+                "C": "Taksitlendirme yapılması halinde belirlenen taksit miktarı ikiden az olamaz.",
+                "D": "Kararda, taksitlerden birinin zamanında ödenmemesi halinde geri kalan kısmın tamamının tahsil edileceği ve ödenmeyen adlî para cezasının hapse çevrileceği belirtilir.",
+                "E": "Taksitlerden birinin zamanında ödenmemesi halinde, sadece o taksitin yasal faiziyle tahsil edileceği kararda belirtilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 52'de belirtilen 'Kararda, taksitlerden birinin zamanında ödenmemesi halinde geri kalan kısmın tamamının tahsil edileceği ve ödenmeyen adlî para cezasının hapse çevrileceği belirtilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, mahkûm olduğu hapis cezası ertelenen veya denetimli serbestlik tedbiri uygulanarak cezası infaz edilen hükümlü hakkında, aşağıdaki hak yoksunluklarından hangisinin uygulanmamasına karar verilebilir?",
+            "secenekler": {
+                "A": "Sürekli, süreli veya geçici bir kamu görevinin üstlenilmesi",
+                "B": "Seçme ve seçilme ehliyeti",
+                "C": "Vakıf, dernek, sendika, şirket, kooperatif ve siyasi parti tüzel kişiliklerinin yöneticisi olmak",
+                "D": "Bir kamu kurumunun iznine tabi bir meslek veya sanatı kendi sorumluluğu altında icra etmek",
+                "E": "Velayet hakkından yoksun bırakılmak"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 53'te belirtilen 'hükümlü hakkında birinci fıkranın (e) bendinde söz konusu edilen hak yoksunluğunun uygulanmamasına karar verilebilir' hükmüne dayanmaktadır. (e) bendi, izne tabi meslek veya sanatın icrasını düzenler."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kasten işlenen bir suçtan dolayı hapis cezasına mahkûmiyetin kanuni sonucu olarak uygulanan hak yoksunlukları, aşağıdaki kişilerden hangisi hakkında uygulanmaz?",
+            "secenekler": {
+                "A": "Cezası ertelenmiş olan ve fiili işlediği sırada onsekiz yaşını doldurmuş kişiler",
+                "B": "Koşullu salıverilen hükümlüler",
+                "C": "Denetimli serbestlik tedbiri uygulanan hükümlüler",
+                "D": "Fiili işlediği sırada onsekiz yaşını doldurmamış olan kişiler",
+                "E": "Uzun süreli hapis cezasına mahkûm edilenler"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 53'ün 4. fıkrasında belirtilen 'fiili işlediği sırada onsekiz yaşını doldurmamış olan kişiler hakkında birinci fıkra hükmü uygulanmaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, belli bir meslek veya sanatın ya da trafik düzeninin gerektirdiği dikkat ve özen yükümlülüğüne aykırılık dolayısıyla işlenen taksirli suçtan mahkûmiyet halinde; I. İlgili meslek veya sanatın icrasının yasaklanması, II. Sürücü belgesinin geri alınması, III. Seçme ve seçilme ehliyetinden yoksun bırakılma, tedbirlerinden hangilerine karar verilebilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 53'ün 6. fıkrasında belirtilen 'bu meslek veya sanatın icrasının yasaklanmasına ya da sürücü belgesinin geri alınmasına karar verilebilir' hükmüne dayanmaktadır. Seçme ve seçilme ehliyeti yoksunluğu (III), Madde 53/1 uyarınca kasten işlenen suçlarda uygulanır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, dikkat ve özen yükümlülüğüne aykırılık dolayısıyla işlenen taksirli bir suçtan mahkûmiyet halinde, mahkemenin ilgili meslek veya sanatın icrasının yasaklanmasına ya da sürücü belgesinin geri alınmasına karar verebileceği süre aralığı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Bir aydan az ve bir yıldan fazla olmamak üzere",
+                "B": "Üç aydan az ve iki yıldan fazla olmamak üzere",
+                "C": "Altı aydan az ve beş yıldan fazla olmamak üzere",
+                "D": "Üç aydan az ve üç yıldan fazla olmamak üzere",
+                "E": "Bir yıldan az ve beş yıldan fazla olmamak üzere"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 53/6'da belirtilen '...üç aydan az ve üç yıldan fazla olmamak üzere, bu meslek veya sanatın icrasının yasaklanmasına ya da sürücü belgesinin geri alınmasına karar verilebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, belli hakları kullanmaktan yoksun bırakılma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Kişi, kasten işlemiş olduğu suçtan dolayı hapis cezasına mahkûmiyetin kanuni sonucu olarak seçme ve seçilme ehliyetinden yoksun bırakılır.",
+                "B": "Kısa süreli hapis cezası ertelenmiş olan kişiler hakkında, birinci fıkrada yer alan hak yoksunluğu hükümleri uygulanmaz.",
+                "C": "Fiili işlediği sırada on sekiz yaşını doldurmamış olan kişiler hakkında, kasten işlenen suçlarda öngörülen hak yoksunluğu hükümleri uygulanmaz.",
+                "D": "Mahkûm olduğu hapis cezası ertelenen hükümlünün, kendi altsoyu üzerindeki velayet yetkileri açısından hak yoksunluğu hükümleri uygulanmaz.",
+                "E": "Taksirli bir suçtan dolayı hapis cezasına mahkûm olan kişiler hakkında da, kural olarak birinci fıkrada sayılan vakıf veya dernek yöneticisi olmaktan yoksunluk hükmü uygulanır."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 53/1'de belirtilen 'Kişi, kasten işlemiş olduğu suçtan dolayı...' ifadesine dayanmaktadır. Hak yoksunlukları kasten işlenen suçların sonucudur; taksirli suçlar için Madde 53/6'daki özel düzenleme geçerlidir."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suçta kullanılan eşyanın müsaderesi ile ilgili 'hakkaniyet' ilkesi çerçevesinde aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Suçta kullanılan eşya, değeri ne olursa olsun mutlaka müsadere edilir.",
+                "B": "Suçta kullanılan eşyanın müsadere edilmesinin işlenen suça nazaran daha ağır sonuçlar doğuracağı anlaşıldığında, müsaderesine hükmedilmeyebilir.",
+                "C": "Hakkaniyet ilkesi gereği, suçta kullanılan eşya sadece kamu güvenliğini tehlikeye düşürüyorsa müsadere edilebilir.",
+                "D": "Eşyanın müsaderesi hakkaniyete aykırı ise, eşyanın değeri kadar para cezası verilir.",
+                "E": "İyiniyetli üçüncü kişilere ait eşyalar, hakkaniyet gereği bedeli ödenerek müsadere edilir."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 54/3'te belirtilen 'Suçta kullanılan eşyanın müsadere edilmesinin işlenen suça nazaran daha ağır sonuçlar doğuracağı... anlaşıldığında, müsaderesine hükmedilmeyebilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, müsadere kapsamına giren bir eşyanın ortadan kaldırılması, elden çıkarılması veya tüketilmesi suretiyle müsaderesinin imkansız kılınması halinde yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Eşyanın değeri kadar para tutarının müsaderesine karar verilir.",
+                "B": "Fail hakkında eşyanın değeri kadar adlî para cezasına hükmolunur.",
+                "C": "Müsadere işlemi düşer ve herhangi bir yaptırım uygulanmaz.",
+                "D": "Failin hapis cezası, eşyanın değeri oranında artırılır.",
+                "E": "Eşyanın sadece bulunabilen kısımları müsadere edilir, kalanı için işlem yapılmaz."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 54'ün 2. fıkrasında belirtilen 'bu eşyanın değeri kadar para tutarının müsaderesine karar verilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suçun işlenmesinde kullanılmak üzere hazırlanan ancak henüz kullanılmamış olan eşyanın müsadere edilebilmesi, aşağıdaki durumlardan hangisinin varlığına bağlıdır?",
+            "secenekler": {
+                "A": "Eşyanın değerinin suçtan elde edilecek menfaatten yüksek olması",
+                "B": "Eşyanın kamu güvenliği, kamu sağlığı veya genel ahlak açısından tehlikeli olması",
+                "C": "Failin daha önce benzer bir suçtan hüküm giymiş olması",
+                "D": "Eşyanın yurt dışından kaçak yollarla getirilmiş olması",
+                "E": "Hazırlık hareketlerinin cezalandırıldığı bir suç tipinin söz konusu olması"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 54/1'de belirtilen 'Suçun işlenmesinde kullanılmak üzere hazırlanan eşya, kamu güvenliği, kamu sağlığı veya genel ahlak açısından tehlikeli olması durumunda müsadere edilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, eşya müsaderesinin kapsamı ve uygulanması ile ilgili;\n\nI. Üretimi, bulundurulması veya satımı suç oluşturan eşya müsadere edilir.\nII. Bir şeyin sadece bazı kısımlarının müsaderesi gerektiğinde, ayırmak mümkünse sadece o kısmın müsaderesine karar verilir.\nIII. Müsadere kararı verilebilmesi için eşyanın iyiniyetli üçüncü kişilere ait olmaması gerekir.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 54/4 (I. öncül), Madde 54/5 (II. öncül) ve Madde 54/1 (III. öncül) hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, müsaderesi talep edilen eşyanın mülkiyet durumu veya niteliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Birden fazla kişinin paydaş olduğu eşyada, suça iştirak etmeyen paydaşların hakları gözetilmeksizin eşyanın tamamı müsadere edilir.",
+                "B": "Bir şeyin sadece bazı kısımlarının müsaderesi gerektiğinde, ayırmak mümkün olsa bile eşyanın bütünlüğü bozulmaması için tamamına el konulur.",
+                "C": "Üretimi, bulundurulması veya taşınması kendi başına suç oluşturan eşya, bir suçta kullanılmamış olsa bile müsadere edilir.",
+                "D": "Suçun işlenmesinde kullanılan eşya iyiniyetli üçüncü kişilere ait olsa dahi, kamu düzenini sağlamak amacıyla müsadere edilir.",
+                "E": "Taksirli suçların işlenmesinde kullanılan veya bu suçlara tahsis edilen eşyanın müsaderesine hükmolunur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 54'te belirtilen 'Üretimi, bulundurulması, kullanılması, taşınması, alım ve satımı suç oluşturan eşya, müsadere edilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kazanç müsaderesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Müsadere kararı verilebilmesi için maddi menfaatin suçun mağduruna iade edilememesi gerekir.",
+                "B": "Suçun işlenmesi için sağlanan maddi menfaatlerin dönüştürülmesi sonucu ortaya çıkan ekonomik kazançlar müsadere edilebilir.",
+                "C": "Müsadere konusu eşyaya elkonulamadığı hallerde, bunların karşılığını oluşturan değerlerin müsaderesine hükmedilir.",
+                "D": "Suçun konusunu oluşturan maddi menfaatlerin müsaderesine karar verilir.",
+                "E": "Suçtan elde edilen eşyayı sonradan iktisap eden kişi, Türk Medenî Kanunu'nun iyiniyet hükümlerinden yararlansa dahi eşya müsadere edilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 55'te belirtilen 'eşyayı sonradan iktisap eden kişinin... iyiniyetin korunmasına ilişkin hükümlerinden yararlanamıyor olması gerekir.' hükmüne dayanmaktadır. İyiniyetten yararlanıyorsa müsadere edilemez."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, müsadere konusu eşya veya maddi menfaatlere elkonulamadığı veya bunların merciine teslim edilmediği hallerde yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Fail hakkında adlî para cezasına hükmolunur.",
+                "B": "Müsadere kararı düşer ve herhangi bir işlem yapılmaz.",
+                "C": "Bunların karşılığını oluşturan değerlerin müsaderesine hükmedilir.",
+                "D": "Söz konusu eşya veya menfaatin değeri kadar hapis cezası verilir.",
+                "E": "Failin diğer malvarlığı değerlerine tedbiren el konulur."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 55/2'de belirtilen '...bunların karşılığını oluşturan değerlerin müsaderesine hükmedilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suçun işlenmesi ile elde edilen maddi menfaatlerin ve ekonomik kazançların müsaderesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Suçun konusunu oluşturan maddi menfaatlerin müsaderesine karar verilebilir.",
+                "B": "Suçun işlenmesi için sağlanan maddi menfaatlerin değerlendirilmesi sonucu ortaya çıkan ekonomik kazançlar müsadere edilebilir.",
+                "C": "Müsadere konusu eşyaya elkonulamadığı hallerde, bunların karşılığını oluşturan değerlerin müsaderesine hükmedilir.",
+                "D": "Müsadere kararı verilebilmesi için maddi menfaatin suçun mağduruna iade edilememesi şartı aranır.",
+                "E": "Suçun işlenmesi ile elde edilen maddi menfaat, suçun mağduruna iade edilebilse dahi zorunlu olarak müsadere edilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 55'te belirtilen 'Bu fıkra hükmüne göre müsadere kararı verilebilmesi için maddi menfaatin suçun mağduruna iade edilememesi gerekir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suçun işlenmesi ile elde edilen maddi menfaatlerin kazanç müsaderesine konu olabilmesi için Kanun'da aranan öncelikli şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Maddi menfaatin suçun mağduruna iade edilememesi",
+                "B": "Suçun örgütlü bir şekilde işlenmiş olması",
+                "C": "Elde edilen kazancın yurt dışına kaçırılmış olması",
+                "D": "Failin hapis cezasına mahkûmiyetinin kesinleşmiş olması",
+                "E": "Maddi menfaatin suçta kullanılan eşyadan daha değerli olması"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 55'te belirtilen 'Bu fıkra hükmüne göre müsadere kararı verilebilmesi için maddi menfaatin suçun mağduruna iade edilememesi gerekir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hakkında güvenlik tedbirine hükmedilmiş olan akıl hastasının, yerleştirildiği kurumun sağlık kurulunca düzenlenen rapor üzerine serbest bırakılmasına karar verme yetkisi aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+                "A": "Cumhuriyet Başsavcısı",
+                "B": "Sağlık Bakanlığı",
+                "C": "İnfaz Hâkimi",
+                "D": "Mahkeme Başkanı",
+                "E": "Adli Tıp Kurumu"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 57'de belirtilen 'yerleştirildiği kurumun sağlık kurulunca düzenlenen raporda... belirtilmesi üzerine infaz hâkimi kararıyla serbest bırakılabilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hakkında koruma ve tedavi amaçlı güvenlik tedbirine hükmedilen akıl hastaları bakımından; üst sınırı on yıldan fazla hapis cezasını gerektiren suçlarda kurumda geçirilecek süre en az ne kadar olmalıdır?",
+            "secenekler": {
+                "A": "Üç ay",
+                "B": "Altı ay",
+                "C": "Bir yıl",
+                "D": "İki yıl",
+                "E": "Beş yıl"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 57'de belirtilen 'üst sınırı on yıldan fazla hapis cezasını gerektiren suçlarda ise altı aydan az olamaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hakkında güvenlik tedbirine hükmedilen akıl hastaları için; ağırlaştırılmış müebbet hapis ve müebbet hapis cezasını gerektiren suçlarda, kurumda geçirilecek süre kural olarak en az ne kadar olmalıdır?",
+            "secenekler": {
+                "A": "Üç ay",
+                "B": "Altı ay",
+                "C": "Bir yıl",
+                "D": "İki yıl",
+                "E": "Beş yıl"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 57'de belirtilen 'ağırlaştırılmış müebbet hapis ve müebbet hapis cezasını gerektiren suçlarda bir yıldan... az olamaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, suç işleyen alkol ya da uyuşturucu veya uyarıcı madde bağımlısı kişiler hakkında uygulanacak güvenlik tedbirleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Bu kişilerin tedavisi, sadece mahkemece belirlenen sabit bir süre boyunca devam eder.",
+                "B": "Kişilerin serbest bırakılmasına, tedaviyi yürüten doktor tek başına karar verir.",
+                "C": "Bu kişiler hakkında güvenlik tedbiri olarak hapis cezası dışında bir tedbir uygulanamaz.",
+                "D": "Bu kişilerin tedavisi, alkol ya da uyuşturucu veya uyarıcı madde bağımlılığından kurtulmalarına kadar devam eder.",
+                "E": "Bağımlı kişilerin tedavisi için yüksek güvenlikli olmayan herhangi bir devlet hastanesine sevk edilmeleri yeterlidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 57'nin 7. fıkrasında belirtilen 'Bu kişilerin tedavisi, alkol ya da uyuşturucu veya uyarıcı madde bağımlılığından kurtulmalarına kadar devam eder.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, akıl hastalarının tıbbi kontrol ve takibinin, raporda gösterilen süre ve aralıklarla teknik donanımı ve yetkili uzmanı olan sağlık kuruluşuna gönderilmeleri suretiyle sağlanması görevli merci aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "İnfaz Hâkimliği",
+                "B": "Sağlık Bakanlığı",
+                "C": "Cumhuriyet Savcılığı",
+                "D": "Kolluk Kuvvetleri",
+                "E": "Sosyal Hizmetler Müdürlüğü"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 57'de belirtilen 'Tıbbi kontrol ve takip... Cumhuriyet savcılığınca... sağlanır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, tekerrür hükümlerinin uygulanabilmesi için geçmesi gereken sürelerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Beş yıldan fazla süreyle hapis cezasına mahkûmiyet halinde, cezanın infazından itibaren üç yıl geçince tekerrür uygulanmaz.",
+                "B": "Beş yıl veya daha az süreli hapis cezasına mahkûmiyet halinde, cezanın infaz edildiği tarihten itibaren üç yıl geçtikten sonra işlenen suçlar dolayısıyla tekerrür uygulanmaz.",
+                "C": "Adlî para cezasına mahkûmiyet halinde, cezanın infaz edildiği tarihten itibaren beş yıl geçtikten sonra tekerrür hükümleri uygulanır.",
+                "D": "Tekerrür hükümlerinin uygulanabilmesi için önceki cezanın infaz edilmiş olması şart değildir, hükmün kesinleşmesi yeterli değildir.",
+                "E": "Hapis cezası ne olursa olsun, cezanın infazından itibaren on yıl geçmedikçe tekerrür hükümleri uygulanmaya devam eder."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 58'de belirtilen 'Beş yıl veya daha az süreli hapis ya da adlî para cezasına mahkûmiyet halinde, bu cezanın infaz edildiği tarihten itibaren üç yıl... geçtikten sonra işlenen suçlar dolayısıyla uygulanmaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kural olarak yabancı ülke mahkemelerinden verilen hükümler tekerrüre esas olmazken, bu kuralın istisnası olarak sayılan ve tekerrüre esas teşkil edebilen suçlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Kasten yaralama",
+                "B": "Yağma",
+                "C": "Dolandırıcılık",
+                "D": "Hırsızlık",
+                "E": "Parada sahtecilik"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 58'de belirtilen istisnai suçlar listesinde (kasten öldürme, kasten yaralama, yağma, dolandırıcılık, uyuşturucu ticareti, sahtecilik) 'Hırsızlık' suçunun sayılmamış olması hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, beş yıl veya daha az süreli hapis ya da adlî para cezasına mahkûmiyet halinde, bu cezanın infaz edildiği tarihten itibaren kaç yıl geçtikten sonra işlenen suçlar dolayısıyla tekerrür hükümleri uygulanmaz?",
+            "secenekler": {
+                "A": "Bir",
+                "B": "İki",
+                "C": "Üç",
+                "D": "Beş",
+                "E": "On"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 58'de belirtilen 'Beş yıl veya daha az süreli hapis ya da adlî para cezasına mahkûmiyet halinde, bu cezanın infaz edildiği tarihten itibaren üç yıl... geçtikten sonra işlenen suçlar dolayısıyla uygulanmaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, mükerrirlere özgü infaz rejiminin ve cezanın infazından sonra denetimli serbestlik tedbirinin;\nI. İtiyadi suçlu,\nII. Suçu meslek edinen kişi,\nIII. Örgüt mensubu suçlu\nkişilerinden hangisi veya hangileri hakkında da uygulanmasına hükmedilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 58'de belirtilen 'Mükerrirlere özgü infaz rejiminin... itiyadi suçlu, suçu meslek edinen kişi veya örgüt mensubu suçlu hakkında da uygulanmasına hükmedilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, tekerrür uygulaması ile ilgili;\n\nI. Önceden işlenen suçtan dolayı verilen hükmün kesinleşmesi yeterlidir, cezanın infaz edilmiş olması gerekmez.\nII. Fiili işlediği sırada on sekiz yaşını doldurmamış olan kişilerin işlediği suçlar dolayısıyla tekerrür hükümleri uygulanmaz.\nIII. Kasıtlı suçlarla taksirli suçlar arasında tekerrür hükümleri uygulanır.\n\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 58'de belirtilen '(1)... cezanın infaz edilmiş olması gerekmez.' ve '(5) Fiili işlediği sırada onsekiz yaşını doldurmamış olan kişilerin işlediği suçlar dolayısıyla tekerrür hükümleri uygulanmaz.' hükümlerine dayanmaktadır. III. öncül yanlıştır çünkü 4. fıkraya göre kasıtlı ve taksirli suçlar arasında tekerrür uygulanmaz."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, işlediği suç nedeniyle hapis cezasına mahkûm edilen yabancının durumu, cezasının infazı tamamlandıktan sonra sınır dışı işlemleriyle ilgili olarak değerlendirilmek üzere aşağıdaki makamlardan hangisine bildirilir?",
+            "secenekler": {
+                "A": "Dışişleri Bakanlığına",
+                "B": "Adalet Bakanlığına",
+                "C": "İçişleri Bakanlığına",
+                "D": "İlgili Ülke Konsolosluğuna",
+                "E": "Milli İstihbarat Teşkilatına"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 59'da belirtilen 'durumu, sınır dışı işlemleriyle ilgili olarak değerlendirilmek üzere derhal İçişleri Bakanlığına bildirilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hapis cezasına mahkûm edilen bir yabancının durumunun ilgili makama bildirilmesi; I. Denetimli serbestlik tedbiri uygulanarak cezasının infazına karar verilmesi, II. Koşullu salıverilmesine karar verilmesi, III. Cezasının infazının tamamlanması, aşamalarından hangisinin veya hangilerinin gerçekleşmesi sonrasında söz konusu olabilir?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız III",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 59'da belirtilen 'denetimli serbestlik tedbiri uygulanarak cezasının infazına veya koşullu salıverilmesine karar verildikten ve her halde cezasının infazı tamamlandıktan sonra' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, özel hukuk tüzel kişileri hakkında güvenlik tedbirlerinin uygulanması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Müsadere hükümleri, yararına işlenen suçlarda özel hukuk tüzel kişileri hakkında da uygulanır.",
+                "B": "İznin iptaline karar verilebilmesi için suçun, iznin verdiği yetkinin kötüye kullanılması suretiyle işlenmesi gerekir.",
+                "C": "Hakim, tedbirin uygulanmasının işlenen fiile nazaran daha ağır sonuçlar doğuracağı durumlarda bu tedbirlere hükmetmeyebilir.",
+                "D": "İznin iptali hükümleri, kanunda açıkça belirtilmese dahi hakimin takdiriyle her türlü suçta uygulanabilir.",
+                "E": "İznin iptaline karar verilebilmesi için suçun kasıtlı olarak işlenmiş olması ve mahkûmiyetle sonuçlanması gerekir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 60/4'te belirtilen 'Bu madde hükümleri kanunun ayrıca belirttiği hallerde uygulanır.' hükmüne dayanmaktadır. Kanunda belirtilmeyen hallerde uygulanamaz."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, özel hukuk tüzel kişileri hakkında iznin iptaline karar verilebilmesi için aranan şartlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Suçun, tüzel kişinin organ veya temsilcilerinin iştirakiyle işlenmiş olması gerekir.",
+                "B": "Suçun, iznin verdiği yetkinin kötüye kullanılması suretiyle işlenmesi gerekir.",
+                "C": "İşlenen suçun taksirle işlenmiş bir suç olması yeterlidir.",
+                "D": "Suçun tüzel kişi yararına işlenmiş olması gerekir.",
+                "E": "Tüzel kişinin bir kamu kurumunun verdiği izne dayalı olarak faaliyette bulunması gerekir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 60'ın 1. fıkrasında belirtilen 'kasıtlı suçlardan mahkûmiyet halinde' ifadesi gereği, taksirli suçların bu kapsama girmemesi hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir kamu kurumunun verdiği izne dayalı olarak faaliyette bulunan özel hukuk tüzel kişisinin izninin iptaline karar verilebilmesi için aşağıdaki şartlardan hangilerinin gerçekleşmesi gerekir?\n\nI. Suçun kasıtlı olması\nII. Suçun tüzel kişi yararına işlenmesi\nIII. İznin verdiği yetkinin kötüye kullanılması",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 60/1'de belirtilen '...bu iznin verdiği yetkinin kötüye kullanılması suretiyle tüzel kişi yararına işlenen kasıtlı suçlardan mahkûmiyet halinde...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hakim temel cezayı belirlerken somut olayda aşağıdaki hususlardan hangisini göz önünde bulundurmaz?",
+            "secenekler": {
+                "A": "Suçun işleniş biçimini",
+                "B": "Failin güttüğü amaç ve saiki",
+                "C": "Suçun işlendiği zaman ve yeri",
+                "D": "Failin sabıka kaydı ve sosyal durumunu",
+                "E": "Meydana gelen zarar veya tehlikenin ağırlığını"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 61'in 1. fıkrasında sayılan temel ceza belirleme kriterleri arasında 'failin sabıka kaydı ve sosyal durumu' ifadesinin yer almaması hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir suçun temel şekline nazaran daha ağır veya daha az cezayı gerektiren birden fazla nitelikli hallerin gerçekleşmesi durumunda yapılacak işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Temel cezada önce indirme sonra artırma yapılır.",
+                "B": "Temel cezada önce artırma sonra indirme yapılır.",
+                "C": "Sadece en ağır cezayı gerektiren nitelikli hal uygulanır.",
+                "D": "Hakim, takdir yetkisine göre artırma veya indirme sırasını belirler.",
+                "E": "Nitelikli hallerin sayısı kadar ceza yarı oranında artırılır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 61'in 4. fıkrasında belirtilen 'temel cezada önce artırma sonra indirme yapılır' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, belirlenen ceza üzerinden uygulanacak indirim ve artırım nedenlerinin sıralaması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Önce iştirak, sonra teşebbüs, daha sonra zincirleme suç ve haksız tahrik hükümleri uygulanır.",
+                "B": "Sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü, akıl hastalığı ve şahsi cezasızlık hükümleri uygulanır.",
+                "C": "Önce takdiri indirim nedenleri, ardından yaş küçüklüğü ve haksız tahrik hükümleri dikkate alınır.",
+                "D": "Sırasıyla zincirleme suç, haksız tahrik, teşebbüs ve iştirak hükümleri uygulanarak sonuç ceza belirlenir.",
+                "E": "Önce yaş küçüklüğü, sonra akıl hastalığı, en son teşebbüs ve iştirak hükümleri uygulanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 61'in 5. fıkrasında belirtilen '...sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü, akıl hastalığı ve cezada indirim yapılmasını gerektiren şahsi sebeplere ilişkin hükümler ...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, cezanın belirlenmesi ve hesaplanması usulü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Suçun olası kastla ya da bilinçli taksirle işlenmesi nedeniyle yapılacak indirim veya artırım, temel ceza belirlenmeden önce suçun kanuni tanımındaki sınırlar üzerinden yapılır.",
+                "B": "Bir suçun temel şekline nazaran daha ağır veya daha az cezayı gerektiren birden fazla nitelikli hallerin gerçekleşmesi durumunda; temel cezada önce artırma sonra indirme yapılır.",
+                "C": "Temel cezanın belirlenmesinde göz önünde bulundurulan hususlar, suçun unsurunu oluşturuyorsa ayrıca dikkate alınmaz.",
+                "D": "Hapis cezası için bir günün, adlî para cezası için bir Türk Lirasının artakalanı hesaba katılmaz ve bu cezalar infaz edilmez.",
+                "E": "Süreli hapis cezasını gerektiren bir suçtan dolayı belirlenen sonuç ceza, otuz yıldan fazla olamaz."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 61'in 2. fıkrasında belirtilen '...indirim veya artırım, birinci fıkra hükmüne göre belirlenen ceza üzerinden yapılır.' hükmüne dayanmaktadır. Seçenekteki ifade bu kuralın aksini iddia ettiği için yanlıştır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, sonuç ceza belirlenirken uygulanacak indirim ve artırım nedenlerinin sıralaması dikkate alındığında, aşağıdaki hükümlerden hangisi diğerlerinden daha önce uygulanır?",
+            "secenekler": {
+                "A": "Haksız tahrik",
+                "B": "Takdiri indirim nedenleri",
+                "C": "Yaş küçüklüğü",
+                "D": "Teşebbüs",
+                "E": "Zincirleme suç"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 61'de belirtilen '...sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü...' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, cezaların belirlenmesi ve hesaplanması usulüyle ilgili;\nI. Hapis cezasının süresi gün, ay ve yıl hesabıyla belirlenir.\nII. Bir ay, otuz gündür.\nIII. Süreli hapis cezasını gerektiren bir suçtan dolayı belirlenen sonuç ceza, kırk yıldan fazla olamaz.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 61'in 6. fıkrasında belirtilen süre hesaplama yöntemleri (I ve II doğrudur) ve 7. fıkrasında belirtilen 'sonuç ceza, otuz yıldan fazla olamaz' (III yanlıştır) hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hakim temel cezayı belirlerken somut olayda; I. Suçun işleniş biçimi, II. Failin güttüğü amaç ve saiki, III. Failin medeni hali, IV. Meydana gelen zarar veya tehlikenin ağırlığı hususlarından hangilerini göz önünde bulundurur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "I ve II",
+                "C": "I, II ve IV",
+                "D": "II, III ve IV",
+                "E": "I, II, III ve IV"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 61'de belirtilen temel cezanın belirlenmesi kriterleri arasında 'Failin medeni hali'nin sayılmaması, ancak diğer öncüllerin (a, g ve e bentleri) açıkça yer alması hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, takdiri indirim nedeni olarak dikkate alınacak hususlar arasında aşağıdakilerden hangisi yer almaz?",
+            "secenekler": {
+                "A": "Failin geçmişi",
+                "B": "Failin sosyal ilişkileri",
+                "C": "Failin fiilden sonraki pişmanlığını gösteren davranışları",
+                "D": "Cezanın failin geleceği üzerindeki olası etkileri",
+                "E": "Failin duruşmadaki mahkemeyi etkilemeye yönelik şeklî tutum ve davranışları"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 62'de belirtilen 'failin duruşmadaki mahkemeyi etkilemeye yönelik şeklî tutum ve davranışları, takdiri indirim nedeni olarak dikkate alınmaz' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, fail yararına cezayı hafifletecek takdiri nedenlerin varlığı halinde, ağırlaştırılmış müebbet hapis ve müebbet hapis cezaları dışındaki diğer cezalar için uygulanacak indirim oranı aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Cezanın yarısı indirilir.",
+                "B": "Cezanın üçte birine kadarı indirilir.",
+                "C": "Cezanın dörtte birine kadarı indirilir.",
+                "D": "Cezanın beşte birine kadarı indirilir.",
+                "E": "Cezanın altıda birine kadarı indirilir."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 62'de belirtilen 'Diğer cezaların altıda birine kadarı indirilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hüküm kesinleşmeden önce gerçekleşen ve şahsi hürriyeti sınırlama sonucunu doğuran haller nedeniyle geçirilmiş sürelerin adlî para cezasından indirilmesinde, bir gün kaç Türk Lirası sayılır?",
+            "secenekler": {
+                "A": "Yüz Türk Lirası",
+                "B": "İkiyüz Türk Lirası",
+                "C": "Üçyüz Türk Lirası",
+                "D": "Dörtyüz Türk Lirası",
+                "E": "Beşyüz Türk Lirası"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 63'te belirtilen 'Adlî para cezasına hükmedilmesi durumunda, bir gün beşyüz Türk Lirası sayılmak üzere, bu cezadan indirim yapılır.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ceza mahsup işlemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Şahsi hürriyeti sınırlayan haller nedeniyle geçirilen süreler, sadece hüküm kesinleştikten sonra gerçekleşmişse cezadan indirilir.",
+                "B": "Adlî para cezasına hükmedilmesi durumunda, şahsi hürriyeti sınırlayan süreler bu cezadan indirilemez.",
+                "C": "Hüküm kesinleşmeden önce gerçekleşen ve şahsi hürriyeti sınırlama sonucunu doğuran bütün haller nedeniyle geçirilmiş süreler, hükmolunan hapis cezasından indirilir.",
+                "D": "Şahsi hürriyeti sınırlama sonucunu doğuran hallerden sadece tutukluluk süresi cezadan indirilir, diğer haller indirilmez.",
+                "E": "Adlî para cezasından yapılacak indirimde bir gün karşılığı olarak yüz Türk Lirası esas alınır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 63'te belirtilen 'Hüküm kesinleşmeden önce gerçekleşen ve şahsi hürriyeti sınırlama sonucunu doğuran bütün haller nedeniyle geçirilmiş süreler, hükmolunan hapis cezasından indirilir' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, sanığın ölümü durumunda ortaya çıkan hukuki sonuç ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Sanığın ölümü halinde kamu davası mirasçılarına intikal eder ve yargılamaya kaldığı yerden devam olunur.",
+                "B": "Sanık ölse dahi, kamu davası gıyabında görülmeye devam eder ve hüküm kurulur.",
+                "C": "Kamu davasının düşürülmesine karar verilir; ancak niteliği itibarıyla müsadereye tabi eşya hakkında davaya devam olunarak müsaderesine hükmolunabilir.",
+                "D": "Sanığın ölümüyle birlikte dosya işlemden kaldırılır ve müsadere dahil hiçbir cezai yaptırım uygulanamaz.",
+                "E": "Sanığın ölümü halinde kamu davası durdurulur ve beş yıl süreyle zamanaşımı işlemez."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 64'te belirtilen 'Sanığın ölümü halinde kamu davasının düşürülmesine karar verilir. Ancak, niteliği itibarıyla müsadereye tabi eşya ve maddi menfaatler hakkında davaya devam olunarak bunların müsaderesine hükmolunabilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, hükümlünün ölümü;\n\nI. Hapis cezası,\nII. Henüz infaz edilmemiş adlî para cezaları,\nIII. Ölümden önce kesinleşmiş yargılama giderleri\n\nhususlarından hangisinin veya hangilerini ortadan kaldırır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 64'te belirtilen 'Hükümlünün ölümü, hapis ve henüz infaz edilmemiş adlî para cezalarını ortadan kaldırır. Ancak, ... yargılama giderlerine ilişkin olup ölümden önce kesinleşmiş bulunan hüküm, infaz olunur.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, özel af kurumu ile ilgili;\nI. Hapis cezasının infaz kurumunda çektirilmesine son verilebilir.\nII. Hapis cezası adlî para cezasına çevrilebilir.\nIII. Cezaya bağlı hak yoksunlukları, özel affa rağmen etkisini devam ettirir.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 65'te belirtilen özel affın hapis cezasının infazına son verebileceği, adlî para cezasına çevirebileceği ve hak yoksunluklarının etkisini devam ettireceği hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, sanığın veya hükümlünün ölümü ya da af durumları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Sanığın ölümü halinde kamu davasının düşürülmesine karar verilir.",
+                "B": "Genel af halinde, kamu davası düşer ve hükmolunan cezalar bütün neticeleri ile birlikte ortadan kalkar.",
+                "C": "Hükümlünün ölümü, hapis ve henüz infaz edilmemiş adlî para cezalarını ortadan kaldırır.",
+                "D": "Özel af durumunda, cezaya bağlı olan veya hükümde belirtilen hak yoksunlukları da ortadan kalkar.",
+                "E": "Sanığın ölümü halinde, niteliği itibarıyla müsadereye tabi eşya hakkında davaya devam olunarak müsaderesine hükmolunabilir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 65'in 3. fıkrasinda belirtilen 'Cezaya bağlı olan veya hükümde belirtilen hak yoksunlukları, özel affa rağmen etkisini devam ettirir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, fiili işlediği sırada oniki yaşını doldurmuş olup da onbeş yaşını doldurmamış olan bir fail hakkında, kanunda müebbet hapis cezasını gerektiren bir suçtan dolayı kamu davası ne kadar sürenin geçmesiyle düşer?",
+            "secenekler": {
+                "A": "12 yıl 6 ay",
+                "B": "15 yıl",
+                "C": "16 yıl 8 ay",
+                "D": "20 yıl",
+                "E": "25 yıl"
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 66/1-b ve Madde 66/2'de belirtilen 'Müebbet hapis cezasını gerektiren suçlarda yirmibeş yıl' ve 'oniki yaşını doldurmuş olup da onbeş yaşını doldurmamış olanlar hakkında, bu sürelerin yarısının... geçmesiyle kamu davası düşer' hükümlerine dayanmaktadır "
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kanunda başka türlü yazılmış olan haller dışında, kamu davasının düşmesi için geçmesi gereken sürelerle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ağırlaştırılmış müebbet hapis cezasını gerektiren suçlarda otuz yıl",
+                "B": "Müebbet hapis cezasını gerektiren suçlarda yirmibeş yıl",
+                "C": "Yirmi yıldan aşağı olmamak üzere hapis cezasını gerektiren suçlarda yirmi yıl",
+                "D": "Beş yıldan fazla ve yirmi yıldan az hapis cezasını gerektiren suçlarda onbeş yıl",
+                "E": "Beş yıldan fazla olmamak üzere hapis cezasını gerektiren suçlarda beş yıl"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 66'nın 1. fıkrasının (e) bendinde belirtilen 'Beş yıldan fazla olmamak üzere hapis veya adlî para cezasını gerektiren suçlarda sekiz yıl' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kanunda beş yıldan fazla ve yirmi yıldan az hapis cezasını gerektiren bir suçun, fiili işlediği sırada onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olan bir kişi tarafından işlenmesi halinde kamu davası kaç yılın geçmesiyle düşer?",
+            "secenekler": {
+                "A": "7,5 yıl",
+                "B": "10 yıl",
+                "C": "15 yıl",
+                "D": "20 yıl",
+                "E": "22,5 yıl"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 66'nın 1-d bendi (15 yıl) ve 2. fıkrasındaki 'onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olan kişiler hakkında ise, üçte ikisinin geçmesiyle' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, kanunda başka türlü yazılmış olan haller dışında, beş yıldan fazla ve yirmi yıldan az hapis cezasını gerektiren suçlarda kamu davası kaç yılın geçmesiyle düşer?",
+            "secenekler": {
+                "A": "Sekiz yıl",
+                "B": "On yıl",
+                "C": "On iki yıl",
+                "D": "On beş yıl",
+                "E": "Yirmi yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 66/1-d'de belirtilen 'Beş yıldan fazla ve yirmi yıldan az hapis cezasını gerektiren suçlarda onbeş yıl' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, bir suçun dava zamanaşımının kesilmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Şüpheli veya sanıklardan birinin savcı huzurunda ifadesinin alınması dava zamanaşımını keser.",
+                "B": "Şüpheli veya sanıklardan biri hakkında tutuklama kararının verilmesi dava zamanaşımını keser.",
+                "C": "Suçla ilgili olarak iddianame düzenlenmesi dava zamanaşımını keser.",
+                "D": "Sanıklardan bir kısmı hakkında da olsa, mahkûmiyet kararı verilmesi dava zamanaşımını keser.",
+                "E": "Şüphelinin kolluk görevlileri tarafından ifadesinin alınması dava zamanaşımını keser."
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 67'de belirtilen kesilme nedenleri arasında kolluk ifadesinin yer almaması, buna karşılık 'savcı huzurunda ifadesinin alınması' hükmünün bulunmasına dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, dava zamanaşımını kesen nedenler ile ilgili; \nI. Suçla ilgili olarak iddianame düzenlenmesi,\nII. Şüpheli veya sanıklardan biri hakkında tutuklama kararının verilmesi,\nIII. Kanun gereğince fail hakkında kaçak olduğu hususunda karar verilmesi,\n\ndurumlarından hangisi veya hangileri dava zamanaşımını kesen haller arasında yer alır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 67/2'de belirtilen iddianame düzenlenmesi ve tutuklama kararı verilmesinin zamanaşımını kestiği; ancak Madde 67/1'de belirtilen kaçaklık kararının zamanaşımını durdurduğu hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, dava zamanaşımının kesilmesi durumunda, zamanaşımı süresi ilgili suça ilişkin olarak Kanunda belirlenen sürenin en fazla ne kadarı kadar uzar?",
+            "secenekler": {
+                "A": "Üçte biri",
+                "B": "Yarısı",
+                "C": "Üçte ikisi",
+                "D": "İki katı",
+                "E": "Tamamı"
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 67/4'te belirtilen 'zamanaşımı süresi ilgili suça ilişkin olarak Kanunda belirlenen sürenin en fazla yarısına kadar uzar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, dava zamanaşımının durması, kesilmesi ve sürenin hesabı ile ilgili aşağıdaki ifadelerden hangisi ve hangileri doğrudur?\n\nI. Kanun gereğince hakkında kaçak olduğu hususunda karar verilmiş olan suç faili hakkında bu karar kaldırılıncaya kadar dava zamanaşımı durur.\nII. Dava zamanaşımını kesen birden fazla nedenin bulunması halinde, zamanaşımı süresi ilk kesme nedeninin gerçekleştiği tarihten itibaren yeniden işlemeye başlar.\nIII. Kesilme halinde, zamanaşımı süresi ilgili suça ilişkin olarak Kanunda belirlenen sürenin en fazla yarısına kadar uzar.",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 67'de belirtilen hükümlere dayanmaktadır. I. öncül 1. fıkraya göre doğrudur. III. öncül 4. fıkraya göre doğrudur. Ancak II. öncül yanlıştır; çünkü maddenin 3. fıkrasına göre süre ilk değil, 'son kesme nedeninin gerçekleştiği tarihten itibaren' yeniden işlemeye başlar."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ceza zamanaşımı süreleri ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+            "secenekler": {
+                "A": "Ağırlaştırılmış müebbet hapis cezalarında kırk yıl",
+                "B": "Müebbet hapis cezalarında otuz yıl",
+                "C": "Yirmi yıl ve daha fazla süreli hapis cezalarında yirmidört yıl",
+                "D": "Beş yıldan fazla hapis cezalarında on beş yıl",
+                "E": "Beş yıla kadar hapis ve adlî para cezalarında on yıl"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 68'de belirtilen 'Beş yıldan fazla hapis cezalarında yirmi yıl' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, fiili işlediği sırada onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olan kişiler hakkında ceza zamanaşımı süreleri nasıl uygulanır?",
+            "secenekler": {
+                "A": "Kanunda belirtilen sürelerin yarısının geçmesiyle ceza infaz edilmez.",
+                "B": "Kanunda belirtilen sürelerin üçte birinin geçmesiyle ceza infaz edilmez.",
+                "C": "Kanunda belirtilen sürelerin dörtte üçünün geçmesiyle ceza infaz edilmez.",
+                "D": "Kanunda belirtilen sürelerin üçte ikisinin geçmesiyle ceza infaz edilmez.",
+                "E": "Bu yaş grubu için herhangi bir indirim uygulanmaz, süreler aynen geçerlidir."
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 68/2'de belirtilen 'onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olan kişiler hakkında ise, üçte ikisinin geçmesiyle ceza infaz edilmez' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, ceza zamanaşımı süresinin işlemeye başlamasında; I. Hükmün kesinleştiği gün, II. İnfazın herhangi bir suretle kesintiye uğradığı gün, III. Suçun işlendiği gün, tarihlerinden hangileri esas alınır?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 68'de belirtilen 'Ceza zamanaşımı, hükmün kesinleştiği veya infazın herhangi bir suretle kesintiye uğradığı günden itibaren işlemeye başlar' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, cezaya bağlı olan veya hükümde belirtilen hak yoksunluklarının süresi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hükmün kesinleştiği tarihte kendiliğinden sona erer.",
+                "B": "İnfazın tamamlanmasından itibaren beş yıl daha sürer.",
+                "C": "Ceza zamanaşımı doluncaya kadar devam eder.",
+                "D": "Dava zamanaşımı süresi dolana kadar geçerlidir.",
+                "E": "Mahkemenin takdirine bağlı olarak süresiz devam eder."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 69'da belirtilen 'hak yoksunluklarının süresi ceza zamanaşımı doluncaya kadar devam eder' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, müsadereye ilişkin hüküm, kesinleşmeden itibaren kaç yıl geçtikten sonra infaz edilmez?",
+            "secenekler": {
+                "A": "Beş",
+                "B": "On",
+                "C": "On beş",
+                "D": "Yirmi",
+                "E": "Otuz"
+            },
+            "dogru_cevap": "D",
+            "gerekce": "Doğru cevap, Madde 70'te belirtilen 'Müsadereye ilişkin hüküm, kesinleşmeden itibaren yirmi yıl geçtikten sonra infaz edilmez' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, aşağıdakilerden hangisi veya hangileri ceza zamanaşımını kesen haller arasında yer alır?\n\nI. Mahkûmiyet hükmünün infazı için yetkili merci tarafından hükümlüye kanuna göre tebligat yapılması\nII. Hükmün infazı maksadıyla hükümlünün yakalanması\nIII. Hükümlünün, üst sınırı iki yıldan fazla hapis cezasını gerektiren kasıtlı bir suç işlemesi",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "E",
+            "gerekce": "Doğru cevap, Madde 71'de belirtilen tebligat yapılması, hükümlünün yakalanması ve üst sınırı iki yıldan fazla hapis cezasını gerektiren kasıtlı bir suç işlenmesi hükümlerine dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, dava ve ceza zamanaşımı sürelerinin belirlenmesi ve uygulanması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Dava ve ceza zamanaşımı süreleri sadece sanığın veya şüphelinin talebi üzerine uygulanır.",
+                "B": "Zamanaşımı hesabında bir ay otuz bir gün, bir gün ise on iki saat olarak kabul edilir.",
+                "C": "Dava ve ceza zamanaşımı re'sen uygulanır ve şüpheli, sanık veya hükümlü bu sürelerden vazgeçemez.",
+                "D": "Yıl hesabı, suçun işlendiği tarihteki mevsim şartlarına göre belirlenir.",
+                "E": "Şüpheli veya sanık, yargılamanın devam etmesi için zamanaşımı süresinden feragat edebilir."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 72'de belirtilen 'Dava ve ceza zamanaşımı re'sen uygulanır ve bundan şüpheli, sanık ve hükümlü vazgeçemezler' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, soruşturulması ve kovuşturulması şikayete bağlı olan hakaret suçu bakımından şikayet süresi, her ne suretle olursa olsun fiilin gerçekleştiği tarihten itibaren en fazla ne kadardır?",
+            "secenekler": {
+                "A": "Altı ay",
+                "B": "Bir yıl",
+                "C": "İki yıl",
+                "D": "Beş yıl",
+                "E": "Yirmi yıl"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 73'te belirtilen 'hakaret suçu bakımından şikâyet süresi, her ne suretle olursa olsun fiilin gerçekleştiği tarihten itibaren iki yılı geçemez' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, şikayetten vazgeçmenin sanıklara ve davaya etkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Hükmün kesinleşmesinden sonraki vazgeçme, her durumda cezanın infazına engel olur.",
+                "B": "İştirak halinde suç işlemiş sanıklardan biri hakkındaki şikayetten vazgeçme, diğerlerini kapsamaz.",
+                "C": "Kanunda aksi yazılı olmadıkça, vazgeçme onu kabul etmeyen sanığı etkilemez.",
+                "D": "Kamu davasının düşmesi, şahsi haklardan vazgeçildiği açıklanmasa bile hukuk mahkemesinde dava açılmasını engeller.",
+                "E": "Şikayetten vazgeçme, müsadere olunan şeylerin geri alınmasını zorunlu kılar."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 73'te belirtilen 'Kanunda aksi yazılı olmadıkça, vazgeçme onu kabul etmeyen sanığı etkilemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, genel af, özel af veya şikâyetten vazgeçmenin hukuki sonuçları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "Genel af halinde, müsadere olunan şeylerin geri verilmesi zorunludur.",
+                "B": "Kamu davasının düşmesi, malların geri alınması için açılan şahsi hak davasını otomatik olarak düşürür.",
+                "C": "Genel af halinde yargılama giderleri istenemez.",
+                "D": "Şikâyetten vazgeçme durumunda, ödenen adlî para cezası faiziyle birlikte geri alınır.",
+                "E": "Cezanın düşmesi, her durumda tazminat ve yargılama giderlerine ilişkin hükümleri ortadan kaldırır."
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 74/3'te belirtilen 'Ancak, genel af halinde yargılama giderleri de istenemez.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, genel af, özel af ve şikâyetten vazgeçmenin hukuki sonuçları hakkında; \nI. Genel af halinde yargılama giderleri istenemez.\nII. Şikâyetten vazgeçme, müsadere olunan şeylerin geri alınmasını gerektirir.\nIII. Kamu davasının düşmesi, malların geri alınması için açılan şahsi hak davasını etkilemez.\nifadelerinden hangisi veya hangileri doğrudur?",
+            "secenekler": {
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve III",
+                "D": "II ve III",
+                "E": "I, II ve III"
+            },
+            "dogru_cevap": "C",
+            "gerekce": "Doğru cevap, Madde 74'te belirtilen 'genel af halinde yargılama giderleri de istenemez' ve 'Kamu davasının düşmesi... şahsi hak davasını etkilemez' hükümlerine dayanmaktadır. II. öncül yanlıştır çünkü vazgeçme müsadere olunan şeylerin geri alınmasını gerektirmez."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, önödeme kurumunda taksitle ödeme usulü ile ilgili yapılması gereken işlem aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Failin on gün içinde talep etmesi koşuluyla, miktarın birer ay ara ile üç eşit taksit hâlinde ödenmesine Cumhuriyet savcısı tarafından karar verilir.",
+                "B": "Failin otuz gün içinde başvurması halinde, miktarın dört eşit taksit halinde ödenmesine Sulh Ceza Hâkimi karar verir.",
+                "C": "Taksitlendirme talebi doğrudan mahkemeye yapılır ve mahkemece altı eşit taksit halinde ödeme planı çıkarılır.",
+                "D": "Failin talebi olmaksızın Cumhuriyet savcısı re'sen miktarı iki eşit taksite bölebilir.",
+                "E": "Taksitlerin süresinde ödenmemesi halinde, kalan miktar için yüzde elli oranında gecikme zammı uygulanarak tahsilat yapılır."
+            },
+            "dogru_cevap": "A",
+            "gerekce": "Doğru cevap, Madde 75/1'de belirtilen 'Failin on gün içinde talep etmesi koşuluyla bu miktarın birer ay ara ile üç eşit taksit hâlinde ödenmesine Cumhuriyet savcısı tarafından karar verilir.' hükmüne dayanmaktadır."
+        },
+        {
+            "soru": "5237 Sayılı Türk Ceza Kanunu'na göre, taksirli suçlar hariç olmak üzere, önödemeye bağlı olarak kovuşturmaya yer olmadığına karar verildiği tarihten itibaren beş yıl içinde tekrar önödemeye tabi bir suç işleyen fail hakkında aşağıdakilerden hangisi uygulanır?",
+            "secenekler": {
+                "A": "Fail hakkında önödeme hükümleri hiçbir şekilde uygulanmaz ve doğrudan kamu davası açılır.",
+                "B": "Teklif edilecek önödeme miktarı yarı oranında artırılır.",
+                "C": "Önödeme miktarı iki katına çıkarılarak teklif edilir.",
+                "D": "Failin taksitlendirme hakkı elinden alınır ancak temel miktar değişmez.",
+                "E": "Sadece hapis cezası öngörülen suçlarda önödeme uygulanmaz, adli para cezasında aynen uygulanır."
+            },
+            "dogru_cevap": "B",
+            "gerekce": "Doğru cevap, Madde 75/1'de belirtilen 'beş yıl içinde önödemeye tabi bir suçu işleyen faile bu fıkra uyarınca teklif edilecek önödeme miktarı yarı oranında artırılır.' hükmüne dayanmaktadır."
+        }
+    ]
+}
