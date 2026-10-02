@@ -8,7 +8,7 @@
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             font-family: 'Inter', sans-serif;
-            background-color: #F4F6F9;
+            background: linear-gradient(to bottom, #110B29 0%, #080414 100%);
             width: 1080px;
             height: 1920px;
             display: flex;
@@ -52,10 +52,11 @@
         }
         
         .question-card {
-            background: white;
+            background: #1C153B;
             border-radius: 32px;
             padding: 50px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.04);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+            border: 1px solid rgba(255, 255, 255, 0.05);
             margin-top: -60px;
             z-index: 10;
             margin-bottom: 40px;
@@ -64,12 +65,12 @@
         .question-text {
             font-size: 36px;
             font-weight: 600;
-            color: #475569;
+            color: #F8FAFC;
             line-height: 1.5;
         }
 
         .correct-answer-card {
-            background: #ECFDF5;
+            background: #064E3B; /* Koyu yeşil */
             border: 3px solid #10B981;
             border-radius: 24px;
             padding: 40px;
@@ -81,7 +82,7 @@
 
         .correct-letter {
             background-color: #10B981;
-            color: white;
+            color: #000000;
             width: 80px;
             height: 80px;
             border-radius: 20px;
@@ -98,22 +99,23 @@
         .correct-text {
             font-size: 38px;
             font-weight: 700;
-            color: #065F46;
+            color: #A7F3D0; /* Açık parlak yeşil */
         }
 
         .explanation-card {
-            background: white;
+            background: #1C153B;
             border-radius: 32px;
             padding: 50px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.04);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+            border: 1px solid rgba(255, 255, 255, 0.05);
             flex-grow: 1;
-            border-left: 12px solid #6E50D6;
+            border-left: 12px solid #8B5CF6; /* Mor vurgu */
         }
 
         .explanation-title {
             font-size: 32px;
             font-weight: 800;
-            color: #6E50D6;
+            color: #C4B5FD;
             margin-bottom: 30px;
             text-transform: uppercase;
             letter-spacing: 1px;
@@ -130,14 +132,14 @@
         .explanation-text {
             font-size: 34px;
             line-height: 1.6;
-            color: #334155;
+            color: #E2E8F0;
             font-weight: 500;
         }
 
         .footer {
             text-align: center;
             font-size: 28px;
-            color: #94A3B8;
+            color: #64748B;
             font-weight: 600;
             padding-bottom: 40px;
             margin-top: 40px;

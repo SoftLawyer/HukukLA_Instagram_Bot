@@ -8,64 +8,64 @@
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             font-family: 'Inter', sans-serif;
-            /* Biraz daha koyu mordan beyaza geçiş */
-            background: linear-gradient(to bottom, #C4B5FD 0%, #F1F5F9 25%, #FFFFFF 100%);
+            background: linear-gradient(to bottom, #110B29 0%, #080414 100%);
             width: 1080px;
             height: 1920px;
             display: flex;
             flex-direction: column;
-            padding: 40px 60px; /* Üstteki boşluğu daha da azalttık (soru ve şıklar daha yukarıda) */
+            padding: 40px 60px;
         }
         
         .question-card {
-            background: white;
+            background: #1C153B;
             border-radius: 32px;
-            padding: 50px 50px; /* İç boşluğu biraz kıstık ki şıklar yukarı kaysın */
-            box-shadow: 0 10px 40px rgba(0,0,0,0.06);
+            padding: 50px 50px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+            border: 1px solid rgba(255, 255, 255, 0.05);
             z-index: 10;
         }
 
         .question-text {
             font-size: 42px;
             font-weight: 700;
-            color: #1E293B;
+            color: #F8FAFC;
             line-height: 1.5;
-            margin-bottom: 40px; /* Boşluk azaltıldı */
+            margin-bottom: 40px;
         }
         
         .separator {
             text-align: center;
-            margin-bottom: 25px; /* Boşluk azaltıldı */
+            margin-bottom: 25px;
         }
         .separator-dot {
             display: inline-block;
             width: 24px;
             height: 24px;
-            background-color: #3B82F6;
+            background-color: #8B5CF6; /* Mor nokta */
             border-radius: 50%;
         }
 
         .options {
             display: flex;
             flex-direction: column;
-            gap: 16px; /* Şıklar arası boşluk azaltıldı */
+            gap: 16px;
         }
 
         .option {
-            background-color: #F8FAFC;
-            border: 2px solid #E2E8F0;
+            background-color: #261D4C;
+            border: 2px solid #3B2D71;
             border-radius: 20px;
-            padding: 20px 30px; /* Şık paddingi azaltıldı */
+            padding: 20px 30px;
             font-size: 34px;
             font-weight: 600;
-            color: #1E293B;
+            color: #E2E8F0;
             display: flex;
             align-items: center;
         }
 
         .option-letter {
-            background-color: #E2E8F0;
-            color: #475569;
+            background-color: #3B2D71;
+            color: #C4B5FD;
             width: 64px;
             height: 64px;
             border-radius: 12px;
