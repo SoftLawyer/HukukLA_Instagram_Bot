@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 HukukLA Instagram Carousel Generator
-"Sıradaki" komutuyla bekleyen sıradaki konuyu hazırlar ve İndirilenler klasörüne kaydeder.
+"Sıradaki" komutuyla bekleyen sıradaki konuyu hazırlar, İndirilenler klasörüne kaydeder
+ve paylaşım metnini (açıklama) hazırlar.
 """
 
 import sys
@@ -21,13 +22,13 @@ def load_topics():
         return json.load(f)
 
 def list_topics(topics):
-    print("\n" + "="*70)
+    print("\n" + "="*75)
     print("📚 HUKUKLA INSTAGRAM CAROUSEL KONU LİSTESİ (20 KONU)")
-    print("="*70)
+    print("="*75)
     for t in topics:
         status_symbol = "✅ [TAMAMLANDI]" if t.get("status") == "completed" else "⏳ [BEKLİYOR]  "
-        print(f"{t['id']:02d}. {status_symbol} {t['badge_icon']} {t['badge_text']:<25} | {t['title']}")
-    print("="*70 + "\n")
+        print(f"{t['id']:02d}. {status_symbol} {t['topic_cyan_title']}")
+    print("="*75 + "\n")
 
 def reset_topics():
     topics = load_topics()
@@ -76,22 +77,26 @@ def main():
             return
         target_id = target["id"]
 
-    print("\n" + "="*70)
+    print("\n" + "="*75)
     print(f"🚀 SIRADAKİ CAROUSEL HAZIRLANIYOR: #{target_id:02d}")
     print(f"📌 Başlık : {target['title']}")
-    print(f"🏷️ Kategori: {target['badge_icon']} {target['badge_text']}")
+    print(f"🏷️ Cyan Başlık: {target['topic_cyan_title']}")
     print(f"📁 Klasör : {target['folder_name']}")
-    print("="*70)
+    print("="*75)
 
     try:
-        topic_info, output_folder, files = render_topic_carousel(target_id, TOPICS_FILE)
-        print("\n" + "-"*70)
-        print("✅ CAROUSEL BAŞARIYLA OLUŞTURULDU!")
+        topic_info, output_folder, files, caption = render_topic_carousel(target_id, TOPICS_FILE)
+        print("\n" + "-"*75)
+        print("✅ CAROUSEL VE AÇIKLAMA METNİ BAŞARIYLA OLUŞTURULDU!")
         print(f"📂 Kayıt Yeri: {output_folder}")
-        print("🖼️ Üretilen Slide Görselleri:")
+        print("🖼️ Üretilen Dosyalar:")
         for f in files:
-            print(f"   • {os.path.basename(f)} ({os.path.getsize(f) // 1024} KB)")
-        print("-"*70 + "\n")
+            size_kb = os.path.getsize(f) // 1024 if os.path.getsize(f) > 1024 else 1
+            print(f"   • {os.path.basename(f)} ({size_kb} KB)")
+        print("\n📝 INSTAGRAM GÖNDERİ AÇIKLAMASI (aciklama.txt olarak da kaydedildi):")
+        print("~"*75)
+        print(caption)
+        print("~"*75 + "\n")
     except Exception as e:
         print(f"[!] Carousel üretilirken bir hata oluştu: {e}")
         import traceback

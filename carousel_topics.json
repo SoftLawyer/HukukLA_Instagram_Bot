@@ -2,12 +2,27 @@
   {
     "id": 1,
     "folder_name": "01_Deneme_Sinavlarinda_Netleri_Dibe_Ceken_3_Hata",
-    "title": "Deneme Sınavlarında Netleri Dibe Çeken 3 Büyük Hata",
-    "category": "HMGS Strateji",
-    "badge_icon": "🔴",
-    "badge_text": "EYLÜL HMGS ALARMI",
-    "hook_title_html": "Deneme Sınavlarında<br>Netlerini Dibe Çeken<br><span class=\"text-red\">3 Büyük Hata 🔴</span>",
-    "curiosity_subtext": "(Deneme netlerin bir türlü artmıyorsa, sorunu masada değil stratejinde arama vakti 👇)",
+    "title": "Deneme Sınavlarında Netleri Dibe Çeken 3 Hata",
+    "hook_lines": [
+      "ÇOĞU",
+      "ADAY",
+      "BU HATALARI",
+      "BİLMİYOR:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "Deneme Sınavlarında Netleri Dibe Çeken 3 Hata",
+    "core_principle_upper": "ÇOK SORU ÇÖZMEK DEĞİL, DOĞRU STRATEJİ SINAV KAZANDIRIR",
+    "hook_desc": "Konuları bitirmene rağmen deneme netlerin bir türlü 80'in üzerine çıkmıyorsa sorun masada değil taktiğinde 👇",
+    "pin_text": "📌 Bu stratejiyi mutlaka kaydet, bir sonraki denemeden önce uygula.",
+    "caption_intro": "Aylardır harıl harıl çalışıyorsun ama deneme netlerin hep aynı bantta mı takılı kaldı? HMGS ve kurumlarda binlerce adayı masada eleyen o 3 gizli hatayı çıkardım.",
+    "caption_bullets": [
+      "⏱️ Kronometresiz soru çözmek: Soru başına 65 saniye kuralını ihlal etmek",
+      "❌ Yanlışın peşini bırakmak: Neti artıran tek şey yanlış çözdüğün soruların analizi",
+      "📚 Sadece kanun ezberlemek: ÖSYM'nin kurgusal olay sorularında maddeyi uygulayamamak",
+      "🎯 Altın formül: Haftada 1 tam süreli deneme + 2 gün nokta atışı kanun taraması"
+    ],
+    "caption_question": "Sence denemelerde en çok zorlandığın ve net kaybettiğin ders hangisi? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "completed",
     "slides": [
       {
@@ -15,68 +30,82 @@
       },
       {
         "type": "content",
-        "step_badge": "1. BÜYÜK HATA",
-        "title": "Soru Çözerken <span class=\"text-red\">Süre Tutmamak</span>",
-        "problem_title": "⚠️ MASA BAŞI YALANCI ÖZGÜVENİ",
-        "problem_desc": "Kahve eşliğinde rahatça çözdüğün sorularda %85 başarı sağlarken, gerçek sınavda veya süreli denemede soruların 1/3'ünü yetiştiremeyip panikliyorsun.",
-        "solution_title": "✅ HMGS GERÇEĞİ: 65 SANİYE",
-        "solution_desc": "HMGS'de soru başına düşen ideal süre 65 saniyedir. Kronometresiz çözülen her soru seti, sınav günü zaman baskısı ve optik kaydırma riski olarak geri döner.",
-        "tactic": "HukukLA Taktiği: Günlük 30 soruluk blokları telefonunda 32 dakikalık geri sayım sayacıyla çözmeye hemen başla."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Deneme Sınavlarında Netleri Dibe Çeken 3 Hata - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Konuları bitirmene rağmen deneme netlerin bir türlü 80'in üzerine çıkmıyorsa sorun masada değil taktiğinde 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "ÇOK SORU ÇÖZMEK DEĞİL, DOĞRU STRATEJİ SINAV KAZANDIRIR.",
+        "tactic": "HukukLA Taktiği: ⏱️ Kronometresiz soru çözmek: Soru başına 65 saniye kuralını ihlal etmek"
       },
       {
         "type": "content",
-        "step_badge": "2. BÜYÜK HATA",
-        "title": "Yanlış Sorunun <span class=\"text-gold\">Peşini Bırakmak</span>",
-        "problem_title": "⚠️ EN BÜYÜK ZAMAN İSRAFI",
-        "problem_desc": "Denemeyi bitirip sadece net sayısına bakmak ve '80 yapmışım fena değil' diyip kapatmak. Yanlış yaptığın 20 soru neden yanlış, hangi çeldiriciye takıldın?",
-        "solution_title": "✅ NETİ ARTIRAN TEK ŞEY",
-        "solution_desc": "Doğru yaptıkların zaten cepte. Netlerini zıplatacak olan tek şey; yanlış yaptığın ve boş bıraktığın soruların hangi madde numarasına dayandığını tespit etmektir.",
-        "tactic": "HukukLA Taktiği: Kendine bir 'Hata Defteri' aç. Yanlış yaptığın her sorunun ait olduğu kanun maddesini 1 cümleyle bu deftere not et."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "❌ Yanlışın peşini bırakmak: Neti artıran tek şey yanlış çözdüğün soruların analizi",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "📚 Sadece kanun ezberlemek: ÖSYM'nin kurgusal olay sorularında maddeyi uygulayamamak",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "3. BÜYÜK HATA",
-        "title": "Sadece Kanun Metni Ezberleyip <span class=\"text-red\">Olay Çözmemek</span>",
-        "problem_title": "⚠️ ÖSYM'NİN EN SEVDİĞİ ÇUKUR",
-        "problem_desc": "Madde metnini ezberleyen öğrenci, sınavda 8 satırlık karmaşık bir miras ya da alacak olayı görünce panikliyor ve bildiği maddeyi olaya uygulayamıyor.",
-        "solution_title": "✅ FORMÜL: MADDE + OLAY KURGUSU",
-        "solution_desc": "HMGS salt bilgi değil, bilgiyi somut uyuşmazlığa uygulama yeteneğini ölçer. Çeldiriciler genellikle istisnanın istisnası durumlarından kurgulanır.",
-        "tactic": "HukukLA Taktiği: Her konudan sonra en az 3 adet kurgusal olay sorusu çözmeden konuyu 'bitti' sayma."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "📚 Sadece kanun ezberlemek: ÖSYM'nin kurgusal olay sorularında maddeyi uygulayamamak",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "🎯 Altın formül: Haftada 1 tam süreli deneme + 2 gün nokta atışı kanun taraması",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "ALTIN FORMÜL",
-        "title": "Sınav Kazandıran <span class=\"text-gold\">Haftalık Deneme Döngüsü</span>",
-        "problem_title": "📊 3 AŞAMALI NET ARTIRMA SİSTEMİ",
-        "problem_desc": "1. Hafta Sonu: Sabah 10:15'te tam süreli (155 dk) deneme çöz.<br>2. Aynı Gün: Yanlış ve boş soruların analizini yap, kanun maddelerini çıkar.<br>3. Hafta İçi: Sadece o yanlış çıkan 3 derse odaklanıp nokta atışı tekrar yap.",
-        "solution_title": "🎯 HEDEF: +12 NET",
-        "solution_desc": "Bu döngüyü 4 hafta uygulayan hiçbir öğrencinin netleri yerinde saymaz. Standart sapma senin lehine çalışır.",
-        "tactic": "Unutma: Başarı çok çalışmakta değil, yanlışlarını acımasızca avlamaktadır."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• ⏱️ Kronometresiz soru çözmek: Soru başına 65 saniye kuralını ihlal etmek<br>• ❌ Yanlışın peşini bırakmak: Neti artıran tek şey yanlış çözdüğün soruların analizi<br>• 📚 Sadece kanun ezberlemek: ÖSYM'nin kurgusal olay sorularında maddeyi uygulayamamak",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "ÇOK SORU ÇÖZMEK DEĞİL, DOĞRU STRATEJİ SINAV KAZANDIRIR.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "ÖZET & AKSİYON",
-        "title": "Bu Taktikleri Sınav Gününe Kadar <span class=\"text-gold\">Unutmamak İçin:</span>",
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
         "action_1_title": "Gönderiyi Kaydet",
-        "action_1_desc": "Deneme öncesi stratejini hatırlamak için bu carouseli kaydet.",
-        "action_2_title": "Arkadaşınla Paylaş",
-        "action_2_desc": "Birlikte hazırlandığın kütüphane arkadaşına gönder.",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
         "app_title": "HMGS'de Sürpriz Yaşama",
-        "app_desc": "Akıllı soru bankası, konu denemeleri ve yapay zeka analizleri HukukLA'da cebinde."
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ],
-    "generated_at": "2026-11-09T19:40:03.780822",
+    "generated_at": "2026-11-09T19:52:01.896117",
     "output_dir": "/Users/elifgurler/Downloads/01_Deneme_Sinavlarinda_Netleri_Dibe_Ceken_3_Hata"
   },
   {
     "id": 2,
     "folder_name": "02_Hukukta_Kimsenin_Anlatmadigi_Maden_KVKK_ve_Veri_Hukuku",
-    "title": "Hukuk Fakültesinde Kimsenin Bahsetmediği Maden: KVKK ve Veri Hukuku Uzmanlığı",
-    "category": "Kariyer Rehberi",
-    "badge_icon": "💼",
-    "badge_text": "2026 KARİYER REHBERİ",
-    "hook_title_html": "Hukuk Fakültesinde Kimsenin Sana Anlatmadığı O Gizli Maden:<br><span class=\"text-gold\">KVKK ve Veri Hukuku Uzmanlığı 🤫</span>",
-    "curiosity_subtext": "(Öğrenci, stajyer veya mezun ol fark etmez. 2026'da 'Hukukta iş yok' masalını çürüten yeni nesil alan 👇)",
+    "title": "Hukuk Fakültesinde Anlatılmayan Maden: KVKK ve Veri Hukuku",
+    "hook_lines": [
+      "ÇOĞU",
+      "HUKUKÇU",
+      "BU MADENİ",
+      "BİLMİYOR:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "KVKK ve Veri Hukuku Uzmanlığı",
+    "core_principle_upper": "DİJİTAL DÜNYADA VERİYİ YÖNETEN, HUKUKUN EN PAHALI OYUNCUSUDUR",
+    "hook_desc": "Öğrenci, stajyer veya mezun ol fark etmez. 2026'da 'Hukukta iş yok' masalını çürüten yeni nesil alan 👇",
+    "pin_text": "📌 Bu kariyer rotasını mutlaka kaydet, geleceğini adliye sıralarına hapsetme.",
+    "caption_intro": "'Hukuk fakülteleri çok mezun veriyor, avukatlık bitti' diyenlerin göremediği devasa bir pazar var: KVKK & Veri Hukuku. Milyonluk cezaların havada uçuştuğu dijital ekonomide şirketlerin en acil aradığı uzmanlık.",
+    "caption_bullets": [
+      "🛡️ Adliye koridorları yerine kurumsal danışmanlık: Şirketlerin DPO ve uyum ihtiyacı",
+      "💵 Düzenli aylık gelir modeli: Tek seferlik dava peşinde koşmak yerine retainer danışmanlık",
+      "🌍 GDPR ile küresel rota: Yurt dışına SaaS ve e-ihracat yapan şirketlere döviz bazlı hizmet",
+      "🎯 3 Adımlı plan: 6698 SK + Kurul Kararları + ISO 27001 Bilgi Güvenliği entegrasyonu"
+    ],
+    "caption_question": "Sence gelecekte en çok kazandıracak hukuk alanı hangisi? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -84,54 +113,53 @@
       },
       {
         "type": "content",
-        "step_badge": "GERÇEKLİK KONTROLÜ",
-        "title": "Klasik Adliye Koridorları vs. <span class=\"text-gold\">Dijital Ekonomi</span>",
-        "problem_title": "📉 ESKİ NESİL AVUKATLIK TIKANDI",
-        "problem_desc": "İcra dosyaları, çekişmeli boşanmalar ve bitmek bilmeyen duruşma sıraları... Rekabetin en vahşi olduğu alanda sıfırdan isim yapmak artık yıllar alıyor.",
-        "solution_title": "🚀 VERİ DÜNYANIN EN DEĞERLİ VARLIĞI",
-        "solution_desc": "Her şirket, e-ticaret sitesi, sağlık kuruluşu ve mobil uygulama KVKK/GDPR uyumlu olmak zorunda. Ceza miktarları milyon TL'lerle ölçülüyor.",
-        "tactic": "Fırsat: Türkiye'de veri hukuku ve uyumluluk (compliance) bilen yetkin avukat sayısı pazar ihtiyacının henüz %20'sini karşılıyor."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Hukuk Fakültesinde Anlatılmayan Maden: KVKK ve Veri Hukuku - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Öğrenci, stajyer veya mezun ol fark etmez. 2026'da 'Hukukta iş yok' masalını çürüten yeni nesil alan 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "DİJİTAL DÜNYADA VERİYİ YÖNETEN, HUKUKUN EN PAHALI OYUNCUSUDUR.",
+        "tactic": "HukukLA Taktiği: 🛡️ Adliye koridorları yerine kurumsal danışmanlık: Şirketlerin DPO ve uyum ihtiyacı"
       },
       {
         "type": "content",
-        "step_badge": "GİZLİ KAZANÇ MODELİ",
-        "title": "Aylık Düzenli <span class=\"text-emerald\">Retainer Gelir Modeli</span>",
-        "problem_title": "⚠️ TEK SEFERLİK DOSYA ÇİLESİ",
-        "problem_desc": "Klasik davalarda ücreti tahsil etmek aylar sürer, dava bitince gelir kesilir. Gelecek ay ne kazanacağını asla bilemezsin.",
-        "solution_title": "✅ VERİ DANIŞMANLIĞI GELİRİ",
-        "solution_desc": "Şirketlere aylık sürekli KVKK Danışmanlığı (DPO/Veri Sorumlusu Temsilciliği) verdiğinde her ay düzenli danışmanlık faturası kesersin.",
-        "tactic": "5 orta ölçekli şirkete aylık düzenli uyum danışmanlığı vermek, tek başına ortalama bir büro cirosundan fazlasını üretir."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "💵 Düzenli aylık gelir modeli: Tek seferlik dava peşinde koşmak yerine retainer danışmanlık",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "🌍 GDPR ile küresel rota: Yurt dışına SaaS ve e-ihracat yapan şirketlere döviz bazlı hizmet",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "GLOBAL ENTEGRASYON",
-        "title": "GDPR ile <span class=\"text-gold\">Döviz Bazlı Danışmanlık</span>",
-        "problem_title": "🌍 TÜRK HUKUKUNUN SINIRLARI",
-        "problem_desc": "Türk Borçlar Kanunu sadece Türkiye'de geçerlidir. Ama Veri Hukuku (GDPR - AB Veri Koruma Tüzüğü) küresel bir standarttır.",
-        "solution_title": "🇪🇺 AVRUPA'YA İŞ YAPAN TÜRK ŞİRKETLERİ",
-        "solution_desc": "Avrupa'ya ihracat yapan, SaaS yazılım satan veya turizm hizmeti veren her Türk şirketi GDPR uyumu sağlamak zorundadır.",
-        "tactic": "İngilizce + GDPR bilen bir genç hukukçu, Türkiye'de oturarak Avrupa standartlarında danışmanlık verebilir."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "🌍 GDPR ile küresel rota: Yurt dışına SaaS ve e-ihracat yapan şirketlere döviz bazlı hizmet",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "🎯 3 Adımlı plan: 6698 SK + Kurul Kararları + ISO 27001 Bilgi Güvenliği entegrasyonu",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "YOL HARİTASI",
-        "title": "Öğrenci veya Genç Hukukçu <span class=\"text-gold\">Nereden Başlamalı?</span>",
-        "problem_title": "🗺️ 3 ADIMLI UZMANLAŞMA PLANI",
-        "problem_desc": "1. 6698 Sayılı Kanun ve Kurul Kararlarını satır satır tara.<br>2. VERBİS kayıt süreçlerini ve aydınlatma metni yazımını uygulamalı öğren.<br>3. ISO 27001 Bilgi Güvenliği temel mantığını kavra.",
-        "solution_title": "🎯 SERTİFİKA & PORTFÖY",
-        "solution_desc": "IAPP (CIPP/E) sertifikası alarak küresel ölçekte tanınan bir Veri Koruma Uzmanı unvanına kavuşabilirsin.",
-        "tactic": "LinkedIn profilini 'Data Privacy & Tech Lawyer' olarak konumlandırarak şimdiden sektörel içerik üretmeye başla."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 🛡️ Adliye koridorları yerine kurumsal danışmanlık: Şirketlerin DPO ve uyum ihtiyacı<br>• 💵 Düzenli aylık gelir modeli: Tek seferlik dava peşinde koşmak yerine retainer danışmanlık<br>• 🌍 GDPR ile küresel rota: Yurt dışına SaaS ve e-ihracat yapan şirketlere döviz bazlı hizmet",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "DİJİTAL DÜNYADA VERİYİ YÖNETEN, HUKUKUN EN PAHALI OYUNCUSUDUR.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "KAYDET & İLERLE",
-        "title": "Yeni Nesil Hukuk Kariyerini <span class=\"text-gold\">İnşa Et:</span>",
-        "action_1_title": "Rehberi Kaydet",
-        "action_1_desc": "Kariyer yol haritan için bu gönderiyi mutlaka kaydet.",
-        "action_2_title": "Meslektaşınla Paylaş",
-        "action_2_desc": "Geleneksel kalıpların dışına çıkmak isteyen bir hukukçuya gönder.",
-        "app_title": "Geleceğin Hukukçusu Ol",
-        "app_desc": "HukukLA ile HMGS hazırlığından kariyer vizyonuna kadar ihtiyacın olan her şey yanında."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
@@ -139,11 +167,26 @@
     "id": 3,
     "folder_name": "03_HMGS_Zaman_Tuzagi_155_Dakika_Degil_113_Dakikan_Var",
     "title": "HMGS'de 155 Dakikan Var Ama Gerçekte Sadece 113 Dakikan Var!",
-    "category": "HMGS Zaman Yönetimi",
-    "badge_icon": "⏱️",
-    "badge_text": "HMGS ZAMAN YÖNETİMİ",
-    "hook_title_html": "HMGS'de 155 Dakikan Var.<br><span class=\"text-gold\">Ama Gerçekte Sadece 113 Dakikan Var!</span><br>Aradaki 42 Dakikayı Nereye Kaybettin? 👇",
-    "curiosity_subtext": "(Sınav günü yetiştiremeyip 20 soruyu boş bırakan binlerce adayın fark edemediği optik ve soru geçiş süresi gerçeği 👇)",
+    "hook_lines": [
+      "HMGS'DE",
+      "155 DAKİKA",
+      "VAR SANIYORSAN",
+      "YANILIYORSUN:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "Gerçek Sınav Süresi: 113 Dakika",
+    "core_principle_upper": "42 DAKİKAYI NEREYE KAYBETTİĞİNİ BİLMEYEN ADAY SINAVI YETİŞTİREMEZ",
+    "hook_desc": "Sınav günü yetiştiremeyip 20 soruyu boş bırakan binlerce adayın fark edemediği optik ve soru geçiş süresi gerçeği 👇",
+    "pin_text": "📌 Bu taktiği kaydet, denemelerde süreni buna göre ayarla.",
+    "caption_intro": "HMGS'de 100 soru için 155 dakika verildiğini görüp rahat davranan binlerce aday sınav günü 'yetiştiremedim' şoku yaşıyor. O 42 dakika nereye buharlaşıyor?",
+    "caption_bullets": [
+      "📊 Görünmeyen süre kaybı: Optik kodlama (12 dk) + Soru geçişi (8 dk) + İnatlaşma (15 dk) = 42 Dakika",
+      "⚠️ Ego tuzağı: Zor bir soruyla inatlaşıp 4 dakika harcamak yerine turlama tekniğine geçmek",
+      "🔄 2 Tur kuralı: İlk 85 dakikada emin olduğun 65 soruyu cebe koymak",
+      "📝 Kodlama protokolü: Sınav sonunda değil, sayfa sayfa (2-3 soruda bir) kodlama yapmak"
+    ],
+    "caption_question": "Denemelerde süre sıkıntısı yaşıyor musun, sorular yetişiyor mu? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -151,54 +194,53 @@
       },
       {
         "type": "content",
-        "step_badge": "GİZLİ KAYIP DAKİKALAR",
-        "title": "42 Dakika <span class=\"text-red\">Nereye Buharlaşıyor?</span>",
-        "problem_title": "⏳ MATEMATİKSEL GERÇEK",
-        "problem_desc": "100 soru için 155 dakika verildiğini görüp 'Soru başına 1.55 dakika var, çok rahatım' diyorsan en büyük tuzağa düştün demektir.",
-        "solution_title": "📊 GÖRÜNMEYEN SÜRE EKSİLMESİ",
-        "solution_desc": "• Optik Kodlama: ~12 Dakika<br>• Soru Geçişi & Sayfa Çevirme: ~8 Dakika<br>• Odak Kaybı & Masada Dinlenme: ~7 Dakika<br>• Takıldığın Sorularda İnatlaşma: ~15 Dakika",
-        "tactic": "Net Kalan: 100 soru için sadece 113 net çözüm dakikası! Yani soru başına 67 saniye."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "HMGS'de 155 Dakikan Var Ama Gerçekte Sadece 113 Dakikan Var! - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Sınav günü yetiştiremeyip 20 soruyu boş bırakan binlerce adayın fark edemediği optik ve soru geçiş süresi gerçeği 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "42 DAKİKAYI NEREYE KAYBETTİĞİNİ BİLMEYEN ADAY SINAVI YETİŞTİREMEZ.",
+        "tactic": "HukukLA Taktiği: 📊 Görünmeyen süre kaybı: Optik kodlama (12 dk) + Soru geçişi (8 dk) + İnatlaşma (15 dk) = 42 Dakika"
       },
       {
         "type": "content",
-        "step_badge": "1. STRATEJİK HATA",
-        "title": "Zor Soruyla <span class=\"text-red\">İnatlaşma Sendromu</span>",
-        "problem_title": "⚠️ EGO TUZAĞI",
-        "problem_desc": "Medeni Hukuk'ta çok iyi çalıştığın bir konudan gelen karmaşık soruya 4.5 dakika harcamak. 'Ben bu konuyu biliyorum, mutlaka bulmalıyım' egosu.",
-        "solution_title": "✅ HER SORUNUN PUAN DEĞERİ EŞİT",
-        "solution_desc": "4.5 dakikada çözdüğün zor miras sorusu ile 25 saniyede çözebileceğin kolay Avukatlık Hukuku sorusunun getirdiği ham puan tamamen aynıdır!",
-        "tactic": "Kural: 75 saniyede sonuca ulaşamadığın sorunun yanına hemen bir işaret koy ve beklemeden geç."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "⚠️ Ego tuzağı: Zor bir soruyla inatlaşıp 4 dakika harcamak yerine turlama tekniğine geçmek",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "🔄 2 Tur kuralı: İlk 85 dakikada emin olduğun 65 soruyu cebe koymak",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "KURTARICI METOT",
-        "title": "Sınav Kazandıran <span class=\"text-emerald\">Turlama Tekniği</span>",
-        "problem_title": "🔄 1. TUR: HIZLI VE KESİN PUANLAR",
-        "problem_desc": "İlk 85 dakikada sadece %100 emin olduğun, metni kısa ve cevabı net soruları çöz. Bu turda yaklaşık 65-70 soruyu cebe koyarsın.",
-        "solution_title": "🔄 2. TUR: ÇELDİRİCİLİ VE UZUN SORULAR",
-        "solution_desc": "Kalan 28 dakikada işaretlediğin o iki şık arasında kaldığın veya uzun metinli sorulara sakin bir zihinle dön.",
-        "tactic": "Bu yöntem, sınav sonunda 'Yetiştiremedim, arkadaki kolay sorulara bakamadım bile' pişmanlığını sıfıra indirir."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "🔄 2 Tur kuralı: İlk 85 dakikada emin olduğun 65 soruyu cebe koymak",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "📝 Kodlama protokolü: Sınav sonunda değil, sayfa sayfa (2-3 soruda bir) kodlama yapmak",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "OPTİK STRATEJİ",
-        "title": "Optik Kodlama <span class=\"text-gold\">Ne Zaman Yapılmalı?</span>",
-        "problem_title": "❌ EN TEHLİKELİ 2 YÖNTEM",
-        "problem_desc": "1. Her soruyu tek tek hemen kodlamak (dikkat dağıtır, ritim bozar).<br>2. Bütün sınavı bitirip son 10 dakikada hepsini kodlamak (optik kaydırma riski tavan yapar).",
-        "solution_title": "✅ SAYFA SAYFA KODLAMA PROTOKOLÜ",
-        "solution_desc": "Her kitapçık sayfasını (genelde 2-3 soru) bitirdiğinde kodla. Hem parmakların ve boynun 5 saniye dinlenir hem de kaydırma riski ortadan kalkar.",
-        "tactic": "Son 10 dakikayı asla optik kodlama stresine bırakma."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 📊 Görünmeyen süre kaybı: Optik kodlama (12 dk) + Soru geçişi (8 dk) + İnatlaşma (15 dk) = 42 Dakika<br>• ⚠️ Ego tuzağı: Zor bir soruyla inatlaşıp 4 dakika harcamak yerine turlama tekniğine geçmek<br>• 🔄 2 Tur kuralı: İlk 85 dakikada emin olduğun 65 soruyu cebe koymak",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "42 DAKİKAYI NEREYE KAYBETTİĞİNİ BİLMEYEN ADAY SINAVI YETİŞTİREMEZ.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "ZAMANINI KORU",
-        "title": "HMGS'de Zamanı Yöneten <span class=\"text-gold\">Sınavı Yönetir:</span>",
-        "action_1_title": "Stratejiyi Kaydet",
-        "action_1_desc": "Bir sonraki denemende turlama tekniğini denemek için kaydet.",
-        "action_2_title": "Zaman Sıkıntısı Çeken Arkadaşına Yolla",
-        "action_2_desc": "Denemelerde süre yetiştiremeyen bir meslektaşını etiketle.",
-        "app_title": "Süreli Testlerle Kendini Sına",
-        "app_desc": "HukukLA uygulamasında geri sayım sayaçlı soru çözümüyle sınav hızını artır."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
@@ -206,11 +248,26 @@
     "id": 4,
     "folder_name": "04_Turk_Hukuk_Diplomasiyla_Yurt_Disinda_Calismanin_4_Yolu",
     "title": "Türk Hukuk Diplomasıyla Yurt Dışında Çalışmanın 4 Küresel Rotası",
-    "category": "Küresel Hukuk Kariyeri",
-    "badge_icon": "📍",
-    "badge_text": "KÜRESEL HUKUK KARİYERİ",
-    "hook_title_html": "Türk Hukuk Diplomasıyla<br>Yurt Dışında Çalışmanın Tek Yolu<br><span class=\"text-gold\">'Klasik Avukatlık' Değil! 🌍</span>",
-    "curiosity_subtext": "(Yerel baro lisansı veya zorlu denklik süreçleri gerektirmeyen, hukuk mezunlarının dünyada en çok arandığı 4 uluslararası rota 👇)",
+    "hook_lines": [
+      "ÇOĞU",
+      "MEZUN",
+      "BUNU İMKANSIZ",
+      "SANIYOR:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "Yurt Dışında Çalışmanın 4 Küresel Rotası",
+    "core_principle_upper": "KLASİK AVUKATLIK LİSANSI OLMADAN DA DÜNYAYA DANIŞMANLIK VEREBİLİRSİN",
+    "hook_desc": "Yerel baro lisansı veya zorlu denklik süreçleri gerektirmeyen, hukuk mezunlarının dünyada en çok arandığı 4 uluslararası rota 👇",
+    "pin_text": "📌 Bu küresel kariyer rehberini kaydet, gelecekte vizyonunu açsın.",
+    "caption_intro": "'Türk kanunlarını öğrendim, yurt dışında hiçbir yerde çalışamam' efsanesi artık tarih oldu. Modern kurumsal dünyada hukukçuların %70'i mahkemeye bile adım atmıyor.",
+    "caption_bullets": [
+      "💼 Compliance Officer: Kara para aklama (AML) ve finansal regülasyon uyumu",
+      "📑 Contract Manager: Global teknoloji şirketlerinde uzaktan sözleşme yönetimi",
+      "🛡️ Global Data Privacy: CIPP/E sertifikasıyla uluslararası veri koruma uzmanlığı",
+      "⚖️ Tahkim Sekreterliği: ICC, LCIA gibi merkezlerde raportörlük ve uyuşmazlık çözümü"
+    ],
+    "caption_question": "Yurt dışında veya remote döviz bazlı çalışmak ister miydin? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -218,66 +275,80 @@
       },
       {
         "type": "content",
-        "step_badge": "BÜYÜK YANILGI",
-        "title": "'Türk Hukuku Dünyada Geçmez' <span class=\"text-red\">Efsanesi</span>",
-        "problem_title": "🚫 EN BÜYÜK ZİHİNSEL ENGEL",
-        "problem_desc": "'Ben Türk Kanunlarını öğrendim, Londra'da ya da Berlin'de mahkemeye çıkamam, o zaman yurt dışı imkansız' düşüncesi genç hukukçuların en büyük yanılgısıdır.",
-        "solution_title": "🌐 GLOBAL ŞİRKETLERİN İHTİYACI",
-        "solution_desc": "Modern iş dünyasında hukukçuların %70'i mahkemeye adım bile atmaz. Sözleşme müzakeresi, regülasyon uyumu ve risk analitiği tamamen sınır ötesidir.",
-        "tactic": "Sen sadece kanun ezbercisi değil; karmaşık kuralları iş stratejisine tercüme eden bir problem çözücüsün."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Türk Hukuk Diplomasıyla Yurt Dışında Çalışmanın 4 Küresel Rotası - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Yerel baro lisansı veya zorlu denklik süreçleri gerektirmeyen, hukuk mezunlarının dünyada en çok arandığı 4 uluslararası rota 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "KLASİK AVUKATLIK LİSANSI OLMADAN DA DÜNYAYA DANIŞMANLIK VEREBİLİRSİN.",
+        "tactic": "HukukLA Taktiği: 💼 Compliance Officer: Kara para aklama (AML) ve finansal regülasyon uyumu"
       },
       {
         "type": "content",
-        "step_badge": "1. KÜRESEL ROTA",
-        "title": "Uluslararası Uyumluluk: <span class=\"text-gold\">Compliance Officer</span>",
-        "problem_title": "💼 BANKACILIK & FİNTEK DÜNYASI",
-        "problem_desc": "Kara para aklama (AML), yaptırımlar (Sanctions), yolsuzlukla mücadele (FCPA) gibi regülasyonlar her uluslararası banka ve finans kuruluşunda zorunludur.",
-        "solution_title": "✅ DENKLİK GEREKTİRMEZ",
-        "solution_desc": "Compliance pozisyonları baro levhasına kayıtlı avukatlık değil, kurumsal yöneticilik statüsündedir. Maaşları küresel ölçekte son derece yüksektir.",
-        "tactic": "ACAMS veya ICA sertifikaları alarak doğrudan global fintech ve bankalara başvuru yapabilirsin."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "📑 Contract Manager: Global teknoloji şirketlerinde uzaktan sözleşme yönetimi",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "🛡️ Global Data Privacy: CIPP/E sertifikasıyla uluslararası veri koruma uzmanlığı",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "2. KÜRESEL ROTA",
-        "title": "Sözleşme Yöneticiliği: <span class=\"text-emerald\">Contract Manager</span>",
-        "problem_title": "📑 YAZILIM VE ENERJİ DEVLERİ",
-        "problem_desc": "Global teknoloji (SaaS), havacılık ve enerji şirketleri binlerce tedarikçi ve müşteri sözleşmesini yönetecek hukuk formasyonlu uzmanlar arar.",
-        "solution_title": "✅ REMOTE (UZAKTAN) İMKANI",
-        "solution_desc": "Sözleşme taslağı hazırlamak, müzakereleri yürütmek ve riskleri tespit etmek evinden çıkmadan dövizle maaş almanın en popüler yoludur.",
-        "tactic": "IACCM (World Commerce & Contracting) sertifikası uluslararası piyasada kapıları ardına kadar açar."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "🛡️ Global Data Privacy: CIPP/E sertifikasıyla uluslararası veri koruma uzmanlığı",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "⚖️ Tahkim Sekreterliği: ICC, LCIA gibi merkezlerde raportörlük ve uyuşmazlık çözümü",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "3. & 4. ROTA",
-        "title": "Veri Gizliliği (DPO) & <span class=\"text-gold\">Tahkim Sekreterliği</span>",
-        "problem_title": "🛡️ 3. ROTA: GLOBAL DATA PRIVACY (GDPR)",
-        "problem_desc": "Merkezi Avrupa veya ABD'de olan çok uluslu şirketlerin veri koruma ofislerinde CIPP/E sertifikalı hukukçu olmak.",
-        "solution_title": "⚖️ 4. ROTA: TAHKİM MERKEZLERİ (ICC, LCIA, ISTAC)",
-        "solution_desc": "Milletlerarası ticari uyuşmazlıklarda hakem heyetlerine raportörlük ve sekreterlik yapmak.",
-        "tactic": "İyi derecede Hukuk İngilizcesi ve bir niş sertifika, seni binlerce adayın önüne geçirir."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 💼 Compliance Officer: Kara para aklama (AML) ve finansal regülasyon uyumu<br>• 📑 Contract Manager: Global teknoloji şirketlerinde uzaktan sözleşme yönetimi<br>• 🛡️ Global Data Privacy: CIPP/E sertifikasıyla uluslararası veri koruma uzmanlığı",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "KLASİK AVUKATLIK LİSANSI OLMADAN DA DÜNYAYA DANIŞMANLIK VEREBİLİRSİN.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "DÜNYAYA AÇIL",
-        "title": "Kariyerini Sınırların Ötesine <span class=\"text-gold\">Taşı:</span>",
-        "action_1_title": "Rotayı Kaydet",
-        "action_1_desc": "Gelecek planlaman için bu 4 rotayı kaydetmeyi unutma.",
-        "action_2_title": "Yurt Dışı Hedefi Olan Arkadaşına Gönder",
-        "action_2_desc": "Birlikte yurt dışı hayali kurduğun çalışma arkadaşınla paylaş.",
-        "app_title": "HukukLA ile Hedefine Ulaş",
-        "app_desc": "Türkiye'nin en yenilikçi hukuk topluluğu ve hazırlık platformu seninle."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
   {
     "id": 5,
     "folder_name": "05_Medeni_Hukuk_Kolay_Diyenlerin_Dustugu_4_Tuzak",
-    "title": "Medeni Hukuk'u 'Kolay Ders' Sananların HMGS'de Düştüğü 4 Eleyici Tuzak",
-    "category": "Ders Analizi",
-    "badge_icon": "⚖️",
-    "badge_text": "HMGS ELEME NOKTASI",
-    "hook_title_html": "Medeni Hukuk'u 'Kolay Ders' Sananlar<br><span class=\"text-gold\">Bu 4 Karışıklığı Hep Yaşıyor.</span><br>Sen de Düşüyor musun Bu Tuzağa? 👇",
-    "curiosity_subtext": "(Hak düşürücü süre vs zamanaşımı, iyiniyet karineleri ve miras payı oranlarında standart sapmayı yükselten tuzaklar 👇)",
+    "title": "Medeni Hukuk'u 'Kolay Ders' Sananların Düştüğü 4 Tuzak",
+    "hook_lines": [
+      "ÇOĞU",
+      "ADAY",
+      "BU TUZAKLARA",
+      "DÜŞÜYOR:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "Medeni Hukuk'ta En Çok Elenen 4 Nokta",
+    "core_principle_upper": "MEDENİ HUKUK EZBER DEĞİL, İSTİSNALARIN İSTİSNASIDIR",
+    "hook_desc": "Hak düşürücü süre vs zamanaşımı, iyiniyet karineleri ve miras payı oranlarında standart sapmayı yükselten tuzaklar 👇",
+    "pin_text": "📌 Bu tabloyu mutlaka kaydet, sınavda hayat kurtarır.",
+    "caption_intro": "Medeni Hukuk'u 'nasılsa temel ders, hallederim' diye rahat görenler HMGS'de en çok puanı burada kaybediyor. İşte sınavda binlerce kişiyi ters köşe yapan 4 kritik ayrım.",
+    "caption_bullets": [
+      "⏳ Zamanaşımı vs Hak Düşürücü Süre: Biri defi iken diğeri hakimce re'sen dikkate alınır",
+      "🏠 Tapu kütüğüne güven: Sahte belge ve iradesiz çıkışta TMK 1023 iyiniyeti korumaz",
+      "👨‍👩‍👧 Miras payı tuzağı: Yasal pay ile saklı pay oranlarını birbirine çarpmayı unutma",
+      "⏱️ Zilyetlik koruması: Gasp ve saldırı davalarında 1 yıllık hak düşürücü süre mutlaktır"
+    ],
+    "caption_question": "Medeni Hukuk'ta seni en çok zorlayan alt dal hangisi? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -285,54 +356,53 @@
       },
       {
         "type": "content",
-        "step_badge": "1. ELEYİCİ TUZAK",
-        "title": "Zamanaşımı vs. <span class=\"text-red\">Hak Düşürücü Süre</span>",
-        "problem_title": "⚠️ EN ÇOK PUAN YUTAN AYRIM",
-        "problem_desc": "Hakim tarafından re'sen mi dikkate alınır, yoksa taraflarca defi olarak mı ileri sürülmelidir? Öğrencilerin %40'ı sınav heyecanıyla bu ikisini karıştırır.",
-        "solution_title": "✅ NET FORMÜL",
-        "solution_desc": "• Hak Düşürücü Süre: Hakkı tamamen sona erdirir. Hakim RE'SEN (kendiliğinden) dikkate alır. İtirazdır.<br>• Zamanaşımı: Hakkı sona erdirmez, talep yetkisini eksik borca dönüştürür. Defidir, taraflarca ileri sürülür.",
-        "tactic": "Kritik Örnek: Soybağının reddi süresi hak düşürücüdür; sebepsiz zenginleşme süresi ise zamanaşımıdır!"
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Medeni Hukuk'u 'Kolay Ders' Sananların Düştüğü 4 Tuzak - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Hak düşürücü süre vs zamanaşımı, iyiniyet karineleri ve miras payı oranlarında standart sapmayı yükselten tuzaklar 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "MEDENİ HUKUK EZBER DEĞİL, İSTİSNALARIN İSTİSNASIDIR.",
+        "tactic": "HukukLA Taktiği: ⏳ Zamanaşımı vs Hak Düşürücü Süre: Biri defi iken diğeri hakimce re'sen dikkate alınır"
       },
       {
         "type": "content",
-        "step_badge": "2. ELEYİCİ TUZAK",
-        "title": "Tapu Siciline Güven ve <span class=\"text-gold\">İyiniyetin Korunmadığı Haller</span>",
-        "problem_title": "⚠️ TMK 1023 TUZAĞI",
-        "problem_desc": "'Tapu kütüğündeki tescile iyiniyetle dayanan üçüncü kişinin kazanımı daima korunur' kuralını mutlak sanmak.",
-        "solution_title": "✅ HAYATİ İSTİSNA: SAHTE BELGE & İRADESİZ ÇIKIŞ",
-        "solution_desc": "Eğer taşınmaz malikin elinden sahte vekaletname veya zorla/irade dışı çıkmışsa ve yolsuz tescil oluşmuşsa, ilk iktisap edenin iyiniyeti onu KORUMAZ!",
-        "tactic": "Soru kökünü okurken vekaletnamenin geçerliliğini mutlaka büyüteç altına al."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "🏠 Tapu kütüğüne güven: Sahte belge ve iradesiz çıkışta TMK 1023 iyiniyeti korumaz",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "👨‍👩‍👧 Miras payı tuzağı: Yasal pay ile saklı pay oranlarını birbirine çarpmayı unutma",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "3. ELEYİCİ TUZAK",
-        "title": "Miras Hukuku: <span class=\"text-gold\">Saklı Pay Hesaplama Hataları</span>",
-        "problem_title": "⚠️ YASAL MİRASÇI PAYI İLE KARIŞTIRMA",
-        "problem_desc": "Sağ kalan eşin miras payı ile saklı pay oranını birbirine çarpmayı unutarak doğrudan terekeye uygulamak.",
-        "solution_title": "✅ ALTIN SIRALAMA",
-        "solution_desc": "1. Adım: Önce eşin zümreye göre Yasal Miras Payını bul (1. Zümre ile 1/4, 2. Zümre ile 1/2).<br>2. Adım: Çıkan yasal payın kanundaki saklı pay katsayısıyla çarpımını al (Örn: Eş 1. zümreyle ise yasal payının TAMAMI saklı payıdır).",
-        "tactic": "Kardeşlerin saklı payı 2007 değişikliğiyle kaldırılmıştır! Sınavda kardeş saklı payı sorulursa hemen ele."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "👨‍👩‍👧 Miras payı tuzağı: Yasal pay ile saklı pay oranlarını birbirine çarpmayı unutma",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "⏱️ Zilyetlik koruması: Gasp ve saldırı davalarında 1 yıllık hak düşürücü süre mutlaktır",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "4. ELEYİCİ TUZAK",
-        "title": "Zilyetlik Davaları: <span class=\"text-emerald\">1 Yıllık Hak Düşürücü Süre</span>",
-        "problem_title": "⚠️ TMK 984 VE 989 KARIŞIKLIĞI",
-        "problem_desc": "Zilyetliğin gaspı ve saldırı davalarında öğrenme anından itibaren başlayan 2 aylık süre ile her halde 1 yıllık sürenin başlangıç anı.",
-        "solution_title": "✅ KESİN KURAL",
-        "solution_desc": "Gasp veya saldırı fiilini sonradan öğrensen bile fiilin gerçekleştiği tarihten itibaren 1 yıl geçmekle dava hakkı mutlak olarak düşer.",
-        "tactic": "Taşınır davası (TMK 989) ile zilyetlik idari korumasını birbirine karıştırma."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• ⏳ Zamanaşımı vs Hak Düşürücü Süre: Biri defi iken diğeri hakimce re'sen dikkate alınır<br>• 🏠 Tapu kütüğüne güven: Sahte belge ve iradesiz çıkışta TMK 1023 iyiniyeti korumaz<br>• 👨‍👩‍👧 Miras payı tuzağı: Yasal pay ile saklı pay oranlarını birbirine çarpmayı unutma",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "MEDENİ HUKUK EZBER DEĞİL, İSTİSNALARIN İSTİSNASIDIR.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "TUZAĞA DÜŞME",
-        "title": "Medeni Hukukta Full Çekmek <span class=\"text-gold\">İçin:</span>",
-        "action_1_title": "Tuzak Tablosunu Kaydet",
-        "action_1_desc": "Sınav öncesi bu 4 kritik ayrımı tekrar okumak için kaydet.",
-        "action_2_title": "Medeni Çalışan Arkadaşına At",
-        "action_2_desc": "Miras hesaplarında kafası karışan kütüphane dostuna gönder.",
-        "app_title": "HukukLA Konu Testleri",
-        "app_desc": "Medeni Hukuk'un tüm ince ayrımlarını tarayan yüzlerce soru uygulamada seni bekliyor."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
@@ -340,11 +410,26 @@
     "id": 6,
     "folder_name": "06_Yapay_Zeka_Avukatlari_Issiz_Birakacak_Diyenlerin_Yanildigi_3_Nokta",
     "title": "'Yapay Zeka Hukukçuları İşsiz Bırakacak' Diyenlerin Yanıldığı 3 Nokta",
-    "category": "Hukuk & Teknoloji",
-    "badge_icon": "🤖",
-    "badge_text": "HUKUK & TEKNOLOJİ",
-    "hook_title_html": "'Yapay Zeka Avukatları İşsiz Bırakacak' Diyenlerin Asla Göremediği<br><span class=\"text-emerald\">3 Yeni Nesil Kariyer Rotası 🤫</span>",
-    "curiosity_subtext": "(Rutin dilekçeler bitiyor ama bu 3 yeteneğe sahip yeni nesil hukukçuların değeri 5 katına çıkıyor 👇)",
+    "hook_lines": [
+      "YAPAY ZEKA",
+      "AVUKATLARI",
+      "BİTİRECEK DİYENLER",
+      "YANILIYOR:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "3 Yeni Nesil Hukuk Kariyeri",
+    "core_principle_upper": "YAPAY ZEKA AVUKATI DEĞİL, ESKİ YÖNTEMLERLE ÇALIŞANLARI BİTİRİR",
+    "hook_desc": "Rutin dilekçeler bitiyor ama bu 3 yeteneğe sahip yeni nesil hukukçuların değeri 5 katına çıkıyor 👇",
+    "pin_text": "📌 Bu analizi kaydet, teknoloji çağında geride kalma.",
+    "caption_intro": "İnternetten dilekçe kopyalayıp isim değiştirme devri bitti. Ancak yapay zeka hukukçuları işsiz bırakmıyor; teknolojiye adapte olanları sektörün zirvesine taşıyor.",
+    "caption_bullets": [
+      "🤖 AI Governance: EU AI Act kapsamında şirketlerin algoritma uyumluluk denetimi",
+      "💻 Legal Prompting: Dil modellerine hatasız hukuki analiz ve sözleşme ürettirme sanatı",
+      "🛡️ Siber Suç & Algoritmik Sorumluluk: Otonom sistemler ve deepfake davaları",
+      "⚡ Kural: Yapay zeka rakibin değil, angaryanı 10 kat hızlandıran süper asistanındır"
+    ],
+    "caption_question": "Çalışmalarında veya ödevlerinde yapay zekadan yararlanıyor musun? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -352,54 +437,53 @@
       },
       {
         "type": "content",
-        "step_badge": "DÖNÜŞÜM ÇAĞI",
-        "title": "Yapay Zeka Avukatları Değil, <span class=\"text-red\">Eski Yöntemleri Bitiriyor</span>",
-        "problem_title": "📉 ÇÖKEN GELENEKSEL MODEL",
-        "problem_desc": "İnternetten şablon dilekçe kopyalayıp isim değiştirerek müvekkilden para isteyen avukatlık modeli öldü. Yapay zeka bunu 3 saniyede sıfır hatayla yapıyor.",
-        "solution_title": "🚀 YENİDEN TANIMLANAN DEĞER",
-        "solution_desc": "Müvekkiller artık bilgiye değil; stratejik akla, müzakere kabiliyetine ve karmaşık riskleri yönetme becerisine para ödüyor.",
-        "tactic": "Kural: Yapay zeka senin rakibin değil; haftalık 40 saatlik angaryanı 4 saate indiren süper asistanındır."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "'Yapay Zeka Hukukçuları İşsiz Bırakacak' Diyenlerin Yanıldığı 3 Nokta - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Rutin dilekçeler bitiyor ama bu 3 yeteneğe sahip yeni nesil hukukçuların değeri 5 katına çıkıyor 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "YAPAY ZEKA AVUKATI DEĞİL, ESKİ YÖNTEMLERLE ÇALIŞANLARI BİTİRİR.",
+        "tactic": "HukukLA Taktiği: 🤖 AI Governance: EU AI Act kapsamında şirketlerin algoritma uyumluluk denetimi"
       },
       {
         "type": "content",
-        "step_badge": "1. YENİ KAZANÇ ALANI",
-        "title": "Yapay Zeka Uyumluluğu: <span class=\"text-gold\">AI Governance & Compliance</span>",
-        "problem_title": "🇪🇺 EU AI ACT (AVRUPA YAPAY ZEKA YASASI)",
-        "problem_desc": "Dünya genelinde yapay zeka sistemleri regüle ediliyor. Yüksek riskli algoritmalar kullanan şirketler ağır hukuki denetime tabi tutuluyor.",
-        "solution_title": "✅ HUKUKÇULARA DOĞAN DEV PAZAR",
-        "solution_desc": "Hangi algoritma ayrımcılık yapıyor? Telifli veriyle eğitilen modellerin hukuki sorumluluğu kime ait? Bu soruları sadece regülasyon bilen hukukçular cevaplayabilir.",
-        "tactic": "Şirketlere 'Yapay Zeka Etik ve Hukuk Denetimi' danışmanlığı veren ilk isimlerden biri ol."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "💻 Legal Prompting: Dil modellerine hatasız hukuki analiz ve sözleşme ürettirme sanatı",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "🛡️ Siber Suç & Algoritmik Sorumluluk: Otonom sistemler ve deepfake davaları",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "2. YENİ KAZANÇ ALANI",
-        "title": "Hukuki Prompt Mühendisliği: <span class=\"text-emerald\">Legal Prompting</span>",
-        "problem_title": "⚠️ HALLUCINATION (HALÜSİNASYON) RİSKİ",
-        "problem_desc": "Hukuk bilmeyen birinin yapay zekaya yazdırdığı sözleşme sahte kanun maddeleri ve felaket getirecek çelişkilerle doludur.",
-        "solution_title": "✅ İKİ DİLİ BİLEN HUKUKÇU",
-        "solution_desc": "Hukuk doktrinini ve yapay zeka dil modellerinin mimarisini birleştiren hukukçular, büroların ve kurumsal departmanların operasyonel beyni haline geliyor.",
-        "tactic": "Kendi hukuk alanına özel Custom GPT ve prompt kütüphaneleri oluşturup portföyüne ekle."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "🛡️ Siber Suç & Algoritmik Sorumluluk: Otonom sistemler ve deepfake davaları",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "⚡ Kural: Yapay zeka rakibin değil, angaryanı 10 kat hızlandıran süper asistanındır",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "3. YENİ KAZANÇ ALANI",
-        "title": "Algoritmik Sorumluluk ve <span class=\"text-gold\">Siber Suçlar</span>",
-        "problem_title": "🤖 OTONOM ARAÇLAR & DEEPFAKE DAVALARI",
-        "problem_desc": "Sürücüsüz bir araç kaza yaptığında ceza kime verilecek? Deepfake ile yapılan itibar suikastlerinde tazminat nasıl hesaplanır?",
-        "solution_title": "✅ YENİ TAZMİNAT & CEZA HUKUKU",
-        "solution_desc": "Gelecek 10 yılın en yüksek bütçeli tazminat davaları bu alanda açılacak. Klasik cezacılar bu teknik altyapıyı anlayamadığı için pazar gençlere açık.",
-        "tactic": "Siber Güvenlik Hukuku ve Dijital Delil toplama usullerinde şimdiden derinleş."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 🤖 AI Governance: EU AI Act kapsamında şirketlerin algoritma uyumluluk denetimi<br>• 💻 Legal Prompting: Dil modellerine hatasız hukuki analiz ve sözleşme ürettirme sanatı<br>• 🛡️ Siber Suç & Algoritmik Sorumluluk: Otonom sistemler ve deepfake davaları",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "YAPAY ZEKA AVUKATI DEĞİL, ESKİ YÖNTEMLERLE ÇALIŞANLARI BİTİRİR.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "GELECEĞİ YAKALA",
-        "title": "Teknoloji Çağında Zirveye <span class=\"text-gold\">Oyna:</span>",
-        "action_1_title": "Vizyonu Kaydet",
-        "action_1_desc": "Geleceğin hukuk trendlerini unutmamak için bu içeriği kaydet.",
-        "action_2_title": "'Yapay Zeka Bizi Bitirecek' Diyen Arkadaşına Gönder",
-        "action_2_desc": "Geleneksel korkularla vakit kaybeden meslektaşlarına ilham ver.",
-        "app_title": "Yeni Nesil Hukuk HukukLA'da",
-        "app_desc": "HMGS'ye yapay zeka destekli soru bankamızla hazırlan, farkını ortaya koy."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
@@ -407,11 +491,26 @@
     "id": 7,
     "folder_name": "07_Fakulte_Notlariyla_Sinavi_Gececegini_Sananlara_Aci_Gercek",
     "title": "Fakülte Notlarıyla Sınavı Geçeceğini Sananların Başına Gelecek Acı Gerçek",
-    "category": "Gerçeklerle Yüzleş",
-    "badge_icon": "🟡",
-    "badge_text": "GERÇEKLERLE YÜZLEŞ",
-    "hook_title_html": "Fakülte Notlarıyla Sınavı Geçeceğini Sananların Başına Gelecek O<br><span class=\"text-red\">Acı Gerçek! 🤫</span>",
-    "curiosity_subtext": "(Vize ve finallerden kalan kalın özetlerle büyük bir sınava girme planı yapıyorsan, bu uyarı senin için 👇)",
+    "hook_lines": [
+      "ÇOĞU",
+      "ÖĞRENCİ",
+      "BU GERÇEĞİ",
+      "BİLMİYOR:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "Fakülte Notları vs ÖSYM Sınav Formatı",
+    "core_principle_upper": "FAKÜLTEDE YORUM, HMGS'DE MİKROSKOBİK BİLGİ DOĞRULUĞU KAZANDIRIR",
+    "hook_desc": "Vize ve finallerden kalan kalın özetlerle büyük bir sınava girme planı yapıyorsan, bu uyarı senin için 👇",
+    "pin_text": "📌 Bu uyarıyı kaydet, çalışma masanda hep aklında olsun.",
+    "caption_intro": "Fakültede hocanın hangi konuyu seveceğini bilirsin, klasik sınavda 5 sayfa yorum yazıp 90 alabilirsin. Ama ÖSYM ve HMGS formatı bambaşka bir zihniyet gerektirir.",
+    "caption_bullets": [
+      "⚠️ Doktrin tartışması tuzağı: HMGS'de teoriler değil, doğrudan kanun lafzı sorulur",
+      "📚 Kalın notlar hafızayı boğar: 800 sayfalık kitaplar yerine mevzuat sistematiği şarttır",
+      "🎯 Test kondisyonu: 155 dakika aralıksız çeldirici avlama antrenmanı yapmalısın",
+      "🔄 Çözüm: Özetleri kapat, doğrudan mevzuat ve çıkmış soru analizine odaklan"
+    ],
+    "caption_question": "Sence fakülte eğitimimiz çoktan seçmeli sınavlara yeterince hazırlıyor mu? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -419,66 +518,80 @@
       },
       {
         "type": "content",
-        "step_badge": "GERÇEK 1",
-        "title": "Fakülte Sınavı vs. <span class=\"text-red\">ÖSYM / HMGS Formatı</span>",
-        "problem_title": "⚠️ FAKÜLTE ALIŞKANLIĞI",
-        "problem_desc": "Fakültede hocanın hangi konuya taktığını bilirsin, derste anlattığı 3 örneği ezberleyip 10 sayfa klasik tahlil yazarak 90 alabilirsin.",
-        "solution_title": "❌ HMGS'DE KLASİK YORUM YOKTUR",
-        "solution_desc": "ÖSYM formatında 5 şık vardır ve 4 şık seni bilerek yanıltmak için tasarlanmış profesyonel çeldiricilerdir. Yorum yeteneği değil, mikroskobik bilgi doğruluğu test edilir.",
-        "tactic": "Fakülte hocasının kişisel görüşü değil, kanunun lafzı ve Yargıtay İçtihatları Birleştirme Kararları esastır."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Fakülte Notlarıyla Sınavı Geçeceğini Sananların Başına Gelecek Acı Gerçek - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Vize ve finallerden kalan kalın özetlerle büyük bir sınava girme planı yapıyorsan, bu uyarı senin için 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "FAKÜLTEDE YORUM, HMGS'DE MİKROSKOBİK BİLGİ DOĞRULUĞU KAZANDIRIR.",
+        "tactic": "HukukLA Taktiği: ⚠️ Doktrin tartışması tuzağı: HMGS'de teoriler değil, doğrudan kanun lafzı sorulur"
       },
       {
         "type": "content",
-        "step_badge": "GERÇEK 2",
-        "title": "Kalın Ders Notları <span class=\"text-gold\">Hafızayı Boğar</span>",
-        "problem_title": "📚 800 SAYFALIK CEZA KİTAPLARI",
-        "problem_desc": "Fakülte sınavı için okunan yüzlerce sayfalık doktrin tartışmaları HMGS için en büyük zaman tuzağıdır. Kimin hangi teoriyi savunduğu HMGS'de sorulmaz.",
-        "solution_title": "✅ KANUN SİSTEMATİĞİ VE ŞEMALAR",
-        "solution_desc": "HMGS adayının ihtiyacı olan şey; kanunun sistematiği, fıkralardaki istisnalar ve süre tablolarıdır.",
-        "tactic": "Kitap okumayı bırak, doğrudan kanun metnini önüne al ve her maddenin yanına soru formatını not et."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "📚 Kalın notlar hafızayı boğar: 800 sayfalık kitaplar yerine mevzuat sistematiği şarttır",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "🎯 Test kondisyonu: 155 dakika aralıksız çeldirici avlama antrenmanı yapmalısın",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "GERÇEK 3",
-        "title": "Test Çözme Refleksi <span class=\"text-emerald\">Sıfırdan İnşa Edilmeli</span>",
-        "problem_title": "⚠️ TEST KONDİSYONU EKSİKLİĞİ",
-        "problem_desc": "4 yıl boyunca sadece klasik sınav kağıdı doldurmuş bir hukukçu, 155 dakika boyunca aralıksız çoktan seçmeli test çözme kondisyonuna sahip değildir.",
-        "solution_title": "🎯 ÇÖZÜM: TEST KONDİSYONU",
-        "solution_desc": "Göz kaslarının ve zihninin 100 soru boyunca dikkat dağılmadan şıklar arasındaki 'en doğru'yu ayırt etmesi en az 2 aylık yoğun soru pratiği gerektirir.",
-        "tactic": "Günde en az 60 test sorusu çözmeyen aday fakülte birincisi olsa bile HMGS'de afallar."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "🎯 Test kondisyonu: 155 dakika aralıksız çeldirici avlama antrenmanı yapmalısın",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "🔄 Çözüm: Özetleri kapat, doğrudan mevzuat ve çıkmış soru analizine odaklan",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "STRATEJİ DEĞİŞİMİ",
-        "title": "Fakülte Zihniyetinden <span class=\"text-gold\">Sınav Zihniyetine Geçiş</span>",
-        "problem_title": "🔄 3 KRİTİK DÖNÜŞÜM ADIMI",
-        "problem_desc": "1. Özetleri rafa kaldır: Doğrudan mevzuat + çıkmış soru eksenine geç.<br>2. Zaman sınırlı çalış: Her çalışmanı bir süreyle sınırla.<br>3. Çeldirici analizi yap: Neden A doğru değil de B doğru?",
-        "solution_title": "🏆 SONUÇ: TEK SEFERDE GEÇİŞ",
-        "solution_desc": "Bu geçişi erken yapan adaylar fakülte ortalaması kaç olursa olsun ilk girişte 85+ netle barajı aşar.",
-        "tactic": "Sınavı kazananlar en çok bilenler değil, sınavın formatına en iyi adapte olanlardır."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• ⚠️ Doktrin tartışması tuzağı: HMGS'de teoriler değil, doğrudan kanun lafzı sorulur<br>• 📚 Kalın notlar hafızayı boğar: 800 sayfalık kitaplar yerine mevzuat sistematiği şarttır<br>• 🎯 Test kondisyonu: 155 dakika aralıksız çeldirici avlama antrenmanı yapmalısın",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "FAKÜLTEDE YORUM, HMGS'DE MİKROSKOBİK BİLGİ DOĞRULUĞU KAZANDIRIR.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "FARKINDALIK",
-        "title": "Stratejini Değiştir, <span class=\"text-gold\">Zaman Kaybetme:</span>",
-        "action_1_title": "Bu Uyarıyı Kaydet",
-        "action_1_desc": "Çalışma masanda bu gerçekleri hatırlamak için kaydet.",
-        "action_2_title": "Eski Notlarla Çalışan Arkadaşına Gönder",
-        "action_2_desc": "Fakülte notlarında kaybolmuş bir arkadaşını uyar.",
-        "app_title": "HMGS'ye Akıllıca Hazırlan",
-        "app_desc": "HukukLA ile ezberden uzak, soru odaklı ve doğrudan sonuca götüren hazırlık."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
   {
     "id": 8,
     "folder_name": "08_HMGS_Adaylarinin_70ini_Ters_Kose_Yapacak_Ders_IYUK",
-    "title": "HMGS'de Adayların %70'ini Ters Köşe Yapacak O 'Büyük Eleyici' Ders: İYUK",
-    "category": "Büyük Eleyici Ders",
-    "badge_icon": "🔴",
-    "badge_text": "BÜYÜK ELEYİCİ DERS",
-    "hook_title_html": "HMGS'de Adayların %70'ini Ters Köşe Yapacak O<br><span class=\"text-red\">'Büyük Eleyici' Ders: İYUK 🔴</span>",
-    "curiosity_subtext": "(Standart sapmanın tavan yapacağı, binlerce kişiyi tek soruda eleyecek o gizli tehlike 👇)",
+    "title": "HMGS'de Adayların %70'ini Ters Köşe Yapacak Ders: İYUK",
+    "hook_lines": [
+      "HMGS'DE",
+      "ADAYLARIN",
+      "%70'İ BURADA",
+      "ELENİYOR:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "Büyük Eleyici Ders: İYUK",
+    "core_principle_upper": "SINAVI ANA DERSLER DEĞİL, USUL DERSLERİNDEKİ NETLER KAZANDIRIR",
+    "hook_desc": "Standart sapmanın tavan yapacağı, binlerce kişiyi tek soruda eleyecek o gizli tehlike 👇",
+    "pin_text": "📌 Bu kritik süreleri mutlaka kaydet, sınav sabahı gözden geçir.",
+    "caption_intro": "Herkes Medeni ve Ceza'ya yüzlerce saat harcarken İYUK'u 'küçük kanun' diye hafife alıyor. Standart sapmada seni binlerce kişinin önüne geçirecek o 3 kritik İYUK tuzağı:",
+    "caption_bullets": [
+      "📅 Dava açma süresi ve adli tatil: Tatilin bittiği günden itibaren 7 gün kuralı",
+      "⏳ Zımni ret süresi: 60 gün değil! 2021 değişikliği ile 30 güne indirildi",
+      "⚖️ Yürütmenin durdurulması: Telafisi imkansız zarar VE açık hukuka aykırılık (Birlikte aranır)",
+      "🛑 İtiraz ve temyiz: İdari yargıda süreler ve başvuru mercileri ayrımı"
+    ],
+    "caption_question": "İYUK sürelerini ezberlerken en çok hangi maddede zorlanıyorsun? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -486,54 +599,53 @@
       },
       {
         "type": "content",
-        "step_badge": "NEDEN İYUK?",
-        "title": "İdari Yargılama Neden <span class=\"text-red\">En Çok Eleyen Ders?</span>",
-        "problem_title": "⚠️ İHMAL EDİLEN ÜVEY EVLAT",
-        "problem_desc": "Adaylar Medeni, Ceza ve Anayasa'ya yüzlerce saat harcarken, İYUK'u 'Zaten 60 maddelik kanun, son hafta okur geçerim' diyerek hafife alır.",
-        "solution_title": "📊 STANDART SAPMA ŞAMPİYONU",
-        "solution_desc": "Herkesin yaptığı Anayasa sorusu sana çok az standart sapma puanı getirirken, İYUK'taki karmaşık süre ve görev sorusu seni binlerce adayın önüne fırlatır.",
-        "tactic": "Sınavı kazananları ana dersler değil, küçük usul derslerindeki kusursuz netler belirler."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "HMGS'de Adayların %70'ini Ters Köşe Yapacak Ders: İYUK - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Standart sapmanın tavan yapacağı, binlerce kişiyi tek soruda eleyecek o gizli tehlike 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "SINAVI ANA DERSLER DEĞİL, USUL DERSLERİNDEKİ NETLER KAZANDIRIR.",
+        "tactic": "HukukLA Taktiği: 📅 Dava açma süresi ve adli tatil: Tatilin bittiği günden itibaren 7 gün kuralı"
       },
       {
         "type": "content",
-        "step_badge": "1. KRİTİK TUZAK",
-        "title": "Dava Açma Süreleri ve <span class=\"text-gold\">Adli Tatil Hesabı</span>",
-        "problem_title": "⚠️ MADDE 7 VE MADDE 8 TUZAKLARI",
-        "problem_desc": "Danıştay ve İdare Mahkemelerinde 60 gün, Vergi Mahkemelerinde 30 gün kuralı kolay görünür. Ama süre adli tatile rastlarsa ne olur?",
-        "solution_title": "✅ HAYATİ AYRIM",
-        "solution_desc": "Sürenin bitimi adli tatile rastlarsa, tatilin bittiği günü izleyen tarihten itibaren 7 GÜN uzar. Ancak adli tatil içinde başlayan süreler için bu kural UYGULANMAZ!",
-        "tactic": "Soru kökündeki tarihlere dikkat et: 20 Temmuz - 31 Ağustos aralığını mutlaka kontrol et."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "⏳ Zımni ret süresi: 60 gün değil! 2021 değişikliği ile 30 güne indirildi",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "⚖️ Yürütmenin durdurulması: Telafisi imkansız zarar VE açık hukuka aykırılık (Birlikte aranır)",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "2. KRİTİK TUZAK",
-        "title": "Zımni Ret Süresi: <span class=\"text-gold\">30 Gün Kuralı</span>",
-        "problem_title": "⚠️ ESKİ KANUN BİLGİSİYLE GİRENLER",
-        "problem_desc": "Eski 60 günlük zımni ret süresini hatırlayanlar anında elenir. 2021 değişikliği ile idarenin cevap verme süresi 30 güne indirilmiştir.",
-        "solution_title": "✅ MADDE 10 VE MADDE 11 DÖNGÜSÜ",
-        "solution_desc": "İdareye yapılan başvuruya 30 gün içinde cevap verilmezse talep reddedilmiş sayılır ve 60 günlük dava açma süresi işlemeye başlar.",
-        "tactic": "Üst makama başvuru (Madde 11) işlemeye başlamış dava açma süresini DURDURUR."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "⚖️ Yürütmenin durdurulması: Telafisi imkansız zarar VE açık hukuka aykırılık (Birlikte aranır)",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "🛑 İtiraz ve temyiz: İdari yargıda süreler ve başvuru mercileri ayrımı",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "3. KRİTİK TUZAK",
-        "title": "Yürütmenin Durdurulması: <span class=\"text-emerald\">İki Şart Birlikte Aranır</span>",
-        "problem_title": "⚠️ 'VEYA' DEĞİL 'VE'",
-        "problem_desc": "ÖSYM şıklara 'İdari işlemin açıkça hukuka aykırı olması YETERLİDİR' ifadesini koyar ve adayların yarısı işaretler.",
-        "solution_title": "✅ İYUK MADDE 27 KURALI",
-        "solution_desc": "1. İdari işlemin uygulanması halinde telafisi güç veya imkansız zararların doğması VE<br>2. İdari işlemin açıkça hukuka aykırı olması şartlarının BİRLİKTE gerçekleşmesi zorunludur.",
-        "tactic": "Vergi uyuşmazlıklarında tahsilat için dava açılması kendiliğinden yürütmeyi durdurur; bu istisnayı unutma!"
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 📅 Dava açma süresi ve adli tatil: Tatilin bittiği günden itibaren 7 gün kuralı<br>• ⏳ Zımni ret süresi: 60 gün değil! 2021 değişikliği ile 30 güne indirildi<br>• ⚖️ Yürütmenin durdurulması: Telafisi imkansız zarar VE açık hukuka aykırılık (Birlikte aranır)",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "SINAVI ANA DERSLER DEĞİL, USUL DERSLERİNDEKİ NETLER KAZANDIRIR.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "FARK YARAT",
-        "title": "İYUK'u Bitir, <span class=\"text-gold\">Rakiplerini Ele:</span>",
-        "action_1_title": "Süre Tablosunu Kaydet",
-        "action_1_desc": "Sınav sabahı süreleri kontrol etmek için bu carouseli kaydet.",
-        "action_2_title": "İYUK'tan Korkan Arkadaşına Gönder",
-        "action_2_desc": "İdari yargı sürelerinde boğulan bir meslektaşına destek ol.",
-        "app_title": "Tüm İYUK Soruları HukukLA'da",
-        "app_desc": "En güncel mevzuat değişiklikleriyle hazırlanmış İYUK testleri HukukLA'da."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
@@ -541,11 +653,26 @@
     "id": 9,
     "folder_name": "09_Avukatlik_Bitti_Diyenler_Vergi_Rekortmenlerine_Baksin",
     "title": "'Avukatlık Bitti' Diyenler Türkiye Vergi Rekortmenleri Listesine Baksın",
-    "category": "Kariyer Gerçekleri",
-    "badge_icon": "📊",
-    "badge_text": "KARİYER GERÇEKLERİ",
-    "hook_title_html": "'Avukatlık Bitti' Diyenler<br><span class=\"text-gold\">Türkiye Vergi Rekortmenleri Listesine Baksın! 🏛️</span>",
-    "curiosity_subtext": "(Milyar dolarlık holding patronlarının yanında yine bir avukat var. Biten avukatlık değil, eski yöntemler 👇)",
+    "hook_lines": [
+      "AVUKATLIK",
+      "BİTTİ DİYENLER",
+      "BU LİSTEYE",
+      "BAKSIN:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "Vergi Rekortmenleri Listesindeki Avukatlar",
+    "core_principle_upper": "BİTEN AVUKATLIK DEĞİL; FARKLILIK YARATMAYAN ESKİ YÖNTEMLERDİR",
+    "hook_desc": "Milyar dolarlık holding patronlarının yanında yine bir avukat var. İşte mesleğin en çok kazandıran güç alanları 👇",
+    "pin_text": "📌 Bu vizyonu kaydet, mesleki rotanı şimdiden çiz.",
+    "caption_intro": "Her yıl açıklanan vergi rekortmenleri listesinde sanayicilerin, bankacıların arasında birden fazla avukat yer alıyor. Bu meslektaşlarımız ne yapıyor da bu seviyeye ulaşıyor?",
+    "caption_bullets": [
+      "🤝 M&A (Birleşme ve Devralmalar): Şirket evliliklerinde risk analizi ve devir sözleşmeleri",
+      "💰 Vergi Yargısı ve Danışmanlığı: Holdingleri yüz milyonluk cezalardan kurtaran uzmanlık",
+      "📊 Finansal okuryazarlık: Müvekkille sadece madde numarası değil, ticari bilanço diliyle konuşmak",
+      "🎯 Niş uzmanlaşma: 'Her davaya bakarım' devrinin kapanışı, tek bir alanda zirveye oturmak"
+    ],
+    "caption_question": "Sence gelecekte en prestijli avukatlık uzmanlığı hangisi olacak? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -553,54 +680,53 @@
       },
       {
         "type": "content",
-        "step_badge": "LİSTE GERÇEĞİ",
-        "title": "Vergi Rekortmenleri Listesindeki <span class=\"text-gold\">Avukatlar Kimler?</span>",
-        "problem_title": "📈 RAKAMLAR YALAN SÖYLEMEZ",
-        "problem_desc": "Her yıl Gelir İdaresi Başkanlığı'nın açıkladığı ilk 100 vergi rekortmeni listesinde sanayiciler, bankacılar ve müteahhitlerin arasında birden fazla avukat yer alır.",
-        "solution_title": "💡 BU AVUKATLAR NE YAPIYOR?",
-        "solution_desc": "Adliye koridorlarında çekişmeli miras davası kovalamıyorlar. Şirket evlilikleri (M&A), uluslararası tahkim, devasa vergi yapılandırmaları ve proje finansmanı yönetiyorlar.",
-        "tactic": "Fark: Biri emek satıyor, diğeri stratejik risk ve milyar dolarlık işlem güvenliği satıyor."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "'Avukatlık Bitti' Diyenler Türkiye Vergi Rekortmenleri Listesine Baksın - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Milyar dolarlık holding patronlarının yanında yine bir avukat var. İşte mesleğin en çok kazandıran güç alanları 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "BİTEN AVUKATLIK DEĞİL; FARKLILIK YARATMAYAN ESKİ YÖNTEMLERDİR.",
+        "tactic": "HukukLA Taktiği: 🤝 M&A (Birleşme ve Devralmalar): Şirket evliliklerinde risk analizi ve devir sözleşmeleri"
       },
       {
         "type": "content",
-        "step_badge": "1. GÜÇ ALANI",
-        "title": "Birleşme ve Devralmalar: <span class=\"text-emerald\">M&A Hukuku</span>",
-        "problem_title": "🤝 BÜYÜK İŞLEMLERİN GİZLİ MİMARLARI",
-        "problem_desc": "500 milyon dolarlık bir şirketin satışı sadece finansçıların işi değildir. Due diligence (hukuki durum tespiti), hisse devir sözleşmeleri (SPA) avukatın masasından geçer.",
-        "solution_title": "✅ YÜKSEK PRİM VE DANIŞMANLIK",
-        "solution_desc": "Bu işlemlerde alınan avukatlık ve danışmanlık ücretleri işlem büyüklüğünün yüzdesiyle ölçülür.",
-        "tactic": "Şirketler Hukuku + Finansal Okuryazarlık + Kusursuz Hukuk İngilizcesi = M&A Masası."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "💰 Vergi Yargısı ve Danışmanlığı: Holdingleri yüz milyonluk cezalardan kurtaran uzmanlık",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "📊 Finansal okuryazarlık: Müvekkille sadece madde numarası değil, ticari bilanço diliyle konuşmak",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "2. GÜÇ ALANI",
-        "title": "Vergi Hukuku ve <span class=\"text-gold\">Uyuşmazlık Çözümü</span>",
-        "problem_title": "💰 DEV VERGİ CEZALARI",
-        "problem_desc": "Holdinglere kesilen yüz milyonlarca liralık vergi ziyaı cezaları ve tarhiyatlar, şirketlerin batma riskini doğurur.",
-        "solution_title": "✅ VERGİ YARGISI VE UZLAŞMA",
-        "solution_desc": "Vergi mevzuatını ve muhasebe hilelerini bilen bir vergi avukatı, şirketi tek bir uzlaşma masasında batmaktan kurtarabilir.",
-        "tactic": "Piyasada gerçek anlamda vergi davası ve vergi planlaması yapabilen avukat sayısı parmakla sayılacak kadar azdır."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "📊 Finansal okuryazarlık: Müvekkille sadece madde numarası değil, ticari bilanço diliyle konuşmak",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "🎯 Niş uzmanlaşma: 'Her davaya bakarım' devrinin kapanışı, tek bir alanda zirveye oturmak",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "ZİHNİYET DEVRİMİ",
-        "title": "Genç Hukukçu <span class=\"text-gold\">Nasıl Konumlanmalı?</span>",
-        "problem_title": "🎯 3 STRATEJİK TAVSİYE",
-        "problem_desc": "1. 'Her davaya bakarım' devrini kapat. Tek bir alanda Türkiye'nin en iyisi olmaya odaklan.<br>2. İş dünyasının dilini öğren: Bilanço, FAVÖK ve risk kavramlarını bil.<br>3. Müvekkile sadece kanun maddesi değil, ticari çözüm üret.",
-        "solution_title": "🏆 AVUKATLIK BİTMEDİ",
-        "solution_desc": "Kalıp şablonlarla iş yapanlar tükeniyor; stratejik iş ortağı olanlar servet inşa ediyor.",
-        "tactic": "Geleceğini şikayet ederek değil, niş bir alanda derinleşerek inşa et."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 🤝 M&A (Birleşme ve Devralmalar): Şirket evliliklerinde risk analizi ve devir sözleşmeleri<br>• 💰 Vergi Yargısı ve Danışmanlığı: Holdingleri yüz milyonluk cezalardan kurtaran uzmanlık<br>• 📊 Finansal okuryazarlık: Müvekkille sadece madde numarası değil, ticari bilanço diliyle konuşmak",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "BİTEN AVUKATLIK DEĞİL; FARKLILIK YARATMAYAN ESKİ YÖNTEMLERDİR.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "VİZYONUNU BÜYÜT",
-        "title": "Kariyer Hedeflerini En Üst Seviyeye <span class=\"text-gold\">Taşı:</span>",
-        "action_1_title": "İlhamı Kaydet",
-        "action_1_desc": "Umutsuzluğa kapıldığında bu gerçekleri hatırlamak için kaydet.",
-        "action_2_title": "'Hukukta Gelecek Yok' Diyenlere Gönder",
-        "action_2_desc": "Mesleğin gerçek potansiyelini görmesini istediğin arkadaşına yolla.",
-        "app_title": "HukukLA ile Kariyerini Başlat",
-        "app_desc": "HMGS'den staja, kariyer adımlarından uzmanlaşmaya kadar HukukLA yanında."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
@@ -608,11 +734,26 @@
     "id": 10,
     "folder_name": "10_Ceza_Genel_Hukumlerde_Her_Yil_Eleyen_3_Kavram",
     "title": "Ceza Genel Hükümlerde Her Yıl Binlerce Kişiyi Eleyen 3 Kritik Kavram",
-    "category": "HMGS Puan Avcısı",
-    "badge_icon": "⚖️",
-    "badge_text": "HMGS PUAN AVCISI",
-    "hook_title_html": "Ceza Genel Hükümlerde Her Yıl Binlerce Kişiyi Eleyen<br><span class=\"text-gold\">3 Kritik Kavram Karışıklığı ⚠️</span>",
-    "curiosity_subtext": "(ÖSYM'nin her sınavda mutlaka yokladığı ve adayların yarısının işaretleyip kaybettiği o ince çizgiler 👇)",
+    "hook_lines": [
+      "CEZADA",
+      "HER SINAVDA",
+      "BURADAN",
+      "ELİYORLAR:"
+    ],
+    "highlight_line_idx": 0,
+    "topic_cyan_title": "Ceza Hukukunda 3 Kritik Kavram Karışıklığı",
+    "core_principle_upper": "CEZA HUKUKU MANTIKTIR; FORMÜLÜ BİLEN ASLA SORU KAÇIRMAZ",
+    "hook_desc": "ÖSYM'nin her sınavda mutlaka yokladığı ve adayların yarısının işaretleyip kaybettiği o ince çizgiler 👇",
+    "pin_text": "📌 Bu ayrım tablosunu kaydet, ceza sorularını 20 saniyede çöz.",
+    "caption_intro": "Ceza Genel Hükümler'de sınavı kazandıran şey sayfalarca teorik bilgi değil; birbirine çok benzeyen kavramların arasındaki bıçak sırtı ayrımı bilmektir.",
+    "caption_bullets": [
+      "⚠️ Olası Kast vs Bilinçli Taksir: 'Olursa olsun' kabullenmesi vs 'Nasılsa olmaz' güveni",
+      "🎯 Şahısta Hata vs Hedefte Sapma: Algıda yanılma tek suçtur, kurşunun sekmesi fikri içtimadır",
+      "⏱️ Gönüllü Vazgeçme vs Etkin Pişmanlık: İcra bitmeden vazgeçilir; suç bittikten sonra pişman olunur",
+      "💡 TCK 30/1 Maddi Unsurlarda Hata: Kastı tamamen kaldırır, taksir hali cezalandırılır"
+    ],
+    "caption_question": "Olası kast ile bilinçli taksir sorularında kafan karışıyor mu? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -620,54 +761,53 @@
       },
       {
         "type": "content",
-        "step_badge": "1. BÜYÜK AYRIM",
-        "title": "Olası Kast vs. <span class=\"text-red\">Bilinçli Taksir</span>",
-        "problem_title": "⚠️ SINAVLARIN KLASİK TUZAĞI",
-        "problem_desc": "'Neticeyi öngördü ama olmasını istemedi' cümlesi ile 'Neticeyi öngördü ve olursa olsun dedi' ayrımını sınav stresinde karıştırmak.",
-        "solution_title": "✅ PAROLA: 'OLURSA OLSUN' VS. 'BİR ŞEY OLMAZ'",
-        "solution_desc": "• Olası Kast: Fail neticeyi öngörür ve kabullenir ('Olursa olsun' der). Kast indirimi uygulanır.<br>• Bilinçli Taksir: Fail neticeyi öngörür ama yeteneğine, şansına güvenir ('Nasılsa olmaz' der). Taksir cezası artırılır.",
-        "tactic": "ÖSYM'nin 'şoför kırmızı ışıkta hızla geçti' sorularında failin iç dünyasındaki kabullenmeyi ara."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Ceza Genel Hükümlerde Her Yıl Binlerce Kişiyi Eleyen 3 Kritik Kavram - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "ÖSYM'nin her sınavda mutlaka yokladığı ve adayların yarısının işaretleyip kaybettiği o ince çizgiler 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "CEZA HUKUKU MANTIKTIR; FORMÜLÜ BİLEN ASLA SORU KAÇIRMAZ.",
+        "tactic": "HukukLA Taktiği: ⚠️ Olası Kast vs Bilinçli Taksir: 'Olursa olsun' kabullenmesi vs 'Nasılsa olmaz' güveni"
       },
       {
         "type": "content",
-        "step_badge": "2. BÜYÜK AYRIM",
-        "title": "Hata Halleri: <span class=\"text-gold\">TCK Madde 30 İncelikleri</span>",
-        "problem_title": "⚠️ ŞAHISTA HATA VS. HEDEFTE SAPMA",
-        "problem_desc": "A'yı vurmak isterken karanlıkta B'yi A sanıp vurmak ile A'ya ateş edip kurşunun sekerek B'ye isabet etmesi arasındaki dev fark.",
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "🎯 Şahısta Hata vs Hedefte Sapma: Algıda yanılma tek suçtur, kurşunun sekmesi fikri içtimadır",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "⏱️ Gönüllü Vazgeçme vs Etkin Pişmanlık: İcra bitmeden vazgeçilir; suç bittikten sonra pişman olunur",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
+      },
+      {
+        "type": "content",
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "⏱️ Gönüllü Vazgeçme vs Etkin Pişmanlık: İcra bitmeden vazgeçilir; suç bittikten sonra pişman olunur",
         "solution_title": "✅ KESİN FORMÜL",
-        "solution_desc": "• Şahısta Hata: Algıda hata vardır, tek fiil tek netice vardır. Fail kasten öldürmeden sorumlu olur.<br>• Hedefte Sapma: Fiilde sapma vardır. A'ya karşı teşebbüs + B'ye karşı taksirle öldürme/yaralama (Fikri içtima uygulanır).",
-        "tactic": "Kurşunun sekmesi veya yön değiştirmesi varsa daima Hedefte Sapma kuralını uygula."
+        "solution_desc": "💡 TCK 30/1 Maddi Unsurlarda Hata: Kastı tamamen kaldırır, taksir hali cezalandırılır",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "3. BÜYÜK AYRIM",
-        "title": "Gönüllü Vazgeçme vs. <span class=\"text-emerald\">Etkin Pişmanlık</span>",
-        "problem_title": "⚠️ ZAMAN ÇİZGİSİNDEKİ YERİ",
-        "problem_desc": "Öğrencilerin en çok karıştırdığı nokta: Suç tamamlandıktan sonra vazgeçilebilir mi?",
-        "solution_title": "✅ ALTIN KURAL: TAMAMLANMA ANI",
-        "solution_desc": "• Gönüllü Vazgeçme (TCK 36): İcra hareketleri bitmeden veya netice gerçekleşmeden önce yapılır. Teşebbüsten ceza VERİLMEZ!<br>• Etkin Pişmanlık: Suç TAMAMLANDIKTAN sonra ortaya çıkar. Sadece kanunda açıkça düzenlenen suçlarda ceza indirimi sağlar.",
-        "tactic": "İcra hareketleri bittikten sonra vazgeçme olmaz, ancak şartları varsa etkin pişmanlık hükümleri uygulanabilir."
-      },
-      {
-        "type": "content",
-        "step_badge": "CEZA ÖZETİ",
-        "title": "İçtima Kurallarında <span class=\"text-gold\">Puan Kazandıran Tüyolar</span>",
-        "problem_title": "📊 3 TEMEL İÇTİMA KURALI",
-        "problem_desc": "• Bileşik Suç: Yağma = Tehdit/Cebir + Hırsızlık. Ayrı ayrı ceza verilmez.<br>• Zincirleme Suç: Aynı suç işleme kararıyla farklı zamanlarda aynı kişiye karşı işlenmeli.<br>• Fikri İçtima: Tek fiille birden fazla farklı suçun oluşması; en ağır cezayı gerektiren suçtan ceza verilir.",
-        "solution_title": "🎯 CEZADA FULL YAPMAK",
-        "solution_desc": "Ceza Genel Hükümler mantık dersidir. Formülleri zihnine oturttuğunda soru kaçırmazsın.",
-        "tactic": "Her soru kökündeki 'failin kastı' ve 'fiilin tamamlanma anı' kelimelerinin altını çiz."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• ⚠️ Olası Kast vs Bilinçli Taksir: 'Olursa olsun' kabullenmesi vs 'Nasılsa olmaz' güveni<br>• 🎯 Şahısta Hata vs Hedefte Sapma: Algıda yanılma tek suçtur, kurşunun sekmesi fikri içtimadır<br>• ⏱️ Gönüllü Vazgeçme vs Etkin Pişmanlık: İcra bitmeden vazgeçilir; suç bittikten sonra pişman olunur",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "CEZA HUKUKU MANTIKTIR; FORMÜLÜ BİLEN ASLA SORU KAÇIRMAZ.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "NETİNİ ARTIR",
-        "title": "Ceza Hukukunda Hata Payını <span class=\"text-gold\">Sıfırla:</span>",
-        "action_1_title": "Formülleri Kaydet",
-        "action_1_desc": "Sınav haftası bu 3 ayrımı hızlıca gözden geçirmek için kaydet.",
-        "action_2_title": "Ceza Çalışan Arkadaşına Yolla",
-        "action_2_desc": "Kast ve taksir sorularında zorlanan arkadaşına gönder.",
-        "app_title": "HukukLA ile Soru Çöz",
-        "app_desc": "Ceza Genel ve Özel Hükümlerden yüzlerce güncel olay sorusu HukukLA'da."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
@@ -675,11 +815,26 @@
     "id": 11,
     "folder_name": "11_Hukuk_Fakultesinin_Soylemedigi_Buyuk_Illuzyon",
     "title": "Hukuk Fakültesinin Sana Söylemediği ve 5 Yılını Çöpe Atan O 'Büyük İllüzyon'",
-    "category": "Gerçeklerle Yüzleş",
-    "badge_icon": "🟡",
-    "badge_text": "GERÇEKLERLE YÜZLEŞ",
-    "hook_title_html": "Hukuk Fakültesinin Sana Söylemediği ve 5 Yılını<br><span class=\"text-gold\">Çöpe Atan O 'Büyük İllüzyon' 🤫</span>",
-    "curiosity_subtext": "('Mezun ol, staj yap, tabela as ofis aç' masalı bitti. Gerçeklerle yüzleşmeye hazır mısın? 👇)",
+    "hook_lines": [
+      "FAKÜLTENİN",
+      "SANA ASLA",
+      "SÖYLEMEDİĞİ",
+      "O İLLÜZYON:"
+    ],
+    "highlight_line_idx": 0,
+    "topic_cyan_title": "5 Yılını Kurtaracak Kariyer Gerçekleri",
+    "core_principle_upper": "TABELA ASIP MÜVEKKİL BEKLEME DEVRİ SONA ERDİ",
+    "hook_desc": "'Mezun ol, staj yap, ofis aç' masalı bitti. Gerçeklerle yüzleşmeye hazır mısın? 👇",
+    "pin_text": "📌 Bu ilkeleri kaydet, kariyerinde tökezlediğinde tekrar oku.",
+    "caption_intro": "Türkiye'de 190.000'den fazla avukat var. Fakültede kimse sana müvekkilin kapını nasıl çalacağını, güvenin nasıl inşa edildiğini anlatmaz. 5 yılını kurtaracak 3 gerçek:",
+    "caption_bullets": [
+      "🚪 Tabela avukatlığı bitti: Müvekkil diplomana değil, problem çözme yeteneğine gelir",
+      "🤝 Gerçek networking kartvizit dağıtmak değildir: İnsanlara ücretsiz değer katarak iz bırak",
+      "📱 Dijital ayak izi: Alanında haftalık analizler paylaşmayan hukukçu iş dünyasında görünmezdir",
+      "🎯 Niş alan: Fakültedeyken en fazla 2 niş uzmanlık seç ve derinleş"
+    ],
+    "caption_question": "Sence bir avukatın en büyük gücü diploması mı, network ve itibarı mı? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -687,54 +842,53 @@
       },
       {
         "type": "content",
-        "step_badge": "İLLÜZYON 1",
-        "title": "'Diplomayı Alınca Herkes <span class=\"text-red\">Müvekkil Olacak' Masalı</span>",
-        "problem_title": "📉 ACI PİYASA GERÇEĞİ",
-        "problem_desc": "Fakültede sana kanunlar, teoriler öğretilir ama kimse bir müvekkilin kapını nasıl çalacağını, güvenin nasıl inşa edildiğini anlatmaz.",
-        "solution_title": "🚪 TABELA ASIP BEKLEME DEVRİ BİTTİ",
-        "solution_desc": "Türkiye'de 190.000'den fazla avukat var. Kapına tabela asıp birilerinin gelmesini beklemek aylık ofis kirası ve stopaj altında ezilmek demektir.",
-        "tactic": "Müvekkil diplomana değil; problemini çözeceğine olan güvenine ve sektördeki görünürlüğüne gelir."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Hukuk Fakültesinin Sana Söylemediği ve 5 Yılını Çöpe Atan O 'Büyük İllüzyon' - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "'Mezun ol, staj yap, ofis aç' masalı bitti. Gerçeklerle yüzleşmeye hazır mısın? 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "TABELA ASIP MÜVEKKİL BEKLEME DEVRİ SONA ERDİ.",
+        "tactic": "HukukLA Taktiği: 🚪 Tabela avukatlığı bitti: Müvekkil diplomana değil, problem çözme yeteneğine gelir"
       },
       {
         "type": "content",
-        "step_badge": "İLLÜZYON 2",
-        "title": "'Networking Kartvizit <span class=\"text-gold\">Dağıtmaktır' Yanılgısı</span>",
-        "problem_title": "⚠️ BOŞ İLİŞKİLER AĞI",
-        "problem_desc": "Kokteyllerde, seminerlerde onlarca kişiye kartvizit dağıtıp sonra hiçbirinden dönüş alamamak. Çünkü kimse tanımadığı bir karta iş vermez.",
-        "solution_title": "✅ DEĞER ÜRETEREK İLİŞKİ KURMAK",
-        "solution_desc": "Gerçek networking, insanlara ücretsiz değer katmakla başlar. Bir start-up'ın sözleşme açığını kapatırsan, bir dernekte gönüllü hukuki rehberlik yaparsan akılda kalırsın.",
-        "tactic": "İş isteme; önce karşı tarafa değer kat, iş kendiliğinden arkasından gelecektir."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "🤝 Gerçek networking kartvizit dağıtmak değildir: İnsanlara ücretsiz değer katarak iz bırak",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "📱 Dijital ayak izi: Alanında haftalık analizler paylaşmayan hukukçu iş dünyasında görünmezdir",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "İLLÜZYON 3",
-        "title": "Dijital Ayak İzi Olmayan Hukukçu <span class=\"text-emerald\">Görünmezdir</span>",
-        "problem_title": "📵 'SOSYAL MEDYA AVUKATA YAKIŞMAZ' KAFASI",
-        "problem_desc": "Eski kuşakların bu öğüdünü dinleyen genç mezunlar dijitalde sıfır içerik üretiyor. Oysa bugün bir şirketin CEO'su hukuki danışmanını LinkedIn'den arıyor.",
-        "solution_title": "📱 KİŞİSEL MARKA İNŞASI",
-        "solution_desc": "Her hafta uzmanlaştığın alanda (Örn: E-ticaret Hukuku, Sağlık Hukuku) 2 adet kaliteli analiz yazısı paylaşmak seni sektörde otorite yapar.",
-        "tactic": "Sosyal medya magazin değil; senin 7/24 çalışan dijital vitrinindir."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "📱 Dijital ayak izi: Alanında haftalık analizler paylaşmayan hukukçu iş dünyasında görünmezdir",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "🎯 Niş alan: Fakültedeyken en fazla 2 niş uzmanlık seç ve derinleş",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "YENİ REÇETE",
-        "title": "5 Yılını Kurtaracak <span class=\"text-gold\">3 Hayati Hamle</span>",
-        "problem_title": "🚀 FAKÜLTEDEYKEN BAŞLAMAN GEREKENLER",
-        "problem_desc": "1. 3. sınıftan itibaren en fazla 2 niş uzmanlık alanı belirle.<br>2. LinkedIn profilini profesyonel bir içerik kanalına dönüştür.<br>3. HMGS'yi mezun olduğun ilk dönemde aradan çıkaracak çalışma sistemini kur.",
-        "solution_title": "🏆 GELECEĞİNİ ŞANSA BIRAKMA",
-        "solution_desc": "Fakültenin sana vermediği vizyonu sen kendi çabanla kazanmak zorundasın.",
-        "tactic": "En iyi avukatlar sadece hukuku bilenler değil, hayatı ve iş dünyasını en iyi okuyanlardır."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 🚪 Tabela avukatlığı bitti: Müvekkil diplomana değil, problem çözme yeteneğine gelir<br>• 🤝 Gerçek networking kartvizit dağıtmak değildir: İnsanlara ücretsiz değer katarak iz bırak<br>• 📱 Dijital ayak izi: Alanında haftalık analizler paylaşmayan hukukçu iş dünyasında görünmezdir",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "TABELA ASIP MÜVEKKİL BEKLEME DEVRİ SONA ERDİ.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "GÖZÜNÜ AÇ",
-        "title": "Kendi Kariyerinin Lideri <span class=\"text-gold\">Ol:</span>",
-        "action_1_title": "Rehberi Kaydet",
-        "action_1_desc": "Her tökezlediğinde bu ilkeleri hatırlamak için kaydet.",
-        "action_2_title": "Fakülteden Bir Arkadaşına Gönder",
-        "action_2_desc": "Hala eski hayallerle yaşayan sıra arkadaşına gerçeği göster.",
-        "app_title": "HukukLA Yanında",
-        "app_desc": "Yeni nesil hukuk vizyonu ve HMGS hazırlığı için HukukLA'yı takipte kal."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
@@ -742,11 +896,26 @@
     "id": 12,
     "folder_name": "12_Sinava_Sayili_Gunler_Kala_Netleri_Ziplatacak_3_Acil_Durum_Hamlesi",
     "title": "Sınava Sayılı Günler Kala Netleri Zıplatacak 3 Acil Durum Hamlesi",
-    "category": "Son Düzlük Taktiği",
-    "badge_icon": "⚡",
-    "badge_text": "HMGS SON DÜZLÜK TAKTİĞİ",
-    "hook_title_html": "Sınava Sayılı Günler Kala Netlerini <span class=\"text-gold\">+10 Artıracak</span><br><span class=\"text-gold\">3 Acil Durum Hamlesi 📈</span>",
-    "curiosity_subtext": "(Artık kalın kitapları baştan sona okumayı bırak! Puan getirecek o stratejik noktalara odaklanma vakti 👇)",
+    "hook_lines": [
+      "SINAVA",
+      "AZ KALA",
+      "NETLERİ +10 ARTIRAN",
+      "3 HAMLE:"
+    ],
+    "highlight_line_idx": 2,
+    "topic_cyan_title": "Son Düzlükte Net Zıplatan Taktikler",
+    "core_principle_upper": "ARTIK KALIN KİTAPLARI DEĞİL, PUAN GETİREN NOKTALARI ÇALIŞ",
+    "hook_desc": "Artık kalın kitapları baştan sona okumayı bırak! Puan getirecek o stratejik noktalara odaklanma vakti 👇",
+    "pin_text": "📌 Acil durum planını kaydet, son günlerde paniğe kapılma.",
+    "caption_intro": "Sınava sayılı günler kala sıfırdan 500 sayfalık konu kitabı okumak sadece panik yaratır. Netlerini son düzlükte en az +10 artıracak 3 acil durum hamlesi:",
+    "caption_bullets": [
+      "🔍 Çıkmış soru röntgeni: Son 5 yılın adli, idari ve HMGS sorularının kavram haritasını çıkar",
+      "📓 Hata defteri turlaması: Daha önce yanlış yaptığın soruları günde 2 kez sabah-akşam tara",
+      "⚖️ Küçük dersleri full çek: Avukatlık, İmar, Vergi gibi dersleri 48 saatte cepte bil",
+      "⏰ Biyolojik saat: Her gün tam sınav saatinde (10:15) odaklanma antrenmanı yap"
+    ],
+    "caption_question": "Sınav yaklaştıkça en çok hangi derste panik hissediyorsun? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -754,66 +923,80 @@
       },
       {
         "type": "content",
-        "step_badge": "1. ACİL DURUM HAMLESİ",
-        "title": "Kalın Kitapları Kapat, <span class=\"text-red\">Çıkmış Soru Röntgeni Çek</span>",
-        "problem_title": "⚠️ PANİK HALİNDE KİTABA SARILMAK",
-        "problem_desc": "Sınava az süre kala sıfırdan 500 sayfalık konu kitabını okumaya çalışmak sadece panik yaratır ve hiçbir şey öğrenemeden zamanı tüketir.",
-        "solution_title": "✅ ÇIKMIŞ SORU KRALDIR",
-        "solution_desc": "ÖSYM'nin son 5 yılda yaptığı tüm adli yargı, idari yargı ve HMGS sorularını masaya yatır. Soruların %65'i aynı kavramların etrafında döner.",
-        "tactic": "Soru çözerken doğru şıkkı değil; diğer 4 yanlış şıkkın neden yanlış olduğunu madde metninden bularak ilerle."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Sınava Sayılı Günler Kala Netleri Zıplatacak 3 Acil Durum Hamlesi - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Artık kalın kitapları baştan sona okumayı bırak! Puan getirecek o stratejik noktalara odaklanma vakti 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "ARTIK KALIN KİTAPLARI DEĞİL, PUAN GETİREN NOKTALARI ÇALIŞ.",
+        "tactic": "HukukLA Taktiği: 🔍 Çıkmış soru röntgeni: Son 5 yılın adli, idari ve HMGS sorularının kavram haritasını çıkar"
       },
       {
         "type": "content",
-        "step_badge": "2. ACİL DURUM HAMLESİ",
-        "title": "Hata Defterini <span class=\"text-gold\">Günde 2 Kez Turlamak</span>",
-        "problem_title": "⚠️ EN HIZLI NET ARTIŞ NOKTASI",
-        "problem_desc": "Aylardır çözdüğün denemelerde yaptığın yanlışlar senin puan potansiyelindir. Doğru yaptıklarını tekrar etmek sana ekstra net kazandırmaz.",
-        "solution_title": "✅ NOKTA ATIŞI TEKRAR",
-        "solution_desc": "Daha önce yanlış yaptığın o 150-200 soruyu ve çıkardığın notları sabah kahvaltıdan sonra ve gece uyumadan önce 45 dakika boyunca tara.",
-        "tactic": "Aynı hatayı sınavda yapmamak, sana doğrudan +6 ila +10 net kazandırır."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "📓 Hata defteri turlaması: Daha önce yanlış yaptığın soruları günde 2 kez sabah-akşam tara",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "⚖️ Küçük dersleri full çek: Avukatlık, İmar, Vergi gibi dersleri 48 saatte cepte bil",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "3. ACİL DURUM HAMLESİ",
-        "title": "Küçük Dersleri <span class=\"text-emerald\">48 Saatte Full Çekmek</span>",
-        "problem_title": "🎯 AVUKATLIK, HUKUK FELSEFESİ, VERGİ",
-        "problem_desc": "Medeni Hukuk'ta 1 net artırmak 40 saat çalışma gerektirirken; Avukatlık Hukuku veya İmar/Çevre gibi küçük derslerde 4 net artırmak sadece 6 saatini alır.",
-        "solution_title": "✅ DÜŞÜK EMEK - YÜKSEK SKOR",
-        "solution_desc": "Avukatlık Kanunu'nu (1136 sayılı) baştan sona 1 kez dikkatle oku. Disiplin cezaları, baro organları ve avukatın hak/yükümlülüklerinden soru kaçırma lüksün yok.",
-        "tactic": "Son düzlükte büyük derslerle boğuşmak yerine küçük dersleri cepte bil."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "⚖️ Küçük dersleri full çek: Avukatlık, İmar, Vergi gibi dersleri 48 saatte cepte bil",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "⏰ Biyolojik saat: Her gün tam sınav saatinde (10:15) odaklanma antrenmanı yap",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "ZAMAN ÇİZELGESİ",
-        "title": "Son 10 Gün <span class=\"text-gold\">Günlük Çalışma Rutini</span>",
-        "problem_title": "⏰ İDEAL GÜN PLANI",
-        "problem_desc": "• 10:15 - 12:50: Tam süreli gerçek saatinde deneme çözümü.<br>• 14:00 - 16:30: Deneme analizi & yanlışların mevzuat taraması.<br>• 17:00 - 19:00: Küçük ders tekrarı (Avukatlık / İYUK süreleri).<br>• 20:30 - 22:00: Hata defteri turlaması ve zihinsel dinlenme.",
-        "solution_title": "🧠 ZİHİNSEL DİSİPLİN",
-        "solution_desc": "Biyolojik saatini sınav saatine (10:15) kesinlikle alıştır.",
-        "tactic": "Son hafta gece geç saatlere kadar ders çalışıp uyku düzenini asla bozma."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 🔍 Çıkmış soru röntgeni: Son 5 yılın adli, idari ve HMGS sorularının kavram haritasını çıkar<br>• 📓 Hata defteri turlaması: Daha önce yanlış yaptığın soruları günde 2 kez sabah-akşam tara<br>• ⚖️ Küçük dersleri full çek: Avukatlık, İmar, Vergi gibi dersleri 48 saatte cepte bil",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "ARTIK KALIN KİTAPLARI DEĞİL, PUAN GETİREN NOKTALARI ÇALIŞ.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "SON DÜZLÜK",
-        "title": "Netlerini Zirveye Taşıyıp <span class=\"text-gold\">Barajı Aş:</span>",
-        "action_1_title": "Acil Eylem Planını Kaydet",
-        "action_1_desc": "Son günlerde paniğe kapılmamak için bu planı kaydet.",
-        "action_2_title": "Sınava Girecek Arkadaşına Gönder",
-        "action_2_desc": "Son haftalarda neti sıkışmış bir kütüphane dostuna ulaştır.",
-        "app_title": "HukukLA ile Son Tekrarlar",
-        "app_desc": "HMGS'ye özel hap bilgi kartları ve deneme modülü HukukLA uygulamasında."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
   {
     "id": 13,
     "folder_name": "13_Uluslararasi_Sozlesmeler_Ingilizce_Bilen_Hukukcunun_Rotasi",
-    "title": "Hukuk İngilizcesi Bilenlerin Ayda 3.000$+ Kazandığı Alan: SaaS ve Sözleşmeler",
-    "category": "Kariyer Vizyonu",
-    "badge_icon": "📍",
-    "badge_text": "KÜRESEL HUKUK KARİYERİ",
-    "hook_title_html": "Hukuk İngilizcesi Bilenlerin Ayda 3.000$+ Kazandığı O Alan:<br><span class=\"text-emerald\">SaaS ve Teknoloji Sözleşmeleri 💻</span>",
-    "curiosity_subtext": "(Adliyeye gitmeden, evden global startup'lara sözleşme hazırlayan hukukçuların sırrı 👇)",
+    "title": "Hukuk İngilizcesi Bilenlerin Ayda 3.000$+ Kazandığı Alan: SaaS Sözleşmeleri",
+    "hook_lines": [
+      "İNGİLİZCE",
+      "BİLENLERİN",
+      "AYDA 3000$+ KAZANDIĞI",
+      "O ALAN:"
+    ],
+    "highlight_line_idx": 2,
+    "topic_cyan_title": "SaaS ve Teknoloji Sözleşmeleri",
+    "core_principle_upper": "ADLİYEYE GİTMEDEN, EVDEN GLOBAL STARTUPLARA DANIŞMANLIK VER",
+    "hook_desc": "Adliyeye gitmeden, evden global startup'lara sözleşme hazırlayan hukukçuların sırrı 👇",
+    "pin_text": "📌 Bu sözleşme rehberini kaydet, küresel çalışma hedeflerine ekle.",
+    "caption_intro": "Global yazılım patlamasıyla birlikte teknoloji şirketleri çılgınca sözleşme yönetebilecek hukukçu arıyor. Yurt dışı müvekkillere uzaktan hizmet vermenin altın anahtarları:",
+    "caption_bullets": [
+      "📑 MSA (Master Services Agreement): Şirket sorumluluk sınırları ve fikri mülkiyet devri",
+      "🛡️ DPA (Data Processing Addendum): GDPR uyumlu veri işleme protokolleri",
+      "⚡ Redlining ustalığı: Microsoft Word üzerinde ticari satışı tıkamadan risk dengeleme",
+      "🌍 Müşteri bulma: Upwork, LinkedIn Outreach ve hızlandırıcı programlar (Y Combinator)"
+    ],
+    "caption_question": "Hukuk İngilizceni geliştirmek için hangi kaynakları kullanıyorsun? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -821,66 +1004,80 @@
       },
       {
         "type": "content",
-        "step_badge": "DİJİTAL GERÇEK",
-        "title": "Neden Yazılım Şirketleri <span class=\"text-emerald\">Çılgınca Hukukçu Arıyor?</span>",
-        "problem_title": "🚀 GLOBAL YAZILIM PATLAMASI",
-        "problem_desc": "Bugün Türkiye'de ve dünyada her gün yüzlerce SaaS (Software as a Service) şirketi kuruluyor. Hepsinin müşterisi ABD ve Avrupa'da.",
-        "solution_title": "📑 SÖZLEŞMESİZ SATIŞ YAPILAMAZ",
-        "solution_desc": "Yıllık 100.000$ ödeyen kurumsal müşteri, kapsamlı bir MSA (Master Services Agreement) ve SLA (Service Level Agreement) imzalamadan ödeme yapmaz.",
-        "tactic": "Bu sözleşmeleri yazıp müzakere edebilen genç bir hukukçu, start-up ekosisteminin en vazgeçilmez aktörüdür."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Hukuk İngilizcesi Bilenlerin Ayda 3.000$+ Kazandığı Alan: SaaS Sözleşmeleri - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Adliyeye gitmeden, evden global startup'lara sözleşme hazırlayan hukukçuların sırrı 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "ADLİYEYE GİTMEDEN, EVDEN GLOBAL STARTUPLARA DANIŞMANLIK VER.",
+        "tactic": "HukukLA Taktiği: 📑 MSA (Master Services Agreement): Şirket sorumluluk sınırları ve fikri mülkiyet devri"
       },
       {
         "type": "content",
-        "step_badge": "EN KRİTİK 3 SÖZLEŞME",
-        "title": "Hangi Sözleşmeleri <span class=\"text-gold\">Adın Gibi Bilmelisin?</span>",
-        "problem_title": "1. MSA (MASTER SERVICES AGREEMENT)",
-        "problem_desc": "Tüm hizmet ilişkisinin çatısını kuran ana sözleşme. Sorumluluk sınırları (Limitation of Liability) ve fikri mülkiyet devri en kritik maddelerdir.",
-        "solution_title": "2. DPA (DATA PROCESSING ADDENDUM)",
-        "solution_desc": "Veri işleme eki. GDPR ve standart sözleşme maddeleri (SCCs) içermeli.",
-        "tactic": "3. SLA (Servis Seviyesi Taahhüdü): Sunucu çalışma süresi (Uptime %99.9) ve teknik destek sürelerini hukuki güvenceye bağlar."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "🛡️ DPA (Data Processing Addendum): GDPR uyumlu veri işleme protokolleri",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "⚡ Redlining ustalığı: Microsoft Word üzerinde ticari satışı tıkamadan risk dengeleme",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "ARAÇ VE YÖNTEMLER",
-        "title": "Redlining ve <span class=\"text-gold\">Sözleşme Müzakere Becerisi</span>",
-        "problem_title": "📝 REDLINING NEDİR?",
-        "problem_desc": "Karşı tarafın gönderdiği 30 sayfalık sözleşmede şirketini riske atan maddeleri Microsoft Word 'Değişiklikleri Takip Et' moduyla revize etmek.",
-        "solution_title": "⚖️ RİSK DENGESİ KURMAK",
-        "solution_desc": "Müzakereyi tıkamadan, ticari satışı engellemeden şirketin maruz kalabileceği maksimum tazminat sınırını belirlemek bir sanattır.",
-        "tactic": "Sözleşme müzakere edebilen hukukçu, sadece 'olmaz' diyen değil 'böyle olursa olur' diyen kişidir."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "⚡ Redlining ustalığı: Microsoft Word üzerinde ticari satışı tıkamadan risk dengeleme",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "🌍 Müşteri bulma: Upwork, LinkedIn Outreach ve hızlandırıcı programlar (Y Combinator)",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "GELİR MODELİ",
-        "title": "Müşteri ve İş <span class=\"text-emerald\">Nereden Bulunur?</span>",
-        "problem_title": "🌍 KÜRESEL PLATFORMLAR",
-        "problem_desc": "• Upwork & Fiverr Pro: Uluslararası sözleşme incelemesi için saatlik 75$ - 150$ arası ücretler.<br>• LinkedIn Outreach: Yurt dışına açılan Türk teknoloji kurucularına doğrudan ulaşmak.<br>• Hızlandırıcı Programlar (Y Combinator, İTÜ Çekirdek): Girişimlere mentorluk vererek müşteri portföyü oluşturmak.",
-        "solution_title": "🎯 HEDEF: AYLIK 3 RETAINER",
-        "solution_desc": "Aylık 1.000$ danışmanlık ücreti ödeyen 3 teknoloji şirketi ile çalışmak hayat standardını tamamen değiştirir.",
-        "tactic": "Hemen bir SaaS sözleşme şablonu inceleyip maddeleri analiz etmeye başla."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 📑 MSA (Master Services Agreement): Şirket sorumluluk sınırları ve fikri mülkiyet devri<br>• 🛡️ DPA (Data Processing Addendum): GDPR uyumlu veri işleme protokolleri<br>• ⚡ Redlining ustalığı: Microsoft Word üzerinde ticari satışı tıkamadan risk dengeleme",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "ADLİYEYE GİTMEDEN, EVDEN GLOBAL STARTUPLARA DANIŞMANLIK VER.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "GLOBALLEŞ",
-        "title": "Hukuk Bilgini Döviz Kazandıran <span class=\"text-gold\">Güce Dönüştür:</span>",
-        "action_1_title": "Sözleşme Rehberini Kaydet",
-        "action_1_desc": "Teknoloji hukuku çalışmalarında kullanmak için kaydet.",
-        "action_2_title": "İngilizcesi İyi Olan Arkadaşına Gönder",
-        "action_2_desc": "Klasik adliye yerine teknoloji dünyasında çalışmak isteyen meslektaşına ilet.",
-        "app_title": "HukukLA Kariyer Ağı",
-        "app_desc": "Geleceğin hukuk trendleri ve gelişim fırsatları için HukukLA yanında."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
   {
     "id": 14,
     "folder_name": "14_Anayasa_Hukukunda_En_Cok_Puan_Kaybettiren_Sayisal_Sureler",
-    "title": "Anayasa Hukuku'nda En Çok Puan Kaybettiren 4 'Sayısal Süre' ve Nisap Tuzağı",
-    "category": "HMGS Puan Avcısı",
-    "badge_icon": "⚖️",
-    "badge_text": "HMGS PUAN AVCISI",
-    "hook_title_html": "Anayasa Hukuku'nda En Çok Puan Kaybettiren<br><span class=\"text-red\">4 'Sayısal Süre' ve Nisap Tuzağı 🔴</span>",
-    "curiosity_subtext": "(Sınavda sorulan nisapların %80'inin toplandığı o kritik tabloyu ezberlemeden sınava girme 👇)",
+    "title": "Anayasa Hukuku'nda En Çok Puan Kaybettiren 4 Sayısal Süre ve Nisap",
+    "hook_lines": [
+      "ANAYASADA",
+      "HERKESİN",
+      "KARIŞTIRDIĞI",
+      "4 NİSAP:"
+    ],
+    "highlight_line_idx": 0,
+    "topic_cyan_title": "En Çok Puan Kaybettiren Sayısal Süreler",
+    "core_principle_upper": "ÖSYM SAYISAL NİSAPLARI ÇOK SEVER, BU TABLOYU BİLMEDEN GİRME",
+    "hook_desc": "Sınavda sorulan nisapların %80'inin toplandığı o kritik tabloyu ezberlemeden sınava girme 👇",
+    "pin_text": "📌 Bu nisap tablosunu kaydet, sınavdan bir gün önce kontrol et.",
+    "caption_intro": "TBMM üye tamsayısı 600'dür. Ancak kanun kabul nisabı, anayasa değişikliği, soruşturma açılması ve AYM iptal davası süreleri sınavda adayların kafasını allak bullak eder.",
+    "caption_bullets": [
+      "🗳️ Anayasa değişikliği: 360-399 oy zorunlu referandum; 400+ oy ihtiyari referandum",
+      "🏛️ Meclis soruşturması: 301 teklif -> 360 soruşturma açılması -> 400 Yüce Divan'a sevk",
+      "⏱️ AYM İptal Davası: Şekil bakımından SADECE 10 GÜN; Esas bakımından 60 GÜN",
+      "🛡️ OHAL süreleri: CB en fazla 6 ay ilan eder; TBMM her defasında 4 ayı geçmemek üzere uzatır"
+    ],
+    "caption_question": "Anayasa nisaplarında en çok hangi sayıyı karıştırıyorsun? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -888,54 +1085,53 @@
       },
       {
         "type": "content",
-        "step_badge": "1. BÜYÜK NİSAP",
-        "title": "Anayasa Değişikliği Nisapları: <span class=\"text-red\">360 vs. 400</span>",
-        "problem_title": "⚠️ EN ÇOK KARIŞTIRILAN EŞİK",
-        "problem_desc": "TBMM Üye Tamsayısı 600'dür. Teklif için en az 200 milletvekilinin (1/3) yazılı teklifi şarttır. Peki kabul nisapları?",
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Anayasa Hukuku'nda En Çok Puan Kaybettiren 4 Sayısal Süre ve Nisap - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Sınavda sorulan nisapların %80'inin toplandığı o kritik tabloyu ezberlemeden sınava girme 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "ÖSYM SAYISAL NİSAPLARI ÇOK SEVER, BU TABLOYU BİLMEDEN GİRME.",
+        "tactic": "HukukLA Taktiği: 🗳️ Anayasa değişikliği: 360-399 oy zorunlu referandum; 400+ oy ihtiyari referandum"
+      },
+      {
+        "type": "content",
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "🏛️ Meclis soruşturması: 301 teklif -> 360 soruşturma açılması -> 400 Yüce Divan'a sevk",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "⏱️ AYM İptal Davası: Şekil bakımından SADECE 10 GÜN; Esas bakımından 60 GÜN",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
+      },
+      {
+        "type": "content",
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "⏱️ AYM İptal Davası: Şekil bakımından SADECE 10 GÜN; Esas bakımından 60 GÜN",
         "solution_title": "✅ KESİN FORMÜL",
-        "solution_desc": "• 360 - 399 Oy (3/5 ile 2/3 arası): Cumhurbaşkanı kanunu ya TBMM'ye geri gönderir ya da ZORUNLU olarak HALKOYUNA (Referandum) sunar.<br>• 400 ve Üzeri Oy (2/3 ve üzeri): Cumhurbaşkanı onaylayıp Resmi Gazete'de yayımlayabilir veya İHTİYARİ olarak halkoyuna götürebilir.",
-        "tactic": "Cumhurbaşkanının doğrudan onaylama yetkisi sadece 400 ve üzeri oyla kabul edilen değişikliklerde vardır."
+        "solution_desc": "🛡️ OHAL süreleri: CB en fazla 6 ay ilan eder; TBMM her defasında 4 ayı geçmemek üzere uzatır",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "2. BÜYÜK NİSAP",
-        "title": "Meclis Soruşturması: <span class=\"text-gold\">301, 360 ve 400 Kuralı</span>",
-        "problem_title": "⚠️ CUMHURBAŞKANI VE BAKANLARIN YÜCE DİVAN SÜRECİ",
-        "problem_desc": "Görevleriyle ilgili suç işledikleri iddiasıyla başlatılan süreçte 3 aşamalı katı nisap uygulanır.",
-        "solution_title": "✅ 3 AŞAMALI MERDİVEN",
-        "solution_desc": "1. Öneri: Üye tamsayısının SALT ÇOĞUNLUĞU (301 MV)<br>2. Soruşturma Açılması Kararı: Üye tamsayısının 3/5'i (360 MV)<br>3. Yüce Divan'a Sevk Kararı: Üye tamsayısının 2/3'ü (400 MV) gizli oyuyla.",
-        "tactic": "Soruşturma komisyonu 15 üyeden oluşur ve siyasi parti gruplarının güçleri oranında belirlenir."
-      },
-      {
-        "type": "content",
-        "step_badge": "3. KRİTİK SÜRE",
-        "title": "AYM İptal Davası Açma Süresi: <span class=\"text-emerald\">60 Gün vs. 10 Gün</span>",
-        "problem_title": "⚠️ ŞEKİL VE ESAS BAKIMINDAN AYRIM",
-        "problem_desc": "Kanunların şekil bakımından denetimi ile esas bakımından denetim süreleri tamamen farklıdır.",
-        "solution_title": "✅ ALTIN SÜRE TABLOSU",
-        "solution_desc": "• Şekil Bakımından İptal Davası: Resmi Gazete'de yayımlandığı tarihten itibaren SADECE 10 GÜN içinde açılabilir.<br>• Esas Bakımından İptal Davası: Yayımlandığı tarihten itibaren 60 GÜN içinde açılabilir.",
-        "tactic": "Anayasa değişiklikleri AYM tarafından SADECE ŞEKİL bakımından denetlenebilir (Esas denetimi yapılamaz) ve süre 10 gündür!"
-      },
-      {
-        "type": "content",
-        "step_badge": "4. KRİTİK SÜRE",
-        "title": "OHAL Süreleri ve <span class=\"text-gold\">Uzatma Yetkisi</span>",
-        "problem_title": "⚠️ CUMHURBAŞKANI İLANI VS. TBMM ONAYI",
-        "problem_desc": "Olağanüstü hal kararı kim tarafından, en fazla ne kadar süreyle verilebilir?",
-        "solution_title": "✅ KESİN KURAL",
-        "solution_desc": "• İlan: Cumhurbaşkanı tarafından en fazla 6 AY süreyle ilan edilir. Aynı gün Resmi Gazete'de yayımlanır ve TBMM onayına sunulur.<br>• Uzatma: TBMM her defasında 4 AYI GEÇMEMEK üzere süreyi uzatabilir.",
-        "tactic": "Savaş halinde 4 aylık süre sınırı aranmaz."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 🗳️ Anayasa değişikliği: 360-399 oy zorunlu referandum; 400+ oy ihtiyari referandum<br>• 🏛️ Meclis soruşturması: 301 teklif -> 360 soruşturma açılması -> 400 Yüce Divan'a sevk<br>• ⏱️ AYM İptal Davası: Şekil bakımından SADECE 10 GÜN; Esas bakımından 60 GÜN",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "ÖSYM SAYISAL NİSAPLARI ÇOK SEVER, BU TABLOYU BİLMEDEN GİRME.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "TAM İSABET",
-        "title": "Anayasa Nisaplarını <span class=\"text-gold\">Cebe Koy:</span>",
-        "action_1_title": "Nisap Tablosunu Kaydet",
-        "action_1_desc": "Sınavdan bir gün önce sayıları teyit etmek için kaydet.",
-        "action_2_title": "Sayıları Karıştıran Arkadaşına Gönder",
-        "action_2_desc": "Anayasa sürelerinde kafası karışan meslektaşına ulaştır.",
-        "app_title": "HukukLA ile Anayasa Soruları",
-        "app_desc": "En çok çıkan anayasa ve idare hukuku soruları HukukLA'da."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
@@ -943,11 +1139,26 @@
     "id": 15,
     "folder_name": "15_HMGSe_Gercekten_Hazir_Misin_4_Maddelik_Checklist",
     "title": "HMGS'ye Gerçekten Hazır Mısın? Sınav Kazandıran 4 Maddelik Check-List",
-    "category": "HMGS Kontrol Listesi",
-    "badge_icon": "🎯",
-    "badge_text": "HMGS KONTROL LİSTESİ",
-    "hook_title_html": "HMGS'ye Gerçekten Hazır Mısın?<br><span class=\"text-gold\">(Sınav Kazandıran 4 Maddelik Check-List) ✅</span>",
-    "curiosity_subtext": "(Eğer bu 4 maddeden biri bile eksikse, standart sapma tehlikesi altındasın. Yüzleşmeye hazır mısın? 👇)",
+    "hook_lines": [
+      "HMGS'YE",
+      "GERÇEKTEN",
+      "HAZIR MISIN?",
+      "CHECK-LIST:"
+    ],
+    "highlight_line_idx": 2,
+    "topic_cyan_title": "Sınav Kazandıran 4 Maddelik Check-List",
+    "core_principle_upper": "BU 4 MADDEDEN BİRİ BİLE EKSİKSE STANDART SAPMA TEHLİKESİNDESİN",
+    "hook_desc": "Eğer bu 4 maddeden biri bile eksikse, standart sapma tehlikesi altındasın. Yüzleşmeye hazır mısın? 👇",
+    "pin_text": "📌 Check-list'i kaydet ve eksiklerini tek tek tamamla.",
+    "caption_intro": "HMGS'ye girmeden önce 'hazır mıyım?' sorusunun tek bir nesnel cevabı vardır. Sınav kazandıran 4 maddelik acil durum kontrol listesi:",
+    "caption_bullets": [
+      "✅ Çıkmış sorular: Son 5 yılın tüm ÖSYM adli/idari soruları çözüldü ve analiz edildi mi?",
+      "✅ Süreli deneme: Kesintisiz 155 dakika boyunca en az 5 tam deneme çözüldü mü?",
+      "✅ Kanun taraması: Temel kanunların orijinal metni satır satır gözden geçirildi mi?",
+      "✅ Hata defteri: Yanlış yapılan sorular tek bir kaynakta toplanıp turlanıyor mu?"
+    ],
+    "caption_question": "Bu 4 maddeden kaç tanesini tamamladın? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -955,66 +1166,80 @@
       },
       {
         "type": "content",
-        "step_badge": "MADDE 1",
-        "title": "Son 5 Yılın Tüm Çıkmış Soruları <span class=\"text-emerald\">Çözüldü mü?</span>",
-        "problem_title": "⚠️ ÇIKMIŞ SORU ÇÖZMEDEN GİRENİN ŞANSI %20",
-        "problem_desc": "ÖSYM'nin soru tarzını, şıklarda kullandığı çeldirici kalıplarını ve aynı kavramı nasıl farklı olay kurgularıyla sorduğunu görmeden sınava girmek kumardır.",
-        "solution_title": "✅ KONTROL KRİTERİ",
-        "solution_desc": "Adli Yargı, İdari Yargı, HMGS ve İcra Müdürlüğü sınavlarında sorulmuş en az 1.500 özgün ÖSYM sorusunu çözmüş ve yanlışlarını analiz etmiş olmak.",
-        "tactic": "Soru havuzunu tarayan aday sınav günü soruları 'tanıdık' karşılar."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "HMGS'ye Gerçekten Hazır Mısın? Sınav Kazandıran 4 Maddelik Check-List - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Eğer bu 4 maddeden biri bile eksikse, standart sapma tehlikesi altındasın. Yüzleşmeye hazır mısın? 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "BU 4 MADDEDEN BİRİ BİLE EKSİKSE STANDART SAPMA TEHLİKESİNDESİN.",
+        "tactic": "HukukLA Taktiği: ✅ Çıkmış sorular: Son 5 yılın tüm ÖSYM adli/idari soruları çözüldü ve analiz edildi mi?"
       },
       {
         "type": "content",
-        "step_badge": "MADDE 2",
-        "title": "Süre Kontrollü En Az 5 Tam Deneme <span class=\"text-gold\">Yapıldı mı?</span>",
-        "problem_title": "⚠️ EVDE BÖLÜK PÖRÇÜK TEST ÇÖZMEK DENEME DEĞİLDİR",
-        "problem_desc": "20 soru çözüp telefona bakmak, çay içip devam etmek gerçek sınav atmosferini simüle etmez.",
-        "solution_title": "✅ KONTROL KRİTERİ",
-        "solution_desc": "Kesintisiz 155 dakika boyunca, telefon kapalı, optik form kullanarak sabah 10:15'te başlatılmış en az 5 tam kapsamlı deneme tamamlamış olmak.",
-        "tactic": "Zihnin 155 dakikalık odaklanma maratonuna antrenmanlı olmalıdır."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "✅ Süreli deneme: Kesintisiz 155 dakika boyunca en az 5 tam deneme çözüldü mü?",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "✅ Kanun taraması: Temel kanunların orijinal metni satır satır gözden geçirildi mi?",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "MADDE 3",
-        "title": "Temel Kanun Metinleri <span class=\"text-emerald\">Doğrudan Tarandı mı?</span>",
-        "problem_title": "⚠️ BAŞKASININ ÖZETİNE GÜVENMEK",
-        "problem_desc": "Sadece hocaların ders notlarından veya özet kitaplardan çalışanlar kanun maddesinin orijinal lafzındaki 'veya', 'ancak' gibi anahtar kelimeleri kaçırır.",
-        "solution_title": "✅ KONTROL KRİTERİ",
-        "solution_desc": "TMK, TBK, TCK, CMK, İYUK ve HMK'nın temel maddelerini kanun kitabından satır satır gözden geçirmiş olmak.",
-        "tactic": "ÖSYM soruları özetlerden değil, doğrudan mevzuat metninden hazırlar."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "✅ Kanun taraması: Temel kanunların orijinal metni satır satır gözden geçirildi mi?",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "✅ Hata defteri: Yanlış yapılan sorular tek bir kaynakta toplanıp turlanıyor mu?",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "MADDE 4",
-        "title": "Kişisel 'Hata Defteri' <span class=\"text-gold\">Oluşturuldu mu?</span>",
-        "problem_title": "⚠️ AYNI HATAYI TEKRAR ETMEK",
-        "problem_desc": "Aylardır çözdüğün binlerce soruda yaptığın yanlışları kaydetmediysen, sınav günü o hatalar tekrar karşına çıkar ve elenirsin.",
-        "solution_title": "✅ KONTROL KRİTERİ",
-        "solution_desc": "Yanlış yaptığın her sorunun konusunu ve kilit maddesini tek bir defterde veya not uygulamasında toplamış ve en az 3 kez turlamış olmak.",
-        "tactic": "Hata defterini bitiren aday netlerini garantiye almış adaydır."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• ✅ Çıkmış sorular: Son 5 yılın tüm ÖSYM adli/idari soruları çözüldü ve analiz edildi mi?<br>• ✅ Süreli deneme: Kesintisiz 155 dakika boyunca en az 5 tam deneme çözüldü mü?<br>• ✅ Kanun taraması: Temel kanunların orijinal metni satır satır gözden geçirildi mi?",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "BU 4 MADDEDEN BİRİ BİLE EKSİKSE STANDART SAPMA TEHLİKESİNDESİN.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "KENDİNİ TEST ET",
-        "title": "Sınav Günü Masadan <span class=\"text-gold\">Zaferle Kalk:</span>",
-        "action_1_title": "Check-List'i Kaydet",
-        "action_1_desc": "Eksiklerini tamamlamak için bu listeyi kaydet ve tik at.",
-        "action_2_title": "Çalışma Arkadaşınla Paylaş",
-        "action_2_desc": "Kütüphane grubunda herkesin durumunu kontrol etmesini sağla.",
-        "app_title": "HukukLA ile Eksiksiz Hazırlık",
-        "app_desc": "Denemeler, analizler ve kişisel hata takip modülü HukukLA'da."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
   {
     "id": 16,
     "folder_name": "16_Stajyer_Avukatlarin_Ilk_Yilinda_Dustugu_3_Buyuk_Hata",
-    "title": "Stajyer ve Yeni Mezunların İlk Yılında Düştüğü 3 Büyük 'Kariyer İntiharı' Hatası",
-    "category": "Genç Avukat Rehberi",
-    "badge_icon": "💼",
-    "badge_text": "GENÇ AVUKAT REHBERİ",
-    "hook_title_html": "Stajyer ve Yeni Mezunların İlk Yılında Düştüğü<br><span class=\"text-red\">3 Büyük 'Kariyer İntiharı' Hatası 🔴</span>",
-    "curiosity_subtext": "(Sadece adliye getir-götürü yapıp 1 yılını heba etmemek ve aranılan genç hukukçu olmak için bilmen gerekenler 👇)",
+    "title": "Stajyer ve Genç Avukatların İlk Yılında Düştüğü 3 Büyük Kariyer Hatası",
+    "hook_lines": [
+      "STAJYERLERİN",
+      "İLK YILINDA",
+      "DÜŞTÜĞÜ",
+      "3 BÜYÜK HATA:"
+    ],
+    "highlight_line_idx": 0,
+    "topic_cyan_title": "Genç Avukatın İlk Yıl Hayatta Kalma Rehberi",
+    "core_principle_upper": "STAJ BİR BEKLEME ODASI DEĞİL; KARİYERİNİN FIRLATMA RAMPASIDIR",
+    "hook_desc": "Sadece adliye getir-götürü yapıp 1 yılını heba etmemek ve aranılan genç hukukçu olmak için bilmen gerekenler 👇",
+    "pin_text": "📌 Bu rehberi kaydet, staj süresince motivasyonunu yüksek tut.",
+    "caption_intro": "Stajyer avukatların çoğu ilk yılında sadece fotokopi çekip hacze giderek tükenmişlik yaşıyor. 1 yılını heba etmemek için bilmen gereken 3 altın kural:",
+    "caption_bullets": [
+      "📖 Dosyanın bütününü oku: Sadece işlem yapma; dava dilekçesini ve tensip zaptını incele",
+      "💬 Şartları baştan konuş: Kendi emeğinin değerini konuşamayan avukat yarın vekalet ücreti isteyemez",
+      "🤝 Kendi network'ünü başlat: Staj yaptığın ofisin müvekkillerine değil, kendi ilişkilerine güven",
+      "🏆 UYAP ustalığı: Sistem ayarlarını ve e-duruşma pratiklerini eksiksiz öğren"
+    ],
+    "caption_question": "Staj yaparken seni en çok zorlayan durum ne oldu? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -1022,66 +1247,80 @@
       },
       {
         "type": "content",
-        "step_badge": "1. BÜYÜK HATA",
-        "title": "Sadece 'İş Bitiren' Olup <span class=\"text-red\">İş Öğrenmemek</span>",
-        "problem_title": "⚠️ ADLİYE POSTACISI TUZAĞI",
-        "problem_desc": "Sabahtan akşama kadar hacze gitmek, tebligat kovalamak ve dosya fotokopisi çekmek. Gün bittiğinde çok yorulmuşsundur ama mesleki olarak hiçbir şey öğrenmemişsindir.",
-        "solution_title": "✅ DOSYANIN BÜTÜNÜNÜ OKUMAK",
-        "solution_desc": "Hangi işlemi yapıyorsan yap, o dosyanın dava dilekçesini, delil listesini ve tensip zaptını mutlaka oku. Bu davanın stratejisi ne? Hakim neyi sordu?",
-        "tactic": "İş yaptığın ofiste bir amele gibi değil, geleceğin dava stratejisti gibi düşün."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Stajyer ve Genç Avukatların İlk Yılında Düştüğü 3 Büyük Kariyer Hatası - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Sadece adliye getir-götürü yapıp 1 yılını heba etmemek ve aranılan genç hukukçu olmak için bilmen gerekenler 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "STAJ BİR BEKLEME ODASI DEĞİL; KARİYERİNİN FIRLATMA RAMPASIDIR.",
+        "tactic": "HukukLA Taktiği: 📖 Dosyanın bütününü oku: Sadece işlem yapma; dava dilekçesini ve tensip zaptını incele"
       },
       {
         "type": "content",
-        "step_badge": "2. BÜYÜK HATA",
-        "title": "Ücret ve Çalışma Şartlarını <span class=\"text-gold\">Baştan Konuşmamak</span>",
-        "problem_title": "⚠️ 'BİZDE PARA KONUŞULMAZ' SÖMÜRÜSÜ",
-        "problem_desc": "Mahcubiyetten dolayı staj ücretini, yol-yemek masraflarını ve çalışma saatlerini baştan netleştirmemek. 3 ay sonra tükenmişlik ve öfke yaşamak.",
-        "solution_title": "✅ PROFESYONEL VE NET İLETİŞİM",
-        "solution_desc": "Avukatlık bir kamu hizmeti olduğu kadar bir ticari faaliyettir. Kendi emeğinin değerini konuşamayan bir avukat, yarın müvekkilinden vekalet ücreti isteyemez.",
-        "tactic": "Görüşmede beklentilerini saygılı ama son derece net ve yazılı olarak ortaya koy."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "💬 Şartları baştan konuş: Kendi emeğinin değerini konuşamayan avukat yarın vekalet ücreti isteyemez",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "🤝 Kendi network'ünü başlat: Staj yaptığın ofisin müvekkillerine değil, kendi ilişkilerine güven",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "3. BÜYÜK HATA",
-        "title": "Kendi Bağımsız <span class=\"text-emerald\">Network'ünü Başlatmamak</span>",
-        "problem_title": "⚠️ BAĞLI ÇALIŞTIĞI OFİSE HAPSOLMAK",
-        "problem_desc": "Staj yaptığı ofisin müvekkillerini kendi çevresi sanmak. Ruhsatı aldığında tek bir tane bile kendi müvekkilinin olmadığını fark edip sudan çıkmış balığa dönmek.",
-        "solution_title": "✅ KENDİ İLİŞKİ AĞINI İNŞA ETMEK",
-        "solution_desc": "Üniversite arkadaşların, girişimciler, esnaf, dernekler ve LinkedIn bağlantıların senin gelecekteki bağımsız portföyündür.",
-        "tactic": "Haftada en az 2 yeni profesyonel temas kur ve insanlara hukuki vizyonunla yardımcı ol."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "🤝 Kendi network'ünü başlat: Staj yaptığın ofisin müvekkillerine değil, kendi ilişkilerine güven",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "🏆 UYAP ustalığı: Sistem ayarlarını ve e-duruşma pratiklerini eksiksiz öğren",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "İLK YIL FORMÜLÜ",
-        "title": "Stajda Öne Geçiren <span class=\"text-gold\">Altın Alışkanlıklar</span>",
-        "problem_title": "🌟 3 ALIŞKANLIK",
-        "problem_desc": "1. Hata yaptığında asla gizleme; hatayı ve olası çözümünü aynı anda kıdemli avukata sun.<br>2. Adliyedeki kalem müdürleriyle kavga etme; güler yüz ve saygı kapalı kapıları açar.<br>3. UYAP sisteminin tüm ince ayarlarını ve e-duruşma pratiklerini avucunun içi gibi öğren.",
-        "solution_title": "🏆 1 YIL SONRA",
-        "solution_desc": "Bu disiplini uygulayan stajyer ruhsat töreninde aranan, transfer teklifi alan bir avukata dönüşür.",
-        "tactic": "Staj süresi bir bekleme odası değil; kariyerinin fırlatma rampasıdır."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 📖 Dosyanın bütününü oku: Sadece işlem yapma; dava dilekçesini ve tensip zaptını incele<br>• 💬 Şartları baştan konuş: Kendi emeğinin değerini konuşamayan avukat yarın vekalet ücreti isteyemez<br>• 🤝 Kendi network'ünü başlat: Staj yaptığın ofisin müvekkillerine değil, kendi ilişkilerine güven",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "STAJ BİR BEKLEME ODASI DEĞİL; KARİYERİNİN FIRLATMA RAMPASIDIR.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "GÜÇLÜ BAŞLA",
-        "title": "Mesleğe 1-0 Önde <span class=\"text-gold\">Adım At:</span>",
-        "action_1_title": "Rehberi Kaydet",
-        "action_1_desc": "Staj süresince motivasyonunu korumak için kaydet.",
-        "action_2_title": "Staj Arayan Arkadaşına Gönder",
-        "action_2_desc": "Mesleğin başında olan kütüphane dostuna destek ol.",
-        "app_title": "Genç Hukukçunun Yanında",
-        "app_desc": "HukukLA ile stajdan uzmanlığa kadar her adımda bilgiye hızlı ulaş."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
   {
     "id": 17,
     "folder_name": "17_Borclar_Genelde_Zaman_Calan_3_Soru_Tipi_ve_Formulu",
-    "title": "Borçlar Hukuku Genel Hükümler: Sınavda Zaman Çalan 3 Soru Tipi ve Pratik Çözümü",
-    "category": "HMGS Taktik",
-    "badge_icon": "⚖️",
-    "badge_text": "HMGS TAKTİK",
-    "hook_title_html": "Borçlar Hukuku Genel Hükümler:<br>Sınavda En Çok Zaman Çalan<br><span class=\"text-gold\">3 Soru Tipi ve Pratik Çözümü ⏱️</span>",
-    "curiosity_subtext": "(Yarım sayfalık karmaşık olay kurgularını 30 saniyede çözdüren şematik yaklaşım 👇)",
+    "title": "Borçlar Hukuku Genel Hükümler: Sınavda Zaman Çalan 3 Soru Tipi",
+    "hook_lines": [
+      "BORÇLARDA",
+      "EN ÇOK ZAMAN",
+      "ÇALAN 3 SORU",
+      "VE ÇÖZÜMÜ:"
+    ],
+    "highlight_line_idx": 2,
+    "topic_cyan_title": "Borçlar Hukuku Olay Sorusu Formülleri",
+    "core_principle_upper": "OLAY SORUSUNU ŞEMALAŞTIRAN ÖĞRENCİ CEVABI 20 SANİYEDE BULUR",
+    "hook_desc": "Yarım sayfalık karmaşık olay kurgularını 30 saniyede çözdüren şematik yaklaşım 👇",
+    "pin_text": "📌 Bu formülleri kaydet, uzun olay sorularında hız kazan.",
+    "caption_intro": "Borçlar Genel olay soruları sınavın en uzun metinli sorularıdır. Metni roman gibi okursan süren tükenir; şematik yaklaşırsan saniyeler içinde doğru şıkkı bulursun.",
+    "caption_bullets": [
+      "⚖️ Gabin (TBK 28): Öğrenmeden itibaren 1 yıl ve her halde sözleşmeden itibaren 5 yıl",
+      "⚠️ İfa İmkansızlığı vs Aşırı İfa Güçlüğü: Kusursuz imkansızlıkta borç biter; uyarlamada sözleşme devam eder",
+      "📑 Alacağın Temliki: Yazılı şekil şarttır, borçlunun rızası aranmaz ama borçlu eski defilerini ileri sürebilir",
+      "💡 Taktik: Olaydaki kişilerin üstüne alacaklı/borçlu/kefil sıfatlarını kurşun kalemle hemen yaz"
+    ],
+    "caption_question": "Borçlar Genel olay sorularında en çok hangi konuda takılıyorsun? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -1089,66 +1328,80 @@
       },
       {
         "type": "content",
-        "step_badge": "1. ZOR SORU TİPİ",
-        "title": "Gabin (Aşırı Yararlanma) ve <span class=\"text-red\">Hak Düşürücü Süreler</span>",
-        "problem_title": "⚠️ 1 YIL VE 5 YIL TUZAĞI",
-        "problem_desc": "TBK 28: Edimler arasında açık oransızlık + zor durumda kalma, düşüncesizlik veya deneyimsizlik sömürüsü.",
-        "solution_title": "✅ SÜRE FORMÜLÜ",
-        "solution_desc": "Zarar gören, bu durumu öğrendiği tarihten itibaren 1 YIL ve her halde sözleşmenin kurulduğu tarihten itibaren 5 YIL içinde sözleşmeyle bağlı olmadığını bildirebilir veya edimler arasındaki oransızlığın giderilmesini isteyebilir.",
-        "tactic": "Soru kökünde 'öğrenme' varsa 1 yıl, 'kurulma' varsa 5 yıl kuralını uygula."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Borçlar Hukuku Genel Hükümler: Sınavda Zaman Çalan 3 Soru Tipi - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Yarım sayfalık karmaşık olay kurgularını 30 saniyede çözdüren şematik yaklaşım 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "OLAY SORUSUNU ŞEMALAŞTIRAN ÖĞRENCİ CEVABI 20 SANİYEDE BULUR.",
+        "tactic": "HukukLA Taktiği: ⚖️ Gabin (TBK 28): Öğrenmeden itibaren 1 yıl ve her halde sözleşmeden itibaren 5 yıl"
       },
       {
         "type": "content",
-        "step_badge": "2. ZOR SORU TİPİ",
-        "title": "İfa İmkansızlığı vs. <span class=\"text-gold\">Aşırı İfa Güçlüğü</span>",
-        "problem_title": "⚠️ TBK 136 VS. TBK 138 (UYARLAMA)",
-        "problem_desc": "Borcun ifası tamamen mi imkansız hale geldi, yoksa aşırı derecede güçleşip dürüstlük kuralına aykırı mı oldu?",
-        "solution_title": "✅ KESİN AYRIM",
-        "solution_desc": "• İfa İmkansızlığı (136): Borç sona erer. Kusursuz ise borçlu kurtulur ama sebepsiz zenginleşmeyi iade eder.<br>• Aşırı İfa Güçlüğü (138): Borç sona ERMEZ! Borçlu önce hakemden sözleşmenin uyarlanmasını ister; uyarlama mümkün değilse sözleşmeden döner.",
-        "tactic": "Aşırı ifa güçlüğünde borçlu edimini ifa etmemiş veya haklarını saklı tutarak ifa etmiş olmalıdır."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "⚠️ İfa İmkansızlığı vs Aşırı İfa Güçlüğü: Kusursuz imkansızlıkta borç biter; uyarlamada sözleşme devam eder",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "📑 Alacağın Temliki: Yazılı şekil şarttır, borçlunun rızası aranmaz ama borçlu eski defilerini ileri sürebilir",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "3. ZOR SORU TİPİ",
-        "title": "Alacağın Temliki: <span class=\"text-emerald\">Şekil ve Borçlunun Savunmaları</span>",
-        "problem_title": "⚠️ TBK 183 VE DEVAMI",
-        "problem_desc": "Temlik sözleşmesi hangi şekilde yapılmalıdır? Borçlunun rızası gerekir mi? Borçlu kime karşı hangi defileri ileri sürebilir?",
-        "solution_title": "✅ 3 ALTIN KURAL",
-        "solution_desc": "1. Alacağın devri YAZILI ŞEKİLDE yapılmadıkça geçerli olmaz.<br>2. Borçlunun rızası ARANMAZ!<br>3. Borçlu, devri öğrendiği anda devredene karşı sahip olduğu tüm defileri devralana karşı da ileri sürebilir.",
-        "tactic": "İyiniyetli borçlu, devri bilmeden eski alacaklıya ödeme yaparsa borcundan kurtulur!"
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "📑 Alacağın Temliki: Yazılı şekil şarttır, borçlunun rızası aranmaz ama borçlu eski defilerini ileri sürebilir",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "💡 Taktik: Olaydaki kişilerin üstüne alacaklı/borçlu/kefil sıfatlarını kurşun kalemle hemen yaz",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "ÇÖZÜM ŞABLONU",
-        "title": "Olay Sorularında <span class=\"text-gold\">30 Saniye Kuralı</span>",
-        "problem_title": "🔍 METİNDE İLK ARANACAKLAR",
-        "problem_desc": "1. Olayda 'Kusur' kimde? (Kusurlu imkansızlık mı, kusursuz mu?)<br>2. Tarihler: İhtar çekildi mi? Temerrüt ne zaman oluştu?<br>3. Borç para borcu mu parça borcu mu? (Para borcunda imkansızlık olmaz, temerrüt faizi işler).",
-        "solution_title": "🎯 HIZ KAZAN",
-        "solution_desc": "Kurgusal olay sorusunu roman gibi okuma; hukuki aktörlerin sıfatlarını (alacaklı, borçlu, müteselsil kefil) isimlerin üzerine yaz.",
-        "tactic": "Soruyu şemalaştıran öğrenci cevabı ilk 20 saniyede görür."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• ⚖️ Gabin (TBK 28): Öğrenmeden itibaren 1 yıl ve her halde sözleşmeden itibaren 5 yıl<br>• ⚠️ İfa İmkansızlığı vs Aşırı İfa Güçlüğü: Kusursuz imkansızlıkta borç biter; uyarlamada sözleşme devam eder<br>• 📑 Alacağın Temliki: Yazılı şekil şarttır, borçlunun rızası aranmaz ama borçlu eski defilerini ileri sürebilir",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "OLAY SORUSUNU ŞEMALAŞTIRAN ÖĞRENCİ CEVABI 20 SANİYEDE BULUR.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "ZAMAN KAZAN",
-        "title": "Borçlar Hukukunu Formüllerle <span class=\"text-gold\">Çöz:</span>",
-        "action_1_title": "Formülleri Kaydet",
-        "action_1_desc": "Borçlar sorularında hızlanmak için bu şablonu kaydet.",
-        "action_2_title": "Borçlar Çalışan Arkadaşına Gönder",
-        "action_2_desc": "Uzun olay sorularında boğulan meslektaşına kolaylık sağla.",
-        "app_title": "HukukLA Soru Modülleri",
-        "app_desc": "Borçlar Hukuku olay sorularının püf noktaları HukukLA uygulamasında."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
   {
     "id": 18,
     "folder_name": "18_Gunde_10_Saat_Calisip_Neti_Artmayanlarin_Kusuru_Pasif_Okuma",
-    "title": "Günde 10 Saat Çalışıp Neti Artmayanların Ortak Kusuru: Pasif Okuma Tuzağı",
-    "category": "Çalışma Metodolojisi",
-    "badge_icon": "🧠",
-    "badge_text": "ÇALIŞMA METODOLOJİSİ",
-    "hook_title_html": "Günde 10 Saat Çalışıp Neti Artmayanların Ortak Kusuru:<br><span class=\"text-red\">'Pasif Okuma' Tuzağı 🔴</span>",
-    "curiosity_subtext": "(Kitabın altını sarı fosforlu kalemle çizmek öğrenmek değildir. İşte net artıran aktif geri çağırma metodu 👇)",
+    "title": "Günde 10 Saat Çalışıp Neti Artmayanların Ortak Kusuru: Pasif Okuma",
+    "hook_lines": [
+      "10 SAAT",
+      "ÇALIŞIP NETİ",
+      "ARTMAYANLARIN",
+      "ORTAK KUSURU:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "Pasif Okuma Tuzağı vs Aktif Hatırlama",
+    "core_principle_upper": "FOSFORLU KALEMLE KİTAP ÇİZMEK ÖĞRENMEK DEĞİLDİR",
+    "hook_desc": "Kitabın altını sarı fosforlu kalemle çizmek öğrenmek değildir. İşte net artıran aktif geri çağırma metodu 👇",
+    "pin_text": "📌 Bu öğrenme metodunu kaydet, çalışma verimini 4 katına çıkar.",
+    "caption_intro": "Bir sayfayı 4 kez okuyup altını çizdiğinde beynin 'ben bunu biliyorum' hissine kapılır. Ama sınavda boş kağıt önündeyken o bilgi gelmez. Net artıran bilimsel çalışma sistemi:",
+    "caption_bullets": [
+      "🧠 Active Recall: Konuyu bitirince kitabı kapat ve boş kağıda hatırladığın her şeyi yaz",
+      "🗣️ Feynman Tekniği: Hukuki kavramı 12 yaşındaki çocuğa anlatır gibi basitçe ifade et",
+      "🔄 Reverse Learning: Önce soru çöz, yapamadığın sorunun konusuna dönüp sadece o maddeyi oku",
+      "⚡ Kural: Gününün en az %60'ını test çözmeye ve hata analizine ayır"
+    ],
+    "caption_question": "Ders çalışırken günde kaç saatini soru çözmeye ayırıyorsun? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -1156,66 +1409,80 @@
       },
       {
         "type": "content",
-        "step_badge": "BÜYÜK YALAN",
-        "title": "Fosforlu Kalemle Kitap Çizmek <span class=\"text-red\">Neden İşe Yaramaz?</span>",
-        "problem_title": "⚠️ BİLİŞSEL İLLÜZYON: TANIMA VS. HATIRLAMA",
-        "problem_desc": "Bir sayfayı 4 kez okuyup altını çizdiğinde beynin metne aşina olur ve 'Ben bunu biliyorum' hissi verir. Ama sınavda önünde boş şıklar varken beynin o bilgiyi sıfırdan çağıramaz.",
-        "solution_title": "🧠 PASİF TÜKETİMDEN AKTİF ÜRETİME",
-        "solution_desc": "Öğrenme, bilgiyi kafanın içine sokarken değil; kafanın içinden dışarıya zorla çağırırken (retrieval practice) gerçekleşir.",
-        "tactic": "Kitabı kapatıp 'Bu sayfada ne anlatıldı?' diye kendine sormadığın hiçbir okuma kalıcı değildir."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Günde 10 Saat Çalışıp Neti Artmayanların Ortak Kusuru: Pasif Okuma - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Kitabın altını sarı fosforlu kalemle çizmek öğrenmek değildir. İşte net artıran aktif geri çağırma metodu 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "FOSFORLU KALEMLE KİTAP ÇİZMEK ÖĞRENMEK DEĞİLDİR.",
+        "tactic": "HukukLA Taktiği: 🧠 Active Recall: Konuyu bitirince kitabı kapat ve boş kağıda hatırladığın her şeyi yaz"
       },
       {
         "type": "content",
-        "step_badge": "METOT 1",
-        "title": "Active Recall: <span class=\"text-gold\">Aktif Hatırlama Tekniği</span>",
-        "problem_title": "📖 NASIL UYGULANIR?",
-        "problem_desc": "Bir kanun maddesini veya konuyu okuduktan hemen sonra kitabı kapat. Boş bir beyaz kağıda aklında kalan her şeyi (şartları, süreleri, istisnaları) çizerek yaz.",
-        "solution_title": "✅ BEYNİN KAS YAPMASI",
-        "solution_desc": "Eksik bıraktığın yerleri kırmızıyla tamamla. Bu yöntem zihinsel direnç yaratır ve bilginin uzun vadeli hafızaya (hippocampus) yazılmasını sağlar.",
-        "tactic": "Günde 3 saat aktif hatırlama yapmak, 8 saat pasif kitap okumaktan 4 kat daha fazla net kazandırır."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "🗣️ Feynman Tekniği: Hukuki kavramı 12 yaşındaki çocuğa anlatır gibi basitçe ifade et",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "🔄 Reverse Learning: Önce soru çöz, yapamadığın sorunun konusuna dönüp sadece o maddeyi oku",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "METOT 2",
-        "title": "Feynman Tekniği: <span class=\"text-emerald\">12 Yaşındaki Çocuğa Anlatır Gibi</span>",
-        "problem_title": "🗣️ HUKUKİ JARGONDAN ARINDIRMAK",
-        "problem_desc": "Kendini karmaşık terimlerle kandırma. Sebepsiz zenginleşmeyi veya kusursuz sorumluluğu hukuk bilmeyen birine 3 basit cümleyle anlatabiliyor musun?",
-        "solution_title": "✅ KAVRAMSAL HAKİMİYET",
-        "solution_desc": "Eğer basitçe anlatamıyorsan konuyu gerçekten anlamamışsındır, sadece ezberlemişsindir.",
-        "tactic": "Çalışırken sesli olarak hayali bir öğrenciye konuyu ders anlatır gibi aktar."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "🔄 Reverse Learning: Önce soru çöz, yapamadığın sorunun konusuna dönüp sadece o maddeyi oku",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "⚡ Kural: Gününün en az %60'ını test çözmeye ve hata analizine ayır",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "METOT 3",
-        "title": "Soru Üzerinden Konu Çalışma: <span class=\"text-gold\">Reverse Learning</span>",
-        "problem_title": "🔄 TERSİNE ÇALIŞMA MODELİ",
-        "problem_desc": "Önce konuyu bitirip sonra soru çözmek yerine; doğrudan bir soru setiyle başla. Takıldığın ve yapamadığın sorunun ait olduğu konuyu açıp sadece o parçayı oku.",
-        "solution_title": "🎯 HEDEF ODAKLI MERAK",
-        "solution_desc": "Beyin bir sorunun cevabını merak ettiğinde o bilgiyi asla unutmaz. Merak, en güçlü hafıza yapıştırıcısıdır.",
-        "tactic": "Gününün en az %60'ını soru çözmeye ve soru analizi yapmaya ayır."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 🧠 Active Recall: Konuyu bitirince kitabı kapat ve boş kağıda hatırladığın her şeyi yaz<br>• 🗣️ Feynman Tekniği: Hukuki kavramı 12 yaşındaki çocuğa anlatır gibi basitçe ifade et<br>• 🔄 Reverse Learning: Önce soru çöz, yapamadığın sorunun konusuna dönüp sadece o maddeyi oku",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "FOSFORLU KALEMLE KİTAP ÇİZMEK ÖĞRENMEK DEĞİLDİR.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "AKILLICA ÇALIŞ",
-        "title": "Masa Başında Saatlerini Değil, <span class=\"text-gold\">Netlerini Artır:</span>",
-        "action_1_title": "Teknikleri Kaydet",
-        "action_1_desc": "Çalışma sistemini güncellemek için bu rehberi kaydet.",
-        "action_2_title": "Saatlerce Okuyan Arkadaşına Gönder",
-        "action_2_desc": "Kütüphanede bütün gün kitap altı çizen dostuna bu yöntemi göster.",
-        "app_title": "HukukLA ile Aktif Öğren",
-        "app_desc": "Hap kartlar, aralıklı tekrar ve interaktif testlerle HukukLA yanında."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
   {
     "id": 19,
     "folder_name": "19_Hukukcular_Icin_Finansal_Okuryazarlik_Sirketler_Hukuku",
-    "title": "Hukukçular İçin Finansal Okuryazarlık: Ticaret ve Şirketler Hukukunda Neden Az İsim Zirvede?",
-    "category": "Kariyer Vizyonu",
-    "badge_icon": "📈",
-    "badge_text": "KARİYER VİZYONU",
-    "hook_title_html": "Hukukçular İçin Finansal Okuryazarlık:<br>Ticaret ve Şirketler Hukukunda<br><span class=\"text-gold\">Neden Az İsim Zirvede? 💼</span>",
-    "curiosity_subtext": "(Bilanço okuyamayan, sermaye artırımı matematiğini bilmeyen bir ticaret avukatı olamazsın 👇)",
+    "title": "Hukukçular İçin Finansal Okuryazarlık: Ticaret ve Şirketler Hukuku",
+    "hook_lines": [
+      "TİCARET",
+      "HUKUKUNDA",
+      "NEDEN AZ İSİM",
+      "ZİRVEDE?"
+    ],
+    "highlight_line_idx": 2,
+    "topic_cyan_title": "Finansal Okuryazar Hukukçu Olmak",
+    "core_principle_upper": "BİLANÇO OKUYAMAYAN AVUKAT, İŞ DÜNYASINDA ZİRVEYE OYNAYAMAZ",
+    "hook_desc": "Bilanço okuyamayan, sermaye artırımı matematiğini bilmeyen bir ticaret avukatı olamazsın 👇",
+    "pin_text": "📌 Bu finansal hukuk notunu kaydet, şirketler hukuku hedeflerine ekle.",
+    "caption_intro": "Hukuk fakültesinde anonim şirket genel kurulu ezberletilir ama bilanço okuma öğretilmez. Bir holding patronu avukatla konuşurken madde numarası değil ticari risk duymak ister.",
+    "caption_bullets": [
+      "📊 Bilanço Okuma & TTK 376: Sermaye kaybı ve borca batıklıkta yönetim kurulunu yönlendirmek",
+      "💰 Sermaye Artırımı & Rüçhan Hakkı: Yatırım turlarında dilüsyon (hisse sulanması) hesabı",
+      "📑 Hissedarlar Sözleşmesi (SHA): Tag-along, drag-along ve veto haklarını doğru kurgulamak",
+      "🚀 Kazanç farkı: Dava başı cüzi ücret yerine şirket yönetimlerine aylık yüksek retainer danışmanlık"
+    ],
+    "caption_question": "Şirketler Hukuku alanında çalışmak ilgini çekiyor mu? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -1223,66 +1490,80 @@
       },
       {
         "type": "content",
-        "step_badge": "BÜYÜK EKSİKLİK",
-        "title": "Fakültede Finans Neden <span class=\"text-red\">Öğretilmez?</span>",
-        "problem_title": "📉 DİPLOMALI FİNANS CAHİLLİĞİ",
-        "problem_desc": "Hukuk mezunları anonim şirketin genel kurul iptal davasını ezbere bilir ama önüne bir bilanço konulduğunda borca batıklık ile aciz halini ayırt edemez.",
-        "solution_title": "💡 ŞİRKET PATRONUNUN BEKLENTİSİ",
-        "solution_desc": "Bir holding patronu veya CFO, avukatla konuşurken TTK madde numarası değil; nakit akışı, teminat riski ve vergi etkisi duymak ister.",
-        "tactic": "Finans dilini konuşamayan avukat, kurumsal şirketlerde sadece evrak hazırlayan alt memur muamelesi görür."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "Hukukçular İçin Finansal Okuryazarlık: Ticaret ve Şirketler Hukuku - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Bilanço okuyamayan, sermaye artırımı matematiğini bilmeyen bir ticaret avukatı olamazsın 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "BİLANÇO OKUYAMAYAN AVUKAT, İŞ DÜNYASINDA ZİRVEYE OYNAYAMAZ.",
+        "tactic": "HukukLA Taktiği: 📊 Bilanço Okuma & TTK 376: Sermaye kaybı ve borca batıklıkta yönetim kurulunu yönlendirmek"
       },
       {
         "type": "content",
-        "step_badge": "1. FİNANSAL KAVRAM",
-        "title": "Bilanço Okuma ve <span class=\"text-gold\">TTK 376 (Sermaye Kaybı)</span>",
-        "problem_title": "⚠️ TEKNİK İFLAS KAVRAMI",
-        "problem_desc": "Şirketin son yıllık bilançosuna göre sermaye ile kanuni yedek akçeler toplamının üçte ikisi zarar sebebiyle karşılıksız kalırsa ne yapılır?",
-        "solution_title": "✅ AVUKATIN KURTARICI ROLÜ",
-        "solution_desc": "Yönetim kurulunu acil genel kurula çağırıp sermayenin tamamlanması veya azaltılması kararlarını hukuki güvenceye bağlamak.",
-        "tactic": "Aktif, Pasif, Özkaynak ve Yedek Akçe kalemlerinin ne anlama geldiğini bugün öğren."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "💰 Sermaye Artırımı & Rüçhan Hakkı: Yatırım turlarında dilüsyon (hisse sulanması) hesabı",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "📑 Hissedarlar Sözleşmesi (SHA): Tag-along, drag-along ve veto haklarını doğru kurgulamak",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "2. FİNANSAL KAVRAM",
-        "title": "Sermaye Artırımı ve <span class=\"text-emerald\">Rüçhan Hakları (Pre-emption)</span>",
-        "problem_title": "💰 START-UP YATIRIM TURLARI",
-        "problem_desc": "Bir start-up 2 milyon dolar yatırım alırken yeni pay ihracı nasıl yapılır? Mevcut ortakların rüçhan (öncelikli alım) hakkı nasıl sınırlandırılır?",
-        "solution_title": "✅ DİLÜSYON (SULANMA) HESABI",
-        "solution_desc": "Yatırım öncesi değerleme (Pre-money) ile yatırım sonrası değerleme (Post-money) matematiğini bilmeyen bir avukat hissedarlar sözleşmesi (SHA) yazamaz.",
-        "tactic": "Rüçhan hakkının sınırlandırılması için TTK 461 şartlarını ve haklı sebep kavramını çok iyi bil."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "📑 Hissedarlar Sözleşmesi (SHA): Tag-along, drag-along ve veto haklarını doğru kurgulamak",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "🚀 Kazanç farkı: Dava başı cüzi ücret yerine şirket yönetimlerine aylık yüksek retainer danışmanlık",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "KAZANÇ HARİTASI",
-        "title": "Finansal Hukukçu Olmanın <span class=\"text-gold\">Gelir Karşılığı</span>",
-        "problem_title": "📊 ÜCRET FARKI",
-        "problem_desc": "• Klasik dava avukatı: Duruşma başına cüzi ücretler ve yıllar süren tahsilat stresi.<br>• Finans & Ticaret avukatı: Şirket yönetim kurullarına aylık yüksek retainer danışmanlık, tahvil ihracı ve halka arz danışmanlığı.",
-        "solution_title": "🚀 KENDİNE YAPACAĞIN EN BÜYÜK YATIRIM",
-        "solution_desc": "Temel Muhasebe + Şirket Değerleme + TTK Şirketler Hukuku kombinasyonu seni Türkiye'nin en pahalı avukatlarından biri yapar.",
-        "tactic": "Bugün bir temel finans/muhasebe kitabı edin ve ilk 50 sayfasını oku."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 📊 Bilanço Okuma & TTK 376: Sermaye kaybı ve borca batıklıkta yönetim kurulunu yönlendirmek<br>• 💰 Sermaye Artırımı & Rüçhan Hakkı: Yatırım turlarında dilüsyon (hisse sulanması) hesabı<br>• 📑 Hissedarlar Sözleşmesi (SHA): Tag-along, drag-along ve veto haklarını doğru kurgulamak",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "BİLANÇO OKUYAMAYAN AVUKAT, İŞ DÜNYASINDA ZİRVEYE OYNAYAMAZ.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "ZİRVEYE OYNA",
-        "title": "İş Dünyasının En Çok Aradığı <span class=\"text-gold\">Hukukçu Ol:</span>",
-        "action_1_title": "Kariyer Notunu Kaydet",
-        "action_1_desc": "Finansal okuryazarlık hedeflerini unutmamak için kaydet.",
-        "action_2_title": "Şirketler Hukukuna İlgisi Olan Arkadaşına Gönder",
-        "action_2_desc": "Kurumsal alanda kariyer planlayan arkadaşına ilham ver.",
-        "app_title": "Ticaret Hukuku HukukLA'da",
-        "app_desc": "HMGS Ticaret ve Şirketler Hukuku testleri en güncel haliyle HukukLA'da."
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   },
   {
     "id": 20,
     "folder_name": "20_HMGS_Sinav_Gunu_Masada_Paniklememek_Icin_24_Saat_Protokolu",
-    "title": "HMGS Sınav Günü Masada Paniklememek İçin 24 Saat Önceden Uygulaman Gereken Protokol",
-    "category": "Sınav Psikolojisi",
-    "badge_icon": "🧘",
-    "badge_text": "SINAV PSİKOLOJİSİ",
-    "hook_title_html": "HMGS Sınav Günü Masada Paniklememek İçin<br><span class=\"text-gold\">24 Saat Önceden Uygulaman Gereken Protokol 🛡️</span>",
-    "curiosity_subtext": "(Aylarca çalışıp son 24 saatte sınavı kaybedenlerden olmamak için zihinsel ve biyolojik hazırlık rehberi 👇)",
+    "title": "HMGS Sınav Günü Masada Paniklememek İçin 24 Saat Protokolü",
+    "hook_lines": [
+      "HMGS SINAV",
+      "GÜNÜ MASADA",
+      "PANİKLEMEMEK",
+      "İÇİN PROTOKOL:"
+    ],
+    "highlight_line_idx": 2,
+    "topic_cyan_title": "Son 24 Saat Zihinsel & Biyolojik Protokol",
+    "core_principle_upper": "SEN EMEK VERDİN, SEN HAZIRSIN; MASADA SADECE KENDİNLE YARIŞ",
+    "hook_desc": "Aylarca çalışıp son 24 saatte sınavı kaybedenlerden olmamak için zihinsel ve biyolojik hazırlık rehberi 👇",
+    "pin_text": "📌 Bu protokolü kaydet, sınavdan bir gün önce açıp oku ve sakinleş.",
+    "caption_intro": "Aylarca çalışıp son 24 saatte telaşa kapılarak sınavı kaybedenlerden olma! Sınav günü masada sakin kalmanı ve bildiklerini eksiksiz kağıda dökmeni sağlayacak acil durum protokolü:",
+    "caption_bullets": [
+      "🛑 Saat 14:00 kuralı: Sınavdan bir gün önce öğleden sonra çalışmayı bırak ve beynini dinlendir",
+      "🌙 Biyolojik rutin: Alışılmadık ilaç/çay deneme, akşam 22:30'da yatağa girip zihnini dinlendir",
+      "🫁 3 Nefes protokolü: İlk sorular zor gelirse kalemi bırak; 4 sn al, 4 sn tut, 6 sn ver",
+      "🚀 Turlama özgüveni: İlk 10 soruda takılırsan hemen 15. soruya geç ve kendi ritmini yakala"
+    ],
+    "caption_question": "Sınav sabahı heyecanını kontrol etmek için özel bir yöntemin var mı? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
     "status": "pending",
     "slides": [
       {
@@ -1290,54 +1571,53 @@
       },
       {
         "type": "content",
-        "step_badge": "SON 24 SAAT: KURAL 1",
-        "title": "Ders Çalışmayı Saat <span class=\"text-red\">14:00'te Bırak</span>",
-        "problem_title": "⚠️ BEYNİ SON DAKİKADA ŞİŞİRMEK",
-        "problem_desc": "Sınavdan önceki gece saat 23:00'e kadar telaşla not okumak beyninde kortizol hormonunu tavan yaptırır ve uyku kalitesini sıfırlar.",
-        "solution_title": "🧠 NÖROLOJİK GERÇEK",
-        "solution_desc": "Öğrenilen bilgilerin uzun vadeli hafızaya yerleşmesi ve sınav anında hızlı geri çağrılabilmesi için beynin en az 14 saatlik 'sessizliğe ve dinlenmeye' ihtiyacı vardır.",
-        "tactic": "Sınavdan bir gün önce öğleden sonra kitapları kapat, yürüyüş yap ve zihnini sakinleştir."
+        "step_badge": "1. KRİTİK NOKTA",
+        "title": "HMGS Sınav Günü Masada Paniklememek İçin 24 Saat Protokolü - <span class=\"text-[#FBBF24]\">1. Adım</span>",
+        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
+        "problem_desc": "Aylarca çalışıp son 24 saatte sınavı kaybedenlerden olmamak için zihinsel ve biyolojik hazırlık rehberi 👇",
+        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
+        "solution_desc": "SEN EMEK VERDİN, SEN HAZIRSIN; MASADA SADECE KENDİNLE YARIŞ.",
+        "tactic": "HukukLA Taktiği: 🛑 Saat 14:00 kuralı: Sınavdan bir gün önce öğleden sonra çalışmayı bırak ve beynini dinlendir"
       },
       {
         "type": "content",
-        "step_badge": "SON 24 SAAT: KURAL 2",
-        "title": "Biyolojik Düzen ve <span class=\"text-gold\">Beslenme Protokolü</span>",
-        "problem_title": "⚠️ MİDE VE UYKU KRİZLERİ",
-        "problem_desc": "Daha önce hiç yemediğin ağır bir yemeği yemek veya uyumak için bilmediğin bir bitki çayı/ilaç denemek felaket getirebilir.",
-        "solution_title": "✅ RUTİNİ KORU",
-        "solution_desc": "Hafif, protein ve sebze ağırlıklı beslen. Akşam 22:30'da yatağa gir. Uyuyamasan bile panik yapma; sadece gözlerini kapatıp karanlıkta dinlenmek bile vücudu şarj eder.",
-        "tactic": "Giriş belgeni, geçerli kimliğini ve suyunu akşamdan masanın üstüne hazırla."
+        "step_badge": "2. KRİTİK NOKTA",
+        "title": "Stratejik Yaklaşım: <span class=\"text-[#22D3EE]\">2. Adım</span>",
+        "problem_title": "🔍 DETAY ANALİZİ",
+        "problem_desc": "🌙 Biyolojik rutin: Alışılmadık ilaç/çay deneme, akşam 22:30'da yatağa girip zihnini dinlendir",
+        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
+        "solution_desc": "🫁 3 Nefes protokolü: İlk sorular zor gelirse kalemi bırak; 4 sn al, 4 sn tut, 6 sn ver",
+        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir."
       },
       {
         "type": "content",
-        "step_badge": "SINAV ANI: KURAL 3",
-        "title": "İlk 5 Soruda Gelen <span class=\"text-emerald\">Panik Atakla Başa Çıkma</span>",
-        "problem_title": "⚠️ 'HİÇBİR ŞEY BİLMİYORUM' HİSSİ",
-        "problem_desc": "Kitapçığı açtığında ilk 3 sorunun çok zor gelmesi durumunda kalp çarpıntısı ve ellerde titreme başlaması.",
-        "solution_title": "✅ 3 NEFES PROTOKOLÜ",
-        "solution_desc": "Kalemi bırak, arkana yaslan. 4 saniyede burnundan derin nefes al, 4 saniye tut, 6 saniyede ağzından yavaşça ver. Bu egzersiz vagus sinirini uyararak kalp atışını anında yavaşlatır.",
-        "tactic": "Unutma: İlk sorular kasıtlı olarak zor yerleştirilmiş olabilir. Hemen 10. soruya atla ve ritmini yakala."
+        "step_badge": "3. KRİTİK NOKTA",
+        "title": "Uygulama ve Pratik: <span class=\"text-[#FBBF24]\">3. Adım</span>",
+        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
+        "problem_desc": "🫁 3 Nefes protokolü: İlk sorular zor gelirse kalemi bırak; 4 sn al, 4 sn tut, 6 sn ver",
+        "solution_title": "✅ KESİN FORMÜL",
+        "solution_desc": "🚀 Turlama özgüveni: İlk 10 soruda takılırsan hemen 15. soruya geç ve kendi ritmini yakala",
+        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula."
       },
       {
         "type": "content",
-        "step_badge": "ZAFER PLANI",
-        "title": "Masada Sadece <span class=\"text-gold\">Kendinle Yarış</span>",
-        "problem_title": "🎯 ÇEVRE SESLERİNE KULAK TIKAMAK",
-        "problem_desc": "Sağındaki adayın harıl harıl sayfa çevirmesi senin geç kaldığın anlamına gelmez. Birçok kişi bilmediği için sayfayı hızlı çevirir.",
-        "solution_title": "🏆 SEN EMEK VERDİN, SEN HAZIRSIN",
-        "solution_desc": "Aylardır döktüğün her damla alın teri, uykusuz kaldığın her sabah bu sınav içindi. Masaya korkuyla değil; hakkın olan barajı almaya bir hukukçu özgüveniyle otur.",
-        "tactic": "Sen bu sınavı kazanacaksın. Kendine güven."
+        "step_badge": "ALTIN ÖZET",
+        "title": "Büyük Resim: <span class=\"text-[#22D3EE]\">Sonuç</span>",
+        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
+        "problem_desc": "• 🛑 Saat 14:00 kuralı: Sınavdan bir gün önce öğleden sonra çalışmayı bırak ve beynini dinlendir<br>• 🌙 Biyolojik rutin: Alışılmadık ilaç/çay deneme, akşam 22:30'da yatağa girip zihnini dinlendir<br>• 🫁 3 Nefes protokolü: İlk sorular zor gelirse kalemi bırak; 4 sn al, 4 sn tut, 6 sn ver",
+        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
+        "solution_desc": "SEN EMEK VERDİN, SEN HAZIRSIN; MASADA SADECE KENDİNLE YARIŞ.",
+        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır."
       },
       {
         "type": "cta",
-        "badge_text": "ZİHNİNİ KORU",
-        "title": "Sınav Salonundan <span class=\"text-gold\">Başarıyla Çık:</span>",
-        "action_1_title": "Protokolü Kaydet",
-        "action_1_desc": "Sınavdan bir gün önce açıp sakinleşmek için bu gönderiyi kaydet.",
-        "action_2_title": "Heyecan Yapan Arkadaşına Gönder",
-        "action_2_desc": "Sınav stresi tavan yapmış kütüphane dostuna destek ol.",
-        "app_title": "HukukLA Her Zaman Yanında",
-        "app_desc": "HMGS yolculuğunda yanında olmaktan gurur duyuyoruz. Başarılar dileriz!"
+        "title": "Bu Bilgiyi Kaydet ve <span class=\"text-[#FBBF24]\">Arkadaşınla Paylaş</span>",
+        "action_1_title": "Gönderiyi Kaydet",
+        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
+        "action_2_title": "Arkadaşına Gönder",
+        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
+        "app_title": "HMGS'de Sürpriz Yaşama",
+        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
       }
     ]
   }
