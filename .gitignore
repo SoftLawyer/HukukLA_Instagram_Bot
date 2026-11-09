@@ -4,3 +4,5 @@ __pycache__/
 .DS_Store
 story_cikti/
 temp_render.html
+temp_slide.html
+*.mp4
