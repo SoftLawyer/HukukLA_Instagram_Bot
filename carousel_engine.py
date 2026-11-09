@@ -13,7 +13,7 @@ BASE_HTML_WRAPPER = """
   <meta charset="UTF-8">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     * {
@@ -42,21 +42,17 @@ BASE_HTML_WRAPPER = """
     .text-teal {
       color: #31E5DB;
     }
-    .glass-card {
-      background: rgba(17, 36, 56, 0.88);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
-    }
-    .glass-card-accent {
-      background: linear-gradient(145deg, rgba(24, 53, 79, 0.95) 0%, rgba(14, 29, 48, 0.95) 100%);
-      border: 1px solid rgba(49, 229, 219, 0.35);
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), 0 0 30px rgba(49, 229, 219, 0.1);
+    .badge-teal {
+      border: 1.5px solid #31E5DB;
+      background: rgba(21, 74, 89, 0.45);
+      color: #31E5DB;
     }
   </style>
 </head>
-<body class="relative flex flex-col justify-between p-20 selection:bg-teal-500">
+<body class="relative flex flex-col justify-between p-24 selection:bg-teal-500">
+  <!-- Subtle circular background glow in top right -->
+  <div class="absolute -top-32 -right-32 w-[650px] h-[650px] rounded-full bg-[#1A3D5B]/30 blur-[60px] pointer-events-none"></div>
+
   {{CONTENT}}
 </body>
 </html>
@@ -68,7 +64,7 @@ def generate_dots(current_idx, total_slides):
         if i == current_idx:
             dots.append('<span class="w-8 h-2.5 rounded-full bg-[#31E5DB] transition-all"></span>')
         elif i < current_idx:
-            dots.append('<span class="w-8 h-2.5 rounded-full bg-[#31E5DB]/80"></span>')
+            dots.append('<span class="w-8 h-2.5 rounded-full bg-[#31E5DB]/75"></span>')
         else:
             dots.append('<span class="w-2.5 h-2.5 rounded-full bg-[#244563]"></span>')
     return "".join(dots)
@@ -88,7 +84,7 @@ def build_cover_slide(topic, total_slides):
     hook_html = "<br>\n      ".join(formatted_lines)
 
     content = f"""
-    <div class="flex flex-col space-y-7 mt-6">
+    <div class="flex flex-col space-y-7 mt-6 z-10">
       <!-- Huge Impact Hook -->
       <div class="font-hook text-[104px] uppercase text-white tracking-tight">
         {hook_html}
@@ -116,7 +112,7 @@ def build_cover_slide(topic, total_slides):
     </div>
 
     <!-- Footer Bar -->
-    <div class="flex items-center justify-between pt-10 border-t border-[#1E3B56] mb-2">
+    <div class="flex items-center justify-between pt-10 border-t border-[#1E3B56] mb-2 z-10">
       <div class="flex items-center gap-2">
         {dots_html}
       </div>
@@ -131,65 +127,53 @@ def build_cover_slide(topic, total_slides):
 
 def build_content_slide(topic, slide, slide_idx, total_slides):
     dots_html = generate_dots(slide_idx, total_slides)
+    badge_label = slide.get("step_badge", f"SLAYT {slide_idx}")
     
-    content = f"""
-    <!-- Top Header -->
-    <div class="flex items-center justify-between pt-4">
-      <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-[#31E5DB] to-indigo-600 flex items-center justify-center font-black text-xl shadow-lg shadow-[#31E5DB]/20">
-          ⚖️
-        </div>
-        <span class="text-2xl font-black tracking-tight text-white font-hook">HukukLA</span>
-      </div>
-      
-      <div class="px-4 py-1.5 rounded-full bg-[#16344E] border border-[#31E5DB]/30 text-[#31E5DB] text-xs font-bold tracking-widest uppercase">
-        {slide.get('step_badge', f'{slide_idx}. ADIM')}
-      </div>
-    </div>
+    bullets = slide.get("bullets", [])
+    bullets_html_list = []
+    
+    for i, b in enumerate(bullets):
+        is_last = (i == len(bullets) - 1)
+        italic_class = "italic text-slate-300" if is_last else "text-slate-200"
+        b_label = b.get("label", "")
+        b_text = b.get("text", "")
+        
+        bullets_html_list.append(f"""
+        <p class="{italic_class}">
+          <strong class="text-white font-extrabold not-italic">• {b_label}:</strong>
+          {b_text}
+        </p>
+        """)
+        
+    bullets_content = "".join(bullets_html_list)
 
-    <!-- Main Content Area -->
-    <div class="flex flex-col my-auto space-y-6 py-4">
-      <!-- Slide Title -->
-      <h2 class="text-[44px] font-extrabold tracking-tight leading-tight text-white font-hook">
-        {slide['title']}
+    icon_suffix = f" {slide.get('icon', '⚖️')}" if slide.get('icon') else ""
+
+    content = f"""
+    <div class="flex flex-col mt-6 z-10">
+      <!-- Top Pill Badge -->
+      <div class="inline-flex items-center px-6 py-2 rounded-full badge-teal text-[20px] font-bold tracking-wider uppercase mb-10 w-max font-hook">
+        {badge_label}
+      </div>
+
+      <!-- Title -->
+      <h2 class="text-[48px] font-extrabold text-white leading-[1.2] tracking-tight uppercase mb-14 font-hook max-w-4xl">
+        {slide['title']}{icon_suffix}
       </h2>
 
-      <!-- Problem Card -->
-      <div class="glass-card rounded-3xl p-7 border-l-4 border-l-red-500/80">
-        <div class="text-xs font-extrabold tracking-wider text-red-400 uppercase mb-2 font-hook">
-          {slide['problem_title']}
-        </div>
-        <div class="text-[22px] text-slate-200 leading-relaxed font-normal">
-          {slide['problem_desc']}
-        </div>
-      </div>
-
-      <!-- Solution Card -->
-      <div class="glass-card rounded-3xl p-7 border-l-4 border-l-[#31E5DB]">
-        <div class="text-xs font-extrabold tracking-wider text-[#31E5DB] uppercase mb-2 font-hook">
-          {slide['solution_title']}
-        </div>
-        <div class="text-[22px] text-slate-100 leading-relaxed font-medium">
-          {slide['solution_desc']}
-        </div>
-      </div>
-
-      <!-- Tactic Callout Box -->
-      <div class="glass-card-accent rounded-2xl p-5 flex items-start gap-4">
-        <div class="text-2xl mt-0.5">💡</div>
-        <div class="text-[19px] text-[#FACD54] font-medium leading-relaxed">
-          {slide['tactic']}
-        </div>
+      <!-- Clean Bullet Points -->
+      <div class="space-y-12 text-[27px] leading-[1.65] text-slate-200 max-w-4xl">
+        {bullets_content}
       </div>
     </div>
 
     <!-- Footer Bar -->
-    <div class="flex items-center justify-between pt-8 border-t border-[#1E3B56] mb-2">
+    <div class="flex items-center justify-between pt-10 border-t border-[#1E3B56] mb-2 z-10">
       <div class="flex items-center gap-2">
         {dots_html}
       </div>
 
-      <div class="text-[30px] font-extrabold text-[#31E5DB] flex items-center gap-2 tracking-wide font-hook">
+      <div class="text-[30px] font-extrabold text-teal flex items-center gap-2 tracking-wide font-hook">
         <span>Kaydır</span>
         <span>➔</span>
       </div>
@@ -199,78 +183,52 @@ def build_content_slide(topic, slide, slide_idx, total_slides):
 
 def build_cta_slide(topic, slide, slide_idx, total_slides):
     dots_html = generate_dots(slide_idx, total_slides)
+    badge_label = slide.get("step_badge", "SONUÇ")
+
+    bullets = slide.get("bullets", [
+        {"label": "Kaydet", "text": "Deneme öncesi ve tekrar dönemlerinde stratejini hatırlamak için bu gönderiyi kaydet."},
+        {"label": "Paylaş", "text": "Birlikte hazırlandığın kütüphane veya çalışma arkadaşına gönder."},
+        {"label": "HukukLA App", "text": "Binlerce soru, güncel mevzuat ve yapay zeka destekli sınav analizleri App Store ve Google Play'de cebinde."},
+        {"label": "Altın Kural", "text": "HMGS'yi çok çalışanlar değil; yanlışlarını analiz edip doğru stratejiyle çalışanlar kazanır."}
+    ])
+
+    bullets_html_list = []
+    for i, b in enumerate(bullets):
+        is_last = (i == len(bullets) - 1)
+        italic_class = "italic text-slate-300" if is_last else "text-slate-200"
+        bullets_html_list.append(f"""
+        <p class="{italic_class}">
+          <strong class="text-white font-extrabold not-italic">• {b['label']}:</strong>
+          {b['text']}
+        </p>
+        """)
+    bullets_content = "".join(bullets_html_list)
 
     content = f"""
-    <!-- Top Header -->
-    <div class="flex items-center justify-between pt-4">
-      <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-[#31E5DB] to-indigo-600 flex items-center justify-center font-black text-xl shadow-lg shadow-[#31E5DB]/20">
-          ⚖️
-        </div>
-        <span class="text-2xl font-black tracking-tight text-white font-hook">HukukLA</span>
+    <div class="flex flex-col mt-6 z-10">
+      <!-- Top Pill Badge -->
+      <div class="inline-flex items-center px-6 py-2 rounded-full badge-teal text-[20px] font-bold tracking-wider uppercase mb-10 w-max font-hook">
+        {badge_label}
       </div>
-      
-      <div class="px-4 py-1.5 rounded-full bg-[#16344E] border border-[#31E5DB]/30 text-[#31E5DB] text-xs font-bold tracking-widest uppercase">
-        SONUÇ
-      </div>
-    </div>
 
-    <!-- Center Content -->
-    <div class="flex flex-col my-auto space-y-8 py-4">
       <!-- Title -->
-      <h2 class="text-[48px] font-extrabold tracking-tight leading-tight text-white font-hook max-w-2xl">
-        {slide['title']}
+      <h2 class="text-[48px] font-extrabold text-white leading-[1.2] tracking-tight uppercase mb-14 font-hook max-w-4xl">
+        BU BİLGİYİ KAYDET VE ARKADAŞINLA PAYLAŞ 📌
       </h2>
 
-      <!-- Action Cards -->
-      <div class="grid grid-cols-2 gap-5">
-        <div class="glass-card rounded-3xl p-7 border-t-2 border-t-[#FACD54]">
-          <div class="flex items-center gap-3 mb-3">
-            <span class="text-3xl">🔖</span>
-            <h4 class="text-2xl font-bold text-white font-hook">{slide['action_1_title']}</h4>
-          </div>
-          <p class="text-lg text-slate-300 leading-relaxed font-normal">
-            {slide['action_1_desc']}
-          </p>
-        </div>
-
-        <div class="glass-card rounded-3xl p-7 border-t-2 border-t-[#31E5DB]">
-          <div class="flex items-center gap-3 mb-3">
-            <span class="text-3xl">👥</span>
-            <h4 class="text-2xl font-bold text-white font-hook">{slide['action_2_title']}</h4>
-          </div>
-          <p class="text-lg text-slate-300 leading-relaxed font-normal">
-            {slide['action_2_desc']}
-          </p>
-        </div>
-      </div>
-
-      <!-- App Banner -->
-      <div class="glass-card-accent rounded-3xl p-8 flex items-center gap-6">
-        <div class="w-20 h-20 rounded-2xl bg-gradient-to-br from-[#31E5DB] to-indigo-600 flex items-center justify-center text-4xl shadow-xl flex-shrink-0">
-          📱
-        </div>
-        <div class="flex flex-col space-y-1">
-          <div class="text-2xl font-black text-white font-hook tracking-tight">{slide['app_title']}</div>
-          <div class="text-base text-slate-300 font-normal leading-relaxed">{slide['app_desc']}</div>
-          <div class="pt-2 flex items-center gap-4 text-xs font-bold text-[#31E5DB] tracking-wider uppercase">
-            <span>App Store</span>
-            <span class="text-slate-500">•</span>
-            <span>Google Play</span>
-            <span class="text-slate-500">•</span>
-            <span>hukukla.app</span>
-          </div>
-        </div>
+      <!-- Clean Bullet Points -->
+      <div class="space-y-11 text-[27px] leading-[1.65] text-slate-200 max-w-4xl">
+        {bullets_content}
       </div>
     </div>
 
     <!-- Footer Bar -->
-    <div class="flex items-center justify-between pt-8 border-t border-[#1E3B56] mb-2">
+    <div class="flex items-center justify-between pt-10 border-t border-[#1E3B56] mb-2 z-10">
       <div class="flex items-center gap-2">
         {dots_html}
       </div>
 
-      <div class="text-[28px] font-extrabold text-[#31E5DB] flex items-center gap-2 tracking-wide font-hook">
+      <div class="text-[30px] font-extrabold text-teal flex items-center gap-2 tracking-wide font-hook">
         <span>HukukLA</span>
         <span>📲</span>
       </div>
