@@ -31,117 +31,91 @@
       {
         "type": "content",
         "step_badge": "SLAYT 1",
-        "title": "1. BÜYÜK HATA: SÜRE TUTMADAN TEST ÇÖZMEK",
-        "problem_title": "⚠️ EN ÇOK YAPILAN HATA",
-        "problem_desc": "Konuları bitirmene rağmen deneme netlerin bir türlü 80'in üzerine çıkmıyorsa sorun masada değil taktiğinde 👇",
-        "solution_title": "✅ ALTIN KURAL VE ÇÖZÜM",
-        "solution_desc": "ÇOK SORU ÇÖZMEK DEĞİL, DOĞRU STRATEJİ SINAV KAZANDIRIR.",
-        "tactic": "HukukLA Taktiği: ⏱️ Kronometresiz soru çözmek: Soru başına 65 saniye kuralını ihlal etmek",
+        "title": "SÜRE KONTROLÜ VE KRONOMETRE TUZAĞI",
+        "icon": "⏱️",
         "bullets": [
           {
-            "label": "Tuzak Durum",
-            "text": "Masada kahve eşliğinde rahatça çözdüğün sorularda %85 başarı sağlarken, gerçek sınavda veya süreli denemede soruların 1/3'ünü yetiştiremeyip panikliyorsun."
+            "label": "Süresiz test çözümü",
+            "text": "Masada rahatça çözülen testler, gerçek sınav atmosferindeki zaman baskısını simüle etmez."
           },
           {
-            "label": "HMGS Gerçeği",
-            "text": "HMGS'de soru başına düşen ideal süre 65 saniyedir. Kronometresiz çözülen her soru seti, sınav günü zaman baskısı ve optik kaydırma riski olarak geri döner."
+            "label": "Soru başına 65 saniye kuralı",
+            "text": "Optik kodlama ve sayfa geçişleri düşüldüğünde 100 soru için net süre 113 dakikadır; soru başına 67 saniye düşer."
           },
           {
-            "label": "HukukLA Taktiği",
-            "text": "Günlük 30 soruluk blokları telefonunda 32 dakikalık geri sayım sayacıyla çözmeye hemen başla."
+            "label": "Ayırıcı nokta",
+            "text": "Evde yüksek net yapıp sınavda yetiştirememenin tek sebebi, testleri kronometresiz çözmektir."
           }
-        ],
-        "icon": "⏱️"
+        ]
       },
       {
         "type": "content",
         "step_badge": "SLAYT 2",
-        "title": "2. BÜYÜK HATA: YANLIŞ SORUNUN PEŞİNİ BIRAKMAK",
-        "problem_title": "🔍 DETAY ANALİZİ",
-        "problem_desc": "❌ Yanlışın peşini bırakmak: Neti artıran tek şey yanlış çözdüğün soruların analizi",
-        "solution_title": "🎯 HUKUKİ İNCE ÇİZGİ",
-        "solution_desc": "📚 Sadece kanun ezberlemek: ÖSYM'nin kurgusal olay sorularında maddeyi uygulayamamak",
-        "tactic": "HukukLA Taktiği: Bu ayrımı bilmek sınavda ve pratikte doğrudan rakiplerinin önüne geçirir.",
+        "title": "YANLIŞ ANALİZİ VE HATA TAKİBİ",
+        "icon": "❌",
         "bullets": [
           {
-            "label": "En Büyük Zaman İsrafı",
-            "text": "Denemeyi bitirip sadece net sayısına bakmak ve '80 yapmışım fena değil' diyip kapatmak. Yanlış yaptığın 20 soru neden yanlış, hangi çeldiriciye takıldın?"
+            "label": "Yanlışın peşini bırakmak",
+            "text": "Denemeyi çözüp sadece net sayısını hesaplayıp kapatmak yapılan en büyük zaman kaybıdır."
           },
           {
-            "label": "Neti Artıran Tek Şey",
-            "text": "Doğru yaptıkların zaten cepte. Netlerini zıplatacak olan tek şey; yanlış yaptığın ve boş bıraktığın soruların hangi madde numarasına dayandığını tespit etmektir."
+            "label": "Neti artıran tek faktör",
+            "text": "Doğru yapılan sorular değil; yanlış ve boş bırakılan soruların tek tek kanun maddelerine inilmesidir."
           },
           {
-            "label": "HukukLA Taktiği",
-            "text": "Kendine bir 'Hata Defteri' aç. Yanlış yaptığın her sorunun ait olduğu kanun maddesini 1 cümleyle bu deftere not et."
+            "label": "Ayırıcı nokta",
+            "text": "Yanlış yapılan sorunun hangi kanun maddesine dayandığı tespit edilmedikçe o netler asla artmaz."
           }
-        ],
-        "icon": "❌"
+        ]
       },
       {
         "type": "content",
         "step_badge": "SLAYT 3",
-        "title": "3. BÜYÜK HATA: KANUNU EZBERLEYİP OLAY ÇÖZMEMEK",
-        "problem_title": "⚠️ DİKKAT EDİLECEK RİSK",
-        "problem_desc": "📚 Sadece kanun ezberlemek: ÖSYM'nin kurgusal olay sorularında maddeyi uygulayamamak",
-        "solution_title": "✅ KESİN FORMÜL",
-        "solution_desc": "🎯 Altın formül: Haftada 1 tam süreli deneme + 2 gün nokta atışı kanun taraması",
-        "tactic": "HukukLA Taktiği: Şematik düşün, kanunun ruhunu somut uyuşmazlığa uygula.",
+        "title": "KANUN EZBERİ VS OLAY KURGUSU",
+        "icon": "📚",
         "bullets": [
           {
-            "label": "ÖSYM'nin En Sevdiği Çukur",
-            "text": "Madde metnini ezberleyen öğrenci, sınavda 8 satırlık karmaşık bir miras ya da alacak olayı görünce panikliyor ve bildiği maddeyi olaya uygulayamıyor."
+            "label": "Salt madde ezberi",
+            "text": "Kanun metnini ezberleyen aday, sınavda 8 satırlık karmaşık bir olay görünce bilgiyi olaya uygulayamaz."
           },
           {
-            "label": "Altın Formül",
-            "text": "HMGS salt bilgi değil, bilgiyi somut uyuşmazlığa uygulama yeteneğini ölçer. Çeldiriciler genellikle istisnanın istisnası durumlarından kurgulanır."
+            "label": "ÖSYM kurgu mantığı",
+            "text": "Sorular doğrudan madde metnini değil; istisnanın istisnası olan somut uyuşmazlık senaryolarını test eder."
           },
           {
-            "label": "HukukLA Taktiği",
-            "text": "Her konudan sonra en az 3 adet kurgusal olay sorusu çözmeden konuyu 'bitti' sayma."
+            "label": "Ayırıcı nokta",
+            "text": "Bir kanun maddesini öğrenmiş sayılmak için en az 3 somut olay sorusuna başarıyla uygulamak gerekir."
           }
-        ],
-        "icon": "📚"
+        ]
       },
       {
         "type": "content",
         "step_badge": "SLAYT 4",
-        "title": "NETLERİ ZIPLATACAK HAFTALIK DÖNGÜ",
-        "problem_title": "📊 360 DERECE HUKUKLA YAKLAŞIMI",
-        "problem_desc": "• ⏱️ Kronometresiz soru çözmek: Soru başına 65 saniye kuralını ihlal etmek<br>• ❌ Yanlışın peşini bırakmak: Neti artıran tek şey yanlış çözdüğün soruların analizi<br>• 📚 Sadece kanun ezberlemek: ÖSYM'nin kurgusal olay sorularında maddeyi uygulayamamak",
-        "solution_title": "🎯 HEDEF: KUSURSUZ PRATİK",
-        "solution_desc": "ÇOK SORU ÇÖZMEK DEĞİL, DOĞRU STRATEJİ SINAV KAZANDIRIR.",
-        "tactic": "Bilgi ancak doğru stratejiyle birleştiğinde kazandırır.",
+        "title": "SINAV KAZANDIRAN HAFTALIK DÖNGÜ",
+        "icon": "🎯",
         "bullets": [
           {
-            "label": "3 Aşamalı Sistem",
-            "text": "1. Hafta sonu tam süreli (155 dk) deneme çöz. 2. Aynı gün yanlış/boş soruların mevzuat analizini çıkar. 3. Hafta içi sadece o eksik derslere odaklan."
+            "label": "155 Dakikalık simülasyon",
+            "text": "Hafta sonu sabah 10:15'te telefon kapalı ve optik form kullanarak tam deneme çözümü."
           },
           {
-            "label": "Hedef (+12 Net)",
-            "text": "Bu döngüyü 4 hafta uygulayan adayın netleri yerinde saymaz. Standart sapma doğrudan senin lehine çalışır."
+            "label": "Nokta atışı mevzuat",
+            "text": "Yanlış çıkan derslerin tespit edilip hafta içi sadece o kanun maddelerinin taranması."
           },
           {
-            "label": "Ayırıcı Nokta",
-            "text": "Sınavda başarı çok çalışmakta değil; yanlışlarını acımasızca avlamakta saklıdır."
+            "label": "Ayırıcı nokta",
+            "text": "Çok soru çözmek değil; yanlışları sistematik olarak yok etmek sınavı kazandırır."
           }
-        ],
-        "icon": "🎯"
+        ]
       },
       {
         "type": "cta",
-        "title": "BU BİLGİYİ KAYDET VE ARKADAŞINLA PAYLAŞ 📌",
-        "action_1_title": "Gönderiyi Kaydet",
-        "action_1_desc": "Daha sonra tekrar gözden geçirmek için bu gönderiyi kaydet.",
-        "action_2_title": "Arkadaşına Gönder",
-        "action_2_desc": "Birlikte hazırlandığın meslektaşına veya kütüphane arkadaşına ilet.",
-        "app_title": "HMGS'de Sürpriz Yaşama",
-        "app_desc": "Akıllı soru bankası, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde.",
         "step_badge": "SONUÇ",
+        "title": "BU BİLGİYİ KAYDET VE ARKADAŞINLA PAYLAŞ 📌",
         "bullets": [
           {
             "label": "Kaydet",
-            "text": "Sınav öncesi ve tekrar dönemlerinde bu stratejiyi hatırlamak için gönderiyi kaydet."
+            "text": "Sınav öncesi ve deneme haftalarında bu stratejiyi hatırlamak için gönderiyi kaydet."
           },
           {
             "label": "Paylaş",
@@ -152,13 +126,13 @@
             "text": "On binlerce soru, güncel mevzuat ve yapay zeka analizleri HukukLA'da cebinde."
           },
           {
-            "label": "Altın Kural",
-            "text": "HMGS'yi çok çalışanlar değil; yanlışlarını analiz edip doğru stratejiyle çalışanlar kazanır."
+            "label": "Ayırıcı nokta",
+            "text": "HMGS'yi çok çalışanlar değil; sınavın kuralını doğru okuyanlar kazanır."
           }
         ]
       }
     ],
-    "generated_at": "2026-11-09T20:39:55.755367",
+    "generated_at": "2026-11-09T20:42:45.304833",
     "output_dir": "/Users/elifgurler/Downloads/01_Deneme_Sinavlarinda_Netleri_Dibe_Ceken_3_Hata"
   },
   {
