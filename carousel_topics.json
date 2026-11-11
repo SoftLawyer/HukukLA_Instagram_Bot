@@ -295,7 +295,7 @@
     ],
     "caption_question": "Sebepsiz zenginleşmedeki 2 ve 10 yıllık süreler zamanaşımı mıdır yoksa hak düşürücü süre mi? Yorumlara yaz 👇",
     "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
-    "status": "pending",
+    "status": "completed",
     "slides": [
       {
         "type": "cover"
@@ -403,7 +403,9 @@
           }
         ]
       }
-    ]
+    ],
+    "generated_at": "2026-11-11T17:01:42.358465",
+    "output_dir": "/Users/elifgurler/Downloads/03_Zamanasimi_vs_Hak_Dusurucu_Sure"
   },
   {
     "id": 4,
