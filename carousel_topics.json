@@ -805,12 +805,12 @@
           },
           {
             "label": "Ayırıcı nokta",
-            "text": "İcra sınavını genel yetenek değil, İİK ve Tebligat mevzuatındaki süreleri sıfır hatayla yapanlar kazanır."
+            "text": "İcra Müdürlüğü sınavını İİK ve Tebligat mevzuatındaki süreleri sıfır hatayla yapanlar kazanır."
           }
         ]
       }
     ],
-    "generated_at": "2026-11-12T09:37:15.195257",
+    "generated_at": "2026-11-12T09:39:56.048992",
     "output_dir": "/Users/elifgurler/Downloads/Icra_Mudurlugu_Sinavi_Kritik_Sureler"
   }
 ]
