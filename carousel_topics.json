@@ -801,7 +801,7 @@
           },
           {
             "label": "HukukLA App",
-            "text": "İcra Müdürlüğü sınavına özel on binlerce mevzuat sorusu ve güncel denemeler HukukLA'da cebinde."
+            "text": "İcra Müdürlüğü sınavına özel binlerce mevzuat sorusu ve güncel denemeler HukukLA'da cebinde."
           },
           {
             "label": "Ayırıcı nokta",
@@ -810,7 +810,7 @@
         ]
       }
     ],
-    "generated_at": "2026-11-12T09:33:34.588156",
+    "generated_at": "2026-11-12T09:37:15.195257",
     "output_dir": "/Users/elifgurler/Downloads/Icra_Mudurlugu_Sinavi_Kritik_Sureler"
   }
 ]
