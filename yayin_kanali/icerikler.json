@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "sinav": "HMGS & Adli Hakimlik",
+    "ders": "Ceza Hukuku (Genel Hükümler)",
+    "konu": "Gönüllü Vazgeçme vs. Etkin Pişmanlık",
+    "anket": {
+      "soru": "⚖️ Fail, mağdura ölümcül zehir verdikten hemen sonra pişman olup panzehir vererek ölmesini engellerse sorumluluğu ne olur?",
+      "secenekler": [
+        "A) Kasten Öldürmeye Teşebbüsten ceza alır",
+        "B) Gönüllü vazgeçme nedeniyle teşebbüsten ceza almaz",
+        "C) Sadece etkin pişmanlık indirimi alır",
+        "D) Hiçbir suçtan ceza almaz (Tam cezasızlık)"
+      ]
+    },
+    "dogru_cevap": "B",
+    "trick_ve_cozum": "💡 **GÜNÜN CEVABI & SINAV TRİCKİ:**\n\n🎯 **Doğru Cevap: B**\n\n⚠️ **ÖSYM TUZAĞI:**\nÖğrenciler genellikle 'icra hareketleri bittikten sonra vazgeçme olmaz, ancak etkin pişmanlık olur' diye düşünür. **BU BÜYÜK BİR TUZAKTIR!**\n\n📌 **TCK m. 36 (Gönüllü Vazgeçme) Püf Noktası:**\nFail, icra hareketlerini tamamlamış olsa dahi, **kendi çabasıyla neticenin gerçekleşmesini önlerse** gönüllü vazgeçmeden faydalanır!\n• Sonuç: Kasten öldürmeye teşebbüsten ceza ALMAZ.\n• Dikkat: Tamam olan kısım başka bir suç oluşturuyorsa (örneğin kasten yaralama), sadece o suçtan sorumlu tutulur.\n\n🧠 **Aklında Böyle Tut:**\nNetice henüz doğmadıysa ve fail önlediyse ➡️ **GÖNÜLLÜ VAZGEÇME** (Teşebbüsten ceza yok!)\nNetice doğduktan sonra zarar giderildiyse ➡️ **ETKİN PİŞMANLIK** (Sadece indirim var!)",
+    "etkilesim_sorusu": "Bu ayrımı biliyor muydunuz? Yoruma veya tepkiye bir 🔥 bırakın!"
+  },
+  {
+    "id": 2,
+    "sinav": "İcra Müdürlüğü & HMGS",
+    "ders": "İcra ve İflas Hukuku",
+    "konu": "Maaş Haczi ve Hacizde Sıra Kuralı",
+    "anket": {
+      "soru": "⚖️ Borçlunun maaşında 1. sıradaki alacaklının 1/4 kesintisi devam ederken, 2. sıradan nafaka alacağı haczi gelirse icra müdürü ne yapmalıdır?",
+      "secenekler": [
+        "A) 2. sıradaki nafakayı sıraya koyup 1. alacağın bitmesini bekler",
+        "B) Kalan maaştan nafakayı derhal öncelikle keser",
+        "C) 1/4'ü iki alacaklı arasında paylaştırır",
+        "D) Maaşın tamamına el koyar"
+      ]
+    },
+    "dogru_cevap": "B",
+    "trick_ve_cozum": "💡 **GÜNÜN CEVABI & SINAV TRİCKİ:**\n\n🎯 **Doğru Cevap: B**\n\n⚠️ **ÖSYM & İCRA SINAVI TUZAĞI:**\n'Maaş haczinde kural sıradır (önce gelen önce kesilir), sonraki hacizler sıraya girer' kuralının **en kritik istisnası CARİ NAFAKA alacağıdır!**\n\n📌 **İİK m. 83 & Yargıtay İlkesi:**\n• Normal alacaklarda birden fazla haciz varsa: SIRA KURALI geçerlidir. 1. bitmeden 2. kesilemez.\n• ANCAK işleyen (cari) nafaka alacakları **sıraya bakılmaksızın ve 1/4 sınırına takılmaksızın** doğrudan kalan kısımdan derhal tahsil edilir!\n\n🧠 **Formül:**\nMaaş Haczi = 1/4 normal alacak + Cari Nafaka Miktarı (Kalan kısımdan doğrudan kesilir!)",
+    "etkilesim_sorusu": "İcra Müdürlüğü sınavına hazırlananlar burada mı? ⚖️"
+  },
+  {
+    "id": 3,
+    "sinav": "HMGS & Adli Hakimlik",
+    "ders": "Medeni Hukuk (Miras Hukuku)",
+    "konu": "Sağ Kalan Eşin Miras Payı",
+    "anket": {
+      "soru": "⚖️ Sağ kalan eş; mirasbırakanın anne-babası (2. Zümre) ile birlikte mirasçı olursa yasal miras payı ne kadardır?",
+      "secenekler": [
+        "A) 1/4",
+        "B) 1/2",
+        "C) 3/4",
+        "D) Tamamı (4/4)"
+      ]
+    },
+    "dogru_cevap": "B",
+    "trick_ve_cozum": "💡 **GÜNÜN CEVABI & SINAV TRİCKİ:**\n\n🎯 **Doğru Cevap: B (1/2)**\n\n⚠️ **SAĞ KALAN EŞİN SİHİRLİ MERDİVEN KURALI (1 - 2 - 3):**\nÖSYM Miras Hukukunda en çok eşin payını sorar. Bunu karıştırmamak için şu merdiveni ezberle:\n\n🪜 **1 - 2 - 3 / 4 Kuralı:**\n1️⃣ Eş, 1. Zümre (Çocuklar/Torunlar) ile mirasçıysa ➡️ **1/4**\n2️⃣ Eş, 2. Zümre (Anne-Baba ve kardeşler) ile mirasçıysa ➡️ **2/4 yani 1/2**\n3️⃣ Eş, 3. Zümre (Büyükanne-Büyükbaba) ile mirasçıysa ➡️ **3/4**\n4️⃣ Hiç zümre yoksa ➡️ **Tamamı (4/4)**\n\n📌 **Bonus Trick:** Pay her zümre atladığında paydadaki 4 sabit kalır, pay 1 artar! (1/4 ➡️ 2/4 ➡️ 3/4)",
+    "etkilesim_sorusu": "Bu pratik kodlama işine yaradıysa kaydedip tepki bırakmayı unutma! 📌"
+  },
+  {
+    "id": 4,
+    "sinav": "HMGS & Hakimlik",
+    "ders": "Borçlar Hukuku (Genel Hükümler)",
+    "konu": "Aşırı İfa Güçlüğü (Uyarlama)",
+    "anket": {
+      "soru": "⚖️ Aşırı ifa güçlüğü (TBK m. 138) nedeniyle sözleşmenin yeni koşullara uyarlanmasını isteyen borçlu, bu hak kullanılmazsa kural olarak ne yapabilir?",
+      "secenekler": [
+        "A) Doğrudan tazminat davası açar",
+        "B) Sözleşmeden dönebilir (Sürekli edimli ise feshedebilir)",
+        "C) Borcu otomatik olarak son bulur",
+        "D) Yalnızca ifayı erteleme talebinde bulunabilir"
+      ]
+    },
+    "dogru_cevap": "B",
+    "trick_ve_cozum": "💡 **GÜNÜN CEVABI & SINAV TRİCKİ:**\n\n🎯 **Doğru Cevap: B**\n\n⚠️ **TBK m. 138 UYARLAMA TRİCKİ:**\n• Borçlu kafasına göre 'şartlar değişti, sözleşmeyi feshediyorum' diyemez!\n• **Kural:** Borçlu öncelikle hâkimden sözleşmenin yeni koşullara **UYARLANMASINI** istemek zorundadır.\n• Ancak uyarlama mümkün değilse veya karşı taraftan beklenemiyorsa borçlu **SÖZLEŞMEDEN DÖNEBİLİR**.\n• Sürekli edimli sözleşmelerde (örneğin kira sözleşmesi) dönme hakkı kural olarak **FESİH** olarak kullanılır!\n\n📌 **Sınav Tuzağı:** Borcun ifa edilmemiş olması veya 'ihtirazi kayıtla' (haklarını saklı tutarak) ifa edilmiş olması şarttır!",
+    "etkilesim_sorusu": "Borçlar Hukukunda en çok hangi konuda zorlanıyorsunuz?"
+  },
+  {
+    "id": 5,
+    "sinav": "İcra Müdürlüğü & HMGS",
+    "ders": "İcra ve İflas Hukuku",
+    "konu": "Kambiyo Senetlerine Özgü Haciz Yolu",
+    "anket": {
+      "soru": "⚖️ Kambiyo senetlerine özgü haciz yolunda borçlunun 'İMZAYA İTİRAZ' süresi kaç gündür ve takibi kendiliğinden durdurur mu?",
+      "secenekler": [
+        "A) 7 gün - Takibi kendiliğinden durdurur",
+        "B) 5 gün - Takibi kendiliğinden DURDURMAZ",
+        "C) 5 gün - Takibi kendiliğinden durdurur",
+        "D) 7 gün - Takibi durdurmaz"
+      ]
+    },
+    "dogru_cevap": "B",
+    "trick_ve_cozum": "💡 **GÜNÜN CEVABI & SINAV TRİCKİ:**\n\n🎯 **Doğru Cevap: B (5 gün - Takibi kendiliğinden durdurmaz!)**\n\n⚠️ **EN ÇOK DÜŞÜLEN TUZAK:**\nGenel haciz yolunda itiraz (7 gün) takibi kendiliğinden DURDURURKEN; **Kambiyo senetlerinde durum tamamen farklıdır!**\n\n📌 **Kambiyo Formülü (5 - 7 Kuralı):**\n• İtiraz Süresi (Borca ve İmzaya): **5 GÜN** (İcra Mahkemesine yapılır!)\n• Ödeme Süresi: **10 GÜN**\n• Şikayet Süresi: Kural olarak **5 GÜN** (Kambiyo vasfı vs.)\n\n⚡ **Kritik Sınav Tricki:** İmzaya veya borca itiraz etmek **TAKİBİ KENDİLİĞİNDEN DURDURMAZ!** Takibin durması için İcra Mahkemesinden geçici olarak takibin durdurulması kararı alınması şarttır.",
+    "etkilesim_sorusu": "5 ve 7 günlük süreleri karıştıranlar el kaldırsın! ✋"
+  },
+  {
+    "id": 6,
+    "sinav": "HMGS & Adli Hakimlik",
+    "ders": "Ceza Muhakemesi Hukuku (CMK)",
+    "konu": "Gözaltı Süreleri ve Hakim Önüne Çıkarılma",
+    "anket": {
+      "soru": "⚖️ Bireysel suçlarda yakalama anından itibaren gözaltı süresi en fazla kaç saattir (yol süresi hariç)?",
+      "secenekler": [
+        "A) 12 saat",
+        "B) 24 saat",
+        "C) 48 saat",
+        "D) 4 gün"
+      ]
+    },
+    "dogru_cevap": "B",
+    "trick_ve_cozum": "💡 **GÜNÜN CEVABI & SINAV TRİCKİ:**\n\n🎯 **Doğru Cevap: B (24 saat)**\n\n⚠️ **SÜRELER KARIŞMASIN (CMK m. 91):**\n• **Bireysel Suçlar:** Gözaltı süresi yakalama anından itibaren en fazla **24 SAATTİR**.\n• **Yol Süresi:** En yakın hâkim veya mahkemeye gönderilme için zorunlu yol süresi en fazla **12 SAATTİR** (Bu süre gözaltı süresine dahil değildir!).\n• **Toplu Suçlar:** Delillerin toplanmasındaki güçlük veya şüpheli sayısının çokluğu nedeniyle savcı her defasında 1 günü geçmemek üzere **3 GÜN** süre uzatabilir (Toplamda en fazla 4 gün).\n\n📌 **Sınav Püf Noktası:** Gözaltı kararını sadece CUMHURİYET SAVCISI verebilir. Kolluk amiri kendiliğinden gözaltı kararı veremez (İstisna: Toplu olaylarda mülki amirce görevlendirilen kolluk amiri istisnası mülga edilmiştir/sınırlandırılmıştır).",
+    "etkilesim_sorusu": "CMK sürelerini tablo halinde paylaşalım mı? İsteyenler ❤️ atsın!"
+  },
+  {
+    "id": 7,
+    "sinav": "HMGS & Hakimlik",
+    "ders": "Anayasa Hukuku",
+    "konu": "Olağanüstü Hal (OHAL) ve TBMM Onayı",
+    "anket": {
+      "soru": "⚖️ Cumhurbaşkanı tarafından ilan edilen OHAL kararı en fazla kaç ay için verilebilir ve TBMM bu süreyi her defasında en fazla kaç ay uzatabilir?",
+      "secenekler": [
+        "A) İlan: 6 ay | Uzatma: 4 ay",
+        "B) İlan: 3 ay | Uzatma: 3 ay",
+        "C) İlan: 6 ay | Uzatma: 6 ay",
+        "D) İlan: 4 ay | Uzatma: 4 ay"
+      ]
+    },
+    "dogru_cevap": "A",
+    "trick_ve_cozum": "💡 **GÜNÜN CEVABI & SINAV TRİCKİ:**\n\n🎯 **Doğru Cevap: A (İlan: En fazla 6 ay | TBMM Uzatma: En fazla 4 ay)**\n\n⚠️ **ÖSYM'NİN EN SEVDİĞİ SAYI OYUNU:**\n• Cumhurbaşkanı OHAL'i **en fazla 6 ay** süreyle ilan edebilir.\n• Karar aynı gün Resmî Gazete'de yayımlanır ve aynı gün **TBMM'nin onayına** sunulur.\n• TBMM süreyi kısaltabilir, kaldırabilir veya Cumhurbaşkanının istemiyle her defasında **en fazla 4 ayı** geçmemek üzere uzatabilir.\n\n📌 **KRİTİK İSTİSNA (SINAVDA GELİR!):**\nSavaş hallerinde bu **4 aylık uzatma sınırı ARANMAZ!** Süre sınırsız olarak uzatılabilir.",
+    "etkilesim_sorusu": "Anayasa sayısal verilerini ezberlemekte zorlanıyor musunuz?"
+  },
+  {
+    "id": 8,
+    "sinav": "HMGS & İdari Hakimlik",
+    "ders": "İdare Hukuku & İYUK",
+    "konu": "İptal Davası Açma Süreleri ve Zımni Ret",
+    "anket": {
+      "soru": "⚖️ İdari makamlara yapılan başvurulara idarece kaç gün içinde cevap verilmezse talep 'reddedilmiş' (zımni ret) sayılır?",
+      "secenekler": [
+        "A) 60 gün",
+        "B) 30 gün",
+        "C) 15 gün",
+        "D) 90 gün"
+      ]
+    },
+    "dogru_cevap": "B",
+    "trick_ve_cozum": "💡 **GÜNÜN CEVABI & SINAV TRİCKİ:**\n\n🎯 **Doğru Cevap: B (30 gün)**\n\n⚠️ **ESKİ BİLGİ TUZAĞI (GÜNCEL DEĞİŞİKLİK!):**\nYıllarca zımni ret süresi '60 gün' idi. Ancak İYUK m. 10'da yapılan değişiklikle bu süre **30 GÜNE İNDİRİLDİ!**\n\n📌 **Kritik Süreç:**\n1. Başvuru yapıldı ➡️ İdareye 30 gün bekleme süresi.\n2. 30 gün içinde cevap gelmezse talep reddedilmiş sayılır (Zımni Ret).\n3. Zımni ret tarihinden itibaren genel dava açma süresi başlar: \n   • Danıştay ve İdare Mahkemelerinde: **60 gün**\n   • Vergi Mahkemelerinde: **30 gün**\n\n🧠 **Unutma:** Cevap verme süresi 30 gün, İdare Mahkemesinde dava açma süresi 60 gündür!",
+    "etkilesim_sorusu": "Eski 60 gün kuralına düşen oldu mu dürüst olalım? 😅"
+  },
+  {
+    "id": 9,
+    "sinav": "İcra Müdürlüğü & HMGS",
+    "ders": "İcra ve İflas Hukuku",
+    "konu": "Haczedilemeyen Mallar (İİK m. 82)",
+    "anket": {
+      "soru": "⚖️ Borçlunun ve ailesinin haline münasip evi (meskeni) haczedilebilir mi?",
+      "secenekler": [
+        "A) Hiçbir şartta haczedilemez",
+        "B) Haczedilebilir; ancak değeri haline münasip evden fazlaysa satılıp haline münasip ev bedeli borçluya bırakılır",
+        "C) Sadece borçlunun rızasıyla haczedilebilir",
+        "D) Sadece ipotekli değilse doğrudan satılır"
+      ]
+    },
+    "dogru_cevap": "B",
+    "trick_ve_cozum": "💡 **GÜNÜN CEVABI & SINAV TRİCKİ:**\n\n🎯 **Doğru Cevap: B (Meskene Haciz Koyulabilir, Fazlası Alacaklıya Kalır)**\n\n⚠️ **SINAVDA ÇOK KARIŞTIRILAN HUKUKİ GERÇEK:**\n• Öğrenciler 'mesken haczedilemez' maddesini görünce eve asla haciz konulamaz sanır.\n• **Gerçek:** İcra müdürü borçlunun haline münasip evine haciz KOYABİLİR!\n• Borçlu, haczi öğrendikten sonra **7 GÜN içinde Meskeniyet Şikayeti** (İcra Mahkemesine) yapmalıdır. Kendiliğinden dikkate alınmaz!\n• Eğer evin değeri (örneğin 10 Milyon TL), borçlunun haline münasip ev bedelinden (örneğin 4 Milyon TL) fazlaysa: Ev satılır, 4 Milyon TL borçluya yeni ev alması için verilir, artan para alacaklıya ödenir!",
+    "etkilesim_sorusu": "Meskeniyet şikayetinin 7 günlük hak düşürücü süresini unutmayın! ⚖️"
+  },
+  {
+    "id": 10,
+    "sinav": "HMGS & Adli Hakimlik",
+    "ders": "Hukuk Muhakemeleri Kanunu (HMK)",
+    "konu": "Yetki İtirazı ve Yetki Sözleşmesi",
+    "anket": {
+      "soru": "⚖️ HMK'ya göre tacirler veya kamu tüzel kişileri arasındaki sözleşmelerde aksine hüküm yoksa yetki sözleşmesiyle belirlenen mahkemenin yetkisi nasıldır?",
+      "secenekler": [
+        "A) Genel mahkeme ile birlikte alternatif yetkilidir",
+        "B) MÜNHASIR (kesin) yetkilidir, dava sadece orada açılabilir",
+        "C) Yetki sözleşmesi geçersizdir",
+        "D) Davacının seçimine bağlıdır"
+      ]
+    },
+    "dogru_cevap": "B",
+    "trick_ve_cozum": "💡 **GÜNÜN CEVABI & SINAV TRİCKİ:**\n\n🎯 **Doğru Cevap: B (Münhasır Yetkilidir)**\n\n⚠️ **HMK m. 17 ve 18 KURALI:**\n• **Kimler Yapabilir:** Sadece TACİRLER veya KAMU TÜZEL KİŞİLERİ aralarında yetki sözleşmesi yapabilir (Tüketici veya esnaf yapamaz!).\n• **Münhasırlık İlkesi (HMK m. 17/2):** Taraflarca aksi kararlaştırılmadıkça, dava **SADECE** sözleşmeyle belirlenen bu mahkemelerde açılabilir.\n\n📌 **Sınav Tricki:** Kanunda 'aksi kararlaştırılmadıkça' dendiği için sözleşmede açıkça 'genel yetkili mahkemeler de saklıdır' denmemişse, sözleşme mahkemesi **MÜNHASIR** yetkili hale gelir!",
+    "etkilesim_sorusu": "HMK usul trickleri serisine devam edelim mi?"
+  }
+]
