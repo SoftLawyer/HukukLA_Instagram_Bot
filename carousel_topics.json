@@ -676,5 +676,141 @@
         ]
       }
     ]
+  },
+  {
+    "id": 101,
+    "folder_name": "Icra_Mudurlugu_Sinavi_Kritik_Sureler",
+    "title": "İcra Müdürlüğü Sınavı Kritik Süreler ve Tuzaklar",
+    "hook_lines": [
+      "İCRA MÜDÜRLÜĞÜ",
+      "SINAVINA GİRENLER",
+      "BUNU",
+      "BİLMİYOR:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "İcra Sınavında En Çok Elenen 4 Nokta",
+    "core_principle_upper": "İCRA MÜDÜRLÜĞÜ SINAVINI İİK VE TEBLİGAT MEVZUATI BELİRLER",
+    "hook_desc": "Yaklaşan İcra Müdürlüğü ve İcra Md. Yrd. Sınavı'nda binlerce adayı ters köşe yapacak kritik süreler 👇",
+    "pin_text": "📌 Bu bilgiyi mutlaka kaydet, gün gelir işine yarar.",
+    "caption_intro": "Yaklaşan İcra Müdürlüğü ve Müdür Yardımcılığı Sınavı için geri sayım başladı! Sınavda standart sapmayı tavan yaptıran ve adayların en çok karıştırdığı 4 kritik mevzuat noktasını topladım.",
+    "caption_bullets": [
+      "⏱️ Satış İsteme Süresi (m.106): 7343 SK ile taşınır ve taşınmaz ayrımı kalktı; her ikisinde de süre 1 YILDIR",
+      "⚖️ İstihkak İddiası ve Dava (m.96-97): 7 günlük bildirim ve 7 günlük dava açma süreleri",
+      "🏛️ Şikayet Süreleri (m.16): Kural olarak 7 gün; kamu düzeni ve hakkın yerine getirilmemesinde SÜRESİZ",
+      "📬 Tebligat Kanunu 21/2: Doğrudan MERNİS'e tebligat çıkarılamaz; önce bilinen adrese tebligat zorunludur"
+    ],
+    "caption_question": "İcra Müdürlüğü sınavı hazırlığında seni en çok zorlayan mevzuat hangisi? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
+    "status": "completed",
+    "slides": [
+      {
+        "type": "cover"
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 1",
+        "title": "HACİZ VE SATIŞ İSTEME SÜRELERİ (İİK m.106 & m.110)",
+        "icon": "⏱️",
+        "bullets": [
+          {
+            "label": "Haciz isteme süresi (m.78)",
+            "text": "Ödeme emrinin tebliğinden itibaren 1 YILDIR. Bu sürede haciz istenmezse takip düşmez ancak dosya işlemden kaldırılır (yenileme harcı gerekir)."
+          },
+          {
+            "label": "Satış isteme süresi (m.106)",
+            "text": "7343 sayılı Kanun değişikliğiyle taşınır ve taşınmaz ayrımı kaldırılmıştır. Haczedilen mal ister taşınır ister taşınmaz olsun satış isteme süresi HACİZDEN İTİBAREN 1 YILDIR."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "Eski kanundaki 'taşınır 6 ay, taşınmaz 1 yıl' bilgisiyle sınava girenler elenir; artık her ikisinde de süre 1 yıldır."
+          }
+        ]
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 2",
+        "title": "İSTİHKAK İDDİASI VE DAVA AÇMA SÜRELERİ (İİK m.96 & m.97)",
+        "icon": "⚖️",
+        "bullets": [
+          {
+            "label": "Borçlu zilyetliğindeki malda istihkak",
+            "text": "Borçlu veya 3. kişi hacizden itibaren 7 GÜN içinde istihkak iddiasında bulunmalıdır. İcra mahkemesi takibin devamına karar verirse 3. kişi 7 GÜN içinde dava açmalıdır."
+          },
+          {
+            "label": "3. Kişi zilyetliğindeki malda istihkak (m.97/a)",
+            "text": "İcra müdürü alacaklıya 7 GÜN süre verir. Alacaklı bu sürede icra mahkemesinde dava açmazsa haciz kalkar."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "Dava açma süresi her halükarda 7 gündür; ancak davayı kimin açacağı malın kimin elinde haczedildiğine göre değişir."
+          }
+        ]
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 3",
+        "title": "İCRA MAHKEMESİNE ŞİKÂYET SÜRELERİ (İİK m.16)",
+        "icon": "🏛️",
+        "bullets": [
+          {
+            "label": "Kural olarak 7 günlük süre",
+            "text": "İcra müdürünün kanuna aykırı işlemleri veya olaya uygun olmayan takdir hakları için öğrenme tarihinden itibaren 7 GÜNDÜR."
+          },
+          {
+            "label": "Süresiz şikâyet halleri",
+            "text": "Bir hakkın yerine getirilmemesi, sebepsiz sürüncemede bırakılması veya kamu düzenine aykırılık hallerinde şikâyet süreye tabi DEĞİLDİR."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "İcra müdürünün harç almadan işlem yapması kamu düzenine aykırıdır ve her zaman süresiz şikâyet edilebilir."
+          }
+        ]
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 4",
+        "title": "TEBLİGAT KANUNU MADDE 21/2 TUZAĞI (MERNİS TEBLİGATI)",
+        "icon": "📬",
+        "bullets": [
+          {
+            "label": "Doğrudan MERNİS'e tebligat yasağı",
+            "text": "Tebligat Kanunu m.21/2 uyarınca doğrudan MERNİS adresine tebligat çıkarılamaz. Önce bilinen son adrese normal tebligat çıkarılmalıdır."
+          },
+          {
+            "label": "Tebliğ tarihi ve usulü",
+            "text": "Normal tebligat bila tebliğ (iade) dönerse, MERNİS adresine şerh verilerek tebligat çıkarılır. İhbarnamenin kapıya yapıştırıldığı tarih tebliğ tarihi sayılır."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "Bilinen son adrese tebligat yapılmadan doğrudan MERNİS adresine çıkarılan 21/2 tebligatı kesin olarak USULSÜZ TEBLİGATTIR."
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "step_badge": "SONUÇ",
+        "title": "BU BİLGİYİ KAYDET VE ARKADAŞINLA PAYLAŞ 📌",
+        "bullets": [
+          {
+            "label": "Kaydet",
+            "text": "İcra Müdürlüğü sınavı öncesinde bu kritik süreleri ve İİK/Tebligat maddelerini unutmamak için kaydet."
+          },
+          {
+            "label": "Paylaş",
+            "text": "Yaklaşan İcra Müdürlüğü sınavına hazırlanan meslektaşına veya çalışma arkadaşına gönder."
+          },
+          {
+            "label": "HukukLA App",
+            "text": "İcra Müdürlüğü sınavına özel on binlerce mevzuat sorusu ve güncel denemeler HukukLA'da cebinde."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "İcra sınavını genel yetenek değil, İİK ve Tebligat mevzuatındaki süreleri sıfır hatayla yapanlar kazanır."
+          }
+        ]
+      }
+    ],
+    "generated_at": "2026-11-12T09:33:34.588156",
+    "output_dir": "/Users/elifgurler/Downloads/Icra_Mudurlugu_Sinavi_Kritik_Sureler"
   }
 ]
