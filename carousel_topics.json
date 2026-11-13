@@ -567,7 +567,7 @@
     ],
     "caption_question": "Kırmızı ışıkta hızla kavşağa giren sürücünün yayaya çarpması sence olası kast mıdır bilinçli taksir mi? Yorumlara yaz 👇",
     "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
-    "status": "pending",
+    "status": "completed",
     "slides": [
       {
         "type": "cover"
@@ -675,7 +675,9 @@
           }
         ]
       }
-    ]
+    ],
+    "generated_at": "2026-11-13T11:50:02.557083",
+    "output_dir": "/Users/elifgurler/Downloads/05_Olasi_Kast_vs_Bilincli_Taksir_TCK"
   },
   {
     "id": 101,
