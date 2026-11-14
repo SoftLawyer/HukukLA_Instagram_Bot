@@ -814,5 +814,275 @@
     ],
     "generated_at": "2026-11-12T09:39:56.048992",
     "output_dir": "/Users/elifgurler/Downloads/Icra_Mudurlugu_Sinavi_Kritik_Sureler"
+  },
+  {
+    "id": 6,
+    "folder_name": "06_Defi_ile_Itiraz_Farki_HMK",
+    "title": "Def'i ile İtiraz Farkı",
+    "hook_lines": [
+      "ÇOĞU",
+      "HMGS ADAYI",
+      "BUNU",
+      "BİLMİYOR:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "Def'i ile İtiraz Farkı",
+    "core_principle_upper": "İTİRAZI HAKİM KENDİLİĞİNDEN GÖZETİR, DEF'İYİ İSE ASLA",
+    "hook_desc": "Hakimin önündeki dosyada borcun ödendiğini veya zamanaşımına uğradığını kendiliğinden dikkate alıp alamayacağı davanın kaderini belirler 👇",
+    "pin_text": "📌 Bu bilgiyi mutlaka kaydet, gün gelir işine yarar.",
+    "caption_intro": "Davacının talebine karşı borçlu 'bu borç yok' mu diyor, yoksa 'borç var ama ödemekten kaçınma hakkım var' mı diyor? Usul hukukunun en temel eleme noktası.",
+    "caption_bullets": [
+      "🏛️ İtiraz: Hakkın doğumuna veya varlığına engel olur; davanın her aşamasında hakimce kendiliğinden (re'sen) gözetilir",
+      "🛡️ Def'i: Hakkın varlığını inkar etmez; özel bir sebeple ifadan kaçınma yetkisi verir (zamanaşımı, ödemezlik defi)",
+      "⚖️ Re'sen İnceleme Yasağı: Borçlu zamanaşımı def'isini ileri sürmezse hakim re'sen uygulayamaz, borçluyu mahkum eder",
+      "⏳ İleri Sürülme Anı: İtiraz her zaman ileri sürülebilir; def'i kural olarak cevap dilekçesinde ileri sürülmelidir"
+    ],
+    "caption_question": "Sence dosyadaki makbuzdan borcun ödendiği anlaşılıyorsa hakim bunu kendiliğinden dikkate alabilir mi? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
+    "status": "completed",
+    "slides": [
+      {
+        "type": "cover"
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 1",
+        "title": "HAKKIN VARLIĞINA ETKİSİ VE NİTELİĞİ",
+        "icon": "⚖️",
+        "bullets": [
+          {
+            "label": "İtiraz",
+            "text": "Hakkın hiç doğmadığını (ehliyetsizlik, butlan) veya sonradan tamamen ortadan kalktığını (ödeme, ibra) ileri sürer."
+          },
+          {
+            "label": "Def'i",
+            "text": "Hakkın varlığını inkar etmez; ancak borçluya özel bir kanuni sebeple borcu ifa etmekten kaçınma yetkisi verir."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "İtirazda hak kökten mevcut değildir; def'ide ise hak vardır ancak ifasından haklı olarak kaçınılabilir."
+          }
+        ]
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 2",
+        "title": "HAKİMİN RE'SEN İNCELEME YETKİSİ",
+        "icon": "🏛️",
+        "bullets": [
+          {
+            "label": "İtirazda re'sen araştırma",
+            "text": "İtiraz sebepleri davanın her aşamasında hakim tarafından kendiliğinden (re'sen) araştırılmak ve dikkate alınmak zorundadır."
+          },
+          {
+            "label": "Def'ide ileri sürülme zorunluluğu",
+            "text": "Borçlu def'i hakkını açıkça ileri sürmedikçe hakim bunu kendiliğinden dikkate alamaz; re'sen inceleme yasağı geçerlidir."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "Alacak 20 yıl önce zamanaşımına uğramış olsa bile borçlu defi olarak söylemezse hakim borcu tahsil ettirir."
+          }
+        ]
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 3",
+        "title": "İLERİ SÜRÜLME ZAMANI VE YASAKLAR",
+        "icon": "⏳",
+        "bullets": [
+          {
+            "label": "İtirazın ileri sürülme anı",
+            "text": "Davanın ve hatta temyizin her aşamasında ileri sürülebilir; savunmanın genişletilmesi yasağına tabi değildir."
+          },
+          {
+            "label": "Def'inin ileri sürülme anı",
+            "text": "Kural olarak cevap dilekçesinde ileri sürülmelidir. Süresi geçtikten sonra ancak karşı tarafın açık rızası veya ıslahla ileri sürülebilir."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "Dosyadan borcun ödendiği anlaşılıyorsa hakim son duruşmada bile davayı usulden reddeder; zamanaşımında ise bunu yapamaz."
+          }
+        ]
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 4",
+        "title": "EN ÇOK KARIŞTIRILAN MEVZUAT ÖRNEKLERİ",
+        "icon": "📋",
+        "bullets": [
+          {
+            "label": "Tipik İtiraz Halleri",
+            "text": "Borcun ödendiği (ifa), takas, sözleşmenin geçersizliği (butlan/ehliyetsizlik), hak düşürücü süre, görevsizlik."
+          },
+          {
+            "label": "Tipik Def'i Halleri",
+            "text": "Zamanaşımı defi (TBK m.146), Ödemezlik defi (TBK m.97), Kefilin peşin defi (TBK m.585), Taksim defi."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "'Borç yoktur' demek itirazdır; 'Borç vardır ama ödemekten kaçınma yetkim var' demek def'idir."
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "step_badge": "SONUÇ",
+        "title": "BU BİLGİYİ KAYDET VE ARKADAŞINLA PAYLAŞ 📌",
+        "bullets": [
+          {
+            "label": "Kaydet",
+            "text": "Dava dilekçelerinde ve usul hukuku sınavlarında defi-itiraz ayrımını unutmamak için kaydet."
+          },
+          {
+            "label": "Paylaş",
+            "text": "Bu ayrımı karıştıran meslektaşına veya çalışma arkadaşına gönder."
+          },
+          {
+            "label": "HukukLA App",
+            "text": "HMK, TBK ve tüm güncel mevzuat soruları HukukLA'da cebinde."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "İtiraz hakkı yok eder hakim kendiliğinden bakar; defi hakkı durdurur taraf söylemezse hakim gözetemez."
+          }
+        ]
+      }
+    ],
+    "generated_at": "2026-11-14T14:28:19.846214",
+    "output_dir": "/Users/elifgurler/Downloads/06_Defi_ile_Itiraz_Farki_HMK"
+  },
+  {
+    "id": 7,
+    "folder_name": "07_Idari_Yargida_Dava_Acma_Sureleri_ve_Adli_Tatil_IYUK",
+    "title": "İdari Yargıda Dava Açma Süreleri ve Adli Tatil (İYUK m.7, m.8)",
+    "hook_lines": [
+      "ÇOĞU",
+      "HMGS ADAYI",
+      "BUNU",
+      "BİLMİYOR:"
+    ],
+    "highlight_line_idx": 1,
+    "topic_cyan_title": "İdari Yargıda Dava Açma Süreleri",
+    "core_principle_upper": "SÜRENİN BİTİMİ ADLİ TATİLE RASTLARSA 7 GÜN UZAR, TATİLDE BAŞLARSA UZAMAZ",
+    "hook_desc": "İYUK'ta 60 gün ve 30 günlük dava açma sürelerinin adli tatille birleştiği o kritik hesaplama kuralı 👇",
+    "pin_text": "📌 Bu bilgiyi mutlaka kaydet, gün gelir işine yarar.",
+    "caption_intro": "İdare mahkemesinde dava açacaksın ama tebliğ tarihi temmuza denk geldi. Süre ne zaman biter? İYUK'un en çok soru getiren süre kuralı.",
+    "caption_bullets": [
+      "📅 Genel Dava Açma Süresi (m.7): Danıştay ve İdare Mahkemelerinde 60 gün; Vergi Mahkemelerinde 30 gündür",
+      "🏖️ Adli Tatil Kuralı (m.8/3): Sürenin BİTİMİ adli tatile (20 Temmuz - 31 Ağustos) rastlarsa tatilin bittiği günü izleyen tarihten itibaren 7 GÜN UZAR",
+      "⚠️ En Büyük Tuzak: Süre adli tatil İÇİNDE tebliğ edilmişse 7 günlük uzama uygulanmaz, süre normal akar",
+      "🛑 Özel Kanun Süreleri: Kamulaştırma (30 gün), İvedi yargılama (30 gün) gibi özel sürelere dikkat edilmelidir"
+    ],
+    "caption_question": "Sence 25 Temmuz'da tebliğ edilen bir idari işleme karşı dava açma süresi ne zaman biter? Yorumlara yaz 👇",
+    "mandatory_copy": "Mesleki pratiğini güçlendir, haklarını bil, güvenilir ve hayat kurtaran pratik hukuk bilgileri için takip etmeyi unutma!\n\nHukukLA size;\n✅ En güncel mevzuatı getirir.\n✅ En kaliteli soruları hazırlar.\n🌟 Arkasında hukukçu uzmanlar vardır.\n✅ Konu çalışmayı çok kolay hale getirir.\n✅ On binlerce soru ile tüm soru çeşitlerini gösterir.\n✅ Hızlı iletişim kurabilme imkanı sağlar.\n🌟 Deneme sınavları şaşırtıcı derecede belirleyicidir.\nSize sadece indirmek kalır.\n\nTakip et, kaçırma 👆 Fakülte derslerinden HMGS'ye, Adli ve İdari Yargı Hakimliğine, İcra Müdürlüğüne kadar tüm yol HukukLA'da. Profildeki linkten indir!",
+    "status": "pending",
+    "slides": [
+      {
+        "type": "cover"
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 1",
+        "title": "GENEL DAVA AÇMA SÜRELERİ (İYUK m.7)",
+        "icon": "📅",
+        "bullets": [
+          {
+            "label": "Danıştay ve İdare Mahkemeleri",
+            "text": "Özel kanunlarda ayrı bir süre gösterilmemişse genel dava açma süresi tebliğden itibaren 60 GÜNDÜR."
+          },
+          {
+            "label": "Vergi Mahkemeleri",
+            "text": "Vergi, resim, harç ve benzeri mali yükümlülüklere ilişkin davalarda genel süre 30 GÜNDÜR."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "Bu süreler hak düşürücü niteliktedir; mahkeme davanın her aşamasında re'sen süre aşımını dikkate alır."
+          }
+        ]
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 2",
+        "title": "ADLİ TATİL VE 7 GÜN KURALI (İYUK m.8/3)",
+        "icon": "🏖️",
+        "bullets": [
+          {
+            "label": "Sürenin bitiminin tatile rastlaması",
+            "text": "İYUK m.8/3 uyarınca bu Kanunda yazılı sürelerin bitmesi adli tatile rastlarsa, bu süreler adli tatilin bittiği günü izleyen tarihten itibaren 7 GÜN uzamış sayılır."
+          },
+          {
+            "label": "Adli tatil tarihleri",
+            "text": "Adli tatil her yıl 20 TEMMUZ'da başlar ve 31 AĞUSTOS'ta sona erer. Yeni adli yıl 1 Eylül'de başlar."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "Süre 7 Eylül mesai bitimine kadar uzar; çünkü 31 Ağustos'u izleyen günden itibaren 7 gün hesaplanır."
+          }
+        ]
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 3",
+        "title": "ÖSYM'NİN EN SEVDİĞİ BÜYÜK TUZAK",
+        "icon": "⚠️",
+        "bullets": [
+          {
+            "label": "Sürenin tatil içinde başlaması durumu",
+            "text": "Tebligat adli tatil içinde (örneğin 10 Ağustos'ta) yapılmışsa, süre tatil içinde BAŞLAMIŞTIR ancak bitimi tatile rastlamamaktadır."
+          },
+          {
+            "label": "7 Gün uzama uygulanmaz",
+            "text": "Sürenin son günü eylül veya ekim ayına denk geliyorsa 7 günlük uzama KESİNLİKLE uygulanmaz; 60 gün normal takvim hesabıyla sayılır."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "7 günlük uzama sadece ve sadece sürenin SON GÜNÜ adli tatil aralığına denk gelirse devreye girer."
+          }
+        ]
+      },
+      {
+        "type": "content",
+        "step_badge": "SLAYT 4",
+        "title": "İVEDİ YARGILAMA VE ÖZEL KANUN İSTİSNALARI",
+        "icon": "⚡",
+        "bullets": [
+          {
+            "label": "İvedi Yargılama Usulü (m.20/A)",
+            "text": "İhale, özelleştirme, acele kamulaştırma uyuşmazlıklarında dava açma süresi SADECE 30 GÜNDÜR."
+          },
+          {
+            "label": "İvedi yargılamada adli tatil kuralı",
+            "text": "İvedi yargılama usulünde adli tatil hükümleri UYGULANMAZ; süreler adli tatilde de aynen işlemeye devam eder."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "İhale iptali davasında sürenin son günü 15 Ağustos'a denk gelse bile 7 gün uzamaz, 15 Ağustos'ta biter."
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "step_badge": "SONUÇ",
+        "title": "BU BİLGİYİ KAYDET VE ARKADAŞINLA PAYLAŞ 📌",
+        "bullets": [
+          {
+            "label": "Kaydet",
+            "text": "İdari yargı süre hesaplarında ve İYUK sınavlarında bu 7 gün kuralını şaşırmamak için kaydet."
+          },
+          {
+            "label": "Paylaş",
+            "text": "İdare hukuku sürelerinde kafası karışan meslektaşına gönder."
+          },
+          {
+            "label": "HukukLA App",
+            "text": "İYUK ve İdare Hukuku soru bankası HukukLA'da cebinde."
+          },
+          {
+            "label": "Ayırıcı nokta",
+            "text": "Son gün tatile rastlarsa 7 Eylül'e uzar; ivedi yargılamada ise adli tatil uzaması kesinlikle işlemez."
+          }
+        ]
+      }
+    ]
   }
 ]
