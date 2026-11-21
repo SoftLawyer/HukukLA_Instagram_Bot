@@ -17,15 +17,54 @@ MAX_QUESTION_LEN = 180      # Soru metni maksimum karakter
 MAX_OPTION_LEN = 65         # Her bir şık için maksimum karakter
 MAX_TOTAL_LEN = 450         # Soru + 5 Şık toplam maksimum karakter
 
+# Doğru Türkçe Karakterli Ders / Mevzuat İsimleri
+TOPIC_NAMES = {
+    '1136_sayili_avukatlik_kanunu.json': '1136 Sayılı Avukatlık Kanunu',
+    '2004_sayili_icra_iflas_kanunu.json': '2004 Sayılı İcra ve İflas Kanunu',
+    '2577_sayili_idari_yargilama_usulu_kanunu.json': '2577 Sayılı İdari Yargılama Usulü Kanunu',
+    '4857_sayili_is_kanunu.json': '4857 Sayılı İş Kanunu',
+    '5237_sayili_turk_ceza_kanunu_genel_hukumler.json': '5237 Sayılı TCK (Genel Hükümler)',
+    '5237_sayili_turk_ceza_kanunu_ozel_hukumler.json': '5237 Sayılı TCK (Özel Hükümler)',
+    '5271_sayili_ceza_muhakemesi_kanunu.json': '5271 Sayılı Ceza Muhakemesi Kanunu',
+    '5326_sayili_kabahatler_kanunu.json': '5326 Sayılı Kabahatler Kanunu',
+    '5510_sayili_sosyal_sigortalar_ve_genel_saglik_sigortasi_kanunu.json': '5510 Sayılı Sosyal Sigortalar Kanunu',
+    '5718_sayili_milletler_arasi_ozel_hukuk_ve_usul_hukuku_hakkinda_kanun.json': '5718 Sayılı MÖHUK',
+    '5901_sayili_turk_vatandasligi_kanunu.json': '5901 Sayılı Türk Vatandaşlığı Kanunu',
+    '5941_sayili_cek_kanunu.json': '5941 Sayılı Çek Kanunu',
+    '6098_sayili_turk_borclar_kanunu_genel_hukumler.json': '6098 Sayılı TBK (Genel Hükümler)',
+    '6098_sayili_turk_borclar_kanunu_ozel_hukumler.json': '6098 Sayılı TBK (Özel Hükümler)',
+    '6100_sayili_hukuk_muhakemeleri_kanunu.json': '6100 Sayılı Hukuk Muhakemeleri Kanunu',
+    '6356_sayili_sendikalar_ve_toplu_is_sozlesmeleri_kanunu.json': '6356 Sayılı Sendikalar ve TİS Kanunu',
+    '657_sayili_devlet_memurlari_kanunu.json': '657 Sayılı Devlet Memurları Kanunu',
+    '6698_sayili_kisisel_verilerin_korunmasi_kanunu.json': '6698 Sayılı KVKK',
+    'aile_hukuku.json': 'Aile Hukuku',
+    'baslangic_hukumleri_ve_kisiler_hukuku.json': 'Başlangıç Hükümleri ve Kişiler Hukuku',
+    'baslangic_hukumleri_ve_ticari_isletme_hukuku.json': 'Ticari İşletme Hukuku',
+    'deniz_ticareti_hukuku.json': 'Deniz Ticareti Hukuku',
+    'esya_hukuku.json': 'Eşya Hukuku',
+    'genel_kamu_hukuku.json': 'Genel Kamu Hukuku',
+    'hukuk_felsefesi_ve_sosyolojisi.json': 'Hukuk Felsefesi ve Sosyolojisi',
+    'kiymetli_evrak_hukuku.json': 'Kıymetli Evrak Hukuku',
+    'milletler_arasi_hukuk.json': 'Milletlerarası Hukuk',
+    'miras_hukuku.json': 'Miras Hukuku',
+    'sigorta_hukuku.json': 'Sigorta Hukuku',
+    'tasima_isleri_hukuku.json': 'Taşıma İşleri Hukuku',
+    'tc_anayasasi.json': 'T.C. Anayasası',
+    'ticaret_sirketleri_hukuku.json': 'Ticaret Şirketleri Hukuku',
+    'turk_hukuk_tarihi.json': 'Türk Hukuk Tarihi',
+}
+
 def get_topics():
     files = glob.glob(os.path.join(JSON_DIR, '*.json'))
     files.sort()
     return files
 
 def format_konu_adi(filename):
-    name = os.path.splitext(os.path.basename(filename))[0]
-    name = name.replace('_', ' ').title()
-    return name
+    fname = os.path.basename(filename)
+    if fname in TOPIC_NAMES:
+        return TOPIC_NAMES[fname]
+    name = os.path.splitext(fname)[0].replace('_', ' ')
+    return name.title()
 
 def load_state():
     if os.path.exists(STATE_FILE):
@@ -94,7 +133,6 @@ def generate_next():
     with open(TEMPLATE_CEVAP, 'r', encoding='utf-8') as f:
         cevap_html_template = f.read()
 
-    # Mevzuatları sırayla tara (en az bir mevzuatta uygun soru bulana kadar)
     attempts = 0
     while attempts < len(topics):
         if topic_idx >= len(topics):
@@ -123,7 +161,6 @@ def generate_next():
         found_soru = None
         found_idx = -1
 
-        # Baştan sona uygun soruyu ara (dairesel döngü)
         for offset in range(total_questions):
             curr_idx = (start_search_idx + offset) % total_questions
             candidate = sorular[curr_idx]
