@@ -8,14 +8,17 @@
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             font-family: 'Plus Jakarta Sans', sans-serif;
-            background-color: #0B0E14;
-            background-image: radial-gradient(circle at 50% 10%, rgba(99, 102, 241, 0.12) 0%, transparent 60%);
+            background-color: #F3EEE4;
+            background-image: 
+                linear-gradient(to right, rgba(150, 132, 102, 0.12) 1px, transparent 1px),
+                linear-gradient(to bottom, rgba(150, 132, 102, 0.12) 1px, transparent 1px);
+            background-size: 108px 108px;
             width: 1080px;
             height: 1920px;
             display: flex;
             flex-direction: column;
-            padding: 90px 70px 70px;
-            color: #FFFFFF;
+            padding: 95px 70px 70px;
+            color: #2B0F12;
         }
         .header {
             display: flex;
@@ -24,39 +27,40 @@
             margin-bottom: 45px;
         }
         .badge-subject {
-            background: rgba(99, 102, 241, 0.15);
-            border: 1.5px solid rgba(99, 102, 241, 0.35);
-            color: #A5B4FC;
+            background: #2B0F12;
+            color: #FAF6EE;
+            border: 1.5px solid #8C6D32;
             padding: 14px 28px;
             border-radius: 100px;
             font-size: 26px;
             font-weight: 700;
-            letter-spacing: 0.5px;
             display: flex;
             align-items: center;
             gap: 12px;
+            box-shadow: 0 4px 15px rgba(43, 15, 18, 0.15);
         }
         .badge-tag {
-            background: rgba(255, 255, 255, 0.06);
-            color: #94A3B8;
+            background: rgba(140, 109, 50, 0.12);
+            color: #8C6D32;
+            border: 1.5px solid rgba(140, 109, 50, 0.25);
             padding: 14px 26px;
             border-radius: 100px;
             font-size: 24px;
-            font-weight: 600;
+            font-weight: 700;
         }
         .question-box {
-            background: #141923;
-            border: 1.5px solid rgba(255, 255, 255, 0.08);
+            background: #FAF6EE;
+            border: 2px solid #DED5C5;
             border-radius: 36px;
             padding: 55px 50px;
             margin-bottom: 35px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+            box-shadow: 0 15px 35px rgba(74, 28, 31, 0.08);
         }
         .question-box p {
             font-size: 40px;
             font-weight: 700;
             line-height: 1.55;
-            color: #F8FAFC;
+            color: #2B0F12;
             letter-spacing: -0.3px;
         }
         .options-list {
@@ -65,20 +69,21 @@
             gap: 18px;
         }
         .option-item {
-            background: #141923;
-            border: 1.5px solid rgba(255, 255, 255, 0.07);
+            background: #FAF6EE;
+            border: 2px solid #DED5C5;
             border-radius: 24px;
             padding: 22px 30px;
             display: flex;
             align-items: center;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            box-shadow: 0 4px 12px rgba(74, 28, 31, 0.05);
         }
         .opt-letter {
             width: 58px;
             height: 58px;
             border-radius: 16px;
-            background: linear-gradient(135deg, #4F46E5 0%, #3730A3 100%);
-            color: #FFFFFF;
+            background: linear-gradient(135deg, #2B0F12 0%, #4A1C1F 100%);
+            color: #E5C882;
+            border: 1.5px solid #8C6D32;
             font-size: 28px;
             font-weight: 800;
             display: flex;
@@ -86,12 +91,12 @@
             justify-content: center;
             margin-right: 25px;
             flex-shrink: 0;
-            box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3);
+            box-shadow: 0 4px 10px rgba(43, 15, 18, 0.2);
         }
         .opt-text {
             font-size: 32px;
             font-weight: 600;
-            color: #E2E8F0;
+            color: #3B1B1E;
             line-height: 1.4;
         }
         /* İnstagram Anket Çıkartması İçin Ayrılan Temiz Boş Alan */
@@ -118,7 +123,6 @@
         <div class="option-item"><div class="opt-letter">E</div><div class="opt-text">{{ secenek_e }}</div></div>
     </div>
 
-    <!-- Anket stickerı için boş alan -->
     <div class="poll-zone"></div>
 </body>
 </html>
