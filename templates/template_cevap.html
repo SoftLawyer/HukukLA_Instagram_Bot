@@ -3,171 +3,161 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=1080, height=1920, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
-            font-family: 'Inter', sans-serif;
-            background: linear-gradient(to bottom, #110B29 0%, #080414 100%);
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: #0B0E14;
+            background-image: radial-gradient(circle at 50% 10%, rgba(16, 185, 129, 0.12) 0%, transparent 60%);
             width: 1080px;
             height: 1920px;
             display: flex;
             flex-direction: column;
-            position: relative;
+            padding: 90px 70px 70px;
+            color: #FFFFFF;
         }
-        .header-bg {
-            background: linear-gradient(135deg, #10B981 0%, #059669 100%);
-            height: 400px;
-            border-bottom-left-radius: 40% 10%;
-            border-bottom-right-radius: 60% 15%;
-            color: white;
-            padding: 80px 60px 40px;
+        .header {
             display: flex;
-            flex-direction: column;
+            justify-content: space-between;
             align-items: center;
-            justify-content: center;
-            box-shadow: 0 10px 30px rgba(16, 185, 129, 0.2);
+            margin-bottom: 35px;
         }
-        .app-badge {
-            background: rgba(255, 255, 255, 0.2);
-            padding: 12px 30px;
-            border-radius: 30px;
-            font-size: 28px;
-            font-weight: 600;
-            margin-bottom: 20px;
-            letter-spacing: 1px;
-        }
-        .konu-adi {
-            font-size: 56px;
-            font-weight: 800;
-            text-align: center;
-            text-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        }
-        
-        .content {
-            padding: 60px 80px;
-            flex-grow: 1;
-            display: flex;
-            flex-direction: column;
-        }
-        
-        .question-card {
-            background: #1C153B;
-            border-radius: 32px;
-            padding: 50px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
-            border: 1px solid rgba(255, 255, 255, 0.05);
-            margin-top: -60px;
-            z-index: 10;
-            margin-bottom: 40px;
-        }
-
-        .question-text {
-            font-size: 36px;
-            font-weight: 600;
-            color: #F8FAFC;
-            line-height: 1.5;
-        }
-
-        .correct-answer-card {
-            background: #064E3B; /* Koyu yeşil */
-            border: 3px solid #10B981;
-            border-radius: 24px;
-            padding: 40px;
-            display: flex;
-            align-items: center;
-            margin-bottom: 40px;
-            box-shadow: 0 15px 30px rgba(16,185,129,0.1);
-        }
-
-        .correct-letter {
-            background-color: #10B981;
-            color: #000000;
-            width: 80px;
-            height: 80px;
-            border-radius: 20px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-weight: 800;
-            margin-right: 30px;
-            flex-shrink: 0;
-            font-size: 40px;
-            box-shadow: 0 10px 20px rgba(16,185,129,0.3);
-        }
-
-        .correct-text {
-            font-size: 38px;
+        .badge-subject {
+            background: rgba(16, 185, 129, 0.15);
+            border: 1.5px solid rgba(16, 185, 129, 0.35);
+            color: #34D399;
+            padding: 14px 28px;
+            border-radius: 100px;
+            font-size: 26px;
             font-weight: 700;
-            color: #A7F3D0; /* Açık parlak yeşil */
         }
-
-        .explanation-card {
-            background: #1C153B;
+        .badge-tag {
+            background: rgba(255, 255, 255, 0.06);
+            color: #94A3B8;
+            padding: 14px 26px;
+            border-radius: 100px;
+            font-size: 24px;
+            font-weight: 600;
+        }
+        .question-box {
+            background: #141923;
+            border: 1.5px solid rgba(255, 255, 255, 0.08);
             border-radius: 32px;
-            padding: 50px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
-            border: 1px solid rgba(255, 255, 255, 0.05);
-            flex-grow: 1;
-            border-left: 12px solid #8B5CF6; /* Mor vurgu */
-        }
-
-        .explanation-title {
-            font-size: 32px;
-            font-weight: 800;
-            color: #C4B5FD;
+            padding: 45px 50px;
             margin-bottom: 30px;
+            opacity: 0.9;
+        }
+        .question-box p {
+            font-size: 34px;
+            font-weight: 600;
+            line-height: 1.5;
+            color: #CBD5E1;
+        }
+        .correct-box {
+            background: linear-gradient(135deg, rgba(6, 78, 59, 0.9) 0%, rgba(6, 95, 70, 0.7) 100%);
+            border: 2px solid #10B981;
+            border-radius: 28px;
+            padding: 35px 40px;
+            display: flex;
+            align-items: center;
+            margin-bottom: 35px;
+            box-shadow: 0 15px 35px rgba(16, 185, 129, 0.2);
+        }
+        .correct-letter {
+            width: 76px;
+            height: 76px;
+            border-radius: 20px;
+            background: #10B981;
+            color: #022C22;
+            font-size: 38px;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 28px;
+            flex-shrink: 0;
+            box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);
+        }
+        .correct-info {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+        .correct-label {
+            font-size: 22px;
+            font-weight: 700;
+            color: #6EE7B7;
             text-transform: uppercase;
             letter-spacing: 1px;
+        }
+        .correct-text {
+            font-size: 36px;
+            font-weight: 700;
+            color: #ECFDF5;
+        }
+        .explanation-box {
+            background: #141923;
+            border: 1.5px solid rgba(255, 255, 255, 0.08);
+            border-radius: 32px;
+            padding: 50px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            border-left: 10px solid #6366F1;
+        }
+        .exp-header {
             display: flex;
             align-items: center;
+            gap: 14px;
+            font-size: 28px;
+            font-weight: 800;
+            color: #A5B4FC;
+            margin-bottom: 25px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
-        
-        .explanation-title::before {
-            content: "💡";
-            margin-right: 15px;
-            font-size: 40px;
-        }
-
-        .explanation-text {
+        .exp-text {
             font-size: 34px;
-            line-height: 1.6;
+            line-height: 1.65;
             color: #E2E8F0;
             font-weight: 500;
         }
-
         .footer {
             text-align: center;
-            font-size: 28px;
-            color: #64748B;
+            color: #475569;
+            font-size: 26px;
             font-weight: 600;
-            padding-bottom: 40px;
-            margin-top: 40px;
+            margin-top: 30px;
         }
     </style>
 </head>
 <body>
-    <div class="header-bg">
-        <div class="app-badge">Cevap Anahtarı</div>
-        <div class="konu-adi">{{ ders_adi }}</div>
+    <div class="header">
+        <div class="badge-subject">✅ {{ ders_adi }}</div>
+        <div class="badge-tag">Cevap & Açıklama</div>
     </div>
     
-    <div class="content">
-        <div class="question-card">
-            <div class="question-text">{{ soru }}</div>
-        </div>
-        
-        <div class="correct-answer-card">
-            <div class="correct-letter">{{ dogru_cevap_harf }}</div>
-            <div class="correct-text">{{ dogru_cevap_metin }}</div>
-        </div>
+    <div class="question-box">
+        <p>{{ soru }}</p>
+    </div>
 
-        <div class="explanation-card">
-            <div class="explanation-title">Çözüm & Açıklama</div>
-            <div class="explanation-text">{{ gerekce }}</div>
+    <div class="correct-box">
+        <div class="correct-letter">{{ dogru_cevap_harf }}</div>
+        <div class="correct-info">
+            <span class="correct-label">Doğru Seçenek</span>
+            <span class="correct-text">{{ dogru_cevap_metin }}</span>
         </div>
     </div>
-    
+
+    <div class="explanation-box">
+        <div class="exp-header">
+            <span>💡</span>
+            <span>Çözüm & Hukuki Gerekçe</span>
+        </div>
+        <p class="exp-text">{{ gerekce }}</p>
+    </div>
+
     <div class="footer">Daha fazla soru için takipte kal @HukukLA</div>
 </body>
 </html>
