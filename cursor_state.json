@@ -1,5 +1,5 @@
 {
-  "current_topic_index": 0,
+  "current_topic_index": 1,
   "current_question_index": 3,
   "topic_progress": {
     "hukuk_felsefesi_ve_sosyolojisi.json": 4,
@@ -10,6 +10,7 @@
     "tasima_isleri_hukuku.json": 4,
     "tc_anayasasi.json": 1,
     "ticaret_sirketleri_hukuku.json": 1,
-    "turk_hukuk_tarihi.json": 24
+    "turk_hukuk_tarihi.json": 24,
+    "1136_sayili_avukatlik_kanunu.json": 3
   }
 }
