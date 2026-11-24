@@ -1,5 +1,5 @@
 {
-  "current_topic_index": 6,
+  "current_topic_index": 7,
   "current_question_index": 3,
   "topic_progress": {
     "hukuk_felsefesi_ve_sosyolojisi.json": 4,
@@ -16,6 +16,7 @@
     "2577_sayili_idari_yargilama_usulu_kanunu.json": 3,
     "4857_sayili_is_kanunu.json": 10,
     "5237_sayili_turk_ceza_kanunu_genel_hukumler.json": 1,
-    "5237_sayili_turk_ceza_kanunu_ozel_hukumler.json": 2
+    "5237_sayili_turk_ceza_kanunu_ozel_hukumler.json": 2,
+    "5271_sayili_ceza_muhakemesi_kanunu.json": 3
   }
 }
