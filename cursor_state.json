@@ -1,5 +1,5 @@
 {
-  "current_topic_index": 9,
+  "current_topic_index": 10,
   "current_question_index": 3,
   "topic_progress": {
     "hukuk_felsefesi_ve_sosyolojisi.json": 4,
@@ -19,6 +19,7 @@
     "5237_sayili_turk_ceza_kanunu_ozel_hukumler.json": 2,
     "5271_sayili_ceza_muhakemesi_kanunu.json": 3,
     "5326_sayili_kabahatler_kanunu.json": 1,
-    "5510_sayili_sosyal_sigortalar_ve_genel_saglik_sigortasi_kanunu.json": 2
+    "5510_sayili_sosyal_sigortalar_ve_genel_saglik_sigortasi_kanunu.json": 2,
+    "5718_sayili_milletler_arasi_ozel_hukuk_ve_usul_hukuku_hakkinda_kanun.json": 17
   }
 }
